@@ -1,0 +1,201 @@
+﻿mame,MAME%1997%Nicola Salmoria%Software Emulator%CPU: Multiple Platforms
+mame-libretro,MAME%1998%Nicola Salmoria%Software Emulator%CPU: Multiple Platforms
+mame_libretro,MAME%1999%Nicola Salmoria%Software Emulator%CPU: Multiple Platforms
+mame-mame4all,MAME%2000%Nicola Salmoria%Software Emulator%CPU: Multiple Platforms
+mame_mame4all,MAME%2001%Nicola Salmoria%Software Emulator%CPU: Multiple Platforms
+arcade,MAME%2002%Nicola Salmoria%Software Emulator%CPU: Multiple Platforms
+mame-advmame,MAME%2003%Nicola Salmoria%Software Emulator%CPU: Multiple Platforms
+mame_advmame,MAME%2004%Nicola Salmoria%Software Emulator%CPU: Multiple Platforms
+atari 2600,Atari 2600%1977%Atari Corporation%Units Sold: 30 Million%CPU: 8-bit MOS Technology 6507
+atari_2600,Atari 2600%1977%Atari Corporation%Units Sold: 30 Million%CPU: 8-bit MOS Technology 6507
+amstrad cpc,Armstrad CPC%1984%Amstrad%Units Sold: 3 Million%CPU: Zilog Z80A
+amstrad_cpc,Armstrad CPC%1984%Amstrad%Units Sold: 3 Million%CPU: Zilog Z80A
+amstrad gx4000,Armstrad GX4000%1990%Amstrad%Units Sold: 15000%CPU: Zilog Z80
+apple II,Apple II%1977%Apple Corporation%Units Sold: 6 Million%CPU: MOS Technology 6502
+apple_II,Apple II%1977%Apple Corporation%Units Sold: 6 Million%CPU: MOS Technology 6502
+neogeo,Neo Geo%1990%SNK Corporation%Units Sold: 1 Million%CPU: Motorola 68000
+Neo Geo,Neo Geo%1990%SNK Corporation%Units Sold: 1 Million%CPU: Motorola 68000
+atari_7800,"Atari 7800%1986%Atari Corporation%Units Sold: 100000%CPU: Atari SALLY 6502 (""6502C"")"
+atari jaguar,Atari Jaguar%1993%Atari Corporation%Units Sold: 250000%CPU: Motorola 68000
+atari_jaguar,Atari Jaguar%1994%Atari Corporation%Units Sold: 250000%CPU: Motorola 68001
+atari jaguar cd,Atari Jaguar CD%1995%Atari Corporation%Units Sold: 20000%CPU: Motorola 68001
+atari_jaguar_cd,Atari Jaguar CD%1995%Atari Corporation%Units Sold: 20000%CPU: Motorola 68001
+atari lynx,Atari Lynx%1989%Atari Corporation%Units Sold: 3 Million%CPU: WDC 65SC02 8-bit CPU
+atari_lynx,Atari Lynx%1989%Atari Corporation%Units Sold: 3 Million%CPU: WDC 65SC02 8-bit CPU
+bandai super vision 8000,Bandai Super Vision 8000%1979%Bandai%Units Sold: ?%CPU: NEC D780C
+bandai wonderswan,WonderSwan%1998%Bandai%Units Sold: 1.55 Million%CPU: NEC V30 MZ
+bandai_wonderswan,WonderSwan%1998%Bandai%Units Sold: 1.55 Million%CPU: NEC V30 MZ
+bandai wonderswan color,WonderSwan Color%2000%Bandai%Units Sold: 1.1 Million%CPU: NEC V30 MZ
+bandai_wonderswan_color,WonderSwan Color%2000%Bandai%Units Sold: 1.1 Million%CPU: NEC V30 MZ
+capcom classics,capcomclassics%%%Units Sold: %CPU: 
+capcom_classics,capcomclassics%%%Units Sold: %CPU: 
+capcom play pystem,Capcom Play System%1988%Capcom%Units Sold: ?%CPU: Motorola 68000
+capcom_play_pystem,Capcom Play System%1988%Capcom%Units Sold: ?%CPU: Motorola 68000
+capcom play system II,Capcom Play System II%1993%Capcom%Units Sold: ?%CPU: Motorola 68000
+capcom play system III,Capcom Play System III%1996%Capcom%Units Sold: ?%CPU: Hitachi HD6417099 25 MHz
+capcom_play_system,Capcom Play System%1988%Capcom%Units Sold: ?%CPU: Motorola 68000
+capcom_play_system_ii,Capcom Play System II%1993%Capcom%Units Sold: ?%CPU: Motorola 68000
+capcom_play_system_iii,Capcom Play System III%1996%Capcom%Units Sold: ?%CPU: Hitachi HD6417099 25 MHz
+cave,CAVE%1995%Cave Interactive%Bullet Hell%Shoot 'em ups
+taito_type_x,Taito Arcade Board%2004%Taito%Units Sold: ?%CPU: Intel Celeron 2.5 GHz
+scummvm,Script Creation Utility for Maniac Mansion Virtual Machine %2001%Ludvig Strigeus%Units Sold: ?%CPU: PC
+sega_st-v,Sega Arcade Board%?%?%Units Sold: ?%CPU: ?
+colecovision,colecovision%%%Units Sold: %CPU: 
+commodore 128,commodore 128%%%Units Sold: %CPU: 
+commodore_128,commodore_128%%%Units Sold: %CPU: 
+commodore 16 & plus4,commodore 16 & plus4%%%Units Sold: %CPU: 
+commodore 64,commodore 64%%%Units Sold: %CPU: 
+commodore_64,commodore_64%%%Units Sold: %CPU: 
+commodore amiga,commodore amiga%%%Units Sold: %CPU: 
+commodore_amiga,commodore_amiga%%%Units Sold: %CPU: 
+commodore amiga cd32,commodore amiga cd32%%%Units Sold: %CPU: 
+commodore_amiga_cd32,commodore_amiga_cd32%%%Units Sold: %CPU: 
+commodore vic-20,commodore vic-20%%%Units Sold: %CPU: 
+commodore_vic-20,commodore_vic-20%%%Units Sold: %CPU: 
+final burn alpha,final burn alpha%%%Units Sold: %CPU: 
+final_burn_alpha,final_burn_alpha%%%Units Sold: %CPU: 
+future pinball,future pinball%%%Units Sold: %CPU: 
+future_pinball,future_pinball%%%Units Sold: %CPU: 
+gce vectrex,gce vectrex%%%Units Sold: %CPU: 
+gce_vectrex,gce_vectrex%%%Units Sold: %CPU: 
+magnavox odyssey,magnavox odyssey%%%Units Sold: %CPU: 
+magnavox_odyssey,magnavox_odyssey%%%Units Sold: %CPU: 
+magnavox odyssey 2,magnavox odyssey 2%%%Units Sold: %CPU: 
+magnavox_odyssey 2,magnavox_odyssey 2%%%Units Sold: %CPU: 
+mattel intellivision,mattel intellivision%%%Units Sold: %CPU: 
+mattel_intellivision,mattel_intellivision%%%Units Sold: %CPU: 
+microsoft msx,microsoft msx%%%Units Sold: %CPU: 
+microsoft_msx,microsoft_msx%%%Units Sold: %CPU: 
+microsoft msx2,microsoft msx2%%%Units Sold: %CPU: 
+microsoft_msx2,microsoft_msx2%%%Units Sold: %CPU: 
+microsoft msx2+,microsoft msx2+%%%Units Sold: %CPU: 
+microsoft windows 3.x,microsoft windows 3.x%%%Units Sold: %CPU: 
+microsoft_windows_3.x,microsoft_windows_3.x%%%Units Sold: %CPU: 
+misfit mame,misfit mame%%%Units Sold: %CPU: 
+misfit_mame,misfit_mame%%%Units Sold: %CPU: 
+nec pc engine,nec pc engine%%%Units Sold: %CPU: 
+nec_pc_engine,nec_pc_engine%%%Units Sold: %CPU: 
+nec pc engine-cd,nec pc engine-cd%%%Units Sold: %CPU: 
+nec pc-8801,nec pc-8801%%%Units Sold: %CPU: 
+nec pc-9801,nec pc-9801%%%Units Sold: %CPU: 
+nec pc-fx,nec pc-fx%%%Units Sold: %CPU: 
+nec supergrafx,nec supergrafx%%%Units Sold: %CPU: 
+nec_supergrafx,nec_supergrafx%%%Units Sold: %CPU: 
+nec turbografx-16,nec turbografx-16%%%Units Sold: %CPU: 
+nec_turbografx-16,nec_turbografx-16%%%Units Sold: %CPU: 
+nec turbografx-cd,nec turbografx-cd%%%Units Sold: %CPU: 
+nec_turbografx_cd,nec_turbografx_cd%%%Units Sold: %CPU: 
+nec_turbografx-cd,nec_turbografx-cd%%%Units Sold: %CPU: 
+nintendo 64dd,nintendo 64dd%%%Units Sold: %CPU: 
+nintendo_64,nintendo_64%%%Units Sold: %CPU: 
+nintendo 64,nintendo 64%%%Units Sold: %CPU: 
+nintendo entertainment system,nintendo entertainment system%%%Units Sold: %CPU: 
+nintendo_entertainment_system,nintendo_entertainment_system%%%Units Sold: %CPU: 
+nintendo famicom,nintendo famicom%%%Units Sold: %CPU: 
+nintendo_famicom,nintendo_famicom%%%Units Sold: %CPU: 
+nintendo famicom disk system,nintendo famicom disk system%%%Units Sold: %CPU: 
+nintendo_famicom_disk_system,nintendo_famicom_disk_system%%%Units Sold: %CPU: 
+nintendo game boy,nintendo game boy%%%Units Sold: %CPU: 
+nintendo_game_boy,nintendo_game_boy%%%Units Sold: %CPU: 
+nintendo game boy advance,nintendo game boy advance%%%Units Sold: %CPU: 
+nintendo_game_boy_advance,nintendo_game_boy_advance%%%Units Sold: %CPU: 
+nintendo game boy color,nintendo game boy color%%%Units Sold: %CPU: 
+nintendo_game_boy_color,nintendo_game_boy_color%%%Units Sold: %CPU: 
+nintendo gamecube,nintendo gamecube%%%Units Sold: %CPU: 
+nintendo_gamecube,nintendo_gamecube%%%Units Sold: %CPU: 
+nintendo pokemon mini,nintendo pokemon mini%%%Units Sold: %CPU: 
+nintendo satellaview,nintendo satellaview%%%Units Sold: %CPU: 
+nintendo super famicom,nintendo super famicom%%%Units Sold: %CPU: 
+nintendo super game boy,nintendo super game boy%%%Units Sold: %CPU: 
+nintendo_super_game_boy,nintendo_super_game_boy%%%Units Sold: %CPU: 
+nintendo virtual boy,nintendo virtual boy%%%Units Sold: %CPU: 
+nintendo_virtual_boy,nintendo_virtual_boy%%%Units Sold: %CPU: 
+nintendo wii,nintendo wii%%%Units Sold: %CPU: 
+nintendo_wii,nintendo_wii%%%Units Sold: %CPU: 
+nintendo wii u,nintendo wii u%%%Units Sold: %CPU: 
+nintendo_wii_u,nintendo_wii_u%%%Units Sold: %CPU: 
+nintendo wiiware,nintendo wiiware%%%Units Sold: %CPU: 
+panasonic 3do,panasonic 3do%%%Units Sold: %CPU: 
+panasonic_3do,panasonic_3do%%%Units Sold: %CPU: 
+pc games,pc games%%%Units Sold: %CPU: 
+pc_games,pc_games%%%Units Sold: %CPU: 
+pinball fx2,pinball fx2%%%Units Sold: %CPU: 
+pinball_fx2,pinball_fx2%%%Units Sold: %CPU: 
+sega 32x,sega 32x%%%Units Sold: %CPU: 
+sega_32x,sega_32x%%%Units Sold: %CPU: 
+sega cd,sega cd%%%Units Sold: %CPU: 
+sega_cd,sega_cd%%%Units Sold: %CPU: 
+sega classics,sega classics%%%Units Sold: %CPU: 
+sega_classics,sega_classics%%%Units Sold: %CPU: 
+sega dreamcast,sega dreamcast%%%Units Sold: %CPU: 
+sega_dreamcast,sega_dreamcast%%%Units Sold: %CPU: 
+sega game gear,sega game gear%%%Units Sold: %CPU: 
+sega_game_gear,sega_game_gear%%%Units Sold: %CPU: 
+sega genesis,sega genesis%%%Units Sold: %CPU: 
+sega_genesis,sega_genesis%%%Units Sold: %CPU: 
+sega hikaru,sega hikaru%%%Units Sold: %CPU: 
+sega_hikaru,sega_hikaru%%%Units Sold: %CPU: 
+sega master system,sega master system%%%Units Sold: %CPU: 
+sega_master_system,sega_master_system%%%Units Sold: %CPU: 
+sega model 2,sega model 2%%%Units Sold: %CPU: 
+sega_model_2,sega_model_2%%%Units Sold: %CPU: 
+sega model 3,sega model 3%%%Units Sold: %CPU: 
+sega_model_3,sega_model_3%%%Units Sold: %CPU: 
+sega naomi,sega naomi%%%Units Sold: %CPU: 
+sega pico,sega pico%%%Units Sold: %CPU: 
+sega saturn,sega saturn%%%Units Sold: %CPU: 
+sega_saturn,sega_saturn%%%Units Sold: %CPU: 
+sega sc-3000,sega sc-3000%%%Units Sold: %CPU: 
+sega_sc-3000,sega_sc-3000%%%Units Sold: %CPU: 
+sega sg-1000,sega sg-1000%%%Units Sold: %CPU: 
+sega st-v,sega st-v%%%Units Sold: %CPU: 
+sega triforce,sega triforce%%%Units Sold: %CPU: 
+sega vmu,sega vmu%%%Units Sold: %CPU: 
+sinclair zx spectrum,sinclair zx spectrum%%%Units Sold: %CPU: 
+sinclair_zx_spectrum,sinclair_zx_spectrum%%%Units Sold: %CPU: 
+sinclair zx81,sinclair zx81%%%Units Sold: %CPU: 
+sinclair_zx81,sinclair_zx81%%%Units Sold: %CPU: 
+snk classics,snk classics%%%Units Sold: %CPU: 
+snk_classics,snk_classics%%%Units Sold: %CPU: 
+snk neo geo,snk neo geo%%%Units Sold: %CPU: 
+snk_neo_geo,snk_neo_geo%%%Units Sold: %CPU: 
+snk neo geo aes,snk neo geo aes%%%Units Sold: %CPU: 
+snk_neo_geo_aes,snk_neo_geo_aes%%%Units Sold: %CPU: 
+snk neo geo cd,snk neo geo cd%%%Units Sold: %CPU: 
+snk_neo_geo_cd,snk_neo_geo_cd%%%Units Sold: %CPU: 
+snk neo geo mvs,snk neo geo mvs%%%Units Sold: %CPU: 
+snk_neo_geo_mvs,snk_neo_geo_mvs%%%Units Sold: %CPU: 
+snk neo geo pocket,snk neo geo pocket%%%Units Sold: %CPU: 
+snk_neo_geo_pocket,snk_neo_geo_pocket%%%Units Sold: %CPU: 
+snk neo geo pocket color,snk neo geo pocket color%%%Units Sold: %CPU: 
+snk_neo_geo_pocket_color,snk_neo_geo_pocket_color%%%Units Sold: %CPU: 
+sony psp minis,sony psp minis%%%Units Sold: %CPU: 
+sony_psp_minis,sony_psp_minis%%%Units Sold: %CPU: 
+sony playstation,sony playstation%%%Units Sold: %CPU: 
+sony_playstation,sony_playstation%%%Units Sold: %CPU: 
+sony playstation 2,sony playstation 2%%%Units Sold: %CPU: 
+sony_playstation_2,sony_playstation_2%%%Units Sold: %CPU: 
+sony pocketstation,sony pocketstation%%%Units Sold: %CPU: 
+sony_pocketstation,sony_pocketstation%%%Units Sold: %CPU: 
+sony psp,sony psp%%%Units Sold: %CPU: 
+sony_psp,sony_psp%%%Units Sold: %CPU: 
+super nintendo entertainment system,super nintendo entertainment system%%%Units Sold: %CPU: 
+super_nintendo_entertainment_system,super_nintendo_entertainment_system%%%Units Sold: %CPU: 
+visual pinball,visual pinball%%%Units Sold: %CPU: 
+visual_pinball,visual_pinball%%%Units Sold: %CPU: 
+mame,mame%%%Units Sold: %CPU: 
+neogeo,neogeo%%%Units Sold: %CPU: 
+atari2600,atari2600%%%Units Sold: %CPU: 
+amstradcpc,amstradcpc%%%Units Sold: %CPU: 
+wonderswan,wonderswan%%%Units Sold: %CPU: 
+capcom,capcom%%%Units Sold: %CPU: 
+c64,c64%%%Units Sold: %CPU: 
+futurepinball,futurepinball%%%Units Sold: %CPU: 
+pcengine,pcengine%%%Units Sold: %CPU: 
+nes,nes%%%Units Sold: %CPU: 
+gba,gba%%%Units Sold: %CPU: 
+segacd,segacd%%%Units Sold: %CPU: 
+gamegear,gamegear%%%Units Sold: %CPU: 
+saturn,saturn%%%Units Sold: %CPU: 
+ngp,ngp%%%Units Sold: %CPU: 
+visualpinball,visualpinball%%%Units Sold: %CPU: 

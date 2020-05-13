@@ -1,0 +1,178 @@
+﻿mame-libretro,mame
+mame_libretro,mame
+mame-mame4all,mame
+mame_mame4all,mame
+arcade,mame
+mame-advmame,neogeo
+mame_advmame,neogeo
+atari 2600,atari2600
+atari_2600,atari2600
+amstrad cpc,amstradcpc
+amstrad_cpc,amstradcpc
+amstrad gx4000,amstradcpc
+apple II,apple2
+apple_II,apple2
+atari 5200,atari5200
+atari_5200,atari5200
+atari 7800,atari7800
+atari_7800,atari7800
+atari jaguar,atarijaguar
+atari_jaguar,atarijaguar
+atari jaguar cd,atarijaguar
+atari_jaguar_cd,atarijaguar
+atari lynx,atarilynx
+atari_lynx,atarilynx
+bandai super vision 8000,wonderswan
+bandai wonderswan,wonderswan
+bandai_wonderswan,wonderswan
+bandai wonderswan color,wonderswancolor
+bandai_wonderswan_color,wonderswancolor
+capcom classics,capcom
+capcom_classics,capcom
+capcom play pystem,capcom
+capcom_play_pystem,capcom
+capcom play system II,capcom
+capcom play system III,capcom
+colecovision,coleco
+commodore 128,c64
+commodore_128,c64
+commodore 16 & plus4,c64
+commodore 64,c64
+commodore_64,c64
+commodore amiga,amiga
+commodore_amiga,amiga
+commodore amiga cd32,amiga
+commodore_amiga_cd32,amiga
+commodore vic-20,c64
+commodore_vic-20,c64
+final burn alpha,fba
+final_burn_alpha,fba
+future pinball,futurepinball
+future_pinball,futurepinball
+gce vectrex,vectrex
+gce_vectrex,vectrex
+magnavox odyssey,odyssey
+magnavox_odyssey,odyssey
+magnavox odyssey 2,odyssey
+magnavox_odyssey 2,odyssey
+mattel intellivision,intellivision
+mattel_intellivision,intellivision
+microsoft msx,msx
+microsoft_msx,msx
+microsoft msx2,msx
+microsoft_msx2,msx
+microsoft msx2+,msx
+microsoft windows 3.x,pc
+microsoft_windows_3.x,pc
+misfit mame,mame
+misfit_mame,mame
+nec pc engine,pcengine
+nec_pc_engine,pcengine
+nec pc engine-cd,pcengine
+nec pc-8801,pcengine
+nec pc-9801,pcengine
+nec pc-fx,pcengine
+nec supergrafx,pcengine
+nec_supergrafx,pcengine
+nec turbografx-16,pcengine
+nec_turbografx-16,pcengine
+nec turbografx-cd,pcengine
+nec_turbografx_cd,pcengine
+nec_turbografx-cd,pcengine
+nintendo 64dd,n64
+nintendo_64,n64
+nintendo 64,n64
+nintendo entertainment system,nes
+nintendo_entertainment_system,nes
+nintendo famicom,nes
+nintendo_famicom,nes
+nintendo famicom disk system,nes
+nintendo_famicom_disk_system,nes
+nintendo game boy,gb
+nintendo_game_boy,gb
+nintendo game boy advance,gba
+nintendo_game_boy_advance,gba
+nintendo game boy color,gbc
+nintendo_game_boy_color,gbc
+nintendo gamecube,nes
+nintendo_gamecube,nes
+nintendo pokemon mini,nes
+nintendo satellaview,nes
+nintendo super famicom,nes
+nintendo super game boy,gba
+nintendo_super_game_boy,gba
+nintendo virtual boy,nes
+nintendo_virtual_boy,nes
+nintendo wii,nes
+nintendo_wii,nes
+nintendo wii u,nes
+nintendo_wii_u,nes
+nintendo wiiware,nes
+panasonic 3do,3do
+panasonic_3do,3do
+pc games,pc
+pc_games,pc
+pinball fx2,futurepinball
+pinball_fx2,futurepinball
+sega 32x,sega32x
+sega_32x,sega32x
+sega cd,segacd
+sega_cd,segacd
+sega classics,sega32x
+sega_classics,sega32x
+sega dreamcast,dreamcast
+sega_dreamcast,dreamcast
+sega game gear,gamegear
+sega_game_gear,gamegear
+sega genesis,genesis
+sega_genesis,genesis
+sega hikaru,sega32x
+sega_hikaru,sega32x
+sega master system,mastersystem
+sega_master_system,mastersystem
+sega model 2,sega32x
+sega_model_2,sega32x
+sega model 3,sega32x
+sega_model_3,sega32x
+sega naomi,sega32x
+sega pico,sega32x
+sega saturn,saturn
+sega_saturn,saturn
+sega sc-3000,sega32x
+sega_sc-3000,sega32x
+sega sg-1000,sega32x
+sega st-v,sega32x
+sega triforce,sega32x
+sega vmu,sega32x
+sinclair zx spectrum,zxspectrum
+sinclair_zx_spectrum,zxspectrum
+sinclair zx81,zxspectrum
+sinclair_zx81,zxspectrum
+snk classics,neogeo
+snk_classics,neogeo
+snk neo geo,neogeo
+snk_neo_geo,neogeo
+snk neo geo aes,neogeo
+snk_neo_geo_aes,neogeo
+snk neo geo cd,neogeo
+snk_neo_geo_cd,neogeo
+snk neo geo mvs,neogeo
+snk_neo_geo_mvs,neogeo
+snk neo geo pocket,ngp
+snk_neo_geo_pocket,ngp
+snk neo geo pocket color,ngpc
+snk_neo_geo_pocket_color,ngpc
+sony psp minis,psp
+sony_psp_minis,psp
+sony playstation,psx
+sony_playstation,psx
+sony playstation 2,ps2
+sony_playstation_2,ps2
+sony pocketstation,psp
+sony_pocketstation,psp
+sony psp,psp
+sony_psp,psp
+super nintendo entertainment system,snes
+super_nintendo_entertainment_system,snes
+visual pinball,visualpinball
+visual_pinball,visualpinball

@@ -1,0 +1,9 @@
+Add your own png and gifs in this folder and then reference from the REST API like this:
+
+http://localhost:8080/arcade/<stream or write>/user/<your png or gif>
+
+Example:
+
+
+http://localhost:8080/arcade/stream/user/myfile.png
+http://localhost:8080/arcade/write/user/myfile.gif
