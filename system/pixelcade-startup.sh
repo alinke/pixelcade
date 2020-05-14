@@ -30,7 +30,7 @@ while [  $STATE == "error" ]; do
 pi_ip=$(ip addr | grep 'state UP' -A2 | tail -n1 | awk '{print $2}' | cut -f1  -d'/')
 # we connected so let's delete that file
 sudo rm $HOME/pixelcade/deletemeafterwificonnect.txt #delete that file so next time the error message will be different
-curl  "http://localhost:8080/text?t=Address:%20http://pixelcade.local%20or%20http://$pi_ip&c=green&size=24"
+curl  "http://localhost:8080/text?t=Address:%20http://pixelcade.local:8080%20or%20http://$pi_ip:8080&c=green&size=24"
 
 
 exit
