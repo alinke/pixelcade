@@ -134,7 +134,8 @@ sega model 2,sega32x
 sega_model_2,sega32x
 sega model 3,sega32x
 sega_model_3,sega32x
-sega naomi,sega32x
+sega naomi,sega_naomi
+naomi,sega_naomi
 sega pico,sega32x
 sega saturn,saturn
 sega_saturn,saturn
