@@ -18,6 +18,7 @@ if git stash pop | grep -q 'conflict'; then           #put back your local chang
   cd $HOME/pixelcade
   echo "${yellow}Auto resolving conflict(s) and keeping your version(s) of the conflicting file(s)...${white}"
   git checkout --theirs *                             #change theirs to ours if we want to keep the pixelcade version instead
+  grep -lr '<<<<<<<' * | xargs git checkout --theirs
   git add *
   git commit -m "Pixelcade Update $today"
   #git ls-files --unmerged | perl -n -e'/\t(.*)/ && print "$1\n"' | uniq | xargs -r git checkout --theirs #this doesn't work, cannot handle long file names with spaces
