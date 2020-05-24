@@ -19,7 +19,7 @@ if git stash pop | grep -q 'conflict'; then           #put back your local chang
   git add *
   git commit -m "Pixelcade Update $today"
 else
-  echo "${yellow}Update complete with no conflicts...${white}"
+  echo "${yellow}Update complete with no conflicts${white}"
 fi
 
 #for reference, here is the output of git stash pop if there is a conflict
