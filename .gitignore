@@ -9,3 +9,4 @@ Thumbs.db
 #Other files to ignore
 pixelcade-startup.sh
 *.log
+/lcdmarquees
