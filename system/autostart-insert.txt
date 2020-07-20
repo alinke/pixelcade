@@ -23,4 +23,3 @@ if [ "$startup" = false ] ; then
    sudo killall fbi
 fi
 cd $HOME/pixelcade && ./pixelweb -b &
-emulationstation #auto
