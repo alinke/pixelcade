@@ -3,6 +3,24 @@ mame_libretro,mame
 mame-mame4all,mame
 mame_mame4all,mame
 arcade,mame
+williams,mame
+trackball,mame
+taito,mame
+streetfighter,mame
+spaceinvaders,mame
+mortalkombat,mame
+snk,mame
+konami,mame
+lightgun,mame
+metalslug,mame
+namco,mame
+shmups,mame
+pacman,mame
+midway,mame
+irem,mame
+donkeykong,mame
+dataeast,mame
+castlevania,mame
 mame-advmame,neogeo
 mame_advmame,neogeo
 atari 2600,atari2600
@@ -177,3 +195,9 @@ super nintendo entertainment system,snes
 super_nintendo_entertainment_system,snes
 visual pinball,visualpinball
 visual_pinball,visualpinball
+tg16,nec_turbografx-16
+sfc,nintendo_super_famicom
+pspminis,sony_playstation_minis
+msx2,microsoft_msx2
+famicon,nintendo_famicom
+atomiswave,sammy_atomiswave
