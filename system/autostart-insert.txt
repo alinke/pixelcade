@@ -11,4 +11,5 @@ else
    #just waiting for the user to press a key or button on arcade controls
    sudo killall fbi
 fi
-cd $HOME/pixelcade && ./pixelweb -b &
+#cd $HOME/pixelcade && ./pixelweb -b &
+cd $HOME/pixelcade && java -jar pixelweb.jar -b &
