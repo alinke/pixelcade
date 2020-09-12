@@ -1,2 +1,2 @@
 # pixelcade
-Pixelcade for Raspberry Pi
+Pixelcade Artwork
