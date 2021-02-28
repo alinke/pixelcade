@@ -6,9 +6,11 @@ mame-mame4all,mame
 mame_mame4all,mame
 arcade,mame
 - arcade,mame
+-_arcade,mame
 - arcade official,mame
 - arcademame2003plus official sub,mame
 - ArcadeFavs Official SUB,mame
+-_arcadefavs,mame
 - Arcade Official,mame
 mame-advmame,mame
 mame_advmame,mame
@@ -70,6 +72,7 @@ future pinball,futurepinball
 future_pinball,futurepinball
 gce vectrex,vectrex
 gce_vectrex,vectrex
+laser_disc,daphne
 magnavox odyssey,odyssey
 magnavox_odyssey,odyssey
 magnavox odyssey 2,magnavox_odyssey_2
@@ -115,6 +118,7 @@ super_nintendo_entertainment_system,snes
 super-nintendo-entertainment-system,snes
 super nintendo official,snes
 nintendo_snes,snes
+-_super_nintendo,snes
 nintendo famicom,nintendo_famicom
 nintendo famicom disk system,nintendo_famicom_disk_system
 nintendo-famicom-disk-system,nintendo_famicom_disk_system
@@ -125,12 +129,14 @@ nintendo_game_boy,gb
 game boy official,gb
 nintendo game boy advance,gba
 nintendo_game_boy_advance,gba
+game_boy_advance,gba
 nintendo game boy color,gbc
 nintendo_game_boy_color,gbc
 nintendo_gameboy_color,gbc
 game boy color official,gbc
 nintendo gamecube,nintendo_gamecube
 nintendo-gamecube,nintendo_gamecube
+gamecube,nintendo_gamecube
 nintendo satellaview,nintendo_satellaview
 nintendo-satellaview,nintendo_satellaview
 nintendo virtual boy,virtualboy
@@ -148,6 +154,7 @@ pc games,pc
 pc_games,pc
 pce-cd,nec_pc_engine-cd
 pinball fx2,pinball_fx2
+ps1,psx
 sega 32x,sega32x
 sega_32x,sega32x
 sega cd,segacd
@@ -163,6 +170,7 @@ sega_game_gear,gamegear
 sega genesis,genesis
 sega_genesis,genesis
 genesis official,genesis
+-_genesis,genesis
 sega master system,mastersystem
 sega_master_system,mastersystem
 sega master system official,mastersystem
