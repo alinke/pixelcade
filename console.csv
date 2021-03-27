@@ -1,10 +1,13 @@
-3do official,3do
+3do_official,3do
 3DO Official,3do
 mame-libretro,mame
 mame_libretro,mame
 mame-mame4all,mame
 mame_mame4all,mame
 arcade,mame
+favorites,mame
+recent,mame
+all,mame
 - arcade,mame
 -_arcade,mame
 - arcade official,mame
@@ -12,6 +15,7 @@ arcade,mame
 - ArcadeFavs Official SUB,mame
 -_arcadefavs,mame
 - Arcade Official,mame
+-_arcade_official,mame
 mame-advmame,mame
 mame_advmame,mame
 shmups,mame
@@ -19,24 +23,24 @@ collections,mame
 main,mame
 platforms,console
 atari 2600,atari2600
-atari 2600 official,atari2600
+atari_2600_official,atari2600
 atari_2600,atari2600
 amstrad cpc,amstradcpc
 amstrad_cpc,amstradcpc
 amstrad cpc official,amstradcpc
-amiga official,amiga
+amiga_official,amiga
 apple II,apple2
 apple_II,apple2
 apple_ii,apple2
 atari 5200,atari5200
-atari 5200 official,atari5200
+atari_5200_official,atari5200
 atari_5200,atari5200
 atari 7800,atari7800
 atari_7800,atari7800
-atari 7800 official,atari7800
+atari_7800_official,atari7800
 atari jaguar,atarijaguar
 atari_jaguar,atarijaguar
-jaguar official,atarijaguar
+jaguar_official,atarijaguar
 atari jaguar cd,atarijaguar
 atari_jaguar_cd,atarijaguar
 atari lynx,atarilynx
@@ -79,7 +83,7 @@ magnavox odyssey 2,magnavox_odyssey_2
 magnavox_odyssey 2,magnavox_odyssey_2
 mattel intellivision,intellivision
 mattel_intellivision,intellivision
-intellivision official,intellivision
+intellivision_official,intellivision
 microsoft msx,msx
 microsoft_msx,msx
 microsoft msx2,microsoft_msx2
@@ -109,14 +113,14 @@ nintendo 64,n64
 nintendo_n64,n64
 nintendo entertainment system,nes
 nintendo_entertainment_system,nes
-nintendo entertainment system official,nes
+nintendo_entertainment_system_official,nes
 nintendo_nes,nes
 nintendo nes,nes
-openbor official,openbor
+openbor_official,openbor
 super nintendo entertainment system,snes
 super_nintendo_entertainment_system,snes
 super-nintendo-entertainment-system,snes
-super nintendo official,snes
+super_nintendo_official,snes
 nintendo_snes,snes
 -_super_nintendo,snes
 nintendo famicom,nintendo_famicom
@@ -126,14 +130,14 @@ nintendo super famicom,nintendo_super_famicom
 nintendo-super-famicom,nintendo_super_famicom
 nintendo game boy,gb
 nintendo_game_boy,gb
-game boy official,gb
+game_boy_official,gb
 nintendo game boy advance,gba
 nintendo_game_boy_advance,gba
 game_boy_advance,gba
 nintendo game boy color,gbc
 nintendo_game_boy_color,gbc
 nintendo_gameboy_color,gbc
-game boy color official,gbc
+game_boy_color_official,gbc
 nintendo gamecube,nintendo_gamecube
 nintendo-gamecube,nintendo_gamecube
 gamecube,nintendo_gamecube
@@ -145,7 +149,7 @@ nintendo-virtual_boy,virtualboy
 nintendo_virtual_boy,virtualboy
 nintendo wii,nintendo_wii
 nintendo-wii,nintendo_wii
-wii official,nintendo_wii
+wii_official,nintendo_wii
 nintendo wii u,nintendo_wii_u
 nintendo-wii-u,nintendo_wii_u
 panasonic 3do,3do
@@ -159,21 +163,22 @@ sega 32x,sega32x
 sega_32x,sega32x
 sega cd,segacd
 sega_cd,segacd
-sega cd official,segacd
+sega_cd_official,segacd
 sega classics,sega32x
 sega_classics,sega32x
 sega dreamcast,dreamcast
 sega_dreamcast,dreamcast
-dreamcast official,dreamcast
+dreamcast_official,dreamcast
+dreamcast_redream_official_sub,dreamcast
 sega game gear,gamegear
 sega_game_gear,gamegear
 sega genesis,genesis
 sega_genesis,genesis
-genesis official,genesis
+genesis_official,genesis
 -_genesis,genesis
 sega master system,mastersystem
 sega_master_system,mastersystem
-sega master system official,mastersystem
+sega_master_system_official,mastersystem
 sega model 2,sega_model_2
 sega-model-2,sega_model_2
 sega model 3,sega_model_3
@@ -183,7 +188,7 @@ sega-naomi,sega_naomi
 sega pico,sega_pico
 sega-pico,sega_pico
 sega saturn,sega_saturn
-saturn official,sega_saturn
+saturn_official,sega_saturn
 sega sc-3000,sega_sc_3000
 sega_sc-3000,sega_sc_3000
 sega sc 3000,sega_sc_3000
@@ -218,13 +223,14 @@ pspminis,sony_playstation_minis
 sony psp minis,sony_playstation_minis
 sony_psp_minis,sony_playstation_minis
 sony-psp-minis,sony_playstation_minis
+playstation_1_official,psx
 sony playstation,psx
 sony_playstation,psx
 sony-playstation,psx
 sony playstation 2,ps2
 sony_playstation_2,ps2
 sony-playstation_2,ps2
-playstation 2 official,ps2
+playstation_2_official,ps2
 sony pocketstation,sony_pocketstation
 sony-pocketstation,sony_pocketstation
 sony psp,psp
@@ -233,8 +239,8 @@ supergrafx, nec_supergrafx
 tg16,nec_turbografx_16
 tg16cd,nec_pc_engine_cd
 tg-cd,nec_turbografx_cd
-vectrex official,vectrex
-virtual boy official,virtualboy
+vectrex_official,vectrex
+virtual_boy_official,virtualboy
 visual pinball,visualpinball
 visual_pinball,visualpinball
 black,black
