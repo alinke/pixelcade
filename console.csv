@@ -8,6 +8,7 @@ arcade,mame
 favorites,mame
 recent,mame
 all,mame
+arcadeall,mame
 - arcade,mame
 -_arcade,mame
 - arcade official,mame
@@ -22,6 +23,7 @@ shmups,mame
 collections,mame
 main,mame
 platforms,console
+_allarcadeconsole,console
 atari 2600,atari2600
 atari_2600_official,atari2600
 atari_2600,atari2600
@@ -123,6 +125,7 @@ super-nintendo-entertainment-system,snes
 super_nintendo_official,snes
 nintendo_snes,snes
 -_super_nintendo,snes
+super_nintendo,snes
 nintendo famicom,nintendo_famicom
 nintendo famicom disk system,nintendo_famicom_disk_system
 nintendo-famicom-disk-system,nintendo_famicom_disk_system
@@ -224,17 +227,21 @@ sony psp minis,sony_playstation_minis
 sony_psp_minis,sony_playstation_minis
 sony-psp-minis,sony_playstation_minis
 playstation_1_official,psx
+playstation_1,psx
 sony playstation,psx
 sony_playstation,psx
 sony-playstation,psx
+playstation_2,ps2
 sony playstation 2,ps2
 sony_playstation_2,ps2
 sony-playstation_2,ps2
 playstation_2_official,ps2
+playstation_3,sony_playstation_3
 sony pocketstation,sony_pocketstation
 sony-pocketstation,sony_pocketstation
 sony psp,psp
 sony_psp,psp
+playstation_portable,psp
 supergrafx, nec_supergrafx
 tg16,nec_turbografx_16
 tg16cd,nec_pc_engine_cd
