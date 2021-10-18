@@ -13,6 +13,7 @@ class PixelCade {
      mame4all = "mame"
      mame172 = "mame"
      advmame = "mame"
+     mame230 = "mame"
      mame203 = "mame"
      mame094 = "mame"
      mame078 = "mame"
@@ -29,6 +30,7 @@ class PixelCade {
      openbor = "openbor"
      turbografx = "turbografx"
      supernintendo = "snes"
+     super_nintendo = "snes"
      atari2600 = "atari2600"
      atari7800 = "atari7800"
      colecovision = "coleco"
@@ -39,7 +41,7 @@ class PixelCade {
      pcengine = "pcengine"
      sega32x = "sega32x"
      segacd = "segacd"
-     supergrafx = "supergrafx"
+     supergrafx = "nec_supergrafx"
      vextrex = "vextrex"
 }
 
