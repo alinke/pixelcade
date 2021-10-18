@@ -4,15 +4,41 @@
 class UserConfig  {
 
 }
-// PixelCade
+// Pixelcade Plug in for Attract Mode Source
 class PixelCade {
 	user_config = null;
 	script_path = "";
 	emu_to_pixelcade_map = {
-	 Arcade = "mame"
-   mame4all = "mame"
-
-	}
+	   Arcade = "mame"
+     mame4all = "mame"
+     mame172 = "mame"
+     advmame = "mame"
+     mame203 = "mame"
+     mame094 = "mame"
+     mame078 = "mame"
+     gameboy = "gb"
+     gameboyadvance = "gba"
+     gameboycolor = "gbc"
+     commodore64 = "c64"
+     nintendo = "nes"
+     pcenginecd = "nec_pc_engine-cd"
+     playstation = "psx"
+     open_bor = "openbor"
+     turbografx_16 = "nec_turbografx-16"
+     supernintendo = "snes"
+     atari2600 = "atari2600"
+     atari7800 = "atari7800"
+     colecovision = "coleco"
+     genesis = "genesis"
+     daphne = "daphne"
+     mastersystem = "mastersystem"
+     megadrive = "megadrive"
+     pcengine = "pcengine"
+     sega32x = "sega32x"
+     segacd = "segacd"
+     supergrafx = "supergrafx"
+     vextrex = "vextrex"
+}
 
 	constructor() {
 		user_config = fe.get_config();
@@ -28,13 +54,24 @@ class PixelCade {
 				local game_title = fe.game_info(Info.Title,var);
 				local emulator_str = fe.game_info(Info.Emulator, var);
 				local rom_name = fe.game_info(Info.Name, var);
-			  print("Starting Game " + game_title + "\n");
-				print("Emulator is " + emulator_str + "\n");
+			  //print("Game Title " + game_title + "\n");
+				//print("Emulator is " + emulator_str + "\n");
+        //print("ROM name is " + rom_name + "\n");
+
+        local emulator_mapped = "mame";
+        try {
+            emulator_mapped=this.emu_to_pixelcade_map[emulator_str];
+          } catch(exception) {
+            emulator_mapped=emulator_str;
+        }
+        //print("mapped emulator is " + emulator_mapped + "\n");
+
 				local cmd_args = "\"" + game_title + "\"";
-				      cmd_args += " " + emulator_str;
-				      cmd_args += " " + rom_name;
-				print("Script path is " + this.script_path + "\n");
-				print("Cmd args are : " + cmd_args + "\n");
+              cmd_args += " " + "\"" + emulator_mapped + "\"";
+              cmd_args += " " + "\"" + rom_name + "\"";
+
+        //print("Script path is " + this.script_path + "\n");
+				print("[COMMAND] : " + cmd_args + "\n");
 				fe.plugin_command_bg(this.script_path + "/update_pixelcade.sh", cmd_args );
 				break;
 		}
