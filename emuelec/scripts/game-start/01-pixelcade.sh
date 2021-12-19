@@ -16,29 +16,30 @@
 #
 # This should prevent flickering after the game is exited.
 #
+rm -f /storage/roms/pixelcade/.game-start.sh > /dev/null 2>/dev/null
+rm -f /storage/roms/pixelcade/.game-end.sh > /dev/null 2>/dev/null
+
 SYSTEM=$(basename $(dirname "$1"))
-curl "http://localhost:8080/arcade/stream/$SYSTEM/$2"
+if [ "$SYSTEM" != "retropiemenu" ]; then #ignore the options menu
+	PREVIOUSGAMESELECTEDFILE="/storage/roms/pixelcade/.game-select"
+	PREVIOUSGAMESELECTED=$(cat "$PREVIOUSGAMESELECTEDFILE" 2>/dev/null)
+	#echo "curl --silent "http://localhost:8080/console/stream/nowloading"  > /dev/null 2>/dev/null" > /storage/roms/pixelcade/.game-start.sh
+	#echo "sleep 11s" >> /storage/roms/pixelcade/.game-start.sh
+	echo "rm -f \""$PREVIOUSGAMESELECTEDFILE"\" >/dev/null 2>/dev/null" >> /storage/roms/pixelcade/.game-start.sh
+	#echo  "/storage/.emulationstation/scripts/game-select/01-pixelcade.sh  \"$(basename $(dirname "$1"))\" \"$(basename "$1")\" \"$2\"" >> /storage/roms/pixelcade/.game-start.sh
+  echo  "/storage/.emulationstation/scripts/game-select/01-pixelcade.sh  \"$(basename $(dirname "$1"))\" \"$2\" \"$2\"" >> /storage/roms/pixelcade/.game-start.sh
+	echo "echo \""$PREVIOUSGAMESELECTED"\" > \""$PREVIOUSGAMESELECTEDFILE"\"" >> /storage/roms/pixelcade/.game-start.sh
 
-#if [ "$SYSTEM" != "retropiemenu" ]; then #ignore the options menu
-#	PREVIOUSGAMESELECTEDFILE="/storage/roms/pixelcade/.game-select"
-#	PREVIOUSGAMESELECTED=$(cat "$PREVIOUSGAMESELECTEDFILE" 2>/dev/null)
-#	echo "curl --silent "http://localhost:8080/console/stream/nowloading"  > /dev/null 2>/dev/null" > /storage/roms/pixelcade/.game-start.sh
-#	echo "sleep 11s" >> /storage/roms/pixelcade/.game-start.sh
-#	echo "rm -f \""$PREVIOUSGAMESELECTEDFILE"\" >/dev/null 2>/dev/null" >> /storage/roms/pixelcade/.game-start.sh
-#	echo  "/storage/.emulationstation/scripts/game-select/01-pixelcade.sh  \"$(basename $(dirname "$1"))\" \"$(basename "$1")\" \"$2\"" >> /storage/roms/pixelcade/.game-start.sh
-#	echo "echo \""$PREVIOUSGAMESELECTED"\" > \""$PREVIOUSGAMESELECTEDFILE"\"" >> /storage/roms/pixelcade/.game-start.sh
+	#echo "curl --silent "http://localhost:8080/text?t=Game%20Over"  > /dev/null 2>/dev/null" > /storage/roms/pixelcade/.game-end.sh
+	#echo "sleep 2s" >> /storage/roms/pixelcade/.game-end.sh
+	echo "rm -f \""$PREVIOUSGAMESELECTEDFILE"\" >/dev/null 2>/dev/null" >> /storage/roms/pixelcade/.game-end.sh
+	echo  "/storage/.emulationstation/scripts/game-select/01-pixelcade.sh  \"$(basename $(dirname "$1"))\" \"$2\" \"$2\"" >> /storage/roms/pixelcade/.game-end.sh
+	echo "echo \""$PREVIOUSGAMESELECTED"\" > \""$PREVIOUSGAMESELECTEDFILE"\"" >> /storage/roms/pixelcade/.game-end.sh
 
-#	echo "curl --silent "http://localhost:8080/console/stream/gameover"  > /dev/null 2>/dev/null" > /storage/roms/pixelcade/.game-end.sh
-#	echo "sleep 2s" >> /storage/roms/pixelcade/.game-end.sh
-#	echo "rm -f \""$PREVIOUSGAMESELECTEDFILE"\" >/dev/null 2>/dev/null" >> /storage/roms/pixelcade/.game-end.sh
-#	echo  "/storage/.emulationstation/scripts/game-select/01-pixelcade.sh  \"$(basename $(dirname "$1"))\" \"$(basename "$1")\" \"$2\"" >> /storage/roms/pixelcade/.game-end.sh
-#	echo "echo \""$PREVIOUSGAMESELECTED"\" > \""$PREVIOUSGAMESELECTEDFILE"\"" >> /storage/roms/pixelcade/.game-end.sh
-
-#	chmod +x /storage/roms/pixelcade/.game-start.sh
-#	chmod +x /storage/roms/pixelcade/.game-end.sh
-
-#	/storage/roms/pixelcade/.game-start.sh > /dev/null 2>/dev/null &
-#else
-#	rm -f /storage/roms/pixelcade/.game-start.sh > /dev/null 2>/dev/null
-#	rm -f /storage/roms/pixelcade/.game-end.sh > /dev/null 2>/dev/null
-#fi
+	chmod +x /storage/roms/pixelcade/.game-start.sh
+	chmod +x /storage/roms/pixelcade/.game-end.sh
+	/storage/roms/pixelcade/.game-start.sh > /dev/null 2>/dev/null &
+else
+	rm -f /storage/roms/pixelcade/.game-start.sh > /dev/null 2>/dev/null
+	rm -f /storage/roms/pixelcade/.game-end.sh > /dev/null 2>/dev/null
+fi
