@@ -22,7 +22,7 @@ if [  "$1" == "NULL" ] && [  "$2" == "NULL" ] && [ "$3" == "NULL" ]; then
 fi
 
 # BASE URL for RESTful calls to Pixelcade
-PIXELCADEBASEURL="http://localhost:8080/"
+PIXELCADEBASEURL="http://127.0.0.1:8080/"
 # name of the file that stores the last marquee selected
 PREVIOUSGAMESELECTEDFILE="/storage/roms/pixelcade/.game-select"
 # get the last previously selected game for the marquee
