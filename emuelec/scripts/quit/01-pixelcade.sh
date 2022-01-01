@@ -3,4 +3,6 @@
 #
 # $1 = quit mode, "reboot" or "shutdown"
 #
-/emuelec/scripts/system-select/01-pixelcade.sh "thankyou"
+PIXELCADEBASEURL="http://127.0.0.1:8080/"
+PIXELCADEURL="text?t=Bye" # use this one if you want a generic system/console marquee if the game marquee doesn't exist, don't forget the %20 for spaces!
+curl "$PIXELCADEBASEURL$PIXELCADEURL" >> /dev/null 2>/dev/null &

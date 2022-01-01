@@ -1,45 +1,48 @@
 #!/bin/sh
 
 #
-# $1 = The fully qualified name of the rom file
-# $2 = The name of the game associated to the rom file
+# $1 = The fully qualified name of the rom file (ex. /storage/roms/mame/digdug.zip)
+# $2 = The name of the game associated to the rom file (ex. digdug)
+# /storage/roms/mame/digdug.zip digdug
 #
 
-#
-# Write these commands to a separate bash script and execute as a new process so it doesn't tie up game starting
-#
-# 1. Saves the current selected game
-# 2. Displays the "Now Loading..." animated gif on the pixelcade
-# 3. Waits 11 seconds
-# 4. Sets the current selected game's logo (or the system logo using existing logic in game-select script
-# 5. Writes the previous selected game back
-#
-# This should prevent flickering after the game is exited.
-#
-rm -f /storage/roms/pixelcade/.game-start.sh > /dev/null 2>/dev/null
-rm -f /storage/roms/pixelcade/.game-end.sh > /dev/null 2>/dev/null
+rawurlencode() {  #this is needed for rom names with spaces
+  local string="${1}"
+  local strlen=${#string}
+  local encoded=""
+  local pos c o
 
-SYSTEM=$(basename $(dirname "$1"))
-if [ "$SYSTEM" != "retropiemenu" ]; then #ignore the options menu
-	PREVIOUSGAMESELECTEDFILE="/storage/roms/pixelcade/.game-select"
-	PREVIOUSGAMESELECTED=$(cat "$PREVIOUSGAMESELECTEDFILE" 2>/dev/null)
-	#echo "curl --silent "http://localhost:8080/console/stream/nowloading"  > /dev/null 2>/dev/null" > /storage/roms/pixelcade/.game-start.sh
-	#echo "sleep 11s" >> /storage/roms/pixelcade/.game-start.sh
-	echo "rm -f \""$PREVIOUSGAMESELECTEDFILE"\" >/dev/null 2>/dev/null" >> /storage/roms/pixelcade/.game-start.sh
-	#echo  "/storage/.emulationstation/scripts/game-select/01-pixelcade.sh  \"$(basename $(dirname "$1"))\" \"$(basename "$1")\" \"$2\"" >> /storage/roms/pixelcade/.game-start.sh
-  echo  "/storage/.emulationstation/scripts/game-select/01-pixelcade.sh  \"$(basename $(dirname "$1"))\" \"$2\" \"$2\"" >> /storage/roms/pixelcade/.game-start.sh
-	echo "echo \""$PREVIOUSGAMESELECTED"\" > \""$PREVIOUSGAMESELECTEDFILE"\"" >> /storage/roms/pixelcade/.game-start.sh
+  for (( pos=0 ; pos<strlen ; pos++ )); do
+     c=${string:$pos:1}
+     case "$c" in
+        [-_.~a-zA-Z0-9] ) o="${c}" ;;
+        * )               printf -v o '%%%02x' "'$c"
+     esac
+     encoded+="${o}"
+  done
+  echo "${encoded}"    # You can either set a return variable (FASTER)
+  REPLY="${encoded}"   #+or echo the result (EASIER)... or both... :p
+}
 
-	#echo "curl --silent "http://localhost:8080/text?t=Game%20Over"  > /dev/null 2>/dev/null" > /storage/roms/pixelcade/.game-end.sh
-	#echo "sleep 2s" >> /storage/roms/pixelcade/.game-end.sh
-	echo "rm -f \""$PREVIOUSGAMESELECTEDFILE"\" >/dev/null 2>/dev/null" >> /storage/roms/pixelcade/.game-end.sh
-	echo  "/storage/.emulationstation/scripts/game-select/01-pixelcade.sh  \"$(basename $(dirname "$1"))\" \"$2\" \"$2\"" >> /storage/roms/pixelcade/.game-end.sh
-	echo "echo \""$PREVIOUSGAMESELECTED"\" > \""$PREVIOUSGAMESELECTEDFILE"\"" >> /storage/roms/pixelcade/.game-end.sh
+# BASE URL for RESTful calls to Pixelcade
+PIXELCADEBASEURL="http://127.0.0.1:8080/"
+SYSTEM=$(basename $(dirname "$1")) #get just the console / system name like mame, nes, etc.
+GAMENAME="$2"
 
-	chmod +x /storage/roms/pixelcade/.game-start.sh
-	chmod +x /storage/roms/pixelcade/.game-end.sh
-	/storage/roms/pixelcade/.game-start.sh > /dev/null 2>/dev/null &
-else
-	rm -f /storage/roms/pixelcade/.game-start.sh > /dev/null 2>/dev/null
-	rm -f /storage/roms/pixelcade/.game-end.sh > /dev/null 2>/dev/null
-fi
+#we'll first scroll "Now Playing Game Name" and then show the marquee
+
+	if [ "$SYSTEM" != "" ] && [ "$GAMENAME" != "" ]; then
+	  #kill the Queue
+		PIXELCADEURL="console/stream/black"
+		curl "$PIXELCADEBASEURL$PIXELCADEURL" >> /dev/null 2>/dev/null &
+		URLENCODED_GAMENAME=$(rawurlencode "$GAMENAME")
+	  URLENCODED_TITLE=$(rawurlencode "$GAMENAME") #TO DO would be nice to get the game title here as opposed to the rom name, this would require a mod to ES
+		PIXELCADEURL="text?t=Now%20Playing%20"$URLENCODED_TITLE"&loop=1&event=GameStart" # use this one if you want a generic system/console marquee if the game marquee doesn't exist, don't forget the %20 for spaces!
+		curl "$PIXELCADEBASEURL$PIXELCADEURL" >> /dev/null 2>/dev/null &
+		PIXELCADEURL="arcade/stream/"$SYSTEM"/"$URLENCODED_GAMENAME"?loop=99999&event=GameStart" # use this one if you want a generic system/console marquee if the game marquee doesn't exist
+	  #PIXELCADEURL="arcade/stream/"$SYSTEM"/"$URLENCODED_FILENAME"?t="$URLENCODED_TITLE"" # use this one if you want scrolling text if the game marquee doesn't exist
+	  curl "$PIXELCADEBASEURL$PIXELCADEURL" >> /dev/null 2>/dev/null &
+	else
+		PIXELCADEURL="text?t=Error%20the%20system%20name%20or%20the%20game%20name%20is%20blank" # use this one if you want a generic system/console marquee if the game marquee doesn't exist, don't forget the %20 for spaces!
+		curl "$PIXELCADEBASEURL$PIXELCADEURL" >> /dev/null 2>/dev/null &
+	fi
