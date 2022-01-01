@@ -37,17 +37,17 @@ GAMENAME=$(echo "${GAMENAME%.*}") #remove the extension
 PREVIOUSGAMESELECTED=$(curl "http://127.0.0.1:8080/currentgame") #api call that gets the last game that was selected, returns mame,digdug
 CURRENTGAMESELECTED=""$SYSTEM","$GAMENAME""
 echo "${PREVIOUSGAMESELECTED} ${CURRENTGAMESELECTED}" > /emuelec/configs/last2.txt
-#let's be sure and skip the call if the current game is the same as the last game picked
 
+#let's skip the call if the current game is the same as the last game selected to avoid a marquee flicker
 if [ "$CURRENTGAMESELECTED" != "$PREVIOUSGAMESELECTED" ]; then
   if [ "$SYSTEM" != "" ] && [ "$GAMENAME" != "" ]; then
-    URLENCODED_GAMENAME=$(rawurlencode "$GAMENAME")
+    URLENCODED_GAMENAME=$(rawurlencode "$GAMENAME") #fyi, if we don't urlencode, games with spaces won't work
     URLENCODED_TITLE=$(rawurlencode "$3")
     PIXELCADEURL="arcade/stream/"$SYSTEM"/"$URLENCODED_GAMENAME"?event=FEScroll" # use this one if you want a generic system/console marquee if the game marquee doesn't exist
     #PIXELCADEURL="arcade/stream/"$SYSTEM"/"$URLENCODED_FILENAME"?t="$URLENCODED_TITLE"" # use this one if you want scrolling text if the game marquee doesn't exist
     curl "$PIXELCADEBASEURL$PIXELCADEURL" >> /dev/null 2>/dev/null &
   else
     PIXELCADEURL="text?t=Error%20the%20system%20name%20or%20the%20game%20name%20is%20blank" # use this one if you want a generic system/console marquee if the game marquee doesn't exist, don't forget the %20 for spaces!
-    curl "$PIXELCADEBASEURL$PIXELCADEURL" >> /dev/null 2>/dev/null &	
+    curl "$PIXELCADEBASEURL$PIXELCADEURL" >> /dev/null 2>/dev/null &
   fi
 fi
