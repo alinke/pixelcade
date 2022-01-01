@@ -31,6 +31,7 @@ SYSTEM=$(basename $(dirname "$1")) #get just the console / system name like mame
 GAMENAME="$2"
 if [ "$3" != "" ]; then
 		GAMETITLE="$3"  #then game title is populated
+    GAMETITLE=$(echo "$GAMETITLE" | cut -d'(' -f 1) #let's get rid of the ( ) part of the title, Ex. Alpine Ski (Ver 3), let's only get Alpine Ski
 else
 		GAMETITLE="$2"  #then game title is not there so we'll use the rom name
 fi
