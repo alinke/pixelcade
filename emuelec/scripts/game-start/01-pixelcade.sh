@@ -39,7 +39,8 @@ GAMENAME="$2"
 	  URLENCODED_TITLE=$(rawurlencode "$GAMENAME") #TO DO would be nice to get the game title here as opposed to the rom name, this would require a mod to ES
 		PIXELCADEURL="text?t=Now%20Playing%20"$URLENCODED_TITLE"&loop=1&event=GameStart" # use this one if you want a generic system/console marquee if the game marquee doesn't exist, don't forget the %20 for spaces!
 		curl "$PIXELCADEBASEURL$PIXELCADEURL" >> /dev/null 2>/dev/null &
-		PIXELCADEURL="arcade/stream/"$SYSTEM"/"$URLENCODED_GAMENAME"?loop=99999&event=GameStart" # use this one if you want a generic system/console marquee if the game marquee doesn't exist
+    sleep 1
+    PIXELCADEURL="arcade/stream/"$SYSTEM"/"$URLENCODED_GAMENAME"?loop=99999&event=GameStart" # use this one if you want a generic system/console marquee if the game marquee doesn't exist
 	  #PIXELCADEURL="arcade/stream/"$SYSTEM"/"$URLENCODED_FILENAME"?t="$URLENCODED_TITLE"" # use this one if you want scrolling text if the game marquee doesn't exist
 	  curl "$PIXELCADEBASEURL$PIXELCADEURL" >> /dev/null 2>/dev/null &
 	else
