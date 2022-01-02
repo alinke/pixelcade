@@ -10,6 +10,7 @@
 #*************************************************
 # These are parameters you can customize
 HOME="/storage/roms/"
+DISPLAYHIGHSCORES=yes
 NUMBERHIGHSCORES=3  #number of high scores to scroll, choose 1 for example to only show the top score
 CYCLEMODE=yes #cycle mode means we continually cycle between the game marquee and scrolling high scores. If set to no, then high scores will scroll only once on game launch and then display the game marquee
 NUMBER_MARQUEE_LOOPS=1 #for cycle mode, the number of times the animated marquee will loop before scrolling the high score text, this has no effect if it's a still image game marquee
@@ -99,7 +100,7 @@ havehighscore() {
       #let's make a call here if this game has high scores
       #TO DO let's make sure hi2txt is installed too
 
-      if [ -f $HI2TXT_JAR ] && [ -f $HI2TXT_DATA ]; then
+      if [ -f $HI2TXT_JAR ] && [ -f $HI2TXT_DATA ] && [ $DISPLAYHIGHSCORES == "yes" ]; then
 
       #let's locate the .hi file which is tricky as we don't know which folder it's in so we'll use this logic
       #if rom path is mame, then we'll get it from /storage/roms/mame/hi
@@ -125,7 +126,7 @@ havehighscore() {
               nohighscore
             fi
       else #hi2txt is not installed
-        echo "[ERROR] Please install these two hi2txt files here: $HI2TXT_JAR and $HI2TXT_DATA"
+        echo "[ERROR] Please install these two hi2txt files here: $HI2TXT_JAR and $HI2TXT_DATA or you have turned off high scores"
         nohighscore
       fi
 	else
