@@ -35,11 +35,12 @@ SYSTEM=$1
 GAMENAME=$(basename "$2") #get rid of the path, just want the game name only
 GAMENAME=$(echo "${GAMENAME%.*}") #remove the extension
 PREVIOUSGAMESELECTED=$(curl "http://127.0.0.1:8080/currentgame") #api call that gets the last game that was selected, returns mame,digdug
-CURRENTGAMESELECTED=""$SYSTEM","$GAMENAME""
-echo "${PREVIOUSGAMESELECTED} ${CURRENTGAMESELECTED}" > /emuelec/configs/last2.txt
+PREVIOUSGAMESELECTED=$(echo ${PREVIOUSGAMESELECTED} | cut -d "," -f 2)  # we just want digdug
+CURRENTGAMESELECTED="${GAMENAME}"
+#echo "${PREVIOUSGAMESELECTED} ${CURRENTGAMESELECTED}" > /emuelec/configs/last2.txt  #for debugging
 
 #let's skip the call if the current game is the same as the last game selected to avoid a marquee flicker
-if [ "$CURRENTGAMESELECTED" != "$PREVIOUSGAMESELECTED" ]; then
+if [ "${CURRENTGAMESELECTED}" != "${PREVIOUSGAMESELECTED}" ]; then
   if [ "$SYSTEM" != "" ] && [ "$GAMENAME" != "" ]; then
     URLENCODED_GAMENAME=$(rawurlencode "$GAMENAME") #fyi, if we don't urlencode, games with spaces won't work
     URLENCODED_TITLE=$(rawurlencode "$3")
