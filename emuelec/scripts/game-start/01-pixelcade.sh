@@ -26,6 +26,8 @@ if [ "$3" != "" ]; then
 else
 		GAMETITLE="$2"  #then game title is not there so we'll use the rom name
 fi
+#let's get rid of the parathesis in the Game title
+GAMETITLE=$(echo $GAMETITLE | cut -d "(" -f 1)
 
 rawurlencode() {  #this is needed for rom names with spaces
   local string="${1}"
