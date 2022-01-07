@@ -25,9 +25,9 @@ URLENCODED_TITLE=$(rawurlencode "$2")
 URLENCODED_DESC=$(rawurlencode "$3")
 ACHIEVEMENTID=$1
 
-PIXELCADECURRENTMARQUEE=$(curl "http://127.0.0.1:8080/currentgame") #api call that gets the last game selected, returns ex. mame,digdug
-CURRENTCONSOLE=$(echo $PIXELCADECURRENTMARQUEE | cut -d "," -f 1) #ex. mame
-CURRENTGAME=$(echo $PIXELCADECURRENTMARQUEE | cut -d "," -f 2)  #ex. digdug
+PIXELCADECURRENTMARQUEE=$(curl "http://127.0.0.1:8080/currentgame") #api call that gets the last game selected, returns ex. mame%digdug
+CURRENTCONSOLE=$(echo $PIXELCADECURRENTMARQUEE | cut -d "%" -f 1) #ex. mame
+CURRENTGAME=$(echo $PIXELCADECURRENTMARQUEE | cut -d "%" -f 2)  #ex. digdug
 CURRENTGAME=$(rawurlencode "$CURRENTGAME")
 echo $PIXELCADECURRENTMARQUEE
 PIXELCADEURL="achievements/stream/$CURRENTCONSOLE/$ACHIEVEMENTID?t=$URLENCODED_TITLE:$URLENCODED_DESC&currentgame=$CURRENTGAME"
