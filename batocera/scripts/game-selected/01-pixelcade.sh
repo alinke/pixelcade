@@ -38,7 +38,7 @@ PREVIOUSGAMESELECTED=$(curl "http://127.0.0.1:8080/currentgame") #api call that 
 PREVIOUSGAMESELECTED=$(echo $PREVIOUSGAMESELECTED | cut -d "," -f 2)  # we just want digdug
 CURRENTGAMESELECTED="$GAMENAME"
 
-echo "$PREVIOUSGAMESELECTED" > /userdata/pixelcade/lastgame.txt  #for debugging, we're not actually use this file
+echo "$PREVIOUSGAMESELECTED" > /userdata/system/pixelcade/lastgame.txt  #for debugging, we're not actually use this file
 
 #let's skip the call if the current game is the same as the last game selected to avoid a marquee flicker
 if [ "$CURRENTGAMESELECTED" != "$PREVIOUSGAMESELECTED" ]; then
