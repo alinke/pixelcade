@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #
 # $1 = The fully qualified name of the rom file (ex. /storage/roms/mame/digdug.zip)
