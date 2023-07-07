@@ -2,6 +2,7 @@
 3DO Official,3do
 3do_interactive_player,3do
 3do_interactive_multiplayer,3do
+3ds,nintendo_3ds
 mame-libretro,mame
 mame_libretro,mame
 mame-mame4all,mame
@@ -36,6 +37,7 @@ atari_2600,atari2600
 amstrad cpc,amstradcpc
 amstrad_cpc,amstradcpc
 amstrad cpc official,amstradcpc
+amiga1200,amiga
 amiga_official,amiga
 apple II,apple2
 apple_II,apple2
@@ -46,6 +48,7 @@ atari_5200,atari5200
 atari 7800,atari7800
 atari_7800,atari7800
 atari_7800_official,atari7800
+atomiswave,sammy_atomiswave
 jaguar,atarijaguar
 atari jaguar,atarijaguar
 atari_jaguar,atarijaguar
@@ -88,6 +91,7 @@ future pinball,futurepinball
 future_pinball,futurepinball
 gce vectrex,vectrex
 gce_vectrex,vectrex
+lightgun,gun_games
 gun_games_(sinden),gun_games
 american_laser_games,gun_games
 wow_action_max,gun_games
@@ -116,6 +120,7 @@ pc engine official,pcengine
 nec pc engine_cd,nec_pc_engine-cd
 nec-pc-engine_cd,nec_pc_engine-cd
 nec pc-engine cd,nec_pc_engine-cd
+pcenginecd,nec_pc_engine-cd
 nec pc-fx,nec_pc_fx
 nec_pc-fx,nec_pc_fx
 nec supergrafx,supergrafx
@@ -151,6 +156,7 @@ nintendo-famicom-disk-system,nintendo_famicom_disk_system
 nintendo super famicom,nintendo_super_famicom
 nintendo-super-famicom,nintendo_super_famicom
 super_famicom,nintendo_super_famicom
+gameandwatch,game_and_watch
 nintendo_game_&_watch,game_&_watch
 nintendo game boy,gb
 nintendo_game_boy,gb
@@ -174,15 +180,20 @@ nintendo_virtual_boy,virtualboy
 nintendo wii,nintendo_wii
 nintendo-wii,nintendo_wii
 wii_official,nintendo_wii
+wii,nintendo_wii
 nintendo wii u,nintendo_wii_u
 nintendo-wii-u,nintendo_wii_u
+wiiu,nintendo_wii_u
 panasonic 3do,3do
 panasonic_3do,3do
 pc games,pc
 pc_games,pc
+pc88,pc
+pc98,pc
 pce-cd,nec_pc_engine-cd
 pinball fx2,pinball_fx2
 ps1,psx
+ps3,sony_playstation_3
 sega 32x,sega32x
 sega_32x,sega32x
 sega cd,segacd
@@ -209,9 +220,12 @@ sega model 3,sega_model_3
 sega-model-3,sega_model_3
 sega naomi,sega_naomi
 sega-naomi,sega_naomi
+naomi,sega_naomi
+naomi2,sega_naomi
 sega pico,sega_pico
 sega-pico,sega_pico
 sega saturn,sega_saturn
+saturn,sega_saturn
 saturn_official,sega_saturn
 sega sc-3000,sega_sc_3000
 sega_sc-3000,sega_sc_3000
@@ -219,6 +233,7 @@ sega sc 3000,sega_sc_3000
 sega_sg_1000,sega_sg-1000
 sega sg-1000,sega_sg-1000
 sega sg 1000,sega_sg-1000
+sg1000,sega_sg-1000
 sega st_v,sega_st-v
 sega-st-v,sega_st-v
 sega triforce,sega_triforce
@@ -243,6 +258,7 @@ snk neo geo pocket,ngp
 snk_neo_geo_pocket,ngp
 snk neo geo pocket color,ngpc
 snk_neo_geo_pocket_color,ngpc
+switch,nintendo_switch
 pspminis,sony_playstation_minis
 sony psp minis,sony_playstation_minis
 sony_psp_minis,sony_playstation_minis
@@ -271,6 +287,7 @@ vectrex_official,vectrex
 virtual_boy_official,virtualboy
 visual pinball,visualpinball
 visual_pinball,visualpinball
+xbox,microsoft_xbox
 black,black
 fbneo,mame
 megadrive,genesis
