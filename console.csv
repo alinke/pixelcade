@@ -8,9 +8,6 @@ mame_libretro,mame
 mame-mame4all,mame
 mame_mame4all,mame
 arcade,mame
-favorites,mame
-recent,mame
-all,mame
 arcadeall,mame
 - arcade,mame
 -_arcade,mame
@@ -23,8 +20,6 @@ arcadeall,mame
 _allarcadegenreconsole,mame
 mame-advmame,mame
 mame_advmame,mame
-shmups,mame
-collections,mame
 main,mame
 mame2003plus,mame
 mame2003,mame
