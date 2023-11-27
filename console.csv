@@ -23,6 +23,7 @@ mame_advmame,mame
 main,mame
 mame2003plus,mame
 mame2003,mame
+mame_(vector),mame
 platforms,console
 platformcategories,console
 _allarcadeconsole,console
@@ -60,15 +61,18 @@ bandai_wonderswan,wonderswan
 bandai wonderswan color,wonderswancolor
 bandai_wonderswan_color,wonderswancolor
 wonderswan_color,wonderswancolor
-capcom classics,capcom
-capcom_classics,capcom
-cps1,capcom_play_system
-cps2,capcom_play_system_ii
-cps3,capcom_play_system_iii
-capcom play pystem,capcom_play_system
-capcom_play_pystem,capcom_play_system
-capcom play system II,capcom_play_system_ii
-capcom play system III,capcom_play_system_iii
+capcom classics,mame
+capcom_classics,mame
+cps1,mame
+cps2,mame
+cps3,mame
+capcom play pystem,mame
+capcom_play_pystem,mame
+capcom play system II,mame
+capcom play system III,mame
+capcom_play_system,mame
+capcom_play_system_ii,mame
+capcom_play_system_iii,mame
 colecovision,coleco
 coleco_vision,coleco
 commodore 64,c64
@@ -89,6 +93,7 @@ gce_vectrex,vectrex
 lightgun,gun_games
 gun_games_(sinden),gun_games
 american_laser_games,gun_games
+gun_games_(sinden),gun_games
 wow_action_max,gun_games
 laser_disc,daphne
 magnavox odyssey,odyssey
