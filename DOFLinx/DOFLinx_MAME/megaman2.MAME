@@ -1,0 +1,36 @@
+##################
+#
+# MAME configration for megaman2
+# DOFLinx force feedback configuration file v1
+#
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Yellow,BUT_P1,Blue,BUT_P2,Aqua
+COLOUR_PALETTE=Yellow,Blue,Aqua,Red,White,Orchid,Deep_Sky_Blue,Turquoise
+BUTTONS_LIT=BUT_P1,BUT_P2
+KEY_TO_COMMAND=BUT_B1,fire,BUT_B2,jump
+FF_DOF=E66,-1
+
+[SHUTDOWN]
+KEY_TO_COMMAND=
+
+[COMMANDS]
+fire|ON|FF_DOF E208,-1|FF_DOF E209,-1
+jump|ON|FF_DOF E701,500|FF_DOF E703,500
+coin|ON|FF_DOF E66,0
+player1|ON|FF_DOF E66,0
+player2|ON|FF_DOF E66,0
+
+[SCORE]
+S1=:maincpu|main|program|ff8390|4
+M1=,,,1,STRING,FORWARD
+S2=:maincpu|main|program|ff9790|4
+M2=,,,1,STRING,FORWARD
+DELAY=7000
+# General scoring band
+SC=10:1000:FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E539,1000|FF_DOF E543,1000|FF_DOF E546,1000|FF_DOF E666,1000|FF_DOF E668,1000
+# Robot Master
+SC=50000:100000:FF_Colour Blue,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Blue|FF_DOF E620,1400|FF_DOF E607,1400|FF_DOF E619,1400
+# Dr Wily
+SC=200000:200000:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E781,1800

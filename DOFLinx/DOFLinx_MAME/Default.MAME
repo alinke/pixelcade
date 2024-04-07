@@ -1,0 +1,13 @@
+##################
+#
+# MAME default configration that is appled to all games if no specific game file exists
+# DOFLinx force feedback configuration file v2
+#
+##################
+
+[STARTUP]
+FF_DOF=E73,7000
+
+[SHUTDOWN]
+
+[COMMANDS]

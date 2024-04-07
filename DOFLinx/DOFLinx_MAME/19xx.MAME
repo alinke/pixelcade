@@ -1,0 +1,55 @@
+##################
+#
+# MAME configration for 19XX
+# DOFLinx force feedback configuration file v4
+# Created by D@VS0ut0
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Silver,BUT_P1,Dodger_Blue,BUT_P2,Dark_red
+BUTTONS_LIT=BUT_P1,BUT_P2
+COLOUR_PALETTE=White,Silver,Dark_Blue,Dark_red
+KEY_TO_COMMAND=BUT_B1,fire,BUT_B2,bomb
+FF_DOF=E66,-1
+[SHUTDOWN]
+
+
+[COMMANDS]
+fire|ON|FF_DOF E208,1000|FF_DOF E209,1000
+bomb|ON|FF_DOF E137,800
+coin|ON|FF_DOF E66,0
+player1|ON|FF_DOF E66,0
+player2|ON|FF_DOF E66,0
+
+[SCORE]
+S1=:maincpu|main|program|ff8306|4
+M1=,,,1,STRING,FORWARD
+S2=:maincpu|main|program|FF8406|4
+M2=,,,1,STRING,FORWARD
+DELAY=2000
+# Planes
+SC=100:100:FF_Flasher DV_FLOL,FL_TT,1,450,100,Silver|FF_Flasher DV_FLOR,FL_TT,1,450,100,Silver|FF_DOF E221,1000|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion-small?l=1|FF_PC,U,E,arcade/stream/mame/19xx?l=99999&nogif
+
+SC=110:200:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,white|FF_DOF E223,1000|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion-small?l=1|FF_PC,U,E,arcade/stream/mame/19xx?l=99999&nogif
+
+SC=210:290:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E219,1000|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion-small?l=1|FF_PC,U,E,arcade/stream/mame/19xx?l=99999&nogif
+
+# Medals
+SC=300:300:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E626,1000|FF_DOF E628,1000
+
+SC=500:500:FF_Flasher DV_FLOL,FL_TT,1,450,100,Yellow|FF_Flasher DV_FLOR,FL_TT,1,450,100,Yellow|FF_Flasher DV_FLCN,FL_TT,1,450,100,Yellow|FF_DOF E606,1000|FF_DOF E608,1000
+
+SC=1000:1000:FF_Flasher DV_FLOL,FL_TT,1,450,100,Red|FF_Flasher DV_FLOR,FL_TT,1,450,100,Red|FF_Flasher DV_FLCN,FL_TT,1,450,100,Red|FF_DOF E646,1000|FF_DOF E648,1000
+
+SC=3000:3000:FF_Flasher DV_FLOL,FL_TT,1,450,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,450,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,450,100,Blue|FF_DOF E656,1000|FF_DOF E658,1000
+
+# Bomber at start
+SC=1700:1700:FF_Flasher DV_FLOL,FL_FL,6,300,100,White|FF_Flasher DV_FLIL,FL_FL,6,300,100,White|FF_Flasher DV_FLCN,FL_FL,6,300,100,White|FF_Flasher DV_FLIR,FL_FL,6,300,100,White|FF_DOF E559,1000|FF_DOF E561,1000|FF_DOF E563,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/19xx?l=99999&nogif
+
+# Ships, big planes etc
+SC=2000:2000:FF_Flasher DV_FLOL,FL_FL,6,300,100,White|FF_Flasher DV_FLIL,FL_FL,6,300,100,White|FF_Flasher DV_FLCN,FL_FL,6,300,100,White|FF_Flasher DV_FLIR,FL_FL,6,300,100,White|FF_DOF E529,1000|FF_DOF E531,1000|FF_DOF E533,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/19xx?l=99999&nogif
+
+SC=5000:5000:FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_Flasher DV_FLOL,FL_FL,6,300,100,Dark_blue|FF_Flasher DV_FLIL,FL_FL,6,300,100,Dark_blue|FF_Flasher DV_FLCN,FL_FL,6,300,100,Dark_blue|FF_Flasher DV_FLIR,FL_FL,6,300,100,Dark_blue|FF_DOF E785,2000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/19xx?l=99999&nogif
+
+SC=10000:10000:FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_Flasher DV_FLOL,FL_FL,6,300,100,Silver|FF_Flasher DV_FLIL,FL_FL,6,300,100,Dark_blue|FF_Flasher DV_FLCN,FL_FL,6,300,100,Dark_blue|FF_Flasher DV_FLIR,FL_FL,6,300,100,Silver|FF_DOF E779,2000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/19xx?l=99999&nogif
+

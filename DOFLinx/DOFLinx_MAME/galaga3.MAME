@@ -1,0 +1,45 @@
+##################
+#
+# MAME configration for galaga3
+# DOFLinx force feedback configuration file v4
+#
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Dodger_Blue,BUT_P1,Green,BUT_P2,Blue
+BUTTONS_LIT=BUT_P1,BUT_P2
+COLOUR_PALETTE=White,Red,Blue,Silver
+KEY_TO_COMMAND=BUT_B1,fire
+FF_DOF=E63,7000
+
+[SHUTDOWN]
+KEY_TO_COMMAND=
+
+[COMMANDS]
+fire|ON|FF_DOF E202,-1|FF_DOF E203,-1
+
+[SCORE]
+S1=:maincpu|main|program|9B0|3
+M1=,,,100,STRING,REVERSE
+S2=:maincpu|main|program|9B3|3
+M2=,,,100,STRING,REVERSE
+DELAY=4000
+# A single ship stationary
+SC=100:100:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E223,-1|FF_PC,U,E,arcade/stream/mameoutput/galaga_shipinflight-exploding?l=1|FF_PC,U,E,arcade/stream/mame/galaga3?l=99999&nogif
+# Ship attacking
+SC=200:200:FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_DOF E514,800|FF_DOF E518,800|FF_PC,U,E,arcade/stream/mameoutput/galaga_shipinflight-exploding?l=1|FF_PC,U,E,arcade/stream/mame/galaga3?l=99999&nogif
+# Boss ship
+SC=300:300:FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E510,1000|FF_DOF E512,1000|FF_PC,U,E,arcade/stream/mameoutput/galaga_shipinflight-exploding?l=1|FF_PC,U,E,arcade/stream/mame/galaga3?l=99999&nogif
+# Fancier ship
+SC=400:400:FF_Flasher DV_FLCN,FL_TT,1,500,100,Green|FF_Flasher DV_FLIL,FL_TT,1,500,100,Green|FF_Flasher DV_FLIR,FL_TT,1,500,100,Green|FF_DOF E695,1000|FF_DOF E701,1000|FF_DOF E697,100|FF_DOF E703,100|FF_DOF E699,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-blue?l=1|FF_PC,U,E,arcade/stream/mame/galaga3?l=99999&nogif
+# Biggest ship
+SC=500:500:FF_Flasher DV_FLCN,FL_FL,12,350,100,Cyan|FF_Flasher DV_FLOL,FL_FL,12,350,100,Cyan|FF_Flasher DV_FLOR,FL_FL,12,350,100,Cyan|FF_DOF E464,1200|FF_DOF E466,1200|FF_DOF E468,1200|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/galaga3?l=99999&nogif
+# A challenge stage not perfect
+SC=1000:9500:FF_Colour Blue,RGB_TT,3000|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Blue|FF_DOF E620,1400|FF_DOF E607,1400|FF_DOF E619,1400|FF_PC,U,E,arcade/stream/mameoutput/galaga_challengenotperfect?l=1|FF_PC,U,E,arcade/stream/mame/galaga3?l=99999&nogif
+# Challenge Stage Bonus
+SC=10000:10000:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,3000|FF_Flasher DV_FLOL,FL_FL,6,300,100,White|FF_Flasher DV_FLIL,FL_FL,6,300,100,White|FF_Flasher DV_FLCN,FL_FL,6,300,100,White|FF_Flasher DV_FLIR,FL_FL,6,300,100,White|FF_Flasher DV_FLOR,FL_FL,6,300,100,White|FF_DOF E786,1500
+#### Can not currently find the scores for these
+# First New Ship
+#ST=30000:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,5000|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E773,1800|FF_PC,U,E,arcade/stream/mameoutput/galaga_newship?l=1|FF_PC,U,E,arcade/stream/mame/galaga3?l=99999&nogif
+# Subsequent New Ships
+#SE=70000:70000:10:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,5000|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E781,1800|FF_PC,U,E,arcade/stream/mameoutput/galaga_newship?l=1|FF_PC,U,E,arcade/stream/mame/galaga3?l=99999&nogif

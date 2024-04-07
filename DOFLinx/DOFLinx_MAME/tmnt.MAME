@@ -1,0 +1,31 @@
+##################
+#
+# MAME configration for tmnt
+# DOFLinx force feedback configuration file v2
+#
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Green,BUT_P1,Orchid,BUT_P2,Pale_Green
+COLOUR_PALETTE=Orchid,Lawn_Green,Yellow,Blue,Aqua,Chart_Reuse,Red,Magenta
+BUTTONS_LIT=BUT_P1,BUT_P2
+KEY_TO_COMMAND=BUT_B1,jump,BUT_B2,sword
+FF_DOF=E61,7000
+
+[SHUTDOWN]
+KEY_TO_COMMAND=
+
+[COMMANDS]
+jump|ON|FF_DOF E8,-1
+sword|ON|FF_DOF E1,200|FF_DOF E2,200
+
+[SCORE]
+S1=:maincpu|main|program|60104|2
+M1=,,,1,STRING,FORWARD
+S2=:maincpu|main|program|6010C|2
+M2=,,,1,STRING,FORWARD
+DELAY=5000
+# Each bad guy
+SC=1:1:FF_Flasher DV_FLCN,FL_TT,1,1500,100,Random|FF_Flasher DV_FLIL,FL_TT,1,1500,100,Random|FF_Flasher DV_FLIR,FL_TT,1,1500,100,Random|FF_DOF E524,1500|FF_DOF E530,1500|FF_DOF E536,10500|FF_DOF E541,1500|FF_DOF E547,1500
+# Periodic Reward
+SE=100:100:10:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E781,1800

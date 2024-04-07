@@ -1,0 +1,39 @@
+##################
+#
+# MAME configration for gyrus
+# DOFLinx force feedback configuration file v2
+#
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Orange,BUT_P1,Turquoise,BUT_P2,Yellow
+BUTTONS_LIT=BUT_P1,BUT_P2
+COLOUR_PALETTE=Orange,Red,White,Blue,Cyan,Sea_Green,Lime,Magenta
+KEY_TO_COMMAND=BUT_B1,fire
+FF_DOF=E61,-1
+
+[SHUTDOWN]
+KEY_TO_COMMAND=
+
+[COMMANDS]
+fire|ON|FF_DOF E202,-1
+coin|ON|FF_DOF E61,0
+player1|ON|FF_DOF E61,0
+player2|ON|FF_DOF E61,0
+
+[SCORE]
+S1=:maincpu|main|program|9663|3
+M1=,,,1,STRING,REVERSE
+S2=:maincpu|main|program|9666|3
+M2=,,,1,STRING,REVERSE
+DELAY=3000
+# Ship Still
+SC=50:50:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E223,-1
+# Ship Moving
+SC=100:100:FF_Colour Blue,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Blue|FF_DOF E620,1400|FF_DOF E607,1400|FF_DOF E619,1400
+# Satelite
+SC=1000:1000:FF_Colour Cyan,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Cyan|FF_Flasher DV_FLIL,FL_FL,6,500,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Cyan|FF_Flasher DV_FLIR,FL_FL,6,500,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Cyan|FF_DOF E570,1400|FF_DOF E576,1400|FF_DOF E587,1400
+# Perfect Challenge Round
+ST=10000:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,550,100,Random|FF_Flasher DV_FLOR,FL_FL,6,500,100,Random|FF_Flasher DV_FLIL,FL_FL,6,500,100,Random|FF_Flasher DV_FLIR,FL_FL,6,500,100,Random|FF_Flasher DV_FLCN,FL_FL,6,500,100,Random|FF_DOF E773,1800
+# Bonus milestones
+SE=30000:60000:100:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,600,100,Random|FF_Flasher DV_FLOR,FL_FL,6,600,100,Random|FF_Flasher DV_FLIL,FL_FL,6,600,100,Random|FF_Flasher DV_FLIR,FL_FL,6,600,100,Random|FF_Flasher DV_FLCN,FL_FL,6,600,100,Random|FF_DOF E781,1900

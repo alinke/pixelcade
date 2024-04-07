@@ -1,0 +1,41 @@
+##################
+#
+# MAME configration for Donkey Kong rev1
+# DOFLinx force feedback configuration file v4
+# 
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Dodger_Blue,BUT_P1,Blue,BUT_P2,Dark_red
+BUTTONS_LIT=BUT_P1,BUT_P2
+COLOUR_PALETTE=White,Blue,Red,Dark_red,Deep_pink,Medium_blue,Golden_rod,Dark_orange
+KEY_TO_COMMAND=BUT_B1,jump
+FF_DOF=E79,-1
+
+[SHUTDOWN]
+KEY_TO_COMMAND=
+
+[COMMANDS]
+jump|ON|FF_Flasher DV_FLIL,FL_TT,1,200,Blue|FF_Flasher DV_FLIR,FL_TT,1,200,Blue|FF_DOF E701,500|FF_DOF E703,500
+coin|ON|FF_DOF E79,0
+player1|ON|FF_DOF E79,0
+player2|ON|FF_DOF E79,0
+
+[SCORE]
+S1=:maincpu|main|program|60b2|3
+M1=,,,1,STRING,REVERSE
+S2=:maincpu|main|program|60b5|3
+M2=,,,1,STRING,REVERSE
+
+DELAY=1000
+
+# 1 Barrel
+SC=100:200:FF_Flasher DV_FLCN,FL_TT,1,500,100,Random|FF_DOF E715,1000|FF_DOF E719,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_100?l=1|FF_PC,U,E,arcade/stream/mame/dkong?l=99999&nogif
+# Hitting barrel
+SC=300:300:FF_Colour White,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,450,100,Lime|FF_Flasher DV_FLOR,FL_TT,1,450,100,Lime|FF_DOF E505,1100|FF_DOF E507,1100|FF_PC,U,E,arcade/stream/mameoutput/dkong_explosion?l=1|FF_PC,U,E,arcade/stream/mame/dkong?l=99999&nogif
+# Bonus
+SC=600:5000:FF_Colour Medium_blue,RGB_TT,1500|FF_Flasher DV_FLOL,FL_FL,6,500,100,Random|FF_Flasher DV_FLIL,FL_FL,6,500,100,Random|FF_Flasher DV_FLCN,FL_FL,6,500,100,Random|FF_Flasher DV_FLIR,FL_FL,6,500,100,Random|FF_Flasher DV_FLOR,FL_FL,6,500,100,Random|FF_DOF E778,1500|FF_PC,U,E,arcade/stream/mameoutput/dkong_bonus?l=4|FF_PC,U,E,arcade/stream/mame/dkong?l=99999&nogif
+#Milestones
+SE=10000:10000:10:FF_DEV DV_KN,-1|FF_Colour Magenta,RGB_TT,1500|FF_Flasher DV_FLOL,FL_FL,6,500,100,Random|FF_Flasher DV_FLIL,FL_FL,6,500,100,Random|FF_Flasher DV_FLCN,FL_FL,6,500,100,Random|FF_Flasher DV_FLIR,FL_FL,6,500,100,Random|FF_Flasher DV_FLOR,FL_FL,6,500,100,Random|FF_DOF E635,1000|FF_DOF E621,1000|FF_DOF E637,1000|FF_DOF E623,1000|FF_DOF E639,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_milestone?l=15|FF_PC,U,E,arcade/stream/mame/dkong?l=99999&nogif
+
+

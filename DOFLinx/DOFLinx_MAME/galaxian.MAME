@@ -1,0 +1,41 @@
+##################
+#
+# MAME configration for galaxian
+# DOFLinx force feedback configuration file v3
+#
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Dodger_Blue,BUT_P1,Orchid,BUT_P2,Pale_Green
+COLOUR_PALETTE=Red,Blue,Dark_violet,Yellow,Blue,Steel_Blue,Cyan,Silver
+KEY_TO_COMMAND=BUT_B1,fire
+FF_DOF=E63,-1
+
+[SHUTDOWN]
+KEY_TO_COMMAND=
+
+[COMMANDS]
+lamp0|ON|FF_Button BUT_P1,BA_ON,0,0|FF_DOF E51,1200
+lamp0|OFF|FF_Button BUT_P1,BA_OFF,0,0
+lamp1|ON|FF_Button BUT_P2,BA_ON,0,0|FF_DOF E51,1200
+lamp1|OFF|FF_Button BUT_P2,BA_OFF,0,0
+fire|ON|FF_DOF E210,-1|FF_DOF E211,-1
+coin|ON|FF_DOF E63,0
+player1|ON|FF_DOF E63,0
+player2|ON|FF_DOF E63,0
+
+[SCORE]
+S1=:maincpu|main|program|40A2|3
+M1=,,,1,STRING,REVERSE
+S2=:maincpu|main|program|40A5|3
+M2=,,,1,STRING,REVERSE
+DELAY=2000
+# A single ship stationary
+SC=30:30:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E225,-1|FF_PC,U,E,arcade/stream/mameoutput/galaga_shipinflight-exploding?l=1|FF_PC,U,E,arcade/stream/mame/galaxian?l=99999&nogif
+SC=40:40:FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_DOF E560,800|FF_DOF E562,800|FF_PC,U,E,arcade/stream/mameoutput/galaga_shipinflight-exploding?l=1|FF_PC,U,E,arcade/stream/mame/galaxian?l=99999&nogif
+SC=50:50:FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E589,1000|FF_DOF E593,1000|FF_PC,U,E,arcade/stream/mameoutput/galaga_shipinflight-exploding?l=1|FF_PC,U,E,arcade/stream/mame/galaxian?l=99999&nogif
+SC=60:60:FF_Flasher DV_FLCN,FL_TT,1,500,100,Green|FF_Flasher DV_FLIL,FL_TT,1,500,100,Green|FF_Flasher DV_FLIR,FL_TT,1,500,100,Green|FF_DOF E695,1000|FF_DOF E691,1000|FF_DOF E697,100|FF_DOF E693,100|FF_DOF E699,1000|FF_PC,U,E,arcade/stream/mameoutput/galaga_shipinflight-exploding?l=1|FF_PC,U,E,arcade/stream/mame/galaxian?l=99999&nogif
+# Same ships but in higer modes
+SC=101:800:FF_Colour Blue,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Blue|FF_DOF E620,1400|FF_DOF E607,1400|FF_DOF E619,1400|FF_PC,U,E,arcade/stream/mameoutput/galaga_shipinflight-exploding?l=1|FF_PC,U,E,arcade/stream/mame/galaxian?l=99999&nogif
+# New Ship
+ST=7000:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E781,1800

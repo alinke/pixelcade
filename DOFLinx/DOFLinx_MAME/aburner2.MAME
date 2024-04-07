@@ -1,0 +1,27 @@
+##################
+#
+# MAME configration for After Burner 2
+# DOFLinx force feedback configuration file v1
+# Created by D@VS0ut0
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Red,BUT_P1,Blue
+BUTTONS_LIT=BUT_P1
+COLOUR_PALETTE=White,Red,Blue,Orange_red
+KEY_TO_COMMAND=BUT_B1,fire,BUT_B2,missile,BUT_B3,afterburner,BUT_B4,decrease
+FF_DOF=E69,7000
+
+[SHUTDOWN]
+
+
+[COMMANDS]
+fire|ON|FF_DOF E184,-1|FF_DOF E185,-1
+missile|ON|FF_DOF E221,800
+afterburner|ON|FF_DOF E799,-1
+decrease|ON|FF_DOF E610,100|FF_DOF E611,100|FF_DOF E612,100|FF_DOF E613,100|FF_DOF E614,100
+
+[SCORE]
+S1=:mainpcb:maincpu|main|program|ff8884|4
+M1=,,,10,STRING,FORWARD
+DELAY=2000

@@ -1,0 +1,29 @@
+##################
+#
+# MAME configration for NES Tetris
+# DOFLinx force feedback configuration file v2
+#
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Cyan,BUT_P1,Orange,BUT_P2,Orange
+COLOUR_PALETTE=White,Orange_Red,Blue,Green,Orange,Silver,Yellow,Aqua,
+BUTTONS_LIT=BUT_P2
+FF_DOF=E79,7000
+
+[SHUTDOWN]
+
+[COMMANDS]
+
+[SCORE]
+S1=:maincpu|main|program|53|3
+M1=,,,1,STRING,REVERSE
+DELAY=2000
+# Lines
+SC=10:40:FF_Colour Orange_Red,RGB_TT,1500|FF_Flasher DV_FLIL,FL_TT,1,450,100,Orange_Red|FF_Flasher DV_FLIR,FL_TT,1,450,100,Orange_Red|FF_DOF E611,1000|FF_DOF E613,1000
+SC=41:80:FF_Colour Aqua,RGB_TT,1500|FF_Flasher DV_FLCN,FL_TT,1,500,100,Aqua|FF_Flasher DV_FLIL,FL_TT,1,500,100,Aqua|FF_Flasher DV_FLIR,FL_TT,1,500,100,Aqua|FF_DOF E474,1000|FF_DOF E476,1000|FF_DOF E478,1000
+SC=81:120:FF_Colour Orange,RGB_TT,1500|FF_Flasher DV_FLCN,FL_FL,4,500,100,Orange|FF_Flasher DV_FLIL,FL_FL,4,500,100,Orange|FF_Flasher DV_FLIR,FL_FL,4,500,100,Orange|FF_DOF E640,1000|FF_DOF E641,1000|FF_DOF E642,1000|FF_DOF E643,1000|FF_DOF E644,1000
+# Tetris
+SC=1200:9000:FF_Dev DV_KN,-1|FF_Colour Yellow,RGB_TT,1500|FF_Flasher DV_FLOL,FL_FL,6,500,100,Yellow|FF_Flasher DV_FLIL,FL_FL,6,500,100,Yellow|FF_Flasher DV_FLCN,FL_FL,6,500,100,Yellow|FF_Flasher DV_FLIR,FL_FL,6,500,100,Yellow|FF_Flasher DV_FLOR,FL_FL,6,500,100,Yellow|FF_DOF E620,1400|FF_DOF E607,1400|FF_DOF E619,1400
+#Periodic Reward
+SE=10000:10000:100:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,1500|FF_Flasher DV_FLOL,FL_FL,6,300,100,Random|FF_Flasher DV_FLIL,FL_FL,6,300,100,Random|FF_Flasher DV_FLCN,FL_FL,6,300,100,Random|FF_Flasher DV_FLIR,FL_FL,6,300,100,Random|FF_Flasher DV_FLOR,FL_FL,6,300,100,Random|FF_DOF E769,2500

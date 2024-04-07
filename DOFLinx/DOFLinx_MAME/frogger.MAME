@@ -1,0 +1,36 @@
+##################
+#
+# MAME configration for frogger
+# DOFLinx force feedback configuration file v3
+#
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Tomato,BUT_P1,Orchid,BUT_P2,Lime
+BUTTONS_LIT=BUT_P1,BUT_P2
+COLOUR_PALETTE=Orchid,Lime,Magenta,Tomato,Firebrick,Yellow,Lawn_green
+FF_DOF=E69,-1
+
+[SHUTDOWN]
+
+[COMMANDS]
+coin|ON|FF_DOF E69,0
+player1|ON|FF_DOF E69,0
+player2|ON|FF_DOF E69,0
+
+[SCORE]
+S1=:maincpu|main|program|83ed|2
+M1=,,24,10,STRING,REVERSE
+S2=:maincpu|main|program|83eb|2
+M2=,,24,10,STRING,REVERSE
+DELAY=5000
+# A Forward step
+SC=10:10:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E462,200|FF_DOF E465,200
+# Frog home
+SC=200:999:FF_Flasher DV_FLOL,FL_TT,1,450,100,Lime|FF_Flasher DV_FLOR,FL_TT,1,450,100,Lime|FF_DOF E505,1100|FF_DOF E507,1100|FF_PC,U,E,arcade/stream/mameoutput/frogger_home?l=1|FF_PC,U,E,arcade/stream/mame/frogger?l=99999&nogif
+# Lady frog
+SC=200:200:FF_Flasher DV_FLOL,FL_TT,1,450,100,Random|FF_Flasher DV_FLOR,FL_TT,1,450,100,Random|FF_DOF E454,1100|FF_DOF E456,1100|FF_DOF E458,1100
+# End level
+SC=1000:3000:FF_Flasher DV_FLCN,FL_TT,1,500,100,Green|FF_Flasher DV_FLIL,FL_TT,1,500,100,Green|FF_Flasher DV_FLIR,FL_TT,1,500,100,Green|FF_DOF E695,1000|FF_DOF E701,1000|FF_DOF E697,1000|FF_DOF E703,1000|FF_DOF E699,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_levelup-green?l=4|FF_PC,U,E,arcade/stream/mame/frogger?l=99999&nogif
+# Extra frog
+SC=20000:20000:FF_Colour Blue,RGB_TT,1500|FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E781,1800

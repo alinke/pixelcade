@@ -1,0 +1,67 @@
+##################
+#
+# MAME configration for gorf
+# DOFLinx force feedback configuration file v2
+#
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Dodger_Blue,BUT_P1,Orchid,BUT_P2,Pale_Green
+COLOUR_PALETTE=Red,Blue,Green,Orange
+BUTTONS_LIT=BUT_P1,BUT_P2
+KEY_TO_COMMAND=BUT_B1,fire
+FF_DOF=E78,-1
+
+[SHUTDOWN]
+KEY_TO_COMMAND=
+
+[COMMANDS]
+lamp0|ON|FF_PC,U,E,arcade/stream/mameoutput/gorf_spacecadet|FF_PC,U,C,arcade/stream/mameoutput/gorf_spacecadet|FF_Flasher DV_FLOL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLOR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLCN,FL_TT,1,450,100,Magenta
+lamp1|ON|FF_PC,U,E,arcade/stream/mameoutput/gorf_spacecaptain|FF_PC,U,C,arcade/stream/mameoutput/gorf_spacecaptain|FF_Flasher DV_FLOL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLOR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLCN,FL_TT,1,450,100,Magenta
+lamp2|ON|FF_PC,U,E,arcade/stream/mameoutput/gorf_spacecolonel|FF_PC,U,C,arcade/stream/mameoutput/gorf_spacecolonel|FF_Flasher DV_FLOL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLOR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLCN,FL_TT,1,450,100,Magenta
+lamp3|ON|FF_PC,U,E,arcade/stream/mameoutput/gorf_spacegeneral|FF_PC,U,C,arcade/stream/mameoutput/gorf_spacegeneral|FF_Flasher DV_FLOL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLOR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLCN,FL_TT,1,450,100,Magenta
+lamp4|ON|FF_PC,U,E,arcade/stream/mameoutput/gorf_spacewarrior|FF_PC,U,C,arcade/stream/mameoutput/gorf_spacewarrior|FF_Flasher DV_FLOL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLOR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLCN,FL_TT,1,450,100,Magenta
+lamp5|ON|FF_PC,U,E,arcade/stream/mameoutput/gorf_spaceavenger|FF_PC,U,C,arcade/stream/mameoutput/gorf_spaceavenger|FF_Flasher DV_FLOL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLOR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLCN,FL_TT,1,450,100,Magenta
+#lamp6
+#lamp7
+
+fire|ON|FF_DOF E216,-1
+coin|ON|FF_DOF E78,0
+player1|ON|FF_DOF E78,0
+player2|ON|FF_DOF E78,0
+
+[SCORE]
+S1=:maincpu|main|program|D00C|4
+M1=,,,1,STRING,REVERSE
+S2=:maincpu|main|program|D01F|4
+M2=,,,1,STRING,REVERSE
+DELAY=5000
+# Base ship
+SC=50:50:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E223,-1
+# Top ship
+SC=100:100:FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_DOF E514,800|FF_DOF E518,800
+# Top ship
+SC=200:200:FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E510,1000|FF_DOF E512,1000
+#Flag Ship
+SC=1000:1500:FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=3|FF_PC,U,E,arcade/stream/mame/gorf?l=99999&nogif
+
+
+
+#######
+# A few flasher / colour combinations for use when building
+#
+## Basic single flash of centre
+# FF_Flasher DV_FLCN,FL_TT,1,300,100,Random
+## Single flash of outer left and outer right flashers
+# FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange
+## Single flash of outer left,outer right and centre flashers
+# FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_Flasher DV_FLCN,FL_TT,1,450,100,Orange
+## Single flash of all flashers
+# FF_Flasher DV_FLOL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLOR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLCN,FL_TT,1,450,100,Magenta
+## Outer Left, Right and Centre doing 3 on / off short  flashes
+# FF_Flasher DV_FLOL,FL_FL,6,300,100,White|FF_Flasher DV_FLIL,FL_FL,6,300,100,White|FF_Flasher DV_FLCN,FL_FL,6,300,100,White|FF_Flasher DV_FLIR,FL_FL,6,300,100,White
+## All flashers flashing longer on / off 3 x
+# FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random
+## All flashers fading up and down 5 x
+# FF_Flasher DV_FLOL,FL_FD,10,750,100,Gold|FF_Flasher DV_FLOR,FL_FD,10,750,100,Gold|FF_Flasher DV_FLIL,FL_FD,10,750,100,Gold|FF_Flasher DV_FLIR,FL_FD,10,750,100,Gold|FF_Flasher DV_FLCN,FL_FD,10,750,100,Gold
+

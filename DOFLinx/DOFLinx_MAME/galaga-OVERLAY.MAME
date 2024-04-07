@@ -1,0 +1,49 @@
+##################
+#
+# MAME configration for galaga
+# DOFLinx force feedback configuration file v4
+#
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Dodger_Blue,BUT_P1,Orchid,BUT_P2,Pale_Green
+COLOUR_PALETTE=White,Red,Blue,Green
+KEY_TO_COMMAND=BUT_B1,fire
+FF_DOF=E63,-1
+
+[SHUTDOWN]
+KEY_TO_COMMAND=
+
+[COMMANDS]
+led0|ON|FF_Button BUT_P1,BA_ON,0,0|FF_DOF E51,1200
+led0|OFF|FF_Button BUT_P1,BA_OFF,0,0
+led1|ON|FF_Button BUT_P2,BA_ON,0,0|FF_DOF E51,1200
+led1|OFF|FF_Button BUT_P2,BA_OFF,0,0
+fire|ON|FF_DOF E212,-1|FF_DOF E213,-1
+coin|ON|FF_DOF E63,0
+coin|OFF|FF_DOF E54,0
+player1|ON|FF_DOF E63,0
+player2|ON|FF_DOF E63,0
+
+[SCORE]
+S1=:maincpu|main|program|83f8|8
+M1=,,24,1,NUMBER,REVERSE
+S2=:maincpu|main|program|83e3|8
+M2=,,24,1,NUMBER,REVERSE
+DELAY=5000
+# A single ship stationary or in flight
+SC=50:160:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E223,-1|FF_PC,U,E,pinball/stream/mameoutput/galaga_shipinflight-exploding
+# Boss Ship in flight
+SC=400:400:FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_DOF E514,800|FF_DOF E518,800|FF_PC,U,E,pinball/stream/mameoutput/galaga_bossinflight-exploding
+# Boss ship in flight 1 wingman
+SC=800:800:FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E510,1000|FF_DOF E512,1000|FF_PC,U,E,pinball/stream/mameoutput/galaga_bossinflight-exploding
+# Boss ship in flight 2 wingman
+SC=1600:1600:FF_Flasher DV_FLCN,FL_TT,1,500,100,Green|FF_Flasher DV_FLIL,FL_TT,1,500,100,Green|FF_Flasher DV_FLIR,FL_TT,1,500,100,Green|FF_DOF E695,1000|FF_DOF E701,1000|FF_DOF E697,100|FF_DOF E703,100|FF_DOF E699,1000|FF_PC,U,E,pinball/stream/mameoutput/galaga_bossinflight-exploding
+# A challenge stage not perfect
+SC=2000:9500:FF_Colour Blue,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Blue|FF_DOF E620,1400|FF_DOF E607,1400|FF_DOF E619,1400|FF_PC,U,E,pinball/stream/mameoutput/galaga_challengenotperfect
+# Challenge Stage Perfect
+SC=10000:10000:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,1500|FF_Flasher DV_FLOL,FL_FL,6,300,100,White|FF_Flasher DV_FLIL,FL_FL,6,300,100,White|FF_Flasher DV_FLCN,FL_FL,6,300,100,White|FF_Flasher DV_FLIR,FL_FL,6,300,100,White|FF_Flasher DV_FLOR,FL_FL,6,300,100,White|FF_DOF E786,1500|FF_PC,U,E,pinball/stream/mameoutput/galaga_challengeperfect
+# First New Ship
+ST=30000:FF_Dev DV_MC,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E773,1800|FF_PC,U,E,pinball/stream/mameoutput/galaga_newship
+# Subsequent New Ships
+SE=80000:80000:10:FF_Dev DV_MC,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E781,1800|FF_PC,U,E,pinball/stream/mameoutput/galaga_newship

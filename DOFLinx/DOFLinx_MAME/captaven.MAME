@@ -1,0 +1,61 @@
+##################
+#
+# MAME configration for Captain America and The Avengers
+# DOFLinx force feedback configuration file v1
+# Created by D@VS0ut0
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,White,BUT_P1,Red,BUT_P2,Blue
+COLOUR_PALETTE=White,Red,Blue,Orange,Green,Yellow
+BUTTONS_LIT=BUT_P1,BUT_P2
+KEY_TO_COMMAND=BUT_B1,attack,BUT_B2,jump
+FF_DOF=E85,-1
+
+
+[SHUTDOWN]
+
+[COMMANDS]
+attack|ON|FF_DOF E188,1000|FF_DOF E189,1000
+jump|ON|FF_DOF E192,1000|FF_DOF E193,1000
+coin|ON|FF_DOF E85,0
+player1|ON|FF_DOF E85,0
+player2|ON|FF_DOF E85,0
+
+
+[SCORE]
+S1=:maincpu|main|program|0126b1c|3
+M1=,,,1,STRING,REVERSE
+S2=:maincpu|main|program|0126b3c|3
+M2=,,,1,STRING,REVERSE
+DELAY=1000
+# cola can,hit boss,stuff
+SC=100:100:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E218,500
+# Grey enemy, barrel
+SC=200:200:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E219,500
+# Cola machine,shielded violet enemy,Cyan machinegun enemy
+SC=400:400:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E221,500
+# orange enemy
+SC=500:500:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E225,500
+# Bug enemy,submariner
+SC=600:600:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E222,500
+
+# Cyan enemy
+SC=800:800:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E223,500
+# Brown enemy,orange flying enemy
+SC=1000:1000:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E224,500
+# Signal Wasp
+SC=1001:1001:FF_Flasher DV_FLOL,FL_TT,1,450,100,Red|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLIL,FL_TT,1,450,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,Red|FF_Dev DV_KN,-1|FF_DOF E579,500|FF_DOF E586,500|FF_DOF E583,500
+
+# Grey flying enemy
+SC=1500:1500:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E650,500|FF_DOF E607,500|FF_DOF E654,500
+# Machinegun cyan enemy
+SC=2000:2000:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E711,500|FF_DOF E662,500|FF_DOF E713,500
+# Flying machine enemy
+SC=2500:2500:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E474,500|FF_DOF E526,500|FF_DOF E478,500
+# Grey enemy
+SC=3000:3000:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E515,500|FF_DOF E486,500|FF_DOF E517,500
+
+# Bosses
+SC=5000:70000:FF_Flasher DV_FLOL,FL_FD,10,750,100,Red|FF_Flasher DV_FLOR,FL_FD,10,750,100,White|FF_Flasher DV_FLIL,FL_FD,10,750,100,Blue|FF_Flasher DV_FLIR,FL_FD,10,750,100,White|FF_Flasher DV_FLCN,FL_FD,10,750,100,Red|FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_DOF E775,1500
+

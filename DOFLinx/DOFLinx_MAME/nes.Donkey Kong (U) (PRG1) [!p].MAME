@@ -1,0 +1,33 @@
+##################
+#
+# MAME configration for NES Donkey Kong
+# DOFLinx force feedback configuration file v2
+#
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Cyan,BUT_P1,Orange,BUT_P2,Orange
+COLOUR_PALETTE=White,Blue,Red,Dark_red,Deep_pink,Medium_blue,Golden_rod,Dark_orange
+BUTTONS_LIT=BUT_P2
+FF_DOF=E79,7000
+
+[SHUTDOWN]
+
+[COMMANDS]
+
+[SCORE]
+S1=:maincpu|main|program|25|3
+M1=,,,1,STRING,FORWARD
+S2=:maincpu|main|program|29|3
+M2=,,,1,STRING,FORWARD
+DELAY=1500
+# 1 Barrel
+SC=100:200:FF_Flasher DV_FLCN,FL_TT,1,500,100,Random|FF_DOF E715,1000|FF_DOF E719,1000
+# Hitting barrel
+SC=300:300:FF_Colour White,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,450,100,Lime|FF_Flasher DV_FLOR,FL_TT,1,450,100,Lime|FF_DOF E505,1100|FF_DOF E507,1100
+# Bonus
+SC=600:5000:FF_Colour Medium_blue,RGB_TT,1500|FF_Flasher DV_FLOL,FL_FL,6,500,100,Random|FF_Flasher DV_FLIL,FL_FL,6,500,100,Random|FF_Flasher DV_FLCN,FL_FL,6,500,100,Random|FF_Flasher DV_FLIR,FL_FL,6,500,100,Random|FF_Flasher DV_FLOR,FL_FL,6,500,100,Random|FF_DOF E778,1500
+#Milestones
+SE=10000:10000:10:FF_DEV DV_KN,-1|FF_Colour Magenta,RGB_TT,1500|FF_Flasher DV_FLOL,FL_FL,6,500,100,Random|FF_Flasher DV_FLIL,FL_FL,6,500,100,Random|FF_Flasher DV_FLCN,FL_FL,6,500,100,Random|FF_Flasher DV_FLIR,FL_FL,6,500,100,Random|FF_Flasher DV_FLOR,FL_FL,6,500,100,Random|FF_DOF E635,1000|FF_DOF E621,1000|FF_DOF E637,1000|FF_DOF E623,1000|FF_DOF E639,1000
+
+

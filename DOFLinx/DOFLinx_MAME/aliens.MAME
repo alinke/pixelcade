@@ -1,0 +1,41 @@
+##################
+#
+# MAME configration for Aliens
+# DOFLinx force feedback configuration file v2
+# Created By D@vS0ut0
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Red,BUT_P1,Blue,BUT_P2,Green
+COLOUR_PALETTE=White,Blue,Cyan,Green,Silver,Red
+BUTTONS_LIT=BUT_P1,BUT_P2
+KEY_TO_COMMAND=BUT_B1,up_fire,BUT_B2,down_fire
+FF_DOF=E61,-1
+[SHUTDOWN]
+
+[COMMANDS]
+up_fire|ON|FF_DOF E216,1000|FF_DOF E217,1000
+down_fire|ON|FF_DOF E208,1000|FF_DOF E209,1000
+coin|ON|FF_DOF E61,0
+player1|ON|FF_DOF E61,0
+player2|ON|FF_DOF E61,0
+[SCORE]
+S1=:maincpu|main|program|0840|3
+M1=,,,100,STRING,FORWARD
+S2=:maincpu|main|program|0844|3
+M2=,,,100,STRING,FORWARD
+DELAY=2000
+# Chestbusters,facehuggers
+SC=100:100:FF_Flasher DV_FLOL,FL_TT,1,450,100,Green|FF_Flasher DV_FLOR,FL_TT,1,450,100,Green|FF_DOF E220,1000
+# kill blue alien
+SC=200:200:FF_Flasher DV_FLOL,FL_TT,1,450,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,450,100,Blue|FF_DOF E223,1000
+# kill standard alien,infectoids,spiders
+SC=300:300:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E225,1000
+# kill violet alien
+SC=400:400:FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_DOF E219,1000
+# Kill infectoids upper body,flying alien
+SC=500:500:FF_Flasher DV_FLOL,FL_TT,1,450,100,Red|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLIL,FL_TT,1,450,100,Red|FF_Flasher DV_FLIR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,Red|FF_DOF E221,1000
+# Barrel explosion
+SC=1000:1000:FF_Flasher DV_FLOL,FL_FL,6,300,100,Red|FF_Flasher DV_FLIL,FL_FL,6,300,100,Red|FF_Flasher DV_FLCN,FL_FL,6,300,100,Red|FF_Flasher DV_FLIR,FL_FL,6,300,100,Red|FF_Dev DV_KN,-1|FF_DOF E620,1500|FF_DOF E631,1500|FF_DOF E607,1500|FF_DOF E633,1500|FF_DOF E624,1500
+#Kill Boss
+SC=5000:100000:FF_Flasher DV_FLOL,FL_FD,10,750,100,Blue|FF_Flasher DV_FLOR,FL_FD,10,750,100,White|FF_Flasher DV_FLIL,FL_FD,10,750,100,White|FF_Flasher DV_FLIR,FL_FD,10,750,100,White|FF_Flasher DV_FLCN,FL_FD,10,750,100,Blue|FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_DOF E777,2000

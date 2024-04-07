@@ -1,0 +1,20 @@
+##################
+#
+# MAME configration that is appled to all games after the game file itself is processed
+# DOFLinx force feedback configuration file v1
+#
+##################
+
+[STARTUP]
+BUTTONS_LIT_ADDED=BUT_ST,BUT_CN,BUT_EX,BUT_RE
+KEY_TO_COMMAND_ADDED=BUT_CN,coin,BUT_P1,player1,BUT_P2,Player2
+
+[SHUTDOWN]
+BUTTONS_LIT=BUT_ST
+
+[CLEAR COMMANDS]
+
+[COMMANDS]
+coin|ON|FF_DOF E54,1500|FF_BUTTON BUT_CN,BA_FL,5,75
+player1|ON|FF_DOF E52,1500|FF_BUTTON BUT_P1,BA_FL,7,50
+player2|ON|FF_DOF E51,1500|FF_BUTTON BUT_P2,BA_FL,7,50

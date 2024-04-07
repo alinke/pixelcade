@@ -1,0 +1,29 @@
+##################
+#
+# MAME configration for Big Run 11th rallye version
+# DOFLinx force feedback configuration file v1
+# Created by D@VS0ut0
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Red,BUT_P1,Green
+COLOUR_PALETTE=White,Red,Blue,Green
+BUTTONS_LIT=BUT_P1,BUT_EX
+KEY_TO_COMMAND=BUT_B1,brake,BUT_B2,acel,BUT_B3,shift
+FF_DOF=E78,-1
+
+
+[SHUTDOWN]
+
+[COMMANDS]
+brake|ON|FF_DOF E188,1000|FF_DOF E189,1000|FF_DOF E660,1000|FF_DOF E662,1000|FF_DOF E664,1000
+acel|ON|FF_DOF E192,1000|FF_DOF E193,1000
+shift|ON|FF_DOF E773,1000
+coin|ON|FF_DOF E78,0
+player1|ON|FF_DOF E78,0
+player2|ON|FF_DOF E78,0
+
+[SCORE]
+S1=:cpu1|main|program|0f6160|4
+M1=,,,100,HEX,FORWARD
+DELAY=1000

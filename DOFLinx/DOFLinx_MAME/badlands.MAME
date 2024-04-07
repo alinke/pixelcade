@@ -1,0 +1,36 @@
+##################
+#
+# MAME configration for Badlands
+# DOFLinx force feedback configuration file v1
+# Created by D@VS0ut0
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Orange,BUT_P1,Blue,BUT_P2,Red
+COLOUR_PALETTE=White,Red,Blue,Orange
+BUTTONS_LIT=BUT_P1,BUT_P2
+KEY_TO_COMMAND=BUT_B1,gas,BUT_B2,shoot
+FF_DOF=E78,-1
+
+[SHUTDOWN]
+
+[COMMANDS]
+gas|ON|FF_DOF E192,1000|FF_DOF E193,1000
+shoot|ON|FF_DOF E218,1000
+coin|ON|FF_DOF E78,0
+player1|ON|FF_DOF E78,0
+player2|ON|FF_DOF E78,0
+
+[SCORE]
+S1=:maincpu|main|program|fff2a7|3
+M1=,,,1,HEX,FORWARD
+S2=:maincpu|main|program|fff327|3
+M2=,,,1,HEX,FORWARD
+DELAY=2000
+# bonus first (not working)
+SC=1000:1000:FF_Flasher DV_FLOL,FL_FL,6,300,100,White|FF_Flasher DV_FLIL,FL_FL,6,300,100,White|FF_Flasher DV_FLCN,FL_FL,6,300,100,White|FF_Flasher DV_FLIR,FL_FL,6,300,100,White|FF_Dev DV_KN,-1|FF_DOF E775,2000
+# bonus second (not working)
+SC=500:500:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLIL,FL_TT,1,450,100,White|FF_Flasher DV_FLIR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_Dev DV_KN,-1|FF_DOF E765,2000
+# bonus total (not working)
+SC=510:3000:FF_Flasher DV_FLOL,FL_FD,10,750,100,Red|FF_Flasher DV_FLOR,FL_FD,10,750,100,White|FF_Flasher DV_FLIL,FL_FD,10,750,100,Blue|FF_Flasher DV_FLIR,FL_FD,10,750,100,White|FF_Flasher DV_FLCN,FL_FD,10,750,100,Red|FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_DOF E771,2000
+

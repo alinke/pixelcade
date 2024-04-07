@@ -1,0 +1,37 @@
+##################
+#
+# MAME configration for truxton
+# DOFLinx force feedback configuration file v3
+#
+##################
+###
+# for noting, truxton seems to swap the P1 / P2 scores betwee 81d0e,4 and 81d50,4 with an indicator at 81d25,1 =1 for P1 and 5 for P2
+# just not handling the complexity of scores without a fixed location yet.  As such this one is really limited to a single player setup
+####
+
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Lime,BUT_P1,Orchid,BUT_P2,Pale_Green
+BUTTONS_LIT=BUT_P1,BUT_P2
+COLOUR_PALETTE=Yellow_Green,Dark_khaki,Dark_golden_rod,Dark_olive_green,Orange_red,Lime
+KEY_TO_COMMAND=BUT_B1,fire,BUT_B2,bomb
+FF_DOF=E73,7000
+
+[SHUTDOWN]
+KEY_TO_COMMAND=
+
+[COMMANDS]
+fire|ON|FF_DOF E214,-1
+bomb|ON|FF_DOF E139,2000
+
+[SCORE]
+S1=:maincpu|main|program|81d0e|4
+M1=,,,10,STRING,FORWARD
+DELAY=5000
+# Ship Scores
+SC=200:200:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E223,-1
+# Mystery
+SC=40:100:FF_Flasher DV_FLCN,FL_TT,1,500,100,Random|FF_Flasher DV_FLIL,FL_TT,1,500,100,Random|FF_Flasher DV_FLIR,FL_TT,1,500,100,Random|FF_DOF E695,-1|FF_DOF E701,-1|FF_DOF E697,-1|FF_DOF E703,-1|FF_DOF E699,-1
+# Set a couple of milestones
+ST=70000:FF_Dev DV_MC,-1|FF_Flasher DV_FLOL,FL_FL,6,550,100,Random|FF_Flasher DV_FLOR,FL_FL,6,500,100,Random|FF_Flasher DV_FLIL,FL_FL,6,500,100,Random|FF_Flasher DV_FLIR,FL_FL,6,500,100,Random|FF_Flasher DV_FLCN,FL_FL,6,500,100,Random|FF_DOF E773,1800
+SE=200000:200000:100:FF_Dev DV_MC,-1|FF_Flasher DV_FLOL,FL_FL,6,600,100,Random|FF_Flasher DV_FLOR,FL_FL,6,600,100,Random|FF_Flasher DV_FLIL,FL_FL,6,600,100,Random|FF_Flasher DV_FLIR,FL_FL,6,600,100,Random|FF_Flasher DV_FLCN,FL_FL,6,600,100,Random|FF_DOF E781,1900

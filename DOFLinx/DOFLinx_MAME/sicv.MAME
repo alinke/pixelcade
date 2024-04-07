@@ -1,0 +1,34 @@
+##################
+#
+# MAME configration for sivc
+# DOFLinx force feedback configuration file v2
+#
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Green,BUT_P1,Teal,BUT_P2,Light_Pink
+BUTTONS_LIT=BUT_P1,BUT_P2
+COLOUR_PALETTE=White,Red,Green
+KEY_TO_COMMAND=BUT_B1,fire
+FF_DOF=E58,7000
+
+[SHUTDOWN]
+KEY_TO_COMMAND=
+
+[COMMANDS]
+fire|ON|FF_DOF E216,-1
+
+[SCORE]
+S1=:maincpu|main|program|20f8|2
+M1=,,,10,STRING,REVERSE
+S2=:maincpu|main|program|20fc|2
+M2=,,,10,STRING,REVERSE
+DELAY=1000
+# Ship Scores
+SC=10:10:FF_Flasher DV_FLCN,FL_TT,1,200,100,Random|FF_DOF E223,-1
+SC=20:20:FF_Flasher DV_FLOL,FL_TT,1,300,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,300,100,Orange|FF_DOF E514,1800|FF_DOF E518,1800
+SC=30:30:FF_Flasher DV_FLOL,FL_TT,1,400,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,400,100,Cyan|FF_DOF E540,2000|FF_DOF E542,2000
+# Mystery
+SC=40:100:FF_Flasher DV_FLCN,FL_TT,1,500,100,Random|FF_Flasher DV_FLIL,FL_TT,1,500,100,Random|FF_Flasher DV_FLIR,FL_TT,1,500,100,Random|FF_DOF E695,3000|FF_DOF E701,3000|FF_DOF E697,3000|FF_DOF E703,3000|FF_DOF E699,3000
+# Set some regular milestones
+SE=1000:1000:10:FF_Dev DV_MC,-1|FF_Flasher DV_FLOL,FL_FL,6,500,100,Random|FF_Flasher DV_FLOR,FL_FL,4,500,100,Random|FF_Flasher DV_FLIL,FL_FL,4,500,100,Random|FF_Flasher DV_FLIR,FL_FL,4,500,100,Random|FF_Flasher DV_FLCN,FL_FL,4,500,100,Random|FF_DOF E774,3000

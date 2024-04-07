@@ -1,0 +1,39 @@
+##################
+#
+# MAME configration for qBert
+# DOFLinx force feedback configuration file v1
+#
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Dodger_Blue,BUT_P1,Orchid,BUT_P2,Pale_Green
+COLOUR_PALETTE=Coral,Yellow,Medium_Sea_Green,Slate_Blue,Tomato,Red,Green
+BUTTONS_LIT=BUT_P1,BUT_P2
+FF_DOF=E80,-1
+
+[SHUTDOWN]
+KEY_TO_COMMAND=
+
+[COMMANDS]
+knocker0|ON|FF_DEV DV_KN,-1|FF_PC,U,E,arcade/stream/mameoutput/qbert_fall?t=Aarrgh&l=1&dot|FF_PC,U,E,arcade/stream/mame/qbert?l=99999&nogif
+coin|ON|FF_DOF E80,0
+player1|ON|FF_DOF E80,0
+player2|ON|FF_DOF E80,0
+
+[SCORE]
+S1=:maincpu|main|program|C6|9
+M1=,,24,1,NUMBER,FORWARD
+S2=:maincpu|main|program|CE|9
+M2=,,24,1,NUMBER,FORWARD
+DELAY=5000
+# Each cube
+SC=25:25:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E231,100
+# Coily
+SC=500:500:FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_DOF E641,800|FF_DOF E643,800
+# A bonus type range
+SC=1000:3000:FF_Colour Gold,RGB_TT,1500|FF_Flasher DV_FLOL,FL_FD,10,750,100,Gold|FF_Flasher DV_FLOR,FL_FD,10,750,100,Gold|FF_Flasher DV_FLIL,FL_FD,10,750,100,Gold|FF_Flasher DV_FLIR,FL_FD,10,750,100,Gold|FF_Flasher DV_FLCN,FL_FD,10,750,100,Gold|FF_DOF E635,1400|FF_DOF E607,1400|FF_DOF E619,1400
+# Extra lives
+ST=8000:FF_Flasher DV_FLOL,FL_FD,10,750,100,Gold|FF_Flasher DV_FLOR,FL_FD,10,750,100,Gold|FF_Flasher DV_FLIL,FL_FD,10,750,100,Gold|FF_Flasher DV_FLIR,FL_FD,10,750,100,Gold|FF_Flasher DV_FLCN,FL_FD,10,750,100,Gold|FF_DOF E773,1800
+ST=14000:FF_Flasher DV_FLOL,FL_FD,10,750,100,Gold|FF_Flasher DV_FLOR,FL_FD,10,750,100,Gold|FF_Flasher DV_FLIL,FL_FD,10,750,100,Gold|FF_Flasher DV_FLIR,FL_FD,10,750,100,Gold|FF_Flasher DV_FLCN,FL_FD,10,750,100,Gold|FF_DOF E773,1800
+# Periodic reward
+SE=1000:1000:10:FF_Colour Lime,RGB_TT,5000|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E781,1800

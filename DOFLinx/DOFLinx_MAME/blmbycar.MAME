@@ -1,0 +1,30 @@
+##################
+#
+# MAME configration for Blomby Car
+# DOFLinx force feedback configuration file v1
+# Created by D@VS0ut0
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Green,Red,BUT_P1,Yellow,BUT_P2,Yellow
+COLOUR_PALETTE=Orange,Red,Yellow,Green
+BUTTONS_LIT=BUT_P1,BUT_P2
+KEY_TO_COMMAND=BUT_B1,acel,BUT_B2,brake
+FF_DOF=E73,-1
+
+[SHUTDOWN]
+
+[COMMANDS]
+acel|ON|FF_DOF E200,1000|FF_DOF E201,1000|FF_DOF E626,1000|FF_DOF E628,1000
+acel|OFF|FF_DOF E188,500|FF_DOF E189,500|FF_DOF E650,500|FF_DOF E654,500|FF_DOF E652,500
+brake|ON|FF_DOF E188,500|FF_DOF E189,500|FF_DOF E650,500|FF_DOF E654,500|FF_DOF E652,500
+coin|ON|FF_DOF E73,0
+player1|ON|FF_DOF E73,0
+player2|ON|FF_DOF E73,0
+
+[SCORE]
+S1=:maincpu|main|program|fed016|5
+M1=,,,1,NUMBER,FORWARD
+S2=:maincpu|main|program|fed016|5
+M2=,,,1,NUMBER,FORWARD
+DELAY=2000

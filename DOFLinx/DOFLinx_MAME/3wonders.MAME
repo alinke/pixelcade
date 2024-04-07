@@ -1,0 +1,41 @@
+##################
+#
+# MAME configration for 3 Wonders
+# DOFLinx force feedback configuration file v5
+# Created by D@VS0ut0
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Blue,BUT_P1,White,BUT_P2,Blue
+BUTTONS_LIT=BUT_P1,BUT_P2
+COLOUR_PALETTE=White,Dark_Orange,Blue,Green
+KEY_TO_COMMAND=BUT_B1,fire,BUT_B2,jump
+FF_DOF=E66,-1
+
+[SHUTDOWN]
+
+[COMMANDS]
+fire|ON|FF_DOF E202,1000|FF_DOF E203,1000
+jump|ON|FF_DOF E714,1000|FF_DOF E710,1000
+coin|ON|FF_DOF E66,0
+player1|ON|FF_DOF E66,0
+player2|ON|FF_DOF E66,0
+
+[SCORE]
+S1=:maincpu|main|program|ff0dd2|3
+M1=,,,100,NUMBER,FORWARD
+S2=:maincpu|main|program|ff0dd6|3
+M2=,,,100,NUMBER,FORWARD
+
+DELAY=500
+# Kill simple enemy
+SC=100:100:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E225,1000
+# Kill medium enemy or destroy house 
+SC=200:200:FF_Flasher DV_FLCN,FL_TT,1,1000,100,Random|FF_DOF E646,1000|FF_DOF E648,1000
+# Kill medium enemy 2 
+SC=300:300:FF_Flasher DV_FLCN,FL_TT,1,1000,100,Random|FF_DOF E494,1000|FF_DOF E498,1000
+# Kill giant enemy or prize
+SC=1000:1000:FF_Flasher DV_FLOL,FL_TT,1,2500,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,2500,100,Cyan|FF_DOF E776,2500
+# Stage Clear
+SC=5000:50000:FF_Colour Blue,RGB_TT,1500|FF_DEV DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,500,100,Random|FF_Flasher DV_FLIL,FL_FL,6,500,100,Random|FF_Flasher DV_FLCN,FL_FL,6,500,100,Random|FF_Flasher DV_FLIR,FL_FL,6,500,100,Random|FF_Flasher DV_FLOR,FL_FL,6,500,100,Random|FF_DOF E136,2000
+

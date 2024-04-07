@@ -1,0 +1,53 @@
+##################
+#
+# MAME configration for Battle Chopper
+# DOFLinx force feedback configuration file v1
+# Created by D@VS0ut0
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Red,BUT_P1,orange_red,BUT_P2,Dodger_Blue
+COLOUR_PALETTE=White,Red,Blue,Cyan,Green
+BUTTONS_LIT=BUT_P1,BUT_P2
+KEY_TO_COMMAND=BUT_B1,shoot,BUT_B2,missile
+FF_DOF=E78,-1
+
+[SHUTDOWN]
+
+[COMMANDS]
+shoot|ON|FF_DOF E190,1000
+missile|ON|FF_DOF E197,1000
+coin|ON|FF_DOF E78,0
+player1|ON|FF_DOF E78,0
+player2|ON|FF_DOF E78,0
+
+[SCORE]
+S1=:maincpu|main|program|a37b2|4
+M1=,,,10,STRING,REVERSE
+S2=:maincpu|main|program|A37B6|4
+M2=,,,10,STRING,REVERSE
+DELAY=2000
+# stone block
+SC=10:10:FF_Flasher DV_FLCN,FL_TT,1,300,100,White|FF_DOF E566,500
+# Mini cristal blue
+SC=20:20:FF_Flasher DV_FLCN,FL_TT,1,300,100,Cyan|FF_DOF E591,500
+# little orange blue ship,turret orange silver,
+SC=100:100:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E225,1000
+# drone
+SC=150:150:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E224,1000
+# medium orange blue ship,silver chopper,centipede
+SC=200:200:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E221,1000
+# Red ship,boring machine
+SC=300:300:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E219,1000
+# Green bif scarab
+SC=400:400:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E220,1000
+# Orange tank,big crystal blue
+SC=500:500:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E223,1000
+# Mid boss stage
+SC=1000:1000:FF_Flasher DV_FLOL,FL_FL,6,300,100,White|FF_Flasher DV_FLIL,FL_FL,6,300,100,Orange|FF_Flasher DV_FLCN,FL_FL,6,300,100,Orange|FF_Flasher DV_FLIR,FL_FL,6,300,100,White|FF_Dev DV_KN,-1|FF_DOF E479,1500|FF_DOF E606,1500|FF_DOF E516,1500|FF_DOF E608,1500|FF_DOF E483,1500
+# Boss 
+SC=5000:5000:FF_Flasher DV_FLOL,FL_FD,10,750,100,Red|FF_Flasher DV_FLOR,FL_FD,10,750,100,White|FF_Flasher DV_FLIL,FL_FD,10,750,100,Blue|FF_Flasher DV_FLIR,FL_FD,10,750,100,White|FF_Flasher DV_FLCN,FL_FD,10,750,100,Red|FF_Dev DV_KN,-1|FF_DOF E650,1500|FF_DOF E701,1500|FF_DOF E526,1500|FF_DOF E703,1500|FF_DOF E654,1500
+# Final Boss
+SC=10000:10000:FF_Flasher DV_FLOL,FL_FD,10,750,100,Red|FF_Flasher DV_FLOR,FL_FD,10,750,100,White|FF_Flasher DV_FLIL,FL_FD,10,750,100,Blue|FF_Flasher DV_FLIR,FL_FD,10,750,100,White|FF_Flasher DV_FLCN,FL_FD,10,750,100,Red|FF_Dev DV_KN,-1|FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_DOF E700,2500|FF_DOF E636,2500|FF_DOF E451,2500|FF_DOF E638,2500|FF_DOF E704,2500
+
+

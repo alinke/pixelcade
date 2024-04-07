@@ -1,0 +1,35 @@
+##################
+#
+# MAME configration for Back Street Soccer
+# DOFLinx force feedback configuration file v1
+# Created by D@VS0ut0
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,White,BUT_P1,Red,BUT_P2,Yellow
+COLOUR_PALETTE=White,Red,Yellow,Orange
+BUTTONS_LIT=BUT_P1,BUT_P2
+KEY_TO_COMMAND=BUT_B1,kick,BUT_B2,pass,BUT_B3,dash
+FF_DOF=E78,-1
+
+
+[SHUTDOWN]
+
+[COMMANDS]
+kick|ON|FF_DOF E188,1000|FF_DOF E189,1000|FF_DOF E489,1000|FF_DOF E493,1000
+pass|ON|FF_DOF E194,1000|FF_DOF E195,1000|FF_DOF E444,1000|FF_DOF E448,1000
+dash|ON|FF_DOF E200,1000|FF_DOF E201,1000|FF_DOF E625,1000|FF_DOF E629,1000
+coin|ON|FF_DOF E78,0
+player1|ON|FF_DOF E78,0
+player2|ON|FF_DOF E78,0
+
+
+[SCORE]
+S1=:maincpu|main|program|200e14|1
+M1=,,,1,NUMBER,FORWARD
+S2=:maincpu|main|program|200e15|1
+M2=,,,1,NUMBER,FORWARD
+DELAY=2000
+# Goal
+SC=1:100:FF_Flasher DV_FLOL,FL_FD,10,750,100,Gold|FF_Flasher DV_FLOR,FL_FD,10,750,100,Gold|FF_Flasher DV_FLIL,FL_FD,10,750,100,Gold|FF_Flasher DV_FLIR,FL_FD,10,750,100,Gold|FF_Flasher DV_FLCN,FL_FD,10,750,100,Gold|FF_Dev DV_KN,-1|FF_DOF E55,3000
+

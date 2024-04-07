@@ -1,0 +1,20 @@
+##################
+#
+# MAME configration that is appled to all games before the game file itself is processed
+# DOFLinx force feedback configuration file v2
+#
+##################
+
+[STARTUP]
+FF_ROM=DOFLinx
+
+[SHUTDOWN]
+
+[COMMANDS]
+pause|ON|FF_BUTTON BUT_PS,BA_FD,10000,1000
+pause|OFF|FF_BUTTON BUT_PS,BA_OFF,0,0
+reset|ON|FF_DOF E141,3000
+cheat_status|ON|FF_BUTTON BUT_MN,BA_ON,0,0
+cheat_status|ON|FF_BUTTON BUT_MN,BA_OFF,0,0
+cheat|ON|FF_BUTTON BUT_CH,BA_ON,0,0|FF_Colour Yellow,RGB_TT,3000|FF_Flasher DV_FLOL,FL_TT,1,2500,100,Blue|FF_Flasher DV_FLIL,FL_TT,1,2500,100,Yellow|FF_Flasher DV_FLCN,FL_TT,1,2500,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,2500,100,Yellow|FF_Flasher DV_FLOR,FL_TT,1,2500,100,Blue|FF_DOF E740,2500|FF_DOF E746,2500|FF_DOF E742,2500|FF_DOF E748,2500|FF_DOF E744,2500
+cheat|OFF|FF_BUTTON BUT_CH,BA_OFF,0,0|FF_Colour Lawn_Green,RGB_TT,2000|FF_Flasher DV_FLOL,FL_TT,1,2000,100,Lawn_Green|FF_Flasher DV_FLIL,FL_TT,1,2000,100,Lawn_Green|FF_Flasher DV_FLCN,FL_TT,1,2000,100,Lawn_Green|FF_Flasher DV_FLIR,FL_TT,1,2000,100,Lawn_Green|FF_Flasher DV_FLOR,FL_TT,1,2000,100,Lawn_Green|FF_DOF E735,2000|FF_DOF E736,2000|FF_DOF E737,2000|FF_DOF E738,2000|FF_DOF E739,2000

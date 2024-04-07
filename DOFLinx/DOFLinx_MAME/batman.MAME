@@ -1,0 +1,93 @@
+##################
+#
+# MAME configration for Batman
+# DOFLinx force feedback configuration file v2
+# Created by D@VS0ut0
+##################
+
+[STARTUP]
+BUTTON_COLOUR_CHANGE=BUT_EX,Cyan,BUT_P1,Yellow,BUT_P2,Yellow
+COLOUR_PALETTE=White,Yellow,Cyan
+BUTTONS_LIT=BUT_P1,BUT_P2
+KEY_TO_COMMAND=BUT_B1,punch,BUT_B2,jump
+FF_DOF=E78,-1
+
+[SHUTDOWN]
+
+[COMMANDS]
+punch|ON|FF_DOF E194,1000|FF_DOF E195,1000
+jump|ON|FF_DOF E196,1000|FF_DOF E197,1000
+coin|ON|FF_DOF E78,0
+player1|ON|FF_DOF E78,0
+player2|ON|FF_DOF E78,0
+
+[SCORE]
+S1=:maincpu|main|program|103bcb|3
+M1=,,,1,HEX,FORWARD
+S2=:maincpu|main|program|fff327|3
+M2=,,,1,HEX,FORWARD
+DELAY=1000
+
+# First hit on some gangsters
+SC=50:50:FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E218,1000
+
+# Destroy Grisson car 1, Joker's green
+SC=100:100:FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E218,100
+
+
+
+# Some hits on some thugs,Destroy Grisson car 2, Joker's green
+SC=200:200:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E223,1000
+
+# Hit thug 2
+SC=240:240:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E464,1000|FF_DOF E468,1000
+
+# Bald gunner,Destroy Grisson car 3, Joker's green
+SC=300:300:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E465,1000|FF_DOF E467,1000
+
+# Hit thug 3,Destroy Grisson car 4, Joker's green
+SC=400:400:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E504,1000|FF_DOF E508,1000
+
+# Hit thug 4
+SC=480:480:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E505,1000|FF_DOF E507,1000
+
+# Destroy missile,Destroy Grisson car 5, Joker's green
+SC=500:500:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E544,1000|FF_DOF E548,1000
+
+# Destroy Grisson car 6, Joker's green
+SC=600:600:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E545,1000|FF_DOF E547,1000
+
+# Destroy Grisson car 7, Joker's green
+SC=700:700:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E584,1000|FF_DOF E588,1000
+
+# Hit thug 5,Destroy Grisson car 8, Joker's green
+SC=800:800:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E585,1000|FF_DOF E587,1000
+
+# Destroy Grisson car 9, Joker's green
+SC=900:900:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E625,1000|FF_DOF E629,1000
+
+# Destroy Grisson car 10, Joker's green
+SC=1000:1000:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E626,1000|FF_DOF E628,1000
+
+# Green-jacketed,brown-jacketed,red-jacketed,blue-jacketed thug 
+SC=1440:1440:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E222,1000
+
+# Catch balloons
+SC=2000:2000:FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLIL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLIR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,Cyan|FF_DOF E665,1000|FF_DOF E669,1000
+
+# Hit gansters/thugs
+SC=2400:2400:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E666,1000|FF_DOF E669,1000
+
+# Bonus end stage
+SC=2500:2500:FF_Flasher DV_FLOL,FL_FL,6,750,100,White|FF_Flasher DV_FLOR,FL_FL,6,750,100,Cyan|FF_Flasher DV_FLIL,FL_FL,6,750,100,White|FF_Flasher DV_FLIR,FL_FL,6,750,100,Cyan|FF_Flasher DV_FLCN,FL_FL,6,750,100,White|FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_DOF E665,2000|FF_DOF E606,2000|FF_DOF E586,2000|FF_DOF E608,2000|FF_DOF E669,2000
+
+# Bonus life
+SC=75000:75000:FF_Flasher DV_FLOL,FL_FL,6,750,100,White|FF_Flasher DV_FLOR,FL_FL,6,750,100,White|FF_Flasher DV_FLIL,FL_FL,6,750,100,White|FF_Flasher DV_FLIR,FL_FL,6,750,100,White|FF_Flasher DV_FLCN,FL_FL,6,750,100,White|FF_Dev DV_KN,-1|FF_DOF E665,2000|FF_DOF E606,2000|FF_DOF E586,2000|FF_DOF E608,2000|FF_DOF E669,2000
+
+# Bonus all grisson cars and Jokers´s cars destroyed
+SC=5000:5000:FF_Flasher DV_FLOL,FL_FL,6,750,100,White|FF_Flasher DV_FLOR,FL_FL,6,750,100,White|FF_Flasher DV_FLIL,FL_FL,6,750,100,Cyan|FF_Flasher DV_FLIR,FL_FL,6,750,100,White|FF_Flasher DV_FLCN,FL_FL,6,750,100,White|FF_Dev DV_KN,-1|FF_DOF E625,2000|FF_DOF E606,2000|FF_DOF E627,2000|FF_DOF E608,2000|FF_DOF E629,2000
+
+# Bonus all balloons catched
+SC=10000:10000:FF_Flasher DV_FLOL,FL_FL,6,750,100,Cyan|FF_Flasher DV_FLOR,FL_FL,6,750,100,Cyan|FF_Flasher DV_FLIL,FL_FL,6,750,100,White|FF_Flasher DV_FLIR,FL_FL,6,750,100,Cyan|FF_Flasher DV_FLCN,FL_FL,6,750,100,Cyan|FF_Dev DV_KN,-1|FF_DOF E645,2000|FF_DOF E525,2000|FF_DOF E486,2000|FF_DOF E527,2000|FF_DOF E649,2000
+
+
