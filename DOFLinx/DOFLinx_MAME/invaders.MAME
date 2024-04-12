@@ -29,10 +29,10 @@ S2=:maincpu|main|program|20fc|2
 M2=,,,1,STRING,REVERSE
 DELAY=1000
 # Ship Scores
-SC=10:10:FF_Flasher DV_FLCN,FL_TT,1,200,100,Random|FF_DOF E223,-1|FF_PC,U,E,arcade/stream/mameoutput/invaders_white?l=1|FF_PC,U,E,arcade/stream/mame/invaders?l=99999&nogif
-SC=20:20:FF_Flasher DV_FLOL,FL_TT,1,300,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,300,100,Orange|FF_DOF E514,1800|FF_DOF E223,-1|FF_PC,U,E,arcade/stream/mameoutput/invaders_green?l=1|FF_PC,U,E,arcade/stream/mame/invaders?l=99999&nogif
-SC=30:30:FF_Flasher DV_FLOL,FL_TT,1,400,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,400,100,Cyan|FF_DOF E540,2000|FF_DOF E223,-1|FF_PC,U,E,arcade/stream/mameoutput/invaders_yellow?l=1|FF_PC,U,E,arcade/stream/mame/invaders?l=99999&nogif
+SC=10:10:FF_Flasher DV_FLCN,FL_TT,1,200,100,Random|FF_DOF E223,-1|FF_PC,U,E,arcade/stream/mameoutput/invaders_white?l=1
+SC=20:20:FF_Flasher DV_FLOL,FL_TT,1,300,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,300,100,Orange|FF_DOF E514,1800|FF_DOF E223,-1|FF_PC,U,E,arcade/stream/mameoutput/invaders_green?l=1
+SC=30:30:FF_Flasher DV_FLOL,FL_TT,1,400,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,400,100,Cyan|FF_DOF E540,2000|FF_DOF E223,-1|FF_PC,U,E,arcade/stream/mameoutput/invaders_yellow?l=1
 # Mystery
-SC=40:400:FF_Flasher DV_FLCN,FL_TT,1,500,100,Random|FF_Flasher DV_FLIL,FL_TT,1,500,100,Random|FF_DOF E223,-1|FF_PC,U,E,arcade/stream/mameoutput/invaders_magenta?l=1|FF_PC,U,E,arcade/stream/mame/invaders?l=99999&nogif
+SC=40:400:FF_Flasher DV_FLCN,FL_TT,1,500,100,Random|FF_Flasher DV_FLIL,FL_TT,1,500,100,Random|FF_DOF E223,-1|FF_PC,U,E,arcade/stream/mameoutput/invaders_magenta?l=1
 # Set some regular milestones
 SE=1000:1000:10:FF_Dev DV_MC,-1|FF_Flasher DV_FLOL,FL_FL,6,500,100,Random|FF_Flasher DV_FLOR,FL_FL,4,500,100,Random|FF_Flasher DV_FLIL,FL_FL,4,500,100,Random|FF_Flasher DV_FLIR,FL_FL,4,500,100,Random|FF_Flasher DV_FLCN,FL_FL,4,500,100,Random|FF_DOF E774,3000

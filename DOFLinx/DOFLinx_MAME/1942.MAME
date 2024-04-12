@@ -12,6 +12,7 @@ COLOUR_PALETTE=White,Orange_Red,Blue,Silver,Green,Yellow_Green,Dodger_Blue,Orang
 KEY_TO_COMMAND=BUT_B1,fire,BUT_B2,loop
 FF_DOF=E66,-1
 
+
 [SHUTDOWN]
 KEY_TO_COMMAND=
 
@@ -29,11 +30,11 @@ S2=:maincpu|main|program|E050|8
 M2=,,,1,NUMBER,FORWARD
 DELAY=1000
 # Planes are 30,50,70,100 and 200
-SC=30:30:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E225,-1|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion-small?l=1|FF_PC,U,E,arcade/stream/mame/1942?l=99999&nogif
-SC=50:50:FF_Flasher DV_FLOL,FL_TT,1,450,100,Silver|FF_Flasher DV_FLOR,FL_TT,1,450,100,Silver|FF_DOF E514,800|FF_DOF E518,800|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion-small?l=1|FF_PC,U,E,arcade/stream/mame/1942?l=99999&nogif
-SC=70:70:FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E510,1000|FF_DOF E512,1000|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion?l=1|FF_PC,U,E,arcade/stream/mame/1942?l=99999&nogif
-SC=100:100:FF_Flasher DV_FLCN,FL_TT,1,500,100,Green|FF_Flasher DV_FLIL,FL_TT,1,500,100,Green|FF_Flasher DV_FLIR,FL_TT,1,500,100,Green|FF_DOF E725,1000|FF_DOF E741,1000|FF_DOF E732,1000|FF_DOF E743,1000|FF_DOF E729,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion5?l=1|FF_PC,U,E,arcade/stream/mame/1942?l=99999&nogif
-SC=200:200:FF_Flasher DV_FLCN,FL_FL,12,350,100,Cyan|FF_Flasher DV_FLOL,FL_FL,12,350,100,Cyan|FF_Flasher DV_FLOR,FL_FL,12,350,100,Cyan|FF_DOF E464,1400|FF_DOF E476,1400|FF_DOF E468,1400|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion6?l=1|FF_PC,U,E,arcade/stream/mame/1942?l=99999&nogif
+SC=30:30:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E225,-1|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion-small?l=1
+SC=50:50:FF_Flasher DV_FLOL,FL_TT,1,450,100,Silver|FF_Flasher DV_FLOR,FL_TT,1,450,100,Silver|FF_DOF E514,800|FF_DOF E518,800|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion-small?l=1
+SC=70:70:FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E510,1000|FF_DOF E512,1000|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion?l=1
+SC=100:100:FF_Flasher DV_FLCN,FL_TT,1,500,100,Green|FF_Flasher DV_FLIL,FL_TT,1,500,100,Green|FF_Flasher DV_FLIR,FL_TT,1,500,100,Green|FF_DOF E725,1000|FF_DOF E741,1000|FF_DOF E732,1000|FF_DOF E743,1000|FF_DOF E729,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion5?l=1
+SC=200:200:FF_Flasher DV_FLCN,FL_FL,12,350,100,Cyan|FF_Flasher DV_FLOL,FL_FL,12,350,100,Cyan|FF_Flasher DV_FLOR,FL_FL,12,350,100,Cyan|FF_DOF E464,1400|FF_DOF E476,1400|FF_DOF E468,1400|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion6?l=1
 # Bonus Points
 SC=1000:1500:FF_Colour Yellow_Green,RGB_TT,3000|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Yellow_Green|FF_Flasher DV_FLIL,FL_TT,1,1500,100,Yellow_Green|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Yellow_Green|FF_Flasher DV_FLIR,FL_TT,1,1500,100,Yellow_Green|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Yellow_Green|FF_DOF E574,2000|FF_DOF E576,2000|FF_DOF E578,2000
 # Challenge Stage Bonus

@@ -28,30 +28,30 @@ M2=,,,1,STRING,FORWARD
 DELAY=2000
 
 # Destroy orange plane
-SC=300:390:FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_DOF E218,1000|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion-small?l=1|FF_PC,U,E,arcade/stream/mame/1944?l=99999&nogif
+SC=300:390:FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_DOF E218,1000|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion-small?l=1
 # Destroy blue plane, antiaircraft
-SC=400:490:FF_Flasher DV_FLOL,FL_TT,1,450,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,450,100,Blue|FF_DOF E219,1000|FF_PC,U,E,arcade/stream/mameoutput/1943kai_explosion?l=1|FF_PC,U,E,arcade/stream/mame/1944?l=99999&nogif
+SC=400:490:FF_Flasher DV_FLOL,FL_TT,1,450,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,450,100,Blue|FF_DOF E219,1000|FF_PC,U,E,arcade/stream/mameoutput/1943kai_explosion?l=1
 # Simple Ship
-SC=010:290:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E223,1000|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion?l=1|FF_PC,U,E,arcade/stream/mame/1944?l=99999&nogif
+SC=010:290:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E223,1000|FF_PC,U,E,arcade/stream/mameoutput/1942_explosion?l=1
 # Gift or POW
-SC=500:500:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E625,1000|FF_DOF E606,1000|FF_DOF E627,1000|FF_DOF E608,1000|FF_DOF E629,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-blue?l=1|FF_PC,U,E,arcade/stream/mame/1944?l=99999&nogif
+SC=500:500:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E625,1000|FF_DOF E606,1000|FF_DOF E627,1000|FF_DOF E608,1000|FF_DOF E629,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-blue?l=1
 # Medium Planes,tanks or ships
-SC=510:990:FF_Flasher DV_FLOL,FL_TT,1,450,100,Dark_Green|FF_Flasher DV_FLOR,FL_TT,1,450,100,Dark_green|FF_DOF E221,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-blue?l=1|FF_PC,U,E,arcade/stream/mame/1944?l=99999&nogif
+SC=510:990:FF_Flasher DV_FLOL,FL_TT,1,450,100,Dark_Green|FF_Flasher DV_FLOR,FL_TT,1,450,100,Dark_green|FF_DOF E221,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-blue?l=1
 # Destroy crane, houses, stuff
-SC=1000:1990:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E479,1500|FF_DOF E483,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/1944?l=99999&nogif
+SC=1000:1990:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E479,1500|FF_DOF E483,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1
 # Various
-SC=2000:2000:FF_Flasher DV_FLOL,FL_TT,1,450,100,Red|FF_Flasher DV_FLOR,FL_TT,1,450,100,Red|FF_Flasher DV_FLCN,FL_TT,1,450,100,Red|FF_DOF E444,1500|FF_DOF E491,1500|FF_DOF E448,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long2?l=1|FF_PC,U,E,arcade/stream/mame/1944?l=99999&nogif
+SC=2000:2000:FF_Flasher DV_FLOL,FL_TT,1,450,100,Red|FF_Flasher DV_FLOR,FL_TT,1,450,100,Red|FF_Flasher DV_FLCN,FL_TT,1,450,100,Red|FF_DOF E444,1500|FF_DOF E491,1500|FF_DOF E448,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long2?l=1
 # Various medium
-SC=5000:5000:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E720,1500|FF_DOF E687,1500|FF_DOF E724,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion1?l=1|FF_PC,U,E,arcade/stream/mame/1944?l=99999&nogif
+SC=5000:5000:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E720,1500|FF_DOF E687,1500|FF_DOF E724,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion1?l=1
 # Various high
-SC=10000:10000:FF_Flasher DV_FLOL,FL_FL,6,300,100,Blue|FF_Flasher DV_FLIL,FL_FL,6,300,100,Blue|FF_Flasher DV_FLCN,FL_FL,6,300,100,Blue|FF_Flasher DV_FLIR,FL_FL,6,300,100,Blue|FF_DOF E650,1500|FF_DOF E606,1500|FF_DOF E654,1500|FF_DOF E608,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion6?l=1|FF_PC,U,E,arcade/stream/mame/1944?l=99999&nogif
+SC=10000:10000:FF_Flasher DV_FLOL,FL_FL,6,300,100,Blue|FF_Flasher DV_FLIL,FL_FL,6,300,100,Blue|FF_Flasher DV_FLCN,FL_FL,6,300,100,Blue|FF_Flasher DV_FLIR,FL_FL,6,300,100,Blue|FF_DOF E650,1500|FF_DOF E606,1500|FF_DOF E654,1500|FF_DOF E608,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion6?l=1
 # Bamboo Sprout
-SC=20000:20000:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,White|FF_Flasher DV_FLOR,FL_FL,6,750,100,White|FF_Flasher DV_FLIL,FL_FL,6,750,100,Green|FF_Flasher DV_FLIR,FL_FL,6,750,100,Green|FF_Flasher DV_FLCN,FL_FL,6,750,100,White|FF_DOF E494,2000|FF_DOF E566,2000|FF_DOF E498,2000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/1944?l=99999&nogif
+SC=20000:20000:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,White|FF_Flasher DV_FLOR,FL_FL,6,750,100,White|FF_Flasher DV_FLIL,FL_FL,6,750,100,Green|FF_Flasher DV_FLIR,FL_FL,6,750,100,Green|FF_Flasher DV_FLCN,FL_FL,6,750,100,White|FF_DOF E494,2000|FF_DOF E566,2000|FF_DOF E498,2000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1
 # Holstein
-SC=50000:50000:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/1944?l=99999&nogif
+SC=50000:50000:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1
 |FF_DOF E774,2000
 # Strawberry
-SC=80000:80000:FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,White|FF_Flasher DV_FLOR,FL_FL,6,750,100,White|FF_Flasher DV_FLIL,FL_FL,6,750,100,White|FF_Flasher DV_FLIR,FL_FL,6,750,100,White|FF_Flasher DV_FLCN,FL_FL,6,750,100,White|FF_PC,U,E,arcade/stream/mameoutput/pacman_strawberry?l=1|FF_PC,U,E,arcade/stream/mame/1944?l=99999&nogif
+SC=80000:80000:FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,White|FF_Flasher DV_FLOR,FL_FL,6,750,100,White|FF_Flasher DV_FLIL,FL_FL,6,750,100,White|FF_Flasher DV_FLIR,FL_FL,6,750,100,White|FF_Flasher DV_FLCN,FL_FL,6,750,100,White|FF_PC,U,E,arcade/stream/mameoutput/pacman_strawberry?l=1
 |FF_DOF E781,2000
 # Dragonfly
 SC=100000:100000:FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Green|FF_Flasher DV_FLOR,FL_FL,6,750,100,Green|FF_Flasher DV_FLIL,FL_FL,6,750,100,Green|FF_Flasher DV_FLIR,FL_FL,6,750,100,Green|FF_Flasher DV_FLCN,FL_FL,6,750,100,Green

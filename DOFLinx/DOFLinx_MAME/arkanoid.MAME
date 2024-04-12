@@ -27,23 +27,23 @@ M2=,,,10,STRING,FORWARD
 DELAY=1500
 
 # White brick
-SC=50:50:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E218,1000|FF_PC,U,E,arcade/stream/mameoutput/arkanoid_explosion1?l=1|FF_PC,U,E,arcade/stream/mame/arkanoid?l=99999&nogif
+SC=50:50:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_DOF E218,1000|FF_PC,U,E,arcade/stream/mameoutput/arkanoid_explosion1?l=1
 # Orange brick
-SC=60:60:FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_DOF E225,1000|FF_PC,U,E,arcade/stream/mameoutput/arkanoid_explosion2?l=1|FF_PC,U,E,arcade/stream/mame/arkanoid?l=99999&nogif
+SC=60:60:FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_DOF E225,1000|FF_PC,U,E,arcade/stream/mameoutput/arkanoid_explosion2?l=1
 # Cyan brick
-SC=70:70:FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E223,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-blue?l=1|FF_PC,U,E,arcade/stream/mame/arkanoid?l=99999&nogif
+SC=70:70:FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E223,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-blue?l=1
 # Green brick
-SC=80:80:FF_Flasher DV_FLOL,FL_TT,1,450,100,Green|FF_Flasher DV_FLOR,FL_TT,1,450,100,Green|FF_DOF E220,1000|FF_PC,U,E,arcade/stream/mameoutput/arkanoid_explosion1?l=1|FF_PC,U,E,arcade/stream/mame/arkanoid?l=99999&nogif
+SC=80:80:FF_Flasher DV_FLOL,FL_TT,1,450,100,Green|FF_Flasher DV_FLOR,FL_TT,1,450,100,Green|FF_DOF E220,1000|FF_PC,U,E,arcade/stream/mameoutput/arkanoid_explosion1?l=1
 # Red brick
-SC=90:90:FF_Flasher DV_FLOL,FL_TT,1,450,100,Red|FF_Flasher DV_FLOR,FL_TT,1,450,100,Red|FF_DOF E219,1000|FF_PC,U,E,arcade/stream/mameoutput/arkanoid_explosion3?l=1|FF_PC,U,E,arcade/stream/mame/arkanoid?l=99999&nogif
+SC=90:90:FF_Flasher DV_FLOL,FL_TT,1,450,100,Red|FF_Flasher DV_FLOR,FL_TT,1,450,100,Red|FF_DOF E219,1000|FF_PC,U,E,arcade/stream/mameoutput/arkanoid_explosion3?l=1
 # Blue brick
-SC=100:100:FF_Flasher DV_FLOL,FL_TT,1,450,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,450,100,Blue|FF_DOF E221,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion1?l=1|FF_PC,U,E,arcade/stream/mame/arkanoid?l=99999&nogif
+SC=100:100:FF_Flasher DV_FLOL,FL_TT,1,450,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,450,100,Blue|FF_DOF E221,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion1?l=1
 # Magenta brick
-SC=110:110:FF_Flasher DV_FLOL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLOR,FL_TT,1,450,100,Magenta|FF_DOF E224,1000|FF_PC,U,E,arcade/stream/mameoutput/arkanoid_explosion3?l=1|FF_PC,U,E,arcade/stream/mame/arkanoid?l=99999&nogif
+SC=110:110:FF_Flasher DV_FLOL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLOR,FL_TT,1,450,100,Magenta|FF_DOF E224,1000|FF_PC,U,E,arcade/stream/mameoutput/arkanoid_explosion3?l=1
 # Yellow brick
-SC=120:120:FF_Flasher DV_FLOL,FL_TT,1,450,100,Yellow|FF_Flasher DV_FLOR,FL_TT,1,450,100,Yellow|FF_DOF E222,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/arkanoid?l=99999&nogif
+SC=120:120:FF_Flasher DV_FLOL,FL_TT,1,450,100,Yellow|FF_Flasher DV_FLOR,FL_TT,1,450,100,Yellow|FF_DOF E222,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1
 # Violet capsule
-SC=10000:10000:FF_Flasher DV_FLOL,FL_FL,6,300,100,Magenta|FF_Flasher DV_FLIL,FL_FL,6,300,100,White|FF_Flasher DV_FLCN,FL_FL,6,300,100,Magenta|FF_Flasher DV_FLIR,FL_FL,6,300,100,White|FF_Dev DV_KN,-1|FF_DOF E635,1500|FF_DOF E726,1500|FF_DOF E569,1500|FF_DOF E5728,1500|FF_DOF E539,1500|FF_PC,U,E,arcade/stream/mameoutput/arkanoid_10000?l=5|FF_PC,U,E,arcade/stream/mame/arkanoid?l=99999&nogif
+SC=10000:10000:FF_Flasher DV_FLOL,FL_FL,6,300,100,Magenta|FF_Flasher DV_FLIL,FL_FL,6,300,100,White|FF_Flasher DV_FLCN,FL_FL,6,300,100,Magenta|FF_Flasher DV_FLIR,FL_FL,6,300,100,White|FF_Dev DV_KN,-1|FF_DOF E635,1500|FF_DOF E726,1500|FF_DOF E569,1500|FF_DOF E5728,1500|FF_DOF E539,1500|FF_PC,U,E,arcade/stream/mameoutput/arkanoid_10000?l=5
 # Extra live at 20000
 SC=20000:20000:FF_Flasher DV_FLOL,FL_FL,6,750,100,Red|FF_Flasher DV_FLOR,FL_FL,6,750,100,White|FF_Flasher DV_FLIL,FL_FL,6,750,100,Green|FF_Flasher DV_FLIR,FL_FL,6,750,100,Blue|FF_Flasher DV_FLCN,FL_FL,6,750,100,Yellow|FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_DOF E610,2000|FF_DOF E746,2000|FF_DOF E657,2000|FF_DOF E748,2000|FF_DOF E614,2000
 # Extra live every 60000

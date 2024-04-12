@@ -11,6 +11,7 @@ COLOUR_PALETTE=Orange,Red,Orange_Red,Yellow,Blue,Lime,Golden_Rod,White
 BUTTONS_LIT=BUT_P1,BUT_P2
 FF_DOF=E63,-1
 
+
 [SHUTDOWN]
 KEY_TO_COMMAND=
 
@@ -29,9 +30,9 @@ DELAY=3000
 # SIngle segment
 SC=10:10:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E1,100|FF_DOF E2,100
 # Pooka, 200 - 500 but need to avoid overap of score
-SC=200:500:FF_Colour Lime,RGB_TT,3000|FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_DOF E564,800|FF_DOF E601,800|FF_DOF E569,800|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E773,1800|FF_PC,U,E,arcade/stream/mameoutput/digdug_pooka?l=1|FF_PC,U,E,arcade/stream/mame/digdug?l=99999&nogif
+SC=200:500:FF_Colour Lime,RGB_TT,3000|FF_Flasher DV_FLOL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLOR,FL_TT,1,450,100,Orange|FF_DOF E564,800|FF_DOF E601,800|FF_DOF E569,800|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E773,1800|FF_PC,U,E,arcade/stream/mameoutput/digdug_pooka?l=1
 # Fygar - again avoid score overlap - includes Carrot at 400 and Onion at 600 and Cucumber at 1000
-SC=501:1000:FF_Colour Blue,RGB_TT,3000|FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E510,1000|FF_DOF E512,1000|FF_PC,U,E,arcade/stream/mameoutput/digdug_fygar?l=1|FF_PC,U,E,arcade/stream/mame/digdug?l=99999&nogif
+SC=501:1000:FF_Colour Blue,RGB_TT,3000|FF_Flasher DV_FLOL,FL_TT,1,450,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,450,100,Cyan|FF_DOF E510,1000|FF_DOF E512,1000|FF_PC,U,E,arcade/stream/mameoutput/digdug_fygar?l=1
 # Aubergine
 SC=2000:2000:FF_Colour Green_Yellow,RGB_TT,2500|FF_Flasher DV_FLCN,FL_TT,1,500,100,Green|FF_Flasher DV_FLIL,FL_TT,1,500,100,Green|FF_Flasher DV_FLIR,FL_TT,1,500,100,Green|FF_DOF E695,1000|FF_DOF E701,1000|FF_DOF E697,1000|FF_DOF E703,1000|FF_DOF E699,1000
 # Cloverleaf
@@ -39,5 +40,5 @@ SC=3000:3000:FF_Colour Blue,RGB_TT,2500|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Blue
 # Tomato or 3 monsters with one rock
 SC=4000:4000:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,5000|FF_Flasher DV_FLOL,FL_FL,6,300,100,White|FF_Flasher DV_FLIL,FL_FL,6,300,100,White|FF_Flasher DV_FLCN,FL_FL,6,300,100,White|FF_Flasher DV_FLIR,FL_FL,6,300,100,White|FF_Flasher DV_FLOR,FL_FL,6,300,100,White|FF_DOF E786,1500
 # Bonus lives
-ST=20000:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E773,1800|FF_PC,U,E,arcade/stream/mameoutput/digdug_bonus?l=5|FF_PC,U,E,arcade/stream/mame/digdug?l=99999&nogif
-ST=60000:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E773,1800|FF_PC,U,E,arcade/stream/mameoutput/digdug_bonus?l=5|FF_PC,U,E,arcade/stream/mame/digdug?l=99999&nogif
+ST=20000:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E773,1800|FF_PC,U,E,arcade/stream/mameoutput/digdug_bonus?l=5
+ST=60000:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E773,1800|FF_PC,U,E,arcade/stream/mameoutput/digdug_bonus?l=5

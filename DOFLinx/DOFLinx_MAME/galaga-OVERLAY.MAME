@@ -5,11 +5,14 @@
 #
 ##################
 
+#PIXELCADE this version with overlays only works on pixelweb-legacy.exe at this time
+
 [STARTUP]
 BUTTON_COLOUR_CHANGE=BUT_EX,Dodger_Blue,BUT_P1,Orchid,BUT_P2,Pale_Green
 COLOUR_PALETTE=White,Red,Blue,Green
 KEY_TO_COMMAND=BUT_B1,fire
 FF_DOF=E63,-1
+PIXELCADE_REPLACE_LED_MARQUEE_AFTER_ANIMATION=0
 
 [SHUTDOWN]
 KEY_TO_COMMAND=

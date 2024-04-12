@@ -28,28 +28,28 @@ DELAY=3000
 # dot
 SC=10:10:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E218,-1
 # Power pellet
-SC=50:60:FF_Flasher DV_FLIL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLIR,FL_TT,1,450,100,Orange|FF_DOF E225,-1|FF_PC,U,E,arcade/stream/mameoutput/pacman_powerpellet?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=50:60:FF_Flasher DV_FLIL,FL_TT,1,450,100,Orange|FF_Flasher DV_FLIR,FL_TT,1,450,100,Orange|FF_DOF E225,-1|FF_PC,U,E,arcade/stream/mameoutput/pacman_powerpellet?l=1
 # 1 Ghost
-SC=200:210:FF_Flasher DV_FLOL,FL_FL,4,300,100,Blue|FF_Flasher DV_FLOR,FL_FL,4,300,100,Blue|FF_DOF E461,1000|FF_PC,U,E,arcade/stream/mameoutput/pacman_ghost200?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=200:210:FF_Flasher DV_FLOL,FL_FL,4,300,100,Blue|FF_Flasher DV_FLOR,FL_FL,4,300,100,Blue|FF_DOF E461,1000|FF_PC,U,E,arcade/stream/mameoutput/pacman_ghost200?l=1
 # 2 Ghost
-SC=400:410:FF_Flasher DV_FLOL,FL_FL,8,300,100,Cyan|FF_Flasher DV_FLOR,FL_FL,8,300,100,Cyan|FF_DOF E455,1000|FF_DOF E457,1000|FF_PC,U,E,arcade/stream/mameoutput/pacman_ghost400?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=400:410:FF_Flasher DV_FLOL,FL_FL,8,300,100,Cyan|FF_Flasher DV_FLOR,FL_FL,8,300,100,Cyan|FF_DOF E455,1000|FF_DOF E457,1000|FF_PC,U,E,arcade/stream/mameoutput/pacman_ghost400?l=1
 # 3 Ghost
-SC=800:810:FF_Flasher DV_FLCN,FL_FL,12,350,100,Cyan|FF_Flasher DV_FLOL,FL_FL,12,350,100,Cyan|FF_Flasher DV_FLOR,FL_FL,12,350,100,Cyan|FF_DOF E464,1200|FF_DOF E466,1200|FF_DOF E468,1200|FF_PC,U,E,arcade/stream/mameoutput/pacman_ghost800?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=800:810:FF_Flasher DV_FLCN,FL_FL,12,350,100,Cyan|FF_Flasher DV_FLOL,FL_FL,12,350,100,Cyan|FF_Flasher DV_FLOR,FL_FL,12,350,100,Cyan|FF_DOF E464,1200|FF_DOF E466,1200|FF_DOF E468,1200|FF_PC,U,E,arcade/stream/mameoutput/pacman_ghost800?l=1
 # 4 Ghost
-SC=1600:1610:FF_Flasher DV_FLOL,FL_FL,6,350,100,Random|FF_Flasher DV_FLIL,FL_FL,6,350,100,Random|FF_Flasher DV_FLCN,FL_FL,6,350,100,Random|FF_Flasher DV_FLIR,FL_FL,6,350,100,Random|FF_Flasher DV_FLOR,FL_FL,6,350,100,Random|FF_DOF E770,2500|FF_PC,U,E,arcade/stream/mameoutput/pacman_ghost1600?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=1600:1610:FF_Flasher DV_FLOL,FL_FL,6,350,100,Random|FF_Flasher DV_FLIL,FL_FL,6,350,100,Random|FF_Flasher DV_FLCN,FL_FL,6,350,100,Random|FF_Flasher DV_FLIR,FL_FL,6,350,100,Random|FF_Flasher DV_FLOR,FL_FL,6,350,100,Random|FF_DOF E770,2500|FF_PC,U,E,arcade/stream/mameoutput/pacman_ghost1600?l=1
 # Cherry
-SC=100:100:FF_Colour Red,RGB_TT,1500|FF_Flasher DV_FLIL,FL_TT,1,450,100,Red|FF_Flasher DV_FLIR,FL_TT,1,450,100,Red|FF_DOF E611,1000|FF_DOF E613,1000|FF_PC,U,E,arcade/stream/mameoutput/pacman_cherry?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=100:100:FF_Colour Red,RGB_TT,1500|FF_Flasher DV_FLIL,FL_TT,1,450,100,Red|FF_Flasher DV_FLIR,FL_TT,1,450,100,Red|FF_DOF E611,1000|FF_DOF E613,1000|FF_PC,U,E,arcade/stream/mameoutput/pacman_cherry?l=1
 # Strawberry
-SC=300:300:FF_Colour Orange_Red,RGB_TT,1500|FF_Flasher DV_FLCN,FL_TT,1,500,100,Orange_Red|FF_Flasher DV_FLIL,FL_TT,1,500,100,Orange_Red|FF_Flasher DV_FLIR,FL_TT,1,500,100,Orange_Red|FF_DOF E640,1000|FF_DOF E642,1000|FF_DOF E644,1000|FF_PC,U,E,arcade/stream/mameoutput/pacman_strawberry?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=300:300:FF_Colour Orange_Red,RGB_TT,1500|FF_Flasher DV_FLCN,FL_TT,1,500,100,Orange_Red|FF_Flasher DV_FLIL,FL_TT,1,500,100,Orange_Red|FF_Flasher DV_FLIR,FL_TT,1,500,100,Orange_Red|FF_DOF E640,1000|FF_DOF E642,1000|FF_DOF E644,1000|FF_PC,U,E,arcade/stream/mameoutput/pacman_strawberry?l=1
 # Orange
-SC=500:500:FF_Colour Orange,RGB_TT,1500|FF_Flasher DV_FLCN,FL_FL,4,500,100,Orange|FF_Flasher DV_FLIL,FL_FL,4,500,100,Orange|FF_Flasher DV_FLIR,FL_FL,4,500,100,Orange|FF_DOF E640,1000|FF_DOF E641,1000|FF_DOF E642,1000|FF_DOF E643,1000|FF_DOF E644,1000|FF_PC,U,E,arcade/stream/mameoutput/pacman_orange?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=500:500:FF_Colour Orange,RGB_TT,1500|FF_Flasher DV_FLCN,FL_FL,4,500,100,Orange|FF_Flasher DV_FLIL,FL_FL,4,500,100,Orange|FF_Flasher DV_FLIR,FL_FL,4,500,100,Orange|FF_DOF E640,1000|FF_DOF E641,1000|FF_DOF E642,1000|FF_DOF E643,1000|FF_DOF E644,1000|FF_PC,U,E,arcade/stream/mameoutput/pacman_orange?l=1
 # Pretzel
-SC=700:700:FF_Colour Blue,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Blue|FF_DOF E620,1400|FF_DOF E607,1400|FF_DOF E619,1400|FF_PC,U,E,arcade/stream/mameoutput/mspacman_pretzel?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=700:700:FF_Colour Blue,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Blue|FF_DOF E620,1400|FF_DOF E607,1400|FF_DOF E619,1400|FF_PC,U,E,arcade/stream/mameoutput/mspacman_pretzel?l=1
 # Apple
-SC=1000:1000:FF_Dev DV_MC,-1|FF_Colour Cyan,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Cyan|FF_Flasher DV_FLIL,FL_FL,6,500,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Cyan|FF_Flasher DV_FLIR,FL_FL,6,500,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Cyan|FF_DOF E570,1400|FF_DOF E576,1400|FF_DOF E587,1400|FF_PC,U,E,arcade/stream/mameoutput/pacman_apple?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=1000:1000:FF_Dev DV_MC,-1|FF_Colour Cyan,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Cyan|FF_Flasher DV_FLIL,FL_FL,6,500,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Cyan|FF_Flasher DV_FLIR,FL_FL,6,500,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Cyan|FF_DOF E570,1400|FF_DOF E576,1400|FF_DOF E587,1400|FF_PC,U,E,arcade/stream/mameoutput/pacman_apple?l=1
 # Pear
-SC=2000:2000:FF_Dev DV_KN,-1|FF_Colour Blue,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Blue|FF_DOF E620,1400|FF_DOF E624,1400|FF_DOF E622,1400|FF_DOF E606,1400|FF_DOF E608,1400|FF_PC,U,E,arcade/stream/mameoutput/mspacman_pear?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=2000:2000:FF_Dev DV_KN,-1|FF_Colour Blue,RGB_TT,1500|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIL,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,1500,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Blue|FF_DOF E620,1400|FF_DOF E624,1400|FF_DOF E622,1400|FF_DOF E606,1400|FF_DOF E608,1400|FF_PC,U,E,arcade/stream/mameoutput/mspacman_pear?l=1
 # Banana
-SC=5000:5000:FF_Dev DV_KN,-1|FF_Colour Yellow,RGB_TT,1500|FF_Flasher DV_FLOL,FL_FL,6,500,100,Yellow|FF_Flasher DV_FLIL,FL_FL,6,500,100,Yellow|FF_Flasher DV_FLCN,FL_FL,6,500,100,Yellow|FF_Flasher DV_FLIR,FL_FL,6,500,100,Yellow|FF_Flasher DV_FLOR,FL_FL,6,500,100,Yellow|FF_DOF E620,1400|FF_DOF E607,1400|FF_DOF E619,1400|FF_PC,U,E,arcade/stream/mameoutput/mspacman_bannana?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=5000:5000:FF_Dev DV_KN,-1|FF_Colour Yellow,RGB_TT,1500|FF_Flasher DV_FLOL,FL_FL,6,500,100,Yellow|FF_Flasher DV_FLIL,FL_FL,6,500,100,Yellow|FF_Flasher DV_FLCN,FL_FL,6,500,100,Yellow|FF_Flasher DV_FLIR,FL_FL,6,500,100,Yellow|FF_Flasher DV_FLOR,FL_FL,6,500,100,Yellow|FF_DOF E620,1400|FF_DOF E607,1400|FF_DOF E619,1400|FF_PC,U,E,arcade/stream/mameoutput/mspacman_bannana?l=1
 # ?
-SC=10000:10000:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,1500|FF_Flasher DV_FLOL,FL_FL,6,300,100,Random|FF_Flasher DV_FLIL,FL_FL,6,300,100,Random|FF_Flasher DV_FLCN,FL_FL,6,300,100,Random|FF_Flasher DV_FLIR,FL_FL,6,300,100,Random|FF_Flasher DV_FLOR,FL_FL,6,300,100,Random|FF_DOF E786,2500|FF_PC,U,E,arcade/stream/mameoutput/mspacman_bannana?l=1|FF_PC,U,E,arcade/stream/mame/mspacman?l=99999&nogif
+SC=10000:10000:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,1500|FF_Flasher DV_FLOL,FL_FL,6,300,100,Random|FF_Flasher DV_FLIL,FL_FL,6,300,100,Random|FF_Flasher DV_FLCN,FL_FL,6,300,100,Random|FF_Flasher DV_FLIR,FL_FL,6,300,100,Random|FF_Flasher DV_FLOR,FL_FL,6,300,100,Random|FF_DOF E786,2500|FF_PC,U,E,arcade/stream/mameoutput/mspacman_bannana?l=1

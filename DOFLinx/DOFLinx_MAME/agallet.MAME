@@ -29,26 +29,26 @@ M2=,,,1,STRING,FORWARD
 DELAY=1500
 
 # Destroy simple plane
-SC=010:100:FF_Flasher DV_FLCN,FL_TT,1,300,100,Blue|FF_DOF E218,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion1?l=1|FF_PC,U,E,arcade/stream/mame/agallet?l=99999&nogif
+SC=010:100:FF_Flasher DV_FLCN,FL_TT,1,300,100,Blue|FF_DOF E218,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion1?l=1
 
 # Destroy tank,helicopter,orange planes
-SC=110:200:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E225,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion6?l=1|FF_PC,U,E,arcade/stream/mame/agallet?l=99999&nogif
+SC=110:200:FF_Flasher DV_FLOL,FL_TT,1,450,100,White|FF_Flasher DV_FLOR,FL_TT,1,450,100,White|FF_Flasher DV_FLCN,FL_TT,1,450,100,White|FF_DOF E225,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion6?l=1
 
 # Destroy green helicopter, Big green plane
-SC=210:300:FF_Flasher DV_FLOL,FL_TT,1,450,100,Yellow|FF_Flasher DV_FLOR,FL_TT,1,450,100,Yellow|FF_Flasher DV_FLCN,FL_TT,1,450,100,Yellow|FF_DOF E223,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion6?l=1|FF_PC,U,E,arcade/stream/mame/agallet?l=99999&nogif
+SC=210:300:FF_Flasher DV_FLOL,FL_TT,1,450,100,Yellow|FF_Flasher DV_FLOR,FL_TT,1,450,100,Yellow|FF_Flasher DV_FLCN,FL_TT,1,450,100,Yellow|FF_DOF E223,1000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion6?l=1
 # Destroy antiaerial
-SC=310:990:FF_Flasher DV_FLOL,FL_TT,1,450,100,Red|FF_Flasher DV_FLOR,FL_TT,1,450,100,Red|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion6?l=1|FF_PC,U,E,arcade/stream/mame/agallet?l=99999&nogif
+SC=310:990:FF_Flasher DV_FLOL,FL_TT,1,450,100,Red|FF_Flasher DV_FLOR,FL_TT,1,450,100,Red|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion6?l=1
 |FF_DOF E570,1000|FF_DOF E566,1500|FF_DOF E572,1000
 # Various 1
-SC=1000:1990:FF_Flasher DV_FLIL,FL_FL,6,300,100,White|FF_Flasher DV_FLIR,FL_FL,6,300,100,White|FF_DOF E620,1500|FF_DOF E622,1500|FF_DOF E624,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/agallet?l=99999&nogif
+SC=1000:1990:FF_Flasher DV_FLIL,FL_FL,6,300,100,White|FF_Flasher DV_FLIR,FL_FL,6,300,100,White|FF_DOF E620,1500|FF_DOF E622,1500|FF_DOF E624,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1
 # Various 2
-SC=2000:2990:FF_Flasher DV_FLIL,FL_FL,6,300,100,Yellow|FF_Flasher DV_FLIR,FL_FL,6,300,100,Yellow|FF_DOF E610,1500|FF_DOF E612,1500|FF_DOF E614,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/agallet?l=99999&nogif
+SC=2000:2990:FF_Flasher DV_FLIL,FL_FL,6,300,100,Yellow|FF_Flasher DV_FLIR,FL_FL,6,300,100,Yellow|FF_DOF E610,1500|FF_DOF E612,1500|FF_DOF E614,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1
 # Dome
-SC=3000:4990:FF_Flasher DV_FLIL,FL_FL,6,300,100,Red|FF_Flasher DV_FLIR,FL_FL,6,300,100,Red|FF_DOF E625,1500|FF_DOF E627,1500|FF_DOF E629,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/agallet?l=99999&nogif
+SC=3000:4990:FF_Flasher DV_FLIL,FL_FL,6,300,100,Red|FF_Flasher DV_FLIR,FL_FL,6,300,100,Red|FF_DOF E625,1500|FF_DOF E627,1500|FF_DOF E629,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1
 # Various medium
-SC=5000:9990:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_TT,1,450,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,450,100,Blue|FF_Flasher DV_FLIL,FL_TT,1,450,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,450,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,450,100,Blue|FF_DOF E720,1500|FF_DOF E687,1500|FF_DOF E724,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/agallet?l=99999&nogif
+SC=5000:9990:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_TT,1,450,100,Blue|FF_Flasher DV_FLOR,FL_TT,1,450,100,Blue|FF_Flasher DV_FLIL,FL_TT,1,450,100,Blue|FF_Flasher DV_FLIR,FL_TT,1,450,100,Blue|FF_Flasher DV_FLCN,FL_TT,1,450,100,Blue|FF_DOF E720,1500|FF_DOF E687,1500|FF_DOF E724,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1
 # Various high
-SC=10000:19990:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,White|FF_Flasher DV_FLOR,FL_FL,6,750,100,Red|FF_Flasher DV_FLIL,FL_FL,6,750,100,White|FF_Flasher DV_FLIR,FL_FL,6,750,100,Red|FF_Flasher DV_FLCN,FL_FL,6,750,100,White|FF_DOF E650,1500|FF_DOF E606,1500|FF_DOF E654,1500|FF_DOF E608,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1|FF_PC,U,E,arcade/stream/mame/agallet?l=99999&nogif
+SC=10000:19990:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,White|FF_Flasher DV_FLOR,FL_FL,6,750,100,Red|FF_Flasher DV_FLIL,FL_FL,6,750,100,White|FF_Flasher DV_FLIR,FL_FL,6,750,100,Red|FF_Flasher DV_FLCN,FL_FL,6,750,100,White|FF_DOF E650,1500|FF_DOF E606,1500|FF_DOF E654,1500|FF_DOF E608,1500|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1
 # Bamboo Sprout
 SC=20000:49990:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,White|FF_Flasher DV_FLOR,FL_FL,6,750,100,White|FF_Flasher DV_FLIL,FL_FL,6,750,100,Green|FF_Flasher DV_FLIR,FL_FL,6,750,100,White|FF_Flasher DV_FLCN,FL_FL,6,750,100,White|FF_DOF E494,2500|FF_DOF E566,2500|FF_DOF E498,2500
 # Holstein

@@ -15,7 +15,7 @@ FF_DOF=E80,-1
 KEY_TO_COMMAND=
 
 [COMMANDS]
-knocker0|ON|FF_DEV DV_KN,-1|FF_PC,U,E,arcade/stream/mameoutput/qbert_fall?t=Aarrgh&l=1&dot|FF_PC,U,E,arcade/stream/mame/qbert?l=99999&nogif
+knocker0|ON|FF_DEV DV_KN,-1|FF_PC,U,E,arcade/stream/mameoutput/qbert_fall?t=Aarrgh&l=1&dot
 coin|ON|FF_DOF E80,0
 player1|ON|FF_DOF E80,0
 player2|ON|FF_DOF E80,0
