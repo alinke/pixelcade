@@ -15,7 +15,6 @@ PIXELCADE_REPLACE_LED_MARQUEE_AFTER_ANIMATION=0
 
 [SHUTDOWN]
 KEY_TO_COMMAND=
-PIXELCADE_REPLACE_LED_MARQUEE_AFTER_ANIMATION=1
 
 [COMMANDS]
 lamp0|ON|FF_PC,U,E,arcade/stream/mameoutput/gorf_spacecadet|FF_PC,U,C,arcade/stream/mameoutput/gorf_spacecadet|FF_Flasher DV_FLOL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLOR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIL,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLIR,FL_TT,1,450,100,Magenta|FF_Flasher DV_FLCN,FL_TT,1,450,100,Magenta
