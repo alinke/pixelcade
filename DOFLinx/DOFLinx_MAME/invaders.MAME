@@ -11,6 +11,7 @@ BUTTONS_LIT=BUT_P1,BUT_P2
 COLOUR_PALETTE=White,Red,Green
 KEY_TO_COMMAND=BUT_B1,fire
 FF_DOF=E58,-1
+PIXELCADE_REPLACE_LED_MARQUEE_AFTER_ANIMATION=0
 
 [SHUTDOWN]
 KEY_TO_COMMAND=
@@ -36,3 +37,4 @@ SC=30:30:FF_Flasher DV_FLOL,FL_TT,1,400,100,Cyan|FF_Flasher DV_FLOR,FL_TT,1,400,
 SC=40:400:FF_Flasher DV_FLCN,FL_TT,1,500,100,Random|FF_Flasher DV_FLIL,FL_TT,1,500,100,Random|FF_DOF E223,-1|FF_PC,U,E,arcade/stream/mameoutput/invaders_magenta?l=1
 # Set some regular milestones
 SE=1000:1000:10:FF_Dev DV_MC,-1|FF_Flasher DV_FLOL,FL_FL,6,500,100,Random|FF_Flasher DV_FLOR,FL_FL,4,500,100,Random|FF_Flasher DV_FLIL,FL_FL,4,500,100,Random|FF_Flasher DV_FLIR,FL_FL,4,500,100,Random|FF_Flasher DV_FLCN,FL_FL,4,500,100,Random|FF_DOF E774,3000
+SD=3000:FF_PC,U,E,arcade/stream/mame/invaders?l=99999&nogif

@@ -1,7 +1,7 @@
 ##################
 #
 # MAME configration for galaga3
-# DOFLinx force feedback configuration file v5
+# DOFLinx force feedback configuration file v6
 #
 ##################
 
@@ -11,6 +11,7 @@ BUTTONS_LIT=BUT_P1,BUT_P2
 COLOUR_PALETTE=White,Red,Blue,Silver
 KEY_TO_COMMAND=BUT_B1,fire
 FF_DOF=E63,7000
+PIXELCADE_REPLACE_LED_MARQUEE_AFTER_ANIMATION=0
 
 [SHUTDOWN]
 KEY_TO_COMMAND=
@@ -43,3 +44,4 @@ SC=10000:10000:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,3000|FF_Flasher DV_FLOL,FL
 #ST=30000:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,5000|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E773,1800|FF_PC,U,E,arcade/stream/mameoutput/galaga_newship?l=1
 # Subsequent New Ships
 #SE=70000:70000:10:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,5000|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E781,1800|FF_PC,U,E,arcade/stream/mameoutput/galaga_newship?l=1
+SD=3000:FF_PC,U,E,arcade/stream/mame/galaga3?l=99999&nogif

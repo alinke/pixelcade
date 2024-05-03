@@ -47,3 +47,4 @@ SC=50000:50000:FF_Colour Orange_Red,RGB_TT,2500|FF_Flasher DV_FLOL,FL_TT,1,300,1
 SC=80000:80000:FF_Colour White,RGB_TT,2500|FF_Flasher DV_FLOL,FL_TT,1,300,100,Random|FF_Flasher DV_FLIL,FL_TT,1,300,100,Random|FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_Flasher DV_FLIR,FL_TT,1,300,100,Random|FF_Flasher DV_FLOR,FL_TT,1,300,100,Random|FF_DOF E781,2500|FF_PC,U,E,arcade/stream/mameoutput/pacman_strawberry?l=1
 # Dragonfly
 SC=100000:100000:FF_DV DV_KN,-1|FF_Flasher DV_FLOL,FL_TT,1,300,100,Random|FF_Flasher DV_FLIL,FL_TT,1,300,100,Random|FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_Flasher DV_FLIR,FL_TT,1,300,100,Random|FF_Flasher DV_FLOR,FL_TT,1,300,100,Random|FF_DOF E785,2500
+SD=3000:FF_PC,U,E,arcade/stream/mame/1941?l=99999&nogif

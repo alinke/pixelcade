@@ -1,7 +1,7 @@
 ##################
 #
 # MAME configration for 19XX
-# DOFLinx force feedback configuration file v4
+# DOFLinx force feedback configuration file v5
 # Created by D@VS0ut0
 ##################
 
@@ -54,4 +54,5 @@ SC=2000:2000:FF_Flasher DV_FLOL,FL_FL,6,300,100,White|FF_Flasher DV_FLIL,FL_FL,6
 SC=5000:5000:FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_Flasher DV_FLOL,FL_FL,6,300,100,Dark_blue|FF_Flasher DV_FLIL,FL_FL,6,300,100,Dark_blue|FF_Flasher DV_FLCN,FL_FL,6,300,100,Dark_blue|FF_Flasher DV_FLIR,FL_FL,6,300,100,Dark_blue|FF_DOF E785,2000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1
 
 SC=10000:10000:FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_Flasher DV_FLOL,FL_FL,6,300,100,Silver|FF_Flasher DV_FLIL,FL_FL,6,300,100,Dark_blue|FF_Flasher DV_FLCN,FL_FL,6,300,100,Dark_blue|FF_Flasher DV_FLIR,FL_FL,6,300,100,Silver|FF_DOF E779,2000|FF_PC,U,E,arcade/stream/mameoutput/generic_explosion-long1?l=1
+SD=3000:FF_PC,U,E,arcade/stream/mame/19xx?l=99999&nogif
 

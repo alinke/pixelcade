@@ -1,7 +1,7 @@
 ##################
 #
 # MAME configration for galaga
-# DOFLinx force feedback configuration file v6
+# DOFLinx force feedback configuration file v7
 #
 ##################
 
@@ -10,14 +10,15 @@ BUTTON_COLOUR_CHANGE=BUT_EX,Dodger_Blue,BUT_P1,Orchid,BUT_P2,Pale_Green
 COLOUR_PALETTE=White,Red,Blue,Green
 KEY_TO_COMMAND=BUT_B1,fire
 FF_DOF=E63,-1
+PIXELCADE_REPLACE_LED_MARQUEE_AFTER_ANIMATION=0
 
 [SHUTDOWN]
 KEY_TO_COMMAND=
 
 [COMMANDS]
-led0|ON|FF_Button BUT_P1,BA_ON,0,0|FF_DOF E51,1200|FF_PC,S,C,Player%201
+led0|ON|FF_Button BUT_P1,BA_ON,0,0|FF_DOF E51,1200
 led0|OFF|FF_Button BUT_P1,BA_OFF,0,0|FF_PC,S,C,%20
-led1|ON|FF_Button BUT_P2,BA_ON,0,0|FF_DOF E51,1200|FF_PC,S,C,Player%202
+led1|ON|FF_Button BUT_P2,BA_ON,0,0|FF_DOF E51,1200
 led1|OFF|FF_Button BUT_P2,BA_OFF,0,0|FF_PC,S,C,%20
 fire|ON|FF_DOF E212,-1|FF_DOF E213,-1
 coin|ON|FF_DOF E63,0
@@ -47,4 +48,5 @@ SC=10000:10000:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,1500|FF_Flasher DV_FLOL,FL
 ST=30000:FF_Dev DV_MC,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E773,1800|FF_PC,U,E,arcade/stream/mameoutput/galaga_newship?l=1
 # Subsequent New Ships
 SE=80000:80000:10:FF_Dev DV_MC,-1|FF_Flasher DV_FLOL,FL_FL,6,750,100,Random|FF_Flasher DV_FLOR,FL_FL,6,750,100,Random|FF_Flasher DV_FLIL,FL_FL,6,750,100,Random|FF_Flasher DV_FLIR,FL_FL,6,750,100,Random|FF_Flasher DV_FLCN,FL_FL,6,750,100,Random|FF_DOF E781,1800|FF_PC,U,E,arcade/stream/mameoutput/galaga_newship?l=1
+SD=3000:FF_PC,U,E,arcade/stream/mame/galaga?l=99999&nogif
 

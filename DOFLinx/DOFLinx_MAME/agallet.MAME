@@ -1,7 +1,7 @@
 ##################
 #
 # MAME configration for Air Gallet
-# DOFLinx force feedback configuration file v2
+# DOFLinx force feedback configuration file v4
 # Created By D@vS0ut0
 ##################
 
@@ -58,6 +58,6 @@ SC=50000:79990:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FD,10,750,100,White|FF_Flas
 SC=80000:99990:FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_Flasher DV_FLOL,FL_FD,10,750,100,Red|FF_Flasher DV_FLOR,FL_FD,10,750,100,Red|FF_Flasher DV_FLIL,FL_FD,10,750,100,Green|FF_Flasher DV_FLIR,FL_FD,10,750,100,Red|FF_Flasher DV_FLCN,FL_FD,10,750,100,Red|FF_DOF E781,2500
 # Dragonfly
 SC=100000:100000:FF_Dev DV_ML,-1|FF_Dev DV_MC,-1|FF_Dev DV_MR,-1|FF_Flasher DV_FLOL,FL_FD,10,750,100,Blue|FF_Flasher DV_FLOR,FL_FD,10,750,100,Blue|FF_Flasher DV_FLIL,FL_FD,10,750,100,Blue|FF_Flasher DV_FLIR,FL_FD,10,750,100,Blue|FF_Flasher DV_FLCN,FL_FD,10,750,100,Blue|FF_DOF E785,2500
-
+SD=3000:FF_PC,U,E,arcade/stream/mame/agallet?l=99999&nogif
 
 

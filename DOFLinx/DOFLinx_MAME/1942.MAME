@@ -1,7 +1,7 @@
 ##################
 #
 # MAME configration for 1942
-# DOFLinx force feedback configuration file v3
+# DOFLinx force feedback configuration file v4
 #
 ##################
 
@@ -12,7 +12,6 @@ COLOUR_PALETTE=White,Orange_Red,Blue,Silver,Green,Yellow_Green,Dodger_Blue,Orang
 KEY_TO_COMMAND=BUT_B1,fire,BUT_B2,loop
 FF_DOF=E66,-1
 PIXELCADE_REPLACE_LED_MARQUEE_AFTER_ANIMATION=0
-
 
 [SHUTDOWN]
 KEY_TO_COMMAND=
@@ -40,3 +39,4 @@ SC=200:200:FF_Flasher DV_FLCN,FL_FL,12,350,100,Cyan|FF_Flasher DV_FLOL,FL_FL,12,
 SC=1000:1500:FF_Colour Yellow_Green,RGB_TT,3000|FF_Flasher DV_FLOL,FL_TT,1,1500,100,Yellow_Green|FF_Flasher DV_FLIL,FL_TT,1,1500,100,Yellow_Green|FF_Flasher DV_FLCN,FL_TT,1,1500,100,Yellow_Green|FF_Flasher DV_FLIR,FL_TT,1,1500,100,Yellow_Green|FF_Flasher DV_FLOR,FL_TT,1,1500,100,Yellow_Green|FF_DOF E574,2000|FF_DOF E576,2000|FF_DOF E578,2000
 # Challenge Stage Bonus
 SC=20000:50000:FF_Dev DV_KN,-1|FF_Colour White,RGB_TT,3000|FF_Flasher DV_FLOL,FL_FL,6,300,100,White|FF_Flasher DV_FLIL,FL_FL,6,300,100,White|FF_Flasher DV_FLCN,FL_FL,6,300,100,White|FF_Flasher DV_FLIR,FL_FL,6,300,100,White|FF_Flasher DV_FLOR,FL_FL,6,300,100,White|FF_DOF E786,2500
+SD=3000:FF_PC,U,E,arcade/stream/mame/1942?l=99999&nogif

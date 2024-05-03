@@ -1,7 +1,7 @@
 ##################
 #
 # MAME configration for 1943: Battle of Midway
-# DOFLinx force feedback configuration file v2
+# DOFLinx force feedback configuration file v3
 # Created By D@vS0ut0
 ##################
 
@@ -12,6 +12,7 @@ COLOUR_PALETTE=White,Cyan,Silver,Yellow,Red,Orange_red
 KEY_TO_COMMAND=BUT_B1,fire,BUT_B2,loop
 FF_DOF=E66,-1
 PIXELCADE_REPLACE_LED_MARQUEE_AFTER_ANIMATION=0
+
 [SHUTDOWN]
 
 
@@ -44,3 +45,4 @@ SC=10000:10000:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E776,1500
 SC=20000:20000:FF_Flasher DV_FLCN,FL_TT,1,300,100,Random|FF_DOF E783,1500|FF_Flasher DV_FLCN,FL_FL,6,750,100,White|FF_PC,U,E,arcade/stream/mameoutput/pacman_strawberry?l=1
 # Mobi-chan
 SC=100000:100000:FF_Dev DV_KN,-1|FF_Flasher DV_FLOL,FL_FD,10,750,100,Silver|FF_Flasher DV_FLOR,FL_FD,10,750,100,Silver|FF_Flasher DV_FLIL,FL_FD,10,750,100,Silver|FF_Flasher DV_FLIR,FL_FD,10,750,100,Silver|FF_Flasher DV_FLCN,FL_FD,10,750,100,Silver|FF_DOF E777,1500
+SD=3000:FF_PC,U,E,arcade/stream/mame/1943?l=99999&nogif
