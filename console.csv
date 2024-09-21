@@ -26,6 +26,7 @@ mame2003,mame
 mame_(vector),mame
 mame_(vertical),mame
 platforms,console
+displays_menu,console
 platformcategories,console
 _allarcadeconsole,console
 atari 2600,atari2600
