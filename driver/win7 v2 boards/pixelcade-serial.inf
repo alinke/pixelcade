@@ -1,5 +1,4 @@
-; Windows 2000, XP, Vista, 7 and 8 (x32 and x64) setup file for Atmel CDC Devices
-; Copyright (c) 2000-2013 ATMEL, Inc.
+; Windows 2000, XP, Vista, 7 and 8 (x32 and x64) setup file for Pixelcade V2 (Purple Boards)
 
 [Version] 
 Signature   = "$Windows NT$" 
