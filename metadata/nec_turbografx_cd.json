@@ -1,0 +1,428 @@
+{
+  "platform": "nec_turbografx_cd",
+  "totalGames": 46,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "nec_turbografx_cd game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "nec_turbografx_cd.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "4 in 1 Super CD (USA)",
+      "fullpath": "nec_turbografx_cd-4 in 1 Super CD (USA)",
+      "name": "4 in 1 Super CD (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Addams Family, The (USA)",
+      "fullpath": "nec_turbografx_cd-Addams Family, The (USA)",
+      "name": "Addams Family, The (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Beyond Shadowgate (USA)",
+      "fullpath": "nec_turbografx_cd-Beyond Shadowgate (USA)",
+      "name": "Beyond Shadowgate (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Bonk 3 - Bonk's Big Adventure (USA)",
+      "fullpath": "nec_turbografx_cd-Bonk 3 - Bonk's Big Adventure (USA)",
+      "name": "Bonk 3 - Bonk's Big Adventure (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Buster Bros. (USA)",
+      "fullpath": "nec_turbografx_cd-Buster Bros. (USA)",
+      "name": "Buster Bros. (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Camp California (USA)",
+      "fullpath": "nec_turbografx_cd-Camp California (USA)",
+      "name": "Camp California (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cosmic Fantasy 2 (USA)",
+      "fullpath": "nec_turbografx_cd-Cosmic Fantasy 2 (USA)",
+      "name": "Cosmic Fantasy 2 (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cotton - Fantastic Night Dreams (USA)",
+      "fullpath": "nec_turbografx_cd-Cotton - Fantastic Night Dreams (USA)",
+      "name": "Cotton - Fantastic Night Dreams (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dragon Slayer - The Legend of Heroes (USA)",
+      "fullpath": "nec_turbografx_cd-Dragon Slayer - The Legend of Heroes (USA)",
+      "name": "Dragon Slayer - The Legend of Heroes (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dungeon Explorer II (USA)",
+      "fullpath": "nec_turbografx_cd-Dungeon Explorer II (USA)",
+      "name": "Dungeon Explorer II (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dungeon Master - Theron's Quest (USA)",
+      "fullpath": "nec_turbografx_cd-Dungeon Master - Theron's Quest (USA)",
+      "name": "Dungeon Master - Theron's Quest (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dynastic Hero, The (USA)",
+      "fullpath": "nec_turbografx_cd-Dynastic Hero, The (USA)",
+      "name": "Dynastic Hero, The (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Exile (USA)",
+      "fullpath": "nec_turbografx_cd-Exile (USA)",
+      "name": "Exile (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Exile 2 - Wicked Phenomenon (USA)",
+      "fullpath": "nec_turbografx_cd-Exile 2 - Wicked Phenomenon (USA)",
+      "name": "Exile 2 - Wicked Phenomenon (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fantasy Star Soldier (USA)",
+      "fullpath": "nec_turbografx_cd-Fantasy Star Soldier (USA)",
+      "name": "Fantasy Star Soldier (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fighting Street (USA)",
+      "fullpath": "nec_turbografx_cd-Fighting Street (USA)",
+      "name": "Fighting Street (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Final Zone II (USA)",
+      "fullpath": "nec_turbografx_cd-Final Zone II (USA)",
+      "name": "Final Zone II (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Forgotten Worlds (USA)",
+      "fullpath": "nec_turbografx_cd-Forgotten Worlds (USA)",
+      "name": "Forgotten Worlds (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Godzilla (USA)",
+      "fullpath": "nec_turbografx_cd-Godzilla (USA)",
+      "name": "Godzilla (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Implode (USA)",
+      "fullpath": "nec_turbografx_cd-Implode (USA)",
+      "name": "Implode (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "It Came From The Desert (USA)",
+      "fullpath": "nec_turbografx_cd-It Came From The Desert (USA)",
+      "name": "It Came From The Desert (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "J. B  Harold Murder Club (USA)",
+      "fullpath": "nec_turbografx_cd-J. B  Harold Murder Club (USA)",
+      "name": "J. B  Harold Murder Club (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jack Nicklaus Turbo Golf (USA)",
+      "fullpath": "nec_turbografx_cd-Jack Nicklaus Turbo Golf (USA)",
+      "name": "Jack Nicklaus Turbo Golf (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "John Madden Duo CD Football (USA)",
+      "fullpath": "nec_turbografx_cd-John Madden Duo CD Football (USA)",
+      "name": "John Madden Duo CD Football (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Last Alert (USA)",
+      "fullpath": "nec_turbografx_cd-Last Alert (USA)",
+      "name": "Last Alert (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Loom (USA)",
+      "fullpath": "nec_turbografx_cd-Loom (USA)",
+      "name": "Loom (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Lords of the Rising Sun (USA)",
+      "fullpath": "nec_turbografx_cd-Lords of the Rising Sun (USA)",
+      "name": "Lords of the Rising Sun (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Lords of Thunder (USA)",
+      "fullpath": "nec_turbografx_cd-Lords of Thunder (USA)",
+      "name": "Lords of Thunder (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Magical Dinosaur Tour (USA)",
+      "fullpath": "nec_turbografx_cd-Magical Dinosaur Tour (USA)",
+      "name": "Magical Dinosaur Tour (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Might and Magic III - Isles of Terra (USA)",
+      "fullpath": "nec_turbografx_cd-Might and Magic III - Isles of Terra (USA)",
+      "name": "Might and Magic III - Isles of Terra (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Prince of Persia (USA)",
+      "fullpath": "nec_turbografx_cd-Prince of Persia (USA)",
+      "name": "Prince of Persia (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Riot Zone (USA)",
+      "fullpath": "nec_turbografx_cd-Riot Zone (USA)",
+      "name": "Riot Zone (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shadow of the Beast (USA)",
+      "fullpath": "nec_turbografx_cd-Shadow of the Beast (USA)",
+      "name": "Shadow of the Beast (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shape Shifter (USA)",
+      "fullpath": "nec_turbografx_cd-Shape Shifter (USA)",
+      "name": "Shape Shifter (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sherlock Holmes Consulting Detective (USA)",
+      "fullpath": "nec_turbografx_cd-Sherlock Holmes Consulting Detective (USA)",
+      "name": "Sherlock Holmes Consulting Detective (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sherlock Holmes Consulting Detective Vol 2 (USA)",
+      "fullpath": "nec_turbografx_cd-Sherlock Holmes Consulting Detective Vol 2 (USA)",
+      "name": "Sherlock Holmes Consulting Detective Vol 2 (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sim Earth - The Living Planet (USA)",
+      "fullpath": "nec_turbografx_cd-Sim Earth - The Living Planet (USA)",
+      "name": "Sim Earth - The Living Planet (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Splash Lake (USA)",
+      "fullpath": "nec_turbografx_cd-Splash Lake (USA)",
+      "name": "Splash Lake (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Air Zonk (USA)",
+      "fullpath": "nec_turbografx_cd-Super Air Zonk (USA)",
+      "name": "Super Air Zonk (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Syd Mead's Terra Forming (USA)",
+      "fullpath": "nec_turbografx_cd-Syd Mead's Terra Forming (USA)",
+      "name": "Syd Mead's Terra Forming (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Valis II (USA)",
+      "fullpath": "nec_turbografx_cd-Valis II (USA)",
+      "name": "Valis II (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Valis III (USA)",
+      "fullpath": "nec_turbografx_cd-Valis III (USA)",
+      "name": "Valis III (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Vasteel (USA)",
+      "fullpath": "nec_turbografx_cd-Vasteel (USA)",
+      "name": "Vasteel (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wonder Boy III - Monster Lair (USA)",
+      "fullpath": "nec_turbografx_cd-Wonder Boy III - Monster Lair (USA)",
+      "name": "Wonder Boy III - Monster Lair (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ys Book I & II - Ancient Ys Vanished (USA)",
+      "fullpath": "nec_turbografx_cd-Ys Book I & II - Ancient Ys Vanished (USA)",
+      "name": "Ys Book I & II - Ancient Ys Vanished (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ys III - Wanderers from Ys (USA)",
+      "fullpath": "nec_turbografx_cd-Ys III - Wanderers from Ys (USA)",
+      "name": "Ys III - Wanderers from Ys (USA)",
+      "year": "1990",
+      "publisher": "TurboGrafx CD",
+      "genre": "General",
+      "rating": "HSRS - GA (General Audience)"
+    }
+  ]
+}

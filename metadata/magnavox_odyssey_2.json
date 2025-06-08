@@ -1,0 +1,653 @@
+{
+  "platform": "magnavox_odyssey_2",
+  "totalGames": 71,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "magnavox_odyssey_2 game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "magnavox_odyssey_2.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Alien Invaders - Plus (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Alien Invaders - Plus (USA, Europe)",
+      "name": "Alien Invaders - Plus",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alpine Skiing (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Alpine Skiing (USA, Europe)",
+      "name": "Alpine Skiing",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Armored Encounter + Sub Chase (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Armored Encounter + Sub Chase (USA, Europe)",
+      "name": "Armored Encounter + Sub Chase",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Atlantis (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Atlantis (USA, Europe)",
+      "name": "Atlantis",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Attack of the Timelord (USA)",
+      "fullpath": "magnavox_odyssey_2-Attack of the Timelord (USA)",
+      "name": "Attack of the Timelord",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Baseball (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Baseball (USA, Europe)",
+      "name": "Baseball",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blockout + Breakdown (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Blockout + Breakdown (USA, Europe)",
+      "name": "Blockout + Breakdown",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bowling + Basketball (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Bowling + Basketball (USA, Europe)",
+      "name": "Bowling + Basketball",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Calculator! (USA) (Unl)",
+      "fullpath": "magnavox_odyssey_2-Calculator! (USA) (Unl)",
+      "name": "Calculator!",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Casino Slot Machine (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Casino Slot Machine (USA, Europe)",
+      "name": "Casino Slot Machine",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Catch the Ball + Noughts and Crosses (Europe)",
+      "fullpath": "magnavox_odyssey_2-Catch the Ball + Noughts and Crosses (Europe)",
+      "name": "Catch the Ball + Noughts and Crosses",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chinese Logic (Europe)",
+      "fullpath": "magnavox_odyssey_2-Chinese Logic (Europe)",
+      "name": "Chinese Logic",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Clay Pigeon (Brazil)",
+      "fullpath": "magnavox_odyssey_2-Clay Pigeon (Brazil)",
+      "name": "Clay Pigeon",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Comando Noturno",
+      "fullpath": "magnavox_odyssey_2-Comando Noturno",
+      "name": "Comando Noturno",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Computer Golf (USA)",
+      "fullpath": "magnavox_odyssey_2-Computer Golf (USA)",
+      "name": "Computer Golf",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Computer Intro (USA)",
+      "fullpath": "magnavox_odyssey_2-Computer Intro (USA)",
+      "name": "Computer Intro",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Conquest of the World (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Conquest of the World (USA, Europe)",
+      "name": "Conquest of the World",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cosmic Conflict (USA)",
+      "fullpath": "magnavox_odyssey_2-Cosmic Conflict (USA)",
+      "name": "Cosmic Conflict",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Demon Attack (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Demon Attack (USA, Europe)",
+      "name": "Demon Attack",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Depth Charge + Marksman (Europe)",
+      "fullpath": "magnavox_odyssey_2-Depth Charge + Marksman (Europe)",
+      "name": "Depth Charge + Marksman",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dynasty (USA)",
+      "fullpath": "magnavox_odyssey_2-Dynasty (USA)",
+      "name": "Dynasty",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Electronic Table Soccer (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Electronic Table Soccer (USA, Europe)",
+      "name": "Electronic Table Soccer",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Football (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Football (USA, Europe)",
+      "name": "Football",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Freedom Fighters (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Freedom Fighters (USA, Europe)",
+      "name": "Freedom Fighters",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Frogger (Europe)",
+      "fullpath": "magnavox_odyssey_2-Frogger (Europe)",
+      "name": "Frogger",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Great Wall Street Fortune Hunt, The (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Great Wall Street Fortune Hunt, The (USA, Europe)",
+      "name": "Great Wall Street Fortune Hunt, The",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hockey + Soccer (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Hockey + Soccer (USA, Europe)",
+      "name": "Hockey + Soccer",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "I've Got Your Number (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-I've Got Your Number (USA, Europe)",
+      "name": "I've Got Your Number",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Invaders from Hyperspace (USA)",
+      "fullpath": "magnavox_odyssey_2-Invaders from Hyperspace (USA)",
+      "name": "Invaders from Hyperspace",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "K.C. Munchkin (USA)",
+      "fullpath": "magnavox_odyssey_2-K.C. Munchkin (USA)",
+      "name": "K.C. Munchkin",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "K.C.'s Krazy Chase (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-K.C.'s Krazy Chase (USA, Europe)",
+      "name": "K.C.'s Krazy Chase",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Keyboard Creations (USA)",
+      "fullpath": "magnavox_odyssey_2-Keyboard Creations (USA)",
+      "name": "Keyboard Creations",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Killer Bees (USA)",
+      "fullpath": "magnavox_odyssey_2-Killer Bees (USA)",
+      "name": "Killer Bees",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Labyrinth Game, A + Supermind (Europe)",
+      "fullpath": "magnavox_odyssey_2-Labyrinth Game, A + Supermind (Europe)",
+      "name": "Labyrinth Game, A + Supermind",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Las Vegas Blackjack (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Las Vegas Blackjack (USA, Europe)",
+      "name": "Las Vegas Blackjack",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Matchmaker + Logix + Buzzword (USA)",
+      "fullpath": "magnavox_odyssey_2-Matchmaker + Logix + Buzzword (USA)",
+      "name": "Matchmaker + Logix + Buzzword",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Math-A-Magic + Echo (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Math-A-Magic + Echo (USA, Europe)",
+      "name": "Math-A-Magic + Echo",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mission Impossible + Programmed Trip (Brazil) (Proto)",
+      "fullpath": "magnavox_odyssey_2-Mission Impossible + Programmed Trip (Brazil) (Proto)",
+      "name": "Mission Impossible + Programmed Trip",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Monkeyshines (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Monkeyshines (USA, Europe)",
+      "name": "Monkeyshines",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mr. Roboto! (USA) (Unl)",
+      "fullpath": "magnavox_odyssey_2-Mr. Roboto! (USA) (Unl)",
+      "name": "Mr. Roboto!",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neutron Star (Europe) (Proto)",
+      "fullpath": "magnavox_odyssey_2-Neutron Star (Europe) (Proto)",
+      "name": "Neutron Star",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Nimble Numbers Ned (USA)",
+      "fullpath": "magnavox_odyssey_2-Nimble Numbers Ned (USA)",
+      "name": "Nimble Numbers Ned",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Out of this World + Helicopter Rescue (USA)",
+      "fullpath": "magnavox_odyssey_2-Out of this World + Helicopter Rescue (USA)",
+      "name": "Out of this World + Helicopter Rescue",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "P.T. Barnum's Acrobats (USA)",
+      "fullpath": "magnavox_odyssey_2-P.T. Barnum's Acrobats (USA)",
+      "name": "P.T. Barnum's Acrobats",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pachinko (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Pachinko (USA, Europe)",
+      "name": "Pachinko",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pick Axe Pete (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Pick Axe Pete (USA, Europe)",
+      "name": "Pick Axe Pete",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pinball (USA) (Proto)",
+      "fullpath": "magnavox_odyssey_2-Pinball (USA) (Proto)",
+      "name": "Pinball",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Planet Lander (USA) (Unl)",
+      "fullpath": "magnavox_odyssey_2-Planet Lander (USA) (Unl)",
+      "name": "Planet Lander",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pocket Billiards (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Pocket Billiards (USA, Europe)",
+      "name": "Pocket Billiards",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pong (2003) (USA) (Unl)",
+      "fullpath": "magnavox_odyssey_2-Pong (2003) (USA) (Unl)",
+      "name": "Pong",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pong (2004) (USA) (Unl)",
+      "fullpath": "magnavox_odyssey_2-Pong (2004) (USA) (Unl)",
+      "name": "Pong",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Popeye (Europe)",
+      "fullpath": "magnavox_odyssey_2-Popeye (Europe)",
+      "name": "Popeye",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Power Lords (USA)",
+      "fullpath": "magnavox_odyssey_2-Power Lords (USA)",
+      "name": "Power Lords",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Puzzle Piece Panic! (USA) (Proto)",
+      "fullpath": "magnavox_odyssey_2-Puzzle Piece Panic! (USA) (Proto)",
+      "name": "Puzzle Piece Panic!",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Q-Bert (Europe)",
+      "fullpath": "magnavox_odyssey_2-Q-Bert (Europe)",
+      "name": "Q-Bert",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Quest for the Rings (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Quest for the Rings (USA, Europe)",
+      "name": "Quest for the Rings",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Secret of the Pharaohs (Europe)",
+      "fullpath": "magnavox_odyssey_2-Secret of the Pharaohs (Europe)",
+      "name": "Secret of the Pharaohs",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Showdown in 2100 A.D. (USA)",
+      "fullpath": "magnavox_odyssey_2-Showdown in 2100 A.D. (USA)",
+      "name": "Showdown in 2100 A.D.",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sid the Spellbinder (USA)",
+      "fullpath": "magnavox_odyssey_2-Sid the Spellbinder (USA)",
+      "name": "Sid the Spellbinder",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Smithereens (USA)",
+      "fullpath": "magnavox_odyssey_2-Smithereens (USA)",
+      "name": "Smithereens",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Speedway + Spin-out + Crypto-logic (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Speedway + Spin-out + Crypto-logic (USA, Europe)",
+      "name": "Speedway + Spin-out + Crypto-logic",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Cobra (Europe)",
+      "fullpath": "magnavox_odyssey_2-Super Cobra (Europe)",
+      "name": "Super Cobra",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Take the Money and Run (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Take the Money and Run (USA, Europe)",
+      "name": "Take the Money and Run",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Thunderball (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Thunderball (USA, Europe)",
+      "name": "Thunderball",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Turtles (USA)",
+      "fullpath": "magnavox_odyssey_2-Turtles (USA)",
+      "name": "Turtles",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tutankham (Europe) (Proto) (alt)",
+      "fullpath": "magnavox_odyssey_2-Tutankham (Europe) (Proto) (alt)",
+      "name": "Tutankham",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tutankham (Europe) (Proto)",
+      "fullpath": "magnavox_odyssey_2-Tutankham (Europe) (Proto)",
+      "name": "Tutankham",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Type & Tell (USA)",
+      "fullpath": "magnavox_odyssey_2-Type & Tell (USA)",
+      "name": "Type & Tell",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "UFO (USA)",
+      "fullpath": "magnavox_odyssey_2-UFO (USA)",
+      "name": "UFO",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Volleyball (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-Volleyball (USA, Europe)",
+      "name": "Volleyball",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "War of Nerves (USA, Europe)",
+      "fullpath": "magnavox_odyssey_2-War of Nerves (USA, Europe)",
+      "name": "War of Nerves",
+      "year": "1978",
+      "publisher": "Magnavox",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

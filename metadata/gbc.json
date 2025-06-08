@@ -1,0 +1,5063 @@
+{
+  "platform": "gbc",
+  "totalGames": 561,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "gbc game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "gbc.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "007 - The World Is Not Enough (USA, Europe)",
+      "fullpath": "gbc-007 - The World Is Not Enough (USA, Europe)",
+      "name": "007 - The World Is Not Enough",
+      "year": "2001",
+      "publisher": "Electronic Arts",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "102 Dalmatians - Puppies to the Rescue (USA, Europe)",
+      "fullpath": "gbc-102 Dalmatians - Puppies to the Rescue (USA, Europe)",
+      "name": "102 Dalmatians - Puppies to the Rescue",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "10-Pin Bowling (USA)",
+      "fullpath": "gbc-10-Pin Bowling (USA)",
+      "name": "10-Pin Bowling",
+      "year": "1999",
+      "publisher": "Majesco Games",
+      "genre": "Sports/Bowling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "1942 (USA)",
+      "fullpath": "gbc-1942 (USA)",
+      "name": "1942",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "3D Pocket Pool (Europe)",
+      "fullpath": "gbc-3D Pocket Pool (Europe)",
+      "name": "3D Pocket Pool",
+      "year": "2000",
+      "publisher": "Virgin Interactive Entertainment",
+      "genre": "Pool and Dart",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "3-D Ultra Pinball - Thrillride (USA)",
+      "fullpath": "gbc-3-D Ultra Pinball - Thrillride (USA)",
+      "name": "3-D Ultra Pinball - Thrillride",
+      "year": "1995",
+      "publisher": "Sierra Entertainment",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "720 Degrees (USA, Europe)",
+      "fullpath": "gbc-720 Degrees (USA, Europe)",
+      "name": "720 Degrees",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Action Man - Search for Base X (USA, Europe)",
+      "fullpath": "gbc-Action Man - Search for Base X (USA, Europe)",
+      "name": "Action Man - Search for Base X",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Adventures of Elmo in Grouchland, The (USA)",
+      "fullpath": "gbc-Adventures of Elmo in Grouchland, The (USA)",
+      "name": "Adventures of Elmo in Grouchland, The",
+      "year": "1999",
+      "publisher": "NewKidCo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Adventures of the Smurfs, The (Europe)",
+      "fullpath": "gbc-Adventures of the Smurfs, The (Europe)",
+      "name": "Adventures of the Smurfs, The",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "AirForce Delta (USA)",
+      "fullpath": "gbc-AirForce Delta (USA)",
+      "name": "AirForce Delta",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Simulation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Aladdin (USA)",
+      "fullpath": "gbc-Aladdin (USA)",
+      "name": "Aladdin",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Alfred's Adventure (Europe)",
+      "fullpath": "gbc-Alfred's Adventure (Europe)",
+      "name": "Alfred's Adventure",
+      "year": "2000",
+      "publisher": "SCi",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Alice in Wonderland (USA)",
+      "fullpath": "gbc-Alice in Wonderland (USA)",
+      "name": "Alice in Wonderland",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Aliens - Thanatos Encounter (USA, Europe)",
+      "fullpath": "gbc-Aliens - Thanatos Encounter (USA, Europe)",
+      "name": "Aliens - Thanatos Encounter",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "All Star Tennis 2000 (Europe)",
+      "fullpath": "gbc-All Star Tennis 2000 (Europe)",
+      "name": "All Star Tennis 2000",
+      "year": "1999",
+      "publisher": "Ubisoft",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "All-Star Baseball 2000 (USA, Europe)",
+      "fullpath": "gbc-All-Star Baseball 2000 (USA, Europe)",
+      "name": "All-Star Baseball 2000",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "All-Star Baseball 2001 (USA)",
+      "fullpath": "gbc-All-Star Baseball 2001 (USA)",
+      "name": "All-Star Baseball 2001",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Alone in the Dark - The New Nightmare (USA)",
+      "fullpath": "gbc-Alone in the Dark - The New Nightmare (USA)",
+      "name": "Alone in the Dark - The New Nightmare",
+      "year": "2001",
+      "publisher": "Infogames",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Animorphs (USA)",
+      "fullpath": "gbc-Animorphs (USA)",
+      "name": "Animorphs",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Antz (USA)",
+      "fullpath": "gbc-Antz (USA)",
+      "name": "Antz",
+      "year": "1999",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Antz Racing (USA)",
+      "fullpath": "gbc-Antz Racing (USA)",
+      "name": "Antz Racing",
+      "year": "2001",
+      "publisher": "Electronic Arts",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Antz World Sportz (Europe)",
+      "fullpath": "gbc-Antz World Sportz (Europe)",
+      "name": "Antz World Sportz",
+      "year": "2001",
+      "publisher": "LSP",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Arcade Hits - Joust & Defender (USA)",
+      "fullpath": "gbc-Arcade Hits - Joust & Defender (USA)",
+      "name": "Arcade Hits - Joust & Defender",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Arcade Hits - Moon Patrol & Spy Hunter (USA)",
+      "fullpath": "gbc-Arcade Hits - Moon Patrol & Spy Hunter (USA)",
+      "name": "Arcade Hits - Moon Patrol & Spy Hunter",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Armada - FX Racers (USA)",
+      "fullpath": "gbc-Armada - FX Racers (USA)",
+      "name": "Armada - FX Racers",
+      "year": "2000",
+      "publisher": "Metro3D",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Armorines - Project S.W.A.R.M. (USA, Europe)",
+      "fullpath": "gbc-Armorines - Project S.W.A.R.M. (USA, Europe)",
+      "name": "Armorines - Project S.W.A.R.M.",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Army Men - Air Combat (USA)",
+      "fullpath": "gbc-Army Men - Air Combat (USA)",
+      "name": "Army Men - Air Combat",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Army Men - Sarge's Heroes 2 (USA, Europe)",
+      "fullpath": "gbc-Army Men - Sarge's Heroes 2 (USA, Europe)",
+      "name": "Army Men - Sarge's Heroes 2",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Army Men (USA, Europe)",
+      "fullpath": "gbc-Army Men (USA, Europe)",
+      "name": "Army Men",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Army Men 2 (USA)",
+      "fullpath": "gbc-Army Men 2 (USA)",
+      "name": "Army Men 2",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Arthur's Absolutely Fun Day! (USA)",
+      "fullpath": "gbc-Arthur's Absolutely Fun Day! (USA)",
+      "name": "Arthur's Absolutely Fun Day!",
+      "year": "2000",
+      "publisher": "The Learning Company",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Asterix - Search for Dogmatix (Europe)",
+      "fullpath": "gbc-Asterix - Search for Dogmatix (Europe)",
+      "name": "Asterix - Search for Dogmatix",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Asterix & Obelix (Europe)",
+      "fullpath": "gbc-Asterix & Obelix (Europe)",
+      "name": "Asterix & Obelix",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Asterix & Obelix vs Caesar (Europe)",
+      "fullpath": "gbc-Asterix & Obelix vs Caesar (Europe)",
+      "name": "Asterix & Obelix vs Caesar",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Asteroids (USA, Europe)",
+      "fullpath": "gbc-Asteroids (USA, Europe)",
+      "name": "Asteroids",
+      "year": "1999",
+      "publisher": "Activision",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Atlantis - The Lost Empire (USA, Europe)",
+      "fullpath": "gbc-Atlantis - The Lost Empire (USA, Europe)",
+      "name": "Atlantis - The Lost Empire",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Austin Powers - Oh, Behave! (USA)",
+      "fullpath": "gbc-Austin Powers - Oh, Behave! (USA)",
+      "name": "Austin Powers - Oh, Behave!",
+      "year": "2000",
+      "publisher": "Take-Two Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Austin Powers - Welcome to my Underground Lair! (USA)",
+      "fullpath": "gbc-Austin Powers - Welcome to my Underground Lair! (USA)",
+      "name": "Austin Powers - Welcome to my Underground Lair!",
+      "year": "2000",
+      "publisher": "Rockstar Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Azure Dreams (USA)",
+      "fullpath": "gbc-Azure Dreams (USA)",
+      "name": "Azure Dreams",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Babe and Friends (USA)",
+      "fullpath": "gbc-Babe and Friends (USA)",
+      "name": "Babe and Friends",
+      "year": "1999",
+      "publisher": "Crave",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Baby Felix - Halloween (Europe)",
+      "fullpath": "gbc-Baby Felix - Halloween (Europe)",
+      "name": "Baby Felix - Halloween",
+      "year": "2001",
+      "publisher": "LSP",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Backgammon (Europe)",
+      "fullpath": "gbc-Backgammon (Europe)",
+      "name": "Backgammon",
+      "year": "2000",
+      "publisher": "Altron",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ballistic (USA)",
+      "fullpath": "gbc-Ballistic (USA)",
+      "name": "Ballistic",
+      "year": "1999",
+      "publisher": "Atari",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Barbie - Fashion Pack Games (USA, Europe)",
+      "fullpath": "gbc-Barbie - Fashion Pack Games (USA, Europe)",
+      "name": "Barbie - Fashion Pack Games",
+      "year": "2000",
+      "publisher": "Mattel",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Barbie - Magic Genie Adventure (USA)",
+      "fullpath": "gbc-Barbie - Magic Genie Adventure (USA)",
+      "name": "Barbie - Magic Genie Adventure",
+      "year": "2000",
+      "publisher": "Mattel",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Barbie - Ocean Discovery (USA)",
+      "fullpath": "gbc-Barbie - Ocean Discovery (USA)",
+      "name": "Barbie - Ocean Discovery",
+      "year": "1999",
+      "publisher": "Mattel",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Barbie - Pet Rescue (USA)",
+      "fullpath": "gbc-Barbie - Pet Rescue (USA)",
+      "name": "Barbie - Pet Rescue",
+      "year": "2001",
+      "publisher": "Mattel",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bass Masters Classic (USA, Europe)",
+      "fullpath": "gbc-Bass Masters Classic (USA, Europe)",
+      "name": "Bass Masters Classic",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Batman Beyond - Return of the Joker (USA)",
+      "fullpath": "gbc-Batman Beyond - Return of the Joker (USA)",
+      "name": "Batman Beyond - Return of the Joker",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Battleship (USA, Europe)",
+      "fullpath": "gbc-Battleship (USA, Europe)",
+      "name": "Battleship",
+      "year": "1999",
+      "publisher": "Majesco Games",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BattleTanx (USA)",
+      "fullpath": "gbc-BattleTanx (USA)",
+      "name": "BattleTanx",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bear in the Big Blue House (USA)",
+      "fullpath": "gbc-Bear in the Big Blue House (USA)",
+      "name": "Bear in the Big Blue House",
+      "year": "2002",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Beauty and the Beast - A Board Game Adventure (USA)",
+      "fullpath": "gbc-Beauty and the Beast - A Board Game Adventure (USA)",
+      "name": "Beauty and the Beast - A Board Game Adventure",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Billy Bob's Huntin' 'n' Fishin' (USA, Europe)",
+      "fullpath": "gbc-Billy Bob's Huntin' 'n' Fishin' (USA, Europe)",
+      "name": "Billy Bob's Huntin' 'n' Fishin\\'",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Fishing/Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bionic Commando - Elite Forces (USA)",
+      "fullpath": "gbc-Bionic Commando - Elite Forces (USA)",
+      "name": "Bionic Commando - Elite Forces",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Black Bass - Lure Fishing (USA, Europe)",
+      "fullpath": "gbc-Black Bass - Lure Fishing (USA, Europe)",
+      "name": "Black Bass - Lure Fishing",
+      "year": "1999",
+      "publisher": "Majesco Games",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Blade (USA, Europe)",
+      "fullpath": "gbc-Blade (USA, Europe)",
+      "name": "Blade",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Blaster Master - Enemy Below (USA, Europe)",
+      "fullpath": "gbc-Blaster Master - Enemy Below (USA, Europe)",
+      "name": "Blaster Master - Enemy Below",
+      "year": "2000",
+      "publisher": "SunSoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Blue's Clues - Blue's Alphabet Book (USA)",
+      "fullpath": "gbc-Blue's Clues - Blue's Alphabet Book (USA)",
+      "name": "Blue's Clues - Blue's Alphabet Book",
+      "year": "2001",
+      "publisher": "Mattel",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Boarder Zone (USA)",
+      "fullpath": "gbc-Boarder Zone (USA)",
+      "name": "Boarder Zone",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Sports/Snowboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bob the Builder - Fix it Fun! (USA)",
+      "fullpath": "gbc-Bob the Builder - Fix it Fun! (USA)",
+      "name": "Bob the Builder - Fix it Fun!",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bomberman Max - Blue Champion (USA)",
+      "fullpath": "gbc-Bomberman Max - Blue Champion (USA)",
+      "name": "Bomberman Max - Blue Champion",
+      "year": "2000",
+      "publisher": "Vatical Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bomberman Max - Red Challenger (USA)",
+      "fullpath": "gbc-Bomberman Max - Red Challenger (USA)",
+      "name": "Bomberman Max - Red Challenger",
+      "year": "2000",
+      "publisher": "Vatical Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bomberman Quest (USA)",
+      "fullpath": "gbc-Bomberman Quest (USA)",
+      "name": "Bomberman Quest",
+      "year": "1999",
+      "publisher": "Electro Brain",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Buffy the Vampire Slayer (USA, Europe)",
+      "fullpath": "gbc-Buffy the Vampire Slayer (USA, Europe)",
+      "name": "Buffy the Vampire Slayer",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bugs Bunny - Crazy Castle 3 (USA, Europe)",
+      "fullpath": "gbc-Bugs Bunny - Crazy Castle 3 (USA, Europe)",
+      "name": "Bugs Bunny - Crazy Castle 3",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bugs Bunny in Crazy Castle 4 (USA)",
+      "fullpath": "gbc-Bugs Bunny in Crazy Castle 4 (USA)",
+      "name": "Bugs Bunny in Crazy Castle 4",
+      "year": "2000",
+      "publisher": "Kemco",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bug's Life, A (USA)",
+      "fullpath": "gbc-Bug's Life, A (USA)",
+      "name": "Bug's Life, A",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bust-A-Move 4 (USA, Europe)",
+      "fullpath": "gbc-Bust-A-Move 4 (USA, Europe)",
+      "name": "Bust-A-Move 4",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bust-A-Move Millennium (USA, Europe)",
+      "fullpath": "gbc-Bust-A-Move Millennium (USA, Europe)",
+      "name": "Bust-A-Move Millennium",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Buzz Lightyear of Star Command (USA, Europe)",
+      "fullpath": "gbc-Buzz Lightyear of Star Command (USA, Europe)",
+      "name": "Buzz Lightyear of Star Command",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Caesars Palace II (USA, Europe)",
+      "fullpath": "gbc-Caesars Palace II (USA, Europe)",
+      "name": "Caesars Palace II",
+      "year": "1999",
+      "publisher": "Interplay",
+      "genre": "Casino",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cannon Fodder (USA)",
+      "fullpath": "gbc-Cannon Fodder (USA)",
+      "name": "Cannon Fodder",
+      "year": "2000",
+      "publisher": "Codemasters",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Carl Lewis Athletics 2000 (Europe)",
+      "fullpath": "gbc-Carl Lewis Athletics 2000 (Europe)",
+      "name": "Carl Lewis Athletics 2000",
+      "year": "2000",
+      "publisher": "Planet Interactive",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Carmageddon - Carpocalypse Now (USA, Europe)",
+      "fullpath": "gbc-Carmageddon - Carpocalypse Now (USA, Europe)",
+      "name": "Carmageddon - Carpocalypse Now",
+      "year": "2000",
+      "publisher": "Titus Software",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Casper (USA)",
+      "fullpath": "gbc-Casper (USA)",
+      "name": "Casper",
+      "year": "2000",
+      "publisher": "Interplay",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Caterpillar Construction Zone (USA)",
+      "fullpath": "gbc-Caterpillar Construction Zone (USA)",
+      "name": "Caterpillar Construction Zone",
+      "year": "2000",
+      "publisher": "Mattel",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Catwoman (USA)",
+      "fullpath": "gbc-Catwoman (USA)",
+      "name": "Catwoman",
+      "year": "1999",
+      "publisher": "Kemco",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Catz - Your Virtual Petz Palz (USA)",
+      "fullpath": "gbc-Catz - Your Virtual Petz Palz (USA)",
+      "name": "Catz - Your Virtual Petz Palz",
+      "year": "1999",
+      "publisher": "Mindscape Inc.",
+      "genre": "Virtual Life",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Centipede (USA)",
+      "fullpath": "gbc-Centipede (USA)",
+      "name": "Centipede",
+      "year": "1998",
+      "publisher": "Majesco Games",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Championship Motocross 2001 featuring Ricky Carmichael (USA)",
+      "fullpath": "gbc-Championship Motocross 2001 featuring Ricky Carmichael (USA)",
+      "name": "Championship Motocross 2001 featuring Ricky Carmichael",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Chase H.Q. - Secret Police (USA)",
+      "fullpath": "gbc-Chase H.Q. - Secret Police (USA)",
+      "name": "Chase H.Q. - Secret Police",
+      "year": "2000",
+      "publisher": "Metro3D",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Chessmaster (USA, Europe)",
+      "fullpath": "gbc-Chessmaster (USA, Europe)",
+      "name": "Chessmaster",
+      "year": "1999",
+      "publisher": "Mindscape Inc.",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Chicken Run (USA, Europe)",
+      "fullpath": "gbc-Chicken Run (USA, Europe)",
+      "name": "Chicken Run",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Classic Bubble Bobble (USA)",
+      "fullpath": "gbc-Classic Bubble Bobble (USA)",
+      "name": "Classic Bubble Bobble",
+      "year": "1999",
+      "publisher": "Metro3D",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Colin McRae Rally (Europe)",
+      "fullpath": "gbc-Colin McRae Rally (Europe)",
+      "name": "Colin McRae Rally",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Commander Keen (USA, Europe)",
+      "fullpath": "gbc-Commander Keen (USA, Europe)",
+      "name": "Commander Keen",
+      "year": "2001",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Conker's Pocket Tales (USA, Europe)",
+      "fullpath": "gbc-Conker's Pocket Tales (USA, Europe)",
+      "name": "Conker's Pocket Tales",
+      "year": "1999",
+      "publisher": "Rare",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cool Bricks (Europe)",
+      "fullpath": "gbc-Cool Bricks (Europe)",
+      "name": "Cool Bricks",
+      "year": "1999",
+      "publisher": "SCi",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Croc (USA, Europe)",
+      "fullpath": "gbc-Croc (USA, Europe)",
+      "name": "Croc",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Croc 2 (USA, Europe)",
+      "fullpath": "gbc-Croc 2 (USA, Europe)",
+      "name": "Croc 2",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cruis'n Exotica (USA)",
+      "fullpath": "gbc-Cruis'n Exotica (USA)",
+      "name": "Cruis'n Exotica",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Crystalis (USA)",
+      "fullpath": "gbc-Crystalis (USA)",
+      "name": "Crystalis",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cubix - Robots for Everyone - Race 'n Robots (USA)",
+      "fullpath": "gbc-Cubix - Robots for Everyone - Race 'n Robots (USA)",
+      "name": "Cubix - Robots for Everyone - Race 'n Robots",
+      "year": "2001",
+      "publisher": "3DO",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "CyberTiger (USA, Europe)",
+      "fullpath": "gbc-CyberTiger (USA, Europe)",
+      "name": "CyberTiger",
+      "year": "2000",
+      "publisher": "EA Sports",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Daffy Duck - Fowl Play (USA)",
+      "fullpath": "gbc-Daffy Duck - Fowl Play (USA)",
+      "name": "Daffy Duck - Fowl Play",
+      "year": "1999",
+      "publisher": "ElectroBrain",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Daikatana (Europe)",
+      "fullpath": "gbc-Daikatana (Europe)",
+      "name": "Daikatana",
+      "year": "2000",
+      "publisher": "Kemco",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi (Japan) (SGB Enhanced) (Translated En)",
+      "fullpath": "gbc-Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi (Japan) (SGB Enhanced) (Translated En)",
+      "name": "Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi",
+      "year": "2000",
+      "publisher": "Irem",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dave Mirra Freestyle BMX (USA, Europe)",
+      "fullpath": "gbc-Dave Mirra Freestyle BMX (USA, Europe)",
+      "name": "Dave Mirra Freestyle BMX",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "David Beckham Soccer (Europe)",
+      "fullpath": "gbc-David Beckham Soccer (Europe)",
+      "name": "David Beckham Soccer",
+      "year": "2002",
+      "publisher": "Majesco Games",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Deer Hunter (USA)",
+      "fullpath": "gbc-Deer Hunter (USA)",
+      "name": "Deer Hunter",
+      "year": "1999",
+      "publisher": "Vatical Entertainment",
+      "genre": "Sports/Hunting",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Deja Vu I & II - The Casebooks of Ace Harding (USA)",
+      "fullpath": "gbc-Deja Vu I & II - The Casebooks of Ace Harding (USA)",
+      "name": "Deja Vu I & II - The Casebooks of Ace Harding",
+      "year": "1999",
+      "publisher": "Vatical Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Denki Blocks! (Europe)",
+      "fullpath": "gbc-Denki Blocks! (Europe)",
+      "name": "Denki Blocks!",
+      "year": "2001",
+      "publisher": "Rage Software",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dexter's Laboratory - Robot Rampage (USA)",
+      "fullpath": "gbc-Dexter's Laboratory - Robot Rampage (USA)",
+      "name": "Dexter's Laboratory - Robot Rampage",
+      "year": "2000",
+      "publisher": "Bam Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dinosaur (USA)",
+      "fullpath": "gbc-Dinosaur (USA)",
+      "name": "Dinosaur",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dinosaur'us (Europe)",
+      "fullpath": "gbc-Dinosaur'us (Europe)",
+      "name": "Dinosaur'us",
+      "year": "2001",
+      "publisher": "Electronic Arts",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Diva Starz - Mall Mania (USA)",
+      "fullpath": "gbc-Diva Starz - Mall Mania (USA)",
+      "name": "Diva Starz - Mall Mania",
+      "year": "2001",
+      "publisher": "VU Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dogz - Your Virtual Petz Palz (USA)",
+      "fullpath": "gbc-Dogz - Your Virtual Petz Palz (USA)",
+      "name": "Dogz - Your Virtual Petz Palz",
+      "year": "1999",
+      "publisher": "Mindscape Inc",
+      "genre": "Virtual Life",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Donald Duck - Goin' Quackers (USA)",
+      "fullpath": "gbc-Donald Duck - Goin' Quackers (USA)",
+      "name": "Donald Duck - Goin' Quackers",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Donkey Kong Country (USA, Europe)",
+      "fullpath": "gbc-Donkey Kong Country (USA, Europe)",
+      "name": "Donkey Kong Country",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Doug's Big Game (USA)",
+      "fullpath": "gbc-Doug's Big Game (USA)",
+      "name": "Doug's Big Game",
+      "year": "2000",
+      "publisher": "NewKidCo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dracula - Crazy Vampire (USA)",
+      "fullpath": "gbc-Dracula - Crazy Vampire (USA)",
+      "name": "Dracula - Crazy Vampire",
+      "year": "2001",
+      "publisher": "DreamCatcher Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dragon Ball Z - Legendary Super Warriors (USA)",
+      "fullpath": "gbc-Dragon Ball Z - Legendary Super Warriors (USA)",
+      "name": "Dragon Ball Z - Legendary Super Warriors",
+      "year": "2002",
+      "publisher": "Atari",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dragon Dance (USA)",
+      "fullpath": "gbc-Dragon Dance (USA)",
+      "name": "Dragon Dance",
+      "year": "2000",
+      "publisher": "Crave",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dragon Tales - Dragon Adventures (USA)",
+      "fullpath": "gbc-Dragon Tales - Dragon Adventures (USA)",
+      "name": "Dragon Tales - Dragon Adventures",
+      "year": "2001",
+      "publisher": "NewKidCo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dragon Tales - Dragon Wings (USA)",
+      "fullpath": "gbc-Dragon Tales - Dragon Wings (USA)",
+      "name": "Dragon Tales - Dragon Wings",
+      "year": "2000",
+      "publisher": "NewKidCo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dragon Warrior I & II (USA)",
+      "fullpath": "gbc-Dragon Warrior I & II (USA)",
+      "name": "Dragon Warrior I & II",
+      "year": "2000",
+      "publisher": "Enix Corporation",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dragon Warrior III (USA)",
+      "fullpath": "gbc-Dragon Warrior III (USA)",
+      "name": "Dragon Warrior III",
+      "year": "2001",
+      "publisher": "Enix Corportation",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dragon Warrior Monsters (USA)",
+      "fullpath": "gbc-Dragon Warrior Monsters (USA)",
+      "name": "Dragon Warrior Monsters",
+      "year": "2000",
+      "publisher": "Eidos Interactive",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dragon Warrior Monsters 2 - Cobi's Journey (USA)",
+      "fullpath": "gbc-Dragon Warrior Monsters 2 - Cobi's Journey (USA)",
+      "name": "Dragon Warrior Monsters 2 - Cobi's Journey",
+      "year": "2001",
+      "publisher": "Enix Corporation",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dragon Warrior Monsters 2 - Tara's Adventure (USA)",
+      "fullpath": "gbc-Dragon Warrior Monsters 2 - Tara's Adventure (USA)",
+      "name": "Dragon Warrior Monsters 2 - Tara's Adventure",
+      "year": "2001",
+      "publisher": "Enix Corporation",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dragon's Lair (USA, Europe)",
+      "fullpath": "gbc-Dragon's Lair (USA, Europe)",
+      "name": "Dragon's Lair",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Driver - You are the Wheelman (USA)",
+      "fullpath": "gbc-Driver - You are the Wheelman (USA)",
+      "name": "Driver - You are the Wheelman",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dropzone (Europe)",
+      "fullpath": "gbc-Dropzone (Europe)",
+      "name": "Dropzone",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Duke Nukem (USA)",
+      "fullpath": "gbc-Duke Nukem (USA)",
+      "name": "Duke Nukem",
+      "year": "1999",
+      "publisher": "GT Interactive",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dukes of Hazzard, The - Racing for Home (USA)",
+      "fullpath": "gbc-Dukes of Hazzard, The - Racing for Home (USA)",
+      "name": "Dukes of Hazzard, The - Racing for Home",
+      "year": "2000",
+      "publisher": "SouthPeak Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "E.T. and the Cosmic Garden (USA)",
+      "fullpath": "gbc-E.T. and the Cosmic Garden (USA)",
+      "name": "E.T. and the Cosmic Garden",
+      "year": "2002",
+      "publisher": "NewKidCo",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "E.T. The Extra Terrestrial - Digital Companion (USA)",
+      "fullpath": "gbc-E.T. The Extra Terrestrial - Digital Companion (USA)",
+      "name": "E.T. The Extra Terrestrial - Digital Companion",
+      "year": "2001",
+      "publisher": "NewKidCo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "E.T. The Extra Terrestrial - Escape from Planet Earth (USA)",
+      "fullpath": "gbc-E.T. The Extra Terrestrial - Escape from Planet Earth (USA)",
+      "name": "E.T. The Extra Terrestrial - Escape from Planet Earth",
+      "year": "2001",
+      "publisher": "NewKidCo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Earthworm Jim - Menace 2 the Galaxy (USA, Europe)",
+      "fullpath": "gbc-Earthworm Jim - Menace 2 the Galaxy (USA, Europe)",
+      "name": "Earthworm Jim - Menace 2 the Galaxy",
+      "year": "1999",
+      "publisher": "Crave",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "ECW Hardcore Revolution (USA, Europe)",
+      "fullpath": "gbc-ECW Hardcore Revolution (USA, Europe)",
+      "name": "ECW Hardcore Revolution",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Elmo's 123s (USA)",
+      "fullpath": "gbc-Elmo's 123s (USA)",
+      "name": "Elmo's 123s",
+      "year": "1999",
+      "publisher": "NewKidCo",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Elmo's ABCs (USA)",
+      "fullpath": "gbc-Elmo's ABCs (USA)",
+      "name": "Elmo's ABCs",
+      "year": "1999",
+      "publisher": "NewKidCo",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Emperor's New Groove, The (USA)",
+      "fullpath": "gbc-Emperor's New Groove, The (USA)",
+      "name": "Emperor's New Groove, The",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "ESPN International Track & Field (USA)",
+      "fullpath": "gbc-ESPN International Track & Field (USA)",
+      "name": "ESPN International Track & Field",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "ESPN National Hockey Night (USA)",
+      "fullpath": "gbc-ESPN National Hockey Night (USA)",
+      "name": "ESPN National Hockey Night",
+      "year": "2001",
+      "publisher": "Konami",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Evel Knievel (USA)",
+      "fullpath": "gbc-Evel Knievel (USA)",
+      "name": "Evel Knievel",
+      "year": "1999",
+      "publisher": "Rockstar Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Extreme Ghostbusters (Europe)",
+      "fullpath": "gbc-Extreme Ghostbusters (Europe)",
+      "name": "Extreme Ghostbusters",
+      "year": "2001",
+      "publisher": "LSP",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Extreme Sports with the Berenstain Bears (USA, Europe)",
+      "fullpath": "gbc-Extreme Sports with the Berenstain Bears (USA, Europe)",
+      "name": "Extreme Sports with the Berenstain Bears",
+      "year": "2000",
+      "publisher": "Sound Source",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F.A. Premier League Stars 2001, The (Europe)",
+      "fullpath": "gbc-F.A. Premier League Stars 2001, The (Europe)",
+      "name": "F.A. Premier League Stars 2001, The",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F1 Championship Season 2000 (Europe)",
+      "fullpath": "gbc-F1 Championship Season 2000 (Europe)",
+      "name": "F1 Championship Season 2000",
+      "year": "2000",
+      "publisher": "EA Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F1 Racing Championship (Europe)",
+      "fullpath": "gbc-F1 Racing Championship (Europe)",
+      "name": "F1 Racing Championship",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F-1 World Grand Prix (Europe)",
+      "fullpath": "gbc-F-1 World Grand Prix (Europe)",
+      "name": "F-1 World Grand Prix",
+      "year": "2000",
+      "publisher": "Video System",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F1 World Grand Prix II (USA)",
+      "fullpath": "gbc-F1 World Grand Prix II (USA)",
+      "name": "F1 World Grand Prix II",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F-18 Thunder Strike (USA, Europe)",
+      "fullpath": "gbc-F-18 Thunder Strike (USA, Europe)",
+      "name": "F-18 Thunder Strike",
+      "year": "2000",
+      "publisher": "Majesco Games",
+      "genre": "Simulation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA 2000 (USA, Europe)",
+      "fullpath": "gbc-FIFA 2000 (USA, Europe)",
+      "name": "FIFA 2000",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Fish Files, The (Europe)",
+      "fullpath": "gbc-Fish Files, The (Europe)",
+      "name": "Fish Files, The",
+      "year": "2001",
+      "publisher": "7th Sense",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Fix & Foxi - Episode 1 Lupo (Europe)",
+      "fullpath": "gbc-Fix & Foxi - Episode 1 Lupo (Europe)",
+      "name": "Fix & Foxi - Episode 1 Lupo",
+      "year": "2000",
+      "publisher": "Ravensburger Interactive",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Flintstones, The - Burgertime in Bedrock (USA)",
+      "fullpath": "gbc-Flintstones, The - Burgertime in Bedrock (USA)",
+      "name": "Flintstones, The - Burgertime in Bedrock",
+      "year": "2001",
+      "publisher": "Electro Source",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Flipper & Lopaka (Europe)",
+      "fullpath": "gbc-Flipper & Lopaka (Europe)",
+      "name": "Flipper & Lopaka",
+      "year": "2001",
+      "publisher": "Planet Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Force 21 (USA)",
+      "fullpath": "gbc-Force 21 (USA)",
+      "name": "Force 21",
+      "year": "2000",
+      "publisher": "Red Storm Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Formula One 2000 (USA)",
+      "fullpath": "gbc-Formula One 2000 (USA)",
+      "name": "Formula One 2000",
+      "year": "2000",
+      "publisher": "Take-Two Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Fort Boyard (Europe)",
+      "fullpath": "gbc-Fort Boyard (Europe)",
+      "name": "Fort Boyard",
+      "year": "2001",
+      "publisher": "Titus Software",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Frogger (USA) (Rev B)",
+      "fullpath": "gbc-Frogger (USA) (Rev B)",
+      "name": "Frogger",
+      "year": "1998",
+      "publisher": "Majesco Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Frogger 2 (USA)",
+      "fullpath": "gbc-Frogger 2 (USA)",
+      "name": "Frogger 2",
+      "year": "2000",
+      "publisher": "Majesco Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Galaga - Destination Earth (USA)",
+      "fullpath": "gbc-Galaga - Destination Earth (USA)",
+      "name": "Galaga - Destination Earth",
+      "year": "2000",
+      "publisher": "Hasbro Interactive",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Game & Watch Gallery 2 (USA, Europe)",
+      "fullpath": "gbc-Game & Watch Gallery 2 (USA, Europe)",
+      "name": "Game & Watch Gallery 2",
+      "year": "1998",
+      "publisher": "Nintendo",
+      "genre": "Mini-Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Game & Watch Gallery 3 (USA, Europe)",
+      "fullpath": "gbc-Game & Watch Gallery 3 (USA, Europe)",
+      "name": "Game & Watch Gallery 3",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Mini-Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Game Boy Wars 2 (Japan) (SGB Enhanced) (Translated En)",
+      "fullpath": "gbc-Game Boy Wars 2 (Japan) (SGB Enhanced) (Translated En)",
+      "name": "Game Boy Wars 2",
+      "year": "1998",
+      "publisher": "Hudson",
+      "genre": "Strategy",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Game Boy Wars 3 (Japan) (Translated En)",
+      "fullpath": "gbc-Game Boy Wars 3 (Japan) (Translated En)",
+      "name": "Game Boy Wars 3",
+      "year": "2001",
+      "publisher": "Hudson",
+      "genre": "Strategy",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Geheimnis der Happy Hippo-Insel, Das (Germany) (Translated En)",
+      "fullpath": "gbc-Geheimnis der Happy Hippo-Insel, Das (Germany) (Translated En)",
+      "name": "Geheimnis der Happy Hippo-Insel, Das",
+      "year": "2001",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gex - Enter the Gecko (USA, Europe)",
+      "fullpath": "gbc-Gex - Enter the Gecko (USA, Europe)",
+      "name": "Gex - Enter the Gecko",
+      "year": "1998",
+      "publisher": "Crave",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Gex 3 - Deep Pocket Gecko (USA)",
+      "fullpath": "gbc-Gex 3 - Deep Pocket Gecko (USA)",
+      "name": "Gex 3 - Deep Pocket Gecko",
+      "year": "1999",
+      "publisher": "Eidos Interactive",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ghosts'n Goblins (USA, Europe)",
+      "fullpath": "gbc-Ghosts'n Goblins (USA, Europe)",
+      "name": "Ghosts'n Goblins",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Gift (Europe)",
+      "fullpath": "gbc-Gift (Europe)",
+      "name": "Gift",
+      "year": "2001",
+      "publisher": "Cryo Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Gobs of Games (USA)",
+      "fullpath": "gbc-Gobs of Games (USA)",
+      "name": "Gobs of Games",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Party",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Godzilla - The Series - Monster Wars (USA)",
+      "fullpath": "gbc-Godzilla - The Series - Monster Wars (USA)",
+      "name": "Godzilla - The Series - Monster Wars",
+      "year": "2000",
+      "publisher": "Crave",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Godzilla - The Series (USA)",
+      "fullpath": "gbc-Godzilla - The Series (USA)",
+      "name": "Godzilla - The Series",
+      "year": "1999",
+      "publisher": "Crave",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Gold and Glory - The Road to El Dorado (USA)",
+      "fullpath": "gbc-Gold and Glory - The Road to El Dorado (USA)",
+      "name": "Gold and Glory - The Road to El Dorado",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Golden Goal (Europe)",
+      "fullpath": "gbc-Golden Goal (Europe)",
+      "name": "Golden Goal",
+      "year": "1999",
+      "publisher": "Take-Two Interactive",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Grand Theft Auto (USA)",
+      "fullpath": "gbc-Grand Theft Auto (USA)",
+      "name": "Grand Theft Auto",
+      "year": "1999",
+      "publisher": "Rockstar Games",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Grand Theft Auto 2 (USA)",
+      "fullpath": "gbc-Grand Theft Auto 2 (USA)",
+      "name": "Grand Theft Auto 2",
+      "year": "2000",
+      "publisher": "Rockstar Games",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Grandia - Parallel Trippers (Japan) (Translated En)",
+      "fullpath": "gbc-Grandia - Parallel Trippers (Japan) (Translated En)",
+      "name": "Grandia - Parallel Trippers",
+      "year": "2000",
+      "publisher": "Hudson",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gremlins Unleashed (Europe)",
+      "fullpath": "gbc-Gremlins Unleashed (Europe)",
+      "name": "Gremlins Unleashed",
+      "year": "2001",
+      "publisher": "LSP",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Grinch, The (USA)",
+      "fullpath": "gbc-Grinch, The (USA)",
+      "name": "Grinch, The",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Halloween Racer (Europe)",
+      "fullpath": "gbc-Halloween Racer (Europe)",
+      "name": "Halloween Racer",
+      "year": "1999",
+      "publisher": "Microids",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hamtaro - Ham-Hams Unite! (USA)",
+      "fullpath": "gbc-Hamtaro - Ham-Hams Unite! (USA)",
+      "name": "Hamtaro - Ham-Hams Unite!",
+      "year": "2002",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hands of Time (USA)",
+      "fullpath": "gbc-Hands of Time (USA)",
+      "name": "Hands of Time",
+      "year": "2001",
+      "publisher": "Titus Software",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harley-Davidson Motor Cycles - Race Across America (USA)",
+      "fullpath": "gbc-Harley-Davidson Motor Cycles - Race Across America (USA)",
+      "name": "Harley-Davidson Motor Cycles - Race Across America",
+      "year": "2000",
+      "publisher": "Wizard Works",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harry Potter 3 2003 (China) (Unl) (Translated En)",
+      "fullpath": "gbc-Harry Potter 3 2003 (China) (Unl) (Translated En)",
+      "name": "Harry Potter 3 2003",
+      "year": "2003",
+      "publisher": "Vast Fame",
+      "genre": "Shoot-'Em-Up",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Harry Potter and the Chamber of Secrets (USA, Europe)",
+      "fullpath": "gbc-Harry Potter and the Chamber of Secrets (USA, Europe)",
+      "name": "Harry Potter and the Chamber of Secrets",
+      "year": "2002",
+      "publisher": "Electronic Arts",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harry Potter and the Sorcerer's Stone (USA, Europe)",
+      "fullpath": "gbc-Harry Potter and the Sorcerer's Stone (USA, Europe)",
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "year": "2001",
+      "publisher": "Electronic Arts",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harvest Moon 2 GBC (USA)",
+      "fullpath": "gbc-Harvest Moon 2 GBC (USA)",
+      "name": "Harvest Moon 2 GBC",
+      "year": "2000",
+      "publisher": "Natsume",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harvest Moon 3 GBC (USA)",
+      "fullpath": "gbc-Harvest Moon 3 GBC (USA)",
+      "name": "Harvest Moon 3 GBC",
+      "year": "2001",
+      "publisher": "Natsume",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harvest Moon GB (USA)",
+      "fullpath": "gbc-Harvest Moon GB (USA)",
+      "name": "Harvest Moon GB",
+      "year": "1998",
+      "publisher": "Natsume",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hello Kitty no Magical Museum (Japan) (SGB Enhanced) (Translated En)",
+      "fullpath": "gbc-Hello Kitty no Magical Museum (Japan) (SGB Enhanced) (Translated En)",
+      "name": "Hello Kitty no Magical Museum",
+      "year": "1999",
+      "publisher": "Imagineer",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hello Kitty's Cube Frenzy (USA)",
+      "fullpath": "gbc-Hello Kitty's Cube Frenzy (USA)",
+      "name": "Hello Kitty's Cube Frenzy",
+      "year": "1999",
+      "publisher": "NewKidCo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hercules - The Legendary Journeys (Europe)",
+      "fullpath": "gbc-Hercules - The Legendary Journeys (Europe)",
+      "name": "Hercules - The Legendary Journeys",
+      "year": "2002",
+      "publisher": "Titus Software",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Heroes of Might and Magic (USA)",
+      "fullpath": "gbc-Heroes of Might and Magic (USA)",
+      "name": "Heroes of Might and Magic",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Heroes of Might and Magic II (USA)",
+      "fullpath": "gbc-Heroes of Might and Magic II (USA)",
+      "name": "Heroes of Might and Magic II",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hexcite - The Shapes of Victory (USA, Europe)",
+      "fullpath": "gbc-Hexcite - The Shapes of Victory (USA, Europe)",
+      "name": "Hexcite - The Shapes of Victory",
+      "year": "1999",
+      "publisher": "Ubisoft",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hole In One Golf (USA)",
+      "fullpath": "gbc-Hole In One Golf (USA)",
+      "name": "Hole In One Golf",
+      "year": "1999",
+      "publisher": "Natsume",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hollywood Pinball (Europe)",
+      "fullpath": "gbc-Hollywood Pinball (Europe)",
+      "name": "Hollywood Pinball",
+      "year": "1999",
+      "publisher": "Starfish",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hot Wheels - Stunt Track Driver (USA)",
+      "fullpath": "gbc-Hot Wheels - Stunt Track Driver (USA)",
+      "name": "Hot Wheels - Stunt Track Driver",
+      "year": "2000",
+      "publisher": "Mattel",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hoyle Card Games (USA)",
+      "fullpath": "gbc-Hoyle Card Games (USA)",
+      "name": "Hoyle Card Games",
+      "year": "2000",
+      "publisher": "Sierra Entertainment",
+      "genre": "Casino",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hoyle Casino (USA)",
+      "fullpath": "gbc-Hoyle Casino (USA)",
+      "name": "Hoyle Casino",
+      "year": "2000",
+      "publisher": "Sierra Entertainment",
+      "genre": "Casino",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hugo - Black Diamond Fever (Europe)",
+      "fullpath": "gbc-Hugo - Black Diamond Fever (Europe)",
+      "name": "Hugo - Black Diamond Fever",
+      "year": "2001",
+      "publisher": "ITE Media",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hugo - The Evil Mirror (Europe)",
+      "fullpath": "gbc-Hugo - The Evil Mirror (Europe)",
+      "name": "Hugo - The Evil Mirror",
+      "year": "2002",
+      "publisher": "ITE Media",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hype - The Time Quest (Europe)",
+      "fullpath": "gbc-Hype - The Time Quest (Europe)",
+      "name": "Hype - The Time Quest",
+      "year": "2001",
+      "publisher": "Ubisoft",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Indiana Jones and the Infernal Machine (USA, Europe)",
+      "fullpath": "gbc-Indiana Jones and the Infernal Machine (USA, Europe)",
+      "name": "Indiana Jones and the Infernal Machine",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Inspector Gadget - Operation Madkactus (USA)",
+      "fullpath": "gbc-Inspector Gadget - Operation Madkactus (USA)",
+      "name": "Inspector Gadget - Operation Madkactus",
+      "year": "2001",
+      "publisher": "Ubisoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "International Karate 2000 (Europe)",
+      "fullpath": "gbc-International Karate 2000 (Europe)",
+      "name": "International Karate 2000",
+      "year": "2000",
+      "publisher": "Virgin Interactive Entertainment",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "International Rally (USA)",
+      "fullpath": "gbc-International Rally (USA)",
+      "name": "International Rally",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "International Superstar Soccer 2000 (USA)",
+      "fullpath": "gbc-International Superstar Soccer 2000 (USA)",
+      "name": "International Superstar Soccer 2000",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "International Superstar Soccer '99 (Europe)",
+      "fullpath": "gbc-International Superstar Soccer '99 (Europe)",
+      "name": "International Superstar Soccer '99",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "International Track & Field (USA)",
+      "fullpath": "gbc-International Track & Field (USA)",
+      "name": "International Track & Field",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Jeff Gordon XS Racing (USA)",
+      "fullpath": "gbc-Jeff Gordon XS Racing (USA)",
+      "name": "Jeff Gordon XS Racing",
+      "year": "1999",
+      "publisher": "Natsume",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Jeremy McGrath Supercross 2000 (USA, Europe)",
+      "fullpath": "gbc-Jeremy McGrath Supercross 2000 (USA, Europe)",
+      "name": "Jeremy McGrath Supercross 2000",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Jimmy White's Cueball (Europe)",
+      "fullpath": "gbc-Jimmy White's Cueball (Europe)",
+      "name": "Jimmy White's Cueball",
+      "year": "2000",
+      "publisher": "Vicarious Visions",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "JumpStart Dino Adventure - Field Trip (USA)",
+      "fullpath": "gbc-JumpStart Dino Adventure - Field Trip (USA)",
+      "name": "JumpStart Dino Adventure - Field Trip",
+      "year": "2001",
+      "publisher": "Digital Illusions",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Jungle Book, The - Mowgli's Wild Adventure (USA)",
+      "fullpath": "gbc-Jungle Book, The - Mowgli's Wild Adventure (USA)",
+      "name": "Jungle Book, The - Mowgli's Wild Adventure",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Keep the Balance (Europe)",
+      "fullpath": "gbc-Keep the Balance (Europe)",
+      "name": "Keep the Balance",
+      "year": "2001",
+      "publisher": "Karma Studios",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Kelly Club - Clubhouse Fun (USA)",
+      "fullpath": "gbc-Kelly Club - Clubhouse Fun (USA)",
+      "name": "Kelly Club - Clubhouse Fun",
+      "year": "2001",
+      "publisher": "Knowledge Adventure Inc.",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ken Griffey Jr.'s Slugfest (USA)",
+      "fullpath": "gbc-Ken Griffey Jr.'s Slugfest (USA)",
+      "name": "Ken Griffey Jr.'s Slugfest",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Kirby - Tilt 'n' Tumble (USA)",
+      "fullpath": "gbc-Kirby - Tilt 'n' Tumble (USA)",
+      "name": "Kirby - Tilt 'n' Tumble",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Kirikou (Europe)",
+      "fullpath": "gbc-Kirikou (Europe)",
+      "name": "Kirikou",
+      "year": "2001",
+      "publisher": "Planet Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Klax (USA)",
+      "fullpath": "gbc-Klax (USA)",
+      "name": "Klax",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Klustar (USA)",
+      "fullpath": "gbc-Klustar (USA)",
+      "name": "Klustar",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Knockout Kings (USA, Europe)",
+      "fullpath": "gbc-Knockout Kings (USA, Europe)",
+      "name": "Knockout Kings",
+      "year": "1999",
+      "publisher": "Electronic Arts",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Konami GB Collection Vol.1 (Europe)",
+      "fullpath": "gbc-Konami GB Collection Vol.1 (Europe)",
+      "name": "Konami GB Collection Vol.1",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Konami GB Collection Vol.2 (Europe)",
+      "fullpath": "gbc-Konami GB Collection Vol.2 (Europe)",
+      "name": "Konami GB Collection Vol.2",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Konami GB Collection Vol.3 (Europe)",
+      "fullpath": "gbc-Konami GB Collection Vol.3 (Europe)",
+      "name": "Konami GB Collection Vol.3",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Konami GB Collection Vol.4 (Europe)",
+      "fullpath": "gbc-Konami GB Collection Vol.4 (Europe)",
+      "name": "Konami GB Collection Vol.4",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Land Before Time, The (USA)",
+      "fullpath": "gbc-Land Before Time, The (USA)",
+      "name": "Land Before Time, The",
+      "year": "2001",
+      "publisher": "Conspiracy Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Las Vegas Cool Hand (USA)",
+      "fullpath": "gbc-Las Vegas Cool Hand (USA)",
+      "name": "Las Vegas Cool Hand",
+      "year": "1998",
+      "publisher": "Take-Two Interactive",
+      "genre": "Casino",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Laura (USA)",
+      "fullpath": "gbc-Laura (USA)",
+      "name": "Laura",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Legend of the River King 2 (USA)",
+      "fullpath": "gbc-Legend of the River King 2 (USA)",
+      "name": "Legend of the River King 2",
+      "year": "2001",
+      "publisher": "Ubisoft",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Legend of the River King GB (USA)",
+      "fullpath": "gbc-Legend of the River King GB (USA)",
+      "name": "Legend of the River King GB",
+      "year": "1999",
+      "publisher": "Natsume",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev B)",
+      "fullpath": "gbc-Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev B)",
+      "name": "Legend of Zelda, The - Link's Awakening DX",
+      "year": "1998",
+      "publisher": "Nintendo",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Legend of Zelda, The - Oracle of Ages (USA)",
+      "fullpath": "gbc-Legend of Zelda, The - Oracle of Ages (USA)",
+      "name": "Legend of Zelda, The - Oracle of Ages",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Legend of Zelda, The - Oracle of Seasons (USA)",
+      "fullpath": "gbc-Legend of Zelda, The - Oracle of Seasons (USA)",
+      "name": "Legend of Zelda, The - Oracle of Seasons",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "LEGO Alpha Team (USA)",
+      "fullpath": "gbc-LEGO Alpha Team (USA)",
+      "name": "LEGO Alpha Team",
+      "year": "2000",
+      "publisher": "Lego Media",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "LEGO Island 2 - The Brickster's Revenge (USA)",
+      "fullpath": "gbc-LEGO Island 2 - The Brickster's Revenge (USA)",
+      "name": "LEGO Island 2 - The Brickster's Revenge",
+      "year": "2001",
+      "publisher": "Lego Media",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "LEGO Racers (USA)",
+      "fullpath": "gbc-LEGO Racers (USA)",
+      "name": "LEGO Racers",
+      "year": "2000",
+      "publisher": "Lego Media",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "LEGO Stunt Rally (USA)",
+      "fullpath": "gbc-LEGO Stunt Rally (USA)",
+      "name": "LEGO Stunt Rally",
+      "year": "2000",
+      "publisher": "Lego Media",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lemmings (USA)",
+      "fullpath": "gbc-Lemmings (USA)",
+      "name": "Lemmings",
+      "year": "2000",
+      "publisher": "Take-Two Interactive",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lil' Monster (USA)",
+      "fullpath": "gbc-Lil' Monster (USA)",
+      "name": "Lil' Monster",
+      "year": "2000",
+      "publisher": "Agetec Inc.",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lion King, The - Simba's Mighty Adventure (USA)",
+      "fullpath": "gbc-Lion King, The - Simba's Mighty Adventure (USA)",
+      "name": "Lion King, The - Simba's Mighty Adventure",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Little Magic (Japan) (Translated En)",
+      "fullpath": "gbc-Little Magic (Japan) (Translated En)",
+      "name": "Little Magic",
+      "year": "1999",
+      "publisher": "Altron",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Little Mermaid II, The - Pinball Frenzy (USA)",
+      "fullpath": "gbc-Little Mermaid II, The - Pinball Frenzy (USA)",
+      "name": "Little Mermaid II, The - Pinball Frenzy",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Little Nicky (USA)",
+      "fullpath": "gbc-Little Nicky (USA)",
+      "name": "Little Nicky",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Logical (USA)",
+      "fullpath": "gbc-Logical (USA)",
+      "name": "Logical",
+      "year": "1999",
+      "publisher": "SunSoft",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Looney Tunes - Carrot Crazy (USA)",
+      "fullpath": "gbc-Looney Tunes - Carrot Crazy (USA)",
+      "name": "Looney Tunes - Carrot Crazy",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Looney Tunes - Twouble! (USA)",
+      "fullpath": "gbc-Looney Tunes - Twouble! (USA)",
+      "name": "Looney Tunes - Twouble!",
+      "year": "1998",
+      "publisher": "Infogrames",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Looney Tunes (USA)",
+      "fullpath": "gbc-Looney Tunes (USA)",
+      "name": "Looney Tunes",
+      "year": "1998",
+      "publisher": "SunSoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Looney Tunes Collector - Alert! (USA)",
+      "fullpath": "gbc-Looney Tunes Collector - Alert! (USA)",
+      "name": "Looney Tunes Collector - Alert!",
+      "year": "2000",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Looney Tunes Racing (USA)",
+      "fullpath": "gbc-Looney Tunes Racing (USA)",
+      "name": "Looney Tunes Racing",
+      "year": "2000",
+      "publisher": "Atari",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lucky Luke - Desperado Train (Europe)",
+      "fullpath": "gbc-Lucky Luke - Desperado Train (Europe)",
+      "name": "Lucky Luke - Desperado Train",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lucky Luke (USA)",
+      "fullpath": "gbc-Lucky Luke (USA)",
+      "name": "Lucky Luke",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lufia - The Legend Returns (USA)",
+      "fullpath": "gbc-Lufia - The Legend Returns (USA)",
+      "name": "Lufia - The Legend Returns",
+      "year": "2001",
+      "publisher": "Ubisoft",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "M&M's Minis Madness (USA)",
+      "fullpath": "gbc-M&M's Minis Madness (USA)",
+      "name": "M&M's Minis Madness",
+      "year": "2000",
+      "publisher": "Majesco Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 2000 (USA, Europe)",
+      "fullpath": "gbc-Madden NFL 2000 (USA, Europe)",
+      "name": "Madden NFL 2000",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 2001 (USA)",
+      "fullpath": "gbc-Madden NFL 2001 (USA)",
+      "name": "Madden NFL 2001",
+      "year": "2000",
+      "publisher": "EA Sports",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 2002 (USA)",
+      "fullpath": "gbc-Madden NFL 2002 (USA)",
+      "name": "Madden NFL 2002",
+      "year": "2001",
+      "publisher": "EA Sports",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Magi Nation (USA)",
+      "fullpath": "gbc-Magi Nation (USA)",
+      "name": "Magi Nation",
+      "year": "2001",
+      "publisher": "Interactive Imagination",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan) (Translated En)",
+      "fullpath": "gbc-Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan) (Translated En)",
+      "name": "Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e",
+      "year": "2000",
+      "publisher": "Micro Cabin",
+      "genre": "Shoot-'Em-Up",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Magical Drop (USA)",
+      "fullpath": "gbc-Magical Drop (USA)",
+      "name": "Magical Drop",
+      "year": "2000",
+      "publisher": "Classified Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Magical Tetris Challenge (USA)",
+      "fullpath": "gbc-Magical Tetris Challenge (USA)",
+      "name": "Magical Tetris Challenge",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Marble Madness (USA, Europe)",
+      "fullpath": "gbc-Marble Madness (USA, Europe)",
+      "name": "Marble Madness",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Golf (USA)",
+      "fullpath": "gbc-Mario Golf (USA)",
+      "name": "Mario Golf",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Tennis (USA)",
+      "fullpath": "gbc-Mario Tennis (USA)",
+      "name": "Mario Tennis",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Marvin Strikes Back! (USA)",
+      "fullpath": "gbc-Marvin Strikes Back! (USA)",
+      "name": "Marvin Strikes Back!",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mary-Kate & Ashley - Get a Clue! (USA, Europe)",
+      "fullpath": "gbc-Mary-Kate & Ashley - Get a Clue! (USA, Europe)",
+      "name": "Mary-Kate & Ashley - Get a Clue!",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mary-Kate and Ashley - Crush Course (USA)",
+      "fullpath": "gbc-Mary-Kate and Ashley - Crush Course (USA)",
+      "name": "Mary-Kate and Ashley - Crush Course",
+      "year": "2001",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mary-Kate and Ashley - Pocket Planner (USA)",
+      "fullpath": "gbc-Mary-Kate and Ashley - Pocket Planner (USA)",
+      "name": "Mary-Kate and Ashley - Pocket Planner",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mary-Kate and Ashley - Winners Circle (USA, Europe)",
+      "fullpath": "gbc-Mary-Kate and Ashley - Winners Circle (USA, Europe)",
+      "name": "Mary-Kate and Ashley - Winners Circle",
+      "year": "2001",
+      "publisher": "Acclaim",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mask of Zorro, The (USA)",
+      "fullpath": "gbc-Mask of Zorro, The (USA)",
+      "name": "Mask of Zorro, The",
+      "year": "2000",
+      "publisher": "SunSoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mat Hoffman's Pro BMX (USA, Europe)",
+      "fullpath": "gbc-Mat Hoffman's Pro BMX (USA, Europe)",
+      "name": "Mat Hoffman's Pro BMX",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Matchbox Emergency Patrol (USA)",
+      "fullpath": "gbc-Matchbox Emergency Patrol (USA)",
+      "name": "Matchbox Emergency Patrol",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Maus, Die (Europe)",
+      "fullpath": "gbc-Maus, Die (Europe)",
+      "name": "Maus, Die",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Maya the Bee - Garden Adventures (Europe)",
+      "fullpath": "gbc-Maya the Bee - Garden Adventures (Europe)",
+      "name": "Maya the Bee - Garden Adventures",
+      "year": "2000",
+      "publisher": "NEON Software GmbH",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Maya the Bee & Her Friends (Europe)",
+      "fullpath": "gbc-Maya the Bee & Her Friends (Europe)",
+      "name": "Maya the Bee & Her Friends",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mega Man Xtreme (USA)",
+      "fullpath": "gbc-Mega Man Xtreme (USA)",
+      "name": "Mega Man Xtreme",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mega Man Xtreme 2 (USA, Europe)",
+      "fullpath": "gbc-Mega Man Xtreme 2 (USA, Europe)",
+      "name": "Mega Man Xtreme 2",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) (Translated En)",
+      "fullpath": "gbc-Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) (Translated En)",
+      "name": "Megami Tensei Gaiden - Last Bible II",
+      "year": "1999",
+      "publisher": "Atlus",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (Translated En)",
+      "fullpath": "gbc-Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (Translated En)",
+      "name": "Meitantei Conan - Karakuri Jiin Satsujin Jiken",
+      "year": "2000",
+      "publisher": "Banpresto",
+      "genre": "Adventure",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Men in Black - The Series (USA, Europe)",
+      "fullpath": "gbc-Men in Black - The Series (USA, Europe)",
+      "name": "Men in Black - The Series",
+      "year": "1998",
+      "publisher": "Crave",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Men in Black 2 - The Series (USA)",
+      "fullpath": "gbc-Men in Black 2 - The Series (USA)",
+      "name": "Men in Black 2 - The Series",
+      "year": "2000",
+      "publisher": "Crave",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Merlin (Europe)",
+      "fullpath": "gbc-Merlin (Europe)",
+      "name": "Merlin",
+      "year": "2001",
+      "publisher": "Electronic Arts",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Metal Gear Solid (USA)",
+      "fullpath": "gbc-Metal Gear Solid (USA)",
+      "name": "Metal Gear Solid",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Metal Slug 2001 (China) (Unl) (Translated En)",
+      "fullpath": "gbc-Metal Slug 2001 (China) (Unl) (Translated En)",
+      "name": "Metal Slug 2001",
+      "year": "2001",
+      "publisher": "",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Metal Walker (USA)",
+      "fullpath": "gbc-Metal Walker (USA)",
+      "name": "Metal Walker",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mia Hamm Soccer Shootout (USA)",
+      "fullpath": "gbc-Mia Hamm Soccer Shootout (USA)",
+      "name": "Mia Hamm Soccer Shootout",
+      "year": "2000",
+      "publisher": "SouthPeak Games",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mickey's Racing Adventure (USA)",
+      "fullpath": "gbc-Mickey's Racing Adventure (USA)",
+      "name": "Mickey's Racing Adventure",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mickey's Speedway USA (USA)",
+      "fullpath": "gbc-Mickey's Speedway USA (USA)",
+      "name": "Mickey's Speedway USA",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Micro Machines 1 and 2 - Twin Turbo (USA, Europe)",
+      "fullpath": "gbc-Micro Machines 1 and 2 - Twin Turbo (USA, Europe)",
+      "name": "Micro Machines 1 and 2 - Twin Turbo",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Micro Machines V3 (USA, Europe)",
+      "fullpath": "gbc-Micro Machines V3 (USA, Europe)",
+      "name": "Micro Machines V3",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Micro Maniacs (Europe)",
+      "fullpath": "gbc-Micro Maniacs (Europe)",
+      "name": "Micro Maniacs",
+      "year": "2001",
+      "publisher": "Codemasters",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (USA)",
+      "fullpath": "gbc-Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (USA)",
+      "name": "Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack",
+      "year": "2000",
+      "publisher": "Classified Games",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Microsoft - The Best of Entertainment Pack (USA)",
+      "fullpath": "gbc-Microsoft - The Best of Entertainment Pack (USA)",
+      "name": "Microsoft - The Best of Entertainment Pack",
+      "year": "2001",
+      "publisher": "Electro Source",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Microsoft Pinball Arcade (USA)",
+      "fullpath": "gbc-Microsoft Pinball Arcade (USA)",
+      "name": "Microsoft Pinball Arcade",
+      "year": "2001",
+      "publisher": "Classified Games",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Millennium Winter Sports (USA)",
+      "fullpath": "gbc-Millennium Winter Sports (USA)",
+      "name": "Millennium Winter Sports",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Missile Command (USA)",
+      "fullpath": "gbc-Missile Command (USA)",
+      "name": "Missile Command",
+      "year": "1999",
+      "publisher": "Hasbro Interactive",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mission Impossible (USA)",
+      "fullpath": "gbc-Mission Impossible (USA)",
+      "name": "Mission Impossible",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Monkey Puncher (Europe)",
+      "fullpath": "gbc-Monkey Puncher (Europe)",
+      "name": "Monkey Puncher",
+      "year": "2000",
+      "publisher": "Event Horizon Software",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Monopoly (USA)",
+      "fullpath": "gbc-Monopoly (USA)",
+      "name": "Monopoly",
+      "year": "1999",
+      "publisher": "Hasbro Interactive",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Monster Rancher Battle Card GB (USA)",
+      "fullpath": "gbc-Monster Rancher Battle Card GB (USA)",
+      "name": "Monster Rancher Battle Card GB",
+      "year": "2000",
+      "publisher": "Tecmo",
+      "genre": "Card Battle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Monster Rancher Explorer (USA)",
+      "fullpath": "gbc-Monster Rancher Explorer (USA)",
+      "name": "Monster Rancher Explorer",
+      "year": "2000",
+      "publisher": "Tecmo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Monsters, Inc. (USA)",
+      "fullpath": "gbc-Monsters, Inc. (USA)",
+      "name": "Monsters, Inc.",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Montezuma's Return! (USA)",
+      "fullpath": "gbc-Montezuma's Return! (USA)",
+      "name": "Montezuma's Return!",
+      "year": "1998",
+      "publisher": "Take-Two Interactive",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Moomin's Tale (Europe)",
+      "fullpath": "gbc-Moomin's Tale (Europe)",
+      "name": "Moomin's Tale",
+      "year": "2000",
+      "publisher": "SunSoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Moorhen 3 - The Chicken Chase! (Europe)",
+      "fullpath": "gbc-Moorhen 3 - The Chicken Chase! (Europe)",
+      "name": "Moorhen 3 - The Chicken Chase!",
+      "year": "2001",
+      "publisher": "Ubisoft",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mortal Kombat 4 (USA, Europe)",
+      "fullpath": "gbc-Mortal Kombat 4 (USA, Europe)",
+      "name": "Mortal Kombat 4",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Motocross Maniacs 2 (USA)",
+      "fullpath": "gbc-Motocross Maniacs 2 (USA)",
+      "name": "Motocross Maniacs 2",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mr Nutz (USA)",
+      "fullpath": "gbc-Mr Nutz (USA)",
+      "name": "Mr Nutz",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mr. Driller (USA)",
+      "fullpath": "gbc-Mr. Driller (USA)",
+      "name": "Mr. Driller",
+      "year": "2000",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ms. Pac-Man - Special Color Edition (USA)",
+      "fullpath": "gbc-Ms. Pac-Man - Special Color Edition (USA)",
+      "name": "Ms. Pac-Man - Special Color Edition",
+      "year": "1999",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MTV Sports - Pure Ride (USA, Europe)",
+      "fullpath": "gbc-MTV Sports - Pure Ride (USA, Europe)",
+      "name": "MTV Sports - Pure Ride",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MTV Sports - Skateboarding featuring Andy MacDonald (USA)",
+      "fullpath": "gbc-MTV Sports - Skateboarding featuring Andy MacDonald (USA)",
+      "name": "MTV Sports - Skateboarding featuring Andy MacDonald",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MTV Sports - T.J. Lavin's Ultimate BMX (USA, Europe)",
+      "fullpath": "gbc-MTV Sports - T.J. Lavin's Ultimate BMX (USA, Europe)",
+      "name": "MTV Sports - T.J. Lavin's Ultimate BMX",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mummy Returns, The (USA)",
+      "fullpath": "gbc-Mummy Returns, The (USA)",
+      "name": "Mummy Returns, The",
+      "year": "2001",
+      "publisher": "Universal Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mummy, The (USA)",
+      "fullpath": "gbc-Mummy, The (USA)",
+      "name": "Mummy, The",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Muppets, The (USA)",
+      "fullpath": "gbc-Muppets, The (USA)",
+      "name": "Muppets, The",
+      "year": "2000",
+      "publisher": "Take-Two Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "N.Y. Race (Europe)",
+      "fullpath": "gbc-N.Y. Race (Europe)",
+      "name": "N.Y. Race",
+      "year": "2001",
+      "publisher": "Kalisto",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NASCAR 2000 (USA, Europe)",
+      "fullpath": "gbc-NASCAR 2000 (USA, Europe)",
+      "name": "NASCAR 2000",
+      "year": "2000",
+      "publisher": "EA Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NASCAR Challenge (USA)",
+      "fullpath": "gbc-NASCAR Challenge (USA)",
+      "name": "NASCAR Challenge",
+      "year": "1999",
+      "publisher": "Majesco Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NASCAR Heat (USA)",
+      "fullpath": "gbc-NASCAR Heat (USA)",
+      "name": "NASCAR Heat",
+      "year": "2000",
+      "publisher": "Majesco Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NASCAR Racers (USA)",
+      "fullpath": "gbc-NASCAR Racers (USA)",
+      "name": "NASCAR Racers",
+      "year": "2000",
+      "publisher": "Majesco Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Nations, The - Land of Legends (Europe)",
+      "fullpath": "gbc-Nations, The - Land of Legends (Europe)",
+      "name": "Nations, The - Land of Legends",
+      "year": "2002",
+      "publisher": "Neon",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA 3 on 3 featuring Kobe Bryant (USA)",
+      "fullpath": "gbc-NBA 3 on 3 featuring Kobe Bryant (USA)",
+      "name": "NBA 3 on 3 featuring Kobe Bryant",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Hoopz (USA)",
+      "fullpath": "gbc-NBA Hoopz (USA)",
+      "name": "NBA Hoopz",
+      "year": "2001",
+      "publisher": "Midway",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA In the Zone (USA) (Rev A)",
+      "fullpath": "gbc-NBA In the Zone (USA) (Rev A)",
+      "name": "NBA In the Zone",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA In the Zone 2000 (USA)",
+      "fullpath": "gbc-NBA In the Zone 2000 (USA)",
+      "name": "NBA In the Zone 2000",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Jam 2001 (USA)",
+      "fullpath": "gbc-NBA Jam 2001 (USA)",
+      "name": "NBA Jam 2001",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Jam '99 (USA, Europe)",
+      "fullpath": "gbc-NBA Jam '99 (USA, Europe)",
+      "name": "NBA Jam '99",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Show Time - NBA on NBC (USA)",
+      "fullpath": "gbc-NBA Show Time - NBA on NBC (USA)",
+      "name": "NBA Show Time - NBA on NBC",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "New Addams Family Series, The (Europe)",
+      "fullpath": "gbc-New Addams Family Series, The (Europe)",
+      "name": "New Addams Family Series, The",
+      "year": "2001",
+      "publisher": "Titus Software",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "New Adventures of Mary-Kate & Ashley, The (USA)",
+      "fullpath": "gbc-New Adventures of Mary-Kate & Ashley, The (USA)",
+      "name": "New Adventures of Mary-Kate & Ashley, The",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "New Batman Adventures, The - Chaos in Gotham (USA)",
+      "fullpath": "gbc-New Batman Adventures, The - Chaos in Gotham (USA)",
+      "name": "New Batman Adventures, The - Chaos in Gotham",
+      "year": "2001",
+      "publisher": "Ubisoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Blitz (USA, Europe) (Rev A)",
+      "fullpath": "gbc-NFL Blitz (USA, Europe) (Rev A)",
+      "name": "NFL Blitz",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Blitz 2000 (USA)",
+      "fullpath": "gbc-NFL Blitz 2000 (USA)",
+      "name": "NFL Blitz 2000",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Blitz 2001 (USA)",
+      "fullpath": "gbc-NFL Blitz 2001 (USA)",
+      "name": "NFL Blitz 2001",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL 2000 (USA)",
+      "fullpath": "gbc-NHL 2000 (USA)",
+      "name": "NHL 2000",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL Blades of Steel (USA)",
+      "fullpath": "gbc-NHL Blades of Steel (USA)",
+      "name": "NHL Blades of Steel",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL Blades of Steel 2000 (USA)",
+      "fullpath": "gbc-NHL Blades of Steel 2000 (USA)",
+      "name": "NHL Blades of Steel 2000",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Nicktoons Racing (USA)",
+      "fullpath": "gbc-Nicktoons Racing (USA)",
+      "name": "Nicktoons Racing",
+      "year": "2000",
+      "publisher": "Majesco Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "No Fear - Downhill Mountain Biking (Europe)",
+      "fullpath": "gbc-No Fear - Downhill Mountain Biking (Europe)",
+      "name": "No Fear - Downhill Mountain Biking",
+      "year": "2001",
+      "publisher": "Codemasters",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Nobunaga no Yabou - Game Boy Ban 2 (Japan) (SGB Enhanced) (Translated En)",
+      "fullpath": "gbc-Nobunaga no Yabou - Game Boy Ban 2 (Japan) (SGB Enhanced) (Translated En)",
+      "name": "Nobunaga no Yabou - Game Boy Ban 2",
+      "year": "1999",
+      "publisher": "Koei",
+      "genre": "Strategy",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Noddy and the Birthday Party (Europe)",
+      "fullpath": "gbc-Noddy and the Birthday Party (Europe)",
+      "name": "Noddy and the Birthday Party",
+      "year": "2000",
+      "publisher": "BBC Multimedia",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NSYNC - Get to the Show (USA)",
+      "fullpath": "gbc-NSYNC - Get to the Show (USA)",
+      "name": "NSYNC - Get to the Show",
+      "year": "2001",
+      "publisher": "Infogrames",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Nushi Tsuri Adventure - Kite no Bouken (Japan) (Translated En)",
+      "fullpath": "gbc-Nushi Tsuri Adventure - Kite no Bouken (Japan) (Translated En)",
+      "name": "Nushi Tsuri Adventure - Kite no Bouken",
+      "year": "2000",
+      "publisher": "Victor Interactive Software",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Oddworld Adventures II (USA, Europe)",
+      "fullpath": "gbc-Oddworld Adventures II (USA, Europe)",
+      "name": "Oddworld Adventures II",
+      "year": "2000",
+      "publisher": "GT Interactive",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "O'Leary Manager 2000 (Europe)",
+      "fullpath": "gbc-O'Leary Manager 2000 (Europe)",
+      "name": "O'Leary Manager 2000",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ottifanten - Kommando Stoertebeker (Germany) (Translated En)",
+      "fullpath": "gbc-Ottifanten - Kommando Stoertebeker (Germany) (Translated En)",
+      "name": "Ottifanten - Kommando Stoertebeker",
+      "year": "2001",
+      "publisher": "JoWooD Entertainment AG",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pac-Man - Special Color Edition (USA)",
+      "fullpath": "gbc-Pac-Man - Special Color Edition (USA)",
+      "name": "Pac-Man - Special Color Edition",
+      "year": "1999",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Paperboy (USA, Europe)",
+      "fullpath": "gbc-Paperboy (USA, Europe)",
+      "name": "Paperboy",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Papyrus (Europe)",
+      "fullpath": "gbc-Papyrus (Europe)",
+      "name": "Papyrus",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Perfect Dark (USA, Europe)",
+      "fullpath": "gbc-Perfect Dark (USA, Europe)",
+      "name": "Perfect Dark",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pitfall - Beyond the Jungle (USA, Europe)",
+      "fullpath": "gbc-Pitfall - Beyond the Jungle (USA, Europe)",
+      "name": "Pitfall - Beyond the Jungle",
+      "year": "1998",
+      "publisher": "Crave",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Planet of the Apes (USA)",
+      "fullpath": "gbc-Planet of the Apes (USA)",
+      "name": "Planet of the Apes",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Player Manager 2001 (Europe)",
+      "fullpath": "gbc-Player Manager 2001 (Europe)",
+      "name": "Player Manager 2001",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pocket Billiards - Funk the 9 Ball (Japan) (Translated En)",
+      "fullpath": "gbc-Pocket Billiards - Funk the 9 Ball (Japan) (Translated En)",
+      "name": "Pocket Billiards - Funk the 9 Ball",
+      "year": "2000",
+      "publisher": "Tamsoft",
+      "genre": "Sports",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pocket Bomberman (USA, Europe)",
+      "fullpath": "gbc-Pocket Bomberman (USA, Europe)",
+      "name": "Pocket Bomberman",
+      "year": "1998",
+      "publisher": "Nintendo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pocket Bowling (USA)",
+      "fullpath": "gbc-Pocket Bowling (USA)",
+      "name": "Pocket Bowling",
+      "year": "1999",
+      "publisher": "Jaleco Entertainment",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pocket Music (Europe)",
+      "fullpath": "gbc-Pocket Music (Europe)",
+      "name": "Pocket Music",
+      "year": "2002",
+      "publisher": "Majesco Games",
+      "genre": "Rhythm",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pocket Racing (Europe)",
+      "fullpath": "gbc-Pocket Racing (Europe)",
+      "name": "Pocket Racing",
+      "year": "2000",
+      "publisher": "Interplay",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pocket Soccer (Europe)",
+      "fullpath": "gbc-Pocket Soccer (Europe)",
+      "name": "Pocket Soccer",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon - Crystal Version (USA, Europe) (Rev A)",
+      "fullpath": "gbc-Pokemon - Crystal Version (USA, Europe) (Rev A)",
+      "name": "Pokemon - Crystal Version",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon - Gold Version (USA, Europe)",
+      "fullpath": "gbc-Pokemon - Gold Version (USA, Europe)",
+      "name": "Pokemon - Gold Version",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon - Silver Version (USA, Europe)",
+      "fullpath": "gbc-Pokemon - Silver Version (USA, Europe)",
+      "name": "Pokemon - Silver Version",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon Card GB2 - GR Dan Sanjou! (Japan) (Translated En)",
+      "fullpath": "gbc-Pokemon Card GB2 - GR Dan Sanjou! (Japan) (Translated En)",
+      "name": "Pokemon Card GB2 - GR Dan Sanjou!",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Strategy",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pokemon Pinball (USA)",
+      "fullpath": "gbc-Pokemon Pinball (USA)",
+      "name": "Pokemon Pinball",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon Puzzle Challenge (USA)",
+      "fullpath": "gbc-Pokemon Puzzle Challenge (USA)",
+      "name": "Pokemon Puzzle Challenge",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon Trading Card Game (USA)",
+      "fullpath": "gbc-Pokemon Trading Card Game (USA)",
+      "name": "Pokemon Trading Card Game",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Card Battle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Polaris SnoCross (USA)",
+      "fullpath": "gbc-Polaris SnoCross (USA)",
+      "name": "Polaris SnoCross",
+      "year": "2000",
+      "publisher": "Vatical Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pong - The Next Level (USA, Europe)",
+      "fullpath": "gbc-Pong - The Next Level (USA, Europe)",
+      "name": "Pong - The Next Level",
+      "year": "1999",
+      "publisher": "Hasbro Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pooh and Tigger's Hunny Safari (USA)",
+      "fullpath": "gbc-Pooh and Tigger's Hunny Safari (USA)",
+      "name": "Pooh and Tigger's Hunny Safari",
+      "year": "2002",
+      "publisher": "Electronic Arts",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Portal Runner (USA)",
+      "fullpath": "gbc-Portal Runner (USA)",
+      "name": "Portal Runner",
+      "year": "2001",
+      "publisher": "3DO",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Power Quest (USA)",
+      "fullpath": "gbc-Power Quest (USA)",
+      "name": "Power Quest",
+      "year": "1998",
+      "publisher": "SunSoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Power Rangers - Lightspeed Rescue (USA, Europe)",
+      "fullpath": "gbc-Power Rangers - Lightspeed Rescue (USA, Europe)",
+      "name": "Power Rangers - Lightspeed Rescue",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Power Rangers - Time Force (USA)",
+      "fullpath": "gbc-Power Rangers - Time Force (USA)",
+      "name": "Power Rangers - Time Force",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Power Spike - Pro Beach Volleyball (USA)",
+      "fullpath": "gbc-Power Spike - Pro Beach Volleyball (USA)",
+      "name": "Power Spike - Pro Beach Volleyball",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev B)",
+      "fullpath": "gbc-Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev B)",
+      "name": "Powerpuff Girls, The - Bad Mojo Jojo",
+      "year": "2000",
+      "publisher": "Bam Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Powerpuff Girls, The - Battle Him (USA) (Rev A)",
+      "fullpath": "gbc-Powerpuff Girls, The - Battle Him (USA) (Rev A)",
+      "name": "Powerpuff Girls, The - Battle Him",
+      "year": "2001",
+      "publisher": "Bam Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev B)",
+      "fullpath": "gbc-Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev B)",
+      "name": "Powerpuff Girls, The - Paint the Townsville Green",
+      "year": "2000",
+      "publisher": "Bam Entertainment",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Prince Naseem Boxing (Europe)",
+      "fullpath": "gbc-Prince Naseem Boxing (Europe)",
+      "name": "Prince Naseem Boxing",
+      "year": "2001",
+      "publisher": "Virtucraft",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Prince of Persia (USA, Europe)",
+      "fullpath": "gbc-Prince of Persia (USA, Europe)",
+      "name": "Prince of Persia",
+      "year": "1999",
+      "publisher": "Red Orb Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pro Darts (USA)",
+      "fullpath": "gbc-Pro Darts (USA)",
+      "name": "Pro Darts",
+      "year": "2002",
+      "publisher": "Vatical Entertainment",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pro Pool (USA)",
+      "fullpath": "gbc-Pro Pool (USA)",
+      "name": "Pro Pool",
+      "year": "2000",
+      "publisher": "Codemasters",
+      "genre": "Pool and Dart",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Project S-11 (USA)",
+      "fullpath": "gbc-Project S-11 (USA)",
+      "name": "Project S-11",
+      "year": "2000",
+      "publisher": "SunSoft",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Puchi Carat (Europe)",
+      "fullpath": "gbc-Puchi Carat (Europe)",
+      "name": "Puchi Carat",
+      "year": "2000",
+      "publisher": "Tommo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Puzzle Master (USA)",
+      "fullpath": "gbc-Puzzle Master (USA)",
+      "name": "Puzzle Master",
+      "year": "1999",
+      "publisher": "Metro3D",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Puzzled (USA)",
+      "fullpath": "gbc-Puzzled (USA)",
+      "name": "Puzzled",
+      "year": "2001",
+      "publisher": "Conspiracy Entertainment",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Q-bert (USA)",
+      "fullpath": "gbc-Q-bert (USA)",
+      "name": "Q-bert",
+      "year": "2000",
+      "publisher": "Hasbro Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Qix Adventure (Europe)",
+      "fullpath": "gbc-Qix Adventure (Europe)",
+      "name": "Qix Adventure",
+      "year": "2000",
+      "publisher": "Event Horizon Software",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Quest - Fantasy Challenge (USA)",
+      "fullpath": "gbc-Quest - Fantasy Challenge (USA)",
+      "name": "Quest - Fantasy Challenge",
+      "year": "1999",
+      "publisher": "SunSoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Quest for Camelot (USA)",
+      "fullpath": "gbc-Quest for Camelot (USA)",
+      "name": "Quest for Camelot",
+      "year": "1998",
+      "publisher": "Titus Software",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Quest RPG - Brian's Journey (USA)",
+      "fullpath": "gbc-Quest RPG - Brian's Journey (USA)",
+      "name": "Quest RPG - Brian's Journey",
+      "year": "2000",
+      "publisher": "SunSoft",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rainbow Islands (Europe)",
+      "fullpath": "gbc-Rainbow Islands (Europe)",
+      "name": "Rainbow Islands",
+      "year": "2001",
+      "publisher": "TDK Core",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rampage - World Tour (USA, Europe)",
+      "fullpath": "gbc-Rampage - World Tour (USA, Europe)",
+      "name": "Rampage - World Tour",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rampage 2 - Universal Tour (USA)",
+      "fullpath": "gbc-Rampage 2 - Universal Tour (USA)",
+      "name": "Rampage 2 - Universal Tour",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rampart (USA)",
+      "fullpath": "gbc-Rampart (USA)",
+      "name": "Rampart",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rats! (USA)",
+      "fullpath": "gbc-Rats! (USA)",
+      "name": "Rats!",
+      "year": "1998",
+      "publisher": "Take-Two Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rayman (USA)",
+      "fullpath": "gbc-Rayman (USA)",
+      "name": "Rayman",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rayman 2 - The Great Escape (USA)",
+      "fullpath": "gbc-Rayman 2 - The Great Escape (USA)",
+      "name": "Rayman 2 - The Great Escape",
+      "year": "2002",
+      "publisher": "Ubisoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Razor Freestyle Scooter (USA)",
+      "fullpath": "gbc-Razor Freestyle Scooter (USA)",
+      "name": "Razor Freestyle Scooter",
+      "year": "2001",
+      "publisher": "Crave",
+      "genre": "Skateboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ready 2 Rumble Boxing (USA)",
+      "fullpath": "gbc-Ready 2 Rumble Boxing (USA)",
+      "name": "Ready 2 Rumble Boxing",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rescue Heroes - Fire Frenzy (USA)",
+      "fullpath": "gbc-Rescue Heroes - Fire Frenzy (USA)",
+      "name": "Rescue Heroes - Fire Frenzy",
+      "year": "2001",
+      "publisher": "Mattel",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Resident Evil Gaiden (USA)",
+      "fullpath": "gbc-Resident Evil Gaiden (USA)",
+      "name": "Resident Evil Gaiden",
+      "year": "2002",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Return of the Ninja (USA)",
+      "fullpath": "gbc-Return of the Ninja (USA)",
+      "name": "Return of the Ninja",
+      "year": "2001",
+      "publisher": "Natsume",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Revelations - The Demon Slayer (USA)",
+      "fullpath": "gbc-Revelations - The Demon Slayer (USA)",
+      "name": "Revelations - The Demon Slayer",
+      "year": "1999",
+      "publisher": "Atlus Co.",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rhino Rumble (USA, Europe)",
+      "fullpath": "gbc-Rhino Rumble (USA, Europe)",
+      "name": "Rhino Rumble",
+      "year": "2002",
+      "publisher": "Telegames Inc.",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rip-Tide Racer (Europe)",
+      "fullpath": "gbc-Rip-Tide Racer (Europe)",
+      "name": "Rip-Tide Racer",
+      "year": "2000",
+      "publisher": "Cryo Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Road Champs - BXS Stunt Biking (USA, Europe)",
+      "fullpath": "gbc-Road Champs - BXS Stunt Biking (USA, Europe)",
+      "name": "Road Champs - BXS Stunt Biking",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Road Rash (USA)",
+      "fullpath": "gbc-Road Rash (USA)",
+      "name": "Road Rash",
+      "year": "2000",
+      "publisher": "Electronic Arts",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Roadsters Trophy (USA)",
+      "fullpath": "gbc-Roadsters Trophy (USA)",
+      "name": "Roadsters Trophy",
+      "year": "2000",
+      "publisher": "Titus Software",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Robin Hood (Europe)",
+      "fullpath": "gbc-Robin Hood (Europe)",
+      "name": "Robin Hood",
+      "year": "2001",
+      "publisher": "Electronic Arts",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "RoboCop (Europe)",
+      "fullpath": "gbc-RoboCop (Europe)",
+      "name": "RoboCop",
+      "year": "2001",
+      "publisher": "Titus Software",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Robopon - Sun Version (USA)",
+      "fullpath": "gbc-Robopon - Sun Version (USA)",
+      "name": "Robopon - Sun Version",
+      "year": "2000",
+      "publisher": "Atlus Co.",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Robot Wars - Metal Mayhem (Europe)",
+      "fullpath": "gbc-Robot Wars - Metal Mayhem (Europe)",
+      "name": "Robot Wars - Metal Mayhem",
+      "year": "2000",
+      "publisher": "BBC Multimedia",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rocket Power - Gettin' Air (USA)",
+      "fullpath": "gbc-Rocket Power - Gettin' Air (USA)",
+      "name": "Rocket Power - Gettin' Air",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rocky Mountain Trophy Hunter (USA)",
+      "fullpath": "gbc-Rocky Mountain Trophy Hunter (USA)",
+      "name": "Rocky Mountain Trophy Hunter",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Sports/Hunting",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Roland Garros French Open (Europe)",
+      "fullpath": "gbc-Roland Garros French Open (Europe)",
+      "name": "Roland Garros French Open",
+      "year": "2000",
+      "publisher": "Cryo Interactive",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ronaldo V-Soccer (USA)",
+      "fullpath": "gbc-Ronaldo V-Soccer (USA)",
+      "name": "Ronaldo V-Soccer",
+      "year": "2001",
+      "publisher": "GT Interactive",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Roswell Conspiracies - Aliens, Myths & Legends (USA)",
+      "fullpath": "gbc-Roswell Conspiracies - Aliens, Myths & Legends (USA)",
+      "name": "Roswell Conspiracies - Aliens, Myths & Legends",
+      "year": "2001",
+      "publisher": "Red Storm Entertainment",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rox (USA, Europe)",
+      "fullpath": "gbc-Rox (USA, Europe)",
+      "name": "Rox",
+      "year": "2001",
+      "publisher": "Titus Software",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "R-Type DX (USA, Europe)",
+      "fullpath": "gbc-R-Type DX (USA, Europe)",
+      "name": "R-Type DX",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rugrats - Time Travelers (USA, Europe)",
+      "fullpath": "gbc-Rugrats - Time Travelers (USA, Europe)",
+      "name": "Rugrats - Time Travelers",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rugrats - Totally Angelica (USA)",
+      "fullpath": "gbc-Rugrats - Totally Angelica (USA)",
+      "name": "Rugrats - Totally Angelica",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rugrats in Paris - The Movie (USA, Europe)",
+      "fullpath": "gbc-Rugrats in Paris - The Movie (USA, Europe)",
+      "name": "Rugrats in Paris - The Movie",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rugrats Movie, The (USA, Europe)",
+      "fullpath": "gbc-Rugrats Movie, The (USA, Europe)",
+      "name": "Rugrats Movie, The",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sabrina - The Animated Series - Spooked! (USA, Europe)",
+      "fullpath": "gbc-Sabrina - The Animated Series - Spooked! (USA, Europe)",
+      "name": "Sabrina - The Animated Series - Spooked!",
+      "year": "2001",
+      "publisher": "WayForward",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sabrina - The Animated Series - Zapped! (USA, Europe)",
+      "fullpath": "gbc-Sabrina - The Animated Series - Zapped! (USA, Europe)",
+      "name": "Sabrina - The Animated Series - Zapped!",
+      "year": "2000",
+      "publisher": "WayForward",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "San Francisco Rush 2049 (USA)",
+      "fullpath": "gbc-San Francisco Rush 2049 (USA)",
+      "name": "San Francisco Rush 2049",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Santa Claus Junior (Europe)",
+      "fullpath": "gbc-Santa Claus Junior (Europe)",
+      "name": "Santa Claus Junior",
+      "year": "2001",
+      "publisher": "NEON Software GmbH",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Scooby-Doo! - Classic Creep Capers (USA, Europe)",
+      "fullpath": "gbc-Scooby-Doo! - Classic Creep Capers (USA, Europe)",
+      "name": "Scooby-Doo! - Classic Creep Capers",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Scrabble (Europe)",
+      "fullpath": "gbc-Scrabble (Europe)",
+      "name": "Scrabble",
+      "year": "2001",
+      "publisher": "Runecraft",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sesame Street Sports (USA)",
+      "fullpath": "gbc-Sesame Street Sports (USA)",
+      "name": "Sesame Street Sports",
+      "year": "2001",
+      "publisher": "NewKidCo",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sgt. Rock - On the Frontline (USA)",
+      "fullpath": "gbc-Sgt. Rock - On the Frontline (USA)",
+      "name": "Sgt. Rock - On the Frontline",
+      "year": "2000",
+      "publisher": "Bam Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shadowgate Classic (USA, Europe) (Rev A)",
+      "fullpath": "gbc-Shadowgate Classic (USA, Europe) (Rev A)",
+      "name": "Shadowgate Classic",
+      "year": "1999",
+      "publisher": "Kemco",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shamus (USA, Europe)",
+      "fullpath": "gbc-Shamus (USA, Europe)",
+      "name": "Shamus",
+      "year": "2000",
+      "publisher": "Vatical Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shanghai Pocket (USA, Europe) (Rev A)",
+      "fullpath": "gbc-Shanghai Pocket (USA, Europe) (Rev A)",
+      "name": "Shanghai Pocket",
+      "year": "1998",
+      "publisher": "Activision",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shantae (USA)",
+      "fullpath": "gbc-Shantae (USA)",
+      "name": "Shantae",
+      "year": "2002",
+      "publisher": "Capcom",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shaun Palmer's Pro Snowboarder (USA)",
+      "fullpath": "gbc-Shaun Palmer's Pro Snowboarder (USA)",
+      "name": "Shaun Palmer's Pro Snowboarder",
+      "year": "2001",
+      "publisher": "Activision",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shrek - Fairy Tale Freakdown (USA, Europe)",
+      "fullpath": "gbc-Shrek - Fairy Tale Freakdown (USA, Europe)",
+      "name": "Shrek - Fairy Tale Freakdown",
+      "year": "2001",
+      "publisher": "TDK Mediactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe)",
+      "fullpath": "gbc-Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe)",
+      "name": "Simpsons, The - Night of the Living Treehouse of Horror",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Smurfs Nightmare, The (USA)",
+      "fullpath": "gbc-Smurfs Nightmare, The (USA)",
+      "name": "Smurfs Nightmare, The",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Snobo Champion (Japan) (Translated En)",
+      "fullpath": "gbc-Snobo Champion (Japan) (Translated En)",
+      "name": "Snobo Champion",
+      "year": "2000",
+      "publisher": "Bottom Up",
+      "genre": "Sports",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Snoopy Tennis (USA)",
+      "fullpath": "gbc-Snoopy Tennis (USA)",
+      "name": "Snoopy Tennis",
+      "year": "2001",
+      "publisher": "Infogrames",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Snow White and the Seven Dwarfs (USA)",
+      "fullpath": "gbc-Snow White and the Seven Dwarfs (USA)",
+      "name": "Snow White and the Seven Dwarfs",
+      "year": "2001",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Soccer Manager (Europe)",
+      "fullpath": "gbc-Soccer Manager (Europe)",
+      "name": "Soccer Manager",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Space Invaders (USA)",
+      "fullpath": "gbc-Space Invaders (USA)",
+      "name": "Space Invaders",
+      "year": "1999",
+      "publisher": "Activision",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Space Marauder (USA)",
+      "fullpath": "gbc-Space Marauder (USA)",
+      "name": "Space Marauder",
+      "year": "2000",
+      "publisher": "Agetec Inc.",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spacestation Silicon Valley (Europe)",
+      "fullpath": "gbc-Spacestation Silicon Valley (Europe)",
+      "name": "Spacestation Silicon Valley",
+      "year": "1999",
+      "publisher": "Take-Two Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spawn (USA)",
+      "fullpath": "gbc-Spawn (USA)",
+      "name": "Spawn",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Speedy Gonzales - Aztec Adventure (USA, Europe)",
+      "fullpath": "gbc-Speedy Gonzales - Aztec Adventure (USA, Europe)",
+      "name": "Speedy Gonzales - Aztec Adventure",
+      "year": "1999",
+      "publisher": "Electro Source",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spider-Man (USA, Europe)",
+      "fullpath": "gbc-Spider-Man (USA, Europe)",
+      "name": "Spider-Man",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spider-Man 2 - The Sinister Six (USA)",
+      "fullpath": "gbc-Spider-Man 2 - The Sinister Six (USA)",
+      "name": "Spider-Man 2 - The Sinister Six",
+      "year": "2001",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spirou Robbedoes - The Robot Invasion (Europe)",
+      "fullpath": "gbc-Spirou Robbedoes - The Robot Invasion (Europe)",
+      "name": "Spirou Robbedoes - The Robot Invasion",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe)",
+      "fullpath": "gbc-SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe)",
+      "name": "SpongeBob SquarePants - Legend of the Lost Spatula",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spy vs. Spy (USA)",
+      "fullpath": "gbc-Spy vs. Spy (USA)",
+      "name": "Spy vs. Spy",
+      "year": "1999",
+      "publisher": "Vatical Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Star Wars Episode I - Obi-Wan's Adventures (USA)",
+      "fullpath": "gbc-Star Wars Episode I - Obi-Wan's Adventures (USA)",
+      "name": "Star Wars Episode I - Obi-Wan's Adventures",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Star Wars Episode I - Racer (USA, Europe)",
+      "fullpath": "gbc-Star Wars Episode I - Racer (USA, Europe)",
+      "name": "Star Wars Episode I - Racer",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Street Fighter Alpha - Warriors' Dreams (USA)",
+      "fullpath": "gbc-Street Fighter Alpha - Warriors' Dreams (USA)",
+      "name": "Street Fighter Alpha - Warriors' Dreams",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Stuart Little - The Journey Home (USA, Europe)",
+      "fullpath": "gbc-Stuart Little - The Journey Home (USA, Europe)",
+      "name": "Stuart Little - The Journey Home",
+      "year": "2001",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Breakout! (USA)",
+      "fullpath": "gbc-Super Breakout! (USA)",
+      "name": "Super Breakout!",
+      "year": "1998",
+      "publisher": "Majesco Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Chinese Fighter EX (Japan) (Translated En)",
+      "fullpath": "gbc-Super Chinese Fighter EX (Japan) (Translated En)",
+      "name": "Super Chinese Fighter EX",
+      "year": "1999",
+      "publisher": "Culture Brain",
+      "genre": "Fighter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Super Mario Bros. Deluxe (USA, Europe) (Rev B)",
+      "fullpath": "gbc-Super Mario Bros. Deluxe (USA, Europe) (Rev B)",
+      "name": "Super Mario Bros. Deluxe",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Supercross Freestyle (Europe)",
+      "fullpath": "gbc-Supercross Freestyle (Europe)",
+      "name": "Supercross Freestyle",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Survival Kids (USA)",
+      "fullpath": "gbc-Survival Kids (USA)",
+      "name": "Survival Kids",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (Translated En)",
+      "fullpath": "gbc-Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (Translated En)",
+      "name": "Survival Kids 2 - Dasshutsu!! Futago-Jima!",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Suzuki Alstare Extreme Racing (Europe)",
+      "fullpath": "gbc-Suzuki Alstare Extreme Racing (Europe)",
+      "name": "Suzuki Alstare Extreme Racing",
+      "year": "1999",
+      "publisher": "Ubisoft",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SWIV (Europe)",
+      "fullpath": "gbc-SWIV (Europe)",
+      "name": "SWIV",
+      "year": "2001",
+      "publisher": "TCC",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sylvanian Families - Otogi no Kuni no Pendant (Japan) (SGB Enhanced) (Translated En)",
+      "fullpath": "gbc-Sylvanian Families - Otogi no Kuni no Pendant (Japan) (SGB Enhanced) (Translated En)",
+      "name": "Sylvanian Families - Otogi no Kuni no Pendant",
+      "year": "1999",
+      "publisher": "Epoch",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sylvanian Melodies - Mori no Nakama to Odori Mashi! (Japan) (SGB Enhanced) (Translated En)",
+      "fullpath": "gbc-Sylvanian Melodies - Mori no Nakama to Odori Mashi! (Japan) (SGB Enhanced) (Translated En)",
+      "name": "Sylvanian Melodies - Mori no Nakama to Odori Mashi!",
+      "year": "2000",
+      "publisher": "Epoch",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tarzan (USA, Europe)",
+      "fullpath": "gbc-Tarzan (USA, Europe)",
+      "name": "Tarzan",
+      "year": "1999",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tazmanian Devil - Munching Madness (USA)",
+      "fullpath": "gbc-Tazmanian Devil - Munching Madness (USA)",
+      "name": "Tazmanian Devil - Munching Madness",
+      "year": "1999",
+      "publisher": "SunSoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tech Deck Skateboarding (USA, Europe)",
+      "fullpath": "gbc-Tech Deck Skateboarding (USA, Europe)",
+      "name": "Tech Deck Skateboarding",
+      "year": "2001",
+      "publisher": "Activision",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Test Drive 2001 (USA)",
+      "fullpath": "gbc-Test Drive 2001 (USA)",
+      "name": "Test Drive 2001",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Test Drive 6 (USA)",
+      "fullpath": "gbc-Test Drive 6 (USA)",
+      "name": "Test Drive 6",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Test Drive Cycles (USA)",
+      "fullpath": "gbc-Test Drive Cycles (USA)",
+      "name": "Test Drive Cycles",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Test Drive Le Mans (USA)",
+      "fullpath": "gbc-Test Drive Le Mans (USA)",
+      "name": "Test Drive Le Mans",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Test Drive Off-Road 3 (USA)",
+      "fullpath": "gbc-Test Drive Off-Road 3 (USA)",
+      "name": "Test Drive Off-Road 3",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tetris DX (World)",
+      "fullpath": "gbc-Tetris DX (World)",
+      "name": "Tetris DX",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Thunderbirds (Europe)",
+      "fullpath": "gbc-Thunderbirds (Europe)",
+      "name": "Thunderbirds",
+      "year": "2000",
+      "publisher": "SCi",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tiger Woods PGA Tour 2000 (USA, Europe)",
+      "fullpath": "gbc-Tiger Woods PGA Tour 2000 (USA, Europe)",
+      "name": "Tiger Woods PGA Tour 2000",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tintin - Prisoners of the Sun (Europe)",
+      "fullpath": "gbc-Tintin - Prisoners of the Sun (Europe)",
+      "name": "Tintin - Prisoners of the Sun",
+      "year": "2000",
+      "publisher": "Atari",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tintin in Tibet (Europe)",
+      "fullpath": "gbc-Tintin in Tibet (Europe)",
+      "name": "Tintin in Tibet",
+      "year": "2001",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tiny Toon Adventures - Buster Saves the Day (USA)",
+      "fullpath": "gbc-Tiny Toon Adventures - Buster Saves the Day (USA)",
+      "name": "Tiny Toon Adventures - Buster Saves the Day",
+      "year": "2001",
+      "publisher": "Conspiracy Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tiny Toon Adventures - Dizzy's Candy Quest (Europe)",
+      "fullpath": "gbc-Tiny Toon Adventures - Dizzy's Candy Quest (Europe)",
+      "name": "Tiny Toon Adventures - Dizzy's Candy Quest",
+      "year": "2001",
+      "publisher": "Formula",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Titus the Fox to Marrakech and Back (USA)",
+      "fullpath": "gbc-Titus the Fox to Marrakech and Back (USA)",
+      "name": "Titus the Fox to Marrakech and Back",
+      "year": "2000",
+      "publisher": "Titus Software",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "TNN Outdoors Fishing Champ (USA)",
+      "fullpath": "gbc-TNN Outdoors Fishing Champ (USA)",
+      "name": "TNN Outdoors Fishing Champ",
+      "year": "1999",
+      "publisher": "ASC Games",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "TOCA Touring Car Championship (USA)",
+      "fullpath": "gbc-TOCA Touring Car Championship (USA)",
+      "name": "TOCA Touring Car Championship",
+      "year": "2000",
+      "publisher": "SouthPeak Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Toki Tori (USA, Europe)",
+      "fullpath": "gbc-Toki Tori (USA, Europe)",
+      "name": "Toki Tori",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tom & Jerry (USA, Europe)",
+      "fullpath": "gbc-Tom & Jerry (USA, Europe)",
+      "name": "Tom & Jerry",
+      "year": "1999",
+      "publisher": "Majesco Games",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tom and Jerry - Mousehunt (USA)",
+      "fullpath": "gbc-Tom and Jerry - Mousehunt (USA)",
+      "name": "Tom and Jerry - Mousehunt",
+      "year": "2001",
+      "publisher": "Conspiracy Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tom and Jerry in Mouse Attacks! (USA)",
+      "fullpath": "gbc-Tom and Jerry in Mouse Attacks! (USA)",
+      "name": "Tom and Jerry in Mouse Attacks!",
+      "year": "2000",
+      "publisher": "NewKidCo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tom Clancy's Rainbow Six (USA, Europe)",
+      "fullpath": "gbc-Tom Clancy's Rainbow Six (USA, Europe)",
+      "name": "Tom Clancy's Rainbow Six",
+      "year": "2000",
+      "publisher": "SouthPeak Games",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tomb Raider - Curse of the Sword (USA, Europe)",
+      "fullpath": "gbc-Tomb Raider - Curse of the Sword (USA, Europe)",
+      "name": "Tomb Raider - Curse of the Sword",
+      "year": "2001",
+      "publisher": "Core Design Ltd.",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tomb Raider (USA, Europe)",
+      "fullpath": "gbc-Tomb Raider (USA, Europe)",
+      "name": "Tomb Raider",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tonic Trouble (Europe)",
+      "fullpath": "gbc-Tonic Trouble (Europe)",
+      "name": "Tonic Trouble",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tonka Construction Site (USA)",
+      "fullpath": "gbc-Tonka Construction Site (USA)",
+      "name": "Tonka Construction Site",
+      "year": "2002",
+      "publisher": "TDK Mediactive",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tonka Raceway (USA)",
+      "fullpath": "gbc-Tonka Raceway (USA)",
+      "name": "Tonka Raceway",
+      "year": "1999",
+      "publisher": "Hasbro Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tony Hawk's Pro Skater (USA, Europe)",
+      "fullpath": "gbc-Tony Hawk's Pro Skater (USA, Europe)",
+      "name": "Tony Hawk's Pro Skater",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Skateboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tony Hawk's Pro Skater 2 (USA)",
+      "fullpath": "gbc-Tony Hawk's Pro Skater 2 (USA)",
+      "name": "Tony Hawk's Pro Skater 2",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Skateboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tony Hawk's Pro Skater 3 (USA)",
+      "fullpath": "gbc-Tony Hawk's Pro Skater 3 (USA)",
+      "name": "Tony Hawk's Pro Skater 3",
+      "year": "2001",
+      "publisher": "Activision",
+      "genre": "Skateboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Toobin' (USA)",
+      "fullpath": "gbc-Toobin' (USA)",
+      "name": "Toobin'",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Toonsylvania (USA)",
+      "fullpath": "gbc-Toonsylvania (USA)",
+      "name": "Toonsylvania",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tootuff (Europe)",
+      "fullpath": "gbc-Tootuff (Europe)",
+      "name": "Tootuff",
+      "year": "2001",
+      "publisher": "Planet Interactive",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Top Gear Pocket (USA)",
+      "fullpath": "gbc-Top Gear Pocket (USA)",
+      "name": "Top Gear Pocket",
+      "year": "1999",
+      "publisher": "Vatical Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Top Gear Pocket 2 (USA)",
+      "fullpath": "gbc-Top Gear Pocket 2 (USA)",
+      "name": "Top Gear Pocket 2",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Top Gun - Fire Storm (USA, Europe)",
+      "fullpath": "gbc-Top Gun - Fire Storm (USA, Europe)",
+      "name": "Top Gun - Fire Storm",
+      "year": "2001",
+      "publisher": "Titus Software",
+      "genre": "Flying",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Total Soccer 2000 (Europe)",
+      "fullpath": "gbc-Total Soccer 2000 (Europe)",
+      "name": "Total Soccer 2000",
+      "year": "2000",
+      "publisher": "Ubisoft",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Towers - Lord Baniff's Deceit (USA, Europe)",
+      "fullpath": "gbc-Towers - Lord Baniff's Deceit (USA, Europe)",
+      "name": "Towers - Lord Baniff's Deceit",
+      "year": "2000",
+      "publisher": "Vatical Entertainment",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Toy Story 2 (USA, Europe)",
+      "fullpath": "gbc-Toy Story 2 (USA, Europe)",
+      "name": "Toy Story 2",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Toy Story Racer (USA)",
+      "fullpath": "gbc-Toy Story Racer (USA)",
+      "name": "Toy Story Racer",
+      "year": "2001",
+      "publisher": "Activision",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Trick Boarder (USA)",
+      "fullpath": "gbc-Trick Boarder (USA)",
+      "name": "Trick Boarder",
+      "year": "2000",
+      "publisher": "Natsume",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Triple Play 2001 (USA, Europe)",
+      "fullpath": "gbc-Triple Play 2001 (USA, Europe)",
+      "name": "Triple Play 2001",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Trouballs (USA)",
+      "fullpath": "gbc-Trouballs (USA)",
+      "name": "Trouballs",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Turok - Rage Wars (USA, Europe)",
+      "fullpath": "gbc-Turok - Rage Wars (USA, Europe)",
+      "name": "Turok - Rage Wars",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Turok 2 - Seeds of Evil (USA, Europe)",
+      "fullpath": "gbc-Turok 2 - Seeds of Evil (USA, Europe)",
+      "name": "Turok 2 - Seeds of Evil",
+      "year": "1998",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Turok 3 - Shadow of Oblivion (USA, Europe)",
+      "fullpath": "gbc-Turok 3 - Shadow of Oblivion (USA, Europe)",
+      "name": "Turok 3 - Shadow of Oblivion",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tweenies - Doodles' Bones (Europe)",
+      "fullpath": "gbc-Tweenies - Doodles' Bones (Europe)",
+      "name": "Tweenies - Doodles' Bones",
+      "year": "2001",
+      "publisher": "BBC Multimedia",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tweety's High-Flying Adventure (USA)",
+      "fullpath": "gbc-Tweety's High-Flying Adventure (USA)",
+      "name": "Tweety's High-Flying Adventure",
+      "year": "2000",
+      "publisher": "Kemco",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tyco RC - Racin' Ratz (USA)",
+      "fullpath": "gbc-Tyco RC - Racin' Ratz (USA)",
+      "name": "Tyco RC - Racin' Ratz",
+      "year": "2000",
+      "publisher": "Mattel",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ultimate Fighting Championship (USA)",
+      "fullpath": "gbc-Ultimate Fighting Championship (USA)",
+      "name": "Ultimate Fighting Championship",
+      "year": "2000",
+      "publisher": "Crave",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ultimate Paint Ball (USA, Europe)",
+      "fullpath": "gbc-Ultimate Paint Ball (USA, Europe)",
+      "name": "Ultimate Paint Ball",
+      "year": "2000",
+      "publisher": "Majesco Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ultimate Surfing (USA)",
+      "fullpath": "gbc-Ultimate Surfing (USA)",
+      "name": "Ultimate Surfing",
+      "year": "2001",
+      "publisher": "Natsume",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Uno (USA)",
+      "fullpath": "gbc-Uno (USA)",
+      "name": "Uno",
+      "year": "1999",
+      "publisher": "Mattel",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Vegas Games (USA)",
+      "fullpath": "gbc-Vegas Games (USA)",
+      "name": "Vegas Games",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Vigilante 8 (USA)",
+      "fullpath": "gbc-Vigilante 8 (USA)",
+      "name": "Vigilante 8",
+      "year": "1999",
+      "publisher": "Vatical Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "VIP (USA, Europe)",
+      "fullpath": "gbc-VIP (USA, Europe)",
+      "name": "VIP",
+      "year": "2001",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "V-Rally - Championship Edition (USA)",
+      "fullpath": "gbc-V-Rally - Championship Edition (USA)",
+      "name": "V-Rally - Championship Edition",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wacky Races (USA)",
+      "fullpath": "gbc-Wacky Races (USA)",
+      "name": "Wacky Races",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Walt Disney World Quest - Magical Racing Tour (USA, Europe)",
+      "fullpath": "gbc-Walt Disney World Quest - Magical Racing Tour (USA, Europe)",
+      "name": "Walt Disney World Quest - Magical Racing Tour",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wario Land 3 (World)",
+      "fullpath": "gbc-Wario Land 3 (World)",
+      "name": "Wario Land 3",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wario Land II (USA, Europe)",
+      "fullpath": "gbc-Wario Land II (USA, Europe)",
+      "name": "Wario Land II",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Warlocked (USA)",
+      "fullpath": "gbc-Warlocked (USA)",
+      "name": "Warlocked",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Warriors of Might and Magic (USA)",
+      "fullpath": "gbc-Warriors of Might and Magic (USA)",
+      "name": "Warriors of Might and Magic",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WCW Mayhem (USA, Europe)",
+      "fullpath": "gbc-WCW Mayhem (USA, Europe)",
+      "name": "WCW Mayhem",
+      "year": "2000",
+      "publisher": "Electronic Arts",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wendy - Every Witch Way (USA, Europe)",
+      "fullpath": "gbc-Wendy - Every Witch Way (USA, Europe)",
+      "name": "Wendy - Every Witch Way",
+      "year": "2001",
+      "publisher": "TDK Mediactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wetrix GB (Europe)",
+      "fullpath": "gbc-Wetrix GB (Europe)",
+      "name": "Wetrix GB",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Who Wants to Be a Millionaire - 2nd Edition (USA)",
+      "fullpath": "gbc-Who Wants to Be a Millionaire - 2nd Edition (USA)",
+      "name": "Who Wants to Be a Millionaire - 2nd Edition",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Game Show",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wild Thornberrys, The - Rambler (USA)",
+      "fullpath": "gbc-Wild Thornberrys, The - Rambler (USA)",
+      "name": "Wild Thornberrys, The - Rambler",
+      "year": "2000",
+      "publisher": "Mattel",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wings of Fury (USA)",
+      "fullpath": "gbc-Wings of Fury (USA)",
+      "name": "Wings of Fury",
+      "year": "1999",
+      "publisher": "Mindscape Inc.",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Winnie the Pooh - Adventures in the 100 Acre Wood (USA)",
+      "fullpath": "gbc-Winnie the Pooh - Adventures in the 100 Acre Wood (USA)",
+      "name": "Winnie the Pooh - Adventures in the 100 Acre Wood",
+      "year": "2000",
+      "publisher": "NewKidCo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wizardry Empire (Japan) (Translated En)",
+      "fullpath": "gbc-Wizardry Empire (Japan) (Translated En)",
+      "name": "Wizardry Empire",
+      "year": "1999",
+      "publisher": "Starfish",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wizardry I - Proving Grounds of the Mad Overlord (Japan) (Translated En)",
+      "fullpath": "gbc-Wizardry I - Proving Grounds of the Mad Overlord (Japan) (Translated En)",
+      "name": "Wizardry I - Proving Grounds of the Mad Overlord",
+      "year": "2001",
+      "publisher": "Ascii",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wizardry II - Llylgamyn no Isan (Japan) (Translated En)",
+      "fullpath": "gbc-Wizardry II - Llylgamyn no Isan (Japan) (Translated En)",
+      "name": "Wizardry II - Llylgamyn no Isan",
+      "year": "2001",
+      "publisher": "Ascii",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wizardry III - Diamond no Kishi (Japan) (Translated En)",
+      "fullpath": "gbc-Wizardry III - Diamond no Kishi (Japan) (Translated En)",
+      "name": "Wizardry III - Diamond no Kishi",
+      "year": "2001",
+      "publisher": "Ascii",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Woody Woodpecker (USA)",
+      "fullpath": "gbc-Woody Woodpecker (USA)",
+      "name": "Woody Woodpecker",
+      "year": "2001",
+      "publisher": "DreamCatcher Interactive",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Woody Woodpecker Racing (USA)",
+      "fullpath": "gbc-Woody Woodpecker Racing (USA)",
+      "name": "Woody Woodpecker Racing",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "World Destruction League - Thunder Tanks (USA)",
+      "fullpath": "gbc-World Destruction League - Thunder Tanks (USA)",
+      "name": "World Destruction League - Thunder Tanks",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Worms Armageddon (USA)",
+      "fullpath": "gbc-Worms Armageddon (USA)",
+      "name": "Worms Armageddon",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WWF Attitude (USA)",
+      "fullpath": "gbc-WWF Attitude (USA)",
+      "name": "WWF Attitude",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WWF Betrayal (USA, Europe)",
+      "fullpath": "gbc-WWF Betrayal (USA, Europe)",
+      "name": "WWF Betrayal",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WWF WrestleMania 2000 (USA, Europe)",
+      "fullpath": "gbc-WWF WrestleMania 2000 (USA, Europe)",
+      "name": "WWF WrestleMania 2000",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Xena - Warrior Princess (USA, Europe)",
+      "fullpath": "gbc-Xena - Warrior Princess (USA, Europe)",
+      "name": "Xena - Warrior Princess",
+      "year": "2001",
+      "publisher": "Titus Software",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "X-Men - Mutant Academy (USA, Europe)",
+      "fullpath": "gbc-X-Men - Mutant Academy (USA, Europe)",
+      "name": "X-Men - Mutant Academy",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "X-Men - Mutant Wars (USA, Europe)",
+      "fullpath": "gbc-X-Men - Mutant Wars (USA, Europe)",
+      "name": "X-Men - Mutant Wars",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "X-Men - Wolverine's Rage (USA)",
+      "fullpath": "gbc-X-Men - Wolverine's Rage (USA)",
+      "name": "X-Men - Wolverine's Rage",
+      "year": "2001",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Xtreme Sports (USA)",
+      "fullpath": "gbc-Xtreme Sports (USA)",
+      "name": "Xtreme Sports",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Xtreme Wheels (USA)",
+      "fullpath": "gbc-Xtreme Wheels (USA)",
+      "name": "Xtreme Wheels",
+      "year": "2001",
+      "publisher": "Bam Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Yars' Revenge (USA, Europe)",
+      "fullpath": "gbc-Yars' Revenge (USA, Europe)",
+      "name": "Yars' Revenge",
+      "year": "1999",
+      "publisher": "Telegames Inc.",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Yoda Stories (USA)",
+      "fullpath": "gbc-Yoda Stories (USA)",
+      "name": "Yoda Stories",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Yogi Bear - Great Balloon Blast (USA)",
+      "fullpath": "gbc-Yogi Bear - Great Balloon Blast (USA)",
+      "name": "Yogi Bear - Great Balloon Blast",
+      "year": "2000",
+      "publisher": "Bam Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Yu-Gi-Oh! - Dark Duel Stories (USA)",
+      "fullpath": "gbc-Yu-Gi-Oh! - Dark Duel Stories (USA)",
+      "name": "Yu-Gi-Oh! - Dark Duel Stories",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Card Battle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Zebco Fishing! (USA)",
+      "fullpath": "gbc-Zebco Fishing! (USA)",
+      "name": "Zebco Fishing!",
+      "year": "1999",
+      "publisher": "Vatical Entertainment",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Zidane Football Generation (Europe)",
+      "fullpath": "gbc-Zidane Football Generation (Europe)",
+      "name": "Zidane Football Generation",
+      "year": "2002",
+      "publisher": "Cryo Interactive",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Zoboomafoo - Playtime in Zobooland (USA)",
+      "fullpath": "gbc-Zoboomafoo - Playtime in Zobooland (USA)",
+      "name": "Zoboomafoo - Playtime in Zobooland",
+      "year": "2001",
+      "publisher": "Encore Software Inc.",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    }
+  ]
+}

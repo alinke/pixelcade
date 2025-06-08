@@ -1,0 +1,599 @@
+{
+  "platform": "3do",
+  "totalGames": 65,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "3do game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "3do.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Alone in the Dark (USA)",
+      "fullpath": "3do-Alone in the Dark (USA)",
+      "name": "Alone in the Dark",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alone in the Dark 2 (USA)",
+      "fullpath": "3do-Alone in the Dark 2 (USA)",
+      "name": "Alone in the Dark 2",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "BC Racers (USA, Europe)",
+      "fullpath": "3do-BC Racers (USA, Europe)",
+      "name": "BC Racers",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battle Chess (USA)",
+      "fullpath": "3do-Battle Chess (USA)",
+      "name": "Battle Chess",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "BattleSport (USA)",
+      "fullpath": "3do-BattleSport (USA)",
+      "name": "BattleSport",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blade Force (USA)",
+      "fullpath": "3do-Blade Force (USA)",
+      "name": "Blade Force",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Burning Soldier (USA)",
+      "fullpath": "3do-Burning Soldier (USA)",
+      "name": "Burning Soldier",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cannon Fodder (USA)",
+      "fullpath": "3do-Cannon Fodder (USA)",
+      "name": "Cannon Fodder",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Captain Quazar (USA)",
+      "fullpath": "3do-Captain Quazar (USA)",
+      "name": "Captain Quazar",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Corpse Killer (USA)",
+      "fullpath": "3do-Corpse Killer (USA)",
+      "name": "Corpse Killer",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crash 'n Burn (USA)",
+      "fullpath": "3do-Crash 'n Burn (USA)",
+      "name": "Crash 'n Burn",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crime Patrol (USA)",
+      "fullpath": "3do-Crime Patrol (USA)",
+      "name": "Crime Patrol",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cyberdillo (USA)",
+      "fullpath": "3do-Cyberdillo (USA)",
+      "name": "Cyberdillo",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cyberia (USA)",
+      "fullpath": "3do-Cyberia (USA)",
+      "name": "Cyberia",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "D (USA, Europe) (Disc 1)",
+      "fullpath": "3do-D (USA, Europe) (Disc 1)",
+      "name": "D",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "D (USA, Europe) (Disc 2)",
+      "fullpath": "3do-D (USA, Europe) (Disc 2)",
+      "name": "D",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "DeathKeep (USA)",
+      "fullpath": "3do-DeathKeep (USA)",
+      "name": "DeathKeep",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Decathlon (USA)",
+      "fullpath": "3do-Decathlon (USA)",
+      "name": "Decathlon",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Doom (USA)",
+      "fullpath": "3do-Doom (USA)",
+      "name": "Doom",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dragon's Lair (USA)",
+      "fullpath": "3do-Dragon's Lair (USA)",
+      "name": "Dragon's Lair",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Drug Wars (USA)",
+      "fullpath": "3do-Drug Wars (USA)",
+      "name": "Drug Wars",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "FIFA International Soccer (USA)",
+      "fullpath": "3do-FIFA International Soccer (USA)",
+      "name": "FIFA International Soccer",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Flashback - The Quest for Identity (USA)",
+      "fullpath": "3do-Flashback - The Quest for Identity (USA)",
+      "name": "Flashback - The Quest for Identity",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Foes of Ali (USA)",
+      "fullpath": "3do-Foes of Ali (USA)",
+      "name": "Foes of Ali",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gex (USA, Europe)",
+      "fullpath": "3do-Gex (USA, Europe)",
+      "name": "Gex",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Horde, The (USA)",
+      "fullpath": "3do-Horde, The (USA)",
+      "name": "Horde, The",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Immercenary (USA)",
+      "fullpath": "3do-Immercenary (USA)",
+      "name": "Immercenary",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Incredible Machine, The (USA)",
+      "fullpath": "3do-Incredible Machine, The (USA)",
+      "name": "Incredible Machine, The",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "John Madden Football (USA)",
+      "fullpath": "3do-John Madden Football (USA)",
+      "name": "John Madden Football",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Killing Time (USA)",
+      "fullpath": "3do-Killing Time (USA)",
+      "name": "Killing Time",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lemmings (USA)",
+      "fullpath": "3do-Lemmings (USA)",
+      "name": "Lemmings",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lucienne's Quest (USA)",
+      "fullpath": "3do-Lucienne's Quest (USA)",
+      "name": "Lucienne's Quest",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mad Dog McCree (USA)",
+      "fullpath": "3do-Mad Dog McCree (USA)",
+      "name": "Mad Dog McCree",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "MegaRace (USA)",
+      "fullpath": "3do-MegaRace (USA)",
+      "name": "MegaRace",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Need for Speed, The (USA, Europe)",
+      "fullpath": "3do-Need for Speed, The (USA, Europe)",
+      "name": "Need for Speed, The",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Novastorm (USA)",
+      "fullpath": "3do-Novastorm (USA)",
+      "name": "Novastorm",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "PGA Tour 96 (USA)",
+      "fullpath": "3do-PGA Tour 96 (USA)",
+      "name": "PGA Tour 96",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "PO'ed (USA, Europe)",
+      "fullpath": "3do-PO'ed (USA, Europe)",
+      "name": "PO'ed",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Panzer General (USA, Europe)",
+      "fullpath": "3do-Panzer General (USA, Europe)",
+      "name": "Panzer General",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Primal Rage (USA, Europe)",
+      "fullpath": "3do-Primal Rage (USA, Europe)",
+      "name": "Primal Rage",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Psychic Detective (USA) (Disc 1)",
+      "fullpath": "3do-Psychic Detective (USA) (Disc 1)",
+      "name": "Psychic Detective",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Psychic Detective (USA) (Disc 2)",
+      "fullpath": "3do-Psychic Detective (USA) (Disc 2)",
+      "name": "Psychic Detective",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Psychic Detective (USA) (Disc 3)",
+      "fullpath": "3do-Psychic Detective (USA) (Disc 3)",
+      "name": "Psychic Detective",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Return Fire (USA)",
+      "fullpath": "3do-Return Fire (USA)",
+      "name": "Return Fire",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Road Rash (Europe)",
+      "fullpath": "3do-Road Rash (Europe)",
+      "name": "Road Rash",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Road Rash (USA)",
+      "fullpath": "3do-Road Rash (USA)",
+      "name": "Road Rash",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown (USA, Europe)",
+      "fullpath": "3do-Samurai Shodown (USA, Europe)",
+      "name": "Samurai Shodown",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shockwave 2 - Beyond the Gate (USA) (Disc 1)",
+      "fullpath": "3do-Shockwave 2 - Beyond the Gate (USA) (Disc 1)",
+      "name": "Shockwave 2 - Beyond the Gate",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shockwave 2 - Beyond the Gate (USA) (Disc 2)",
+      "fullpath": "3do-Shockwave 2 - Beyond the Gate (USA) (Disc 2)",
+      "name": "Shockwave 2 - Beyond the Gate",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slayer (USA)",
+      "fullpath": "3do-Slayer (USA)",
+      "name": "Slayer",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Soccer Kid (USA)",
+      "fullpath": "3do-Soccer Kid (USA)",
+      "name": "Soccer Kid",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Ace (USA)",
+      "fullpath": "3do-Space Ace (USA)",
+      "name": "Space Ace",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Hulk - Vengeance of the Blood Angels (USA)",
+      "fullpath": "3do-Space Hulk - Vengeance of the Blood Angels (USA)",
+      "name": "Space Hulk - Vengeance of the Blood Angels",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Control II (USA, Europe)",
+      "fullpath": "3do-Star Control II (USA, Europe)",
+      "name": "Star Control II",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Fighter (USA, Europe)",
+      "fullpath": "3do-Star Fighter (USA, Europe)",
+      "name": "Star Fighter",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Street Fighter II Turbo (USA)",
+      "fullpath": "3do-Super Street Fighter II Turbo (USA)",
+      "name": "Super Street Fighter II Turbo",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Syndicate (USA)",
+      "fullpath": "3do-Syndicate (USA)",
+      "name": "Syndicate",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Theme Park (USA)",
+      "fullpath": "3do-Theme Park (USA)",
+      "name": "Theme Park",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Total Eclipse (USA)",
+      "fullpath": "3do-Total Eclipse (USA)",
+      "name": "Total Eclipse",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Trip'd (USA, Europe)",
+      "fullpath": "3do-Trip'd (USA, Europe)",
+      "name": "Trip'd",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wing Commander III - Heart of the Tiger (USA) (Disc 1)",
+      "fullpath": "3do-Wing Commander III - Heart of the Tiger (USA) (Disc 1)",
+      "name": "Wing Commander III - Heart of the Tiger",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wing Commander III - Heart of the Tiger (USA) (Disc 2)",
+      "fullpath": "3do-Wing Commander III - Heart of the Tiger (USA) (Disc 2)",
+      "name": "Wing Commander III - Heart of the Tiger",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wing Commander III - Heart of the Tiger (USA) (Disc 3)",
+      "fullpath": "3do-Wing Commander III - Heart of the Tiger (USA) (Disc 3)",
+      "name": "Wing Commander III - Heart of the Tiger",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wing Commander III - Heart of the Tiger (USA) (Disc 4)",
+      "fullpath": "3do-Wing Commander III - Heart of the Tiger (USA) (Disc 4)",
+      "name": "Wing Commander III - Heart of the Tiger",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wolfenstein 3D (USA)",
+      "fullpath": "3do-Wolfenstein 3D (USA)",
+      "name": "Wolfenstein 3D",
+      "year": "1993",
+      "publisher": "3DO",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

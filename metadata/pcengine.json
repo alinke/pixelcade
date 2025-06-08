@@ -1,0 +1,1742 @@
+{
+  "platform": "pcengine",
+  "totalGames": 192,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "pcengine game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "pcengine.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "1943 Kai (Japan)",
+      "fullpath": "pcengine-1943 Kai (Japan)",
+      "name": "1943 Kai",
+      "year": "1991",
+      "publisher": "Capcom/Naxat Soft",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "After Burner II (Japan)",
+      "fullpath": "pcengine-After Burner II (Japan)",
+      "name": "After Burner II",
+      "year": "1990",
+      "publisher": "Sega/NEC Avenue",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Aoi Blink (Japan) (Translated En)",
+      "fullpath": "pcengine-Aoi Blink (Japan) (Translated En)",
+      "name": "Aoi Blink",
+      "year": "1990",
+      "publisher": "Hudson Soft",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Appare! Gateball (Japan)",
+      "fullpath": "pcengine-Appare! Gateball (Japan)",
+      "name": "Appare! Gateball",
+      "year": "1988",
+      "publisher": "Azuma/Hudson Soft",
+      "genre": "Sports",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Artist Tool (Japan)",
+      "fullpath": "pcengine-Artist Tool (Japan)",
+      "name": "Artist Tool",
+      "year": "1989",
+      "publisher": "NEC Home Electronics/Hudson Soft",
+      "genre": "Miscellaneous",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Atomic Robo-Kid Special (Japan)",
+      "fullpath": "pcengine-Atomic Robo-Kid Special (Japan)",
+      "name": "Atomic Robo-Kid Special",
+      "year": "1990",
+      "publisher": "UPL",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "AV Poker World Gambler (Japan)",
+      "fullpath": "pcengine-AV Poker World Gambler (Japan)",
+      "name": "AV Poker World Gambler",
+      "year": "1992",
+      "publisher": "Games Express",
+      "genre": "Casino",
+      "rating": "HSRS - AD (Adult)"
+    },
+    {
+      "id": "Bari Bari Densetsu (Japan)",
+      "fullpath": "pcengine-Bari Bari Densetsu (Japan)",
+      "name": "Bari Bari Densetsu",
+      "year": "1989",
+      "publisher": "Taito",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Barunba (Japan)",
+      "fullpath": "pcengine-Barunba (Japan)",
+      "name": "Barunba",
+      "year": "1990",
+      "publisher": "Zap Corp./Namcot",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Batman (Japan)",
+      "fullpath": "pcengine-Batman (Japan)",
+      "name": "Batman",
+      "year": "1990",
+      "publisher": "SunSoft",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Battle Lode Runner (Japan)",
+      "fullpath": "pcengine-Battle Lode Runner (Japan)",
+      "name": "Battle Lode Runner",
+      "year": "1993",
+      "publisher": "Hudson Soft",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bikkuriman World (Japan) (Translated En)",
+      "fullpath": "pcengine-Bikkuriman World (Japan) (Translated En)",
+      "name": "Bikkuriman World",
+      "year": "1987",
+      "publisher": "Hudson Soft",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bomberman '94 (Japan)",
+      "fullpath": "pcengine-Bomberman '94 (Japan)",
+      "name": "Bomberman '94",
+      "year": "1993",
+      "publisher": "Hudson Soft",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bomberman - Users Battle (Japan)",
+      "fullpath": "pcengine-Bomberman - Users Battle (Japan)",
+      "name": "Bomberman: Users Battle",
+      "year": "1990",
+      "publisher": "Hudson Soft",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bouken Danshaku Don - The Lost Sunheart (Japan)",
+      "fullpath": "pcengine-Bouken Danshaku Don - The Lost Sunheart (Japan)",
+      "name": "Bouken Danshaku Don: The Lost Sunheart",
+      "year": "1992",
+      "publisher": "I'Max",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Break In (Japan)",
+      "fullpath": "pcengine-Break In (Japan)",
+      "name": "Break In",
+      "year": "1989",
+      "publisher": "Naxat Soft",
+      "genre": "Sports",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bubblegum Crash! - Knight Sabers 2034 (Japan) (Translated En)",
+      "fullpath": "pcengine-Bubblegum Crash! - Knight Sabers 2034 (Japan) (Translated En)",
+      "name": "Bubblegum Crash!: Knight Sabers 2034",
+      "year": "1991",
+      "publisher": "Naxat Soft",
+      "genre": "Adventure",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bull Fight - Ring no Haja (Japan)",
+      "fullpath": "pcengine-Bull Fight - Ring no Haja (Japan)",
+      "name": "Bull Fight: Ring no Haja",
+      "year": "1989",
+      "publisher": "Cream",
+      "genre": "Sports/Boxing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Burning Angels (Japan)",
+      "fullpath": "pcengine-Burning Angels (Japan)",
+      "name": "Burning Angels",
+      "year": "1990",
+      "publisher": "Naxat Soft",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Busou Keiji - Cyber Cross (Japan)",
+      "fullpath": "pcengine-Busou Keiji - Cyber Cross (Japan)",
+      "name": "Busou Keiji: Cyber Cross",
+      "year": "1989",
+      "publisher": "Face",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Champion Wrestler (Japan)",
+      "fullpath": "pcengine-Champion Wrestler (Japan)",
+      "name": "Champion Wrestler",
+      "year": "1990",
+      "publisher": "Taito",
+      "genre": "Sports/Wrestling",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Circus Lido (Japan)",
+      "fullpath": "pcengine-Circus Lido (Japan)",
+      "name": "Circus Lido",
+      "year": "1991",
+      "publisher": "Uni Post Company Ltd.",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "City Hunter (Japan)",
+      "fullpath": "pcengine-City Hunter (Japan)",
+      "name": "City Hunter",
+      "year": "1990",
+      "publisher": "SunSoft",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Columns (Japan)",
+      "fullpath": "pcengine-Columns (Japan)",
+      "name": "Columns",
+      "year": "1991",
+      "publisher": "Sega/Telenet/Laser Soft",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Coryoon - Child of Dragon (Japan)",
+      "fullpath": "pcengine-Coryoon - Child of Dragon (Japan)",
+      "name": "Coryoon: Child of Dragon",
+      "year": "1991",
+      "publisher": "Naxat Soft",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cross Wiber - Cyber Combat Police (Japan)",
+      "fullpath": "pcengine-Cross Wiber - Cyber Combat Police (Japan)",
+      "name": "Cross Wiber: Cyber Combat Police",
+      "year": "1990",
+      "publisher": "Face",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cyber Dodge (Japan)",
+      "fullpath": "pcengine-Cyber Dodge (Japan)",
+      "name": "Cyber Dodge",
+      "year": "1992",
+      "publisher": "Tonkin House",
+      "genre": "Sports",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dai Senpu (Japan)",
+      "fullpath": "pcengine-Dai Senpu (Japan)",
+      "name": "Dai Senpu",
+      "year": "1990",
+      "publisher": "Toaplan/NEC Avenue",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Daichi Kun Crisis - Do Natural (Japan)",
+      "fullpath": "pcengine-Daichi Kun Crisis - Do Natural (Japan)",
+      "name": "Daichi Kun Crisis: Do Natural",
+      "year": "1989",
+      "publisher": "Salio",
+      "genre": "Strategy",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Darius Alpha (Japan)",
+      "fullpath": "pcengine-Darius Alpha (Japan)",
+      "name": "Darius Alpha",
+      "year": "1990",
+      "publisher": "Taito/NEC Avenue",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Darius Plus (Japan)",
+      "fullpath": "pcengine-Darius Plus (Japan)",
+      "name": "Darius Plus",
+      "year": "1990",
+      "publisher": "Taito/NEC Avenue",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Detana!! TwinBee (Japan)",
+      "fullpath": "pcengine-Detana!! TwinBee (Japan)",
+      "name": "Detana!! TwinBee",
+      "year": "1992",
+      "publisher": "Konami",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Die Hard (Japan) (Translated En)",
+      "fullpath": "pcengine-Die Hard (Japan) (Translated En)",
+      "name": "Die Hard",
+      "year": "1990",
+      "publisher": "Pack-In-Video/Nichibutsu",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Digital Champ (Japan)",
+      "fullpath": "pcengine-Digital Champ (Japan)",
+      "name": "Digital Champ",
+      "year": "1989",
+      "publisher": "Naxat Soft",
+      "genre": "Sports/Boxing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Don Doko Don! (Japan)",
+      "fullpath": "pcengine-Don Doko Don! (Japan)",
+      "name": "Don Doko Don!",
+      "year": "1990",
+      "publisher": "Taito",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Doraemon - Meikyuu Daisakusen (Japan)",
+      "fullpath": "pcengine-Doraemon - Meikyuu Daisakusen (Japan)",
+      "name": "Doraemon: Meikyuu Daisakusen",
+      "year": "1989",
+      "publisher": "Hudson Soft",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Doraemon - Nobita no Dorabian Night (Japan)",
+      "fullpath": "pcengine-Doraemon - Nobita no Dorabian Night (Japan)",
+      "name": "Doraemon: Nobita no Dorabian Night",
+      "year": "1991",
+      "publisher": "Hudson Soft",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Download (Japan)",
+      "fullpath": "pcengine-Download (Japan)",
+      "name": "Download",
+      "year": "1990",
+      "publisher": "NEC Avenue",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dragon Egg! (Japan)",
+      "fullpath": "pcengine-Dragon Egg! (Japan)",
+      "name": "Dragon Egg!",
+      "year": "1991",
+      "publisher": "Masaya (NCS)",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dragon Saber - After Story of Dragon Spirit (Japan)",
+      "fullpath": "pcengine-Dragon Saber - After Story of Dragon Spirit (Japan)",
+      "name": "Dragon Saber: After Story of Dragon Spirit",
+      "year": "1991",
+      "publisher": "Namcot",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Energy (Japan)",
+      "fullpath": "pcengine-Energy (Japan)",
+      "name": "Energy",
+      "year": "1989",
+      "publisher": "Masaya (NCS)/Quasar Soft",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "F-1 Dream (Japan)",
+      "fullpath": "pcengine-F-1 Dream (Japan)",
+      "name": "F-1 Dream",
+      "year": "1989",
+      "publisher": "Capcom/NEC Avenue",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "F-1 Pilot - You're King of Kings (Japan)",
+      "fullpath": "pcengine-F-1 Pilot - You're King of Kings (Japan)",
+      "name": "F-1 Pilot: You're King of Kings",
+      "year": "1989",
+      "publisher": "Pack-In-Video",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "F1 Circus '91 - World Championship (Japan)",
+      "fullpath": "pcengine-F1 Circus '91 - World Championship (Japan)",
+      "name": "F1 Circus '91: World Championship",
+      "year": "1991",
+      "publisher": "Nichibutsu",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "F1 Circus '92 - The Speed of Sound (Japan)",
+      "fullpath": "pcengine-F1 Circus '92 - The Speed of Sound (Japan)",
+      "name": "F1 Circus '92: The Speed of Sound",
+      "year": "1992",
+      "publisher": "Nichibutsu",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "F1 Circus (Japan)",
+      "fullpath": "pcengine-F1 Circus (Japan)",
+      "name": "F1 Circus",
+      "year": "1990",
+      "publisher": "Nichibutsu",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "F1 Triple Battle (Japan)",
+      "fullpath": "pcengine-F1 Triple Battle (Japan)",
+      "name": "F1 Triple Battle",
+      "year": "1989",
+      "publisher": "Human Creative",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fighting Run (Japan)",
+      "fullpath": "pcengine-Fighting Run (Japan)",
+      "name": "Fighting Run",
+      "year": "1991",
+      "publisher": "Nichibutsu",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Final Blaster (Japan)",
+      "fullpath": "pcengine-Final Blaster (Japan)",
+      "name": "Final Blaster",
+      "year": "1990",
+      "publisher": "Namcot",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Final Match Tennis (Japan) (Translated En)",
+      "fullpath": "pcengine-Final Match Tennis (Japan) (Translated En)",
+      "name": "Final Match Tennis",
+      "year": "1991",
+      "publisher": "Human Creative Group",
+      "genre": "Sports/Tennis",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Final Soldier (Japan)",
+      "fullpath": "pcengine-Final Soldier (Japan)",
+      "name": "Final Soldier",
+      "year": "1991",
+      "publisher": "Hudson Soft",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fire Pro Wrestling - Combination Tag (Japan)",
+      "fullpath": "pcengine-Fire Pro Wrestling - Combination Tag (Japan)",
+      "name": "Fire Pro Wrestling: Combination Tag",
+      "year": "1989",
+      "publisher": "Human Creative",
+      "genre": "Sports/Wrestling",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fire Pro Wrestling 2 - 2nd Bout (Japan)",
+      "fullpath": "pcengine-Fire Pro Wrestling 2 - 2nd Bout (Japan)",
+      "name": "Fire Pro Wrestling 2: 2nd Bout",
+      "year": "1991",
+      "publisher": "Human Creative Group",
+      "genre": "Sports/Wrestling",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fire Pro Wrestling 3 - Legend Bout (Japan)",
+      "fullpath": "pcengine-Fire Pro Wrestling 3 - Legend Bout (Japan)",
+      "name": "Fire Pro Wrestling 3: Legend Bout",
+      "year": "1992",
+      "publisher": "Human Entertainment",
+      "genre": "Sports/Wrestling",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Formation Armed F (Japan)",
+      "fullpath": "pcengine-Formation Armed F (Japan)",
+      "name": "Formation Armed F",
+      "year": "1990",
+      "publisher": "Nichibutsu/Pack-In-Video",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Formation Soccer - Human Cup '90 (Japan)",
+      "fullpath": "pcengine-Formation Soccer - Human Cup '90 (Japan)",
+      "name": "Formation Soccer: Human Cup '90",
+      "year": "1990",
+      "publisher": "Human Creative",
+      "genre": "Sports/Soccer",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Formation Soccer - On J.League (Japan)",
+      "fullpath": "pcengine-Formation Soccer - On J.League (Japan)",
+      "name": "Formation Soccer: On J.League",
+      "year": "1994",
+      "publisher": "Human Entertainment",
+      "genre": "Sports/Soccer",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fushigi no Yume no Alice (Japan)",
+      "fullpath": "pcengine-Fushigi no Yume no Alice (Japan)",
+      "name": "Fushigi no Yume no Alice",
+      "year": "1990",
+      "publisher": "Face",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gaia no Monshou (Japan) (Translated En)",
+      "fullpath": "pcengine-Gaia no Monshou (Japan) (Translated En)",
+      "name": "Gaia no Monshou",
+      "year": "1988",
+      "publisher": "NCS",
+      "genre": "Strategy",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ganbare! Golf Boys (Japan)",
+      "fullpath": "pcengine-Ganbare! Golf Boys (Japan)",
+      "name": "Ganbare! Golf Boys",
+      "year": "1989",
+      "publisher": "Masaya (NCS)",
+      "genre": "Sports/Golf",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gekisha Boy (Japan) (Translated En)",
+      "fullpath": "pcengine-Gekisha Boy (Japan) (Translated En)",
+      "name": "Gekisha Boy",
+      "year": "1992",
+      "publisher": "Irem",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Genji Tsuushin Agedama (Japan)",
+      "fullpath": "pcengine-Genji Tsuushin Agedama (Japan)",
+      "name": "Genji Tsuushin Agedama",
+      "year": "1991",
+      "publisher": "NEC",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Genpei Toumaden (Japan)",
+      "fullpath": "pcengine-Genpei Toumaden (Japan)",
+      "name": "Genpei Toumaden",
+      "year": "1990",
+      "publisher": "Namcot",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gokuraku! Chuuka Taisen (Japan)",
+      "fullpath": "pcengine-Gokuraku! Chuuka Taisen (Japan)",
+      "name": "Gokuraku! Chuuka Taisen",
+      "year": "1992",
+      "publisher": "Taito",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gomola Speed (Japan)",
+      "fullpath": "pcengine-Gomola Speed (Japan)",
+      "name": "Gomola Speed",
+      "year": "1990",
+      "publisher": "UPL",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gradius (Japan)",
+      "fullpath": "pcengine-Gradius (Japan)",
+      "name": "Gradius",
+      "year": "1991",
+      "publisher": "Konami",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hana Taaka Daka! (Japan)",
+      "fullpath": "pcengine-Hana Taaka Daka! (Japan)",
+      "name": "Hana Taaka Daka!",
+      "year": "1991",
+      "publisher": "Taito",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hany in the Sky (Japan)",
+      "fullpath": "pcengine-Hany in the Sky (Japan)",
+      "name": "Hany in the Sky",
+      "year": "1989",
+      "publisher": "Face",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hany on the Road (Japan)",
+      "fullpath": "pcengine-Hany on the Road (Japan)",
+      "name": "Hany on the Road",
+      "year": "1990",
+      "publisher": "Face",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hatris (Japan)",
+      "fullpath": "pcengine-Hatris (Japan)",
+      "name": "Hatris",
+      "year": "1991",
+      "publisher": "Bullet-Proof Software/Micro Cabin",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Heavy Unit (Japan)",
+      "fullpath": "pcengine-Heavy Unit (Japan)",
+      "name": "Heavy Unit",
+      "year": "1989",
+      "publisher": "Taito",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hisou Kihei - Xserd (Japan) (Translated En)",
+      "fullpath": "pcengine-Hisou Kihei - Xserd (Japan) (Translated En)",
+      "name": "Hisou Kihei: Xserd",
+      "year": "1990",
+      "publisher": "Masaya (NCS)",
+      "genre": "Strategy",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Honoo no Toukyuuji Dodge Danpei (Japan)",
+      "fullpath": "pcengine-Honoo no Toukyuuji Dodge Danpei (Japan)",
+      "name": "Honoo no Toukyuuji Dodge Danpei",
+      "year": "1992",
+      "publisher": "Hudson Soft",
+      "genre": "Sports",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Idol Hanafuda Fan Club (Japan)",
+      "fullpath": "pcengine-Idol Hanafuda Fan Club (Japan)",
+      "name": "Idol Hanafuda Fan Club",
+      "year": "1991",
+      "publisher": "Games Express",
+      "genre": "Miscellaneous",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Image Fight (Japan)",
+      "fullpath": "pcengine-Image Fight (Japan)",
+      "name": "Image Fight",
+      "year": "1990",
+      "publisher": "Irem",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "J.League Greatest Eleven (Japan)",
+      "fullpath": "pcengine-J.League Greatest Eleven (Japan)",
+      "name": "J.League Greatest Eleven",
+      "year": "1993",
+      "publisher": "Nichibutsu/Cream",
+      "genre": "Sports/Soccer",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jaseikin Necromancer (Japan) (Translated En)",
+      "fullpath": "pcengine-Jaseikin Necromancer (Japan) (Translated En)",
+      "name": "Jaseikin Necromancer",
+      "year": "1988",
+      "publisher": "Hudson Soft",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jigoku Meguri (Japan)",
+      "fullpath": "pcengine-Jigoku Meguri (Japan)",
+      "name": "Jigoku Meguri",
+      "year": "1990",
+      "publisher": "Taito",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jinmu Denshou (Japan)",
+      "fullpath": "pcengine-Jinmu Denshou (Japan)",
+      "name": "Jinmu Denshou",
+      "year": "1989",
+      "publisher": "Wolf Team/Big Club",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Juuouki (Japan)",
+      "fullpath": "pcengine-Juuouki (Japan)",
+      "name": "Juuouki",
+      "year": "1989",
+      "publisher": "Sega/NEC Avenue",
+      "genre": "Beat-'Em-Up",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Kaizou Choujin Shubibinman (Japan)",
+      "fullpath": "pcengine-Kaizou Choujin Shubibinman (Japan)",
+      "name": "Kaizou Choujin Shubibinman",
+      "year": "1989",
+      "publisher": "Masaya (NCS)",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Kato-chan & Ken-chan (Japan)",
+      "fullpath": "pcengine-Kato-chan & Ken-chan (Japan)",
+      "name": "Kato-chan & Ken-chan",
+      "year": "1987",
+      "publisher": "Hudson Soft",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Kattobi! Takuhai Kun (Japan)",
+      "fullpath": "pcengine-Kattobi! Takuhai Kun (Japan)",
+      "name": "Kattobi! Takuhai Kun",
+      "year": "1989",
+      "publisher": "Tonkin House",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "KickBall (Japan)",
+      "fullpath": "pcengine-KickBall (Japan)",
+      "name": "KickBall",
+      "year": "1990",
+      "publisher": "Masaya (NCS)",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Kiki Kaikai (Japan)",
+      "fullpath": "pcengine-Kiki Kaikai (Japan)",
+      "name": "Kiki Kaikai",
+      "year": "1990",
+      "publisher": "Taito",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Knight Rider Special (Japan) (Translated En)",
+      "fullpath": "pcengine-Knight Rider Special (Japan) (Translated En)",
+      "name": "Knight Rider Special",
+      "year": "1989",
+      "publisher": "Pack-In-Video",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Kore ga Pro Yakyuu '89 (Japan)",
+      "fullpath": "pcengine-Kore ga Pro Yakyuu '89 (Japan)",
+      "name": "Kore ga Pro Yakyuu '89",
+      "year": "1989",
+      "publisher": "Intec",
+      "genre": "Sports/Baseball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Kore ga Pro Yakyuu '90 (Japan)",
+      "fullpath": "pcengine-Kore ga Pro Yakyuu '90 (Japan)",
+      "name": "Kore ga Pro Yakyuu '90",
+      "year": "1990",
+      "publisher": "Intec",
+      "genre": "Sports/Baseball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Kyuukyoku Mahjong - Idol Graphic (Japan)",
+      "fullpath": "pcengine-Kyuukyoku Mahjong - Idol Graphic (Japan)",
+      "name": "Kyuukyoku Mahjong: Idol Graphic",
+      "year": "1992",
+      "publisher": "Games Express",
+      "genre": "Mahjong",
+      "rating": "HSRS - AD (Adult)"
+    },
+    {
+      "id": "Kyuukyoku Mahjong II - Super Idol Graphic (Japan)",
+      "fullpath": "pcengine-Kyuukyoku Mahjong II - Super Idol Graphic (Japan)",
+      "name": "Kyuukyoku Mahjong II: Super Idol Graphic",
+      "year": "1992",
+      "publisher": "Games Express",
+      "genre": "Mahjong",
+      "rating": "HSRS - AD (Adult)"
+    },
+    {
+      "id": "Kyuukyoku Tiger (Japan)",
+      "fullpath": "pcengine-Kyuukyoku Tiger (Japan)",
+      "name": "Kyuukyoku Tiger",
+      "year": "1989",
+      "publisher": "Taito",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Lady Sword (Japan) (Translated En)",
+      "fullpath": "pcengine-Lady Sword (Japan) (Translated En)",
+      "name": "Lady Sword",
+      "year": "1992",
+      "publisher": "Games Express",
+      "genre": "Role-Playing",
+      "rating": "HSRS - AD (Adult)"
+    },
+    {
+      "id": "Lady Sword (Japan) (Translated En) (Trainer)",
+      "fullpath": "pcengine-Lady Sword (Japan) (Translated En) (Trainer)",
+      "name": "Lady Sword",
+      "year": "1992",
+      "publisher": "Games Express",
+      "genre": "Role-Playing",
+      "rating": "HSRS - AD (Adult)"
+    },
+    {
+      "id": "Lode Runner - Lost Labyrinth (Japan) (Translated En)",
+      "fullpath": "pcengine-Lode Runner - Lost Labyrinth (Japan) (Translated En)",
+      "name": "Lode Runner: Lost Labyrinth",
+      "year": "1990",
+      "publisher": "Broderbund Software, Inc./Pack-In-Video",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Magical Chase (Japan)",
+      "fullpath": "pcengine-Magical Chase (Japan)",
+      "name": "Magical Chase",
+      "year": "1991",
+      "publisher": "Palsoft/Quest",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mahjong Gakuen - Touma Soushirou Toujou (Japan)",
+      "fullpath": "pcengine-Mahjong Gakuen - Touma Soushirou Toujou (Japan)",
+      "name": "Mahjong Gakuen: Touma Soushirou Toujou",
+      "year": "1989",
+      "publisher": "Face",
+      "genre": "Mahjong",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mahjong Gokuu Special (Japan)",
+      "fullpath": "pcengine-Mahjong Gokuu Special (Japan)",
+      "name": "Mahjong Gokuu Special",
+      "year": "1990",
+      "publisher": "SunSoft",
+      "genre": "Mahjong",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mahjong Haoden - Kaiser's Quest (Japan)",
+      "fullpath": "pcengine-Mahjong Haoden - Kaiser's Quest (Japan)",
+      "name": "Mahjong Haoden: Kaiser's Quest",
+      "year": "1992",
+      "publisher": "UPL",
+      "genre": "Mahjong",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mahjong Shikaku Retsuden - Mahjong Wars (Japan)",
+      "fullpath": "pcengine-Mahjong Shikaku Retsuden - Mahjong Wars (Japan)",
+      "name": "Mahjong Shikaku Retsuden: Mahjong Wars",
+      "year": "1990",
+      "publisher": "Nichibutsu",
+      "genre": "Mahjong",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Maison Ikkoku (Japan) (Translated En)",
+      "fullpath": "pcengine-Maison Ikkoku (Japan) (Translated En)",
+      "name": "Maison Ikkoku",
+      "year": "1989",
+      "publisher": "Micro Cabin",
+      "genre": "Adventure",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Makai Hakkenden Shada (Japan) (Translated En)",
+      "fullpath": "pcengine-Makai Hakkenden Shada (Japan) (Translated En)",
+      "name": "Makai Hakkenden Shada",
+      "year": "1989",
+      "publisher": "Data East",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Makai Prince Dorabocchan (Japan)",
+      "fullpath": "pcengine-Makai Prince Dorabocchan (Japan)",
+      "name": "Makai Prince Dorabocchan",
+      "year": "1990",
+      "publisher": "Naxat Soft",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Marchen Maze (Japan) (Translated En)",
+      "fullpath": "pcengine-Marchen Maze (Japan) (Translated En)",
+      "name": "Marchen Maze",
+      "year": "1990",
+      "publisher": "Namcot",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Metal Stoker (Japan)",
+      "fullpath": "pcengine-Metal Stoker (Japan)",
+      "name": "Metal Stoker",
+      "year": "1991",
+      "publisher": "Face",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mizubaku Dai Bouken (Japan)",
+      "fullpath": "pcengine-Mizubaku Dai Bouken (Japan)",
+      "name": "Mizubaku Dai Bouken",
+      "year": "1992",
+      "publisher": "Taito",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Momotarou Katsugeki (Japan)",
+      "fullpath": "pcengine-Momotarou Katsugeki (Japan)",
+      "name": "Momotarou Katsugeki",
+      "year": "1990",
+      "publisher": "Hudson Soft",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Monster Pro Wrestling (Japan)",
+      "fullpath": "pcengine-Monster Pro Wrestling (Japan)",
+      "name": "Monster Pro Wrestling",
+      "year": "1991",
+      "publisher": "Ask Kodansha/Lenar",
+      "genre": "Sports/Wrestling",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Morita Shougi PC (Japan)",
+      "fullpath": "pcengine-Morita Shougi PC (Japan)",
+      "name": "Morita Shougi PC",
+      "year": "1991",
+      "publisher": "NEC Avenue/Random House",
+      "genre": "Board Games",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Moto Roader II (Japan)",
+      "fullpath": "pcengine-Moto Roader II (Japan)",
+      "name": "Moto Roader II",
+      "year": "1991",
+      "publisher": "Masaya (NCS)",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mr. Heli no Daibouken (Japan)",
+      "fullpath": "pcengine-Mr. Heli no Daibouken (Japan)",
+      "name": "Mr. Heli no Daibouken",
+      "year": "1989",
+      "publisher": "Irem",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Naxat Open (Japan)",
+      "fullpath": "pcengine-Naxat Open (Japan)",
+      "name": "Naxat Open",
+      "year": "1989",
+      "publisher": "Naxat Soft",
+      "genre": "Sports/Golf",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Naxat Stadium (Japan)",
+      "fullpath": "pcengine-Naxat Stadium (Japan)",
+      "name": "Naxat Stadium",
+      "year": "1990",
+      "publisher": "Naxat Soft",
+      "genre": "Sports/Baseball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Nekketsu Koukou Dodgeball Bu - PC Bangai Hen (Japan)",
+      "fullpath": "pcengine-Nekketsu Koukou Dodgeball Bu - PC Bangai Hen (Japan)",
+      "name": "Nekketsu Koukou Dodgeball Bu: PC Bangai Hen",
+      "year": "1990",
+      "publisher": "Technos/Naxat Soft",
+      "genre": "Sports",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Nekketsu Koukou Dodgeball Bu - Soccer PC Hen (Japan)",
+      "fullpath": "pcengine-Nekketsu Koukou Dodgeball Bu - Soccer PC Hen (Japan)",
+      "name": "Nekketsu Koukou Dodgeball Bu: Soccer PC Hen",
+      "year": "1992",
+      "publisher": "Technos/Naxat Soft",
+      "genre": "Sports/Soccer",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "New Zealand Story, The (Japan)",
+      "fullpath": "pcengine-New Zealand Story, The (Japan)",
+      "name": "New Zealand Story, The",
+      "year": "1990",
+      "publisher": "Taito",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Niko Niko Pun (Japan)",
+      "fullpath": "pcengine-Niko Niko Pun (Japan)",
+      "name": "Niko Niko Pun",
+      "year": "1991",
+      "publisher": "NHK",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ninja Ryuuken Den (Japan)",
+      "fullpath": "pcengine-Ninja Ryuuken Den (Japan)",
+      "name": "Ninja Ryuuken Den",
+      "year": "1992",
+      "publisher": "Tecmo/Hudson Soft",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ninja Warriors, The (Japan)",
+      "fullpath": "pcengine-Ninja Warriors, The (Japan)",
+      "name": "Ninja Warriors, The",
+      "year": "1989",
+      "publisher": "Taito",
+      "genre": "Beat-'Em-Up",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Obocchama Kun (Japan)",
+      "fullpath": "pcengine-Obocchama Kun (Japan)",
+      "name": "Obocchama Kun",
+      "year": "1991",
+      "publisher": "Namcot/Pack-In-Video",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Operation Wolf (Japan)",
+      "fullpath": "pcengine-Operation Wolf (Japan)",
+      "name": "Operation Wolf",
+      "year": "1990",
+      "publisher": "Taito/NEC Avenue",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Out Live (Japan) (Translated En)",
+      "fullpath": "pcengine-Out Live (Japan) (Translated En)",
+      "name": "Out Live",
+      "year": "1989",
+      "publisher": "SunSoft",
+      "genre": "Role-Playing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Out Run (Japan)",
+      "fullpath": "pcengine-Out Run (Japan)",
+      "name": "Out Run",
+      "year": "1990",
+      "publisher": "Sega/NEC Avenue",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Override (Japan)",
+      "fullpath": "pcengine-Override (Japan)",
+      "name": "Override",
+      "year": "1991",
+      "publisher": "Data East",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "P-47 - The Freedom Fighter (Japan)",
+      "fullpath": "pcengine-P-47 - The Freedom Fighter (Japan)",
+      "name": "P-47: The Freedom Fighter",
+      "year": "1989",
+      "publisher": "Aicom Corporation",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Parodius da! - Shinwa Kara Owarai e (Japan)",
+      "fullpath": "pcengine-Parodius da! - Shinwa Kara Owarai e (Japan)",
+      "name": "Parodius da!: Shinwa Kara Owarai e",
+      "year": "1992",
+      "publisher": "Konami",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "PC Genjin - Pithecanthropus Computerurus (Japan)",
+      "fullpath": "pcengine-PC Genjin - Pithecanthropus Computerurus (Japan)",
+      "name": "PC Genjin: Pithecanthropus Computerurus",
+      "year": "1989",
+      "publisher": "Hudson Soft",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "PC Genjin 2 - Pithecanthropus Computerurus (Japan)",
+      "fullpath": "pcengine-PC Genjin 2 - Pithecanthropus Computerurus (Japan)",
+      "name": "PC Genjin 2: Pithecanthropus Computerurus",
+      "year": "1991",
+      "publisher": "Hudson Soft",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "PC Genjin 3 - Pithecanthropus Computerurus (Japan)",
+      "fullpath": "pcengine-PC Genjin 3 - Pithecanthropus Computerurus (Japan)",
+      "name": "PC Genjin 3: Pithecanthropus Computerurus",
+      "year": "1993",
+      "publisher": "Hudson Soft",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "PC Pachi-Slot Idol Gambler (Japan)",
+      "fullpath": "pcengine-PC Pachi-Slot Idol Gambler (Japan)",
+      "name": "PC Pachi-Slot Idol Gambler",
+      "year": "1992",
+      "publisher": "Games Express",
+      "genre": "Casino",
+      "rating": "HSRS - AD (Adult)"
+    },
+    {
+      "id": "Populous (Japan)",
+      "fullpath": "pcengine-Populous (Japan)",
+      "name": "Populous",
+      "year": "1991",
+      "publisher": "Hudson Soft",
+      "genre": "Strategy",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Power Drift (Japan)",
+      "fullpath": "pcengine-Power Drift (Japan)",
+      "name": "Power Drift",
+      "year": "1990",
+      "publisher": "Sega/Asmik",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Power Eleven (Japan)",
+      "fullpath": "pcengine-Power Eleven (Japan)",
+      "name": "Power Eleven",
+      "year": "1991",
+      "publisher": "Hudson Soft",
+      "genre": "Sports/Soccer",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Power Gate (Japan)",
+      "fullpath": "pcengine-Power Gate (Japan)",
+      "name": "Power Gate",
+      "year": "1991",
+      "publisher": "Pack-In-Video",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Power League '93 (Japan)",
+      "fullpath": "pcengine-Power League '93 (Japan)",
+      "name": "Power League '93",
+      "year": "1993",
+      "publisher": "Hudson Soft",
+      "genre": "Sports/Baseball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Power League II (Japan)",
+      "fullpath": "pcengine-Power League II (Japan)",
+      "name": "Power League II",
+      "year": "1989",
+      "publisher": "Hudson Soft",
+      "genre": "Sports/Baseball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Power League III (Japan)",
+      "fullpath": "pcengine-Power League III (Japan)",
+      "name": "Power League III",
+      "year": "1990",
+      "publisher": "Hudson Soft",
+      "genre": "Sports/Baseball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Power League IV (Japan)",
+      "fullpath": "pcengine-Power League IV (Japan)",
+      "name": "Power League IV",
+      "year": "1991",
+      "publisher": "Hudson Soft",
+      "genre": "Sports/Baseball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Power League V (Japan)",
+      "fullpath": "pcengine-Power League V (Japan)",
+      "name": "Power League V",
+      "year": "1992",
+      "publisher": "Hudson Soft",
+      "genre": "Sports/Baseball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Power Tennis (Japan)",
+      "fullpath": "pcengine-Power Tennis (Japan)",
+      "name": "Power Tennis",
+      "year": "1993",
+      "publisher": "Hudson Soft",
+      "genre": "Sports/Tennis",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pro Yakyuu World Stadium '91 (Japan)",
+      "fullpath": "pcengine-Pro Yakyuu World Stadium '91 (Japan)",
+      "name": "Pro Yakyuu World Stadium '91",
+      "year": "1991",
+      "publisher": "Namcot",
+      "genre": "Sports/Baseball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pro Yakyuu World Stadium (Japan)",
+      "fullpath": "pcengine-Pro Yakyuu World Stadium (Japan)",
+      "name": "Pro Yakyuu World Stadium",
+      "year": "1988",
+      "publisher": "Namcot",
+      "genre": "Sports/Baseball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Psycho Chaser (Japan)",
+      "fullpath": "pcengine-Psycho Chaser (Japan)",
+      "name": "Psycho Chaser",
+      "year": "1990",
+      "publisher": "Naxat Soft",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Puzzle Boy (Japan) (Translated En)",
+      "fullpath": "pcengine-Puzzle Boy (Japan) (Translated En)",
+      "name": "Puzzle Boy",
+      "year": "1991",
+      "publisher": "Renovation Game/Telenet",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Puzznic (Japan)",
+      "fullpath": "pcengine-Puzznic (Japan)",
+      "name": "Puzznic",
+      "year": "1990",
+      "publisher": "Taito",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rabio Lepus Special (Japan)",
+      "fullpath": "pcengine-Rabio Lepus Special (Japan)",
+      "name": "Rabio Lepus Special",
+      "year": "1990",
+      "publisher": "Video System",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Racing Damashii (Japan)",
+      "fullpath": "pcengine-Racing Damashii (Japan)",
+      "name": "Racing Damashii",
+      "year": "1991",
+      "publisher": "Irem",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rastan Saga II (Japan)",
+      "fullpath": "pcengine-Rastan Saga II (Japan)",
+      "name": "Rastan Saga II",
+      "year": "1990",
+      "publisher": "Taito",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Reflectron (World) (Unl)",
+      "fullpath": "pcengine-Reflectron (World) (Unl)",
+      "name": "Reflectron",
+      "year": "2013",
+      "publisher": "Aetherbyte",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rock-On (Japan)",
+      "fullpath": "pcengine-Rock-On (Japan)",
+      "name": "Rock-On",
+      "year": "1989",
+      "publisher": "Big Club",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "R-Type I (Japan)",
+      "fullpath": "pcengine-R-Type I (Japan)",
+      "name": "R-Type I",
+      "year": "1988",
+      "publisher": "Irem/Hudson Soft",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "R-Type II (Japan)",
+      "fullpath": "pcengine-R-Type II (Japan)",
+      "name": "R-Type II",
+      "year": "1988",
+      "publisher": "Irem/Hudson Soft",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ryuukyuu (Japan)",
+      "fullpath": "pcengine-Ryuukyuu (Japan)",
+      "name": "Ryuukyuu",
+      "year": "1990",
+      "publisher": "Face",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Salamander (Japan)",
+      "fullpath": "pcengine-Salamander (Japan)",
+      "name": "Salamander",
+      "year": "1991",
+      "publisher": "Konami",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sengoku Mahjong (Japan)",
+      "fullpath": "pcengine-Sengoku Mahjong (Japan)",
+      "name": "Sengoku Mahjong",
+      "year": "1988",
+      "publisher": "Hudson Soft",
+      "genre": "Mahjong",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Shanghai (Japan) (Translated En)",
+      "fullpath": "pcengine-Shanghai (Japan) (Translated En)",
+      "name": "Shanghai",
+      "year": "1987",
+      "publisher": "Hudson Soft",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Shinobi (Japan)",
+      "fullpath": "pcengine-Shinobi (Japan)",
+      "name": "Shinobi",
+      "year": "1989",
+      "publisher": "Sega/Asmik",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Shiryou Sensen (Japan)",
+      "fullpath": "pcengine-Shiryou Sensen (Japan)",
+      "name": "Shiryou Sensen",
+      "year": "1989",
+      "publisher": "Victor",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Shogi Shodan Icchokusen (Japan)",
+      "fullpath": "pcengine-Shogi Shodan Icchokusen (Japan)",
+      "name": "Shogi Shodan Icchokusen",
+      "year": "1990",
+      "publisher": "Home Data",
+      "genre": "Board Games",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Shogi Shoshinsha Muyou (Japan)",
+      "fullpath": "pcengine-Shogi Shoshinsha Muyou (Japan)",
+      "name": "Shogi Shoshinsha Muyou",
+      "year": "1991",
+      "publisher": "Home Data",
+      "genre": "Board Games",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Skweek (Japan)",
+      "fullpath": "pcengine-Skweek (Japan)",
+      "name": "Skweek",
+      "year": "1991",
+      "publisher": "Victor",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Son Son II (Japan) (Translated En)",
+      "fullpath": "pcengine-Son Son II (Japan) (Translated En)",
+      "name": "Son Son II",
+      "year": "1989",
+      "publisher": "Capcom/NEC Avenue",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Space Invaders - Fukkatsu no Hi (Japan)",
+      "fullpath": "pcengine-Space Invaders - Fukkatsu no Hi (Japan)",
+      "name": "Space Invaders: Fukkatsu no Hi",
+      "year": "1990",
+      "publisher": "Taito",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Special Criminal Investigation (Japan)",
+      "fullpath": "pcengine-Special Criminal Investigation (Japan)",
+      "name": "Special Criminal Investigation",
+      "year": "1991",
+      "publisher": "Taito",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spin Pair (Japan)",
+      "fullpath": "pcengine-Spin Pair (Japan)",
+      "name": "Spin Pair",
+      "year": "1990",
+      "publisher": "Media Rings",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Stratego (Japan)",
+      "fullpath": "pcengine-Stratego (Japan)",
+      "name": "Stratego",
+      "year": "1992",
+      "publisher": "Accolade/Victor",
+      "genre": "Board Games",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Street Fighter II' - Champion Edition (Japan)",
+      "fullpath": "pcengine-Street Fighter II' - Champion Edition (Japan)",
+      "name": "Street Fighter II': Champion Edition",
+      "year": "1993",
+      "publisher": "Capcom/NEC Home Electronics, Ltd.",
+      "genre": "Fighter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Strip Fighter II (Japan)",
+      "fullpath": "pcengine-Strip Fighter II (Japan)",
+      "name": "Strip Fighter II",
+      "year": "1993",
+      "publisher": "Games Express",
+      "genre": "Fighter",
+      "rating": "HSRS - AD (Adult)"
+    },
+    {
+      "id": "Super Metal Crusher (Japan)",
+      "fullpath": "pcengine-Super Metal Crusher (Japan)",
+      "name": "Super Metal Crusher",
+      "year": "1991",
+      "publisher": "Pack-In-Video",
+      "genre": "Strategy",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Takeda Shingen (Japan)",
+      "fullpath": "pcengine-Takeda Shingen (Japan)",
+      "name": "Takeda Shingen",
+      "year": "1989",
+      "publisher": "Aicom Corporation",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tatsujin (Japan)",
+      "fullpath": "pcengine-Tatsujin (Japan)",
+      "name": "Tatsujin",
+      "year": "1992",
+      "publisher": "Toaplan/Taito",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tatsunoko Fighter (Japan)",
+      "fullpath": "pcengine-Tatsunoko Fighter (Japan)",
+      "name": "Tatsunoko Fighter",
+      "year": "1989",
+      "publisher": "Tonkin House",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tenseiryuu - Saint Dragon (Japan)",
+      "fullpath": "pcengine-Tenseiryuu - Saint Dragon (Japan)",
+      "name": "Tenseiryuu: Saint Dragon",
+      "year": "1990",
+      "publisher": "Aicom Corporation",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Terra Cresta II - Mandoraa no Gyakushuu (Japan)",
+      "fullpath": "pcengine-Terra Cresta II - Mandoraa no Gyakushuu (Japan)",
+      "name": "Terra Cresta II: Mandoraa no Gyakushuu",
+      "year": "1992",
+      "publisher": "Nichibutsu",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Thunder Blade (Japan)",
+      "fullpath": "pcengine-Thunder Blade (Japan)",
+      "name": "Thunder Blade",
+      "year": "1990",
+      "publisher": "Sega/NEC Avenue",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Titan (Japan)",
+      "fullpath": "pcengine-Titan (Japan)",
+      "name": "Titan",
+      "year": "1991",
+      "publisher": "Titus/Naxat Soft",
+      "genre": "Board Games",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Toilet Kids (Japan)",
+      "fullpath": "pcengine-Toilet Kids (Japan)",
+      "name": "Toilet Kids",
+      "year": "1992",
+      "publisher": "Media Rings",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Toshi Tensou Keikaku - Eternal City (Japan)",
+      "fullpath": "pcengine-Toshi Tensou Keikaku - Eternal City (Japan)",
+      "name": "Toshi Tensou Keikaku: Eternal City",
+      "year": "1991",
+      "publisher": "Naxat Soft",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tower of Druaga, The (Japan) (Translated En)",
+      "fullpath": "pcengine-Tower of Druaga, The (Japan) (Translated En)",
+      "name": "Tower of Druaga, The",
+      "year": "1992",
+      "publisher": "Namcot",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Toy Shop Boys (Japan)",
+      "fullpath": "pcengine-Toy Shop Boys (Japan)",
+      "name": "Toy Shop Boys",
+      "year": "1990",
+      "publisher": "Victor Musical Industries, Inc.",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tsuppari Oozumou - Heisei Ban (Japan)",
+      "fullpath": "pcengine-Tsuppari Oozumou - Heisei Ban (Japan)",
+      "name": "Tsuppari Oozumou: Heisei Ban",
+      "year": "1993",
+      "publisher": "Tecmo/Naxat Soft",
+      "genre": "Sports/Wrestling",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Valkyrie no Densetsu (Japan) (Translated En)",
+      "fullpath": "pcengine-Valkyrie no Densetsu (Japan) (Translated En)",
+      "name": "Valkyrie no Densetsu",
+      "year": "1990",
+      "publisher": "Namcot",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Volfied (Japan)",
+      "fullpath": "pcengine-Volfied (Japan)",
+      "name": "Volfied",
+      "year": "1989",
+      "publisher": "Taito",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wai Wai Mahjong - Yukai na Jantomi-tachi (Japan)",
+      "fullpath": "pcengine-Wai Wai Mahjong - Yukai na Jantomi-tachi (Japan)",
+      "name": "Wai Wai Mahjong: Yukai na Jantomi-tachi",
+      "year": "1989",
+      "publisher": "Video System",
+      "genre": "Mahjong",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "W-Ring - The Double Rings (Japan)",
+      "fullpath": "pcengine-W-Ring - The Double Rings (Japan)",
+      "name": "W-Ring: The Double Rings",
+      "year": "1990",
+      "publisher": "Naxat Soft",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Winning Shot (Japan)",
+      "fullpath": "pcengine-Winning Shot (Japan)",
+      "name": "Winning Shot",
+      "year": "1989",
+      "publisher": "Data East",
+      "genre": "Sports/Golf",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wonder Momo (Japan)",
+      "fullpath": "pcengine-Wonder Momo (Japan)",
+      "name": "Wonder Momo",
+      "year": "1989",
+      "publisher": "Namcot",
+      "genre": "Beat-'Em-Up",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "World Circuit (Japan)",
+      "fullpath": "pcengine-World Circuit (Japan)",
+      "name": "World Circuit",
+      "year": "1991",
+      "publisher": "Namcot",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "World Jockey (Japan)",
+      "fullpath": "pcengine-World Jockey (Japan)",
+      "name": "World Jockey",
+      "year": "1991",
+      "publisher": "Namcot",
+      "genre": "Sports/Horse Racing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Xevious - Fardraut Densetsu (Japan)",
+      "fullpath": "pcengine-Xevious - Fardraut Densetsu (Japan)",
+      "name": "Xevious: Fardraut Densetsu",
+      "year": "1990",
+      "publisher": "Namcot",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Youkai Douchuuki (Japan)",
+      "fullpath": "pcengine-Youkai Douchuuki (Japan)",
+      "name": "Youkai Douchuuki",
+      "year": "1988",
+      "publisher": "Namcot",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Zero 4 Champ (Japan)",
+      "fullpath": "pcengine-Zero 4 Champ (Japan)",
+      "name": "Zero 4 Champ",
+      "year": "1991",
+      "publisher": "Media Rings",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Zipang (Japan)",
+      "fullpath": "pcengine-Zipang (Japan)",
+      "name": "Zipang",
+      "year": "1990",
+      "publisher": "Pack-In-Video",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    }
+  ]
+}

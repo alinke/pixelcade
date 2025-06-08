@@ -1,0 +1,311 @@
+{
+  "platform": "sega32x",
+  "totalGames": 33,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "sega32x game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "sega32x.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "After Burner (Japan, USA)",
+      "fullpath": "sega32x-After Burner (Japan, USA)",
+      "name": "After Burner",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "B1Not Rated"
+    },
+    {
+      "id": "Amazing Spider-Man, The - Web of Fire (USA)",
+      "fullpath": "sega32x-Amazing Spider-Man, The - Web of Fire (USA)",
+      "name": "Amazing Spider-Man, The - Web of Fire",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "B1Not Rated"
+    },
+    {
+      "id": "BC Racers (USA)",
+      "fullpath": "sega32x-BC Racers (USA)",
+      "name": "BC Racers",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "B1Not Rated"
+    },
+    {
+      "id": "Blackthorne (USA)",
+      "fullpath": "sega32x-Blackthorne (USA)",
+      "name": "Blackthorne",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "B1Not Rated"
+    },
+    {
+      "id": "Brutal Unleashed - Above the Claw (USA)",
+      "fullpath": "sega32x-Brutal Unleashed - Above the Claw (USA)",
+      "name": "Brutal Unleashed - Above the Claw",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "B1Not Rated"
+    },
+    {
+      "id": "Cosmic Carnage (Japan, USA)",
+      "fullpath": "sega32x-Cosmic Carnage (Japan, USA)",
+      "name": "Cosmic Carnage",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "B1Not Rated"
+    },
+    {
+      "id": "Darxide (Europe)",
+      "fullpath": "sega32x-Darxide (Europe)",
+      "name": "Darxide",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "B1Not Rated"
+    },
+    {
+      "id": "Doom (Japan, USA)",
+      "fullpath": "sega32x-Doom (Japan, USA)",
+      "name": "Doom",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "B1Not Rated"
+    },
+    {
+      "id": "FIFA Soccer '96 (Europe)",
+      "fullpath": "sega32x-FIFA Soccer '96 (Europe)",
+      "name": "FIFA Soccer '96",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "B1Not Rated"
+    },
+    {
+      "id": "Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)",
+      "fullpath": "sega32x-Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)",
+      "name": "Golf Magazine 36 Great Holes Starring Fred Couples",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "B1Not Rated"
+    },
+    {
+      "id": "Knuckles' Chaotix (Japan, USA)",
+      "fullpath": "sega32x-Knuckles' Chaotix (Japan, USA)",
+      "name": "Knuckles' Chaotix",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "B1Not Rated"
+    },
+    {
+      "id": "Kolibri (USA, Europe)",
+      "fullpath": "sega32x-Kolibri (USA, Europe)",
+      "name": "Kolibri",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Metal Head (Japan, USA)",
+      "fullpath": "sega32x-Metal Head (Japan, USA)",
+      "name": "Metal Head",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mortal Kombat II (Japan, USA)",
+      "fullpath": "sega32x-Mortal Kombat II (Japan, USA)",
+      "name": "Mortal Kombat II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Motocross Championship (USA)",
+      "fullpath": "sega32x-Motocross Championship (USA)",
+      "name": "Motocross Championship",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NBA Jam Tournament Edition (World)",
+      "fullpath": "sega32x-NBA Jam Tournament Edition (World)",
+      "name": "NBA Jam Tournament Edition",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NFL Quarterback Club (World)",
+      "fullpath": "sega32x-NFL Quarterback Club (World)",
+      "name": "NFL Quarterback Club",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pitfall - The Mayan Adventure (USA)",
+      "fullpath": "sega32x-Pitfall - The Mayan Adventure (USA)",
+      "name": "Pitfall - The Mayan Adventure",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Primal Rage (USA, Europe)",
+      "fullpath": "sega32x-Primal Rage (USA, Europe)",
+      "name": "Primal Rage",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "RBI Baseball '95 (USA)",
+      "fullpath": "sega32x-RBI Baseball '95 (USA)",
+      "name": "RBI Baseball '95",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shadow Squadron (USA, Europe)",
+      "fullpath": "sega32x-Shadow Squadron (USA, Europe)",
+      "name": "Shadow Squadron",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Harrier (Japan, USA)",
+      "fullpath": "sega32x-Space Harrier (Japan, USA)",
+      "name": "Space Harrier",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Trek Starfleet Academy - Starship Bridge Simulator (USA)",
+      "fullpath": "sega32x-Star Trek Starfleet Academy - Starship Bridge Simulator (USA)",
+      "name": "Star Trek Starfleet Academy - Starship Bridge Simulator",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Wars Arcade (USA)",
+      "fullpath": "sega32x-Star Wars Arcade (USA)",
+      "name": "Star Wars Arcade",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "T-Mek (USA, Europe)",
+      "fullpath": "sega32x-T-Mek (USA, Europe)",
+      "name": "T-Mek",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tempo (Japan, USA)",
+      "fullpath": "sega32x-Tempo (Japan, USA)",
+      "name": "Tempo",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Toughman Contest (USA, Europe)",
+      "fullpath": "sega32x-Toughman Contest (USA, Europe)",
+      "name": "Toughman Contest",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Virtua Fighter (Japan, USA)",
+      "fullpath": "sega32x-Virtua Fighter (Japan, USA)",
+      "name": "Virtua Fighter",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Virtua Racing Deluxe (USA)",
+      "fullpath": "sega32x-Virtua Racing Deluxe (USA)",
+      "name": "Virtua Racing Deluxe",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "WWF Raw (World)",
+      "fullpath": "sega32x-WWF Raw (World)",
+      "name": "WWF Raw",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "WWF WrestleMania - The Arcade Game (USA)",
+      "fullpath": "sega32x-WWF WrestleMania - The Arcade Game (USA)",
+      "name": "WWF WrestleMania - The Arcade Game",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Series Baseball Starring Deion Sanders (USA)",
+      "fullpath": "sega32x-World Series Baseball Starring Deion Sanders (USA)",
+      "name": "World Series Baseball Starring Deion Sanders",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zaxxon's Motherbase 2000 (Japan, USA)",
+      "fullpath": "sega32x-Zaxxon's Motherbase 2000 (Japan, USA)",
+      "name": "Zaxxon's Motherbase 2000",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

@@ -1,0 +1,1553 @@
+{
+  "platform": "segacd",
+  "totalGames": 171,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "segacd game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "segacd.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "3 Ninjas Kick Back (USA)",
+      "fullpath": "segacd-3 Ninjas Kick Back (USA)",
+      "name": "3 Ninjas Kick Back",
+      "year": "1994",
+      "publisher": "Sony Imagesoft",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Advanced Dungeons & Dragons - Eye of the Beholder (USA)",
+      "fullpath": "segacd-Advanced Dungeons & Dragons - Eye of the Beholder (USA)",
+      "name": "Advanced Dungeons & Dragons - Eye of the Beholder",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Adventures of Batman & Robin, The (USA)",
+      "fullpath": "segacd-Adventures of Batman & Robin, The (USA)",
+      "name": "Adventures of Batman & Robin, The",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Adventures of Willy Beamish, The (USA)",
+      "fullpath": "segacd-Adventures of Willy Beamish, The (USA)",
+      "name": "Adventures of Willy Beamish, The",
+      "year": "1993",
+      "publisher": "Dynamix",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "After Burner III (USA)",
+      "fullpath": "segacd-After Burner III (USA)",
+      "name": "After Burner III",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Flying",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "AH-3 Thunderstrike (USA)",
+      "fullpath": "segacd-AH-3 Thunderstrike (USA)",
+      "name": "AH-3 Thunderstrike",
+      "year": "1993",
+      "publisher": "JVC Digital Studios",
+      "genre": "Flying",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Amazing Spider-Man vs. The Kingpin, The (USA)",
+      "fullpath": "segacd-Amazing Spider-Man vs. The Kingpin, The (USA)",
+      "name": "Amazing Spider-Man vs. The Kingpin, The",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Android Assault - The Revenge of Bari-Arm (USA)",
+      "fullpath": "segacd-Android Assault - The Revenge of Bari-Arm (USA)",
+      "name": "Android Assault - The Revenge of Bari-Arm",
+      "year": "1994",
+      "publisher": "Big Fun Games",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "AX-101 (USA)",
+      "fullpath": "segacd-AX-101 (USA)",
+      "name": "AX-101",
+      "year": "1994",
+      "publisher": "Absolute Entertainment",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Batman Returns (USA)",
+      "fullpath": "segacd-Batman Returns (USA)",
+      "name": "Batman Returns",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Battlecorps (USA)",
+      "fullpath": "segacd-Battlecorps (USA)",
+      "name": "Battlecorps",
+      "year": "1993",
+      "publisher": "Time Warner Interactive",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BC Racers (USA)",
+      "fullpath": "segacd-BC Racers (USA)",
+      "name": "BC Racers",
+      "year": "1994",
+      "publisher": "Time Warner Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bill Walsh College Football (USA)",
+      "fullpath": "segacd-Bill Walsh College Football (USA)",
+      "name": "Bill Walsh College Football",
+      "year": "1993",
+      "publisher": "EA Sports",
+      "genre": "Football/Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Black Hole Assault (USA)",
+      "fullpath": "segacd-Black Hole Assault (USA)",
+      "name": "Black Hole Assault",
+      "year": "1992",
+      "publisher": "Bignet",
+      "genre": "Fighter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Bouncers (USA)",
+      "fullpath": "segacd-Bouncers (USA)",
+      "name": "Bouncers",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bram Stoker's Dracula (USA)",
+      "fullpath": "segacd-Bram Stoker's Dracula (USA)",
+      "name": "Bram Stoker's Dracula",
+      "year": "1994",
+      "publisher": "Sony Imagesoft",
+      "genre": "Adventure",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Brutal - Paws of Fury (USA)",
+      "fullpath": "segacd-Brutal - Paws of Fury (USA)",
+      "name": "Brutal - Paws of Fury",
+      "year": "1993",
+      "publisher": "GameTek",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Cadillacs and Dinosaurs - The Second Cataclysm (USA)",
+      "fullpath": "segacd-Cadillacs and Dinosaurs - The Second Cataclysm (USA)",
+      "name": "Cadillacs and Dinosaurs - The Second Cataclysm",
+      "year": "1994",
+      "publisher": "Rocket Science Games",
+      "genre": "Action",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Championship Soccer '94 (USA)",
+      "fullpath": "segacd-Championship Soccer '94 (USA)",
+      "name": "Championship Soccer '94",
+      "year": "1994",
+      "publisher": "Sony Imagesoft",
+      "genre": "Soccer/Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chuck Rock (USA)",
+      "fullpath": "segacd-Chuck Rock (USA)",
+      "name": "Chuck Rock",
+      "year": "1992",
+      "publisher": "Sony Imagesoft",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chuck Rock II - Son of Chuck (USA)",
+      "fullpath": "segacd-Chuck Rock II - Son of Chuck (USA)",
+      "name": "Chuck Rock II - Son of Chuck",
+      "year": "1993",
+      "publisher": "Virgin Interactive",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cliffhanger (USA)",
+      "fullpath": "segacd-Cliffhanger (USA)",
+      "name": "Cliffhanger",
+      "year": "1993",
+      "publisher": "Sony Imagesoft",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Cobra Command (USA)",
+      "fullpath": "segacd-Cobra Command (USA)",
+      "name": "Cobra Command",
+      "year": "1992",
+      "publisher": "Data East",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Compton's Interactive Encyclopedia (USA)",
+      "fullpath": "segacd-Compton's Interactive Encyclopedia (USA)",
+      "name": "Compton's Interactive Encyclopedia",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Miscellaneous",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Corpse Killer (32X) (USA)",
+      "fullpath": "segacd-Corpse Killer (32X) (USA)",
+      "name": "Corpse Killer",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Gun",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Corpse Killer (USA)",
+      "fullpath": "segacd-Corpse Killer (USA)",
+      "name": "Corpse Killer",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Gun",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Crime Patrol (USA)",
+      "fullpath": "segacd-Crime Patrol (USA)",
+      "name": "Crime Patrol",
+      "year": "1994",
+      "publisher": "American Laser Games",
+      "genre": "Gun",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Dark Wizard (USA)",
+      "fullpath": "segacd-Dark Wizard (USA)",
+      "name": "Dark Wizard",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Demolition Man (USA)",
+      "fullpath": "segacd-Demolition Man (USA)",
+      "name": "Demolition Man",
+      "year": "1995",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Double Switch (USA)",
+      "fullpath": "segacd-Double Switch (USA)",
+      "name": "Double Switch",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Dracula Unleashed (USA) (Disc 1)",
+      "fullpath": "segacd-Dracula Unleashed (USA) (Disc 1)",
+      "name": "Dracula Unleashed",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Dracula Unleashed (USA) (Disc 2)",
+      "fullpath": "segacd-Dracula Unleashed (USA) (Disc 2)",
+      "name": "Dracula Unleashed",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Dragon's Lair (USA)",
+      "fullpath": "segacd-Dragon's Lair (USA)",
+      "name": "Dragon's Lair",
+      "year": "1994",
+      "publisher": "ReadySoft",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dune (USA)",
+      "fullpath": "segacd-Dune (USA)",
+      "name": "Dune",
+      "year": "1993",
+      "publisher": "Virgin Interactive",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dungeon Explorer (USA)",
+      "fullpath": "segacd-Dungeon Explorer (USA)",
+      "name": "Dungeon Explorer",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dungeon Master 2 - Skullkeep (USA)",
+      "fullpath": "segacd-Dungeon Master 2 - Skullkeep (USA)",
+      "name": "Dungeon Master 2 - Skullkeep",
+      "year": "1994",
+      "publisher": "JVC Digital Studios",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Earthworm Jim - Special Edition (USA)",
+      "fullpath": "segacd-Earthworm Jim - Special Edition (USA)",
+      "name": "Earthworm Jim - Special Edition",
+      "year": "1995",
+      "publisher": "Playmates",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ecco - The Tides of Time (USA)",
+      "fullpath": "segacd-Ecco - The Tides of Time (USA)",
+      "name": "Ecco - The Tides of Time",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ecco the Dolphin (USA)",
+      "fullpath": "segacd-Ecco the Dolphin (USA)",
+      "name": "Ecco the Dolphin",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "ESPN Baseball Tonight (USA)",
+      "fullpath": "segacd-ESPN Baseball Tonight (USA)",
+      "name": "ESPN Baseball Tonight",
+      "year": "1993",
+      "publisher": "Sony Imagesoft",
+      "genre": "Baseball/Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "ESPN National Hockey Night (USA)",
+      "fullpath": "segacd-ESPN National Hockey Night (USA)",
+      "name": "ESPN National Hockey Night",
+      "year": "1994",
+      "publisher": "Sony Imagesoft",
+      "genre": "Hockey/Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "ESPN NBA Hangtime '95 (USA)",
+      "fullpath": "segacd-ESPN NBA Hangtime '95 (USA)",
+      "name": "ESPN NBA Hangtime '95",
+      "year": "1994",
+      "publisher": "Sony Imagesoft",
+      "genre": "Basketball/Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "ESPN Sunday Night NFL (USA)",
+      "fullpath": "segacd-ESPN Sunday Night NFL (USA)",
+      "name": "ESPN Sunday Night NFL",
+      "year": "1993",
+      "publisher": "Sony Imagesoft",
+      "genre": "Football/Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Eternal Champions - Challenge from the Dark Side (USA)",
+      "fullpath": "segacd-Eternal Champions - Challenge from the Dark Side (USA)",
+      "name": "Eternal Champions - Challenge from the Dark Side",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Fahrenheit (USA) (Disc 1)",
+      "fullpath": "segacd-Fahrenheit (USA) (Disc 1)",
+      "name": "Fahrenheit",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Fahrenheit (USA) (Disc 2) (32X)",
+      "fullpath": "segacd-Fahrenheit (USA) (Disc 2) (32X)",
+      "name": "Fahrenheit",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Fatal Fury Special (USA)",
+      "fullpath": "segacd-Fatal Fury Special (USA)",
+      "name": "Fatal Fury Special",
+      "year": "1995",
+      "publisher": "JVC Digital Studios",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "FIFA International Soccer (USA)",
+      "fullpath": "segacd-FIFA International Soccer (USA)",
+      "name": "FIFA International Soccer",
+      "year": "1994",
+      "publisher": "EA Sports",
+      "genre": "Soccer/Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Final Fight CD (USA)",
+      "fullpath": "segacd-Final Fight CD (USA)",
+      "name": "Final Fight CD",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Flashback - The Quest for Identity (USA)",
+      "fullpath": "segacd-Flashback - The Quest for Identity (USA)",
+      "name": "Flashback - The Quest for Identity",
+      "year": "1994",
+      "publisher": "U.S. Gold",
+      "genre": "Platform",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Flink (USA)",
+      "fullpath": "segacd-Flink (USA)",
+      "name": "Flink",
+      "year": "1994",
+      "publisher": "Vic Tokai",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Formula One World Championship - Beyond the Limit (USA)",
+      "fullpath": "segacd-Formula One World Championship - Beyond the Limit (USA)",
+      "name": "Formula One World Championship - Beyond the Limit",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ground Zero Texas (USA) (Disc 1)",
+      "fullpath": "segacd-Ground Zero Texas (USA) (Disc 1)",
+      "name": "Ground Zero Texas",
+      "year": "1993",
+      "publisher": "Sony Imagesoft",
+      "genre": "Adventure",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Ground Zero Texas (USA) (Disc 2)",
+      "fullpath": "segacd-Ground Zero Texas (USA) (Disc 2)",
+      "name": "Ground Zero Texas",
+      "year": "1993",
+      "publisher": "Sony Imagesoft",
+      "genre": "Adventure",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Heart of the Alien - Out of This World Parts I and II (USA)",
+      "fullpath": "segacd-Heart of the Alien - Out of This World Parts I and II (USA)",
+      "name": "Heart of the Alien - Out of This World Parts I and II",
+      "year": "1994",
+      "publisher": "Virgin Interactive",
+      "genre": "Platform",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Heimdall (USA)",
+      "fullpath": "segacd-Heimdall (USA)",
+      "name": "Heimdall",
+      "year": "1994",
+      "publisher": "JVC Digital Studios",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Hook (USA)",
+      "fullpath": "segacd-Hook (USA)",
+      "name": "Hook",
+      "year": "1992",
+      "publisher": "Sony Imagesoft",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Iron Helix (USA)",
+      "fullpath": "segacd-Iron Helix (USA)",
+      "name": "Iron Helix",
+      "year": "1992",
+      "publisher": "Spectrum Holobyte",
+      "genre": "Adventure",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Jaguar XJ220 (USA)",
+      "fullpath": "segacd-Jaguar XJ220 (USA)",
+      "name": "Jaguar XJ220",
+      "year": "1993",
+      "publisher": "JVC Digital Studios",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jeopardy! (USA)",
+      "fullpath": "segacd-Jeopardy! (USA)",
+      "name": "Jeopardy!",
+      "year": "1994",
+      "publisher": "Sony Imagesoft",
+      "genre": "Game Show",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Joe Montana's NFL Football (USA)",
+      "fullpath": "segacd-Joe Montana's NFL Football (USA)",
+      "name": "Joe Montana's NFL Football",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Football/Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jurassic Park (USA)",
+      "fullpath": "segacd-Jurassic Park (USA)",
+      "name": "Jurassic Park",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Keio Flying Squadron (USA)",
+      "fullpath": "segacd-Keio Flying Squadron (USA)",
+      "name": "Keio Flying Squadron",
+      "year": "1994",
+      "publisher": "Victor Interactive Software",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Kids on Site (USA)",
+      "fullpath": "segacd-Kids on Site (USA)",
+      "name": "Kids on Site",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lawnmower Man, The (USA)",
+      "fullpath": "segacd-Lawnmower Man, The (USA)",
+      "name": "Lawnmower Man, The",
+      "year": "1994",
+      "publisher": "Time Warner Interactive",
+      "genre": "Action",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Lethal Enforcers (USA)",
+      "fullpath": "segacd-Lethal Enforcers (USA)",
+      "name": "Lethal Enforcers",
+      "year": "1993",
+      "publisher": "Konami",
+      "genre": "Gun",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Lethal Enforcers II - Gun Fighters (USA)",
+      "fullpath": "segacd-Lethal Enforcers II - Gun Fighters (USA)",
+      "name": "Lethal Enforcers II - Gun Fighters",
+      "year": "1994",
+      "publisher": "Konami",
+      "genre": "Gun",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Links - The Challenge of Golf (USA)",
+      "fullpath": "segacd-Links - The Challenge of Golf (USA)",
+      "name": "Links - The Challenge of Golf",
+      "year": "1994",
+      "publisher": "Virgin Interactive",
+      "genre": "Golf/Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Loadstar - The Legend of Tully Bodine (USA)",
+      "fullpath": "segacd-Loadstar - The Legend of Tully Bodine (USA)",
+      "name": "Loadstar - The Legend of Tully Bodine",
+      "year": "1994",
+      "publisher": "Rocket Science Games",
+      "genre": "Shooter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Lords of Thunder (USA)",
+      "fullpath": "segacd-Lords of Thunder (USA)",
+      "name": "Lords of Thunder",
+      "year": "1995",
+      "publisher": "Hudson Soft",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lunar - Eternal Blue (USA)",
+      "fullpath": "segacd-Lunar - Eternal Blue (USA)",
+      "name": "Lunar - Eternal Blue",
+      "year": "1995",
+      "publisher": "Working Designs",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lunar - The Silver Star (USA)",
+      "fullpath": "segacd-Lunar - The Silver Star (USA)",
+      "name": "Lunar - The Silver Star",
+      "year": "1993",
+      "publisher": "Working Designs",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mad Dog McCree (USA)",
+      "fullpath": "segacd-Mad Dog McCree (USA)",
+      "name": "Mad Dog McCree",
+      "year": "1993",
+      "publisher": "American Laser Games",
+      "genre": "Gun",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Mad Dog McCree II - The Lost Gold (USA)",
+      "fullpath": "segacd-Mad Dog McCree II - The Lost Gold (USA)",
+      "name": "Mad Dog McCree II - The Lost Gold",
+      "year": "1993",
+      "publisher": "American Laser Games",
+      "genre": "Gun",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Make My Video - INXS (USA)",
+      "fullpath": "segacd-Make My Video - INXS (USA)",
+      "name": "Make My Video - INXS",
+      "year": "1992",
+      "publisher": "Sony Imagesoft",
+      "genre": "Rhythm",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Make My Video - Kriss Kross (USA)",
+      "fullpath": "segacd-Make My Video - Kriss Kross (USA)",
+      "name": "Make My Video - Kriss Kross",
+      "year": "1992",
+      "publisher": "Sony Imagesoft",
+      "genre": "Rhythm",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Make My Video - Marky Mark and the Funky Bunch (USA)",
+      "fullpath": "segacd-Make My Video - Marky Mark and the Funky Bunch (USA)",
+      "name": "Make My Video - Marky Mark and the Funky Bunch",
+      "year": "1992",
+      "publisher": "Sony Imagesoft",
+      "genre": "Rhythm",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mansion of Hidden Souls (USA)",
+      "fullpath": "segacd-Mansion of Hidden Souls (USA)",
+      "name": "Mansion of Hidden Souls",
+      "year": "1993",
+      "publisher": "Vic Tokai",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mary Shelley's Frankenstein (USA)",
+      "fullpath": "segacd-Mary Shelley's Frankenstein (USA)",
+      "name": "Mary Shelley's Frankenstein",
+      "year": "1994",
+      "publisher": "Sony Imagesoft",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Masked Rider, The - Kamen Rider ZO (USA)",
+      "fullpath": "segacd-Masked Rider, The - Kamen Rider ZO (USA)",
+      "name": "Masked Rider, The - Kamen Rider ZO",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "MegaRace (USA)",
+      "fullpath": "segacd-MegaRace (USA)",
+      "name": "MegaRace",
+      "year": "1994",
+      "publisher": "Software Toolworks",
+      "genre": "Driving",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)",
+      "fullpath": "segacd-Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)",
+      "name": "Mickey Mania - The Timeless Adventures of Mickey Mouse",
+      "year": "1994",
+      "publisher": "Sony Interactive Studios America",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Microcosm (USA)",
+      "fullpath": "segacd-Microcosm (USA)",
+      "name": "Microcosm",
+      "year": "1993",
+      "publisher": "Psygnosis",
+      "genre": "Shooter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Midnight Raiders (USA)",
+      "fullpath": "segacd-Midnight Raiders (USA)",
+      "name": "Midnight Raiders",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mighty Morphin Power Rangers (USA)",
+      "fullpath": "segacd-Mighty Morphin Power Rangers (USA)",
+      "name": "Mighty Morphin Power Rangers",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mortal Kombat (USA)",
+      "fullpath": "segacd-Mortal Kombat (USA)",
+      "name": "Mortal Kombat",
+      "year": "1994",
+      "publisher": "Arena",
+      "genre": "Fighter",
+      "rating": "HSRS - 17 (17+)"
+    },
+    {
+      "id": "My Paint - The Animated Paint Program (USA)",
+      "fullpath": "segacd-My Paint - The Animated Paint Program (USA)",
+      "name": "My Paint - The Animated Paint Program",
+      "year": "1993",
+      "publisher": "Saddleback",
+      "genre": "Miscellaneous",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "NBA Jam (USA)",
+      "fullpath": "segacd-NBA Jam (USA)",
+      "name": "NBA Jam",
+      "year": "1994",
+      "publisher": "Acclaim",
+      "genre": "Basketball/Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Football Trivia Challenge (USA)",
+      "fullpath": "segacd-NFL Football Trivia Challenge (USA)",
+      "name": "NFL Football Trivia Challenge",
+      "year": "1993",
+      "publisher": "CapDisc",
+      "genre": "Game Show",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL's Greatest - San Francisco vs. Dallas 1978-1993 (USA)",
+      "fullpath": "segacd-NFL's Greatest - San Francisco vs. Dallas 1978-1993 (USA)",
+      "name": "NFL's Greatest - San Francisco vs. Dallas 1978-1993",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Football/Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "NHL '94 (USA)",
+      "fullpath": "segacd-NHL '94 (USA)",
+      "name": "NHL '94",
+      "year": "1993",
+      "publisher": "EA Sports",
+      "genre": "Hockey/Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Night Trap (32X) (USA) (Disc 1)",
+      "fullpath": "segacd-Night Trap (32X) (USA) (Disc 1)",
+      "name": "Night Trap",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Night Trap (32X) (USA) (Disc 2)",
+      "fullpath": "segacd-Night Trap (32X) (USA) (Disc 2)",
+      "name": "Night Trap",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Night Trap (USA) (Disc 1)",
+      "fullpath": "segacd-Night Trap (USA) (Disc 1)",
+      "name": "Night Trap",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Night Trap (USA) (Disc 2)",
+      "fullpath": "segacd-Night Trap (USA) (Disc 2)",
+      "name": "Night Trap",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Novastorm (USA)",
+      "fullpath": "segacd-Novastorm (USA)",
+      "name": "Novastorm",
+      "year": "1994",
+      "publisher": "Psygnosis",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Panic! (USA)",
+      "fullpath": "segacd-Panic! (USA)",
+      "name": "Panic!",
+      "year": "1994",
+      "publisher": "Data East",
+      "genre": "Puzzle",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Penn & Teller - Smoke and Mirrors (USA) (Disc 1)",
+      "fullpath": "segacd-Penn & Teller - Smoke and Mirrors (USA) (Disc 1)",
+      "name": "Penn & Teller - Smoke and Mirrors",
+      "year": "1995",
+      "publisher": "Absolute Entertainment",
+      "genre": "Simulation",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Penn & Teller - Smoke and Mirrors (USA) (Disc 2)",
+      "fullpath": "segacd-Penn & Teller - Smoke and Mirrors (USA) (Disc 2)",
+      "name": "Penn & Teller - Smoke and Mirrors",
+      "year": "1995",
+      "publisher": "Absolute Entertainment",
+      "genre": "Simulation",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Pitfall - The Mayan Adventure (USA)",
+      "fullpath": "segacd-Pitfall - The Mayan Adventure (USA)",
+      "name": "Pitfall - The Mayan Adventure",
+      "year": "1994",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Popful Mail (USA)",
+      "fullpath": "segacd-Popful Mail (USA)",
+      "name": "Popful Mail",
+      "year": "1995",
+      "publisher": "Working Designs",
+      "genre": "Rhythm",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Power Factory featuring C+C Music Factory (USA)",
+      "fullpath": "segacd-Power Factory featuring C+C Music Factory (USA)",
+      "name": "Power Factory featuring C+C Music Factory",
+      "year": "1992",
+      "publisher": "Sony Imagesoft",
+      "genre": "Rhythm",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Power Monger (USA)",
+      "fullpath": "segacd-Power Monger (USA)",
+      "name": "Power Monger",
+      "year": "1994",
+      "publisher": "Electronic Arts",
+      "genre": "Strategy",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Prince of Persia (USA)",
+      "fullpath": "segacd-Prince of Persia (USA)",
+      "name": "Prince of Persia",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Prize Fighter (USA) (Disc 1)",
+      "fullpath": "segacd-Prize Fighter (USA) (Disc 1)",
+      "name": "Prize Fighter",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Boxing/Sports",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Prize Fighter (USA) (Disc 2)",
+      "fullpath": "segacd-Prize Fighter (USA) (Disc 2)",
+      "name": "Prize Fighter",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Boxing/Sports",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Puggsy (USA)",
+      "fullpath": "segacd-Puggsy (USA)",
+      "name": "Puggsy",
+      "year": "1993",
+      "publisher": "Psygnosis",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Racing Aces (USA)",
+      "fullpath": "segacd-Racing Aces (USA)",
+      "name": "Racing Aces",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Radical Rex (USA)",
+      "fullpath": "segacd-Radical Rex (USA)",
+      "name": "Radical Rex",
+      "year": "1994",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "RDF Global Conflict (USA)",
+      "fullpath": "segacd-RDF Global Conflict (USA)",
+      "name": "RDF Global Conflict",
+      "year": "1994",
+      "publisher": "Absolute Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Revenge of the Ninja (USA)",
+      "fullpath": "segacd-Revenge of the Ninja (USA)",
+      "name": "Revenge of the Ninja",
+      "year": "1993",
+      "publisher": "Renovation",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Revengers of Vengeance (USA)",
+      "fullpath": "segacd-Revengers of Vengeance (USA)",
+      "name": "Revengers of Vengeance",
+      "year": "1994",
+      "publisher": "Extreme Entertainment Group",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Rise of the Dragon (USA)",
+      "fullpath": "segacd-Rise of the Dragon (USA)",
+      "name": "Rise of the Dragon",
+      "year": "1993",
+      "publisher": "Dynamix",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Road Avenger (USA)",
+      "fullpath": "segacd-Road Avenger (USA)",
+      "name": "Road Avenger",
+      "year": "1993",
+      "publisher": "Renovation",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Road Rash (USA)",
+      "fullpath": "segacd-Road Rash (USA)",
+      "name": "Road Rash",
+      "year": "1993",
+      "publisher": "Electronic Arts",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Robo Aleste (USA)",
+      "fullpath": "segacd-Robo Aleste (USA)",
+      "name": "Robo Aleste",
+      "year": "1993",
+      "publisher": "Tengen",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Samurai Shodown (USA)",
+      "fullpath": "segacd-Samurai Shodown (USA)",
+      "name": "Samurai Shodown",
+      "year": "1993",
+      "publisher": "JVC Musal Indicustries, Inc.",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "San Diego Zoo Presents... The Animals!, The (USA)",
+      "fullpath": "segacd-San Diego Zoo Presents... The Animals!, The (USA)",
+      "name": "San Diego Zoo Presents... The Animals!, The",
+      "year": "1994",
+      "publisher": "Software Toolworks",
+      "genre": "Miscellaneous",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Secret Of Monkey Island, The (USA)",
+      "fullpath": "segacd-Secret Of Monkey Island, The (USA)",
+      "name": "Secret Of Monkey Island, The",
+      "year": "1992",
+      "publisher": "JVC Musical Industries, Inc.",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sega Classics Arcade Collection 4-in-1 (USA)",
+      "fullpath": "segacd-Sega Classics Arcade Collection 4-in-1 (USA)",
+      "name": "Sega Classics Arcade Collection 4-in-1",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Miscellaneous",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Sega Classics Arcade Collection 5-in-1 (USA)",
+      "fullpath": "segacd-Sega Classics Arcade Collection 5-in-1 (USA)",
+      "name": "Sega Classics Arcade Collection 5-in-1",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Miscellaneous",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Sewer Shark (USA)",
+      "fullpath": "segacd-Sewer Shark (USA)",
+      "name": "Sewer Shark",
+      "year": "1992",
+      "publisher": "Sony Imagesoft",
+      "genre": "Shooter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Shadow of the Beast II (USA)",
+      "fullpath": "segacd-Shadow of the Beast II (USA)",
+      "name": "Shadow of the Beast II",
+      "year": "1994",
+      "publisher": "Psygnosis",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Sherlock Holmes - Consulting Detective (USA)",
+      "fullpath": "segacd-Sherlock Holmes - Consulting Detective (USA)",
+      "name": "Sherlock Holmes - Consulting Detective",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 1)",
+      "fullpath": "segacd-Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 1)",
+      "name": "Sherlock Holmes - Consulting Detective Vol. II",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 2)",
+      "fullpath": "segacd-Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 2)",
+      "name": "Sherlock Holmes - Consulting Detective Vol. II",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shining Force CD (USA)",
+      "fullpath": "segacd-Shining Force CD (USA)",
+      "name": "Shining Force CD",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Silpheed (USA)",
+      "fullpath": "segacd-Silpheed (USA)",
+      "name": "Silpheed",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (32X) (USA) (Disc 1)",
+      "fullpath": "segacd-Slam City with Scottie Pippen (32X) (USA) (Disc 1)",
+      "name": "Slam City with Scottie Pippen",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Basketball/Sports",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (32X) (USA) (Disc 2)",
+      "fullpath": "segacd-Slam City with Scottie Pippen (32X) (USA) (Disc 2)",
+      "name": "Slam City with Scottie Pippen",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Basketball/Sports",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (32X) (USA) (Disc 3)",
+      "fullpath": "segacd-Slam City with Scottie Pippen (32X) (USA) (Disc 3)",
+      "name": "Slam City with Scottie Pippen",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Basketball/Sports",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (32X) (USA) (Disc 4)",
+      "fullpath": "segacd-Slam City with Scottie Pippen (32X) (USA) (Disc 4)",
+      "name": "Slam City with Scottie Pippen",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Basketball/Sports",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (USA) (Disc 1)",
+      "fullpath": "segacd-Slam City with Scottie Pippen (USA) (Disc 1)",
+      "name": "Slam City with Scottie Pippen",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Basketball/Sports",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (USA) (Disc 2)",
+      "fullpath": "segacd-Slam City with Scottie Pippen (USA) (Disc 2)",
+      "name": "Slam City with Scottie Pippen",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Basketball/Sports",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (USA) (Disc 3)",
+      "fullpath": "segacd-Slam City with Scottie Pippen (USA) (Disc 3)",
+      "name": "Slam City with Scottie Pippen",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Basketball/Sports",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (USA) (Disc 4)",
+      "fullpath": "segacd-Slam City with Scottie Pippen (USA) (Disc 4)",
+      "name": "Slam City with Scottie Pippen",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Basketball/Sports",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Smurfs, The (Europe)",
+      "fullpath": "segacd-Smurfs, The (Europe)",
+      "name": "Smurfs, The",
+      "year": "1995",
+      "publisher": "Infogames",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Snatcher (USA)",
+      "fullpath": "segacd-Snatcher (USA)",
+      "name": "Snatcher",
+      "year": "1994",
+      "publisher": "Konami",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sol-Feace (USA)",
+      "fullpath": "segacd-Sol-Feace (USA)",
+      "name": "Sol-Feace",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sonic CD (USA)",
+      "fullpath": "segacd-Sonic CD (USA)",
+      "name": "Sonic CD",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Soulstar (USA)",
+      "fullpath": "segacd-Soulstar (USA)",
+      "name": "Soulstar",
+      "year": "1994",
+      "publisher": "Victor Interactive Software",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Space Ace (USA)",
+      "fullpath": "segacd-Space Ace (USA)",
+      "name": "Space Ace",
+      "year": "1994",
+      "publisher": "ReadySoft",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Space Adventure, The (USA)",
+      "fullpath": "segacd-Space Adventure, The (USA)",
+      "name": "Space Adventure, The",
+      "year": "1994",
+      "publisher": "Hudson Soft",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Star Wars Chess (USA)",
+      "fullpath": "segacd-Star Wars Chess (USA)",
+      "name": "Star Wars Chess",
+      "year": "1993",
+      "publisher": "Software Toolworks",
+      "genre": "Board Games",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Star Wars Rebel Assault (USA)",
+      "fullpath": "segacd-Star Wars Rebel Assault (USA)",
+      "name": "Star Wars Rebel Assault",
+      "year": "1993",
+      "publisher": "LucasArts",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Starblade (USA)",
+      "fullpath": "segacd-Starblade (USA)",
+      "name": "Starblade",
+      "year": "1994",
+      "publisher": "Namco",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Stellar-Fire (USA)",
+      "fullpath": "segacd-Stellar-Fire (USA)",
+      "name": "Stellar-Fire",
+      "year": "1993",
+      "publisher": "Dynamix",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Supreme Warrior (32X) (USA) (Disc 1)",
+      "fullpath": "segacd-Supreme Warrior (32X) (USA) (Disc 1)",
+      "name": "Supreme Warrior",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Supreme Warrior (32X) (USA) (Disc 2)",
+      "fullpath": "segacd-Supreme Warrior (32X) (USA) (Disc 2)",
+      "name": "Supreme Warrior",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Supreme Warrior (USA) (Disc 1)",
+      "fullpath": "segacd-Supreme Warrior (USA) (Disc 1)",
+      "name": "Supreme Warrior",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Supreme Warrior (USA) (Disc 2)",
+      "fullpath": "segacd-Supreme Warrior (USA) (Disc 2)",
+      "name": "Supreme Warrior",
+      "year": "1994",
+      "publisher": "Digital Pictures",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Surgical Strike (USA)",
+      "fullpath": "segacd-Surgical Strike (USA)",
+      "name": "Surgical Strike",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Syndicate (Europe)",
+      "fullpath": "segacd-Syndicate (Europe)",
+      "name": "Syndicate",
+      "year": "1995",
+      "publisher": "Domark Software Ltd.",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Terminator, The (USA)",
+      "fullpath": "segacd-Terminator, The (USA)",
+      "name": "Terminator, The",
+      "year": "1993",
+      "publisher": "Virgin Interactive",
+      "genre": "Platform",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Theme Park (Europe)",
+      "fullpath": "segacd-Theme Park (Europe)",
+      "name": "Theme Park",
+      "year": "1995",
+      "publisher": "Domark",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Third World War (USA)",
+      "fullpath": "segacd-Third World War (USA)",
+      "name": "Third World War",
+      "year": "1994",
+      "publisher": "Extreme Entertainment Group",
+      "genre": "Strategy",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Time Gal (USA)",
+      "fullpath": "segacd-Time Gal (USA)",
+      "name": "Time Gal",
+      "year": "1993",
+      "publisher": "Renovation",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tomcat Alley (USA)",
+      "fullpath": "segacd-Tomcat Alley (USA)",
+      "name": "Tomcat Alley",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Trivial Pursuit - Interactive Multimedia Game (USA)",
+      "fullpath": "segacd-Trivial Pursuit - Interactive Multimedia Game (USA)",
+      "name": "Trivial Pursuit - Interactive Multimedia Game",
+      "year": "1993",
+      "publisher": "Virgin Interactive",
+      "genre": "Board Games",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ultraverse Prime (USA)",
+      "fullpath": "segacd-Ultraverse Prime (USA)",
+      "name": "Ultraverse Prime",
+      "year": "1994",
+      "publisher": "Sony Imagesoft",
+      "genre": "Miscellaneous",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Vay (USA)",
+      "fullpath": "segacd-Vay (USA)",
+      "name": "Vay",
+      "year": "1994",
+      "publisher": "Working Designs",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtual VCR - The Colors of Modern Rock (USA)",
+      "fullpath": "segacd-Virtual VCR - The Colors of Modern Rock (USA)",
+      "name": "Virtual VCR - The Colors of Modern Rock",
+      "year": "1993",
+      "publisher": "Digital Pictures",
+      "genre": "Rhythm",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wheel of Fortune (USA)",
+      "fullpath": "segacd-Wheel of Fortune (USA)",
+      "name": "Wheel of Fortune",
+      "year": "1994",
+      "publisher": "Sony Imagesoft",
+      "genre": "Game Show",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Who Shot Johnny Rock (USA)",
+      "fullpath": "segacd-Who Shot Johnny Rock (USA)",
+      "name": "Who Shot Johnny Rock",
+      "year": "1994",
+      "publisher": "American Laser Games",
+      "genre": "Gun",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Wild Woody (USA)",
+      "fullpath": "segacd-Wild Woody (USA)",
+      "name": "Wild Woody",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wing Commander (USA)",
+      "fullpath": "segacd-Wing Commander (USA)",
+      "name": "Wing Commander",
+      "year": "1994",
+      "publisher": "Electronic Arts",
+      "genre": "Simulation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wirehead (USA)",
+      "fullpath": "segacd-Wirehead (USA)",
+      "name": "Wirehead",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Wolfchild (USA)",
+      "fullpath": "segacd-Wolfchild (USA)",
+      "name": "Wolfchild",
+      "year": "1993",
+      "publisher": "JVC Musical Industries, Inc.",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wonder Dog (USA)",
+      "fullpath": "segacd-Wonder Dog (USA)",
+      "name": "Wonder Dog",
+      "year": "1992",
+      "publisher": "JVC Musical Industries, Inc.",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "World Cup USA '94 (USA)",
+      "fullpath": "segacd-World Cup USA '94 (USA)",
+      "name": "World Cup USA '94",
+      "year": "1993",
+      "publisher": "U.S. Gold",
+      "genre": "Soccer/Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "WWF Rage in the Cage (USA)",
+      "fullpath": "segacd-WWF Rage in the Cage (USA)",
+      "name": "WWF Rage in the Cage",
+      "year": "1994",
+      "publisher": "Arena",
+      "genre": "Sports/Wrestling",
+      "rating": "HSRS - GA (General Audience)"
+    }
+  ]
+}

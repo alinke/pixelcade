@@ -1,0 +1,1193 @@
+{
+  "platform": "mugen",
+  "totalGames": 131,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "mugen game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "mugen.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Alien Vs Predator MUGEN",
+      "fullpath": "Mugen-Alien Vs Predator MUGEN",
+      "name": "Aliens versus Predator",
+      "year": "2013",
+      "publisher": "Wolf productions",
+      "genre": "Movie",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Art of Fury",
+      "fullpath": "Mugen-Art of Fury",
+      "name": "Art of Fury",
+      "year": "2010",
+      "publisher": "Elecbyte",
+      "genre": "SNK - Fatal Fury",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Avenger Vs X-Men",
+      "fullpath": "Mugen-Avenger Vs X-Men",
+      "name": "Avenger Vs X-Men",
+      "year": "2013",
+      "publisher": "Project X",
+      "genre": "Comics - Marvel - X-Men",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Babel sword",
+      "fullpath": "Mugen-Babel sword",
+      "name": "Babel sword",
+      "year": "2004",
+      "publisher": "Tony World",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Bastard",
+      "fullpath": "Mugen-Bastard",
+      "name": "Bastard",
+      "year": "2004",
+      "publisher": "Tony World",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Biohazard Demo",
+      "fullpath": "Mugen-Biohazard Demo",
+      "name": "Biohazard Demo",
+      "year": "2012",
+      "publisher": "Fabry Taz",
+      "genre": "Capcom",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Big Bang Beat 1st Impression",
+      "fullpath": "Mugen-Big Bang Beat 1st Impression",
+      "name": "Big Bang Beat 1st Impression",
+      "year": "2010",
+      "publisher": "Fabien Q",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Bleach Mugen",
+      "fullpath": "Mugen-Bleach Mugen",
+      "name": "Bleach M.U.G.E.N",
+      "year": "2010",
+      "publisher": "Ristar87",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Capcom Fighting Evolution Max",
+      "fullpath": "Mugen-Capcom Fighting Evolution Max",
+      "name": "Capcom Fighting Evolution Max",
+      "year": "2009",
+      "publisher": "Mugen Station 360",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Capcom Vs Snk 2",
+      "fullpath": "Mugen-Capcom Vs Snk 2",
+      "name": "Capcom Vs Snk 2",
+      "year": "2001",
+      "publisher": "Elecbyte",
+      "genre": "Capcom - SNK",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Capcom vs The World Beta2",
+      "fullpath": "Mugen-Capcom vs The World Beta2",
+      "name": "Capcom vs The World Beta2",
+      "year": "2012",
+      "publisher": "Sean Alty",
+      "genre": "Capcom",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Cartoon Fighters 2010",
+      "fullpath": "Mugen-Cartoon Fighters 2010",
+      "name": "Cartoon Fighters 2010",
+      "year": "2010",
+      "publisher": "Voodoo",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Cartoon vs Anime MUGEN",
+      "fullpath": "Mugen-Cartoon vs Anime MUGEN",
+      "name": "Cartoon vs Anime MUGEN",
+      "year": "2011",
+      "publisher": "Ristar87",
+      "genre": "Cartoon - Anime",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "CMS Mugen Elite",
+      "fullpath": "Mugen-CMS Mugen Elite",
+      "name": "CMS Mugen Elite",
+      "year": "2009",
+      "publisher": "Mugen Comunity",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Coruscation Mugen",
+      "fullpath": "Mugen-Coruscation Mugen",
+      "name": "Coruscation Mugen",
+      "year": "2009",
+      "publisher": "Coruscation",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "DC vs Capcom vs Marvel",
+      "fullpath": "Mugen-DC vs Capcom vs Marvel",
+      "name": "DC vs Capcom vs Marvel",
+      "year": "2009",
+      "publisher": "Alex Lexus",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Ball AF",
+      "fullpath": "Mugen-Dragon Ball AF",
+      "name": "Dragon Ball AF",
+      "year": "2009",
+      "publisher": "Ristar87 & DBZSupakid",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Ball GT",
+      "fullpath": "Mugen-Dragon Ball GT",
+      "name": "Dragon Ball GT",
+      "year": "2002",
+      "publisher": "Elecbyte",
+      "genre": "Anime - Dragon Ball",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Ball Heroes M.U.G.E.N (Hi-Res)",
+      "fullpath": "Mugen-Dragon Ball Heroes M.U.G.E.N (Hi-Res)",
+      "name": "Dragon Ball Heroes M.U.G.E.N (Hi-Res)",
+      "year": "2011",
+      "publisher": "RistaR87",
+      "genre": "Anime - Dragon Ball",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Ball MUGEN 2007",
+      "fullpath": "Mugen-Dragon Ball MUGEN 2007",
+      "name": "Dragon Ball MUGEN 2007",
+      "year": "2007",
+      "publisher": "DBMe2007",
+      "genre": "Anime - Dragon Ball",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Ball M.U.G.E.N Edition 2010",
+      "fullpath": "Mugen-Dragon Ball M.U.G.E.N Edition 2010",
+      "name": "Dragon Ball M.U.G.E.N. Edition 2010",
+      "year": "2010",
+      "publisher": "Ristar87 and Xedarts",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Ball Z MUGEN Edition 2011 (Hi-Res)",
+      "fullpath": "Mugen-Dragon Ball Z MUGEN Edition 2011 (Hi-Res)",
+      "name": "Dragon Ball Z MUGEN Edition 2011 (Hi-Res)",
+      "year": "2011",
+      "publisher": "RistaR87",
+      "genre": "Anime - Dragon Ball",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "DBZ Saiyan Fury 09",
+      "fullpath": "Mugen-DBZ Saiyan Fury 09",
+      "name": "Dragon Ball Z Saiyan Fury 09",
+      "year": "2008",
+      "publisher": "Xedarts",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "DragonBall vs Street Fighter III MUGEN",
+      "fullpath": "Mugen-DragonBall vs Street Fighter III MUGEN",
+      "name": "DragonBall vs Street Fighter III MUGEN",
+      "year": "2011",
+      "publisher": "DBZ Supakid",
+      "genre": "Anime - Dragon Ball - Capcom - Street Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dungeons and Dragons",
+      "fullpath": "Mugen-Dungeons and Dragons",
+      "name": "Dungeons and Dragons",
+      "year": "2011",
+      "publisher": "Scruffy Dragon",
+      "genre": "Capcom",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Enter The Dragon MUGEN V2",
+      "fullpath": "Mugen-Enter The Dragon MUGEN V2",
+      "name": "Enter The Dragon MUGEN V2",
+      "year": "2005",
+      "publisher": "Elecbyte",
+      "genre": "Movie",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Everything Verses Everything",
+      "fullpath": "Mugen-Everything Verses Everything",
+      "name": "Everything Verses Everything",
+      "year": "2006",
+      "publisher": "Elecbyte",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Famicom Fighters",
+      "fullpath": "Mugen-Famicom Fighters",
+      "name": "Famicom Fighters",
+      "year": "2011",
+      "publisher": "KingPepe",
+      "genre": "Nintendo",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Fatal Fury - Mark of the Wolves",
+      "fullpath": "Mugen-Fatal Fury - Mark of the Wolves",
+      "name": "Fatal Fury - Mark of the Wolves",
+      "year": "2009",
+      "publisher": "Ristar87",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Goku Mania",
+      "fullpath": "Mugen-Goku Mania",
+      "name": "Goku Mania",
+      "year": "2013",
+      "publisher": "Electbyte",
+      "genre": "Anime - Dragon Ball",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Gotham Knights MUGEN",
+      "fullpath": "Mugen-Gotham Knights MUGEN",
+      "name": "Gotham Knights MUGEN",
+      "year": "2007",
+      "publisher": "Electbyte",
+      "genre": "Comics - DC",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Guilty Gear XX Mugen",
+      "fullpath": "Mugen-Guilty Gear XX Mugen",
+      "name": "Guilty Gear XX Mugen",
+      "year": "2009",
+      "publisher": "Solitaio",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Heaven or Hell",
+      "fullpath": "Mugen-Heaven or Hell",
+      "name": "Heaven or Hell",
+      "year": "",
+      "publisher": "",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Hinokakera",
+      "fullpath": "Mugen-Hinokakera",
+      "name": "Hinokakera",
+      "year": "",
+      "publisher": "",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Hi-Res Mugen",
+      "fullpath": "Mugen-Hi-Res Mugen",
+      "name": "Hi-Res Mugen",
+      "year": "2008",
+      "publisher": "Mugen9s",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Hokuto no Ken",
+      "fullpath": "Mugen-Hokuto no Ken",
+      "name": "Hokuto no Ken",
+      "year": "2009",
+      "publisher": "Hokuto Project",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Hokuto No Ken vs Guilty Gear XX vs Sengoku  Basara 3 MUGEN",
+      "fullpath": "Mugen-Hokuto No Ken vs Guilty Gear XX vs Sengoku  Basara 3 MUGEN",
+      "name": "Hokuto No Ken vs Guilty Gear XX vs Sengoku  Basara 3 MUGEN",
+      "year": "2009",
+      "publisher": "Mustard Seed Comics Studio",
+      "genre": "Anime - Hokuto no Ken",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "IWBTG - MUGEN",
+      "fullpath": "Mugen-IWBTG - MUGEN",
+      "name": "IWBTG - MUGEN",
+      "year": "2011",
+      "publisher": "fhqwhgads7",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "JUMP SuperStars SmashBros",
+      "fullpath": "Mugen-JUMP SuperStars SmashBros",
+      "name": "JUMP SuperStars SmashBros",
+      "year": "2010",
+      "publisher": "Ristar87",
+      "genre": "Anime",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Kenshin Mugen",
+      "fullpath": "Mugen-Kenshin Mugen",
+      "name": "Kenshin Mugen",
+      "year": "2008",
+      "publisher": "Ralfab",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Kirby the Dream Battle",
+      "fullpath": "Mugen-Kirby the Dream Battle",
+      "name": "Kirby the Dream Battle",
+      "year": "20102",
+      "publisher": "RandomTbush",
+      "genre": "Nintendo",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Martial Masters",
+      "fullpath": "Mugen-Martial Masters",
+      "name": "Martial Masters",
+      "year": "2005",
+      "publisher": "Phantom Blood",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Marvel Super Heroes",
+      "fullpath": "Mugen-Marvel Super Heroes",
+      "name": "Marvel Super Heroes",
+      "year": "2005",
+      "publisher": "SpiDoL",
+      "genre": "Comics - Marvel",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Marvel Vs Capcom 2",
+      "fullpath": "Mugen-Marvel Vs Capcom 2",
+      "name": "Marvel Vs Capcom 2",
+      "year": "2004",
+      "publisher": "Electbyte",
+      "genre": "Comics - Marvel - Capcom",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Marvel vs Capcom 3 - Last Rise of Heroes",
+      "fullpath": "Mugen-Marvel vs Capcom 3 - Last Rise of Heroes",
+      "name": "Marvel vs Capcom 3 - Last Rise of Heroes",
+      "year": "2008",
+      "publisher": "Infinity Mugen",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Masked Rider Battle MUGEN",
+      "fullpath": "Mugen-Masked Rider Battle MUGEN",
+      "name": "Masked Rider Battle MUGEN",
+      "year": "2005",
+      "publisher": "Elecbyte",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Megaman Battle - Robot Master Mayhem",
+      "fullpath": "Mugen-Megaman Battle - Robot Master Mayhem",
+      "name": "Megaman Battle - Robot Master Mayhem",
+      "year": "2009",
+      "publisher": "Infinity Mugen",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mega-Man Zero ZX - Battle Royale",
+      "fullpath": "Mugen-Mega-Man Zero ZX - Battle Royale",
+      "name": "Mega-Man Zero ZX - Battle Royale",
+      "year": "2007",
+      "publisher": "Mugen Fighters Guild",
+      "genre": "Capcom",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Monster Mash",
+      "fullpath": "Mugen-Monster Mash",
+      "name": "Monster Mash",
+      "year": "2005",
+      "publisher": "Elecbyte",
+      "genre": "Movie",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mortal Kombat 1",
+      "fullpath": "Mugen-Mortal Kombat 1",
+      "name": "Mortal Kombat 1",
+      "year": "2008",
+      "publisher": "Indrid Cold",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mortal Kombat 2 MUGEN",
+      "fullpath": "Mugen-Mortal Kombat 2 MUGEN",
+      "name": "Mortal Kombat 2 MUGEN",
+      "year": "2009",
+      "publisher": "Elecbyte",
+      "genre": "Mortal Kombat",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mortal Kombat 2 The Lost Secrets",
+      "fullpath": "Mugen-Mortal Kombat 2 The Lost Secrets",
+      "name": "Mortal Kombat 2 The Lost Secrets",
+      "year": "2008",
+      "publisher": "Indrid Cold",
+      "genre": "Mortal Kombat",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mortal Kombat 3 MUGEN",
+      "fullpath": "Mugen-Mortal Kombat 3 MUGEN",
+      "name": "Mortal Kombat 3 MUGEN",
+      "year": "2006",
+      "publisher": "Szemi",
+      "genre": "Mortal Kombat",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mortal Kombat Anthology",
+      "fullpath": "Mugen-Mortal Kombat Anthology",
+      "name": "Mortal Kombat Anthology",
+      "year": "2008",
+      "publisher": "Indrid Cold",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mortal Kombat Cyborg War DEMO",
+      "fullpath": "Mugen-Mortal Kombat Cyborg War DEMO",
+      "name": "Mortal Kombat Cyborg War DEMO",
+      "year": "2006",
+      "publisher": "7GC Productions",
+      "genre": "Mortal Kombat",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mortal Kombat Project 4.9.3",
+      "fullpath": "Mugen-Mortal Kombat Project 4.9.3",
+      "name": "Mortal Kombat Project 4.9.3",
+      "year": "2008",
+      "publisher": "MK-Team",
+      "genre": "Mortal Kombat",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mortal Kombat The After-Realm",
+      "fullpath": "Mugen-Mortal Kombat The After-Realm",
+      "name": "Mortal Kombat The After-Realm",
+      "year": "2009",
+      "publisher": "Elecbyte0",
+      "genre": "Mortal Kombat",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mortal Kombat Trilogy",
+      "fullpath": "Mugen-Mortal Kombat Trilogy",
+      "name": "Mortal Kombat Trilogy",
+      "year": "2008",
+      "publisher": "Indrid Cold & Simpliband",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mortal Kombat vs Street Fighter",
+      "fullpath": "Mugen-Mortal Kombat vs Street Fighter",
+      "name": "Mortal Kombat vs Street Fighter",
+      "year": "2008",
+      "publisher": "Mugen9s",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mugen All Characters Battle Zero",
+      "fullpath": "Mugen-Mugen All Characters Battle Zero",
+      "name": "Mugen All Characters Battle Zero",
+      "year": "2004",
+      "publisher": "DrePhantom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "MUGEN Superheroes",
+      "fullpath": "Mugen-MUGEN Superheroes",
+      "name": "MUGEN Superheroes",
+      "year": "2014",
+      "publisher": "Scruffy Dragon",
+      "genre": "Comics - Marvel - DC",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mugen Tournament 3",
+      "fullpath": "Mugen-Mugen Tournament 3",
+      "name": "Mugen Tournament 3",
+      "year": "2007",
+      "publisher": "NoYoN9s",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Namco X Capcom Brawlers",
+      "fullpath": "Mugen-Namco X Capcom Brawlers",
+      "name": "Namco X Capcom Brawlers",
+      "year": "2008",
+      "publisher": "Wounami",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Naruto MUGEN",
+      "fullpath": "Mugen-Naruto MUGEN",
+      "name": "Naruto MUGEN",
+      "year": "2005",
+      "publisher": "godjjjita,sabiá,phonix",
+      "genre": "Anime - Naruto",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Naruto Shippuden Ninja Generations MUGEN",
+      "fullpath": "Mugen-Naruto Shippuden Ninja Generations MUGEN",
+      "name": "Naruto Shippuden Ninja Generations MUGEN",
+      "year": "2012",
+      "publisher": "Team Capsule Corp",
+      "genre": "Anime - Naruto",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Naruto Storm MUGEN",
+      "fullpath": "Mugen-Naruto Storm MUGEN",
+      "name": "Naruto Storm MUGEN",
+      "year": "2010",
+      "publisher": "Ristar87",
+      "genre": "Anime - Naruto",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Neo Geo Battle Coliseum",
+      "fullpath": "Mugen-Neo Geo Battle Coliseum",
+      "name": "Neo Geo Battle Coliseum",
+      "year": "2007",
+      "publisher": "Amit Dabydeen",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Neon Genesis Evangelion MUGEN",
+      "fullpath": "Mugen-Neon Genesis Evangelion MUGEN",
+      "name": "Neon Genesis Evangelion MUGEN",
+      "year": "2005",
+      "publisher": "Tony X World",
+      "genre": "Anime",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "One Piece Colosseum MUGEN",
+      "fullpath": "Mugen-One Piece Colosseum MUGEN",
+      "name": "One Piece Colosseum MUGEN",
+      "year": "2011",
+      "publisher": "RistaR87 & GoldDTrace",
+      "genre": "Anime",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Pocket Dimension Clash Mugen",
+      "fullpath": "Mugen-Pocket Dimension Clash Mugen",
+      "name": "Pocket Dimension Clash Mugen",
+      "year": "2007",
+      "publisher": "Ilusionista",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Pocket Fighter",
+      "fullpath": "Mugen-Pocket Fighter",
+      "name": "Pocket Fighter",
+      "year": "2003",
+      "publisher": "Cute Mugen",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Pocket World - DC Edition",
+      "fullpath": "Mugen-Pocket World - DC Edition",
+      "name": "Pocket World - DC Edition",
+      "year": "2011",
+      "publisher": "Scruffy Dragon",
+      "genre": "Comic - DC",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Pokemon Mugen Edition",
+      "fullpath": "Mugen-Pokemon Mugen Edition",
+      "name": "Pokemon Mugen Edition",
+      "year": "2011",
+      "publisher": "Ryon Persaud",
+      "genre": "Nintendo",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sailor Moon Mugen",
+      "fullpath": "Mugen-Sailor Moon Mugen",
+      "name": "Sailor Moon Mugen",
+      "year": "2009",
+      "publisher": "Poshpsylocke",
+      "genre": "Anime",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Samurai Shodown Special Mugen Edition 2008",
+      "fullpath": "Mugen-Samurai Shodown Special Mugen Edition 2008",
+      "name": "Samurai Shodown Special Mugen Edition 2008",
+      "year": "2008",
+      "publisher": "Yuki Enterprise",
+      "genre": "SNK",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Saturday Mornin Mayhem",
+      "fullpath": "Mugen-Saturday Mornin Mayhem",
+      "name": "Saturday Mornin Mayhem",
+      "year": "2011",
+      "publisher": "DDRCreations",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Shades of Manhattan",
+      "fullpath": "Mugen-Shades of Manhattan",
+      "name": "Shades of Manhattan",
+      "year": "2009",
+      "publisher": "SHADEs Team",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Shades of Manhattan 2",
+      "fullpath": "Mugen-Shades of Manhattan 2",
+      "name": "Shades of Manhattan 2",
+      "year": "2010",
+      "publisher": "SHADEs Team",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "SNK vs Capcom Ultimate Mugen 3rd Battle Edition v2.0",
+      "fullpath": "Mugen-SNK vs Capcom Ultimate Mugen 3rd Battle Edition v2.0",
+      "name": "SNK vs Capcom Ultimate 3rd Battle Edition 2007",
+      "year": "2007",
+      "publisher": "Roberto Bernardo Games",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "SNK vs Capcom Ultimate Mugen 3rd Battle Edition v3.0",
+      "fullpath": "Mugen-SNK vs Capcom Ultimate Mugen 3rd Battle Edition v3.0",
+      "name": "SNK vs Capcom Ultimate 3rd Battle Edition 2008(Unofficial)",
+      "year": "2008",
+      "publisher": "Roberto Bernardo Games",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sonic Freedom Fighters 2 Plus",
+      "fullpath": "Mugen-Sonic Freedom Fighters 2 Plus",
+      "name": "Sonic Freedom Fighters 2 Plus",
+      "year": "2004",
+      "publisher": "MUGEN Hunters",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Star Wars - The Ultimate Battle",
+      "fullpath": "Mugen-Star Wars - The Ultimate Battle",
+      "name": "Star Wars - The Ultimate Battle",
+      "year": "2006",
+      "publisher": "Cenobite 53",
+      "genre": "Movie",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Steel Warriors",
+      "fullpath": "Mugen-Steel Warriors",
+      "name": "Steel Warriors",
+      "year": "2013",
+      "publisher": "mabskmk2013",
+      "genre": "SNK",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter 1 - Champion Edition",
+      "fullpath": "Mugen-Street Fighter 1 - Champion Edition",
+      "name": "Street Fighter 1 - Champion Edition",
+      "year": "2006",
+      "publisher": "Falchion22",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter Legends",
+      "fullpath": "Mugen-Street Fighter Legends",
+      "name": "Street Fighter Legends",
+      "year": "2010",
+      "publisher": "Amit Dabydeen",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter Legends Vs KOF",
+      "fullpath": "Mugen-Street Fighter Legends Vs KOF",
+      "name": "Street Fighter Legends Vs KOF",
+      "year": "2007",
+      "publisher": "Mustard Seed",
+      "genre": "Capcom - SNK - Street Fighter - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter Mugen",
+      "fullpath": "Mugen-Street Fighter Mugen",
+      "name": "Street Fighter Mugen",
+      "year": "2008",
+      "publisher": "Mugen9s",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter Mugen Edition 2008",
+      "fullpath": "Mugen-Street Fighter Mugen Edition 2008",
+      "name": "Street Fighter Mugen Edition 2008",
+      "year": "2008",
+      "publisher": "QuickSilver",
+      "genre": "Capcom - Street Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter SNK - King of Fighters",
+      "fullpath": "Mugen-Street Fighter SNK - King of Fighters",
+      "name": "Street Fighter SNK - King of Fighters",
+      "year": "2010",
+      "publisher": "Elecbyte",
+      "genre": "Capcom - SNK - Street Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter vs Fatal Fury MUGEN",
+      "fullpath": "Mugen-Street Fighter vs Fatal Fury MUGEN",
+      "name": "Street Fighter vs Fatal Fury MUGEN",
+      "year": "2006",
+      "publisher": "Elecbyte",
+      "genre": "Capcom - SNK - Street Fighter - Fatal Fury",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter vs Fatal Fury II",
+      "fullpath": "Mugen-Street Fighter vs Fatal Fury II",
+      "name": "Street Fighter vs Fatal Fury II",
+      "year": "2007",
+      "publisher": "Elecbyte",
+      "genre": "Capcom - SNK - Street Fighter - Fatal Fury",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Capcom Vs Snk Ver.1.0",
+      "fullpath": "Mugen-Super Capcom Vs Snk Ver.1.0",
+      "name": "Super Capcom Vs Snk Ver.1.0",
+      "year": "2010",
+      "publisher": "Elecbyte",
+      "genre": "Capcom - SNK - Street Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Heroes Mugen",
+      "fullpath": "Mugen-Super Heroes Mugen",
+      "name": "Super Heroes Mugen",
+      "year": "2009",
+      "publisher": "Ristar87",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Marvel vs Capcom Eternity of Heroes",
+      "fullpath": "Mugen-Super Marvel vs Capcom Eternity of Heroes",
+      "name": "Super Marvel vs Capcom Eternity of Heroes",
+      "year": "2010",
+      "publisher": "Infinity Mugen",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Robot Wars",
+      "fullpath": "Mugen-Super Robot Wars",
+      "name": "Super Robot Wars",
+      "year": "2007",
+      "publisher": "GIANNI",
+      "genre": "Anime",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Smash Bros All Stars",
+      "fullpath": "Mugen-Super Smash Bros All Stars",
+      "name": "Super Smash Bros All Stars",
+      "year": "2009",
+      "publisher": "Wounami",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Smash Bros Brawl Max",
+      "fullpath": "Mugen-Super Smash Bros Brawl Max",
+      "name": "Super Smash Bros Brawl Max",
+      "year": "2013",
+      "publisher": "eltiolavara9",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Smash Bros Brawl ZX",
+      "fullpath": "Mugen-Super Smash Bros Brawl ZX",
+      "name": "Super Smash Bros Brawl ZX",
+      "year": "2008",
+      "publisher": "Wounami",
+      "genre": "Nintendo",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Street Fighter 2 NES",
+      "fullpath": "Mugen-Super Street Fighter 2 NES",
+      "name": "Super Street Fighter 2 NES",
+      "year": "2011",
+      "publisher": "Elecbyte",
+      "genre": "Capcom - Street Fighter - Nintendo",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Street Fighter 2 Turbo HD Remix",
+      "fullpath": "Mugen-Super Street Fighter 2 Turbo HD Remix",
+      "name": "Super Street Fighter 2 Turbo HD Remix",
+      "year": "2010",
+      "publisher": "Amit Dabydeen",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Street Fighter 3 EVO",
+      "fullpath": "Mugen-Super Street Fighter 3 EVO",
+      "name": "Super Street Fighter 3 EVO",
+      "year": "2010",
+      "publisher": "Immortal Fighters Guild",
+      "genre": "Capcom - Street Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Street Fighter IV MUGEN (Hi-Res)",
+      "fullpath": "Mugen-Super Street Fighter IV MUGEN (Hi-Res)",
+      "name": "Super Street Fighter IV MUGEN (Hi-Res)",
+      "year": "2011",
+      "publisher": "Ristar87",
+      "genre": "Capcom - Street Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tekken 3",
+      "fullpath": "Mugen-Tekken 3",
+      "name": "Tekken 3",
+      "year": "2010",
+      "publisher": "Elecbyte",
+      "genre": "Namco",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The Black Heart",
+      "fullpath": "Mugen-The Black Heart",
+      "name": "The Black Heart",
+      "year": "2010",
+      "publisher": "Andres Borghi",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King of Fighters - Challenge to Ultimate Battle",
+      "fullpath": "Mugen-The King of Fighters - Challenge to Ultimate Battle",
+      "name": "The King of Fighters - Challenge to Ultimate Battle",
+      "year": "2005",
+      "publisher": "Elecbyte",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King Of Fighters - Counterstrike",
+      "fullpath": "Mugen-The King Of Fighters - Counterstrike",
+      "name": "The King Of Fighters - Counterstrike",
+      "year": "2007",
+      "publisher": "Purnel Miah",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King of Fighters 10th Anniversary",
+      "fullpath": "Mugen-The King of Fighters 10th Anniversary",
+      "name": "The King of Fighters 10th Anniversary",
+      "year": "2011",
+      "publisher": "Mugen Word Order",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King of Fighters 98 Ultimate Match",
+      "fullpath": "Mugen-The King of Fighters 98 Ultimate Match",
+      "name": "The King of Fighters 98 Ultimate Match",
+      "year": "2009",
+      "publisher": "Kumman",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King of Fighters 2002 Ultimate Match",
+      "fullpath": "Mugen-The King of Fighters 2002 Ultimate Match",
+      "name": "The King of Fighters 2002 Ultimate Match",
+      "year": "2010",
+      "publisher": "CriWare",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King of Fighters Anthology",
+      "fullpath": "Mugen-The King of Fighters Anthology",
+      "name": "The King of Fighters Anthology",
+      "year": "2011",
+      "publisher": "Duracell Team",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King Of Fighters Ex - Unlimited Match",
+      "fullpath": "Mugen-The King Of Fighters Ex - Unlimited Match",
+      "name": "The King Of Fighters Ex - Unlimited Match",
+      "year": "2011",
+      "publisher": "CriWare",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King Of Fighters Infinite",
+      "fullpath": "Mugen-The King Of Fighters Infinite",
+      "name": "King Of Fighters Infinite",
+      "year": "2010",
+      "publisher": "Amit Dabydeen",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King Of Fighters MUGEN",
+      "fullpath": "Mugen-The King Of Fighters MUGEN",
+      "name": "The King Of Fighters MUGEN",
+      "year": "2005",
+      "publisher": "Ristar87",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King Of Fighters Shining",
+      "fullpath": "Mugen-The King Of Fighters Shining",
+      "name": "The King Of Fighters Shining",
+      "year": "2008",
+      "publisher": "Miracle Create",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King of Fighters Wing",
+      "fullpath": "Mugen-The King of Fighters Wing",
+      "name": "The King of Fighters Wing",
+      "year": "2010",
+      "publisher": "Elecbyte",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King of Fighters XI MUGEN",
+      "fullpath": "Mugen-The King of Fighters XI MUGEN",
+      "name": "The King of Fighters XI MUGEN",
+      "year": "2007",
+      "publisher": "Ash McGowen",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King of Fighters XIII",
+      "fullpath": "Mugen-The King of Fighters XIII",
+      "name": "The King of Fighters XIII",
+      "year": "2010",
+      "publisher": "Enlightened Shadow",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King of Fighters XIII Ultimate Edition MUGEN",
+      "fullpath": "Mugen-The King of Fighters XIII Ultimate Edition MUGEN",
+      "name": "The King of Fighters XIII Ultimate Edition MUGEN",
+      "year": "2010",
+      "publisher": "Enlightened Shadow",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The King of Fighters Zillion",
+      "fullpath": "Mugen-The King of Fighters Zillion",
+      "name": "The King of Fighters Zillion",
+      "year": "2007",
+      "publisher": "Mugen China",
+      "genre": "SNK - KOF",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "The Queen Of Fighters XXX V3.7",
+      "fullpath": "Mugen-The Queen Of Fighters XXX V3.7",
+      "name": "The Queen Of Fighters XXX V3.7",
+      "year": "2005",
+      "publisher": "Daniel",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "TMHT Tournament Fighters",
+      "fullpath": "Mugen-TMHT Tournament Fighters",
+      "name": "Teenage Mutant Hero Turtles Tournament Fighters",
+      "year": "2001",
+      "publisher": "Pioupiou",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "TMNT Tournament Fighters",
+      "fullpath": "Mugen-TMNT Tournament Fighters",
+      "name": "Teenage Mutant Ninja Turtles Tournament Fighters",
+      "year": "2012",
+      "publisher": "Zelgadis",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "TMNT vs X-Men",
+      "fullpath": "Mugen-TMNT vs X-Men",
+      "name": "TMNT vs X-Men",
+      "year": "2009",
+      "publisher": "WOUNAMI",
+      "genre": "TMNT - Comics - X-Men",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Touhou - Nightfall to Dusk",
+      "fullpath": "Mugen-Touhou - Nightfall to Dusk",
+      "name": "Touhou - Nightfall to Dusk",
+      "year": "2013",
+      "publisher": "Elecbyte",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Transformers MUGEN",
+      "fullpath": "Mugen-Transformers MUGEN",
+      "name": "Transformers MUGEN",
+      "year": "2005",
+      "publisher": "Elecbyte",
+      "genre": "Cartoon",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Ultimate Mugen 2009",
+      "fullpath": "Mugen-Ultimate Mugen 2009",
+      "name": "Ultimate Mugen 2009",
+      "year": "2009",
+      "publisher": "0414setsuna",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Wolverine And The X-men Mugen",
+      "fullpath": "Mugen-Wolverine And The X-men Mugen",
+      "name": "Wolverine And The X-men Mugen",
+      "year": "2004",
+      "publisher": "Elecbyte",
+      "genre": "Comics - Marvel - X-Men",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "World Heroes",
+      "fullpath": "Mugen-World Heroes",
+      "name": "World Heroes",
+      "year": "2008",
+      "publisher": "Mugen9s",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "World Warrior Tournament 2",
+      "fullpath": "Mugen-World Warrior Tournament 2",
+      "name": "World Warrior Tournament 2",
+      "year": "2009",
+      "publisher": "Darkwork Production",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "World Warriors X",
+      "fullpath": "Mugen-World Warriors X",
+      "name": "World Warriors X",
+      "year": "2008",
+      "publisher": "Mugen9s",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "X-Men Second Coming",
+      "fullpath": "Mugen-X-Men Second Coming",
+      "name": "X-Men Second Coming",
+      "year": "2011",
+      "publisher": "Project X",
+      "genre": "Marvel - X-Men",
+      "rating": "ESRB - T (Teen)"
+    }
+  ]
+}

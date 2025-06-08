@@ -1,0 +1,194 @@
+{
+  "platform": "daphne_singe",
+  "totalGames": 20,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "daphne_singe game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "daphne_singe.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "AlteredCarbon",
+      "fullpath": "daphne_singe-AlteredCarbon",
+      "name": "AlteredCarbon",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Asterix",
+      "fullpath": "daphne_singe-Asterix",
+      "name": "Asterix",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cliff",
+      "fullpath": "daphne_singe-Cliff",
+      "name": "Cliff",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "DL2e",
+      "fullpath": "daphne_singe-DL2e",
+      "name": "DL2e",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Daitarn 3",
+      "fullpath": "daphne_singe-Daitarn 3",
+      "name": "Daitarn 3",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dragon Trainer ENG",
+      "fullpath": "daphne_singe-Dragon Trainer ENG",
+      "name": "Dragon Trainer ENG",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Esh",
+      "fullpath": "daphne_singe-Esh",
+      "name": "Esh",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fire_and_Ice",
+      "fullpath": "daphne_singe-Fire_and_Ice",
+      "name": "Fire_and_Ice",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hologram Time Traveler 3D",
+      "fullpath": "daphne_singe-Hologram Time Traveler 3D",
+      "name": "Hologram Time Traveler 3D",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mononoke",
+      "fullpath": "daphne_singe-Mononoke",
+      "name": "Mononoke",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja_Hayate",
+      "fullpath": "daphne_singe-Ninja_Hayate",
+      "name": "Ninja_Hayate",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Puss N Boots",
+      "fullpath": "daphne_singe-Puss N Boots",
+      "name": "Puss N Boots",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Jack ENG",
+      "fullpath": "daphne_singe-Samurai Jack ENG",
+      "name": "Samurai Jack ENG",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Starblazers",
+      "fullpath": "daphne_singe-Starblazers",
+      "name": "Starblazers",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sucker_Punch169",
+      "fullpath": "daphne_singe-Sucker_Punch169",
+      "name": "Sucker_Punch169",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super_Don_Quix-ote_Singe_2",
+      "fullpath": "daphne_singe-Super_Don_Quix-ote_Singe_2",
+      "name": "Super_Don_Quix-ote_Singe_2",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TimeGal",
+      "fullpath": "daphne_singe-TimeGal",
+      "name": "TimeGal",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TimeGal_",
+      "fullpath": "daphne_singe-TimeGal_",
+      "name": "TimeGal_",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Titan_AE",
+      "fullpath": "daphne_singe-Titan_AE",
+      "name": "Titan_AE",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tron",
+      "fullpath": "daphne_singe-Tron",
+      "name": "Tron",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Singe",
+      "rating": "Not Rated"
+    }
+  ]
+}

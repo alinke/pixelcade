@@ -1,0 +1,518 @@
+{
+  "platform": "atarijaguar",
+  "totalGames": 56,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "atarijaguar game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "atarijaguar.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Air Cars (World)",
+      "fullpath": "atarijaguar-Air Cars (World)",
+      "name": "Air Cars",
+      "year": "1997",
+      "publisher": "ICD",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Alien vs Predator (World)",
+      "fullpath": "atarijaguar-Alien vs Predator (World)",
+      "name": "Alien vs Predator",
+      "year": "1994",
+      "publisher": "Atari Games",
+      "genre": "Shooter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Atari Karts (World)",
+      "fullpath": "atarijaguar-Atari Karts (World)",
+      "name": "Atari Karts",
+      "year": "1995",
+      "publisher": "Atari Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Attack of the Mutant Penguins (World)",
+      "fullpath": "atarijaguar-Attack of the Mutant Penguins (World)",
+      "name": "Attack of the Mutant Penguins",
+      "year": "1996",
+      "publisher": "Atari Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Battle Sphere Gold (World)",
+      "fullpath": "atarijaguar-Battle Sphere Gold (World)",
+      "name": "Battle Sphere Gold",
+      "year": "2000",
+      "publisher": "ScatoLogic",
+      "genre": "Flying",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Breakout 2000 (World) (Unl)",
+      "fullpath": "atarijaguar-Breakout 2000 (World) (Unl)",
+      "name": "Breakout 2000",
+      "year": "1997",
+      "publisher": "Telegames",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Brutal Sports Football (World)",
+      "fullpath": "atarijaguar-Brutal Sports Football (World)",
+      "name": "Brutal Sports Football",
+      "year": "1994",
+      "publisher": "Atari Games",
+      "genre": "Sports/Football",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Bubsy in Fractured Furry Tales (World)",
+      "fullpath": "atarijaguar-Bubsy in Fractured Furry Tales (World)",
+      "name": "Bubsy in Fractured Furry Tales",
+      "year": "1994",
+      "publisher": "Accolade",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cannon Fodder (World)",
+      "fullpath": "atarijaguar-Cannon Fodder (World)",
+      "name": "Cannon Fodder",
+      "year": "1995",
+      "publisher": "Virgin Interactive",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Checkered Flag (World)",
+      "fullpath": "atarijaguar-Checkered Flag (World)",
+      "name": "Checkered Flag",
+      "year": "1994",
+      "publisher": "Atari Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Club Drive (World)",
+      "fullpath": "atarijaguar-Club Drive (World)",
+      "name": "Club Drive",
+      "year": "1994",
+      "publisher": "Atari",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cybermorph (World)",
+      "fullpath": "atarijaguar-Cybermorph (World)",
+      "name": "Cybermorph",
+      "year": "1993",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Defender 2000 (World)",
+      "fullpath": "atarijaguar-Defender 2000 (World)",
+      "name": "Defender 2000",
+      "year": "1996",
+      "publisher": "Atari Games",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Doom (World)",
+      "fullpath": "atarijaguar-Doom (World)",
+      "name": "Doom",
+      "year": "1994",
+      "publisher": "Atari Games",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Double Dragon V - The Shadow Falls (World)",
+      "fullpath": "atarijaguar-Double Dragon V - The Shadow Falls (World)",
+      "name": "Double Dragon V: The Shadow Falls",
+      "year": "1995",
+      "publisher": "Tradewest",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dragon - The Bruce Lee Story (World)",
+      "fullpath": "atarijaguar-Dragon - The Bruce Lee Story (World)",
+      "name": "Dragon: The Bruce Lee Story",
+      "year": "1994",
+      "publisher": "Atari Games",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Evolution - Dino Dudes (World)",
+      "fullpath": "atarijaguar-Evolution - Dino Dudes (World)",
+      "name": "Evolution: Dino Dudes",
+      "year": "1994",
+      "publisher": "Atari",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fever Pitch Soccer (World)",
+      "fullpath": "atarijaguar-Fever Pitch Soccer (World)",
+      "name": "Fever Pitch Soccer",
+      "year": "1995",
+      "publisher": "Atari Games",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Fight for Life (World)",
+      "fullpath": "atarijaguar-Fight for Life (World)",
+      "name": "Fight for Life",
+      "year": "1996",
+      "publisher": "Atari Games",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Flashback - The Quest for Identity (World)",
+      "fullpath": "atarijaguar-Flashback - The Quest for Identity (World)",
+      "name": "Flashback: The Quest for Identity",
+      "year": "1995",
+      "publisher": "U.S. Gold",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Flip Out! (World)",
+      "fullpath": "atarijaguar-Flip Out! (World)",
+      "name": "Flip Out!",
+      "year": "1995",
+      "publisher": "Atari Games",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hover Strike (World)",
+      "fullpath": "atarijaguar-Hover Strike (World)",
+      "name": "Hover Strike",
+      "year": "1995",
+      "publisher": "Atari Games",
+      "genre": "Flying",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hyper Force (World)",
+      "fullpath": "atarijaguar-Hyper Force (World)",
+      "name": "Hyper Force",
+      "year": "2000",
+      "publisher": "Songbird Productions",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "I-War (World)",
+      "fullpath": "atarijaguar-I-War (World)",
+      "name": "I-War",
+      "year": "1995",
+      "publisher": "Atari Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Iron Soldier (World)",
+      "fullpath": "atarijaguar-Iron Soldier (World)",
+      "name": "Iron Soldier",
+      "year": "1994",
+      "publisher": "Atari Games",
+      "genre": "Simulation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Jaguar Hockey (World) (Unl)",
+      "fullpath": "atarijaguar-Jaguar Hockey (World) (Unl)",
+      "name": "Jaguar Hockey",
+      "year": "1995",
+      "publisher": "Atari Games",
+      "genre": "B&C Computervisions",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Kasumi Ninja (World)",
+      "fullpath": "atarijaguar-Kasumi Ninja (World)",
+      "name": "Kasumi Ninja",
+      "year": "1994",
+      "publisher": "Atari Games",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Missile Command 3D (World)",
+      "fullpath": "atarijaguar-Missile Command 3D (World)",
+      "name": "Missile Command 3D",
+      "year": "1995",
+      "publisher": "Atari Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Jam T.E. (World)",
+      "fullpath": "atarijaguar-NBA Jam T.E. (World)",
+      "name": "NBA Jam T.E.",
+      "year": "1996",
+      "publisher": "Acclaim",
+      "genre": "Sports/Basketball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pinball Fantasies (World)",
+      "fullpath": "atarijaguar-Pinball Fantasies (World)",
+      "name": "Pinball Fantasies",
+      "year": "1995",
+      "publisher": "21st Century Entertainment",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pitfall - The Mayan Adventure (World)",
+      "fullpath": "atarijaguar-Pitfall - The Mayan Adventure (World)",
+      "name": "Pitfall: The Mayan Adventure",
+      "year": "1995",
+      "publisher": "Atari Games",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Power Drive Rally (World)",
+      "fullpath": "atarijaguar-Power Drive Rally (World)",
+      "name": "Power Drive Rally",
+      "year": "1995",
+      "publisher": "Time Warner Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Protector - Special Edition (World)",
+      "fullpath": "atarijaguar-Protector - Special Edition (World)",
+      "name": "Protector: Special Edition",
+      "year": "2002",
+      "publisher": "Songbird Productions",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Raiden (World)",
+      "fullpath": "atarijaguar-Raiden (World)",
+      "name": "Raiden",
+      "year": "1994",
+      "publisher": "Fabtek",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rayman (World)",
+      "fullpath": "atarijaguar-Rayman (World)",
+      "name": "Rayman",
+      "year": "1995",
+      "publisher": "Ubisoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ruiner Pinball (World)",
+      "fullpath": "atarijaguar-Ruiner Pinball (World)",
+      "name": "Ruiner Pinball",
+      "year": "1995",
+      "publisher": "High Voltage Software",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sensible Soccer - International Edition (World)",
+      "fullpath": "atarijaguar-Sensible Soccer - International Edition (World)",
+      "name": "Sensible Soccer: International Edition",
+      "year": "1995",
+      "publisher": "Telegames, Inc.",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Skyhammer (World)",
+      "fullpath": "atarijaguar-Skyhammer (World)",
+      "name": "Skyhammer",
+      "year": "2000",
+      "publisher": "Songbird Productions",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Soccer Kid (World)",
+      "fullpath": "atarijaguar-Soccer Kid (World)",
+      "name": "Soccer Kid",
+      "year": "2000",
+      "publisher": "Songbird Productions",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Burnout (World)",
+      "fullpath": "atarijaguar-Super Burnout (World)",
+      "name": "Super Burnout",
+      "year": "1995",
+      "publisher": "Atari Games",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SuperCross 3D (World)",
+      "fullpath": "atarijaguar-SuperCross 3D (World)",
+      "name": "SuperCross 3D",
+      "year": "1995",
+      "publisher": "Atari Games",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Syndicate (World)",
+      "fullpath": "atarijaguar-Syndicate (World)",
+      "name": "Syndicate",
+      "year": "1995",
+      "publisher": "Ocean",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tempest 2000 (World)",
+      "fullpath": "atarijaguar-Tempest 2000 (World)",
+      "name": "Tempest 2000",
+      "year": "1994",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Theme Park (World)",
+      "fullpath": "atarijaguar-Theme Park (World)",
+      "name": "Theme Park",
+      "year": "1995",
+      "publisher": "Ocean",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Total Carnage (World)",
+      "fullpath": "atarijaguar-Total Carnage (World)",
+      "name": "Total Carnage",
+      "year": "2005",
+      "publisher": "Songbird Productions",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Towers II (World)",
+      "fullpath": "atarijaguar-Towers II (World)",
+      "name": "Towers II",
+      "year": "1996",
+      "publisher": "Telegames, Inc.",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Trevor McFur in the Crescent Galaxy (World)",
+      "fullpath": "atarijaguar-Trevor McFur in the Crescent Galaxy (World)",
+      "name": "Trevor McFur in the Crescent Galaxy",
+      "year": "1993",
+      "publisher": "Atari Games",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Troy Aikman NFL Football (World)",
+      "fullpath": "atarijaguar-Troy Aikman NFL Football (World)",
+      "name": "Troy Aikman NFL Football",
+      "year": "1995",
+      "publisher": "Williams",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ultra Vortek (World)",
+      "fullpath": "atarijaguar-Ultra Vortek (World)",
+      "name": "Ultra Vortek",
+      "year": "1995",
+      "publisher": "Atari Games",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Val d'Isere Skiing and Snowboarding (World)",
+      "fullpath": "atarijaguar-Val d'Isere Skiing and Snowboarding (World)",
+      "name": "Val d'Isere Skiing and Snowboarding",
+      "year": "1994",
+      "publisher": "Atari Games",
+      "genre": "Sports/Skiing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "White Men Can't Jump (World)",
+      "fullpath": "atarijaguar-White Men Can't Jump (World)",
+      "name": "White Men Can't Jump",
+      "year": "1995",
+      "publisher": "Atari Games",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wolfenstein 3D (World)",
+      "fullpath": "atarijaguar-Wolfenstein 3D (World)",
+      "name": "Wolfenstein 3D",
+      "year": "1994",
+      "publisher": "Atari Games",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Worms (World)",
+      "fullpath": "atarijaguar-Worms (World)",
+      "name": "Worms",
+      "year": "1998",
+      "publisher": "Telegames, Inc.",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Zero 5 (World)",
+      "fullpath": "atarijaguar-Zero 5 (World)",
+      "name": "Zero 5",
+      "year": "1997",
+      "publisher": "Telegames, Inc.",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Zool 2 (World)",
+      "fullpath": "atarijaguar-Zool 2 (World)",
+      "name": "Zool 2",
+      "year": "1994",
+      "publisher": "Atari Games",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Zoop! (World)",
+      "fullpath": "atarijaguar-Zoop! (World)",
+      "name": "Zoop!",
+      "year": "1996",
+      "publisher": "Atari Games",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    }
+  ]
+}

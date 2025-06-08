@@ -1,0 +1,302 @@
+{
+  "platform": "taito_type_x",
+  "totalGames": 32,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "taito_type_x game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "taito_type_x.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Arcana Heart 3",
+      "fullpath": "taito_type_x-Arcana Heart 3",
+      "name": "Arcana Heart 3",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Battle Fantasia",
+      "fullpath": "taito_type_x-Battle Fantasia",
+      "name": "Battle Fantasia",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Battle Gear 4 Tuned.bak",
+      "fullpath": "taito_type_x-Battle Gear 4 Tuned.bak",
+      "name": "Battle Gear 4 Tuned.bak",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Battle Gear 4 Tuned",
+      "fullpath": "taito_type_x-Battle Gear 4 Tuned",
+      "name": "Battle Gear 4 Tuned",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "BlazBlue Calamity Trigger",
+      "fullpath": "taito_type_x-BlazBlue Calamity Trigger",
+      "name": "BlazBlue Calamity Trigger",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "BlazBlue Continuum Shift II",
+      "fullpath": "taito_type_x-BlazBlue Continuum Shift II",
+      "name": "BlazBlue Continuum Shift II",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "BlazBlue Continuum Shift",
+      "fullpath": "taito_type_x-BlazBlue Continuum Shift",
+      "name": "BlazBlue Continuum Shift",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chaos Breaker",
+      "fullpath": "taito_type_x-Chaos Breaker",
+      "name": "Chaos Breaker",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Contra  Evolution Revolution",
+      "fullpath": "taito_type_x-Contra  Evolution Revolution",
+      "name": "Contra  Evolution Revolution",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cyber Diver",
+      "fullpath": "taito_type_x-Cyber Diver",
+      "name": "Cyber Diver",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cyber Diver.og",
+      "fullpath": "taito_type_x-Cyber Diver.og",
+      "name": "Cyber Diver.og",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Daemon Bride",
+      "fullpath": "taito_type_x-Daemon Bride",
+      "name": "Daemon Bride",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Deathsmiles II",
+      "fullpath": "taito_type_x-Deathsmiles II",
+      "name": "Deathsmiles II",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "GigaWing Generations",
+      "fullpath": "taito_type_x-GigaWing Generations",
+      "name": "GigaWing Generations",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "HalfLife 2  Survivor Ver 2.0",
+      "fullpath": "taito_type_x-HalfLife 2  Survivor Ver 2.0",
+      "name": "HalfLife 2  Survivor Ver 2.0",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Homura",
+      "fullpath": "taito_type_x-Homura",
+      "name": "Homura",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "King of Fighters '98, The Ultimate Match",
+      "fullpath": "taito_type_x-King of Fighters '98, The Ultimate Match",
+      "name": "King of Fighters '98, The Ultimate Match",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "King of Fighters XII, The",
+      "fullpath": "taito_type_x-King of Fighters XII, The",
+      "name": "King of Fighters XII, The",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "King of Fighters XIII, The",
+      "fullpath": "taito_type_x-King of Fighters XIII, The",
+      "name": "King of Fighters XIII, The",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Otomedius.BAK",
+      "fullpath": "taito_type_x-Otomedius.BAK",
+      "name": "Otomedius.BAK",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Otomedius",
+      "fullpath": "taito_type_x-Otomedius",
+      "name": "Otomedius",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Power Instinct The Commemoration",
+      "fullpath": "taito_type_x-Power Instinct The Commemoration",
+      "name": "Power Instinct The Commemoration",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Raiden III",
+      "fullpath": "taito_type_x-Raiden III",
+      "name": "Raiden III",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Raiden IV",
+      "fullpath": "taito_type_x-Raiden IV",
+      "name": "Raiden IV",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Samurai Shodown  Edge of Destiny",
+      "fullpath": "taito_type_x-Samurai Shodown  Edge of Destiny",
+      "name": "Samurai Shodown  Edge of Destiny",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shikigami no Shiro III",
+      "fullpath": "taito_type_x-Shikigami no Shiro III",
+      "name": "Shikigami no Shiro III",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Silent Hill The Arcade",
+      "fullpath": "taito_type_x-Silent Hill The Arcade",
+      "name": "Silent Hill The Arcade",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Spica Adventure",
+      "fullpath": "taito_type_x-Spica Adventure",
+      "name": "Spica Adventure",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Street Fighter IV Arcade Edition",
+      "fullpath": "taito_type_x-Super Street Fighter IV Arcade Edition",
+      "name": "Super Street Fighter IV Arcade Edition",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tetris The Grand Master 3 Terror Instinct",
+      "fullpath": "taito_type_x-Tetris The Grand Master 3 Terror Instinct",
+      "name": "Tetris The Grand Master 3 Terror Instinct",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Trouble Witches AC",
+      "fullpath": "taito_type_x-Trouble Witches AC",
+      "name": "Trouble Witches AC",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wacky Races Arcade",
+      "fullpath": "taito_type_x-Wacky Races Arcade",
+      "name": "Wacky Races Arcade",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "No Data",
+      "rating": "HSRS - GA (General Audience)"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "platform": "sammy_atomiswave",
+  "totalGames": 19,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "sammy_atomiswave game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "sammy_atomiswave.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "anmlbskt",
+      "fullpath": "sammy_atomiswave-anmlbskt",
+      "name": "Animal Basket",
+      "year": "Sammy",
+      "publisher": "2005",
+      "genre": "Sports",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "demofist",
+      "fullpath": "sammy_atomiswave-demofist",
+      "name": "Demolish Fist",
+      "year": "Sammy",
+      "publisher": "2003",
+      "genre": "Beat 'em up",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "dirtypig",
+      "fullpath": "sammy_atomiswave-dirtypig",
+      "name": "Dirty Pigskin Football",
+      "year": "Play Mechanix",
+      "publisher": "2006",
+      "genre": "Sports",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "dolphin",
+      "fullpath": "sammy_atomiswave-dolphin",
+      "name": "Dolphin Blue",
+      "year": "Sammy",
+      "publisher": "2003",
+      "genre": "Platformer",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "fotns",
+      "fullpath": "sammy_atomiswave-fotns",
+      "name": "Fist of the North Star",
+      "year": "Sega",
+      "publisher": "2005",
+      "genre": "Fighting",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "ftspeed",
+      "fullpath": "sammy_atomiswave-ftspeed",
+      "name": "Faster than Speed",
+      "year": "Sammy",
+      "publisher": "2004",
+      "genre": "Racing",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "ggisuka",
+      "fullpath": "sammy_atomiswave-ggisuka",
+      "name": "Guilty Gear Isuka",
+      "year": "Sammy",
+      "publisher": "2003",
+      "genre": "Fighting",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "ggx15",
+      "fullpath": "sammy_atomiswave-ggx15",
+      "name": "Guilty Gear X",
+      "year": "Sammy",
+      "publisher": "2003",
+      "genre": "Fighting",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "kofnw",
+      "fullpath": "sammy_atomiswave-kofnw",
+      "name": "The King of Fighters Neowave",
+      "year": "Sammy, SNK",
+      "publisher": "2005",
+      "genre": "Fighting",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "kofxi",
+      "fullpath": "sammy_atomiswave-kofxi",
+      "name": "The King of Fighters XI",
+      "year": "Sega, SNK",
+      "publisher": "2005",
+      "genre": "Fighting",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "kov7sprt",
+      "fullpath": "sammy_atomiswave-kov7sprt",
+      "name": "Knights of Valour: The Seven Spirits",
+      "year": "Sammy, IGS",
+      "publisher": "2003",
+      "genre": "Beat 'em up",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "maxspeed",
+      "fullpath": "sammy_atomiswave-maxspeed",
+      "name": "Maximum Speed",
+      "year": "Sammy, SIMS",
+      "publisher": "2003",
+      "genre": "Racing",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "mslug6",
+      "fullpath": "sammy_atomiswave-mslug6",
+      "name": "Metal Slug 6",
+      "year": "Sega",
+      "publisher": "2006",
+      "genre": "Platformer",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "ngbc",
+      "fullpath": "sammy_atomiswave-ngbc",
+      "name": "NeoGeo Battle Coliseum",
+      "year": "Sega",
+      "publisher": "2005",
+      "genre": "Fighting",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "rumblef",
+      "fullpath": "sammy_atomiswave-rumblef",
+      "name": "The Rumble Fish",
+      "year": "Sammy, Dimps",
+      "publisher": "2004",
+      "genre": "Fighting",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "rumblef2",
+      "fullpath": "sammy_atomiswave-rumblef2",
+      "name": "The Rumble Fish 2",
+      "year": "Sega, Dimps",
+      "publisher": "2005",
+      "genre": "Fighting",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "salmankt",
+      "fullpath": "sammy_atomiswave-salmankt",
+      "name": "Salary Man Kintarou",
+      "year": "Sammy",
+      "publisher": "2004",
+      "genre": "Fighting",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "samsptk",
+      "fullpath": "sammy_atomiswave-samsptk",
+      "name": "Samurai Shodown VI",
+      "year": "Sega, SNK",
+      "publisher": "2005",
+      "genre": "Fighting",
+      "rating": "Suitable For All Ages"
+    },
+    {
+      "id": "sushibar",
+      "fullpath": "sammy_atomiswave-sushibar",
+      "name": "Sushi Bar",
+      "year": "Sammy",
+      "publisher": "2005",
+      "genre": "Action",
+      "rating": "Suitable For All Ages"
+    }
+  ]
+}

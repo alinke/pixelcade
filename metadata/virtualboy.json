@@ -1,0 +1,248 @@
+{
+  "platform": "virtualboy",
+  "totalGames": 26,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "virtualboy game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "virtualboy.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Waterworld (USA)",
+      "fullpath": "virtualboy-Waterworld (USA)",
+      "name": "Waterworld",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "3-D Tetris (USA)",
+      "fullpath": "virtualboy-3-D Tetris (USA)",
+      "name": "3-D Tetris",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bound High (Japan)",
+      "fullpath": "virtualboy-Bound High (Japan)",
+      "name": "Bound High",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Galactic Pinball (Japan, USA)",
+      "fullpath": "virtualboy-Galactic Pinball (Japan, USA)",
+      "name": "Galactic Pinball",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Golf (USA)",
+      "fullpath": "virtualboy-Golf (USA)",
+      "name": "Golf",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Innsmouth no Yakata (Japan)",
+      "fullpath": "virtualboy-Innsmouth no Yakata (Japan)",
+      "name": "Innsmouth no Yakata",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Jack Bros. (USA)",
+      "fullpath": "virtualboy-Jack Bros. (USA)",
+      "name": "Jack Bros.",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Clash (Japan, USA)",
+      "fullpath": "virtualboy-Mario Clash (Japan, USA)",
+      "name": "Mario Clash",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario's Tennis (USA)",
+      "fullpath": "virtualboy-Mario's Tennis (USA)",
+      "name": "Mario's Tennis",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Nester's Funky Bowling (USA)",
+      "fullpath": "virtualboy-Nester's Funky Bowling (USA)",
+      "name": "Nester's Funky Bowling",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Niko-chan Battle (Japan)",
+      "fullpath": "virtualboy-Niko-chan Battle (Japan)",
+      "name": "Niko-chan Battle",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Panic Bomber (USA)",
+      "fullpath": "virtualboy-Panic Bomber (USA)",
+      "name": "Panic Bomber",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Red Alarm (USA)",
+      "fullpath": "virtualboy-Red Alarm (USA)",
+      "name": "Red Alarm",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SD Gundam - Dimension War (Japan)",
+      "fullpath": "virtualboy-SD Gundam - Dimension War (Japan)",
+      "name": "SD Gundam - Dimension War",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Invaders - Virtual Collection (Japan)",
+      "fullpath": "virtualboy-Space Invaders - Virtual Collection (Japan)",
+      "name": "Space Invaders - Virtual Collection",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Pinball (USA)",
+      "fullpath": "virtualboy-Space Pinball (USA)",
+      "name": "Space Pinball",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Squash (Japan)",
+      "fullpath": "virtualboy-Space Squash (Japan)",
+      "name": "Space Squash",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Teleroboxer (Japan, USA)",
+      "fullpath": "virtualboy-Teleroboxer (Japan, USA)",
+      "name": "Teleroboxer",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "V-Tetris (Japan)",
+      "fullpath": "virtualboy-V-Tetris (Japan)",
+      "name": "V-Tetris",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Vertical Force (USA)",
+      "fullpath": "virtualboy-Vertical Force (USA)",
+      "name": "Vertical Force",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Virtual Bowling (Japan)",
+      "fullpath": "virtualboy-Virtual Bowling (Japan)",
+      "name": "Virtual Bowling",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Virtual Boy Wario Land (Japan, USA)",
+      "fullpath": "virtualboy-Virtual Boy Wario Land (Japan, USA)",
+      "name": "Virtual Boy Wario Land",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Virtual Fishing (Japan)",
+      "fullpath": "virtualboy-Virtual Fishing (Japan)",
+      "name": "Virtual Fishing",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Virtual Lab (Japan)",
+      "fullpath": "virtualboy-Virtual Lab (Japan)",
+      "name": "Virtual Lab",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Virtual League Baseball (USA)",
+      "fullpath": "virtualboy-Virtual League Baseball (USA)",
+      "name": "Virtual League Baseball",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Virtual Pro Yakyuu '95 (Japan)",
+      "fullpath": "virtualboy-Virtual Pro Yakyuu '95 (Japan)",
+      "name": "Virtual Pro Yakyuu '95",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

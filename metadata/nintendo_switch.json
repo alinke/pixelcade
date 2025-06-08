@@ -1,0 +1,1625 @@
+{
+  "platform": "nintendo_switch",
+  "totalGames": 179,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "nintendo_switch game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "nintendo_switch.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "3D MiniGolf (World)",
+      "fullpath": "nintendo_switch-3D MiniGolf (World)",
+      "name": "3D MiniGolf (World)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "3D MiniGolf (World)",
+      "fullpath": "nintendo_switch-3D MiniGolf (World)",
+      "name": "3D MiniGolf",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "80s Overdrive",
+      "fullpath": "nintendo_switch-80s Overdrive",
+      "name": "80s Overdrive",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "A Robot Named Fight",
+      "fullpath": "nintendo_switch-A Robot Named Fight",
+      "name": "A Robot Named Fight",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aces of the Luftwaffe - Squadron",
+      "fullpath": "nintendo_switch-Aces of the Luftwaffe - Squadron",
+      "name": "Aces of the Luftwaffe - Squadron",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aleste Collection",
+      "fullpath": "nintendo_switch-Aleste Collection",
+      "name": "Aleste Collection",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Animal Crossing - New Horizons",
+      "fullpath": "nintendo_switch-Animal Crossing - New Horizons",
+      "name": "Animal Crossing - New Horizons",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ARMS (World)",
+      "fullpath": "nintendo_switch-ARMS (World)",
+      "name": "ARMS (World)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Astral Chain",
+      "fullpath": "nintendo_switch-Astral Chain",
+      "name": "Astral Chain",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Axiom Verge (USA)",
+      "fullpath": "nintendo_switch-Axiom Verge (USA)",
+      "name": "Axiom Verge (USA)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Azure Striker Gunvolt - Striker Pack (Europe)",
+      "fullpath": "nintendo_switch-Azure Striker Gunvolt - Striker Pack (Europe)",
+      "name": "Azure Striker Gunvolt - Striker Pack (Europe)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Azure Striker Gunvolt - Striker Pack (Europe)",
+      "fullpath": "nintendo_switch-Azure Striker Gunvolt - Striker Pack (Europe)",
+      "name": "Azure Striker Gunvolt - Striker Pack",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battle Chasers - Nightwar (World)",
+      "fullpath": "nintendo_switch-Battle Chasers - Nightwar (World)",
+      "name": "Battle Chasers - Nightwar (World)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battle Chasers - Nightwar (World)",
+      "fullpath": "nintendo_switch-Battle Chasers - Nightwar (World)",
+      "name": "Battle Chasers - Nightwar",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battle Princess Madelyn Royal Edition",
+      "fullpath": "nintendo_switch-Battle Princess Madelyn Royal Edition",
+      "name": "Battle Princess Madelyn Royal Edition",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bayonetta 2 (World)",
+      "fullpath": "nintendo_switch-Bayonetta 2 (World)",
+      "name": "Bayonetta 2 (World)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bayonetta 2 (World)",
+      "fullpath": "nintendo_switch-Bayonetta 2 (World)",
+      "name": "Bayonetta 2",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bayonetta 3",
+      "fullpath": "nintendo_switch-Bayonetta 3",
+      "name": "Bayonetta 3",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bendy and the Ink Machine",
+      "fullpath": "nintendo_switch-Bendy and the Ink Machine",
+      "name": "Bendy and the Ink Machine",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Big Rumble Boxing - Creed Champions",
+      "fullpath": "nintendo_switch-Big Rumble Boxing - Creed Champions",
+      "name": "Big Rumble Boxing - Creed Champions",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blasphemous",
+      "fullpath": "nintendo_switch-Blasphemous",
+      "name": "Blasphemous",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bloodstained - Curse of the Moon 2",
+      "fullpath": "nintendo_switch-Bloodstained - Curse of the Moon 2",
+      "name": "Bloodstained - Curse of the Moon 2",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "BurgerTime Party",
+      "fullpath": "nintendo_switch-BurgerTime Party",
+      "name": "BurgerTime Party",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cadence of Hyrule - Crypt of the NecroDancer Featuring The Legend of Zelda",
+      "fullpath": "nintendo_switch-Cadence of Hyrule - Crypt of the NecroDancer Featuring The Legend of Zelda",
+      "name": "Cadence of Hyrule - Crypt of the NecroDancer Featuring The Legend of Zelda",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Capcom Beat 'Em Up Bundle",
+      "fullpath": "nintendo_switch-Capcom Beat 'Em Up Bundle",
+      "name": "Capcom Beat 'Em Up Bundle",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Captain Toad - Treasure Tracker",
+      "fullpath": "nintendo_switch-Captain Toad - Treasure Tracker",
+      "name": "Captain Toad - Treasure Tracker",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Carrion",
+      "fullpath": "nintendo_switch-Carrion",
+      "name": "Carrion",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cave Story+ (USA)",
+      "fullpath": "nintendo_switch-Cave Story+ (USA)",
+      "name": "Cave Story+ (USA)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cave Story+ (USA)",
+      "fullpath": "nintendo_switch-Cave Story+ (USA)",
+      "name": "Cave Story+",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Child of Light - Ultimate Edition",
+      "fullpath": "nintendo_switch-Child of Light - Ultimate Edition",
+      "name": "Child of Light - Ultimate Edition",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Clubhouse Games - 51 Worldwide Classics",
+      "fullpath": "nintendo_switch-Clubhouse Games - 51 Worldwide Classics",
+      "name": "Clubhouse Games - 51 Worldwide Classics",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crash Team Racing Nitro-Fueled",
+      "fullpath": "nintendo_switch-Crash Team Racing Nitro-Fueled",
+      "name": "Crash Team Racing Nitro-Fueled",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "CrossCode",
+      "fullpath": "nintendo_switch-CrossCode",
+      "name": "CrossCode",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cruis'n Blast",
+      "fullpath": "nintendo_switch-Cruis'n Blast",
+      "name": "Cruis'n Blast",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Darius Cozmic Collection Arcade",
+      "fullpath": "nintendo_switch-Darius Cozmic Collection Arcade",
+      "name": "Darius Cozmic Collection Arcade",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dark Witch Music Episode - Rudymical",
+      "fullpath": "nintendo_switch-Dark Witch Music Episode - Rudymical",
+      "name": "Dark Witch Music Episode - Rudymical",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dead Cells",
+      "fullpath": "nintendo_switch-Dead Cells",
+      "name": "Dead Cells",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Disgaea 1 Complete (USA)",
+      "fullpath": "nintendo_switch-Disgaea 1 Complete (USA)",
+      "name": "Disgaea 1 Complete (USA)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Disgaea 1 Complete (USA)",
+      "fullpath": "nintendo_switch-Disgaea 1 Complete (USA)",
+      "name": "Disgaea 1 Complete",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Disgaea 4 Complete Plus (EUR)",
+      "fullpath": "nintendo_switch-Disgaea 4 Complete Plus (EUR)",
+      "name": "Disgaea 4 Complete Plus (EUR)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Disgaea 4 Complete Plus (EUR)",
+      "fullpath": "nintendo_switch-Disgaea 4 Complete Plus (EUR)",
+      "name": "Disgaea 4 Complete Plus",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donkey Kong Country - Tropical Freeze",
+      "fullpath": "nintendo_switch-Donkey Kong Country - Tropical Freeze",
+      "name": "Donkey Kong Country - Tropical Freeze",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Eschatos",
+      "fullpath": "nintendo_switch-Eschatos",
+      "name": "Eschatos",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Exit the Gungeon",
+      "fullpath": "nintendo_switch-Exit the Gungeon",
+      "name": "Exit the Gungeon",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fairy Tail",
+      "fullpath": "nintendo_switch-Fairy Tail",
+      "name": "Fairy Tail",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fatal Frame Maiden of Black Water",
+      "fullpath": "nintendo_switch-Fatal Frame Maiden of Black Water",
+      "name": "Fatal Frame Maiden of Black Water",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fire Emblem - Three Houses",
+      "fullpath": "nintendo_switch-Fire Emblem - Three Houses",
+      "name": "Fire Emblem - Three Houses",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Friday the 13th - The Game - Ultimate Slasher Edition",
+      "fullpath": "nintendo_switch-Friday the 13th - The Game - Ultimate Slasher Edition",
+      "name": "Friday the 13th - The Game - Ultimate Slasher Edition",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "FRONT MISSION 1st - Remake",
+      "fullpath": "nintendo_switch-FRONT MISSION 1st - Remake",
+      "name": "FRONT MISSION 1st - Remake",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gal Gun Returns",
+      "fullpath": "nintendo_switch-Gal Gun Returns",
+      "name": "Gal Gun Returns",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Game Builder Garage",
+      "fullpath": "nintendo_switch-Game Builder Garage",
+      "name": "Game Builder Garage",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Good Job",
+      "fullpath": "nintendo_switch-Good Job",
+      "name": "Good Job",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "GROOVE COASTER WAI WAI PARTY!!!!",
+      "fullpath": "nintendo_switch-GROOVE COASTER WAI WAI PARTY!!!!",
+      "name": "GROOVE COASTER WAI WAI PARTY!!!!",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hatsune Miku - Project DIVA Mega Mix",
+      "fullpath": "nintendo_switch-Hatsune Miku - Project DIVA Mega Mix",
+      "name": "Hatsune Miku - Project DIVA Mega Mix",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hello Neighbor",
+      "fullpath": "nintendo_switch-Hello Neighbor",
+      "name": "Hello Neighbor",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hollow Knight",
+      "fullpath": "nintendo_switch-Hollow Knight",
+      "name": "Hollow Knight",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Horizon Chase Turbo",
+      "fullpath": "nintendo_switch-Horizon Chase Turbo",
+      "name": "Horizon Chase Turbo",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hotline Miami Collection",
+      "fullpath": "nintendo_switch-Hotline Miami Collection",
+      "name": "Hotline Miami Collection",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hotshot Racing",
+      "fullpath": "nintendo_switch-Hotshot Racing",
+      "name": "Hotshot Racing",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Huntdown",
+      "fullpath": "nintendo_switch-Huntdown",
+      "name": "Huntdown",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hyrule Warriors - Definitive Edition (USA)",
+      "fullpath": "nintendo_switch-Hyrule Warriors - Definitive Edition (USA)",
+      "name": "Hyrule Warriors - Definitive Edition (USA)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hyrule Warriors - Definitive Edition (USA)",
+      "fullpath": "nintendo_switch-Hyrule Warriors - Definitive Edition (USA)",
+      "name": "Hyrule Warriors - Definitive Edition",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "I Am Setsuna (World)",
+      "fullpath": "nintendo_switch-I Am Setsuna (World)",
+      "name": "I Am Setsuna (World)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "I Am Setsuna (World)",
+      "fullpath": "nintendo_switch-I Am Setsuna (World)",
+      "name": "I Am Setsuna",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Iconoclasts",
+      "fullpath": "nintendo_switch-Iconoclasts",
+      "name": "Iconoclasts",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "INSIDE",
+      "fullpath": "nintendo_switch-INSIDE",
+      "name": "INSIDE",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kirby and the Forgotten Lands",
+      "fullpath": "nintendo_switch-Kirby and the Forgotten Lands",
+      "name": "Kirby and the Forgotten Lands",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kirby Star Allies (World)",
+      "fullpath": "nintendo_switch-Kirby Star Allies (World)",
+      "name": "Kirby Star Allies (World)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kirby Star Allies (World)",
+      "fullpath": "nintendo_switch-Kirby Star Allies (World)",
+      "name": "Kirby Star Allies",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kirbys Return to Dream Land Deluxe",
+      "fullpath": "nintendo_switch-Kirbys Return to Dream Land Deluxe",
+      "name": "Kirbys Return to Dream Land Deluxe",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kunai",
+      "fullpath": "nintendo_switch-Kunai",
+      "name": "Kunai",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "KungFu Kickball",
+      "fullpath": "nintendo_switch-KungFu Kickball",
+      "name": "KungFu Kickball",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Layers of Fear 2",
+      "fullpath": "nintendo_switch-Layers of Fear 2",
+      "name": "Layers of Fear 2",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Legend of Heroes, The - Trails of Cold Steel III",
+      "fullpath": "nintendo_switch-Legend of Heroes, The - Trails of Cold Steel III",
+      "name": "Legend of Heroes, The - Trails of Cold Steel III",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Legend of Heroes, The - Trails of Cold Steel IV",
+      "fullpath": "nintendo_switch-Legend of Heroes, The - Trails of Cold Steel IV",
+      "name": "Legend of Heroes, The - Trails of Cold Steel IV",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Legend of Zelda, The - Breath of the Wild (World)",
+      "fullpath": "nintendo_switch-Legend of Zelda, The - Breath of the Wild (World)",
+      "name": "Legend of Zelda, The - Breath of the Wild (World)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Legend of Zelda, The - Breath of the Wild (World)",
+      "fullpath": "nintendo_switch-Legend of Zelda, The - Breath of the Wild (World)",
+      "name": "Legend of Zelda, The - Breath of the Wild",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Legend of Zelda, The - Link's Awakening",
+      "fullpath": "nintendo_switch-Legend of Zelda, The - Link's Awakening",
+      "name": "Legend of Zelda, The - Link's Awakening",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Legend of Zelda, The - Tears of the Kingdom",
+      "fullpath": "nintendo_switch-Legend of Zelda, The - Tears of the Kingdom",
+      "name": "Legend of Zelda, The - Tears of the Kingdom",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "LIMBO",
+      "fullpath": "nintendo_switch-LIMBO",
+      "name": "LIMBO",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Little Friends - Dogs & Cats",
+      "fullpath": "nintendo_switch-Little Friends - Dogs & Cats",
+      "name": "Little Friends - Dogs & Cats",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lost Sphear (World)",
+      "fullpath": "nintendo_switch-Lost Sphear (World)",
+      "name": "Lost Sphear (World)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lost Sphear (World)",
+      "fullpath": "nintendo_switch-Lost Sphear (World)",
+      "name": "Lost Sphear",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Luigis Mansion 3",
+      "fullpath": "nintendo_switch-Luigis Mansion 3",
+      "name": "Luigis Mansion 3",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario & Sonic at the Olympic Games Tokyo 2020",
+      "fullpath": "nintendo_switch-Mario & Sonic at the Olympic Games Tokyo 2020",
+      "name": "Mario & Sonic at the Olympic Games Tokyo 2020",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Golf - Super Rush",
+      "fullpath": "nintendo_switch-Mario Golf - Super Rush",
+      "name": "Mario Golf - Super Rush",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Kart 8 Deluxe (World)",
+      "fullpath": "nintendo_switch-Mario Kart 8 Deluxe (World)",
+      "name": "Mario Kart 8 Deluxe (World)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Kart 8 Deluxe (World)",
+      "fullpath": "nintendo_switch-Mario Kart 8 Deluxe (World)",
+      "name": "Mario Kart 8 Deluxe",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Party Superstars",
+      "fullpath": "nintendo_switch-Mario Party Superstars",
+      "name": "Mario Party Superstars",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Tennis Aces (World)",
+      "fullpath": "nintendo_switch-Mario Tennis Aces (World)",
+      "name": "Mario Tennis Aces (World)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Tennis Aces (World)",
+      "fullpath": "nintendo_switch-Mario Tennis Aces (World)",
+      "name": "Mario Tennis Aces",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mega Man 11",
+      "fullpath": "nintendo_switch-Mega Man 11",
+      "name": "Mega Man 11",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mega Man X Legacy Collection 2",
+      "fullpath": "nintendo_switch-Mega Man X Legacy Collection 2",
+      "name": "Mega Man X Legacy Collection 2",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mega Man X Legacy Collection",
+      "fullpath": "nintendo_switch-Mega Man X Legacy Collection",
+      "name": "Mega Man X Legacy Collection",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mercenaries Saga Chronicles",
+      "fullpath": "nintendo_switch-Mercenaries Saga Chronicles",
+      "name": "Mercenaries Saga Chronicles",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Metroid Dread",
+      "fullpath": "nintendo_switch-Metroid Dread",
+      "name": "Metroid Dread",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Metroid Prime REMASTERED",
+      "fullpath": "nintendo_switch-Metroid Prime REMASTERED",
+      "name": "Metroid Prime REMASTERED",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Minecraft - Story Mode - The Complete Adventure (World)",
+      "fullpath": "nintendo_switch-Minecraft - Story Mode - The Complete Adventure (World)",
+      "name": "Minecraft - Story Mode - The Complete Adventure (World)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Minecraft - Story Mode - The Complete Adventure (World)",
+      "fullpath": "nintendo_switch-Minecraft - Story Mode - The Complete Adventure (World)",
+      "name": "Minecraft - Story Mode - The Complete Adventure",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Minecraft Dungeons",
+      "fullpath": "nintendo_switch-Minecraft Dungeons",
+      "name": "Minecraft Dungeons",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Missile Dancer",
+      "fullpath": "nintendo_switch-Missile Dancer",
+      "name": "Missile Dancer",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Moving Out",
+      "fullpath": "nintendo_switch-Moving Out",
+      "name": "Moving Out",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "My Friend Pedro - Blood Bullets Bananas",
+      "fullpath": "nintendo_switch-My Friend Pedro - Blood Bullets Bananas",
+      "name": "My Friend Pedro - Blood Bullets Bananas",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "MY HERO ONE'S JUSTICE",
+      "fullpath": "nintendo_switch-MY HERO ONE'S JUSTICE",
+      "name": "MY HERO ONE'S JUSTICE",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NAMCO MUSEUM ARCHIVES Vol 1",
+      "fullpath": "nintendo_switch-NAMCO MUSEUM ARCHIVES Vol 1",
+      "name": "NAMCO MUSEUM ARCHIVES Vol 1",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NAMCO MUSEUM ARCHIVES Vol 2",
+      "fullpath": "nintendo_switch-NAMCO MUSEUM ARCHIVES Vol 2",
+      "name": "NAMCO MUSEUM ARCHIVES Vol 2",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NASCAR Heat Ultimate Edition+",
+      "fullpath": "nintendo_switch-NASCAR Heat Ultimate Edition+",
+      "name": "NASCAR Heat Ultimate Edition+",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Nickelodeon All-Star Brawl",
+      "fullpath": "nintendo_switch-Nickelodeon All-Star Brawl",
+      "name": "Nickelodeon All-Star Brawl",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Nickelodeon Kart Racers",
+      "fullpath": "nintendo_switch-Nickelodeon Kart Racers",
+      "name": "Nickelodeon Kart Racers",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Saviors, The - Return of the Warriors",
+      "fullpath": "nintendo_switch-Ninja Saviors, The - Return of the Warriors",
+      "name": "Ninja Saviors, The - Return of the Warriors",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Octopath Traveler",
+      "fullpath": "nintendo_switch-Octopath Traveler",
+      "name": "Octopath Traveler",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "OddBallers",
+      "fullpath": "nintendo_switch-OddBallers",
+      "name": "OddBallers",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Oddworld Strangers Wrath",
+      "fullpath": "nintendo_switch-Oddworld Strangers Wrath",
+      "name": "Oddworld Strangers Wrath",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ori and the Blind Forest Definitive Edition",
+      "fullpath": "nintendo_switch-Ori and the Blind Forest Definitive Edition",
+      "name": "Ori and the Blind Forest Definitive Edition",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ori and the Will of the Wisps",
+      "fullpath": "nintendo_switch-Ori and the Will of the Wisps",
+      "name": "Ori and the Will of the Wisps",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Overcooked All You Can Eat",
+      "fullpath": "nintendo_switch-Overcooked All You Can Eat",
+      "name": "Overcooked All You Can Eat",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Paper Mario - The Origami King",
+      "fullpath": "nintendo_switch-Paper Mario - The Origami King",
+      "name": "Paper Mario - The Origami King",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pathless, The",
+      "fullpath": "nintendo_switch-Pathless, The",
+      "name": "Pathless, The",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Paw Patrol - Mighty Pups Save Adventure Bay",
+      "fullpath": "nintendo_switch-Paw Patrol - Mighty Pups Save Adventure Bay",
+      "name": "Paw Patrol - Mighty Pups Save Adventure Bay",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Persona 5 Strikers",
+      "fullpath": "nintendo_switch-Persona 5 Strikers",
+      "name": "Persona 5 Strikers",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Phoenix Wright - Ace Attorney Trilogy",
+      "fullpath": "nintendo_switch-Phoenix Wright - Ace Attorney Trilogy",
+      "name": "Phoenix Wright - Ace Attorney Trilogy",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "PICROSS S4",
+      "fullpath": "nintendo_switch-PICROSS S4",
+      "name": "PICROSS S4",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pikmin 3 Deluxe",
+      "fullpath": "nintendo_switch-Pikmin 3 Deluxe",
+      "name": "Pikmin 3 Deluxe",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pokemon Lets Go Pikachu",
+      "fullpath": "nintendo_switch-Pokemon Lets Go Pikachu",
+      "name": "Pokemon Lets Go Pikachu",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pokemon Mystery Dungeon - Rescue Team DX",
+      "fullpath": "nintendo_switch-Pokemon Mystery Dungeon - Rescue Team DX",
+      "name": "Pokemon Mystery Dungeon - Rescue Team DX",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pokemon Snap",
+      "fullpath": "nintendo_switch-Pokemon Snap",
+      "name": "Pokemon Snap",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Power Rangers - Battle for the Grid",
+      "fullpath": "nintendo_switch-Power Rangers - Battle for the Grid",
+      "name": "Power Rangers - Battle for the Grid",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Puyo Puyo Tetris 2",
+      "fullpath": "nintendo_switch-Puyo Puyo Tetris 2",
+      "name": "Puyo Puyo Tetris 2",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Puzzle Quest - The Legend Returns",
+      "fullpath": "nintendo_switch-Puzzle Quest - The Legend Returns",
+      "name": "Puzzle Quest - The Legend Returns",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "R-Type Dimensions EX",
+      "fullpath": "nintendo_switch-R-Type Dimensions EX",
+      "name": "R-Type Dimensions EX",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Razion EX",
+      "fullpath": "nintendo_switch-Razion EX",
+      "name": "Razion EX",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Resident Evil 5",
+      "fullpath": "nintendo_switch-Resident Evil 5",
+      "name": "Resident Evil 5",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Resident Evil 6",
+      "fullpath": "nintendo_switch-Resident Evil 6",
+      "name": "Resident Evil 6",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Retro City Rampage DX",
+      "fullpath": "nintendo_switch-Retro City Rampage DX",
+      "name": "Retro City Rampage DX",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SaGa Frontier Remastered",
+      "fullpath": "nintendo_switch-SaGa Frontier Remastered",
+      "name": "SaGa Frontier Remastered",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown 2 - Pocket Fighting Series",
+      "fullpath": "nintendo_switch-Samurai Shodown 2 - Pocket Fighting Series",
+      "name": "Samurai Shodown 2 - Pocket Fighting Series",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown",
+      "fullpath": "nintendo_switch-Samurai Shodown",
+      "name": "Samurai Shodown",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Scott Pilgrim vs The World The Game",
+      "fullpath": "nintendo_switch-Scott Pilgrim vs The World The Game",
+      "name": "Scott Pilgrim vs The World The Game",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SEGA AGES Virtua Racing",
+      "fullpath": "nintendo_switch-SEGA AGES Virtua Racing",
+      "name": "SEGA AGES Virtua Racing",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shantae - Half-Genie Hero - Ultimate Edition! (USA)",
+      "fullpath": "nintendo_switch-Shantae - Half-Genie Hero - Ultimate Edition! (USA)",
+      "name": "Shantae - Half-Genie Hero - Ultimate Edition! (USA)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shantae - Half-Genie Hero - Ultimate Edition! (USA)",
+      "fullpath": "nintendo_switch-Shantae - Half-Genie Hero - Ultimate Edition! (USA)",
+      "name": "Shantae - Half-Genie Hero - Ultimate Edition!",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shantae and the Pirate's Curse",
+      "fullpath": "nintendo_switch-Shantae and the Pirate's Curse",
+      "name": "Shantae and the Pirate's Curse",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shining Resonance Refrain",
+      "fullpath": "nintendo_switch-Shining Resonance Refrain",
+      "name": "Shining Resonance Refrain",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic Colors - Ultimate",
+      "fullpath": "nintendo_switch-Sonic Colors - Ultimate",
+      "name": "Sonic Colors - Ultimate",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SPACE INVADERS INVINCIBLE COLLECTION",
+      "fullpath": "nintendo_switch-SPACE INVADERS INVINCIBLE COLLECTION",
+      "name": "SPACE INVADERS INVINCIBLE COLLECTION",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SpongeBob SquarePants - Battle for Bikini Bottom - Rehydrated",
+      "fullpath": "nintendo_switch-SpongeBob SquarePants - Battle for Bikini Bottom - Rehydrated",
+      "name": "SpongeBob SquarePants - Battle for Bikini Bottom - Rehydrated",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "STAR OCEAN First Departure R",
+      "fullpath": "nintendo_switch-STAR OCEAN First Departure R",
+      "name": "STAR OCEAN First Departure R",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Steredenn Binary Stars",
+      "fullpath": "nintendo_switch-Steredenn Binary Stars",
+      "name": "Steredenn Binary Stars",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Kirby Clash",
+      "fullpath": "nintendo_switch-Super Kirby Clash",
+      "name": "Super Kirby Clash",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Mario 3D World + Bowsers Fury",
+      "fullpath": "nintendo_switch-Super Mario 3D World + Bowsers Fury",
+      "name": "Super Mario 3D World + Bowsers Fury",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Mario Maker 2",
+      "fullpath": "nintendo_switch-Super Mario Maker 2",
+      "name": "Super Mario Maker 2",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Mario Odyssey (World)",
+      "fullpath": "nintendo_switch-Super Mario Odyssey (World)",
+      "name": "Super Mario Odyssey (World)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Mario Odyssey (World)",
+      "fullpath": "nintendo_switch-Super Mario Odyssey (World)",
+      "name": "Super Mario Odyssey",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Monkey Ball Banana Mania",
+      "fullpath": "nintendo_switch-Super Monkey Ball Banana Mania",
+      "name": "Super Monkey Ball Banana Mania",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Neptunia RPG",
+      "fullpath": "nintendo_switch-Super Neptunia RPG",
+      "name": "Super Neptunia RPG",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Smash Bros. Ultimate",
+      "fullpath": "nintendo_switch-Super Smash Bros. Ultimate",
+      "name": "Super Smash Bros. Ultimate",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Smash Bros",
+      "fullpath": "nintendo_switch-Super Smash Bros",
+      "name": "Super Smash Bros",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SWORD ART ONLINE - FATAL BULLET Complete Edition",
+      "fullpath": "nintendo_switch-SWORD ART ONLINE - FATAL BULLET Complete Edition",
+      "name": "SWORD ART ONLINE - FATAL BULLET Complete Edition",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Taiko no Tatsujin - Drum 'n' Fun!",
+      "fullpath": "nintendo_switch-Taiko no Tatsujin - Drum 'n' Fun!",
+      "name": "Taiko no Tatsujin - Drum 'n' Fun!",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Taiko no Tatsujin - Rhythmic Adventure Pack",
+      "fullpath": "nintendo_switch-Taiko no Tatsujin - Rhythmic Adventure Pack",
+      "name": "Taiko no Tatsujin - Rhythmic Adventure Pack",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TakeOver, The",
+      "fullpath": "nintendo_switch-TakeOver, The",
+      "name": "TakeOver, The",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tales of Vesperia - Definitive Edition",
+      "fullpath": "nintendo_switch-Tales of Vesperia - Definitive Edition",
+      "name": "Tales of Vesperia - Definitive Edition",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Messenger",
+      "fullpath": "nintendo_switch-The Messenger",
+      "name": "The Messenger",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TOUHOU Spell Bubble",
+      "fullpath": "nintendo_switch-TOUHOU Spell Bubble",
+      "name": "TOUHOU Spell Bubble",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Trash Sailors",
+      "fullpath": "nintendo_switch-Trash Sailors",
+      "name": "Trash Sailors",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Travis Strikes Again No More Heroes",
+      "fullpath": "nintendo_switch-Travis Strikes Again No More Heroes",
+      "name": "Travis Strikes Again No More Heroes",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ultra Street Fighter II - The Final Challengers (USA)",
+      "fullpath": "nintendo_switch-Ultra Street Fighter II - The Final Challengers (USA)",
+      "name": "Ultra Street Fighter II - The Final Challengers (USA)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ultra Street Fighter II - The Final Challengers (USA)",
+      "fullpath": "nintendo_switch-Ultra Street Fighter II - The Final Challengers (USA)",
+      "name": "Ultra Street Fighter II - The Final Challengers",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Unruly Heroes",
+      "fullpath": "nintendo_switch-Unruly Heroes",
+      "name": "Unruly Heroes",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Untitled Goose Game",
+      "fullpath": "nintendo_switch-Untitled Goose Game",
+      "name": "Untitled Goose Game",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Vitamin Connection",
+      "fullpath": "nintendo_switch-Vitamin Connection",
+      "name": "Vitamin Connection",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Windjammers 2",
+      "fullpath": "nintendo_switch-Windjammers 2",
+      "name": "Windjammers 2",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wonder Boy - The Dragons Trap (USA)",
+      "fullpath": "nintendo_switch-Wonder Boy - The Dragons Trap (USA)",
+      "name": "Wonder Boy - The Dragons Trap (USA)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wonder Boy - The Dragons Trap (USA)",
+      "fullpath": "nintendo_switch-Wonder Boy - The Dragons Trap (USA)",
+      "name": "Wonder Boy - The Dragons Trap",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wonder Boy Returns Remix",
+      "fullpath": "nintendo_switch-Wonder Boy Returns Remix",
+      "name": "Wonder Boy Returns Remix",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wonderful 101, The - Remastered",
+      "fullpath": "nintendo_switch-Wonderful 101, The - Remastered",
+      "name": "Wonderful 101, The - Remastered",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Xenoblade Chronicles - Definitive Edition",
+      "fullpath": "nintendo_switch-Xenoblade Chronicles - Definitive Edition",
+      "name": "Xenoblade Chronicles - Definitive Edition",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ys VIII - Lacrimosa of DANA (USA)",
+      "fullpath": "nintendo_switch-Ys VIII - Lacrimosa of DANA (USA)",
+      "name": "Ys VIII - Lacrimosa of DANA (USA)",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ys VIII - Lacrimosa of DANA (USA)",
+      "fullpath": "nintendo_switch-Ys VIII - Lacrimosa of DANA (USA)",
+      "name": "Ys VIII - Lacrimosa of DANA",
+      "year": "2017",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

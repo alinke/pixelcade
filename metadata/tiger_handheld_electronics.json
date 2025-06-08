@@ -1,0 +1,464 @@
+{
+  "platform": "tiger_handheld_electronics",
+  "totalGames": 50,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "tiger_handheld_electronics game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "tiger_handheld_electronics.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "taddams",
+      "fullpath": "tiger_handheld_electronics-taddams",
+      "name": "taddams",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "taltbeast",
+      "fullpath": "tiger_handheld_electronics-taltbeast",
+      "name": "taltbeast",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tapollo13",
+      "fullpath": "tiger_handheld_electronics-tapollo13",
+      "name": "tapollo13",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tbatfor",
+      "fullpath": "tiger_handheld_electronics-tbatfor",
+      "name": "tbatfor",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tbatman",
+      "fullpath": "tiger_handheld_electronics-tbatman",
+      "name": "tbatman",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tbatmana",
+      "fullpath": "tiger_handheld_electronics-tbatmana",
+      "name": "tbatmana",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tbtoads",
+      "fullpath": "tiger_handheld_electronics-tbtoads",
+      "name": "tbtoads",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tbttf",
+      "fullpath": "tiger_handheld_electronics-tbttf",
+      "name": "tbttf",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tddragon",
+      "fullpath": "tiger_handheld_electronics-tddragon",
+      "name": "tddragon",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tddragon3",
+      "fullpath": "tiger_handheld_electronics-tddragon3",
+      "name": "tddragon3",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tdennis",
+      "fullpath": "tiger_handheld_electronics-tdennis",
+      "name": "tdennis",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tdummies",
+      "fullpath": "tiger_handheld_electronics-tdummies",
+      "name": "tdummies",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tflash",
+      "fullpath": "tiger_handheld_electronics-tflash",
+      "name": "tflash",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tgaiden",
+      "fullpath": "tiger_handheld_electronics-tgaiden",
+      "name": "tgaiden",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tgaunt",
+      "fullpath": "tiger_handheld_electronics-tgaunt",
+      "name": "tgaunt",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tgoldeye",
+      "fullpath": "tiger_handheld_electronics-tgoldeye",
+      "name": "tgoldeye",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tgoldnaxe",
+      "fullpath": "tiger_handheld_electronics-tgoldnaxe",
+      "name": "tgoldnaxe",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "thalone",
+      "fullpath": "tiger_handheld_electronics-thalone",
+      "name": "thalone",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "thalone2",
+      "fullpath": "tiger_handheld_electronics-thalone2",
+      "name": "thalone2",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "thook",
+      "fullpath": "tiger_handheld_electronics-thook",
+      "name": "thook",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tinday",
+      "fullpath": "tiger_handheld_electronics-tinday",
+      "name": "tinday",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tjdredd",
+      "fullpath": "tiger_handheld_electronics-tjdredd",
+      "name": "tjdredd",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tjpark",
+      "fullpath": "tiger_handheld_electronics-tjpark",
+      "name": "tjpark",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tkarnov",
+      "fullpath": "tiger_handheld_electronics-tkarnov",
+      "name": "tkarnov",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tkazaam",
+      "fullpath": "tiger_handheld_electronics-tkazaam",
+      "name": "tkazaam",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tmchammer",
+      "fullpath": "tiger_handheld_electronics-tmchammer",
+      "name": "tmchammer",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tmkombat",
+      "fullpath": "tiger_handheld_electronics-tmkombat",
+      "name": "tmkombat",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tnmarebc",
+      "fullpath": "tiger_handheld_electronics-tnmarebc",
+      "name": "tnmarebc",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "topaliens",
+      "fullpath": "tiger_handheld_electronics-topaliens",
+      "name": "topaliens",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "trobhood",
+      "fullpath": "tiger_handheld_electronics-trobhood",
+      "name": "trobhood",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "trobocop2",
+      "fullpath": "tiger_handheld_electronics-trobocop2",
+      "name": "trobocop2",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "trobocop3",
+      "fullpath": "tiger_handheld_electronics-trobocop3",
+      "name": "trobocop3",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "trockteer",
+      "fullpath": "tiger_handheld_electronics-trockteer",
+      "name": "trockteer",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tsddragon",
+      "fullpath": "tiger_handheld_electronics-tsddragon",
+      "name": "tsddragon",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tsf2010",
+      "fullpath": "tiger_handheld_electronics-tsf2010",
+      "name": "tsf2010",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tsfight2",
+      "fullpath": "tiger_handheld_electronics-tsfight2",
+      "name": "tsfight2",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tshadow",
+      "fullpath": "tiger_handheld_electronics-tshadow",
+      "name": "tshadow",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tsharr2",
+      "fullpath": "tiger_handheld_electronics-tsharr2",
+      "name": "tsharr2",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tsjam",
+      "fullpath": "tiger_handheld_electronics-tsjam",
+      "name": "tsjam",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tskelwarr",
+      "fullpath": "tiger_handheld_electronics-tskelwarr",
+      "name": "tskelwarr",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tsonic",
+      "fullpath": "tiger_handheld_electronics-tsonic",
+      "name": "tsonic",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tsonic2",
+      "fullpath": "tiger_handheld_electronics-tsonic2",
+      "name": "tsonic2",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tspidman",
+      "fullpath": "tiger_handheld_electronics-tspidman",
+      "name": "tspidman",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tstrider",
+      "fullpath": "tiger_handheld_electronics-tstrider",
+      "name": "tstrider",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tswampt",
+      "fullpath": "tiger_handheld_electronics-tswampt",
+      "name": "tswampt",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ttransf2",
+      "fullpath": "tiger_handheld_electronics-ttransf2",
+      "name": "ttransf2",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tvindictr",
+      "fullpath": "tiger_handheld_electronics-tvindictr",
+      "name": "tvindictr",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "twworld",
+      "fullpath": "tiger_handheld_electronics-twworld",
+      "name": "twworld",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "txmen",
+      "fullpath": "tiger_handheld_electronics-txmen",
+      "name": "txmen",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "txmenpx",
+      "fullpath": "tiger_handheld_electronics-txmenpx",
+      "name": "txmenpx",
+      "year": "1994",
+      "publisher": "Tiger",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

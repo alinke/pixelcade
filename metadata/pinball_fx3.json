@@ -1,0 +1,833 @@
+{
+  "platform": "pinball_fx3",
+  "totalGames": 91,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "pinball_fx3 game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "pinball_fx3.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Alien_Isolation",
+      "fullpath": "pinball_fx3-Alien_Isolation",
+      "name": "Alien Isolation",
+      "year": "2016",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Alien_vs_Predator",
+      "fullpath": "pinball_fx3-Alien_vs_Predator",
+      "name": "Alien vs. Predator",
+      "year": "2016",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Aliens",
+      "fullpath": "pinball_fx3-Aliens",
+      "name": "Aliens",
+      "year": "2016",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "AmericanDad",
+      "fullpath": "pinball_fx3-AmericanDad",
+      "name": "American Dad!",
+      "year": "2015",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Amusement_Park",
+      "fullpath": "pinball_fx3-Amusement_Park",
+      "name": "Adventure Land",
+      "year": "2017",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Archer",
+      "fullpath": "pinball_fx3-Archer",
+      "name": "Archer",
+      "year": "2015",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Atlantis",
+      "fullpath": "pinball_fx3-Atlantis",
+      "name": "Secrets of the Deep",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BALLY_Attack_from_Mars",
+      "fullpath": "pinball_fx3-BALLY_Attack_from_Mars",
+      "name": "Attack from Mars",
+      "year": "2019",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BALLY_BlackRose",
+      "fullpath": "pinball_fx3-BALLY_BlackRose",
+      "name": "Black Rose",
+      "year": "2019",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BALLY_Champion_Pub",
+      "fullpath": "pinball_fx3-BALLY_Champion_Pub",
+      "name": "The Champion Pub",
+      "year": "2019",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BALLY_Party_Zone",
+      "fullpath": "pinball_fx3-BALLY_Party_Zone",
+      "name": "The Party Zone",
+      "year": "2019",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BALLY_Safe_Cracker",
+      "fullpath": "pinball_fx3-BALLY_Safe_Cracker",
+      "name": "Safe Cracker",
+      "year": "2019",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BALLY_TheatreOfMagic",
+      "fullpath": "pinball_fx3-BALLY_TheatreOfMagic",
+      "name": "Theatre Of Magic",
+      "year": "2019",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BETHESDA_Doom",
+      "fullpath": "pinball_fx3-BETHESDA_Doom",
+      "name": "DOOM",
+      "year": "2016",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BETHESDA_Fallout",
+      "fullpath": "pinball_fx3-BETHESDA_Fallout",
+      "name": "Fallout",
+      "year": "2016",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BETHESDA_Skyrim",
+      "fullpath": "pinball_fx3-BETHESDA_Skyrim",
+      "name": "The Elder Scrolls V: Skyrim",
+      "year": "2016",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BioLab",
+      "fullpath": "pinball_fx3-BioLab",
+      "name": "Biolab",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BobsBurgers",
+      "fullpath": "pinball_fx3-BobsBurgers",
+      "name": "Bob's Burgers",
+      "year": "2015",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "CastleStorm",
+      "fullpath": "pinball_fx3-CastleStorm",
+      "name": "CastleStorm",
+      "year": "2015",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Citadel",
+      "fullpath": "pinball_fx3-Citadel",
+      "name": "Sorcerer's Lair",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "EarthDefense",
+      "fullpath": "pinball_fx3-EarthDefense",
+      "name": "Earth Defense",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Eldorado",
+      "fullpath": "pinball_fx3-Eldorado",
+      "name": "El Dorado",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Excalibur",
+      "fullpath": "pinball_fx3-Excalibur",
+      "name": "Excalibur",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FamilyGuy",
+      "fullpath": "pinball_fx3-FamilyGuy",
+      "name": "Family Guy",
+      "year": "2015",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hercules",
+      "fullpath": "pinball_fx3-Hercules",
+      "name": "Hercules",
+      "year": "2017",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WMS_Hurricane",
+      "fullpath": "pinball_fx3-WMS_Hurricane",
+      "name": "Hurricane",
+      "year": "2019",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Looter",
+      "fullpath": "pinball_fx3-Looter",
+      "name": "Epic Quest",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mars",
+      "fullpath": "pinball_fx3-Mars",
+      "name": "Mars",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_Age_of_Ultron",
+      "fullpath": "pinball_fx3-MARVEL_Age_of_Ultron",
+      "name": "Marvel - The Avengers Age of Ultron",
+      "year": "2015",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_Ant-Man",
+      "fullpath": "pinball_fx3-MARVEL_Ant-Man",
+      "name": "Marvel - Ant-Man",
+      "year": "2015",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_Avengers",
+      "fullpath": "pinball_fx3-MARVEL_Avengers",
+      "name": "Marvel - The Avengers",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_Blade",
+      "fullpath": "pinball_fx3-MARVEL_Blade",
+      "name": "Marvel - Blade",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_CaptainAmerica",
+      "fullpath": "pinball_fx3-MARVEL_CaptainAmerica",
+      "name": "Marvel - Captain America",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_CivilWar",
+      "fullpath": "pinball_fx3-MARVEL_CivilWar",
+      "name": "Marvel - Civil War",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_Deadpool",
+      "fullpath": "pinball_fx3-MARVEL_Deadpool",
+      "name": "Marvel - Deadpool",
+      "year": "2014",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_DrStrange",
+      "fullpath": "pinball_fx3-MARVEL_DrStrange",
+      "name": "Marvel - Doctor Strange",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_FantasticFour",
+      "fullpath": "pinball_fx3-MARVEL_FantasticFour",
+      "name": "Marvel - Fantastic Four",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_FearItSelf",
+      "fullpath": "pinball_fx3-MARVEL_FearItSelf",
+      "name": "Marvel - Fear Itself",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_GhostRider",
+      "fullpath": "pinball_fx3-MARVEL_GhostRider",
+      "name": "Marvel - Ghost Rider",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_Guardians",
+      "fullpath": "pinball_fx3-MARVEL_Guardians",
+      "name": "Marvel - Guardians of the Galaxy",
+      "year": "2014",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "MARVEL_InfinityGauntlet",
+      "fullpath": "pinball_fx3-MARVEL_InfinityGauntlet",
+      "name": "Marvel - The Infinity Gauntlet",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_IronMan",
+      "fullpath": "pinball_fx3-MARVEL_IronMan",
+      "name": "Marvel - Iron Man",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_MoonKnight",
+      "fullpath": "pinball_fx3-MARVEL_MoonKnight",
+      "name": "Marvel - Moon Knight",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_MsMarvel",
+      "fullpath": "pinball_fx3-MARVEL_MsMarvel",
+      "name": "Marvel - A-Force",
+      "year": "2016",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_SpiderMan",
+      "fullpath": "pinball_fx3-MARVEL_SpiderMan",
+      "name": "Marvel - Spider-Man",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_Thor",
+      "fullpath": "pinball_fx3-MARVEL_Thor",
+      "name": "Marvel - Thor",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_Venom",
+      "fullpath": "pinball_fx3-MARVEL_Venom",
+      "name": "Marvel - Venom",
+      "year": "2014",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_Wolverine",
+      "fullpath": "pinball_fx3-MARVEL_Wolverine",
+      "name": "Marvel - Wolverine",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_WOP_TheNextGeneration",
+      "fullpath": "pinball_fx3-MARVEL_WOP_TheNextGeneration",
+      "name": "Marvel - Champions",
+      "year": "2016",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_WWH",
+      "fullpath": "pinball_fx3-MARVEL_WWH",
+      "name": "Marvel - World War Hulk",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MARVEL_XMen",
+      "fullpath": "pinball_fx3-MARVEL_XMen",
+      "name": "Marvel - X-Men",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Paranormal",
+      "fullpath": "pinball_fx3-Paranormal",
+      "name": "Paranormal",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pasha",
+      "fullpath": "pinball_fx3-Pasha",
+      "name": "Pasha",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Portal",
+      "fullpath": "pinball_fx3-Portal",
+      "name": "Portal",
+      "year": "2015",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WMS_Roadshow",
+      "fullpath": "pinball_fx3-WMS_Roadshow",
+      "name": "Red and Ted's Road Show",
+      "year": "2019",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "RedCup1",
+      "fullpath": "pinball_fx3-RedCup1",
+      "name": "Star Wars - Solo",
+      "year": "2018",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "RedCup2",
+      "fullpath": "pinball_fx3-RedCup2",
+      "name": "Star Wars - Calrissian Chronicles",
+      "year": "2018",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "RedCup3",
+      "fullpath": "pinball_fx3-RedCup3",
+      "name": "Star Wars - Battle of Mimban",
+      "year": "2018",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rome",
+      "fullpath": "pinball_fx3-Rome",
+      "name": "Rome",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shaman",
+      "fullpath": "pinball_fx3-Shaman",
+      "name": "Shaman",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SpaceBear1",
+      "fullpath": "pinball_fx3-SpaceBear1",
+      "name": "Star Wars - The Last Jedi",
+      "year": "2018",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SpaceBear2",
+      "fullpath": "pinball_fx3-SpaceBear2",
+      "name": "Star Wars - Ahch-To Island",
+      "year": "2018",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "STARWARS_AVCO2",
+      "fullpath": "pinball_fx3-STARWARS_AVCO2",
+      "name": "Star Wars - Might of the First Order",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "STARWARS_Boba_Fett",
+      "fullpath": "pinball_fx3-STARWARS_Boba_Fett",
+      "name": "Star Wars - Boba Fett",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "STARWARS_CloneWars",
+      "fullpath": "pinball_fx3-STARWARS_CloneWars",
+      "name": "Star Wars - The Clone Wars",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "STARWARS_Darth_Vader",
+      "fullpath": "pinball_fx3-STARWARS_Darth_Vader",
+      "name": "Star Wars - Darth Vader",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "STARWARS_Droids",
+      "fullpath": "pinball_fx3-STARWARS_Droids",
+      "name": "Star Wars - Droids",
+      "year": "2014",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "STARWARS_Episode_4",
+      "fullpath": "pinball_fx3-STARWARS_Episode_4",
+      "name": "Star Wars - A New Hope",
+      "year": "2014",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "STARWARS_Episode_5",
+      "fullpath": "pinball_fx3-STARWARS_Episode_5",
+      "name": "Star Wars - The Empire Strikes Back",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "STARWARS_Episode_6",
+      "fullpath": "pinball_fx3-STARWARS_Episode_6",
+      "name": "Star Wars - Return of the Jedi",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "STARWARS_Episode7",
+      "fullpath": "pinball_fx3-STARWARS_Episode7",
+      "name": "Star Wars - The Force Awakens",
+      "year": "2016",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "STARWARS_Han_Solo",
+      "fullpath": "pinball_fx3-STARWARS_Han_Solo",
+      "name": "Star Wars - Han Solo",
+      "year": "2014",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "STARWARS_LAPB",
+      "fullpath": "pinball_fx3-STARWARS_LAPB",
+      "name": "Star Wars - Rogue One",
+      "year": "2014",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "STARWARS_Light_VS_Dark",
+      "fullpath": "pinball_fx3-STARWARS_Light_VS_Dark",
+      "name": "Star Wars - Masters of the Force",
+      "year": "2014",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "STARWARS_Rebels",
+      "fullpath": "pinball_fx3-STARWARS_Rebels",
+      "name": "Star Wars - Rebels",
+      "year": "2015",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "STARWARS_SFA",
+      "fullpath": "pinball_fx3-STARWARS_SFA",
+      "name": "Star Wars - Starfighter Assault",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Tesla",
+      "fullpath": "pinball_fx3-Tesla",
+      "name": "Tesla",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "TheWalkingDead",
+      "fullpath": "pinball_fx3-TheWalkingDead",
+      "name": "The Walking Dead",
+      "year": "2014",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "UNIVERSAL_BTTF",
+      "fullpath": "pinball_fx3-UNIVERSAL_BTTF",
+      "name": "Back To The Future",
+      "year": "2017",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "UNIVERSAL_ET",
+      "fullpath": "pinball_fx3-UNIVERSAL_ET",
+      "name": "E.T.",
+      "year": "2017",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "UNIVERSAL_Jaws",
+      "fullpath": "pinball_fx3-UNIVERSAL_Jaws",
+      "name": "Jaws",
+      "year": "2017",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "UNIVERSAL_Jurassic_Park",
+      "fullpath": "pinball_fx3-UNIVERSAL_Jurassic_Park",
+      "name": "Jurassic Park Pinball",
+      "year": "2018",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "UNIVERSAL_Jurassic_Theme_Park",
+      "fullpath": "pinball_fx3-UNIVERSAL_Jurassic_Theme_Park",
+      "name": "Jurassic Park Pinball Mayhem",
+      "year": "2018",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "UNIVERSAL_Jurassic_World",
+      "fullpath": "pinball_fx3-UNIVERSAL_Jurassic_World",
+      "name": "Jurassic World Pinball",
+      "year": "2018",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "V12",
+      "fullpath": "pinball_fx3-V12",
+      "name": "V12",
+      "year": "2013",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Western",
+      "fullpath": "pinball_fx3-Western",
+      "name": "Wild West Rampage",
+      "year": "2015",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WMS_Fish_Tales",
+      "fullpath": "pinball_fx3-WMS_Fish_Tales",
+      "name": "Fish Tales",
+      "year": "2018",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WMS_Getaway",
+      "fullpath": "pinball_fx3-WMS_Getaway",
+      "name": "The Getaway: High Speed II",
+      "year": "2018",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WMS_Junkyard",
+      "fullpath": "pinball_fx3-WMS_Junkyard",
+      "name": "Junk Yard",
+      "year": "2018",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WMS_Medieval_Madness",
+      "fullpath": "pinball_fx3-WMS_Medieval_Madness",
+      "name": "Medieval Madness",
+      "year": "2018",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WMS_White_Water",
+      "fullpath": "pinball_fx3-WMS_White_Water",
+      "name": "White Water",
+      "year": "2019",
+      "publisher": "Microsoft Studios",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    }
+  ]
+}

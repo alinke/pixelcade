@@ -1,0 +1,509 @@
+{
+  "platform": "snk_neo_geo_aes",
+  "totalGames": 55,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "snk_neo_geo_aes game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "snk_neo_geo_aes.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "2020bb",
+      "fullpath": "snk_neo_geo_aes-2020bb",
+      "name": "2020bb",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "3countb",
+      "fullpath": "snk_neo_geo_aes-3countb",
+      "name": "3countb",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "alpham2",
+      "fullpath": "snk_neo_geo_aes-alpham2",
+      "name": "alpham2",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "androdun",
+      "fullpath": "snk_neo_geo_aes-androdun",
+      "name": "androdun",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aodk",
+      "fullpath": "snk_neo_geo_aes-aodk",
+      "name": "aodk",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aof",
+      "fullpath": "snk_neo_geo_aes-aof",
+      "name": "aof",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aof2",
+      "fullpath": "snk_neo_geo_aes-aof2",
+      "name": "aof2",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aof3",
+      "fullpath": "snk_neo_geo_aes-aof3",
+      "name": "aof3",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bangbead",
+      "fullpath": "snk_neo_geo_aes-bangbead",
+      "name": "bangbead",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bjourney",
+      "fullpath": "snk_neo_geo_aes-bjourney",
+      "name": "bjourney",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "blazstar",
+      "fullpath": "snk_neo_geo_aes-blazstar",
+      "name": "blazstar",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "breakers",
+      "fullpath": "snk_neo_geo_aes-breakers",
+      "name": "breakers",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "breakrev",
+      "fullpath": "snk_neo_geo_aes-breakrev",
+      "name": "breakrev",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bstars",
+      "fullpath": "snk_neo_geo_aes-bstars",
+      "name": "bstars",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bstars2",
+      "fullpath": "snk_neo_geo_aes-bstars2",
+      "name": "bstars2",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "burningf",
+      "fullpath": "snk_neo_geo_aes-burningf",
+      "name": "burningf",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "crsword",
+      "fullpath": "snk_neo_geo_aes-crsword",
+      "name": "crsword",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ctomaday",
+      "fullpath": "snk_neo_geo_aes-ctomaday",
+      "name": "ctomaday",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "cyberlip",
+      "fullpath": "snk_neo_geo_aes-cyberlip",
+      "name": "cyberlip",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "doubledr",
+      "fullpath": "snk_neo_geo_aes-doubledr",
+      "name": "doubledr",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "eightman",
+      "fullpath": "snk_neo_geo_aes-eightman",
+      "name": "eightman",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fatfursp",
+      "fullpath": "snk_neo_geo_aes-fatfursp",
+      "name": "fatfursp",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fatfury1",
+      "fullpath": "snk_neo_geo_aes-fatfury1",
+      "name": "fatfury1",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fatfury2",
+      "fullpath": "snk_neo_geo_aes-fatfury2",
+      "name": "fatfury2",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fatfury3",
+      "fullpath": "snk_neo_geo_aes-fatfury3",
+      "name": "fatfury3",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fbfrenzy",
+      "fullpath": "snk_neo_geo_aes-fbfrenzy",
+      "name": "fbfrenzy",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fightfev",
+      "fullpath": "snk_neo_geo_aes-fightfev",
+      "name": "fightfev",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "flipshot",
+      "fullpath": "snk_neo_geo_aes-flipshot",
+      "name": "flipshot",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "galaxyfg",
+      "fullpath": "snk_neo_geo_aes-galaxyfg",
+      "name": "galaxyfg",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ganryu",
+      "fullpath": "snk_neo_geo_aes-ganryu",
+      "name": "ganryu",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "garou",
+      "fullpath": "snk_neo_geo_aes-garou",
+      "name": "garou",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ghostlop",
+      "fullpath": "snk_neo_geo_aes-ghostlop",
+      "name": "ghostlop",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "goalx3",
+      "fullpath": "snk_neo_geo_aes-goalx3",
+      "name": "goalx3",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gowcaizr",
+      "fullpath": "snk_neo_geo_aes-gowcaizr",
+      "name": "gowcaizr",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gpilots",
+      "fullpath": "snk_neo_geo_aes-gpilots",
+      "name": "gpilots",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gururin",
+      "fullpath": "snk_neo_geo_aes-gururin",
+      "name": "gururin",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "irrmaze",
+      "fullpath": "snk_neo_geo_aes-irrmaze",
+      "name": "irrmaze",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "joyjoy",
+      "fullpath": "snk_neo_geo_aes-joyjoy",
+      "name": "joyjoy",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kabukikl",
+      "fullpath": "snk_neo_geo_aes-kabukikl",
+      "name": "kabukikl",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "karnovr",
+      "fullpath": "snk_neo_geo_aes-karnovr",
+      "name": "karnovr",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kizuna",
+      "fullpath": "snk_neo_geo_aes-kizuna",
+      "name": "kizuna",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof2000",
+      "fullpath": "snk_neo_geo_aes-kof2000",
+      "name": "kof2000",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof2001",
+      "fullpath": "snk_neo_geo_aes-kof2001",
+      "name": "kof2001",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof2002",
+      "fullpath": "snk_neo_geo_aes-kof2002",
+      "name": "kof2002",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof2003",
+      "fullpath": "snk_neo_geo_aes-kof2003",
+      "name": "kof2003",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof94",
+      "fullpath": "snk_neo_geo_aes-kof94",
+      "name": "kof94",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof95",
+      "fullpath": "snk_neo_geo_aes-kof95",
+      "name": "kof95",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof96",
+      "fullpath": "snk_neo_geo_aes-kof96",
+      "name": "kof96",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof97",
+      "fullpath": "snk_neo_geo_aes-kof97",
+      "name": "kof97",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof98",
+      "fullpath": "snk_neo_geo_aes-kof98",
+      "name": "kof98",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof99",
+      "fullpath": "snk_neo_geo_aes-kof99",
+      "name": "kof99",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kotm",
+      "fullpath": "snk_neo_geo_aes-kotm",
+      "name": "kotm",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kotm2",
+      "fullpath": "snk_neo_geo_aes-kotm2",
+      "name": "kotm2",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lastblad",
+      "fullpath": "snk_neo_geo_aes-lastblad",
+      "name": "lastblad",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lastbld2",
+      "fullpath": "snk_neo_geo_aes-lastbld2",
+      "name": "lastbld2",
+      "year": "1990",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

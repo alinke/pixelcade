@@ -1,0 +1,554 @@
+{
+  "platform": "atari7800",
+  "totalGames": 60,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "atari7800 game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "atari7800.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "32 in 1 (USA)",
+      "fullpath": "atari7800-32 in 1 (USA)",
+      "name": "32 in 1 ",
+      "year": "1988",
+      "publisher": "Atari",
+      "genre": "Compilation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ace of Aces (USA)",
+      "fullpath": "atari7800-Ace of Aces (USA)",
+      "name": "Ace of Aces ",
+      "year": "1988",
+      "publisher": "Artech",
+      "genre": "Flying",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Alien Brigade (USA)",
+      "fullpath": "atari7800-Alien Brigade (USA)",
+      "name": "Alien Brigade ",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Asteroids (USA)",
+      "fullpath": "atari7800-Asteroids (USA)",
+      "name": "Asteroids ",
+      "year": "1987",
+      "publisher": "Atari",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ballblazer (USA)",
+      "fullpath": "atari7800-Ballblazer (USA)",
+      "name": "Ballblazer ",
+      "year": "1987",
+      "publisher": "Lucasfilm Games",
+      "genre": "Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Barnyard Blaster (USA)",
+      "fullpath": "atari7800-Barnyard Blaster (USA)",
+      "name": "Barnyard Blaster ",
+      "year": "1988",
+      "publisher": "Atari",
+      "genre": "Gun",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Basketbrawl (USA)",
+      "fullpath": "atari7800-Basketbrawl (USA)",
+      "name": "Basketbrawl ",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Sports/Basketball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Centipede (USA)",
+      "fullpath": "atari7800-Centipede (USA)",
+      "name": "Centipede ",
+      "year": "1987",
+      "publisher": "Atari",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Choplifter! (USA)",
+      "fullpath": "atari7800-Choplifter! (USA)",
+      "name": "Choplifter! ",
+      "year": "1988",
+      "publisher": "Broderbund Software",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Commando (USA)",
+      "fullpath": "atari7800-Commando (USA)",
+      "name": "Commando ",
+      "year": "1989",
+      "publisher": "Capcom",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Crack'ed (USA)",
+      "fullpath": "atari7800-Crack'ed (USA)",
+      "name": "Crack'ed ",
+      "year": "1988",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Crossbow (USA)",
+      "fullpath": "atari7800-Crossbow (USA)",
+      "name": "Crossbow ",
+      "year": "1987",
+      "publisher": "Exidy",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dark Chambers (USA)",
+      "fullpath": "atari7800-Dark Chambers (USA)",
+      "name": "Dark Chambers ",
+      "year": "1988",
+      "publisher": "Atari",
+      "genre": "Maze",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Desert Falcon (USA)",
+      "fullpath": "atari7800-Desert Falcon (USA)",
+      "name": "Desert Falcon ",
+      "year": "1987",
+      "publisher": "Atari",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dig Dug (USA)",
+      "fullpath": "atari7800-Dig Dug (USA)",
+      "name": "Dig Dug ",
+      "year": "1987",
+      "publisher": "Namco",
+      "genre": "Maze",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Donkey Kong (USA)",
+      "fullpath": "atari7800-Donkey Kong (USA)",
+      "name": "Donkey Kong ",
+      "year": "1988",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Donkey Kong Junior (USA)",
+      "fullpath": "atari7800-Donkey Kong Junior (USA)",
+      "name": "Donkey Kong Junior ",
+      "year": "1988",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Double Dragon (USA)",
+      "fullpath": "atari7800-Double Dragon (USA)",
+      "name": "Double Dragon ",
+      "year": "1989",
+      "publisher": "Technos",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "F-18 Hornet (USA)",
+      "fullpath": "atari7800-F-18 Hornet (USA)",
+      "name": "F-18 Hornet ",
+      "year": "1988",
+      "publisher": "Absolute Entertainment",
+      "genre": "Flying",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fatal Run (USA)",
+      "fullpath": "atari7800-Fatal Run (USA)",
+      "name": "Fatal Run ",
+      "year": "1990",
+      "publisher": "Sculptured Software",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fight Night (USA)",
+      "fullpath": "atari7800-Fight Night (USA)",
+      "name": "Fight Night ",
+      "year": "1988",
+      "publisher": "Sydney Development",
+      "genre": "Sports/Boxing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Food Fight (USA)",
+      "fullpath": "atari7800-Food Fight (USA)",
+      "name": "Food Fight ",
+      "year": "1987",
+      "publisher": "Atari",
+      "genre": "Fighter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Galaga (USA)",
+      "fullpath": "atari7800-Galaga (USA)",
+      "name": "Galaga ",
+      "year": "1987",
+      "publisher": "Namco",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Hat Trick (USA)",
+      "fullpath": "atari7800-Hat Trick (USA)",
+      "name": "Hat Trick ",
+      "year": "1987",
+      "publisher": "Bally Sente",
+      "genre": "Sports/Hockey",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ikari Warriors (USA)",
+      "fullpath": "atari7800-Ikari Warriors (USA)",
+      "name": "Ikari Warriors ",
+      "year": "1989",
+      "publisher": "SNK",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Impossible Mission (USA)",
+      "fullpath": "atari7800-Impossible Mission (USA)",
+      "name": "Impossible Mission ",
+      "year": "1987",
+      "publisher": "Epyx",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jinks (USA)",
+      "fullpath": "atari7800-Jinks (USA)",
+      "name": "Jinks ",
+      "year": "1989",
+      "publisher": "Diamond Software",
+      "genre": "Breakout",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Joust (USA)",
+      "fullpath": "atari7800-Joust (USA)",
+      "name": "Joust ",
+      "year": "1987",
+      "publisher": "Williams Electronics",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Karateka (USA)",
+      "fullpath": "atari7800-Karateka (USA)",
+      "name": "Karateka ",
+      "year": "1987",
+      "publisher": "Broderbund Software",
+      "genre": "Fighter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Klax (USA) (Proto)",
+      "fullpath": "atari7800-Klax (USA) (Proto)",
+      "name": "Klax ",
+      "year": "1992",
+      "publisher": "Atari",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Kung-Fu Master (USA)",
+      "fullpath": "atari7800-Kung-Fu Master (USA)",
+      "name": "Kung-Fu Master ",
+      "year": "1989",
+      "publisher": "Irem",
+      "genre": "Fighter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mario Bros. (USA)",
+      "fullpath": "atari7800-Mario Bros. (USA)",
+      "name": "Mario Bros. ",
+      "year": "1988",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mat Mania Challenge (USA)",
+      "fullpath": "atari7800-Mat Mania Challenge (USA)",
+      "name": "Mat Mania Challenge ",
+      "year": "1990",
+      "publisher": "American Technos",
+      "genre": "Sports/Wrestling",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mean 18 Ultimate Golf (USA)",
+      "fullpath": "atari7800-Mean 18 Ultimate Golf (USA)",
+      "name": "Mean 18 Ultimate Golf ",
+      "year": "1989",
+      "publisher": "Accolade",
+      "genre": "Sports/Golf",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Meltdown (USA)",
+      "fullpath": "atari7800-Meltdown (USA)",
+      "name": "Meltdown ",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Midnight Mutants (USA)",
+      "fullpath": "atari7800-Midnight Mutants (USA)",
+      "name": "Midnight Mutants ",
+      "year": "1990",
+      "publisher": "Radioactive Software",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Motor Psycho (USA)",
+      "fullpath": "atari7800-Motor Psycho (USA)",
+      "name": "Motor Psycho ",
+      "year": "1990",
+      "publisher": "BlueSky Software",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ms. Pac-Man (USA)",
+      "fullpath": "atari7800-Ms. Pac-Man (USA)",
+      "name": "Ms. Pac-Man ",
+      "year": "1987",
+      "publisher": "General Computer Corporation, Midway",
+      "genre": "Maze",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ninja Golf (USA)",
+      "fullpath": "atari7800-Ninja Golf (USA)",
+      "name": "Ninja Golf ",
+      "year": "1990",
+      "publisher": "BlueSky Software",
+      "genre": "Sports/Golf",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "One-on-One Basketball (USA)",
+      "fullpath": "atari7800-One-on-One Basketball (USA)",
+      "name": "One-on-One Basketball ",
+      "year": "1987",
+      "publisher": "Atari",
+      "genre": "Sports/Basketball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pete Rose Baseball (USA)",
+      "fullpath": "atari7800-Pete Rose Baseball (USA)",
+      "name": "Pete Rose Baseball ",
+      "year": "1989",
+      "publisher": "Absolute Entertainment",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Planet Smashers (USA)",
+      "fullpath": "atari7800-Planet Smashers (USA)",
+      "name": "Planet Smashers ",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pole Position II (USA)",
+      "fullpath": "atari7800-Pole Position II (USA)",
+      "name": "Pole Position II ",
+      "year": "1987",
+      "publisher": "Namco",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rampage (USA)",
+      "fullpath": "atari7800-Rampage (USA)",
+      "name": "Rampage ",
+      "year": "1989",
+      "publisher": "Bally Midway",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "RealSports Baseball (USA)",
+      "fullpath": "atari7800-RealSports Baseball (USA)",
+      "name": "RealSports Baseball ",
+      "year": "1988",
+      "publisher": "Atari",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Robotron - 2084 (USA)",
+      "fullpath": "atari7800-Robotron - 2084 (USA)",
+      "name": "Robotron - 2084 ",
+      "year": "1986",
+      "publisher": "Williams Electronic Games",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Scrapyard Dog (USA)",
+      "fullpath": "atari7800-Scrapyard Dog (USA)",
+      "name": "Scrapyard Dog ",
+      "year": "1990",
+      "publisher": "BlueSky Software",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sentinel (Europe)",
+      "fullpath": "atari7800-Sentinel (Europe)",
+      "name": "Sentinel ",
+      "year": "1991",
+      "publisher": "Atari",
+      "genre": "Gun",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Summer Games (USA)",
+      "fullpath": "atari7800-Summer Games (USA)",
+      "name": "Summer Games ",
+      "year": "1987",
+      "publisher": "Epyx",
+      "genre": "Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Huey UH-1X (USA)",
+      "fullpath": "atari7800-Super Huey UH-1X (USA)",
+      "name": "Super Huey UH-1X ",
+      "year": "1988",
+      "publisher": "Cosmi",
+      "genre": "Flying",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Skateboardin' (USA)",
+      "fullpath": "atari7800-Super Skateboardin' (USA)",
+      "name": "Super Skateboardin\\' ",
+      "year": "1988",
+      "publisher": "Absolute Entertainment",
+      "genre": "Sports/Skateboarding",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tank Command (USA)",
+      "fullpath": "atari7800-Tank Command (USA)",
+      "name": "Tank Command ",
+      "year": "1988",
+      "publisher": "Froggo Games",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Title Match Pro Wrestling (USA)",
+      "fullpath": "atari7800-Title Match Pro Wrestling (USA)",
+      "name": "Title Match Pro Wrestling ",
+      "year": "1989",
+      "publisher": "Absolute Entertainment",
+      "genre": "Sports/Wrestling",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tomcat - The F-14 Fighter Simulator (USA)",
+      "fullpath": "atari7800-Tomcat - The F-14 Fighter Simulator (USA)",
+      "name": "Tomcat - The F-14 Fighter Simulator ",
+      "year": "1989",
+      "publisher": "Absolute Entertainment",
+      "genre": "Flying",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Touchdown Football (USA)",
+      "fullpath": "atari7800-Touchdown Football (USA)",
+      "name": "Touchdown Football ",
+      "year": "1988",
+      "publisher": "Imagic",
+      "genre": "Sports/Football",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tower Toppler (USA)",
+      "fullpath": "atari7800-Tower Toppler (USA)",
+      "name": "Tower Toppler ",
+      "year": "1988",
+      "publisher": "Hewson",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Water Ski (USA)",
+      "fullpath": "atari7800-Water Ski (USA)",
+      "name": "Water Ski ",
+      "year": "1988",
+      "publisher": "Froggo Games",
+      "genre": "Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Winter Games (USA)",
+      "fullpath": "atari7800-Winter Games (USA)",
+      "name": "Winter Games ",
+      "year": "1987",
+      "publisher": "Action Graphics",
+      "genre": "Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Xenophobe (USA)",
+      "fullpath": "atari7800-Xenophobe (USA)",
+      "name": "Xenophobe ",
+      "year": "1989",
+      "publisher": "Bally Midway",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Xevious (USA)",
+      "fullpath": "atari7800-Xevious (USA)",
+      "name": "Xevious ",
+      "year": "1988",
+      "publisher": "Namco",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    }
+  ]
+}

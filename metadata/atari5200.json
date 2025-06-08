@@ -1,0 +1,851 @@
+{
+  "platform": "atari5200",
+  "totalGames": 93,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "atari5200 game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "atari5200.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "A.E. (USA) (Proto)",
+      "fullpath": "atari5200-A.E. (USA) (Proto)",
+      "name": "A.E. ",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Activision Decathlon, The (USA)",
+      "fullpath": "atari5200-Activision Decathlon, The (USA)",
+      "name": "Activision Decathlon, The ",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Sports/Olympic",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Asteroids (USA) (Proto)",
+      "fullpath": "atari5200-Asteroids (USA) (Proto)",
+      "name": "Asteroids ",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Astro Chase (USA)",
+      "fullpath": "atari5200-Astro Chase (USA)",
+      "name": "Astro Chase ",
+      "year": "1983",
+      "publisher": "Parker Brothers",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ballblazer (USA)",
+      "fullpath": "atari5200-Ballblazer (USA)",
+      "name": "Ballblazer ",
+      "year": "1986",
+      "publisher": "Atari",
+      "genre": "Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Beamrider (USA)",
+      "fullpath": "atari5200-Beamrider (USA)",
+      "name": "Beamrider ",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "BerZerk (USA)",
+      "fullpath": "atari5200-BerZerk (USA)",
+      "name": "BerZerk ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Blaster (USA) (Proto)",
+      "fullpath": "atari5200-Blaster (USA) (Proto)",
+      "name": "Blaster ",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Blue Print (USA)",
+      "fullpath": "atari5200-Blue Print (USA)",
+      "name": "Blue Print ",
+      "year": "1983",
+      "publisher": "CBS Electronics",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Bounty Bob Strikes Back! (USA)",
+      "fullpath": "atari5200-Bounty Bob Strikes Back! (USA)",
+      "name": "Bounty Bob Strikes Back! ",
+      "year": "1984",
+      "publisher": "Big Five Software",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Buck Rogers - Planet of Zoom (USA)",
+      "fullpath": "atari5200-Buck Rogers - Planet of Zoom (USA)",
+      "name": "Buck Rogers - Planet of Zoom ",
+      "year": "1983",
+      "publisher": "CBS Electronics",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Carol Shaw's River Raid (USA)",
+      "fullpath": "atari5200-Carol Shaw's River Raid (USA)",
+      "name": "Carol Shaw's River Raid ",
+      "year": "1983",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Castle Blast (USA) (Unl)",
+      "fullpath": "atari5200-Castle Blast (USA) (Unl)",
+      "name": "Castle Blast ",
+      "year": "2002",
+      "publisher": "Self-Published",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Castle Crisis (USA) (Unl)",
+      "fullpath": "atari5200-Castle Crisis (USA) (Unl)",
+      "name": "Castle Crisis ",
+      "year": "2004",
+      "publisher": "Self-Published",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Centipede (USA)",
+      "fullpath": "atari5200-Centipede (USA)",
+      "name": "Centipede ",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Choplifter! (USA)",
+      "fullpath": "atari5200-Choplifter! (USA)",
+      "name": "Choplifter! ",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Congo Bongo (USA)",
+      "fullpath": "atari5200-Congo Bongo (USA)",
+      "name": "Congo Bongo ",
+      "year": "1984",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Countermeasure (USA)",
+      "fullpath": "atari5200-Countermeasure (USA)",
+      "name": "Countermeasure ",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "David Crane's Pitfall II - Lost Caverns (USA)",
+      "fullpath": "atari5200-David Crane's Pitfall II - Lost Caverns (USA)",
+      "name": "David Crane's Pitfall II - Lost Caverns ",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Defender (USA)",
+      "fullpath": "atari5200-Defender (USA)",
+      "name": "Defender ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dig Dug (USA)",
+      "fullpath": "atari5200-Dig Dug (USA)",
+      "name": "Dig Dug ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dreadnaught Factor, The (USA)",
+      "fullpath": "atari5200-Dreadnaught Factor, The (USA)",
+      "name": "Dreadnaught Factor, The ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Final Legacy (USA) (Proto)",
+      "fullpath": "atari5200-Final Legacy (USA) (Proto)",
+      "name": "Final Legacy ",
+      "year": "1984",
+      "publisher": "CBS Electronics",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Frisky Tom (USA) (Proto)",
+      "fullpath": "atari5200-Frisky Tom (USA) (Proto)",
+      "name": "Frisky Tom ",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Maze",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Frogger (USA)",
+      "fullpath": "atari5200-Frogger (USA)",
+      "name": "Frogger ",
+      "year": "1983",
+      "publisher": "Parker Brothers",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Frogger II - Threeedeep! (USA)",
+      "fullpath": "atari5200-Frogger II - Threeedeep! (USA)",
+      "name": "Frogger II - Threeedeep! ",
+      "year": "1983",
+      "publisher": "Parker Bros",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Galaxian (USA)",
+      "fullpath": "atari5200-Galaxian (USA)",
+      "name": "Galaxian ",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Gorf (USA)",
+      "fullpath": "atari5200-Gorf (USA)",
+      "name": "Gorf ",
+      "year": "1983",
+      "publisher": "CBS Electronics",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Gremlins (USA)",
+      "fullpath": "atari5200-Gremlins (USA)",
+      "name": "Gremlins ",
+      "year": "1987",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Gyruss (USA)",
+      "fullpath": "atari5200-Gyruss (USA)",
+      "name": "Gyruss ",
+      "year": "1984",
+      "publisher": "Parker Bros",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "H.E.R.O. (USA)",
+      "fullpath": "atari5200-H.E.R.O. (USA)",
+      "name": "H.E.R.O. ",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "James Bond 007 (USA)",
+      "fullpath": "atari5200-James Bond 007 (USA)",
+      "name": "James Bond 007 ",
+      "year": "1984",
+      "publisher": "Parker Bros",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Joust (USA)",
+      "fullpath": "atari5200-Joust (USA)",
+      "name": "Joust ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jr. Pac-Man (USA) (Proto)",
+      "fullpath": "atari5200-Jr. Pac-Man (USA) (Proto)",
+      "name": "Jr. Pac-Man ",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Maze",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jungle Hunt (USA)",
+      "fullpath": "atari5200-Jungle Hunt (USA)",
+      "name": "Jungle Hunt ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "K-Razy Shoot-Out (USA)",
+      "fullpath": "atari5200-K-Razy Shoot-Out (USA)",
+      "name": "K-Razy Shoot-Out ",
+      "year": "1983",
+      "publisher": "CBS Electronics",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Kaboom! (USA)",
+      "fullpath": "atari5200-Kaboom! (USA)",
+      "name": "Kaboom! ",
+      "year": "1983",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Kangaroo (USA)",
+      "fullpath": "atari5200-Kangaroo (USA)",
+      "name": "Kangaroo ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Keystone Kapers (USA)",
+      "fullpath": "atari5200-Keystone Kapers (USA)",
+      "name": "Keystone Kapers ",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Koffi - Yellow Kopter (USA) (Unl)",
+      "fullpath": "atari5200-Koffi - Yellow Kopter (USA) (Unl)",
+      "name": "Koffi - Yellow Kopter ",
+      "year": "2002",
+      "publisher": "Ron W. Lloyd",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Last Starfighter, The (USA) (Proto)",
+      "fullpath": "atari5200-Last Starfighter, The (USA) (Proto)",
+      "name": "Last Starfighter, The ",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mario Bros. (USA)",
+      "fullpath": "atari5200-Mario Bros. (USA)",
+      "name": "Mario Bros. ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "MegaMania (USA)",
+      "fullpath": "atari5200-MegaMania (USA)",
+      "name": "MegaMania ",
+      "year": "1983",
+      "publisher": "Activision",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Meteorites (USA)",
+      "fullpath": "atari5200-Meteorites (USA)",
+      "name": "Meteorites ",
+      "year": "1984",
+      "publisher": "Electra",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Microgammon SB (USA) (Proto)",
+      "fullpath": "atari5200-Microgammon SB (USA) (Proto)",
+      "name": "Microgammon SB ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Board Games",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Miner 2049er Starring Bounty Bob (USA)",
+      "fullpath": "atari5200-Miner 2049er Starring Bounty Bob (USA)",
+      "name": "Miner 2049er Starring Bounty Bob ",
+      "year": "1983",
+      "publisher": "Big Five Software",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Millipede (USA) (Proto)",
+      "fullpath": "atari5200-Millipede (USA) (Proto)",
+      "name": "Millipede ",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Miniature Golf (USA) (Proto)",
+      "fullpath": "atari5200-Miniature Golf (USA) (Proto)",
+      "name": "Miniature Golf ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Sports/Golf",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Missile Command (USA)",
+      "fullpath": "atari5200-Missile Command (USA)",
+      "name": "Missile Command ",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Montezuma's Revenge featuring Panama Joe (USA)",
+      "fullpath": "atari5200-Montezuma's Revenge featuring Panama Joe (USA)",
+      "name": "Montezuma's Revenge featuring Panama Joe ",
+      "year": "1983",
+      "publisher": "Parker Bros",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Moon Patrol (USA)",
+      "fullpath": "atari5200-Moon Patrol (USA)",
+      "name": "Moon Patrol ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mountain King (USA)",
+      "fullpath": "atari5200-Mountain King (USA)",
+      "name": "Mountain King ",
+      "year": "1984",
+      "publisher": "CBS Electronics",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mr. Do!'s Castle (USA)",
+      "fullpath": "atari5200-Mr. Do!'s Castle (USA)",
+      "name": "Mr. Do!'s Castle ",
+      "year": "1984",
+      "publisher": "Parker Bros",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ms. Pac-Man (USA)",
+      "fullpath": "atari5200-Ms. Pac-Man (USA)",
+      "name": "Ms. Pac-Man ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pac-Man (USA)",
+      "fullpath": "atari5200-Pac-Man (USA)",
+      "name": "Pac-Man ",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pengo (USA)",
+      "fullpath": "atari5200-Pengo (USA)",
+      "name": "Pengo ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pitfall! (USA)",
+      "fullpath": "atari5200-Pitfall! (USA)",
+      "name": "Pitfall! ",
+      "year": "1983",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pole Position (USA)",
+      "fullpath": "atari5200-Pole Position (USA)",
+      "name": "Pole Position ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Popeye (USA)",
+      "fullpath": "atari5200-Popeye (USA)",
+      "name": "Popeye ",
+      "year": "1983",
+      "publisher": "Parker Bros",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Q-bert (USA)",
+      "fullpath": "atari5200-Q-bert (USA)",
+      "name": "Q-bert ",
+      "year": "1983",
+      "publisher": "Parker Brothers",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Qix (USA)",
+      "fullpath": "atari5200-Qix (USA)",
+      "name": "Qix ",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Quest for Quintana Roo (USA)",
+      "fullpath": "atari5200-Quest for Quintana Roo (USA)",
+      "name": "Quest for Quintana Roo ",
+      "year": "1984",
+      "publisher": "Sunrise Software Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "RealSports Baseball (USA)",
+      "fullpath": "atari5200-RealSports Baseball (USA)",
+      "name": "RealSports Baseball ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "RealSports Basketball (USA) (Proto)",
+      "fullpath": "atari5200-RealSports Basketball (USA) (Proto)",
+      "name": "RealSports Basketball ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Sports/Basketball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "RealSports Football (USA)",
+      "fullpath": "atari5200-RealSports Football (USA)",
+      "name": "RealSports Football ",
+      "year": "1983",
+      "publisher": "Midway",
+      "genre": "Sports/Football",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "RealSports Soccer (USA)",
+      "fullpath": "atari5200-RealSports Soccer (USA)",
+      "name": "RealSports Soccer ",
+      "year": "1983",
+      "publisher": "Midway",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "RealSports Tennis (USA)",
+      "fullpath": "atari5200-RealSports Tennis (USA)",
+      "name": "RealSports Tennis ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Sports/Tennis",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rescue on Fractalus! (USA)",
+      "fullpath": "atari5200-Rescue on Fractalus! (USA)",
+      "name": "Rescue on Fractalus! ",
+      "year": "1986",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Robotron 2084 (USA)",
+      "fullpath": "atari5200-Robotron 2084 (USA)",
+      "name": "Robotron 2084 ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Space Dungeon (USA)",
+      "fullpath": "atari5200-Space Dungeon (USA)",
+      "name": "Space Dungeon ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Space Invaders (USA)",
+      "fullpath": "atari5200-Space Invaders (USA)",
+      "name": "Space Invaders ",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Space Shuttle - A Journey Into Space (USA)",
+      "fullpath": "atari5200-Space Shuttle - A Journey Into Space (USA)",
+      "name": "Space Shuttle - A Journey Into Space ",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sport Goofy (USA) (Proto)",
+      "fullpath": "atari5200-Sport Goofy (USA) (Proto)",
+      "name": "Sport Goofy ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Sport",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Star Raiders (USA)",
+      "fullpath": "atari5200-Star Raiders (USA)",
+      "name": "Star Raiders ",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Star Trek - Strategic Operations Simulator (USA)",
+      "fullpath": "atari5200-Star Trek - Strategic Operations Simulator (USA)",
+      "name": "Star Trek - Strategic Operations Simulator ",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Star Wars - Return of the Jedi - Death Star Battle (USA)",
+      "fullpath": "atari5200-Star Wars - Return of the Jedi - Death Star Battle (USA)",
+      "name": "Star Wars - Return of the Jedi - Death Star Battle ",
+      "year": "1983",
+      "publisher": "Parker Bros",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Star Wars - The Arcade Game (USA)",
+      "fullpath": "atari5200-Star Wars - The Arcade Game (USA)",
+      "name": "Star Wars - The Arcade Game ",
+      "year": "1983",
+      "publisher": "Parker Bros",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Breakout (USA)",
+      "fullpath": "atari5200-Super Breakout (USA)",
+      "name": "Super Breakout ",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Cobra (USA)",
+      "fullpath": "atari5200-Super Cobra (USA)",
+      "name": "Super Cobra ",
+      "year": "1983",
+      "publisher": "Parker Bros",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Pac-Man (USA) (Proto)",
+      "fullpath": "atari5200-Super Pac-Man (USA) (Proto)",
+      "name": "Super Pac-Man ",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Maze",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "testred",
+      "fullpath": "atari5200-testred",
+      "name": "Red Test",
+      "year": "2021",
+      "publisher": "Pixelcade",
+      "genre": "Test",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "testgreen",
+      "fullpath": "atari5200-testgreen",
+      "name": "Green Test",
+      "year": "2021",
+      "publisher": "Pixelcade",
+      "genre": "Test",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "testblue",
+      "fullpath": "atari5200-testblue",
+      "name": "Blue Test",
+      "year": "2021",
+      "publisher": "Pixelcade",
+      "genre": "Test",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "testblack",
+      "fullpath": "atari5200-testblack",
+      "name": "Black Test",
+      "year": "2021",
+      "publisher": "Pixelcade",
+      "genre": "Test",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "testwhite",
+      "fullpath": "atari5200-testwhite",
+      "name": "White Test",
+      "year": "2021",
+      "publisher": "Pixelcade",
+      "genre": "Test",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Track and Field (USA) (Proto)",
+      "fullpath": "atari5200-Track and Field (USA) (Proto)",
+      "name": "Track and Field ",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Vanguard (USA)",
+      "fullpath": "atari5200-Vanguard (USA)",
+      "name": "Vanguard ",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wizard of Wor (USA)",
+      "fullpath": "atari5200-Wizard of Wor (USA)",
+      "name": "Wizard of Wor ",
+      "year": "1981",
+      "publisher": "CBS Electronics",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Xari Arena (USA) (Proto)",
+      "fullpath": "atari5200-Xari Arena (USA) (Proto)",
+      "name": "Xari Arena ",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Xevious (USA) (Proto)",
+      "fullpath": "atari5200-Xevious (USA) (Proto)",
+      "name": "Xevious ",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Zaxxon (USA)",
+      "fullpath": "atari5200-Zaxxon (USA)",
+      "name": "Zaxxon ",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Zenji (USA)",
+      "fullpath": "atari5200-Zenji (USA)",
+      "name": "Zenji ",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Zone Ranger (USA)",
+      "fullpath": "atari5200-Zone Ranger (USA)",
+      "name": "Zone Ranger ",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    }
+  ]
+}

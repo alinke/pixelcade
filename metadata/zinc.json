@@ -1,0 +1,374 @@
+{
+  "platform": "zinc",
+  "totalGames": 40,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "zinc game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "zinc.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "aquarush",
+      "fullpath": "zinc-aquarush",
+      "name": "aquarush",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "beastrzr",
+      "fullpath": "zinc-beastrzr",
+      "name": "beastrzr",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "bldyror2",
+      "fullpath": "zinc-bldyror2",
+      "name": "bldyror2",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "brvblade",
+      "fullpath": "zinc-brvblade",
+      "name": "brvblade",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "cbaj",
+      "fullpath": "zinc-cbaj",
+      "name": "cbaj",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "danceyes",
+      "fullpath": "zinc-danceyes",
+      "name": "danceyes",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "doapp",
+      "fullpath": "zinc-doapp",
+      "name": "doapp",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "dunkmnia",
+      "fullpath": "zinc-dunkmnia",
+      "name": "dunkmnia",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "ehrgeiz",
+      "fullpath": "zinc-ehrgeiz",
+      "name": "ehrgeiz",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "fgtlayer",
+      "fullpath": "zinc-fgtlayer",
+      "name": "fgtlayer",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "ftimpcta",
+      "fullpath": "zinc-ftimpcta",
+      "name": "ftimpcta",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "gdarius",
+      "fullpath": "zinc-gdarius",
+      "name": "gdarius",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "glpracr3",
+      "fullpath": "zinc-glpracr3",
+      "name": "glpracr3",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "hvnsgate",
+      "fullpath": "zinc-hvnsgate",
+      "name": "hvnsgate",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "hyperath",
+      "fullpath": "zinc-hyperath",
+      "name": "hyperath",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "mfjump",
+      "fullpath": "zinc-mfjump",
+      "name": "mfjump",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "mgcldtex",
+      "fullpath": "zinc-mgcldtex",
+      "name": "mgcldtex",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "mrdrillr",
+      "fullpath": "zinc-mrdrillr",
+      "name": "mrdrillr",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "plsmaswd",
+      "fullpath": "zinc-plsmaswd",
+      "name": "plsmaswd",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "primglex",
+      "fullpath": "zinc-primglex",
+      "name": "primglex",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "psyforce",
+      "fullpath": "zinc-psyforce",
+      "name": "psyforce",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "raystorm",
+      "fullpath": "zinc-raystorm",
+      "name": "raystorm",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "rvschool",
+      "fullpath": "zinc-rvschool",
+      "name": "rvschool",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "sfex",
+      "fullpath": "zinc-sfex",
+      "name": "sfex",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "sfex2",
+      "fullpath": "zinc-sfex2",
+      "name": "sfex2",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "sfex2p",
+      "fullpath": "zinc-sfex2p",
+      "name": "sfex2p",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "sfexp",
+      "fullpath": "zinc-sfexp",
+      "name": "sfexp",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "shngmtkb",
+      "fullpath": "zinc-shngmtkb",
+      "name": "shngmtkb",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "souledge",
+      "fullpath": "zinc-souledge",
+      "name": "souledge",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "starglad",
+      "fullpath": "zinc-starglad",
+      "name": "starglad",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "starswep",
+      "fullpath": "zinc-starswep",
+      "name": "starswep",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "strider2",
+      "fullpath": "zinc-strider2",
+      "name": "strider2",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "techromn",
+      "fullpath": "zinc-techromn",
+      "name": "techromn",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "tekken",
+      "fullpath": "zinc-tekken",
+      "name": "tekken",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "tekken2",
+      "fullpath": "zinc-tekken2",
+      "name": "tekken2",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "tekken3",
+      "fullpath": "zinc-tekken3",
+      "name": "tekken3",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "tgmj",
+      "fullpath": "zinc-tgmj",
+      "name": "tgmj",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "tondemo",
+      "fullpath": "zinc-tondemo",
+      "name": "tondemo",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "ts2",
+      "fullpath": "zinc-ts2",
+      "name": "ts2",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    },
+    {
+      "id": "xevi3dg",
+      "fullpath": "zinc-xevi3dg",
+      "name": "xevi3dg",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Zinc",
+      "rating": "Misc"
+    }
+  ]
+}

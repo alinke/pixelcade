@@ -1,0 +1,239 @@
+{
+  "platform": "ps3",
+  "totalGames": 25,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "ps3 game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "ps3.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "After Burner Climax (USA)",
+      "fullpath": "ps3-After Burner Climax (USA)",
+      "name": "After Burner Climax",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Army of Two (USA)",
+      "fullpath": "ps3-Army of Two (USA)",
+      "name": "Army of Two",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "BlazBlue - Central Fiction (USA)",
+      "fullpath": "ps3-BlazBlue - Central Fiction (USA)",
+      "name": "BlazBlue - Central Fiction",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "BlazBlue - Chrono Phantasma (USA)",
+      "fullpath": "ps3-BlazBlue - Chrono Phantasma (USA)",
+      "name": "BlazBlue - Chrono Phantasma",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "BlazBlue - Continuum Shift - Extend (USA)",
+      "fullpath": "ps3-BlazBlue - Continuum Shift - Extend (USA)",
+      "name": "BlazBlue - Continuum Shift - Extend",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Castlevania - Lords of Shadow 2 (USA)",
+      "fullpath": "ps3-Castlevania - Lords of Shadow 2 (USA)",
+      "name": "Castlevania - Lords of Shadow 2",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Critter Crunch (USA)",
+      "fullpath": "ps3-Critter Crunch (USA)",
+      "name": "Critter Crunch",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Devil May Cry 4 (USA)",
+      "fullpath": "ps3-Devil May Cry 4 (USA)",
+      "name": "Devil May Cry 4",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Grand Theft Auto - San Andreas (USA)",
+      "fullpath": "ps3-Grand Theft Auto - San Andreas (USA)",
+      "name": "Grand Theft Auto - San Andreas",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Joe Danger (USA)",
+      "fullpath": "ps3-Joe Danger (USA)",
+      "name": "Joe Danger",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kingdom Hearts 2.5 HD ReMIX (USA)",
+      "fullpath": "ps3-Kingdom Hearts 2.5 HD ReMIX (USA)",
+      "name": "Kingdom Hearts 2.5 HD ReMIX",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Limbo (USA)",
+      "fullpath": "ps3-Limbo (USA)",
+      "name": "Limbo",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Metal Gear Solid - Peace Walker HD Edition (USA)",
+      "fullpath": "ps3-Metal Gear Solid - Peace Walker HD Edition (USA)",
+      "name": "Metal Gear Solid - Peace Walker HD Edition",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Monkey Island Special Edition Collection (USA)",
+      "fullpath": "ps3-Monkey Island Special Edition Collection (USA)",
+      "name": "Monkey Island Special Edition Collection",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NBA JAM - On Fire Edition (USA)",
+      "fullpath": "ps3-NBA JAM - On Fire Edition (USA)",
+      "name": "NBA JAM - On Fire Edition",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NCAA Football 14 (USA)",
+      "fullpath": "ps3-NCAA Football 14 (USA)",
+      "name": "NCAA Football 14",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NieR (USA)",
+      "fullpath": "ps3-NieR (USA)",
+      "name": "NieR",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Gaiden Sigma (USA).bak",
+      "fullpath": "ps3-Ninja Gaiden Sigma (USA).bak",
+      "name": "Ninja Gaiden Sigma",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Gaiden Sigma (USA)",
+      "fullpath": "ps3-Ninja Gaiden Sigma (USA)",
+      "name": "Ninja Gaiden Sigma",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Peggle (USA)",
+      "fullpath": "ps3-Peggle (USA)",
+      "name": "Peggle",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rayman Legends (Europe)",
+      "fullpath": "ps3-Rayman Legends (Europe)",
+      "name": "Rayman Legends",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Soul Calibur 2 HD Online (USA)",
+      "fullpath": "ps3-Soul Calibur 2 HD Online (USA)",
+      "name": "Soul Calibur 2 HD Online",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Street Fighter III - Third Strike Online Edition (USA)",
+      "fullpath": "ps3-Street Fighter III - Third Strike Online Edition (USA)",
+      "name": "Street Fighter III - Third Strike Online Edition",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Street Fighter II Turbo HD Remix (USA)",
+      "fullpath": "ps3-Super Street Fighter II Turbo HD Remix (USA)",
+      "name": "Super Street Fighter II Turbo HD Remix",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Teenage Mutant Ninja Turtles - Turtles In Time Re-Shelled (USA)",
+      "fullpath": "ps3-Teenage Mutant Ninja Turtles - Turtles In Time Re-Shelled (USA)",
+      "name": "Teenage Mutant Ninja Turtles - Turtles In Time Re-Shelled",
+      "year": "2006",
+      "publisher": "Sony",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+  "platform": "driving_games",
+  "totalGames": 139,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "driving_games game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "driving_games.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "18wheelr (alt)",
+      "fullpath": "driving_games-18wheelr (alt)",
+      "name": "18wheelr (alt)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "18wheelr",
+      "fullpath": "driving_games-18wheelr",
+      "name": "18wheelr",
+      "year": "2000",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "abcop",
+      "fullpath": "driving_games-abcop",
+      "name": "abcop",
+      "year": "2001",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aquajet",
+      "fullpath": "driving_games-aquajet",
+      "name": "aquajet",
+      "year": "2002",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Batman",
+      "fullpath": "driving_games-Batman",
+      "name": "Batman",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battle Gear 4 Tuned",
+      "fullpath": "driving_games-Battle Gear 4 Tuned",
+      "name": "Battle Gear 4 Tuned",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bigrun",
+      "fullpath": "driving_games-bigrun",
+      "name": "bigrun",
+      "year": "2003",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "blmbycar",
+      "fullpath": "driving_games-blmbycar",
+      "name": "blmbycar",
+      "year": "2004",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "calspeed",
+      "fullpath": "driving_games-calspeed",
+      "name": "calspeed",
+      "year": "2005",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "cbombers",
+      "fullpath": "driving_games-cbombers",
+      "name": "cbombers",
+      "year": "2006",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chase H.Q. 2",
+      "fullpath": "driving_games-Chase H.Q. 2",
+      "name": "Chase H.Q. 2",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "chasehq-old",
+      "fullpath": "driving_games-chasehq-old",
+      "name": "chasehq-old",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "chasehq",
+      "fullpath": "driving_games-chasehq",
+      "name": "chasehq",
+      "year": "2007",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "chqflag",
+      "fullpath": "driving_games-chqflag",
+      "name": "chqflag",
+      "year": "2008",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "cischeat",
+      "fullpath": "driving_games-cischeat",
+      "name": "cischeat",
+      "year": "2009",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "contcirc",
+      "fullpath": "driving_games-contcirc",
+      "name": "contcirc",
+      "year": "2010",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "coolridr",
+      "fullpath": "driving_games-coolridr",
+      "name": "coolridr",
+      "year": "2011",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "crusnusa",
+      "fullpath": "driving_games-crusnusa",
+      "name": "crusnusa",
+      "year": "2012",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "crusnwld",
+      "fullpath": "driving_games-crusnwld",
+      "name": "crusnwld",
+      "year": "2013",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "crzytaxi",
+      "fullpath": "driving_games-crzytaxi",
+      "name": "crzytaxi",
+      "year": "2014",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "cybrcycc",
+      "fullpath": "driving_games-cybrcycc",
+      "name": "cybrcycc",
+      "year": "2015",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "dayto2pe",
+      "fullpath": "driving_games-dayto2pe",
+      "name": "dayto2pe",
+      "year": "2016",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "daytona",
+      "fullpath": "driving_games-daytona",
+      "name": "daytona",
+      "year": "2017",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "daytona2",
+      "fullpath": "driving_games-daytona2",
+      "name": "daytona2",
+      "year": "2018",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "daytonagtx",
+      "fullpath": "driving_games-daytonagtx",
+      "name": "daytonagtx",
+      "year": "2019",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "daytonam",
+      "fullpath": "driving_games-daytonam",
+      "name": "daytonam",
+      "year": "2020",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "daytonas",
+      "fullpath": "driving_games-daytonas",
+      "name": "daytonas",
+      "year": "2021",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "daytonat",
+      "fullpath": "driving_games-daytonat",
+      "name": "daytonat",
+      "year": "2022",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "dblaxle",
+      "fullpath": "driving_games-dblaxle",
+      "name": "dblaxle",
+      "year": "2023",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "dirtdvls",
+      "fullpath": "driving_games-dirtdvls",
+      "name": "dirtdvls",
+      "year": "2024",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "dirtfoxj",
+      "fullpath": "driving_games-dirtfoxj",
+      "name": "dirtfoxj",
+      "year": "2025",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "drivedge",
+      "fullpath": "driving_games-drivedge",
+      "name": "drivedge",
+      "year": "2026",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "eca",
+      "fullpath": "driving_games-eca",
+      "name": "eca",
+      "year": "2027",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "enduror",
+      "fullpath": "driving_games-enduror",
+      "name": "enduror",
+      "year": "2028",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "f1en",
+      "fullpath": "driving_games-f1en",
+      "name": "f1en",
+      "year": "2029",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "f1gpstar",
+      "fullpath": "driving_games-f1gpstar",
+      "name": "f1gpstar",
+      "year": "2030",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "f1gpstr2",
+      "fullpath": "driving_games-f1gpstr2",
+      "name": "f1gpstr2",
+      "year": "2031",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "f1lap",
+      "fullpath": "driving_games-f1lap",
+      "name": "f1lap",
+      "year": "2032",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fast and Furious DRIFT",
+      "fullpath": "driving_games-Fast and Furious DRIFT",
+      "name": "Fast and Furious DRIFT",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fast and Furious Superbikes",
+      "fullpath": "driving_games-Fast and Furious Superbikes",
+      "name": "Fast and Furious Superbikes",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fast and Furious Supercars",
+      "fullpath": "driving_games-Fast and Furious Supercars",
+      "name": "Fast and Furious Supercars",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fast and Furious",
+      "fullpath": "driving_games-Fast and Furious",
+      "name": "Fast and Furious",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "finalap2",
+      "fullpath": "driving_games-finalap2",
+      "name": "finalap2",
+      "year": "2033",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "finalap3",
+      "fullpath": "driving_games-finalap3",
+      "name": "finalap3",
+      "year": "2034",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "finalapr",
+      "fullpath": "driving_games-finalapr",
+      "name": "finalapr",
+      "year": "2035",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "finallap",
+      "fullpath": "driving_games-finallap",
+      "name": "finallap",
+      "year": "2036",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ford Racing - Full Blown",
+      "fullpath": "driving_games-Ford Racing - Full Blown",
+      "name": "Ford Racing - Full Blown",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ftspeed",
+      "fullpath": "driving_games-ftspeed",
+      "name": "ftspeed",
+      "year": "2037",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gprider",
+      "fullpath": "driving_games-gprider",
+      "name": "gprider",
+      "year": "2038",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "GRID",
+      "fullpath": "driving_games-GRID",
+      "name": "GRID",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "groundfx",
+      "fullpath": "driving_games-groundfx",
+      "name": "groundfx",
+      "year": "2039",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "GTI Club Supermini Festa!",
+      "fullpath": "driving_games-GTI Club Supermini Festa!",
+      "name": "GTI Club Supermini Festa!",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gtmr",
+      "fullpath": "driving_games-gtmr",
+      "name": "gtmr",
+      "year": "2040",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gtmr2",
+      "fullpath": "driving_games-gtmr2",
+      "name": "gtmr2",
+      "year": "2041",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "H2Overdrive",
+      "fullpath": "driving_games-H2Overdrive",
+      "name": "H2Overdrive",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hangon",
+      "fullpath": "driving_games-hangon",
+      "name": "hangon",
+      "year": "2042",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hangonjr",
+      "fullpath": "driving_games-hangonjr",
+      "name": "hangonjr",
+      "year": "2043",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "harddriv",
+      "fullpath": "driving_games-harddriv",
+      "name": "harddriv",
+      "year": "2044",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "harley",
+      "fullpath": "driving_games-harley",
+      "name": "harley",
+      "year": "2045",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hcrash",
+      "fullpath": "driving_games-hcrash",
+      "name": "hcrash",
+      "year": "2046",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hotchase",
+      "fullpath": "driving_games-hotchase",
+      "name": "hotchase",
+      "year": "2047",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "indy500",
+      "fullpath": "driving_games-indy500",
+      "name": "indy500",
+      "year": "2048",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "indy500d",
+      "fullpath": "driving_games-indy500d",
+      "name": "indy500d",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "initd",
+      "fullpath": "driving_games-initd",
+      "name": "initd",
+      "year": "2049",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "initdexp",
+      "fullpath": "driving_games-initdexp",
+      "name": "initdexp",
+      "year": "2050",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "initdv2j",
+      "fullpath": "driving_games-initdv2j",
+      "name": "initdv2j",
+      "year": "2051",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "initdv3j",
+      "fullpath": "driving_games-initdv3j",
+      "name": "initdv3j",
+      "year": "2052",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Initial D Arcade Stage 6 AA",
+      "fullpath": "driving_games-Initial D Arcade Stage 6 AA",
+      "name": "Initial D Arcade Stage 6 AA",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Initial D Arcade Stage 7 AA X",
+      "fullpath": "driving_games-Initial D Arcade Stage 7 AA X",
+      "name": "Initial D Arcade Stage 7 AA X",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Initial D Arcade Stage 8 Infinity",
+      "fullpath": "driving_games-Initial D Arcade Stage 8 Infinity",
+      "name": "Initial D Arcade Stage 8 Infinity",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "jambo",
+      "fullpath": "driving_games-jambo",
+      "name": "jambo",
+      "year": "2053",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "K.O",
+      "fullpath": "driving_games-K.O",
+      "name": "K.O",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kingrt66",
+      "fullpath": "driving_games-kingrt66",
+      "name": "kingrt66",
+      "year": "2054",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "konamigt",
+      "fullpath": "driving_games-konamigt",
+      "name": "konamigt",
+      "year": "2055",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lemans24",
+      "fullpath": "driving_games-lemans24",
+      "name": "lemans24",
+      "year": "2056",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Kart - Arcade GP 2 (USA)",
+      "fullpath": "driving_games-Mario Kart - Arcade GP 2 (USA)",
+      "name": "Mario Kart - Arcade GP 2 (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Kart Arcade GP DX",
+      "fullpath": "driving_games-Mario Kart Arcade GP DX",
+      "name": "Mario Kart Arcade GP DX",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "maxrpm",
+      "fullpath": "driving_games-maxrpm",
+      "name": "maxrpm",
+      "year": "2057",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "maxspeed",
+      "fullpath": "driving_games-maxspeed",
+      "name": "maxspeed",
+      "year": "2058",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "midnrun",
+      "fullpath": "driving_games-midnrun",
+      "name": "midnrun",
+      "year": "2059",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "motoraid",
+      "fullpath": "driving_games-motoraid",
+      "name": "motoraid",
+      "year": "2060",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "offroadc",
+      "fullpath": "driving_games-offroadc",
+      "name": "offroadc",
+      "year": "2061",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "orunners",
+      "fullpath": "driving_games-orunners",
+      "name": "orunners",
+      "year": "2062",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "OutRun 2 SP SDX",
+      "fullpath": "driving_games-OutRun 2 SP SDX",
+      "name": "OutRun 2 SP SDX",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "outrun",
+      "fullpath": "driving_games-outrun",
+      "name": "outrun",
+      "year": "2063",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "overrev",
+      "fullpath": "driving_games-overrev",
+      "name": "overrev",
+      "year": "2064",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "paperboy",
+      "fullpath": "driving_games-paperboy",
+      "name": "paperboy",
+      "year": "2065",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pdrift",
+      "fullpath": "driving_games-pdrift",
+      "name": "pdrift",
+      "year": "2066",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "R-Tuned",
+      "fullpath": "driving_games-R-Tuned",
+      "name": "R-Tuned",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "racedriv",
+      "fullpath": "driving_games-racedriv",
+      "name": "racedriv",
+      "year": "2067",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rachero",
+      "fullpath": "driving_games-rachero",
+      "name": "rachero",
+      "year": "2068",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "radikalb",
+      "fullpath": "driving_games-radikalb",
+      "name": "radikalb",
+      "year": "2069",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "radm",
+      "fullpath": "driving_games-radm",
+      "name": "radm",
+      "year": "2070",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "radr",
+      "fullpath": "driving_games-radr",
+      "name": "radr",
+      "year": "2071",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "raveracw",
+      "fullpath": "driving_games-raveracw",
+      "name": "raveracw",
+      "year": "2072",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ridgera2",
+      "fullpath": "driving_games-ridgera2",
+      "name": "ridgera2",
+      "year": "2073",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ridgerac",
+      "fullpath": "driving_games-ridgerac",
+      "name": "ridgerac",
+      "year": "2074",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "roundup5",
+      "fullpath": "driving_games-roundup5",
+      "name": "roundup5",
+      "year": "2075",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "scross",
+      "fullpath": "driving_games-scross",
+      "name": "scross",
+      "year": "2076",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "scud",
+      "fullpath": "driving_games-scud",
+      "name": "scud",
+      "year": "2077",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "scudp",
+      "fullpath": "driving_games-scudp",
+      "name": "scudp",
+      "year": "2078",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sega Race TV",
+      "fullpath": "driving_games-Sega Race TV",
+      "name": "Sega Race TV",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sega Racing Classic",
+      "fullpath": "driving_games-Sega Racing Classic",
+      "name": "Sega Racing Classic",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sega Rally 3",
+      "fullpath": "driving_games-Sega Rally 3",
+      "name": "Sega Rally 3",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sfrush",
+      "fullpath": "driving_games-sfrush",
+      "name": "sfrush",
+      "year": "2079",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sfrushrk",
+      "fullpath": "driving_games-sfrushrk",
+      "name": "sfrushrk",
+      "year": "2080",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sgt24h",
+      "fullpath": "driving_games-sgt24h",
+      "name": "sgt24h",
+      "year": "2081",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "shangon",
+      "fullpath": "driving_games-shangon",
+      "name": "shangon",
+      "year": "2082",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "shtrider",
+      "fullpath": "driving_games-shtrider",
+      "name": "shtrider",
+      "year": "2083",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sidebs",
+      "fullpath": "driving_games-sidebs",
+      "name": "sidebs",
+      "year": "2084",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sidebs2",
+      "fullpath": "driving_games-sidebs2",
+      "name": "sidebs2",
+      "year": "2085",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "slipstrm",
+      "fullpath": "driving_games-slipstrm",
+      "name": "slipstrm",
+      "year": "2086",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "smgp",
+      "fullpath": "driving_games-smgp",
+      "name": "smgp",
+      "year": "2087",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SnoCross",
+      "fullpath": "driving_games-SnoCross",
+      "name": "SnoCross",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic & Sega All-Stars Racing Arcade",
+      "fullpath": "driving_games-Sonic & Sega All-Stars Racing Arcade",
+      "name": "Sonic & Sega All-Stars Racing Arcade",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "speedrcr",
+      "fullpath": "driving_games-speedrcr",
+      "name": "speedrcr",
+      "year": "2088",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "speedup",
+      "fullpath": "driving_games-speedup",
+      "name": "speedup",
+      "year": "2089",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "spyhunt",
+      "fullpath": "driving_games-spyhunt",
+      "name": "spyhunt",
+      "year": "2090",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "spyhunt2",
+      "fullpath": "driving_games-spyhunt2",
+      "name": "spyhunt2",
+      "year": "2091",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "srally2",
+      "fullpath": "driving_games-srally2",
+      "name": "srally2",
+      "year": "2092",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "srallyc",
+      "fullpath": "driving_games-srallyc",
+      "name": "srallyc",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "srallycb",
+      "fullpath": "driving_games-srallycb",
+      "name": "srallycb",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "srallyp",
+      "fullpath": "driving_games-srallyp",
+      "name": "srallyp",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Bikes 2",
+      "fullpath": "driving_games-Super Bikes 2",
+      "name": "Super Bikes 2",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "superchs",
+      "fullpath": "driving_games-superchs",
+      "name": "superchs",
+      "year": "2093",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "suzuk8h",
+      "fullpath": "driving_games-suzuk8h",
+      "name": "suzuk8h",
+      "year": "2094",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "suzuk8h2",
+      "fullpath": "driving_games-suzuk8h2",
+      "name": "suzuk8h2",
+      "year": "2095",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "suzuka8h",
+      "fullpath": "driving_games-suzuka8h",
+      "name": "suzuka8h",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tokyo Cop",
+      "fullpath": "driving_games-Tokyo Cop",
+      "name": "Tokyo Cop",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "topspeed",
+      "fullpath": "driving_games-topspeed",
+      "name": "topspeed",
+      "year": "2096",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "turbotag",
+      "fullpath": "driving_games-turbotag",
+      "name": "turbotag",
+      "year": "2097",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Valve Limit R",
+      "fullpath": "driving_games-Valve Limit R",
+      "name": "Valve Limit R",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "victlapw",
+      "fullpath": "driving_games-victlapw",
+      "name": "victlapw",
+      "year": "2098",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "vr",
+      "fullpath": "driving_games-vr",
+      "name": "vr",
+      "year": "2099",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wacky Races Arcade",
+      "fullpath": "driving_games-Wacky Races Arcade",
+      "name": "Wacky Races Arcade",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wangan Midnight Maximum Tune 5",
+      "fullpath": "driving_games-Wangan Midnight Maximum Tune 5",
+      "name": "Wangan Midnight Maximum Tune 5",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "waverunr",
+      "fullpath": "driving_games-waverunr",
+      "name": "waverunr",
+      "year": "2100",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "wecleman",
+      "fullpath": "driving_games-wecleman",
+      "name": "wecleman",
+      "year": "2101",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "wldrider",
+      "fullpath": "driving_games-wldrider",
+      "name": "wldrider",
+      "year": "2102",
+      "publisher": "Driving",
+      "genre": "Driving",
+      "rating": "Not Rated"
+    }
+  ]
+}

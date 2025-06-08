@@ -1,0 +1,6314 @@
+{
+  "platform": "futurepinball",
+  "totalGames": 700,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "futurepinball game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "futurepinball.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "007 - Casino Royale (Original)",
+      "fullpath": "futurepinball-007 - Casino Royale (Original)",
+      "name": "007 - Casino Royale",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "1024 Bytes (Original)",
+      "fullpath": "futurepinball-1024 Bytes (Original)",
+      "name": "1024 Bytes",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "2001 (Gottlieb)",
+      "fullpath": "futurepinball-2001 (Gottlieb)",
+      "name": "2001",
+      "year": "1971",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "24 (Collector's Edition) (Stern)",
+      "fullpath": "futurepinball-24 (Collector's Edition) (Stern)",
+      "name": "24 (Collector's Edition)",
+      "year": "2009",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "300 - Prepare for Glory (Original)",
+      "fullpath": "futurepinball-300 - Prepare for Glory (Original)",
+      "name": "300 - Prepare for Glory",
+      "year": "2009",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "300 (Gottlieb)",
+      "fullpath": "futurepinball-300 (Gottlieb)",
+      "name": "300",
+      "year": "1975",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "4 Square (Gottlieb)",
+      "fullpath": "futurepinball-4 Square (Gottlieb)",
+      "name": "4 Square",
+      "year": "1971",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "50-50 (Bally)",
+      "fullpath": "futurepinball-50-50 (Bally)",
+      "name": "50/50",
+      "year": "1965",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "8 Ball (Williams)",
+      "fullpath": "futurepinball-8 Ball (Williams)",
+      "name": "8 Ball",
+      "year": "1952",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Abra Ca Dabra (Gottlieb)",
+      "fullpath": "futurepinball-Abra Ca Dabra (Gottlieb)",
+      "name": "Abra Ca Dabra",
+      "year": "1975",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Abra Ca Dabra (Ultimate Edition) (Gottlieb)",
+      "fullpath": "futurepinball-Abra Ca Dabra (Ultimate Edition) (Gottlieb)",
+      "name": "Abra Ca Dabra (Ultimate Edition)",
+      "year": "1975",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Abra Ca Dabra (ULTRA Edition) (Gottlieb)",
+      "fullpath": "futurepinball-Abra Ca Dabra (ULTRA Edition) (Gottlieb)",
+      "name": "Abra Ca Dabra (ULTRA Edition)",
+      "year": "1975",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "ACDC - Devil Girl (Ultimate Edition) (Stern)",
+      "fullpath": "futurepinball-ACDC - Devil Girl (Ultimate Edition) (Stern)",
+      "name": "AC/DC - Devil Girl (Ultimate Edition)",
+      "year": "2012",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "ACDC (Pro) (Stern)",
+      "fullpath": "futurepinball-ACDC (Pro) (Stern)",
+      "name": "AC/DC (Pro)",
+      "year": "2012",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Adam Strange (Original)",
+      "fullpath": "futurepinball-Adam Strange (Original)",
+      "name": "Adam Strange",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Add-A-Ball (Williams)",
+      "fullpath": "futurepinball-Add-A-Ball (Williams)",
+      "name": "Add-A-Ball",
+      "year": "1961",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Add-A-Ball Graphic Mod (Williams)",
+      "fullpath": "futurepinball-Add-A-Ball Graphic Mod (Williams)",
+      "name": "Add-A-Ball Graphic Mod",
+      "year": "1961",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Addams Family, The (Gold Edition) (Bally)",
+      "fullpath": "futurepinball-Addams Family, The (Gold Edition) (Bally)",
+      "name": "Addams Family, The (Gold Edition)",
+      "year": "1992",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Addams Family, The (20th Anniversary Edition) (Bally)",
+      "fullpath": "futurepinball-Addams Family, The (20th Anniversary Edition) (Bally)",
+      "name": "Addams Family, The (20th Anniversary Edition)",
+      "year": "1992",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Addams Family, The (Ultimate Edition) (Bally)",
+      "fullpath": "futurepinball-Addams Family, The (Ultimate Edition) (Bally)",
+      "name": "Addams Family, The (Ultimate Edition)",
+      "year": "1992",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Aerosmith (Original)",
+      "fullpath": "futurepinball-Aerosmith (Original)",
+      "name": "Aerosmith",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Air Aces (Bally)",
+      "fullpath": "futurepinball-Air Aces (Bally)",
+      "name": "Air Aces",
+      "year": "1974",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Airport (Gottlieb)",
+      "fullpath": "futurepinball-Airport (Gottlieb)",
+      "name": "Airport",
+      "year": "1969",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Akira (Original)",
+      "fullpath": "futurepinball-Akira (Original)",
+      "name": "Akira",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Aladdin's Castle (Bally)",
+      "fullpath": "futurepinball-Aladdin's Castle (Bally)",
+      "name": "Aladdin's Castle",
+      "year": "1975",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Aladdin's Castle (Ultimate Edition) (Bally)",
+      "fullpath": "futurepinball-Aladdin's Castle (Ultimate Edition) (Bally)",
+      "name": "Aladdin's Castle(Ultimate Edition)",
+      "year": "1975",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Aladdin's Castle (ULTRA Edition) (Bally)",
+      "fullpath": "futurepinball-Aladdin's Castle (ULTRA Edition) (Bally)",
+      "name": "Aladdin's Castle (ULTRA Edition)",
+      "year": "1975",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ali (Stern)",
+      "fullpath": "futurepinball-Ali (Stern)",
+      "name": "Ali",
+      "year": "1980",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Alien (Original)",
+      "fullpath": "futurepinball-Alien (Original)",
+      "name": "Alien",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Alien Dude (Original)",
+      "fullpath": "futurepinball-Alien Dude (Original)",
+      "name": "Alien Dude",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Alien Poker (Williams)",
+      "fullpath": "futurepinball-Alien Poker (Williams)",
+      "name": "Alien Poker",
+      "year": "1980",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Alien Racing (Original)",
+      "fullpath": "futurepinball-Alien Racing (Original)",
+      "name": "Alien Racing",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Alien Science (Original)",
+      "fullpath": "futurepinball-Alien Science (Original)",
+      "name": "Alien Science",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Aliens (Original)",
+      "fullpath": "futurepinball-Aliens (Original)",
+      "name": "Aliens",
+      "year": "2007",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Aliens Infestation (Original)",
+      "fullpath": "futurepinball-Aliens Infestation (Original)",
+      "name": "Aliens Infestation",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Aliens Legacy (Hardcore Edition) (Original)",
+      "fullpath": "futurepinball-Aliens Legacy (Hardcore Edition) (Original)",
+      "name": "Aliens Legacy (Hardcore Edition)",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Aliens Legacy (Ultimate Edition) (Original)",
+      "fullpath": "futurepinball-Aliens Legacy (Ultimate Edition) (Original)",
+      "name": "Aliens Legacy (Ultimate Edition)",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Aloha (Gottlieb)",
+      "fullpath": "futurepinball-Aloha (Gottlieb)",
+      "name": "Aloha",
+      "year": "1961",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Alone In The Dark (Original)",
+      "fullpath": "futurepinball-Alone In The Dark (Original)",
+      "name": "Alone In The Dark",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Amazing Spider-Man, The (Gottlieb)",
+      "fullpath": "futurepinball-Amazing Spider-Man, The (Gottlieb)",
+      "name": "Amazing Spider-Man, The",
+      "year": "1980",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Amok Harvest (Original)",
+      "fullpath": "futurepinball-Amok Harvest (Original)",
+      "name": "Amok Harvest",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Angry Robot (Original)",
+      "fullpath": "futurepinball-Angry Robot (Original)",
+      "name": "Angry Robot",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Aperture Science (Original)",
+      "fullpath": "futurepinball-Aperture Science (Original)",
+      "name": "Aperture Science",
+      "year": "2009",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Apollo 13 (Sega)",
+      "fullpath": "futurepinball-Apollo 13 (Sega)",
+      "name": "Apollo 13",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Arcade Mayhem (Original)",
+      "fullpath": "futurepinball-Arcade Mayhem (Original)",
+      "name": "Arcade Mayhem",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Asteroid Annie and the Aliens (Gottlieb)",
+      "fullpath": "futurepinball-Asteroid Annie and the Aliens (Gottlieb)",
+      "name": "Asteroid Annie and the Aliens",
+      "year": "1980",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "AstroBlast (Original)",
+      "fullpath": "futurepinball-AstroBlast (Original)",
+      "name": "AstroBlast",
+      "year": "2009",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Atlantis (Bally)",
+      "fullpath": "futurepinball-Atlantis (Bally)",
+      "name": "Atlantis",
+      "year": "1989",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Attack From Mars (Bally)",
+      "fullpath": "futurepinball-Attack From Mars (Bally)",
+      "name": "Attack From Mars",
+      "year": "1995",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Attack From Mars (Ultimate Edition) (Bally)",
+      "fullpath": "futurepinball-Attack From Mars (Ultimate Edition) (Bally)",
+      "name": "Attack From Mars (Ultimate Edition)",
+      "year": "1995",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Attack of the Killer Tomatoes (Original)",
+      "fullpath": "futurepinball-Attack of the Killer Tomatoes (Original)",
+      "name": "Attack of the Killer Tomatoes",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Austin Powers (Stern)",
+      "fullpath": "futurepinball-Austin Powers (Stern)",
+      "name": "Austin Powers",
+      "year": "2001",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Avatar (Stern)",
+      "fullpath": "futurepinball-Avatar (Stern)",
+      "name": "Avatar",
+      "year": "2010",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Avatar (Ultimate Edition) (Stern)",
+      "fullpath": "futurepinball-Avatar (Ultimate Edition) (Stern)",
+      "name": "Avatar (Ultimate Edition)",
+      "year": "2010",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Avatar (ULTRA Edition) (Stern)",
+      "fullpath": "futurepinball-Avatar (ULTRA Edition) (Stern)",
+      "name": "Avatar (ULTRA Edition)",
+      "year": "2010",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Aztec (Williams)",
+      "fullpath": "futurepinball-Aztec (Williams)",
+      "name": "Aztec",
+      "year": "1979",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Back to the Future (Data East)",
+      "fullpath": "futurepinball-Back to the Future (Data East)",
+      "name": "Back to the Future",
+      "year": "1990",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Back to the Future (Ultimate Edition) (Data East)",
+      "fullpath": "futurepinball-Back to the Future (Ultimate Edition) (Data East)",
+      "name": "Back to the Future (Ultimate Edition)",
+      "year": "1990",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Back to the Future (ULTRA Edition) (Data East)",
+      "fullpath": "futurepinball-Back to the Future (ULTRA Edition) (Data East)",
+      "name": "Back to the Future (ULTRA Edition)",
+      "year": "1990",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bad Cats (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-Bad Cats (Ultimate Edition) (Williams)",
+      "name": "Bad Cats (Ultimate Edition)",
+      "year": "1989",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bad Cats (ULTRA Edition) (Williams)",
+      "fullpath": "futurepinball-Bad Cats (ULTRA Edition) (Williams)",
+      "name": "Bad Cats (ULTRA Edition)",
+      "year": "1989",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bad Cats (Williams)",
+      "fullpath": "futurepinball-Bad Cats (Williams)",
+      "name": "Bad Cats",
+      "year": "1989",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Balls-A-Poppin (Bally)",
+      "fullpath": "futurepinball-Balls-A-Poppin (Bally)",
+      "name": "Balls-A-Poppin",
+      "year": "1956",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ballyhoo (Bally)",
+      "fullpath": "futurepinball-Ballyhoo (Bally)",
+      "name": "Ballyhoo",
+      "year": "1932",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Band Wagon (Bally)",
+      "fullpath": "futurepinball-Band Wagon (Bally)",
+      "name": "Band Wagon",
+      "year": "1965",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Banzai Run (Williams)",
+      "fullpath": "futurepinball-Banzai Run (Williams)",
+      "name": "Banzai Run",
+      "year": "1988",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Barb Wire (Gottlieb)",
+      "fullpath": "futurepinball-Barb Wire (Gottlieb)",
+      "name": "Barb Wire",
+      "year": "1996",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bart and Homer (Original)",
+      "fullpath": "futurepinball-Bart and Homer (Original)",
+      "name": "Bart and Homer",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Baseball (Gottlieb)",
+      "fullpath": "futurepinball-Baseball (Gottlieb)",
+      "name": "Baseball",
+      "year": "1970",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Batman Joker Edition (Ultimatum) (Stern)",
+      "fullpath": "futurepinball-Batman Joker Edition (Ultimatum) (Stern)",
+      "name": "Batman Joker Edition (Ultimatum)",
+      "year": "2015",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Battlestar Galactica (Original)",
+      "fullpath": "futurepinball-Battlestar Galactica (Original)",
+      "name": "Battlestar Galactica",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Beach Club (Bally)",
+      "fullpath": "futurepinball-Beach Club (Bally)",
+      "name": "Beach Club",
+      "year": "1953",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Beat the Clock (Williams)",
+      "fullpath": "futurepinball-Beat the Clock (Williams)",
+      "name": "Beat the Clock",
+      "year": "1963",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Beatles, The (Special Edition) (Original)",
+      "fullpath": "futurepinball-Beatles, The (Special Edition) (Original)",
+      "name": "Beatles, The (Special Edition)",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Belphegor (Original)",
+      "fullpath": "futurepinball-Belphegor (Original)",
+      "name": "Belphegor",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ben Ten (Original)",
+      "fullpath": "futurepinball-Ben Ten (Original)",
+      "name": "Ben Ten",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Big Bang Bar (Capcom)",
+      "fullpath": "futurepinball-Big Bang Bar (Capcom)",
+      "name": "Big Bang Bar",
+      "year": "1996",
+      "publisher": "Capcom",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Big Ben (Williams)",
+      "fullpath": "futurepinball-Big Ben (Williams)",
+      "name": "Big Ben",
+      "year": "1954",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Big Brave (Gottlieb)",
+      "fullpath": "futurepinball-Big Brave (Gottlieb)",
+      "name": "Big Brave",
+      "year": "1974",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Big Guns (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-Big Guns (Ultimate Edition) (Williams)",
+      "name": "Big Guns (Ultimate Edition)",
+      "year": "1987",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Big Guns (ULTRA Edition) (Williams)",
+      "fullpath": "futurepinball-Big Guns (ULTRA Edition) (Williams)",
+      "name": "Big Guns (ULTRA Edition)",
+      "year": "1987",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Big Guns (Williams)",
+      "fullpath": "futurepinball-Big Guns (Williams)",
+      "name": "Big Guns",
+      "year": "1987",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Big Indian (Gottlieb)",
+      "fullpath": "futurepinball-Big Indian (Gottlieb)",
+      "name": "Big Indian",
+      "year": "1974",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Big Show (Bally)",
+      "fullpath": "futurepinball-Big Show (Bally)",
+      "name": "Big Show",
+      "year": "1956",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Big Spender 2000 (Original)",
+      "fullpath": "futurepinball-Big Spender 2000 (Original)",
+      "name": "Big Spender 2000",
+      "year": "2008",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Big Spender Pinball (Original)",
+      "fullpath": "futurepinball-Big Spender Pinball (Original)",
+      "name": "Big Spender Pinball",
+      "year": "2008",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bikini (Bally)",
+      "fullpath": "futurepinball-Bikini (Bally)",
+      "name": "Bikini",
+      "year": "1961",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Black Gold (Williams)",
+      "fullpath": "futurepinball-Black Gold (Williams)",
+      "name": "Black Gold",
+      "year": "1975",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Black Jack (Bally)",
+      "fullpath": "futurepinball-Black Jack (Bally)",
+      "name": "Black Jack",
+      "year": "1976",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Black Knight (Gold Edition) (Williams)",
+      "fullpath": "futurepinball-Black Knight (Gold Edition) (Williams)",
+      "name": "Black Knight (Gold Edition)",
+      "year": "1980",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Black Knight (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-Black Knight (Ultimate Edition) (Williams)",
+      "name": "Black Knight (Ultimate Edition)",
+      "year": "1989",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Black Knight (ULTRA Edition) (Williams)",
+      "fullpath": "futurepinball-Black Knight (ULTRA Edition) (Williams)",
+      "name": "Black Knight (ULTRA Edition)",
+      "year": "1989",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Black Knight (Williams)",
+      "fullpath": "futurepinball-Black Knight (Williams)",
+      "name": "Black Knight",
+      "year": "1989",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Black Knight 2000 (Williams)",
+      "fullpath": "futurepinball-Black Knight 2000 (Williams)",
+      "name": "Black Knight 2000",
+      "year": "1989",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Black Pyramid (Bally)",
+      "fullpath": "futurepinball-Black Pyramid (Bally)",
+      "name": "Black Pyramid",
+      "year": "1984",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Black Rose (Bally)",
+      "fullpath": "futurepinball-Black Rose (Bally)",
+      "name": "Black Rose",
+      "year": "1992",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Blackout (Williams)",
+      "fullpath": "futurepinball-Blackout (Williams)",
+      "name": "Blackout",
+      "year": "1980",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Blood Scream (Original)",
+      "fullpath": "futurepinball-Blood Scream (Original)",
+      "name": "Blood Scream",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "BloodRayne (Original)",
+      "fullpath": "futurepinball-BloodRayne (Original)",
+      "name": "BloodRayne",
+      "year": "2010",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Blue Vs Pink (Original)",
+      "fullpath": "futurepinball-Blue Vs Pink (Original)",
+      "name": "Blue Vs Pink",
+      "year": "2009",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bon Voyage (Bally)",
+      "fullpath": "futurepinball-Bon Voyage (Bally)",
+      "name": "Bon Voyage",
+      "year": "1974",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bond 50 (Anniversary Edition) (Original)",
+      "fullpath": "futurepinball-Bond 50 (Anniversary Edition) (Original)",
+      "name": "Bond 50 (Anniversary Edition)",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Borg, The (Original)",
+      "fullpath": "futurepinball-Borg, The (Original)",
+      "name": "Borg, The",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bow and Arrow (Bally)",
+      "fullpath": "futurepinball-Bow and Arrow (Bally)",
+      "name": "Bow and Arrow",
+      "year": "1974",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bowling Queen (Gottlieb)",
+      "fullpath": "futurepinball-Bowling Queen (Gottlieb)",
+      "name": "Bowling Queen",
+      "year": "1964",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bram Stoker's Dracula (Williams)",
+      "fullpath": "futurepinball-Bram Stoker's Dracula (Williams)",
+      "name": "Bram Stoker's Dracula",
+      "year": "1993",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bronco (Gottlieb)",
+      "fullpath": "futurepinball-Bronco (Gottlieb)",
+      "name": "Bronco",
+      "year": "1977",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bubble Bobble (Original)",
+      "fullpath": "futurepinball-Bubble Bobble (Original)",
+      "name": "Bubble Bobble",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Buccaneer (Gottlieb)",
+      "fullpath": "futurepinball-Buccaneer (Gottlieb)",
+      "name": "Buccaneer",
+      "year": "1976",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bugs Bunny (Original)",
+      "fullpath": "futurepinball-Bugs Bunny (Original)",
+      "name": "Bugs Bunny",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bugs Bunny's Birthday Ball (Bally)",
+      "fullpath": "futurepinball-Bugs Bunny's Birthday Ball (Bally)",
+      "name": "Bugs Bunny Birthday Ball",
+      "year": "1991",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "C3PO (Original)",
+      "fullpath": "futurepinball-C3PO (Original)",
+      "name": "C3PO",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cactus Canyon (Bally)",
+      "fullpath": "futurepinball-Cactus Canyon (Bally)",
+      "name": "Cactus Canyon",
+      "year": "1998",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Capt. Fantastic (Bally)",
+      "fullpath": "futurepinball-Capt. Fantastic (Bally)",
+      "name": "Capt. Fantastic",
+      "year": "1975",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Captain Planet (Original)",
+      "fullpath": "futurepinball-Captain Planet (Original)",
+      "name": "Captain Planet",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Card Whiz (Gottlieb)",
+      "fullpath": "futurepinball-Card Whiz (Gottlieb)",
+      "name": "Card Whiz",
+      "year": "1976",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cartoons (Original)",
+      "fullpath": "futurepinball-Cartoons (Original)",
+      "name": "Cartoons",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Castlevania (Original)",
+      "fullpath": "futurepinball-Castlevania (Original)",
+      "name": "Castlevania",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Castlevania Symphony of the Night (Original)",
+      "fullpath": "futurepinball-Castlevania Symphony of the Night (Original)",
+      "name": "Castlevania Symphony of the Night",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Castlevania Vampire Rising (Original)",
+      "fullpath": "futurepinball-Castlevania Vampire Rising (Original)",
+      "name": "Castlevania Vampire Rising",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cavaleiro Negro (Taito)",
+      "fullpath": "futurepinball-Cavaleiro Negro (Taito)",
+      "name": "Cavaleiro Negro",
+      "year": "1981",
+      "publisher": "Taito",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Centaur (Bally)",
+      "fullpath": "futurepinball-Centaur (Bally)",
+      "name": "Centaur",
+      "year": "1981",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Centaur (Ultimate Edition) (Bally)",
+      "fullpath": "futurepinball-Centaur (Ultimate Edition) (Bally)",
+      "name": "Centaur (Ultimate Edition)",
+      "year": "1981",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Centaur (ULTRA Edition) (Bally)",
+      "fullpath": "futurepinball-Centaur (ULTRA Edition) (Bally)",
+      "name": "Centaur (ULTRA Edition)",
+      "year": "1981",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Centigrade 37 (Gottlieb)",
+      "fullpath": "futurepinball-Centigrade 37 (Gottlieb)",
+      "name": "Centigrade 37",
+      "year": "1977",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Centigrade 37 (Sound Modded) (Gottlieb)",
+      "fullpath": "futurepinball-Centigrade 37 (Sound Modded) (Gottlieb)",
+      "name": "Centigrade 37 (Sound Modded)",
+      "year": "1977",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Centigrade 37 (ULTRA Edition) (Gottlieb)",
+      "fullpath": "futurepinball-Centigrade 37 (ULTRA Edition) (Gottlieb)",
+      "name": "Centigrade 37 (ULTRA Edition)",
+      "year": "1977",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Central Park (Gottlieb)",
+      "fullpath": "futurepinball-Central Park (Gottlieb)",
+      "name": "Central Park",
+      "year": "1966",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Chamber Of Chills (Original)",
+      "fullpath": "futurepinball-Chamber Of Chills (Original)",
+      "name": "Chamber Of Chills",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Checkpoint (Data East)",
+      "fullpath": "futurepinball-Checkpoint (Data East)",
+      "name": "Checkpoint",
+      "year": "1991",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cinema (Chicago Coin)",
+      "fullpath": "futurepinball-Cinema (Chicago Coin)",
+      "name": "Cinema",
+      "year": "1976",
+      "publisher": "Chicago Coin",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Circa 1933 (Fascination Int., Incorporated)",
+      "fullpath": "futurepinball-Circa 1933 (Fascination Int., Incorporated)",
+      "name": "Circa 1933",
+      "year": "1979",
+      "publisher": "Fascination Int., Incorporated",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cirqus Voltaire (Bally)",
+      "fullpath": "futurepinball-Cirqus Voltaire (Bally)",
+      "name": "Cirqus Voltaire",
+      "year": "1997",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Classic Panic (Original)",
+      "fullpath": "futurepinball-Classic Panic (Original)",
+      "name": "Classic Panic",
+      "year": "2009",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cleopatra (Gottlieb)",
+      "fullpath": "futurepinball-Cleopatra (Gottlieb)",
+      "name": "Cleopatra",
+      "year": "1977",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Close Encounters of the Third Kind (Gottlieb)",
+      "fullpath": "futurepinball-Close Encounters of the Third Kind (Gottlieb)",
+      "name": "Close Encounters of the Third Kind",
+      "year": "1978",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Conan (Original)",
+      "fullpath": "futurepinball-Conan (Original)",
+      "name": "Conan",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Contra (Original)",
+      "fullpath": "futurepinball-Contra (Original)",
+      "name": "Contra",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cosmic (Taito)",
+      "fullpath": "futurepinball-Cosmic (Taito)",
+      "name": "Cosmic",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cosmic Gunfight (Williams)",
+      "fullpath": "futurepinball-Cosmic Gunfight (Williams)",
+      "name": "Cosmic Gunfight",
+      "year": "1982",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Count-Down (Gottlieb)",
+      "fullpath": "futurepinball-Count-Down (Gottlieb)",
+      "name": "Count-Down",
+      "year": "1979",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cover Girl (Gottlieb)",
+      "fullpath": "futurepinball-Cover Girl (Gottlieb)",
+      "name": "Cover Girl",
+      "year": "1962",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cow Poke (Gottlieb)",
+      "fullpath": "futurepinball-Cow Poke (Gottlieb)",
+      "name": "Cow Poke",
+      "year": "1965",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Creature From the Black Lagoon (Bally)",
+      "fullpath": "futurepinball-Creature From the Black Lagoon (Bally)",
+      "name": "Creature From the Black Lagoon",
+      "year": "1992",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cross Country (Bally)",
+      "fullpath": "futurepinball-Cross Country (Bally)",
+      "name": "Cross Country",
+      "year": "1963",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "CSI (Stern)",
+      "fullpath": "futurepinball-CSI (Stern)",
+      "name": "CSI: Crime Scene Investigation",
+      "year": "2008",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cue-T (Williams)",
+      "fullpath": "futurepinball-Cue-T (Williams)",
+      "name": "Cue-T",
+      "year": "1968",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cyborg (Original)",
+      "fullpath": "futurepinball-Cyborg (Original)",
+      "name": "Cyborg",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cyclone (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-Cyclone (Ultimate Edition) (Williams)",
+      "name": "Cyclone (Ultimate Edition)",
+      "year": "1988",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cyclone (ULTRA Edition) (Williams)",
+      "fullpath": "futurepinball-Cyclone (ULTRA Edition) (Williams)",
+      "name": "Cyclone (ULTRA Edition)",
+      "year": "1988",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cyclone (Williams)",
+      "fullpath": "futurepinball-Cyclone (Williams)",
+      "name": "Cyclone",
+      "year": "1988",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dakar (Game Plan)",
+      "fullpath": "futurepinball-Dakar (Game Plan)",
+      "name": "Dakar",
+      "year": "1988",
+      "publisher": "Game Plan",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dark Knight TTE - Toy Testing Environment (Stern)",
+      "fullpath": "futurepinball-Dark Knight TTE - Toy Testing Environment (Stern)",
+      "name": "Dark Knight TTE - Toy Testing Environment",
+      "year": "2008",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dark Knight, The (ULTRA Edition) (Stern)",
+      "fullpath": "futurepinball-Dark Knight, The (ULTRA Edition) (Stern)",
+      "name": "Dark Knight, The (ULTRA Edition)",
+      "year": "2008",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dark Knight, The (Ultramatum) (Stern)",
+      "fullpath": "futurepinball-Dark Knight, The (Ultramatum) (Stern)",
+      "name": "Dark Knight, The (Ultramatum)",
+      "year": "2008",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dark Rider (Geiger)",
+      "fullpath": "futurepinball-Dark Rider (Geiger)",
+      "name": "Dark Rider",
+      "year": "1984",
+      "publisher": "Geiger",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "DarkQuest (Original)",
+      "fullpath": "futurepinball-DarkQuest (Original)",
+      "name": "DarkQuest",
+      "year": "2008",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dawn of the Dead (Original)",
+      "fullpath": "futurepinball-Dawn of the Dead (Original)",
+      "name": "Dawn of the Dead",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dead Hunters (Original)",
+      "fullpath": "futurepinball-Dead Hunters (Original)",
+      "name": "Dead Hunters",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dead Hunters (ULTRA Edition) (Original)",
+      "fullpath": "futurepinball-Dead Hunters (ULTRA Edition) (Original)",
+      "name": "Dead Hunters (ULTRA Edition)",
+      "year": "2007",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Deadly Weapon (Gottlieb)",
+      "fullpath": "futurepinball-Deadly Weapon (Gottlieb)",
+      "name": "Deadly Weapon",
+      "year": "1990",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "DeadShot (Original)",
+      "fullpath": "futurepinball-DeadShot (Original)",
+      "name": "DeadShot",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dealer's Choice (Williams)",
+      "fullpath": "futurepinball-Dealer's Choice (Williams)",
+      "name": "Dealer's Choice",
+      "year": "1974",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Devil's Dare (Gottlieb)",
+      "fullpath": "futurepinball-Devil's Dare (Gottlieb)",
+      "name": "Devil's Dare",
+      "year": "1982",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Die Hard (Original)",
+      "fullpath": "futurepinball-Die Hard (Original)",
+      "name": "Die Hard",
+      "year": "2007",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Doctor Who (Bally)",
+      "fullpath": "futurepinball-Doctor Who (Bally)",
+      "name": "Doctor Who",
+      "year": "1992",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dolly Parton (Bally)",
+      "fullpath": "futurepinball-Dolly Parton (Bally)",
+      "name": "Dolly Parton",
+      "year": "1978",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Doodle Bug (Williams)",
+      "fullpath": "futurepinball-Doodle Bug (Williams)",
+      "name": "Doodle Bug",
+      "year": "1971",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dr. Dude (Bally)",
+      "fullpath": "futurepinball-Dr. Dude (Bally)",
+      "name": "Dr. Dude",
+      "year": "1990",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dragons Lair (Original)",
+      "fullpath": "futurepinball-Dragons Lair (Original)",
+      "name": "Dragons Lair",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Drakor (Taito)",
+      "fullpath": "futurepinball-Drakor (Taito)",
+      "name": "Drakor",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dredd (Original)",
+      "fullpath": "futurepinball-Dredd (Original)",
+      "name": "Dredd",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Drop-A-Card (Gottlieb)",
+      "fullpath": "futurepinball-Drop-A-Card (Gottlieb)",
+      "name": "Drop-A-Card",
+      "year": "1971",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Duck Tales (Special Edition) (Original)",
+      "fullpath": "futurepinball-Duck Tales (Special Edition) (Original)",
+      "name": "Duck Tales (Special Edition)",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Duke Nukem Forever (Bally)",
+      "fullpath": "futurepinball-Duke Nukem Forever (Bally)",
+      "name": "Duke Nukem Forever",
+      "year": "1987",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Dungeons & Dragons (Bally)",
+      "fullpath": "futurepinball-Dungeons & Dragons (Bally)",
+      "name": "Dungeons & Dragons",
+      "year": "1977",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Earthshaker (Williams)",
+      "fullpath": "futurepinball-Earthshaker (Williams)",
+      "name": "Earthshaker",
+      "year": "1989",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Eight Ball (Bally)",
+      "fullpath": "futurepinball-Eight Ball (Bally)",
+      "name": "Eight Ball",
+      "year": "1977",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Eight Ball (ULTRA Edition) (Bally)",
+      "fullpath": "futurepinball-Eight Ball (ULTRA Edition) (Bally)",
+      "name": "Eight Ball (ULTRA Edition)",
+      "year": "1977",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Eight Ball Champ (Bally)",
+      "fullpath": "futurepinball-Eight Ball Champ (Bally)",
+      "name": "Eight Ball Champ",
+      "year": "1985",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Eight Ball Deluxe (Bally)",
+      "fullpath": "futurepinball-Eight Ball Deluxe (Bally)",
+      "name": "Eight Ball Deluxe",
+      "year": "1980",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "El Dorado (Gottlieb)",
+      "fullpath": "futurepinball-El Dorado (Gottlieb)",
+      "name": "El Dorado",
+      "year": "1975",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "El Toro (Bally)",
+      "fullpath": "futurepinball-El Toro (Bally)",
+      "name": "El Toro",
+      "year": "1970",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Elektra (Bally)",
+      "fullpath": "futurepinball-Elektra (Bally)",
+      "name": "Elektra",
+      "year": "1981",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Elvira And The Party Monster (Bally)",
+      "fullpath": "futurepinball-Elvira And The Party Monster (Bally)",
+      "name": "Elvira And The Party Monster",
+      "year": "1989",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Elvis (Stern)",
+      "fullpath": "futurepinball-Elvis (Stern)",
+      "name": "Elvis",
+      "year": "2004",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Elysium (Original)",
+      "fullpath": "futurepinball-Elysium (Original)",
+      "name": "Elysium",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Embryon (Bally)",
+      "fullpath": "futurepinball-Embryon (Bally)",
+      "name": "Embryon",
+      "year": "1980",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Evel Knievel (Bally)",
+      "fullpath": "futurepinball-Evel Knievel (Bally)",
+      "name": "Evel Knievel",
+      "year": "1976",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Expo (Williams)",
+      "fullpath": "futurepinball-Expo (Williams)",
+      "name": "Expo",
+      "year": "1969",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Expressway (Bally)",
+      "fullpath": "futurepinball-Expressway (Bally)",
+      "name": "Expressway",
+      "year": "1970",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "F-14 Tomcat (25th Anniversary Edition) (Williams)",
+      "fullpath": "futurepinball-F-14 Tomcat (25th Anniversary Edition) (Williams)",
+      "name": "F-14 Tomcat (25th Anniversary Edition)",
+      "year": "1987",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "F-14 Tomcat (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-F-14 Tomcat (Ultimate Edition) (Williams)",
+      "name": "F-14 Tomcat (Ultimate Edition)",
+      "year": "1987",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Family Guy (Gold Edition) (Stern)",
+      "fullpath": "futurepinball-Family Guy (Gold Edition) (Stern)",
+      "name": "Family Guy (Gold Edition)",
+      "year": "2007",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Family Guy (Stern)",
+      "fullpath": "futurepinball-Family Guy (Stern)",
+      "name": "Family Guy",
+      "year": "2006",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Family Guy (ULTRA Edition) (Stern)",
+      "fullpath": "futurepinball-Family Guy (ULTRA Edition) (Stern)",
+      "name": "Family Guy (ULTRA Edition)",
+      "year": "2007",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Far Out (Gottlieb)",
+      "fullpath": "futurepinball-Far Out (Gottlieb)",
+      "name": "Far Out",
+      "year": "1974",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fast Draw (Gottlieb)",
+      "fullpath": "futurepinball-Fast Draw (Gottlieb)",
+      "name": "Fast Draw",
+      "year": "1975",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fast Draw (Ultimate Edition) (Gottlieb)",
+      "fullpath": "futurepinball-Fast Draw (Ultimate Edition) (Gottlieb)",
+      "name": "Fast Draw (Ultimate Edition)",
+      "year": "1975",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fathom (Bally)",
+      "fullpath": "futurepinball-Fathom (Bally)",
+      "name": "Fathom",
+      "year": "1980",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Favorite (Buckley)",
+      "fullpath": "futurepinball-Favorite (Buckley)",
+      "name": "Favorite",
+      "year": "1932",
+      "publisher": "Buckley",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Find Nemo (Original)",
+      "fullpath": "futurepinball-Find Nemo (Original)",
+      "name": "Find Nemo",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fire Action (Taito)",
+      "fullpath": "futurepinball-Fire Action (Taito)",
+      "name": "Fire Action",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fireball (Home Version) (Bally)",
+      "fullpath": "futurepinball-Fireball (Home Version) (Bally)",
+      "name": "Fireball (Home Version)",
+      "year": "1976",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fireball (ULTRA Edition) (Bally)",
+      "fullpath": "futurepinball-Fireball (ULTRA Edition) (Bally)",
+      "name": "Fireball (ULTRA Edition)",
+      "year": "1976",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fireball Classic (Bally)",
+      "fullpath": "futurepinball-Fireball Classic (Bally)",
+      "name": "Fireball Classic",
+      "year": "1984",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Firepower (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-Firepower (Ultimate Edition) (Williams)",
+      "name": "Firepower (Ultimate Edition)",
+      "year": "1980",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Firepower (ULTRA Edition) (Williams)",
+      "fullpath": "futurepinball-Firepower (ULTRA Edition) (Williams)",
+      "name": "Firepower (ULTRA Edition)",
+      "year": "1980",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Firepower (Williams)",
+      "fullpath": "futurepinball-Firepower (Williams)",
+      "name": "Firepower",
+      "year": "1980",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fish Tales (Williams)",
+      "fullpath": "futurepinball-Fish Tales (Williams)",
+      "name": "Fish Tales",
+      "year": "1992",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fist of the North Star (Original)",
+      "fullpath": "futurepinball-Fist of the North Star (Original)",
+      "name": "Fist of the North Star",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "FJ Holden (Hankin)",
+      "fullpath": "futurepinball-FJ Holden (Hankin)",
+      "name": "FJ Holden",
+      "year": "1978",
+      "publisher": "Hankin",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flame Reaper 2010 - First Responders Unit (Original)",
+      "fullpath": "futurepinball-Flame Reaper 2010 - First Responders Unit (Original)",
+      "name": "Flame Reaper 2010 - First Responders Unit",
+      "year": "2010",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flame Reaper 2010 - First Responders Unit (ULTRA Edition) (Original)",
+      "fullpath": "futurepinball-Flame Reaper 2010 - First Responders Unit (ULTRA Edition) (Original)",
+      "name": "Flame Reaper 2010 - First Responders Unit (ULTRA Edition)",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flash (Williams)",
+      "fullpath": "futurepinball-Flash (Williams)",
+      "name": "Flash",
+      "year": "1979",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flash Gordon (Ultimate Edition) (Bally)",
+      "fullpath": "futurepinball-Flash Gordon (Ultimate Edition) (Bally)",
+      "name": "Flash Gordon (Ultimate Edition)",
+      "year": "1980",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flash Gordon (ULTRA Edition) (Bally)",
+      "fullpath": "futurepinball-Flash Gordon (ULTRA Edition) (Bally)",
+      "name": "Flash Gordon (ULTRA Edition)",
+      "year": "1980",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flash Gordon HD (Bally)",
+      "fullpath": "futurepinball-Flash Gordon HD (Bally)",
+      "name": "Flash Gordon HD",
+      "year": "1980",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flight 2000 (Stern)",
+      "fullpath": "futurepinball-Flight 2000 (Stern)",
+      "name": "Flight 2000",
+      "year": "1980",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flight 2000 (Ultimate Edition) (Stern)",
+      "fullpath": "futurepinball-Flight 2000 (Ultimate Edition) (Stern)",
+      "name": "Flight 2000 (Ultimate Edition)",
+      "year": "1980",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flight 2000 (ULTRA Edition) (Stern)",
+      "fullpath": "futurepinball-Flight 2000 (ULTRA Edition) (Stern)",
+      "name": "Flight 2000 (ULTRA Edition)",
+      "year": "1980",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flipper (Gottlieb)",
+      "fullpath": "futurepinball-Flipper (Gottlieb)",
+      "name": "Flipper",
+      "year": "1960",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flipper Cowboy (Gottlieb)",
+      "fullpath": "futurepinball-Flipper Cowboy (Gottlieb)",
+      "name": "Flipper Cowboy",
+      "year": "1960",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flipper Parade (Gottlieb)",
+      "fullpath": "futurepinball-Flipper Parade (Gottlieb)",
+      "name": "Flipper Parade",
+      "year": "1961",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flipper Pool (Gottlieb)",
+      "fullpath": "futurepinball-Flipper Pool (Gottlieb)",
+      "name": "Flipper Pool",
+      "year": "1965",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Flying Zombie (Original)",
+      "fullpath": "futurepinball-Flying Zombie (Original)",
+      "name": "Flying Zombie",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Frankenstein (Original)",
+      "fullpath": "futurepinball-Frankenstein (Original)",
+      "name": "Frankenstein",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Freedom (Bally)",
+      "fullpath": "futurepinball-Freedom (Bally)",
+      "name": "Freedom",
+      "year": "1976",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Freedom (Pre-production) (Bally)",
+      "fullpath": "futurepinball-Freedom (Pre-production) (Bally)",
+      "name": "Freedom (Pre-production)",
+      "year": "1975",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Friendship 7 (Williams)",
+      "fullpath": "futurepinball-Friendship 7 (Williams)",
+      "name": "Friendship 7",
+      "year": "1962",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Fright Night (Original)",
+      "fullpath": "futurepinball-Fright Night (Original)",
+      "name": "Fright Night",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Frontier (Bally)",
+      "fullpath": "futurepinball-Frontier (Bally)",
+      "name": "Frontier",
+      "year": "1980",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Full (Original)",
+      "fullpath": "futurepinball-Full (Original)",
+      "name": "Full",
+      "year": "1977",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Full House (Williams)",
+      "fullpath": "futurepinball-Full House (Williams)",
+      "name": "Full House",
+      "year": "1966",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Funhouse (Williams)",
+      "fullpath": "futurepinball-Funhouse (Williams)",
+      "name": "Funhouse",
+      "year": "1990",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Galaxy (Stern)",
+      "fullpath": "futurepinball-Galaxy (Stern)",
+      "name": "Galaxy",
+      "year": "1980",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Galaxy (Ultimate Edition) (Stern)",
+      "fullpath": "futurepinball-Galaxy (Ultimate Edition) (Stern)",
+      "name": "Galaxy (Ultimate Edition)",
+      "year": "1980",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Galaxy (ULTRA Edition) (Stern)",
+      "fullpath": "futurepinball-Galaxy (ULTRA Edition) (Stern)",
+      "name": "Galaxy (ULTRA Edition)",
+      "year": "1980",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Galaxy Girl (Original)",
+      "fullpath": "futurepinball-Galaxy Girl (Original)",
+      "name": "Galaxy Girl",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Game of Thrones (Original)",
+      "fullpath": "futurepinball-Game of Thrones (Original)",
+      "name": "Game of Thrones",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Geauga Lake (Original)",
+      "fullpath": "futurepinball-Geauga Lake (Original)",
+      "name": "Geauga Lake",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gemini 2000 (Taito)",
+      "fullpath": "futurepinball-Gemini 2000 (Taito)",
+      "name": "Gemini 2000",
+      "year": "1982",
+      "publisher": "Taito",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Genie (Gottlieb)",
+      "fullpath": "futurepinball-Genie (Gottlieb)",
+      "name": "Genie",
+      "year": "1979",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Genesis (Gottlieb)",
+      "fullpath": "futurepinball-Genesis (Gottlieb)",
+      "name": "Genesis",
+      "year": "1986",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Getaway, The - High Speed II (Williams)",
+      "fullpath": "futurepinball-Getaway, The - High Speed II (Williams)",
+      "name": "Getaway, The: High Speed II",
+      "year": "1992",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ghostbusters (Original)",
+      "fullpath": "futurepinball-Ghostbusters (Original)",
+      "name": "Ghostbusters",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gilligan's Island (Bally)",
+      "fullpath": "futurepinball-Gilligan's Island (Bally)",
+      "name": "Gilligan's Island",
+      "year": "1991",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gladiators (Gottlieb)",
+      "fullpath": "futurepinball-Gladiators (Gottlieb)",
+      "name": "Gladiators",
+      "year": "1993",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Godzilla Unleashed (Original)",
+      "fullpath": "futurepinball-Godzilla Unleashed (Original)",
+      "name": "Godzilla Unleashed",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gold Rush (Williams)",
+      "fullpath": "futurepinball-Gold Rush (Williams)",
+      "name": "Gold Rush",
+      "year": "1971",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gold Strike (Gottlieb)",
+      "fullpath": "futurepinball-Gold Strike (Gottlieb)",
+      "name": "Gold Strike",
+      "year": "1975",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Goldorak (Original)",
+      "fullpath": "futurepinball-Goldorak (Original)",
+      "name": "Goldorak",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Goldrake (Original)",
+      "fullpath": "futurepinball-Goldrake (Original)",
+      "name": "Goldrake",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Goonies, The (Original)",
+      "fullpath": "futurepinball-Goonies, The (Original)",
+      "name": "Goonies, The",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gorgar (Hellfire Edition) (Williams)",
+      "fullpath": "futurepinball-Gorgar (Hellfire Edition) (Williams)",
+      "name": "Gorgar (Hellfire Edition)",
+      "year": "1979",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gorgar (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-Gorgar (Ultimate Edition) (Williams)",
+      "name": "Gorgar (Ultimate Edition)",
+      "year": "1979",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gradius (Original)",
+      "fullpath": "futurepinball-Gradius (Original)",
+      "name": "Gradius",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Granada (Williams)",
+      "fullpath": "futurepinball-Granada (Williams)",
+      "name": "Granada",
+      "year": "1972",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Grand Prix (Williams)",
+      "fullpath": "futurepinball-Grand Prix (Williams)",
+      "name": "Grand Prix",
+      "year": "1976",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Grand Slam (Gottlieb)",
+      "fullpath": "futurepinball-Grand Slam (Gottlieb)",
+      "name": "Grand Slam",
+      "year": "1953",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Green Pastures (Gottlieb)",
+      "fullpath": "futurepinball-Green Pastures (Gottlieb)",
+      "name": "Green Pastures",
+      "year": "1954",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gremlins Mega Madness (Original)",
+      "fullpath": "futurepinball-Gremlins Mega Madness (Original)",
+      "name": "Gremlins Mega Madness",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Grievous (Original)",
+      "fullpath": "futurepinball-Grievous (Original)",
+      "name": "Grievous",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Gulfstream (Williams)",
+      "fullpath": "futurepinball-Gulfstream (Williams)",
+      "name": "Gulfstream",
+      "year": "1973",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Halloween (Original)",
+      "fullpath": "futurepinball-Halloween (Original)",
+      "name": "Halloween",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Happy Clown (Gottlieb)",
+      "fullpath": "futurepinball-Happy Clown (Gottlieb)",
+      "name": "Happy Clown",
+      "year": "1964",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Harlem Globetrotters On Tour (Bally)",
+      "fullpath": "futurepinball-Harlem Globetrotters On Tour (Bally)",
+      "name": "Harlem Globetrotters On Tour",
+      "year": "1979",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hawkman (Taito)",
+      "fullpath": "futurepinball-Hawkman (Taito)",
+      "name": "Hawkman",
+      "year": "1983",
+      "publisher": "Taito",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hayburners (Williams)",
+      "fullpath": "futurepinball-Hayburners (Williams)",
+      "name": "Hayburners",
+      "year": "1951",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hearts and Spades (Gottlieb)",
+      "fullpath": "futurepinball-Hearts and Spades (Gottlieb)",
+      "name": "Hearts and Spades",
+      "year": "1969",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Heat Wave (Williams)",
+      "fullpath": "futurepinball-Heat Wave (Williams)",
+      "name": "Heat Wave",
+      "year": "1964",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Heavy Metal (Original)",
+      "fullpath": "futurepinball-Heavy Metal (Original)",
+      "name": "Heavy Metal",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Heavy Metal Meltdown (Bally)",
+      "fullpath": "futurepinball-Heavy Metal Meltdown (Bally)",
+      "name": "Heavy Metal Meltdown",
+      "year": "1987",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hell (Gottlieb)",
+      "fullpath": "futurepinball-Hell (Gottlieb)",
+      "name": "Hell",
+      "year": "1980",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hellraiser (Original)",
+      "fullpath": "futurepinball-Hellraiser (Original)",
+      "name": "Hellraiser",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hi-Deal (Bally)",
+      "fullpath": "futurepinball-Hi-Deal (Bally)",
+      "name": "Hi-Deal",
+      "year": "1975",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "High Hand (Gottlieb)",
+      "fullpath": "futurepinball-High Hand (Gottlieb)",
+      "name": "High Hand",
+      "year": "1973",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "High Speed - Hot Pursuit (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-High Speed - Hot Pursuit (Ultimate Edition) (Williams)",
+      "name": "High Speed - Hot Pursuit (Ultimate Edition)",
+      "year": "1986",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "High Speed - Hot Pursuit (VIP Edition) (Williams)",
+      "fullpath": "futurepinball-High Speed - Hot Pursuit (VIP Edition) (Williams)",
+      "name": "High Speed: Hot Pursuit (VIP Edition)",
+      "year": "1986",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "High Speed - Hot Pursuit (Williams)",
+      "fullpath": "futurepinball-High Speed - Hot Pursuit (Williams)",
+      "name": "High Speed: Hot Pursuit",
+      "year": "1986",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hi-Lo Ace (Bally)",
+      "fullpath": "futurepinball-Hi-Lo Ace (Bally)",
+      "name": "Hi-Lo Ace",
+      "year": "1973",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hokus Pokus (Bally)",
+      "fullpath": "futurepinball-Hokus Pokus (Bally)",
+      "name": "Hokus Pokus",
+      "year": "1976",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hokus Pokus (Black Tie Edition) (Bally)",
+      "fullpath": "futurepinball-Hokus Pokus (Black Tie Edition) (Bally)",
+      "name": "Hokus Pokus (Black Tie Edition)",
+      "year": "1976",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hollywood (Chicago Coin)",
+      "fullpath": "futurepinball-Hollywood (Chicago Coin)",
+      "name": "Hollywood",
+      "year": "1976",
+      "publisher": "Chicago Coin",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Honey (Williams)",
+      "fullpath": "futurepinball-Honey (Williams)",
+      "name": "Honey",
+      "year": "1972",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Honkies From Outer Space (Original)",
+      "fullpath": "futurepinball-Honkies From Outer Space (Original)",
+      "name": "Honkies From Outer Space",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hot Tip SS (Williams)",
+      "fullpath": "futurepinball-Hot Tip SS (Williams)",
+      "name": "Hot Tip SS",
+      "year": "1977",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hungry Dead, The (Original)",
+      "fullpath": "futurepinball-Hungry Dead, The (Original)",
+      "name": "Hungry Dead, The",
+      "year": "2005",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Hurdy Gurdy (Gottlieb)",
+      "fullpath": "futurepinball-Hurdy Gurdy (Gottlieb)",
+      "name": "Hurdy Gurdy",
+      "year": "1966",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "I Robot (Original)",
+      "fullpath": "futurepinball-I Robot (Original)",
+      "name": "I Robot",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ice Fever (Gottlieb)",
+      "fullpath": "futurepinball-Ice Fever (Gottlieb)",
+      "name": "Ice Fever",
+      "year": "1985",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ice Show (Gottlieb)",
+      "fullpath": "futurepinball-Ice Show (Gottlieb)",
+      "name": "Ice Show",
+      "year": "1966",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Incredible Hulk, The (Gottlieb)",
+      "fullpath": "futurepinball-Incredible Hulk, The (Gottlieb)",
+      "name": "Incredible Hulk, The",
+      "year": "1970",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Indiana Jones and The Kingdom of the Crystall Skull (Original)",
+      "fullpath": "futurepinball-Indiana Jones and The Kingdom of the Crystall Skull (Original)",
+      "name": "Indiana Jones and The Kingdom of the Crystall Skull",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Indiana Jones Pinball Adventure (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-Indiana Jones Pinball Adventure (Ultimate Edition) (Williams)",
+      "name": "Indiana Jones Pinball Adventure (Ultimate Edition)",
+      "year": "1993",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Indiana Jones Pinball Adventure (Ultimatum) (Williams)",
+      "fullpath": "futurepinball-Indiana Jones Pinball Adventure (Ultimatum) (Williams)",
+      "name": "Indiana Jones Pinball Adventure (Ultimatum)",
+      "year": "1993",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Indiana Jones Pinball Adventure (ULTRA Edition) (Williams)",
+      "fullpath": "futurepinball-Indiana Jones Pinball Adventure (ULTRA Edition) (Williams)",
+      "name": "Indiana Jones Pinball Adventure (ULTRA Edition)",
+      "year": "1993",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Indiana Jones Pinball Adventure (Williams)",
+      "fullpath": "futurepinball-Indiana Jones Pinball Adventure (Williams)",
+      "name": "Indiana Jones Pinball Adventure",
+      "year": "1993",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Iron Man (Gold Edition) (Stern)",
+      "fullpath": "futurepinball-Iron Man (Gold Edition) (Stern)",
+      "name": "Iron Man (Gold Edition)",
+      "year": "2010",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Iron Man (Stern)",
+      "fullpath": "futurepinball-Iron Man (Stern)",
+      "name": "Iron Man",
+      "year": "2012",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Iron Man (Ultimate Edition) (Stern)",
+      "fullpath": "futurepinball-Iron Man (Ultimate Edition) (Stern)",
+      "name": "Iron Man (Ultimate Edition)",
+      "year": "2010",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Iron Man Rapid Loader (Stern)",
+      "fullpath": "futurepinball-Iron Man Rapid Loader (Stern)",
+      "name": "Iron Man Rapid Loader",
+      "year": "2010",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jaws (Original)",
+      "fullpath": "futurepinball-Jaws (Original)",
+      "name": "Jaws",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "JAWS Best of, 2nd Edition (Original)",
+      "fullpath": "futurepinball-JAWS Best of, 2nd Edition (Original)",
+      "name": "JAWS Best of, 2nd Edition",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jetsons, The (Original)",
+      "fullpath": "futurepinball-Jetsons, The (Original)",
+      "name": "Jetsons, The",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jive Time (Williams)",
+      "fullpath": "futurepinball-Jive Time (Williams)",
+      "name": "Jive Time",
+      "year": "1970",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Johnny Mnemonic (Williams)",
+      "fullpath": "futurepinball-Johnny Mnemonic (Williams)",
+      "name": "Johnny Mnemonic",
+      "year": "1995",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Joker Poker (Gottlieb)",
+      "fullpath": "futurepinball-Joker Poker (Gottlieb)",
+      "name": "Joker Poker",
+      "year": "1978",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Joker Poker (ULTRA Edition) (Gottlieb)",
+      "fullpath": "futurepinball-Joker Poker (ULTRA Edition) (Gottlieb)",
+      "name": "Joker Poker (ULTRA Edition)",
+      "year": "1978",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jokerz! (Williams)",
+      "fullpath": "futurepinball-Jokerz! (Williams)",
+      "name": "Jokerz!",
+      "year": "1988",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jolly Jokers (Williams)",
+      "fullpath": "futurepinball-Jolly Jokers (Williams)",
+      "name": "Jolly Jokers",
+      "year": "1962",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Journey To The Center Of The Earth (Original)",
+      "fullpath": "futurepinball-Journey To The Center Of The Earth (Original)",
+      "name": "Journey To The Center Of The Earth",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jumaci (Original)",
+      "fullpath": "futurepinball-Jumaci (Original)",
+      "name": "Jumaci",
+      "year": "1963",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jumanji (Original)",
+      "fullpath": "futurepinball-Jumanji (Original)",
+      "name": "Jumanji",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jumping Jack (Gottlieb)",
+      "fullpath": "futurepinball-Jumping Jack (Gottlieb)",
+      "name": "Jumping Jack",
+      "year": "1973",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jungle (Gottlieb)",
+      "fullpath": "futurepinball-Jungle (Gottlieb)",
+      "name": "Jungle",
+      "year": "1972",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jungle (Williams)",
+      "fullpath": "futurepinball-Jungle (Williams)",
+      "name": "Jungle",
+      "year": "1960",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jungle Boy (Original)",
+      "fullpath": "futurepinball-Jungle Boy (Original)",
+      "name": "Jungle Boy",
+      "year": "2009",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jungle Lord (Williams)",
+      "fullpath": "futurepinball-Jungle Lord (Williams)",
+      "name": "Jungle Lord",
+      "year": "1981",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jungle Queen (Gottlieb)",
+      "fullpath": "futurepinball-Jungle Queen (Gottlieb)",
+      "name": "Jungle Queen",
+      "year": "1977",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Junk Yard (Williams)",
+      "fullpath": "futurepinball-Junk Yard (Williams)",
+      "name": "Junk Yard",
+      "year": "1996",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Junkyard Cats (Original)",
+      "fullpath": "futurepinball-Junkyard Cats (Original)",
+      "name": "Junkyard Cats",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jurassic Park (Data East)",
+      "fullpath": "futurepinball-Jurassic Park (Data East)",
+      "name": "Jurassic Park",
+      "year": "1993",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jurassic Park (Ultimate Edition) (Data East)",
+      "fullpath": "futurepinball-Jurassic Park (Ultimate Edition) (Data East)",
+      "name": "Jurassic Park (Ultimate Edition)",
+      "year": "1993",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Jurassic Park (ULTRA Edition) (Data East)",
+      "fullpath": "futurepinball-Jurassic Park (ULTRA Edition) (Data East)",
+      "name": "Jurassic Park (ULTRA Edition)",
+      "year": "1993",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Kali's Bloodthirst (Original)",
+      "fullpath": "futurepinball-Kali's Bloodthirst (Original)",
+      "name": "Kali's Bloodthirst",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Kang & Kodos (Original)",
+      "fullpath": "futurepinball-Kang & Kodos (Original)",
+      "name": "Kang & Kodos",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Kick Off (Bally)",
+      "fullpath": "futurepinball-Kick Off (Bally)",
+      "name": "Kick Off",
+      "year": "1976",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Killer Klowns From Outer Space (Original)",
+      "fullpath": "futurepinball-Killer Klowns From Outer Space (Original)",
+      "name": "Killer Klowns From Outer Space",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "King Kong (Data East)",
+      "fullpath": "futurepinball-King Kong (Data East)",
+      "name": "King Kong",
+      "year": "1990",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "King of Diamonds (Gottlieb)",
+      "fullpath": "futurepinball-King of Diamonds (Gottlieb)",
+      "name": "King of Diamonds",
+      "year": "1967",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "King Pin (Gottlieb)",
+      "fullpath": "futurepinball-King Pin (Gottlieb)",
+      "name": "King Pin",
+      "year": "1973",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "King Tut (Bally)",
+      "fullpath": "futurepinball-King Tut (Bally)",
+      "name": "King Tut",
+      "year": "1969",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Kings & Queens (Gottlieb)",
+      "fullpath": "futurepinball-Kings & Queens (Gottlieb)",
+      "name": "Kings & Queens",
+      "year": "1965",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Kings of Steel (Bally)",
+      "fullpath": "futurepinball-Kings of Steel (Bally)",
+      "name": "Kings of Steel",
+      "year": "1984",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "KISS (Bally)",
+      "fullpath": "futurepinball-KISS (Bally)",
+      "name": "KISS",
+      "year": "1979",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "KISS (ULTRA Edition) (Bally)",
+      "fullpath": "futurepinball-KISS (ULTRA Edition) (Bally)",
+      "name": "KISS (ULTRA Edition)",
+      "year": "1979",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Klingons (Original)",
+      "fullpath": "futurepinball-Klingons (Original)",
+      "name": "Klingons",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Klondike (Williams)",
+      "fullpath": "futurepinball-Klondike (Williams)",
+      "name": "Klondike",
+      "year": "1971",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Knight Rider (Original)",
+      "fullpath": "futurepinball-Knight Rider (Original)",
+      "name": "Knight Rider",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Knock Out (Gottlieb)",
+      "fullpath": "futurepinball-Knock Out (Gottlieb)",
+      "name": "Knock Out",
+      "year": "1950",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "La Petite Vie (Original)",
+      "fullpath": "futurepinball-La Petite Vie (Original)",
+      "name": "La Petite Vie",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ladies of Comics Demo (Original)",
+      "fullpath": "futurepinball-Ladies of Comics Demo (Original)",
+      "name": "Ladies of Comics Demo",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Lady Death (Hellfire Edition) (Bally)",
+      "fullpath": "futurepinball-Lady Death (Hellfire Edition) (Bally)",
+      "name": "Lady Death (Hellfire Edition)",
+      "year": "1981",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Lady Death 2000 (Bally)",
+      "fullpath": "futurepinball-Lady Death 2000 (Bally)",
+      "name": "Lady Death 2000",
+      "year": "1981",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Laser War (Data East)",
+      "fullpath": "futurepinball-Laser War (Data East)",
+      "name": "Laser War",
+      "year": "1987",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Last Action Hero (Data East)",
+      "fullpath": "futurepinball-Last Action Hero (Data East)",
+      "name": "Last Action Hero",
+      "year": "1993",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Lectronamo (Stern)",
+      "fullpath": "futurepinball-Lectronamo (Stern)",
+      "name": "Lectronamo",
+      "year": "1978",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Legend of Zelda (Original)",
+      "fullpath": "futurepinball-Legend of Zelda (Original)",
+      "name": "Legend of Zelda",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Lethal Weapon 3 (Data East)",
+      "fullpath": "futurepinball-Lethal Weapon 3 (Data East)",
+      "name": "Lethal Weapon 3",
+      "year": "1992",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Li II (Original)",
+      "fullpath": "futurepinball-Li II (Original)",
+      "name": "Li II",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Lightning (Stern)",
+      "fullpath": "futurepinball-Lightning (Stern)",
+      "name": "Lightning",
+      "year": "1981",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Little Chief (Williams)",
+      "fullpath": "futurepinball-Little Chief (Williams)",
+      "name": "Little Chief",
+      "year": "1975",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Little Joe (Bally)",
+      "fullpath": "futurepinball-Little Joe (Bally)",
+      "name": "Little Joe",
+      "year": "1971",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Lord of the Rings (Stern)",
+      "fullpath": "futurepinball-Lord of the Rings (Stern)",
+      "name": "Lord of the Rings",
+      "year": "2003",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Lost In Space (Sega)",
+      "fullpath": "futurepinball-Lost In Space (Sega)",
+      "name": "Lost In Space",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Lost World (Bally)",
+      "fullpath": "futurepinball-Lost World (Bally)",
+      "name": "Lost World",
+      "year": "1977",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Lucky Seven (Williams)",
+      "fullpath": "futurepinball-Lucky Seven (Williams)",
+      "name": "Lucky Seven",
+      "year": "1978",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Lunch TakeOut (Original)",
+      "fullpath": "futurepinball-Lunch TakeOut (Original)",
+      "name": "Lunch TakeOut",
+      "year": "2009",
+      "publisher": "Polygame",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Machine, The - Bride of Pinbot (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-Machine, The - Bride of Pinbot (Ultimate Edition) (Williams)",
+      "name": "Machine, The - Bride of Pinbot (Ultimate Edition)",
+      "year": "1991",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Machine, The - Bride of Pinbot (Williams)",
+      "fullpath": "futurepinball-Machine, The - Bride of Pinbot (Williams)",
+      "name": "Machine, The - Bride of Pinbot",
+      "year": "1991",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mad Max (Original)",
+      "fullpath": "futurepinball-Mad Max (Original)",
+      "name": "Mad Max",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mad Race (Playmatic)",
+      "fullpath": "futurepinball-Mad Race (Playmatic)",
+      "name": "Mad Race",
+      "year": "1985",
+      "publisher": "Playmatic",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Magic (Stern)",
+      "fullpath": "futurepinball-Magic (Stern)",
+      "name": "Magic",
+      "year": "1979",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Magic Castle (Zaccaria)",
+      "fullpath": "futurepinball-Magic Castle (Zaccaria)",
+      "name": "Magic Castle",
+      "year": "1984",
+      "publisher": "Zaccaria",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Magic City (Williams)",
+      "fullpath": "futurepinball-Magic City (Williams)",
+      "name": "Magic City",
+      "year": "1967",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Magic Town (Williams)",
+      "fullpath": "futurepinball-Magic Town (Williams)",
+      "name": "Magic Town",
+      "year": "1967",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Magician Lord (Original)",
+      "fullpath": "futurepinball-Magician Lord (Original)",
+      "name": "Magician Lord",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Magnotron (Gottlieb)",
+      "fullpath": "futurepinball-Magnotron (Gottlieb)",
+      "name": "Magnotron",
+      "year": "1974",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Majorettes (Gottlieb)",
+      "fullpath": "futurepinball-Majorettes (Gottlieb)",
+      "name": "Majorettes",
+      "year": "1964",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mandrake the Magician (Original)",
+      "fullpath": "futurepinball-Mandrake the Magician (Original)",
+      "name": "Mandrake the Magician",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mariner (Bally)",
+      "fullpath": "futurepinball-Mariner (Bally)",
+      "name": "Mariner",
+      "year": "1971",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mars God Of War (Original)",
+      "fullpath": "futurepinball-Mars God Of War (Original)",
+      "name": "Mars God Of War",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mars Mccoy (Original)",
+      "fullpath": "futurepinball-Mars Mccoy (Original)",
+      "name": "Mars Mccoy",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Martian Manhunter (Original)",
+      "fullpath": "futurepinball-Martian Manhunter (Original)",
+      "name": "Martian Manhunter",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Masters of the Universe (Original)",
+      "fullpath": "futurepinball-Masters of the Universe (Original)",
+      "name": "Masters of the Universe",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mata Hari (Bally)",
+      "fullpath": "futurepinball-Mata Hari (Bally)",
+      "name": "Mata Hari",
+      "year": "1977",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Matrix, The (Original)",
+      "fullpath": "futurepinball-Matrix, The (Original)",
+      "name": "Matrix, The",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Maverick (Sega)",
+      "fullpath": "futurepinball-Maverick (Sega)",
+      "name": "Maverick",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Medieval Castle (Original)",
+      "fullpath": "futurepinball-Medieval Castle (Original)",
+      "name": "Medieval Castle",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Medieval Madness (Gold Edition) (Williams)",
+      "fullpath": "futurepinball-Medieval Madness (Gold Edition) (Williams)",
+      "name": "Medieval Madness (Gold Edition)",
+      "year": "1997",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Medieval Madness (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-Medieval Madness (Ultimate Edition) (Williams)",
+      "name": "Medieval Madness (Ultimate Edition)",
+      "year": "1997",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Medieval Madness (ULTRA Edition) (Williams)",
+      "fullpath": "futurepinball-Medieval Madness (ULTRA Edition) (Williams)",
+      "name": "Medieval Madness (ULTRA Edition)",
+      "year": "1997",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Medieval Madness (Williams)",
+      "fullpath": "futurepinball-Medieval Madness (Williams)",
+      "name": "Medieval Madness",
+      "year": "1997",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Medusa (Bally)",
+      "fullpath": "futurepinball-Medusa (Bally)",
+      "name": "Medusa",
+      "year": "1981",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Megaman (Original)",
+      "fullpath": "futurepinball-Megaman (Original)",
+      "name": "Megaman",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Melody (Gottlieb)",
+      "fullpath": "futurepinball-Melody (Gottlieb)",
+      "name": "Melody",
+      "year": "1967",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Metal Slug (Original)",
+      "fullpath": "futurepinball-Metal Slug (Original)",
+      "name": "Metal Slug",
+      "year": "2009",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Metallica (ULTRA Edition) (Williams)",
+      "fullpath": "futurepinball-Metallica (ULTRA Edition) (Williams)",
+      "name": "Metallica (ULTRA Edition)",
+      "year": "1989",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Metallica (VIP Edition) (Williams)",
+      "fullpath": "futurepinball-Metallica (VIP Edition) (Williams)",
+      "name": "Metallica (VIP Edition)",
+      "year": "1989",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Metallica (Williams)",
+      "fullpath": "futurepinball-Metallica (Williams)",
+      "name": "Metallica",
+      "year": "1989",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Meteor, The (Stern)",
+      "fullpath": "futurepinball-Meteor, The (Stern)",
+      "name": "Meteor, The",
+      "year": "1979",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Meteor, The (ULTRA Edition) (Stern)",
+      "fullpath": "futurepinball-Meteor, The (ULTRA Edition) (Stern)",
+      "name": "Meteor, The (ULTRA Edition)",
+      "year": "1979",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mickey and Pluto (Original)",
+      "fullpath": "futurepinball-Mickey and Pluto (Original)",
+      "name": "Mickey and Pluto",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Miss World (Geiger)",
+      "fullpath": "futurepinball-Miss World (Geiger)",
+      "name": "Miss World",
+      "year": "1985",
+      "publisher": "Geiger",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mission Impossible III (Original)",
+      "fullpath": "futurepinball-Mission Impossible III (Original)",
+      "name": "Mission Impossible III",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mission Impossible III (VIP Edition) (Original)",
+      "fullpath": "futurepinball-Mission Impossible III (VIP Edition) (Original)",
+      "name": "Mission Impossible III (VIP Edition)",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Miss-O (Williams)",
+      "fullpath": "futurepinball-Miss-O (Williams)",
+      "name": "Miss-O",
+      "year": "1969",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Monster Bash (Williams)",
+      "fullpath": "futurepinball-Monster Bash (Williams)",
+      "name": "Monster Bash",
+      "year": "1998",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Monster Hunter (Original)",
+      "fullpath": "futurepinball-Monster Hunter (Original)",
+      "name": "Monster Hunter",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Monte Carlo (Bally)",
+      "fullpath": "futurepinball-Monte Carlo (Bally)",
+      "name": "Monte Carlo",
+      "year": "1963",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mortal Kombat (Original)",
+      "fullpath": "futurepinball-Mortal Kombat (Original)",
+      "name": "Mortal Kombat",
+      "year": "2010",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mousin' Around! (Bally)",
+      "fullpath": "futurepinball-Mousin' Around! (Bally)",
+      "name": "Mousin' Around!",
+      "year": "1989",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mr Bean (Original)",
+      "fullpath": "futurepinball-Mr Bean (Original)",
+      "name": "Mr Bean",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mr. & Mrs. Pac-Man Pinball (Bally)",
+      "fullpath": "futurepinball-Mr. & Mrs. Pac-Man Pinball (Bally)",
+      "name": "Mr. & Mrs. Pac-Man Pinball",
+      "year": "1982",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mystery Castle (Alvin G. and Company)",
+      "fullpath": "futurepinball-Mystery Castle (Alvin G. and Company)",
+      "name": "Mystery Castle",
+      "year": "1993",
+      "publisher": "Alvin G. and Company",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Naruto (Original)",
+      "fullpath": "futurepinball-Naruto (Original)",
+      "name": "Naruto",
+      "year": "2007",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Neptune (Gottlieb)",
+      "fullpath": "futurepinball-Neptune (Gottlieb)",
+      "name": "Neptune",
+      "year": "1978",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Nesting Birds (Lindstrom Tool and Toy Company)",
+      "fullpath": "futurepinball-Nesting Birds (Lindstrom Tool and Toy Company)",
+      "name": "Nesting Birds",
+      "year": "1932",
+      "publisher": "Lindstrom Tool and Toy Company",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Night Rider (Bally)",
+      "fullpath": "futurepinball-Night Rider (Bally)",
+      "name": "Night Rider",
+      "year": "1976",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Nightmare on Elm Street, A (Original)",
+      "fullpath": "futurepinball-Nightmare on Elm Street, A (Original)",
+      "name": "Nightmare on Elm Street, A",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Nightmare on Elm Street, A (Ultimate Edition) (Original)",
+      "fullpath": "futurepinball-Nightmare on Elm Street, A (Ultimate Edition) (Original)",
+      "name": "Nightmare on Elm Street, A (Ultimate Edition)",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Nine Sisters (Williams)",
+      "fullpath": "futurepinball-Nine Sisters (Williams)",
+      "name": "Nine Sisters",
+      "year": "1953",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Nip-It (Bally)",
+      "fullpath": "futurepinball-Nip-It (Bally)",
+      "name": "Nip-It",
+      "year": "1972",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Nitro Ground Shaker (Bally)",
+      "fullpath": "futurepinball-Nitro Ground Shaker (Bally)",
+      "name": "Nitro Ground Shaker",
+      "year": "1978",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Nitro Ground Shaker Reloaded (Bally)",
+      "fullpath": "futurepinball-Nitro Ground Shaker Reloaded (Bally)",
+      "name": "Nitro Ground Shaker Reloaded",
+      "year": "1980",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "North Star (Gottlieb)",
+      "fullpath": "futurepinball-North Star (Gottlieb)",
+      "name": "North Star",
+      "year": "1964",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Old Chicago (Bally)",
+      "fullpath": "futurepinball-Old Chicago (Bally)",
+      "name": "Old Chicago",
+      "year": "1975",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Old Chicago (Ultimate Edition) (Bally)",
+      "fullpath": "futurepinball-Old Chicago (Ultimate Edition) (Bally)",
+      "name": "Old Chicago (Ultimate Edition)",
+      "year": "1975",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Old Chicago (ULTRA Edition) (Bally)",
+      "fullpath": "futurepinball-Old Chicago (ULTRA Edition) (Bally)",
+      "name": "Old Chicago (ULTRA Edition)",
+      "year": "1975",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Orbit (Gottlieb)",
+      "fullpath": "futurepinball-Orbit (Gottlieb)",
+      "name": "Orbit",
+      "year": "1971",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Original Flipper (A & A Design Group)",
+      "fullpath": "futurepinball-Original Flipper (A & A Design Group)",
+      "name": "Original Flipper",
+      "year": "1974",
+      "publisher": "A & A Design Group",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Outlaw Pool (Original)",
+      "fullpath": "futurepinball-Outlaw Pool (Original)",
+      "name": "Outlaw Pool",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "OXO (Williams)",
+      "fullpath": "futurepinball-OXO (Williams)",
+      "name": "OXO",
+      "year": "1973",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "OZ the Great and Powerful (Original)",
+      "fullpath": "futurepinball-OZ the Great and Powerful (Original)",
+      "name": "OZ the Great and Powerful",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Palace Guard (Gottlieb)",
+      "fullpath": "futurepinball-Palace Guard (Gottlieb)",
+      "name": "Palace Guard",
+      "year": "1968",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Panthera (Gottlieb)",
+      "fullpath": "futurepinball-Panthera (Gottlieb)",
+      "name": "Panthera",
+      "year": "1980",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Party Zone (Bally)",
+      "fullpath": "futurepinball-Party Zone (Bally)",
+      "name": "Party Zone",
+      "year": "1991",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Party Zone (ULTRA Edition) (Bally)",
+      "fullpath": "futurepinball-Party Zone (ULTRA Edition) (Bally)",
+      "name": "Party Zone (ULTRA Edition)",
+      "year": "1991",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Paul Bunyan (Gottlieb)",
+      "fullpath": "futurepinball-Paul Bunyan (Gottlieb)",
+      "name": "Paul Bunyan",
+      "year": "1968",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Penthouse (Original)",
+      "fullpath": "futurepinball-Penthouse (Original)",
+      "name": "Penthouse",
+      "year": "2008",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Peter Puck Pinball Disaster (Original)",
+      "fullpath": "futurepinball-Peter Puck Pinball Disaster (Original)",
+      "name": "Peter Puck Pinball Disaster",
+      "year": "2010",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Phantom of the Opera (Data East)",
+      "fullpath": "futurepinball-Phantom of the Opera (Data East)",
+      "name": "Phantom of the Opera",
+      "year": "1990",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Phantom Of The Opera (Ultimate Edition) (Data East)",
+      "fullpath": "futurepinball-Phantom Of The Opera (Ultimate Edition) (Data East)",
+      "name": "Phantom Of The Opera (Ultimate Edition)",
+      "year": "1990",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Phantom, The (Original)",
+      "fullpath": "futurepinball-Phantom, The (Original)",
+      "name": "Phantom, The",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pharaoh (Williams)",
+      "fullpath": "futurepinball-Pharaoh (Williams)",
+      "name": "Pharaoh",
+      "year": "1981",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinball (Stern)",
+      "fullpath": "futurepinball-Pinball (Stern)",
+      "name": "Pinball",
+      "year": "1977",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinball Dreams - Beat-Box (Digital Illusions CE)",
+      "fullpath": "futurepinball-Pinball Dreams - Beat-Box (Digital Illusions CE)",
+      "name": "Pinball Dreams - Beat-Box",
+      "year": "1992",
+      "publisher": "Digital Illusions CE",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinball Dreams - Ignition (Digital Illusions CE)",
+      "fullpath": "futurepinball-Pinball Dreams - Ignition (Digital Illusions CE)",
+      "name": "Pinball Dreams - Ignition",
+      "year": "1992",
+      "publisher": "Digital Illusions CE",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinball Dreams - Nightmare (Digital Illusions CE)",
+      "fullpath": "futurepinball-Pinball Dreams - Nightmare (Digital Illusions CE)",
+      "name": "Pinball Dreams - Nightmare",
+      "year": "1992",
+      "publisher": "Digital Illusions CE",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinball Dreams - Steel Wheel (Digital Illusions CE)",
+      "fullpath": "futurepinball-Pinball Dreams - Steel Wheel (Digital Illusions CE)",
+      "name": "Pinball Dreams - Steel Wheel",
+      "year": "1992",
+      "publisher": "Digital Illusions CE",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinball Fantasies - Billion Dollar Game Show (Digital Illusions CE)",
+      "fullpath": "futurepinball-Pinball Fantasies - Billion Dollar Game Show (Digital Illusions CE)",
+      "name": "Pinball Fantasies - Billion Dollar Game Show",
+      "year": "1992",
+      "publisher": "Digital Illusions CE",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinball Fantasies - Partyland (Digital Illusions CE)",
+      "fullpath": "futurepinball-Pinball Fantasies - Partyland (Digital Illusions CE)",
+      "name": "Pinball Fantasies - Partyland",
+      "year": "1992",
+      "publisher": "Digital Illusions CE",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinball Fantasies - Speed Devils (Digital Illusions CE)",
+      "fullpath": "futurepinball-Pinball Fantasies - Speed Devils (Digital Illusions CE)",
+      "name": "Pinball Fantasies - Speed Devils",
+      "year": "1992",
+      "publisher": "Digital Illusions CE",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinball Fantasies - Stones'n'Bones (Digital Illusions CE)",
+      "fullpath": "futurepinball-Pinball Fantasies - Stones'n'Bones (Digital Illusions CE)",
+      "name": "Pinball Fantasies - Stones'n'Bones",
+      "year": "1992",
+      "publisher": "Digital Illusions CE",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinball Pool (Gottlieb)",
+      "fullpath": "futurepinball-Pinball Pool (Gottlieb)",
+      "name": "Pinball Pool",
+      "year": "1979",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinball Pool (Ultimate Edition) (Gottlieb)",
+      "fullpath": "futurepinball-Pinball Pool (Ultimate Edition) (Gottlieb)",
+      "name": "Pinball Pool (Ultimate Edition)",
+      "year": "1974",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinball Pool (ULTRA Edition) (Gottlieb)",
+      "fullpath": "futurepinball-Pinball Pool (ULTRA Edition) (Gottlieb)",
+      "name": "Pinball Pool (ULTRA Edition)",
+      "year": "1974",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "PIN-BOT (Williams)",
+      "fullpath": "futurepinball-PIN-BOT (Williams)",
+      "name": "PIN-BOT",
+      "year": "1986",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pink Floyd - The Wall (Original)",
+      "fullpath": "futurepinball-Pink Floyd - The Wall (Original)",
+      "name": "Pink Floyd - The Wall",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pink Panther (Gottlieb)",
+      "fullpath": "futurepinball-Pink Panther (Gottlieb)",
+      "name": "Pink Panther",
+      "year": "1981",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pinky and the Brain (Special Edition 2) (Original)",
+      "fullpath": "futurepinball-Pinky and the Brain (Special Edition 2) (Original)",
+      "name": "Pinky and the Brain (Special Edition 2)",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pioneer (Gottlieb)",
+      "fullpath": "futurepinball-Pioneer (Gottlieb)",
+      "name": "Pioneer",
+      "year": "1976",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pirate Ship (Original)",
+      "fullpath": "futurepinball-Pirate Ship (Original)",
+      "name": "Pirate Ship",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pirates of the Caribbean (Gold Edition) (Stern)",
+      "fullpath": "futurepinball-Pirates of the Caribbean (Gold Edition) (Stern)",
+      "name": "Pirates of the Caribbean (Gold Edition)",
+      "year": "2006",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pirates of the Caribbean (Stern)",
+      "fullpath": "futurepinball-Pirates of the Caribbean (Stern)",
+      "name": "Pirates of the Caribbean",
+      "year": "2006",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Planet Of The Apes (Original)",
+      "fullpath": "futurepinball-Planet Of The Apes (Original)",
+      "name": "Planet Of The Apes",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Playboy (Bally)",
+      "fullpath": "futurepinball-Playboy (Bally)",
+      "name": "Playboy",
+      "year": "1978",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Police Force (Williams)",
+      "fullpath": "futurepinball-Police Force (Williams)",
+      "name": "Police Force",
+      "year": "1989",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pool Shark (Original)",
+      "fullpath": "futurepinball-Pool Shark (Original)",
+      "name": "Pool Shark",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pop-A-Card (Gottlieb)",
+      "fullpath": "futurepinball-Pop-A-Card (Gottlieb)",
+      "name": "Pop-A-Card",
+      "year": "1972",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Popeye (Original)",
+      "fullpath": "futurepinball-Popeye (Original)",
+      "name": "Popeye",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Power Play (Bally)",
+      "fullpath": "futurepinball-Power Play (Bally)",
+      "name": "Power Play",
+      "year": "1977",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Predator (Original)",
+      "fullpath": "futurepinball-Predator (Original)",
+      "name": "Predator",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pro Pool (Gottlieb)",
+      "fullpath": "futurepinball-Pro Pool (Gottlieb)",
+      "name": "Pro Pool",
+      "year": "1973",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pro-Football (Gottlieb)",
+      "fullpath": "futurepinball-Pro-Football (Gottlieb)",
+      "name": "Pro-Football",
+      "year": "1973",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pro-Football (ULTRA Edition) (Gottlieb)",
+      "fullpath": "futurepinball-Pro-Football (ULTRA Edition) (Gottlieb)",
+      "name": "Pro-Football (ULTRA Edition)",
+      "year": "1973",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Prometheus (Original)",
+      "fullpath": "futurepinball-Prometheus (Original)",
+      "name": "Prometheus",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Psycho Pinball - Trick or Treat (Codemasters)",
+      "fullpath": "futurepinball-Psycho Pinball - Trick or Treat (Codemasters)",
+      "name": "Psycho Pinball - Trick or Treat",
+      "year": "1995",
+      "publisher": "Codemasters",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Psycho Pinball - Wild West (Codemasters)",
+      "fullpath": "futurepinball-Psycho Pinball - Wild West (Codemasters)",
+      "name": "Psycho Pinball - Wild West",
+      "year": "1995",
+      "publisher": "Codemasters",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Puppet Master (Original)",
+      "fullpath": "futurepinball-Puppet Master (Original)",
+      "name": "Puppet Master",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Q-Bert's Quest (Gottlieb)",
+      "fullpath": "futurepinball-Q-Bert's Quest (Gottlieb)",
+      "name": "Q*Bert's Quest",
+      "year": "1983",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Quicksilver (Stern)",
+      "fullpath": "futurepinball-Quicksilver (Stern)",
+      "name": "Quicksilver",
+      "year": "1980",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "R2D2 (Original)",
+      "fullpath": "futurepinball-R2D2 (Original)",
+      "name": "R2D2",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rat Fink (Original)",
+      "fullpath": "futurepinball-Rat Fink (Original)",
+      "name": "Rat Fink",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Raven (Gottlieb)",
+      "fullpath": "futurepinball-Raven (Gottlieb)",
+      "name": "Raven",
+      "year": "1986",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rawhide (Stern)",
+      "fullpath": "futurepinball-Rawhide (Stern)",
+      "name": "Rawhide",
+      "year": "1977",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Red Dwarf (Ultimate Edition) (Original)",
+      "fullpath": "futurepinball-Red Dwarf (Ultimate Edition) (Original)",
+      "name": "Red Dwarf: Ultimate Edition",
+      "year": "2010",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Red Max, The (Bally)",
+      "fullpath": "futurepinball-Red Max, The (Bally)",
+      "name": "Red Max, The",
+      "year": "1971",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Reel It In (Original)",
+      "fullpath": "futurepinball-Reel It In (Original)",
+      "name": "Reel It In",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Retroflair New Edition (Original)",
+      "fullpath": "futurepinball-Retroflair New Edition (Original)",
+      "name": "Retroflair New Edition",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Retroflair Revisited Table (Original)",
+      "fullpath": "futurepinball-Retroflair Revisited Table (Original)",
+      "name": "Retroflair Revisited Table",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Return Of The Living Dead (Original)",
+      "fullpath": "futurepinball-Return Of The Living Dead (Original)",
+      "name": "Return Of The Living Dead",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ripley's Believe It or Not! (Stern)",
+      "fullpath": "futurepinball-Ripley's Believe It or Not! (Stern)",
+      "name": "Ripley's Believe It or Not!",
+      "year": "2004",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Road Girls (Original)",
+      "fullpath": "futurepinball-Road Girls (Original)",
+      "name": "Road Girls",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Road Girls Revisited (Original)",
+      "fullpath": "futurepinball-Road Girls Revisited (Original)",
+      "name": "Road Girls: Revisited",
+      "year": "2007",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "RoboCop (Original)",
+      "fullpath": "futurepinball-RoboCop (Original)",
+      "name": "RoboCop",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "RoboCop (ULTRA Edition) (Original)",
+      "fullpath": "futurepinball-RoboCop (ULTRA Edition) (Original)",
+      "name": "RoboCop (ULTRA Edition)",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Robot (Zaccaria)",
+      "fullpath": "futurepinball-Robot (Zaccaria)",
+      "name": "Robot",
+      "year": "1985",
+      "publisher": "Zaccaria",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Robot City (Original)",
+      "fullpath": "futurepinball-Robot City (Original)",
+      "name": "Robot City",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Robots Invasion! (Original)",
+      "fullpath": "futurepinball-Robots Invasion! (Original)",
+      "name": "Robots Invasion!",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Robots Invasion! (ULTRA Edition) (Original)",
+      "fullpath": "futurepinball-Robots Invasion! (ULTRA Edition) (Original)",
+      "name": "Robots Invasion! (ULTRA Edition)",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rock & Rule (Original)",
+      "fullpath": "futurepinball-Rock & Rule (Original)",
+      "name": "Rock & Rule",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rocket (Williams)",
+      "fullpath": "futurepinball-Rocket (Williams)",
+      "name": "Rocket",
+      "year": "1959",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rocket Derby (Original)",
+      "fullpath": "futurepinball-Rocket Derby (Original)",
+      "name": "Rocket Derby",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rocket III (Bally)",
+      "fullpath": "futurepinball-Rocket III (Bally)",
+      "name": "Rocket III",
+      "year": "1989",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rocket Raccoon (Original)",
+      "fullpath": "futurepinball-Rocket Raccoon (Original)",
+      "name": "Rocket Raccoon",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rocket Ship X (Original)",
+      "fullpath": "futurepinball-Rocket Ship X (Original)",
+      "name": "Rocket Ship X",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rocky (Gottlieb)",
+      "fullpath": "futurepinball-Rocky (Gottlieb)",
+      "name": "Rocky",
+      "year": "1982",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rolling Stones (Bally)",
+      "fullpath": "futurepinball-Rolling Stones (Bally)",
+      "name": "Rolling Stones",
+      "year": "1979",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Romulans (Original)",
+      "fullpath": "futurepinball-Romulans (Original)",
+      "name": "Romulans",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Roy Clark The Entertainer (Fascination Int., Incorporated)",
+      "fullpath": "futurepinball-Roy Clark The Entertainer (Fascination Int., Incorporated)",
+      "name": "Roy Clark The Entertainer",
+      "year": "1977",
+      "publisher": "Fascination Int., Incorporated",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Royal Flush (Gottlieb)",
+      "fullpath": "futurepinball-Royal Flush (Gottlieb)",
+      "name": "Royal Flush",
+      "year": "1976",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rush (Original)",
+      "fullpath": "futurepinball-Rush (Original)",
+      "name": "Rush (Original)",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Safari (Bally)",
+      "fullpath": "futurepinball-Safari (Bally)",
+      "name": "Safari",
+      "year": "1966",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Samurai (Original)",
+      "fullpath": "futurepinball-Samurai (Original)",
+      "name": "Samurai",
+      "year": "2010",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Satin Doll (Williams)",
+      "fullpath": "futurepinball-Satin Doll (Williams)",
+      "name": "Satin Doll",
+      "year": "1975",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Scared Stiff (Bally)",
+      "fullpath": "futurepinball-Scared Stiff (Bally)",
+      "name": "Scared Stiff",
+      "year": "1996",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sci-Fi Classic (Original)",
+      "fullpath": "futurepinball-Sci-Fi Classic (Original)",
+      "name": "Sci-Fi Classic",
+      "year": "2005",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Scooby-Doo! (Original)",
+      "fullpath": "futurepinball-Scooby-Doo! (Original)",
+      "name": "Scooby-Doo!",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Scorpion (Williams)",
+      "fullpath": "futurepinball-Scorpion (Williams)",
+      "name": "Scorpion",
+      "year": "1980",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Seawitch (Stern)",
+      "fullpath": "futurepinball-Seawitch (Stern)",
+      "name": "Seawitch",
+      "year": "1980",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Seawitch (Ultimate Edition) (Stern)",
+      "fullpath": "futurepinball-Seawitch (Ultimate Edition) (Stern)",
+      "name": "Seawitch (Ultimate Edition)",
+      "year": "1980",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sharkey's Shootout (Stern)",
+      "fullpath": "futurepinball-Sharkey's Shootout (Stern)",
+      "name": "Sharkey's Shootout",
+      "year": "2000",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sheriff (Gottlieb)",
+      "fullpath": "futurepinball-Sheriff (Gottlieb)",
+      "name": "Sheriff",
+      "year": "1971",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ship Ahoy (Gottlieb)",
+      "fullpath": "futurepinball-Ship Ahoy (Gottlieb)",
+      "name": "Ship Ahoy",
+      "year": "1976",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Ship-Mates (Gottlieb)",
+      "fullpath": "futurepinball-Ship-Mates (Gottlieb)",
+      "name": "Ship-Mates",
+      "year": "1964",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Shock (Taito)",
+      "fullpath": "futurepinball-Shock (Taito)",
+      "name": "Shock",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Shootanza (Original)",
+      "fullpath": "futurepinball-Shootanza (Original)",
+      "name": "Shootanza",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Shrek (Stern)",
+      "fullpath": "futurepinball-Shrek (Stern)",
+      "name": "Shrek",
+      "year": "2008",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Silver (Gottlieb)",
+      "fullpath": "futurepinball-Silver (Gottlieb)",
+      "name": "Silver",
+      "year": "1957",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Silverball Mania (Bally)",
+      "fullpath": "futurepinball-Silverball Mania (Bally)",
+      "name": "Silverball Mania",
+      "year": "1978",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Silverball Mania (Ultimate Edition) (Bally)",
+      "fullpath": "futurepinball-Silverball Mania (Ultimate Edition) (Bally)",
+      "name": "Silverball Mania (Ultimate Edition)",
+      "year": "1980",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Simpsons Pinball Party, The (Stern)",
+      "fullpath": "futurepinball-Simpsons Pinball Party, The (Stern)",
+      "name": "Simpsons Pinball Party, The",
+      "year": "2003",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Simpsons, The (Data East)",
+      "fullpath": "futurepinball-Simpsons, The (Data East)",
+      "name": "Simpsons, The",
+      "year": "1990",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sinbad (Gottlieb)",
+      "fullpath": "futurepinball-Sinbad (Gottlieb)",
+      "name": "Sinbad",
+      "year": "1978",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sittin' Pretty (Gottlieb)",
+      "fullpath": "futurepinball-Sittin' Pretty (Gottlieb)",
+      "name": "Sittin' Pretty",
+      "year": "1958",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Six Million Dollar Man, The (Bally)",
+      "fullpath": "futurepinball-Six Million Dollar Man, The (Bally)",
+      "name": "Six Million Dollar Man, The",
+      "year": "1978",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Six Million Dollar Man, The (Ultimate Edition) (Bally)",
+      "fullpath": "futurepinball-Six Million Dollar Man, The (Ultimate Edition) (Bally)",
+      "name": "Six Million Dollar Man, The (Ultimate Edition)",
+      "year": "1978",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Skateball (Bally)",
+      "fullpath": "futurepinball-Skateball (Bally)",
+      "name": "Skateball",
+      "year": "1958",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sky Divers (Bally)",
+      "fullpath": "futurepinball-Sky Divers (Bally)",
+      "name": "Sky Divers",
+      "year": "1964",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sky Jump (Gottlieb)",
+      "fullpath": "futurepinball-Sky Jump (Gottlieb)",
+      "name": "Sky Jump",
+      "year": "1974",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Skyway (Williams)",
+      "fullpath": "futurepinball-Skyway (Williams)",
+      "name": "Skyway",
+      "year": "1954",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Slick Chick (Gottlieb)",
+      "fullpath": "futurepinball-Slick Chick (Gottlieb)",
+      "name": "Slick Chick",
+      "year": "1963",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Smokey And The Bandit (Original)",
+      "fullpath": "futurepinball-Smokey And The Bandit (Original)",
+      "name": "Smokey And The Bandit",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Snow Queen (Gottlieb)",
+      "fullpath": "futurepinball-Snow Queen (Gottlieb)",
+      "name": "Snow Queen",
+      "year": "1970",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sonic The Hedgehog (Ultimate Edition) (Original)",
+      "fullpath": "futurepinball-Sonic The Hedgehog (Ultimate Edition) (Original)",
+      "name": "Sonic The Hedgehog (Ultimate Edition)",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sorcerer (Special Edition) (Williams)",
+      "fullpath": "futurepinball-Sorcerer (Special Edition) (Williams)",
+      "name": "Sorcerer (Special Edition)",
+      "year": "1985",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sorcerer (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-Sorcerer (Ultimate Edition) (Williams)",
+      "name": "Sorcerer (Ultimate Edition)",
+      "year": "1985",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sorcerer (Williams)",
+      "fullpath": "futurepinball-Sorcerer (Williams)",
+      "name": "Sorcerer",
+      "year": "1985",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Space 1999 (Original)",
+      "fullpath": "futurepinball-Space 1999 (Original)",
+      "name": "Space 1999",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Space Invaders (Bally)",
+      "fullpath": "futurepinball-Space Invaders (Bally)",
+      "name": "Space Invaders",
+      "year": "1979",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Space Invaders (Special Edition) (Bally)",
+      "fullpath": "futurepinball-Space Invaders (Special Edition) (Bally)",
+      "name": "Space Invaders (Special Edition)",
+      "year": "1979",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Space Invaders 2 (Original)",
+      "fullpath": "futurepinball-Space Invaders 2 (Original)",
+      "name": "Space Invaders 2",
+      "year": "2007",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Space Mission (ULTRA Edition) (Williams)",
+      "fullpath": "futurepinball-Space Mission (ULTRA Edition) (Williams)",
+      "name": "Space Mission (ULTRA Edition)",
+      "year": "1976",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Space Mission (Williams)",
+      "fullpath": "futurepinball-Space Mission (Williams)",
+      "name": "Space Mission",
+      "year": "1976",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Space Rider (Geiger)",
+      "fullpath": "futurepinball-Space Rider (Geiger)",
+      "name": "Space Rider",
+      "year": "1980",
+      "publisher": "Geiger",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Space Shuttle (Williams)",
+      "fullpath": "futurepinball-Space Shuttle (Williams)",
+      "name": "Space Shuttle",
+      "year": "1984",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Space Station (Williams)",
+      "fullpath": "futurepinball-Space Station (Williams)",
+      "name": "Space Station",
+      "year": "1987",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Space War (Original)",
+      "fullpath": "futurepinball-Space War (Original)",
+      "name": "Space War",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spanish Eyes (Williams)",
+      "fullpath": "futurepinball-Spanish Eyes (Williams)",
+      "name": "Spanish Eyes",
+      "year": "1972",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spawn (Original)",
+      "fullpath": "futurepinball-Spawn (Original)",
+      "name": "Spawn",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Speed Devils (Special Edition) (Original)",
+      "fullpath": "futurepinball-Speed Devils (Special Edition) (Original)",
+      "name": "Speed Devils (Special Edition)",
+      "year": "2009",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spider-Man (Rapid Loader) (Stern)",
+      "fullpath": "futurepinball-Spider-Man (Rapid Loader) (Stern)",
+      "name": "Spider-Man (Rapid Loader)",
+      "year": "2007",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spider-Man (Stern)",
+      "fullpath": "futurepinball-Spider-Man (Stern)",
+      "name": "Spider-Man",
+      "year": "2007",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spider-Man (ULTRA Edition) (Stern)",
+      "fullpath": "futurepinball-Spider-Man (ULTRA Edition) (Stern)",
+      "name": "Spider-Man (ULTRA Edition)",
+      "year": "2007",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spin Out (Gottlieb)",
+      "fullpath": "futurepinball-Spin Out (Gottlieb)",
+      "name": "Spin Out",
+      "year": "1975",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spirit (Gottlieb)",
+      "fullpath": "futurepinball-Spirit (Gottlieb)",
+      "name": "Spirit",
+      "year": "1982",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spirit of '76 (Gottlieb)",
+      "fullpath": "futurepinball-Spirit of '76 (Gottlieb)",
+      "name": "Spirit of '76",
+      "year": "1975",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spirit of '76 (ULTRA Edition) (Gottlieb)",
+      "fullpath": "futurepinball-Spirit of '76 (ULTRA Edition) (Gottlieb)",
+      "name": "Spirit of '76 (ULTRA Edition)",
+      "year": "1975",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spirit of Flight (Original)",
+      "fullpath": "futurepinball-Spirit of Flight (Original)",
+      "name": "Spirit of Flight",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "SpongeBob Squarepants (Original)",
+      "fullpath": "futurepinball-SpongeBob Squarepants (Original)",
+      "name": "SpongeBob Squarepants",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spy Hunter (Bally)",
+      "fullpath": "futurepinball-Spy Hunter (Bally)",
+      "name": "Spy Hunter",
+      "year": "1984",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Square Head (Gottlieb)",
+      "fullpath": "futurepinball-Square Head (Gottlieb)",
+      "name": "Square Head",
+      "year": "1963",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Jet (Bally)",
+      "fullpath": "futurepinball-Star Jet (Bally)",
+      "name": "Star Jet",
+      "year": "1963",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Trek - The Next Generation (20th Anniversary Edition) (Williams)",
+      "fullpath": "futurepinball-Star Trek - The Next Generation (20th Anniversary Edition) (Williams)",
+      "name": "Star Trek - The Next Generation (20th Anniversary Edition)",
+      "year": "1993",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Trek - The Next Generation (Williams)",
+      "fullpath": "futurepinball-Star Trek - The Next Generation (Williams)",
+      "name": "Star Trek - The Next Generation",
+      "year": "1993",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Trek (Bally)",
+      "fullpath": "futurepinball-Star Trek (Bally)",
+      "name": "Star Trek",
+      "year": "1978",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Trek (Ultimate Edition) (Bally)",
+      "fullpath": "futurepinball-Star Trek (Ultimate Edition) (Bally)",
+      "name": "Star Trek (Ultimate Edition)",
+      "year": "1978",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Trek (ULTRA Edition) (Bally)",
+      "fullpath": "futurepinball-Star Trek (ULTRA Edition) (Bally)",
+      "name": "Star Trek (ULTRA Edition)",
+      "year": "1978",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Trek XSE (Bally)",
+      "fullpath": "futurepinball-Star Trek XSE (Bally)",
+      "name": "Star Trek XSE",
+      "year": "1978",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Wars - Death Star Assault (Ultimate Edition) (Original)",
+      "fullpath": "futurepinball-Star Wars - Death Star Assault (Ultimate Edition) (Original)",
+      "name": "Star Wars - Death Star Assault (Ultimate Edition)",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Wars - Empire Edition (Original)",
+      "fullpath": "futurepinball-Star Wars - Empire Edition (Original)",
+      "name": "Star Wars - Empire Edition",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Wars - Empire Edition (VIP Edition) (Original)",
+      "fullpath": "futurepinball-Star Wars - Empire Edition (VIP Edition) (Original)",
+      "name": "Star Wars - Empire Edition (VIP Edition)",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Wars - Jedi Version (Original)",
+      "fullpath": "futurepinball-Star Wars - Jedi Version (Original)",
+      "name": "Star Wars - Jedi Version",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Wars - The Battle for Hoth (Original)",
+      "fullpath": "futurepinball-Star Wars - The Battle for Hoth (Original)",
+      "name": "Star Wars - The Battle for Hoth",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Wars - The Empire Strikes Back (Hankin)",
+      "fullpath": "futurepinball-Star Wars - The Empire Strikes Back (Hankin)",
+      "name": "Star Wars - The Empire Strikes Back",
+      "year": "1980",
+      "publisher": "Hankin",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Stargate (Gottlieb)",
+      "fullpath": "futurepinball-Stargate (Gottlieb)",
+      "name": "Stargate",
+      "year": "1995",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Stars (Stern)",
+      "fullpath": "futurepinball-Stars (Stern)",
+      "name": "Stars",
+      "year": "1978",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Stars (ULTRA Edition) (Stern)",
+      "fullpath": "futurepinball-Stars (ULTRA Edition) (Stern)",
+      "name": "Stars (ULTRA Edition)",
+      "year": "1978",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Steampunk Air Pirates (Original)",
+      "fullpath": "futurepinball-Steampunk Air Pirates (Original)",
+      "name": "Steampunk Air Pirates",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Steel Wheel (Special Edition) (Original)",
+      "fullpath": "futurepinball-Steel Wheel (Special Edition) (Original)",
+      "name": "Steel Wheel (Special Edition)",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Stepmania (Original)",
+      "fullpath": "futurepinball-Stepmania (Original)",
+      "name": "Stepmania",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Straight Flush (Gottlieb)",
+      "fullpath": "futurepinball-Straight Flush (Gottlieb)",
+      "name": "Straight Flush",
+      "year": "1957",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Strange Science (Bally)",
+      "fullpath": "futurepinball-Strange Science (Bally)",
+      "name": "Strange Science",
+      "year": "1986",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Strange World (Gottlieb)",
+      "fullpath": "futurepinball-Strange World (Gottlieb)",
+      "name": "Strange World",
+      "year": "1978",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Strato-Flite (Williams)",
+      "fullpath": "futurepinball-Strato-Flite (Williams)",
+      "name": "Strato-Flite",
+      "year": "1974",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Street Fighter II (Gottlieb)",
+      "fullpath": "futurepinball-Street Fighter II (Gottlieb)",
+      "name": "Street Fighter II",
+      "year": "1993",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Streets Of Fire (Original)",
+      "fullpath": "futurepinball-Streets Of Fire (Original)",
+      "name": "Streets Of Fire",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Strikes and Spares (Bally)",
+      "fullpath": "futurepinball-Strikes and Spares (Bally)",
+      "name": "Strikes and Spares",
+      "year": "1977",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Strikes and Spares (Ultimate Edition) (Bally)",
+      "fullpath": "futurepinball-Strikes and Spares (Ultimate Edition) (Bally)",
+      "name": "Strikes and Spares (Ultimate Edition)",
+      "year": "1978",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Strikes and Spares (ULTRA Edition) (Bally)",
+      "fullpath": "futurepinball-Strikes and Spares (ULTRA Edition) (Bally)",
+      "name": "Strikes and Spares (ULTRA Edition)",
+      "year": "1978",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Strip Joker Poker (Ultimate Edition) (Original)",
+      "fullpath": "futurepinball-Strip Joker Poker (Ultimate Edition) (Original)",
+      "name": "Strip Joker Poker (Ultimate Edition)",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Subway (Gottlieb)",
+      "fullpath": "futurepinball-Subway (Gottlieb)",
+      "name": "Subway",
+      "year": "1966",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Suburbs 2100 (Original)",
+      "fullpath": "futurepinball-Suburbs 2100 (Original)",
+      "name": "Suburbs 2100",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Super Mario Bros. Mushroom World (Gottlieb)",
+      "fullpath": "futurepinball-Super Mario Bros. Mushroom World (Gottlieb)",
+      "name": "Super Mario Bros. Mushroom World",
+      "year": "1992",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Super Spin (Gottlieb)",
+      "fullpath": "futurepinball-Super Spin (Gottlieb)",
+      "name": "Super Spin",
+      "year": "1977",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Superman (Man Of Steel Edition) (Original)",
+      "fullpath": "futurepinball-Superman (Man Of Steel Edition) (Original)",
+      "name": "Superman (Man Of Steel Edition)",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Superman (Ultimate Edition) (Original)",
+      "fullpath": "futurepinball-Superman (Ultimate Edition) (Original)",
+      "name": "Superman (Ultimate Edition)",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Superman (VIP Edition) (Original)",
+      "fullpath": "futurepinball-Superman (VIP Edition) (Original)",
+      "name": "Superman (VIP Edition)",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Supersonic (Bally)",
+      "fullpath": "futurepinball-Supersonic (Bally)",
+      "name": "Supersonic",
+      "year": "1979",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Surf Champ (Gottlieb)",
+      "fullpath": "futurepinball-Surf Champ (Gottlieb)",
+      "name": "Surf Champ",
+      "year": "1976",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Surfer (Gottlieb)",
+      "fullpath": "futurepinball-Surfer (Gottlieb)",
+      "name": "Surfer",
+      "year": "1976",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Sweet Hearts (Gottlieb)",
+      "fullpath": "futurepinball-Sweet Hearts (Gottlieb)",
+      "name": "Sweet Hearts",
+      "year": "1963",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Swords of Fury (Williams)",
+      "fullpath": "futurepinball-Swords of Fury (Williams)",
+      "name": "Swords of Fury",
+      "year": "1988",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Taito Shock (Taito)",
+      "fullpath": "futurepinball-Taito Shock (Taito)",
+      "name": "Taito Shock",
+      "year": "1980",
+      "publisher": "Taito",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tales From the Crypt (Data East)",
+      "fullpath": "futurepinball-Tales From the Crypt (Data East)",
+      "name": "Tales From the Crypt",
+      "year": "1993",
+      "publisher": "Data East",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tales From The Crypt (Ultimate Edition) (Original)",
+      "fullpath": "futurepinball-Tales From The Crypt (Ultimate Edition) (Original)",
+      "name": "Tales From The Crypt (Ultimate Edition)",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tales From The Forbidden Zone (Original)",
+      "fullpath": "futurepinball-Tales From The Forbidden Zone (Original)",
+      "name": "Tales From The Forbidden Zone",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Target Alpha (Gottlieb)",
+      "fullpath": "futurepinball-Target Alpha (Gottlieb)",
+      "name": "Target Alpha",
+      "year": "1976",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Taxi (Williams)",
+      "fullpath": "futurepinball-Taxi (Williams)",
+      "name": "Taxi",
+      "year": "1988",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Teacher's Pet (Williams)",
+      "fullpath": "futurepinball-Teacher's Pet (Williams)",
+      "name": "Teacher's Pet",
+      "year": "1965",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tee'd Off (Gottlieb)",
+      "fullpath": "futurepinball-Tee'd Off (Gottlieb)",
+      "name": "Tee'd Off",
+      "year": "1993",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tee'd Off (ULTRA Edition) (Gottlieb)",
+      "fullpath": "futurepinball-Tee'd Off (ULTRA Edition) (Gottlieb)",
+      "name": "Tee'd Off (ULTRA Edition)",
+      "year": "1993",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Teenage Mutant Ninja Turtles (Original)",
+      "fullpath": "futurepinball-Teenage Mutant Ninja Turtles (Original)",
+      "name": "Teenage Mutant Ninja Turtles",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Terminator 2 Judgement Day (Skynet Edition) (Williams)",
+      "fullpath": "futurepinball-Terminator 2 Judgement Day (Skynet Edition) (Williams)",
+      "name": "Terminator 2: Judgement Day (Skynet Edition)",
+      "year": "1991",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Terminator 2 Judgement Day (Stern)",
+      "fullpath": "futurepinball-Terminator 2 Judgement Day (Stern)",
+      "name": "Terminator 2: Judgement Day",
+      "year": "1991",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Terminator 2 Judgement Day (Ultimate Edition) (Williams)",
+      "fullpath": "futurepinball-Terminator 2 Judgement Day (Ultimate Edition) (Williams)",
+      "name": "Terminator 2: Judgement Day (Ultimate Edition)",
+      "year": "1991",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Terminator 2 Judgement Day (ULTRA Edition) (Williams)",
+      "fullpath": "futurepinball-Terminator 2 Judgement Day (ULTRA Edition) (Williams)",
+      "name": "Terminator 2: Judgement Day (ULTRA Edition)",
+      "year": "1991",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "The 60's (Original)",
+      "fullpath": "futurepinball-The 60's (Original)",
+      "name": "The 60's",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "The 70's (Original)",
+      "fullpath": "futurepinball-The 70's (Original)",
+      "name": "The 70's",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "The 80's (Original)",
+      "fullpath": "futurepinball-The 80's (Original)",
+      "name": "The 80's",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "The 90's (Original)",
+      "fullpath": "futurepinball-The 90's (Original)",
+      "name": "The 90's",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "The Adventures of TINTIN - The Secret of the Unicorn (Original)",
+      "fullpath": "futurepinball-The Adventures of TINTIN - The Secret of the Unicorn (Original)",
+      "name": "The Adventures of TINTIN - The Secret of the Unicorn",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "The Fifth Element (Original)",
+      "fullpath": "futurepinball-The Fifth Element (Original)",
+      "name": "The Fifth Element",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "The Good The Bad And The Ugly (Original)",
+      "fullpath": "futurepinball-The Good The Bad And The Ugly (Original)",
+      "name": "The Good The Bad And The Ugly",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "The King of Dragons (Original)",
+      "fullpath": "futurepinball-The King of Dragons (Original)",
+      "name": "The King of Dragons",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "The Ryan's Pumpkin Carving (Original)",
+      "fullpath": "futurepinball-The Ryan's Pumpkin Carving (Original)",
+      "name": "The Ryan's Pumpkin Carving",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "The Shadow (Bally)",
+      "fullpath": "futurepinball-The Shadow (Bally)",
+      "name": "The Shadow",
+      "year": "1994",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "The X-Files (Sega)",
+      "fullpath": "futurepinball-The X-Files (Sega)",
+      "name": "The X-Files",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Three Angels (Original)",
+      "fullpath": "futurepinball-Three Angels (Original)",
+      "name": "Three Angels",
+      "year": "2009",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Three Angels (Ultimate Edition) (Original)",
+      "fullpath": "futurepinball-Three Angels (Ultimate Edition) (Original)",
+      "name": "Three Angels (Ultimate Edition)",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Thunderbirds (Original)",
+      "fullpath": "futurepinball-Thunderbirds (Original)",
+      "name": "Thunderbirds",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "ThunderCats (Original)",
+      "fullpath": "futurepinball-ThunderCats (Original)",
+      "name": "ThunderCats",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tim-Buc-Tu (Williams)",
+      "fullpath": "futurepinball-Tim-Buc-Tu (Williams)",
+      "name": "Tim-Buc-Tu",
+      "year": "1956",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Time Tunnel (Bally)",
+      "fullpath": "futurepinball-Time Tunnel (Bally)",
+      "name": "Time Tunnel",
+      "year": "1971",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Time Warp (Williams)",
+      "fullpath": "futurepinball-Time Warp (Williams)",
+      "name": "Time Warp",
+      "year": "1979",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tiny Toons (Original)",
+      "fullpath": "futurepinball-Tiny Toons (Original)",
+      "name": "Tiny Toons",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Titan (Taito)",
+      "fullpath": "futurepinball-Titan (Taito)",
+      "name": "Titan",
+      "year": "1982",
+      "publisher": "Taito",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tomb Raider (Original)",
+      "fullpath": "futurepinball-Tomb Raider (Original)",
+      "name": "Tomb Raider",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tomb Raider Underworld (Original)",
+      "fullpath": "futurepinball-Tomb Raider Underworld (Original)",
+      "name": "Tomb Raider Underworld",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Top Score (Gottlieb)",
+      "fullpath": "futurepinball-Top Score (Gottlieb)",
+      "name": "Top Score",
+      "year": "1975",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Totem (Gottlieb)",
+      "fullpath": "futurepinball-Totem (Gottlieb)",
+      "name": "Totem",
+      "year": "1979",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Transformers (Stern)",
+      "fullpath": "futurepinball-Transformers (Stern)",
+      "name": "Transformers",
+      "year": "2011",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Transformers (VIP Edition) (Stern)",
+      "fullpath": "futurepinball-Transformers (VIP Edition) (Stern)",
+      "name": "Transformers (VIP Edition)",
+      "year": "2011",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Transformers Rapid Loader (Stern)",
+      "fullpath": "futurepinball-Transformers Rapid Loader (Stern)",
+      "name": "Transformers Rapid Loader",
+      "year": "2011",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Trapped In Wonderland (Original)",
+      "fullpath": "futurepinball-Trapped In Wonderland (Original)",
+      "name": "Trapped In Wonderland",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tribute To The 80s Astrohits (Original)",
+      "fullpath": "futurepinball-Tribute To The 80s Astrohits (Original)",
+      "name": "Tribute To The 80s Astrohits",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tribute To The 80s Cool Position (Original)",
+      "fullpath": "futurepinball-Tribute To The 80s Cool Position (Original)",
+      "name": "Tribute To The 80s Cool Position",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tribute To The 80s Frogster (Original)",
+      "fullpath": "futurepinball-Tribute To The 80s Frogster (Original)",
+      "name": "Tribute To The 80s Frogster",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tribute To The 80s Multipede (Original)",
+      "fullpath": "futurepinball-Tribute To The 80s Multipede (Original)",
+      "name": "Tribute To The 80s Multipede",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tribute To The 80s Tempexx (Original)",
+      "fullpath": "futurepinball-Tribute To The 80s Tempexx (Original)",
+      "name": "Tribute To The 80s Tempexx",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tribute To The 80s TutenKham (Original)",
+      "fullpath": "futurepinball-Tribute To The 80s TutenKham (Original)",
+      "name": "Tribute To The 80s TutenKham",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Trick Or Treat (Original)",
+      "fullpath": "futurepinball-Trick Or Treat (Original)",
+      "name": "Trick Or Treat",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Trident (Stern)",
+      "fullpath": "futurepinball-Trident (Stern)",
+      "name": "Trident",
+      "year": "1979",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Trident (Ultimate Edition) (Stern)",
+      "fullpath": "futurepinball-Trident (Ultimate Edition) (Stern)",
+      "name": "Trident (Ultimate Edition)",
+      "year": "1979",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Trident (ULTRA Edition) (Stern)",
+      "fullpath": "futurepinball-Trident (ULTRA Edition) (Stern)",
+      "name": "Trident (ULTRA Edition)",
+      "year": "1979",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Triple Strike (Williams)",
+      "fullpath": "futurepinball-Triple Strike (Williams)",
+      "name": "Triple Strike",
+      "year": "2012",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tron (Stern)",
+      "fullpath": "futurepinball-Tron (Stern)",
+      "name": "Tron",
+      "year": "2011",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tron Disco-Theque (Original)",
+      "fullpath": "futurepinball-Tron Disco-Theque (Original)",
+      "name": "Tron Disco-Theque",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "TRON Legacy (Stern)",
+      "fullpath": "futurepinball-TRON Legacy (Stern)",
+      "name": "TRON Legacy",
+      "year": "2011",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tron Legacy (ULTRA Edition) (Original)",
+      "fullpath": "futurepinball-Tron Legacy (ULTRA Edition) (Original)",
+      "name": "Tron Legacy (ULTRA Edition)",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "TRON Legacy (VIP Edition) (Original)",
+      "fullpath": "futurepinball-TRON Legacy (VIP Edition) (Original)",
+      "name": "TRON Legacy (VIP Edition)",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Truxton (Original)",
+      "fullpath": "futurepinball-Truxton (Original)",
+      "name": "Truxton",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Truxton (ULTRA Edition) (Original)",
+      "fullpath": "futurepinball-Truxton (ULTRA Edition) (Original)",
+      "name": "Truxton (ULTRA Edition)",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Twilight Zone (20th Anniversary Edition) (Ultimate Edition) (Bally)",
+      "fullpath": "futurepinball-Twilight Zone (20th Anniversary Edition) (Ultimate Edition) (Bally)",
+      "name": "Twilight Zone (20th Anniversary Edition) (Ultimate Edition)",
+      "year": "1993",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Twilight Zone (Bally)",
+      "fullpath": "futurepinball-Twilight Zone (Bally)",
+      "name": "Twilight Zone",
+      "year": "1993",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Twister (Sega)",
+      "fullpath": "futurepinball-Twister (Sega)",
+      "name": "Twister",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "UFO (Original)",
+      "fullpath": "futurepinball-UFO (Original)",
+      "name": "UFO",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vampire 2006 (Original)",
+      "fullpath": "futurepinball-Vampire 2006 (Original)",
+      "name": "Vampire 2006",
+      "year": "2006",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Van Halen (Original)",
+      "fullpath": "futurepinball-Van Halen (Original)",
+      "name": "Van Halen",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vikings (Original)",
+      "fullpath": "futurepinball-Vikings (Original)",
+      "name": "Vikings",
+      "year": "2015",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Volcano (Gottlieb)",
+      "fullpath": "futurepinball-Volcano (Gottlieb)",
+      "name": "Volcano",
+      "year": "1981",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Volley (Gottlieb)",
+      "fullpath": "futurepinball-Volley (Gottlieb)",
+      "name": "Volley",
+      "year": "1976",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vortex (Taito)",
+      "fullpath": "futurepinball-Vortex (Taito)",
+      "name": "Vortex",
+      "year": "1983",
+      "publisher": "Taito",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wacky Races (Original)",
+      "fullpath": "futurepinball-Wacky Races (Original)",
+      "name": "Wacky Races",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Walking Dead, The (Original)",
+      "fullpath": "futurepinball-Walking Dead, The (Original)",
+      "name": "Walking Dead, The",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Walking Dead, The (Stern)",
+      "fullpath": "futurepinball-Walking Dead, The (Stern)",
+      "name": "Walking Dead, The",
+      "year": "2014",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wanted (Original)",
+      "fullpath": "futurepinball-Wanted (Original)",
+      "name": "Wanted",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "War Of The Worlds, The (Gold Edition) (Original)",
+      "fullpath": "futurepinball-War Of The Worlds, The (Gold Edition) (Original)",
+      "name": "War Of The Worlds, The (Gold Edition)",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "War of the Worlds, The (Original)",
+      "fullpath": "futurepinball-War of the Worlds, The (Original)",
+      "name": "War of the Worlds, The",
+      "year": "2010",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "War of the Worlds, The (Ultimate Edition) (Original)",
+      "fullpath": "futurepinball-War of the Worlds, The (Ultimate Edition) (Original)",
+      "name": "War of the Worlds, The (Ultimate Edition)",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Whirlwind (Williams)",
+      "fullpath": "futurepinball-Whirlwind (Williams)",
+      "name": "Whirlwind",
+      "year": "1990",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wild Fyre (Stern)",
+      "fullpath": "futurepinball-Wild Fyre (Stern)",
+      "name": "Wild Fyre",
+      "year": "1978",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wild Fyre (ULTRA Edition) (Stern)",
+      "fullpath": "futurepinball-Wild Fyre (ULTRA Edition) (Stern)",
+      "name": "Wild Fyre (ULTRA Edition)",
+      "year": "1978",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wipeout (Original)",
+      "fullpath": "futurepinball-Wipeout (Original)",
+      "name": "Wipeout",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wizard! (Bally)",
+      "fullpath": "futurepinball-Wizard! (Bally)",
+      "name": "Wizard!",
+      "year": "1974",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wonder Woman (Original)",
+      "fullpath": "futurepinball-Wonder Woman (Original)",
+      "name": "Wonder Woman",
+      "year": "2012",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "World Cup 94 (Williams)",
+      "fullpath": "futurepinball-World Cup 94 (Williams)",
+      "name": "World Cup 94",
+      "year": "1994",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "World Fair (Gottlieb)",
+      "fullpath": "futurepinball-World Fair (Gottlieb)",
+      "name": "World Fair",
+      "year": "1964",
+      "publisher": "Gottlieb",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Wrath Of Olympus (God Figures) (Original)",
+      "fullpath": "futurepinball-Wrath Of Olympus (God Figures) (Original)",
+      "name": "Wrath Of Olympus (God Figures)",
+      "year": "2013",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Xenon (Bally)",
+      "fullpath": "futurepinball-Xenon (Bally)",
+      "name": "Xenon",
+      "year": "1979",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Xenon (Ultimate Edition) (Bally)",
+      "fullpath": "futurepinball-Xenon (Ultimate Edition) (Bally)",
+      "name": "Xenon (Ultimate Edition)",
+      "year": "1980",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "X-Men (Stern)",
+      "fullpath": "futurepinball-X-Men (Stern)",
+      "name": "X-Men",
+      "year": "2012",
+      "publisher": "Stern",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "X's & O's (Bally)",
+      "fullpath": "futurepinball-X's & O's (Bally)",
+      "name": "X's & O's",
+      "year": "1984",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Yukon (Williams)",
+      "fullpath": "futurepinball-Yukon (Williams)",
+      "name": "Yukon",
+      "year": "1971",
+      "publisher": "Williams",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Zip-A-Doo (Bally)",
+      "fullpath": "futurepinball-Zip-A-Doo (Bally)",
+      "name": "Zip-A-Doo",
+      "year": "1969",
+      "publisher": "Bally",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Zira (Playmatic)",
+      "fullpath": "futurepinball-Zira (Playmatic)",
+      "name": "Zira",
+      "year": "1980",
+      "publisher": "Playmatic",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Zombieland (Original)",
+      "fullpath": "futurepinball-Zombieland (Original)",
+      "name": "Zombieland",
+      "year": "2011",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Zombies Ate My Neighbors (Original)",
+      "fullpath": "futurepinball-Zombies Ate My Neighbors (Original)",
+      "name": "Zombies Ate My Neighbors",
+      "year": "2014",
+      "publisher": "Original",
+      "genre": "Pinball",
+      "rating": "Other - NR (Not Rated)"
+    }
+  ]
+}

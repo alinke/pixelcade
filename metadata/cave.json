@@ -1,0 +1,284 @@
+{
+  "platform": "cave",
+  "totalGames": 30,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "cave game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "cave.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Akai Katana Shin",
+      "fullpath": "cave-Akai Katana Shin",
+      "name": "Akai Katana Shin",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "No Rating"
+    },
+    {
+      "id": "akatana",
+      "fullpath": "cave-akatana",
+      "name": "akatana",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "No Rating"
+    },
+    {
+      "id": "ddonpach",
+      "fullpath": "cave-ddonpach",
+      "name": "DoDonPachi",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ddp2",
+      "fullpath": "cave-ddp2",
+      "name": "ddp2",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "No Rating"
+    },
+    {
+      "id": "ddp3",
+      "fullpath": "cave-ddp3",
+      "name": "ddp3",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "No Rating"
+    },
+    {
+      "id": "ddpdfk",
+      "fullpath": "cave-ddpdfk",
+      "name": "ddpdfk",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "No Rating"
+    },
+    {
+      "id": "ddpdoj",
+      "fullpath": "cave-ddpdoj",
+      "name": "DoDonPachi",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ddpdojt",
+      "fullpath": "cave-ddpdojt",
+      "name": "ddpdojt",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "No Rating"
+    },
+    {
+      "id": "ddpsdoj",
+      "fullpath": "cave-ddpsdoj",
+      "name": "ddpsdoj",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "No Rating"
+    },
+    {
+      "id": "Deathsmiles II",
+      "fullpath": "cave-Deathsmiles II",
+      "name": "Deathsmiles II",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "No Rating"
+    },
+    {
+      "id": "deathsml",
+      "fullpath": "cave-deathsml",
+      "name": "Deathsmiles",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "dfeveron",
+      "fullpath": "cave-dfeveron",
+      "name": "Dangun Feveron",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "dfkbl",
+      "fullpath": "cave-dfkbl",
+      "name": "dfkbl",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "No Rating"
+    },
+    {
+      "id": "donpachi",
+      "fullpath": "cave-donpachi",
+      "name": "DoDonPachi",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "dsmbl",
+      "fullpath": "cave-dsmbl",
+      "name": "dsmbl",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "No Rating"
+    },
+    {
+      "id": "espgal",
+      "fullpath": "cave-espgal",
+      "name": "Espgaluda",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "espgal2",
+      "fullpath": "cave-espgal2",
+      "name": "Espgaluda 2",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "esprade",
+      "fullpath": "cave-esprade",
+      "name": "ESP Ra.De.",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "futari15",
+      "fullpath": "cave-futari15",
+      "name": "MUSHIHIME-SAMA FUTARI",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "futaribl",
+      "fullpath": "cave-futaribl",
+      "name": "Mushihime-Sama Futari Black Label",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "guwange",
+      "fullpath": "cave-guwange",
+      "name": "Guwange",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ibara",
+      "fullpath": "cave-ibara",
+      "name": "Ibara",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ibarablk",
+      "fullpath": "cave-ibarablk",
+      "name": "Ibara Black",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ket",
+      "fullpath": "cave-ket",
+      "name": "Ket",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "mmpork",
+      "fullpath": "cave-mmpork",
+      "name": "Pork",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "mushisam",
+      "fullpath": "cave-mushisam",
+      "name": "Mushpat Cave",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pinkswts",
+      "fullpath": "cave-pinkswts",
+      "name": "Pink Sweets",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "progear",
+      "fullpath": "cave-progear",
+      "name": "Pro Gear",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sss",
+      "fullpath": "cave-sss",
+      "name": "sss",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "No Rating"
+    },
+    {
+      "id": "uopoko",
+      "fullpath": "cave-uopoko",
+      "name": "uopoko",
+      "year": "2015",
+      "publisher": "Cave",
+      "genre": "General",
+      "rating": "No Rating"
+    }
+  ]
+}

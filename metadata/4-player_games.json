@@ -1,0 +1,2354 @@
+{
+  "platform": "4-player_games",
+  "totalGames": 260,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "4-player_games game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "4-player_games.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "player_games-3stoogesxbox",
+      "fullpath": "4-player_games-3stoogesxbox",
+      "name": "3stoogesxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-aafb",
+      "fullpath": "4-player_games-aafb",
+      "name": "aafb",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-aafbxbox",
+      "fullpath": "4-player_games-aafbxbox",
+      "name": "aafbxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-arabfgt",
+      "fullpath": "4-player_games-arabfgt",
+      "name": "arabfgt",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-arabfgtxbox",
+      "fullpath": "4-player_games-arabfgtxbox",
+      "name": "arabfgtxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-armwar",
+      "fullpath": "4-player_games-armwar",
+      "name": "armwar",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-armwarxbox",
+      "fullpath": "4-player_games-armwarxbox",
+      "name": "armwarxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-astorm",
+      "fullpath": "4-player_games-astorm",
+      "name": "astorm",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-astorm3xbox",
+      "fullpath": "4-player_games-astorm3xbox",
+      "name": "astorm3xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-asylum",
+      "fullpath": "4-player_games-asylum",
+      "name": "asylum",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-asylumxbox",
+      "fullpath": "4-player_games-asylumxbox",
+      "name": "asylumxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-avsp",
+      "fullpath": "4-player_games-avsp",
+      "name": "avsp",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-avspxbox",
+      "fullpath": "4-player_games-avspxbox",
+      "name": "avspxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-barricad",
+      "fullpath": "4-player_games-barricad",
+      "name": "barricad",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-barricadxbox",
+      "fullpath": "4-player_games-barricadxbox",
+      "name": "barricadxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-batcir",
+      "fullpath": "4-player_games-batcir",
+      "name": "batcir",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-batcirxbox",
+      "fullpath": "4-player_games-batcirxbox",
+      "name": "batcirxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-bbmanw",
+      "fullpath": "4-player_games-bbmanw",
+      "name": "bbmanw",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-bbmanwxbox",
+      "fullpath": "4-player_games-bbmanwxbox",
+      "name": "bbmanwxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-blitz2k",
+      "fullpath": "4-player_games-blitz2k",
+      "name": "blitz2k",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-blitz2kxbox",
+      "fullpath": "4-player_games-blitz2kxbox",
+      "name": "blitz2kxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-blitz99",
+      "fullpath": "4-player_games-blitz99",
+      "name": "blitz99",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-blitz99xbox",
+      "fullpath": "4-player_games-blitz99xbox",
+      "name": "blitz99xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-blzntrnd",
+      "fullpath": "4-player_games-blzntrnd",
+      "name": "blzntrnd",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-blzntrndxbox",
+      "fullpath": "4-player_games-blzntrndxbox",
+      "name": "blzntrndxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-brapboys",
+      "fullpath": "4-player_games-brapboys",
+      "name": "brapboys",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-brapboysxbox",
+      "fullpath": "4-player_games-brapboysxbox",
+      "name": "brapboysxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-brutforc",
+      "fullpath": "4-player_games-brutforc",
+      "name": "brutforc",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-brutforcxbox",
+      "fullpath": "4-player_games-brutforcxbox",
+      "name": "brutforcxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-bsoccer",
+      "fullpath": "4-player_games-bsoccer",
+      "name": "bsoccer",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-bsoccerxbox",
+      "fullpath": "4-player_games-bsoccerxbox",
+      "name": "bsoccerxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-bssoccerxbox",
+      "fullpath": "4-player_games-bssoccerxbox",
+      "name": "bssoccerxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-btoads",
+      "fullpath": "4-player_games-btoads",
+      "name": "btoads",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-btoadsxbox",
+      "fullpath": "4-player_games-btoadsxbox",
+      "name": "btoadsxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-bucky",
+      "fullpath": "4-player_games-bucky",
+      "name": "bucky",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-buckyxbox",
+      "fullpath": "4-player_games-buckyxbox",
+      "name": "buckyxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-captaven",
+      "fullpath": "4-player_games-captaven",
+      "name": "captaven",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-captavenxbox",
+      "fullpath": "4-player_games-captavenxbox",
+      "name": "captavenxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-captcomm",
+      "fullpath": "4-player_games-captcomm",
+      "name": "captcomm",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-captcommxbox",
+      "fullpath": "4-player_games-captcommxbox",
+      "name": "captcommxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-checkmat",
+      "fullpath": "4-player_games-checkmat",
+      "name": "checkmat",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-checkmatxbox",
+      "fullpath": "4-player_games-checkmatxbox",
+      "name": "checkmatxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-comotion",
+      "fullpath": "4-player_games-comotion",
+      "name": "comotion",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-comotionxbox",
+      "fullpath": "4-player_games-comotionxbox",
+      "name": "comotionxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-crimfghtu",
+      "fullpath": "4-player_games-crimfghtu",
+      "name": "crimfghtu",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-crimfghtuxbox",
+      "fullpath": "4-player_games-crimfghtuxbox",
+      "name": "crimfghtuxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ctribe",
+      "fullpath": "4-player_games-ctribe",
+      "name": "ctribe",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ctribexbox",
+      "fullpath": "4-player_games-ctribexbox",
+      "name": "ctribexbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-cyberbal",
+      "fullpath": "4-player_games-cyberbal",
+      "name": "cyberbal",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-cyberbalxbox",
+      "fullpath": "4-player_games-cyberbalxbox",
+      "name": "cyberbalxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-cyclwarr",
+      "fullpath": "4-player_games-cyclwarr",
+      "name": "cyclwarr",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-cyclwarrxbox",
+      "fullpath": "4-player_games-cyclwarrxbox",
+      "name": "cyclwarrxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ddcrew",
+      "fullpath": "4-player_games-ddcrew",
+      "name": "ddcrew",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ddcrewxbox",
+      "fullpath": "4-player_games-ddcrewxbox",
+      "name": "ddcrewxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ddragon3",
+      "fullpath": "4-player_games-ddragon3",
+      "name": "ddragon3",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ddragon3xbox",
+      "fullpath": "4-player_games-ddragon3xbox",
+      "name": "ddragon3xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ddsom",
+      "fullpath": "4-player_games-ddsom",
+      "name": "ddsom",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ddsomxbox",
+      "fullpath": "4-player_games-ddsomxbox",
+      "name": "ddsomxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ddtod",
+      "fullpath": "4-player_games-ddtod",
+      "name": "ddtod",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ddtodxbox",
+      "fullpath": "4-player_games-ddtodxbox",
+      "name": "ddtodxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-desertbr",
+      "fullpath": "4-player_games-desertbr",
+      "name": "desertbr",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-desertbrxbox",
+      "fullpath": "4-player_games-desertbrxbox",
+      "name": "desertbrxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-dino",
+      "fullpath": "4-player_games-dino",
+      "name": "dino",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-dinoxbox",
+      "fullpath": "4-player_games-dinoxbox",
+      "name": "dinoxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-dsoccr94",
+      "fullpath": "4-player_games-dsoccr94",
+      "name": "dsoccr94",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-dsoccr94xbox",
+      "fullpath": "4-player_games-dsoccr94xbox",
+      "name": "dsoccr94xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-dunkmnia",
+      "fullpath": "4-player_games-dunkmnia",
+      "name": "dunkmnia",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-dunkmniaxbox",
+      "fullpath": "4-player_games-dunkmniaxbox",
+      "name": "dunkmniaxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-dynablst",
+      "fullpath": "4-player_games-dynablst",
+      "name": "dynablst",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-dynablstxbox",
+      "fullpath": "4-player_games-dynablstxbox",
+      "name": "dynablstxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-esckids",
+      "fullpath": "4-player_games-esckids",
+      "name": "esckids",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-esckidsxbox",
+      "fullpath": "4-player_games-esckidsxbox",
+      "name": "esckidsxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-exvania",
+      "fullpath": "4-player_games-exvania",
+      "name": "exvania",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-exvaniaxbox",
+      "fullpath": "4-player_games-exvaniaxbox",
+      "name": "exvaniaxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-fball",
+      "fullpath": "4-player_games-fball",
+      "name": "fball",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-fballxbox",
+      "fullpath": "4-player_games-fballxbox",
+      "name": "fballxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-fixeighta",
+      "fullpath": "4-player_games-fixeighta",
+      "name": "fixeighta",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-fixeightaxbox",
+      "fullpath": "4-player_games-fixeightaxbox",
+      "name": "fixeightaxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-footchmp",
+      "fullpath": "4-player_games-footchmp",
+      "name": "footchmp",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-footchmpxbox",
+      "fullpath": "4-player_games-footchmpxbox",
+      "name": "footchmpxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ga2",
+      "fullpath": "4-player_games-ga2",
+      "name": "ga2",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ga2xbox",
+      "fullpath": "4-player_games-ga2xbox",
+      "name": "ga2xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gaunt2",
+      "fullpath": "4-player_games-gaunt2",
+      "name": "gaunt2",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gaunt2xbox",
+      "fullpath": "4-player_games-gaunt2xbox",
+      "name": "gaunt2xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gauntdl",
+      "fullpath": "4-player_games-gauntdl",
+      "name": "gauntdl",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gauntdlxbox",
+      "fullpath": "4-player_games-gauntdlxbox",
+      "name": "gauntdlxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gauntleg",
+      "fullpath": "4-player_games-gauntleg",
+      "name": "gauntleg",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gauntlegxbox",
+      "fullpath": "4-player_games-gauntlegxbox",
+      "name": "gauntlegxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gauntlet",
+      "fullpath": "4-player_games-gauntlet",
+      "name": "gauntlet",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gauntletxbox",
+      "fullpath": "4-player_games-gauntletxbox",
+      "name": "gauntletxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gground",
+      "fullpath": "4-player_games-gground",
+      "name": "gground",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ggroundxbox",
+      "fullpath": "4-player_games-ggroundxbox",
+      "name": "ggroundxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gijoe",
+      "fullpath": "4-player_games-gijoe",
+      "name": "gijoe",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gijoexbox",
+      "fullpath": "4-player_games-gijoexbox",
+      "name": "gijoexbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-goldmedl",
+      "fullpath": "4-player_games-goldmedl",
+      "name": "goldmedl",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-goldmedlxbox",
+      "fullpath": "4-player_games-goldmedlxbox",
+      "name": "goldmedlxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gotcha",
+      "fullpath": "4-player_games-gotcha",
+      "name": "gotcha",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-gotchaxbox",
+      "fullpath": "4-player_games-gotchaxbox",
+      "name": "gotchaxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-growl",
+      "fullpath": "4-player_games-growl",
+      "name": "growl",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-growlxbox",
+      "fullpath": "4-player_games-growlxbox",
+      "name": "growlxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-guardian",
+      "fullpath": "4-player_games-guardian",
+      "name": "guardian",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-guardianxbox",
+      "fullpath": "4-player_games-guardianxbox",
+      "name": "guardianxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-hardyardxbox",
+      "fullpath": "4-player_games-hardyardxbox",
+      "name": "hardyardxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-hiimpact",
+      "fullpath": "4-player_games-hiimpact",
+      "name": "hiimpact",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-hiimpactxbox",
+      "fullpath": "4-player_games-hiimpactxbox",
+      "name": "hiimpactxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-hitice",
+      "fullpath": "4-player_games-hitice",
+      "name": "hitice",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-hiticexbox",
+      "fullpath": "4-player_games-hiticexbox",
+      "name": "hiticexbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-hook",
+      "fullpath": "4-player_games-hook",
+      "name": "hook",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-hookxbox",
+      "fullpath": "4-player_games-hookxbox",
+      "name": "hookxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-hoops96",
+      "fullpath": "4-player_games-hoops96",
+      "name": "hoops96",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-hoops96xbox",
+      "fullpath": "4-player_games-hoops96xbox",
+      "name": "hoops96xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-hyperath",
+      "fullpath": "4-player_games-hyperath",
+      "name": "hyperath",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-hyperathxbox",
+      "fullpath": "4-player_games-hyperathxbox",
+      "name": "hyperathxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-iceclmrd",
+      "fullpath": "4-player_games-iceclmrd",
+      "name": "iceclmrd",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-iceclmrdxbox",
+      "fullpath": "4-player_games-iceclmrdxbox",
+      "name": "iceclmrdxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-jdreddpxbox",
+      "fullpath": "4-player_games-jdreddpxbox",
+      "name": "jdreddpxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-karatblz",
+      "fullpath": "4-player_games-karatblz",
+      "name": "karatblz",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-karatblzxbox",
+      "fullpath": "4-player_games-karatblzxbox",
+      "name": "karatblzxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kicknrun",
+      "fullpath": "4-player_games-kicknrun",
+      "name": "kicknrun",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kicknrunxbox",
+      "fullpath": "4-player_games-kicknrunxbox",
+      "name": "kicknrunxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-knckhead",
+      "fullpath": "4-player_games-knckhead",
+      "name": "knckhead",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-knckheadxbox",
+      "fullpath": "4-player_games-knckheadxbox",
+      "name": "knckheadxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-knights",
+      "fullpath": "4-player_games-knights",
+      "name": "knights",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-knightsxbox",
+      "fullpath": "4-player_games-knightsxbox",
+      "name": "knightsxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kod",
+      "fullpath": "4-player_games-kod",
+      "name": "kod",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kodxbox",
+      "fullpath": "4-player_games-kodxbox",
+      "name": "kodxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kov",
+      "fullpath": "4-player_games-kov",
+      "name": "kov",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kov2",
+      "fullpath": "4-player_games-kov2",
+      "name": "kov2",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kov2p",
+      "fullpath": "4-player_games-kov2p",
+      "name": "kov2p",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kov2pxbox",
+      "fullpath": "4-player_games-kov2pxbox",
+      "name": "kov2pxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kov2xbox",
+      "fullpath": "4-player_games-kov2xbox",
+      "name": "kov2xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kovplusxbox",
+      "fullpath": "4-player_games-kovplusxbox",
+      "name": "kovplusxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kovsh",
+      "fullpath": "4-player_games-kovsh",
+      "name": "kovsh",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kovshxbox",
+      "fullpath": "4-player_games-kovshxbox",
+      "name": "kovshxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-kovxbox",
+      "fullpath": "4-player_games-kovxbox",
+      "name": "kovxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-machbrkr",
+      "fullpath": "4-player_games-machbrkr",
+      "name": "machbrkr",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-machbrkrxbox",
+      "fullpath": "4-player_games-machbrkrxbox",
+      "name": "machbrkrxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-mainevt",
+      "fullpath": "4-player_games-mainevt",
+      "name": "mainevt",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-mainevtxbox",
+      "fullpath": "4-player_games-mainevtxbox",
+      "name": "mainevtxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-mbombrd",
+      "fullpath": "4-player_games-mbombrd",
+      "name": "mbombrd",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-mbombrdxbox",
+      "fullpath": "4-player_games-mbombrdxbox",
+      "name": "mbombrdxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-mercs",
+      "fullpath": "4-player_games-mercs",
+      "name": "mercs",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-mercsxbox",
+      "fullpath": "4-player_games-mercsxbox",
+      "name": "mercsxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-metamrph",
+      "fullpath": "4-player_games-metamrph",
+      "name": "metamrph",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-metamrphxbox",
+      "fullpath": "4-player_games-metamrphxbox",
+      "name": "metamrphxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-moomesa",
+      "fullpath": "4-player_games-moomesa",
+      "name": "moomesa",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-moomesaxbox",
+      "fullpath": "4-player_games-moomesaxbox",
+      "name": "moomesaxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-mwalk",
+      "fullpath": "4-player_games-mwalk",
+      "name": "mwalk",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-mwalkxbox",
+      "fullpath": "4-player_games-mwalkxbox",
+      "name": "mwalkxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-mystwarr",
+      "fullpath": "4-player_games-mystwarr",
+      "name": "mystwarr",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-mystwarrxbox",
+      "fullpath": "4-player_games-mystwarrxbox",
+      "name": "mystwarrxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-nbahangt",
+      "fullpath": "4-player_games-nbahangt",
+      "name": "nbahangt",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-nbahangtxbox",
+      "fullpath": "4-player_games-nbahangtxbox",
+      "name": "nbahangtxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-nbajam",
+      "fullpath": "4-player_games-nbajam",
+      "name": "nbajam",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-nbajamte",
+      "fullpath": "4-player_games-nbajamte",
+      "name": "nbajamte",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-nbajamte2",
+      "fullpath": "4-player_games-nbajamte2",
+      "name": "nbajamte2",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-nbajamte2xbox",
+      "fullpath": "4-player_games-nbajamte2xbox",
+      "name": "nbajamte2xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-nbajamtexbox",
+      "fullpath": "4-player_games-nbajamtexbox",
+      "name": "nbajamtexbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-nbajamxbox",
+      "fullpath": "4-player_games-nbajamxbox",
+      "name": "nbajamxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-nbbatman",
+      "fullpath": "4-player_games-nbbatman",
+      "name": "nbbatman",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-nbbatmanxbox",
+      "fullpath": "4-player_games-nbbatmanxbox",
+      "name": "nbbatmanxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ninjak",
+      "fullpath": "4-player_games-ninjak",
+      "name": "ninjak",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ninjakxbox",
+      "fullpath": "4-player_games-ninjakxbox",
+      "name": "ninjakxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-nslasher",
+      "fullpath": "4-player_games-nslasher",
+      "name": "nslasher",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-nslasherxbox",
+      "fullpath": "4-player_games-nslasherxbox",
+      "name": "nslasherxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-numanath",
+      "fullpath": "4-player_games-numanath",
+      "name": "numanath",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-numanathxbox",
+      "fullpath": "4-player_games-numanathxbox",
+      "name": "numanathxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-openice",
+      "fullpath": "4-player_games-openice",
+      "name": "openice",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-openicexbox",
+      "fullpath": "4-player_games-openicexbox",
+      "name": "openicexbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-orlegend",
+      "fullpath": "4-player_games-orlegend",
+      "name": "orlegend",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-orlegendxbox",
+      "fullpath": "4-player_games-orlegendxbox",
+      "name": "orlegendxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-paddlema",
+      "fullpath": "4-player_games-paddlema",
+      "name": "paddlema",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-paddlemaxbox",
+      "fullpath": "4-player_games-paddlemaxbox",
+      "name": "paddlemaxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-pasha2",
+      "fullpath": "4-player_games-pasha2",
+      "name": "pasha2",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-pasha2xbox",
+      "fullpath": "4-player_games-pasha2xbox",
+      "name": "pasha2xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-pigout",
+      "fullpath": "4-player_games-pigout",
+      "name": "pigout",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-pigoutxbox",
+      "fullpath": "4-player_games-pigoutxbox",
+      "name": "pigoutxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-pitfight",
+      "fullpath": "4-player_games-pitfight",
+      "name": "pitfight",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-pitfightxbox",
+      "fullpath": "4-player_games-pitfightxbox",
+      "name": "pitfightxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-powerdrv",
+      "fullpath": "4-player_games-powerdrv",
+      "name": "powerdrv",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-powerdrvxbox",
+      "fullpath": "4-player_games-powerdrvxbox",
+      "name": "powerdrvxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-punkshot",
+      "fullpath": "4-player_games-punkshot",
+      "name": "punkshot",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-punkshotxbox",
+      "fullpath": "4-player_games-punkshotxbox",
+      "name": "punkshotxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-quartet",
+      "fullpath": "4-player_games-quartet",
+      "name": "quartet",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-quartetxbox",
+      "fullpath": "4-player_games-quartetxbox",
+      "name": "quartetxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rampagexbox",
+      "fullpath": "4-player_games-rampagexbox",
+      "name": "rampagexbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rampart2p",
+      "fullpath": "4-player_games-rampart2p",
+      "name": "rampart2p",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rampart2pxbox",
+      "fullpath": "4-player_games-rampart2pxbox",
+      "name": "rampart2pxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rimrockn",
+      "fullpath": "4-player_games-rimrockn",
+      "name": "rimrockn",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rimrocknxbox",
+      "fullpath": "4-player_games-rimrocknxbox",
+      "name": "rimrocknxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rmpgwt",
+      "fullpath": "4-player_games-rmpgwt",
+      "name": "rmpgwt",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rmpgwtxbox",
+      "fullpath": "4-player_games-rmpgwtxbox",
+      "name": "rmpgwtxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rungun",
+      "fullpath": "4-player_games-rungun",
+      "name": "rungun",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rungun2",
+      "fullpath": "4-player_games-rungun2",
+      "name": "rungun2",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rungun2xbox",
+      "fullpath": "4-player_games-rungun2xbox",
+      "name": "rungun2xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rungunxbox",
+      "fullpath": "4-player_games-rungunxbox",
+      "name": "rungunxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rushhero",
+      "fullpath": "4-player_games-rushhero",
+      "name": "rushhero",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-rushheroxbox",
+      "fullpath": "4-player_games-rushheroxbox",
+      "name": "rushheroxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-shimpact",
+      "fullpath": "4-player_games-shimpact",
+      "name": "shimpact",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-shimpactxbox",
+      "fullpath": "4-player_games-shimpactxbox",
+      "name": "shimpactxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-silentd",
+      "fullpath": "4-player_games-silentd",
+      "name": "silentd",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-silentdxbox",
+      "fullpath": "4-player_games-silentdxbox",
+      "name": "silentdxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-simpsons",
+      "fullpath": "4-player_games-simpsons",
+      "name": "simpsons",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-simpsonsxbox",
+      "fullpath": "4-player_games-simpsonsxbox",
+      "name": "simpsonsxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-slammastxbox",
+      "fullpath": "4-player_games-slammastxbox",
+      "name": "slammastxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-snowbro2",
+      "fullpath": "4-player_games-snowbro2",
+      "name": "snowbro2",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-snowbro2xbox",
+      "fullpath": "4-player_games-snowbro2xbox",
+      "name": "snowbro2xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-soccerss",
+      "fullpath": "4-player_games-soccerss",
+      "name": "soccerss",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-soccerssxbox",
+      "fullpath": "4-player_games-soccerssxbox",
+      "name": "soccerssxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-spidman",
+      "fullpath": "4-player_games-spidman",
+      "name": "spidman",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-spidmanxbox",
+      "fullpath": "4-player_games-spidmanxbox",
+      "name": "spidmanxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-sslam",
+      "fullpath": "4-player_games-sslam",
+      "name": "sslam",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-sslamxbox",
+      "fullpath": "4-player_games-sslamxbox",
+      "name": "sslamxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ssriders",
+      "fullpath": "4-player_games-ssriders",
+      "name": "ssriders",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-ssridersxbox",
+      "fullpath": "4-player_games-ssridersxbox",
+      "name": "ssridersxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-stonebal",
+      "fullpath": "4-player_games-stonebal",
+      "name": "stonebal",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-stonebalxbox",
+      "fullpath": "4-player_games-stonebalxbox",
+      "name": "stonebalxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-swcourt",
+      "fullpath": "4-player_games-swcourt",
+      "name": "swcourt",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-swcourtxbox",
+      "fullpath": "4-player_games-swcourtxbox",
+      "name": "swcourtxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-tbowl",
+      "fullpath": "4-player_games-tbowl",
+      "name": "tbowl",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-tbowlxbox",
+      "fullpath": "4-player_games-tbowlxbox",
+      "name": "tbowlxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-teamqb",
+      "fullpath": "4-player_games-teamqb",
+      "name": "teamqb",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-teamqbxbox",
+      "fullpath": "4-player_games-teamqbxbox",
+      "name": "teamqbxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-theglad",
+      "fullpath": "4-player_games-theglad",
+      "name": "theglad",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-thegladxbox",
+      "fullpath": "4-player_games-thegladxbox",
+      "name": "thegladxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-tmnt",
+      "fullpath": "4-player_games-tmnt",
+      "name": "tmnt",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-tmnt2",
+      "fullpath": "4-player_games-tmnt2",
+      "name": "tmnt2",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-tmnt2xbox",
+      "fullpath": "4-player_games-tmnt2xbox",
+      "name": "tmnt2xbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-tmntxbox",
+      "fullpath": "4-player_games-tmntxbox",
+      "name": "tmntxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-trog",
+      "fullpath": "4-player_games-trog",
+      "name": "trog",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-trogxbox",
+      "fullpath": "4-player_games-trogxbox",
+      "name": "trogxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-turbofrc",
+      "fullpath": "4-player_games-turbofrc",
+      "name": "turbofrc",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-turbofrcxbox",
+      "fullpath": "4-player_games-turbofrcxbox",
+      "name": "turbofrcxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-uccops",
+      "fullpath": "4-player_games-uccops",
+      "name": "uccops",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-uccopsxbox",
+      "fullpath": "4-player_games-uccopsxbox",
+      "name": "uccopsxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-vball",
+      "fullpath": "4-player_games-vball",
+      "name": "vball",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-vballxbox",
+      "fullpath": "4-player_games-vballxbox",
+      "name": "vballxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-vendetta",
+      "fullpath": "4-player_games-vendetta",
+      "name": "vendetta",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-vendettaxbox",
+      "fullpath": "4-player_games-vendettaxbox",
+      "name": "vendettaxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-viostorm",
+      "fullpath": "4-player_games-viostorm",
+      "name": "viostorm",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-viostormxbox",
+      "fullpath": "4-player_games-viostormxbox",
+      "name": "viostormxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-vsbball",
+      "fullpath": "4-player_games-vsbball",
+      "name": "vsbball",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-vsbballxbox",
+      "fullpath": "4-player_games-vsbballxbox",
+      "name": "vsbballxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-vshoot",
+      "fullpath": "4-player_games-vshoot",
+      "name": "vshoot",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-vshootxbox",
+      "fullpath": "4-player_games-vshootxbox",
+      "name": "vshootxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-vstennis",
+      "fullpath": "4-player_games-vstennis",
+      "name": "vstennis",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-vstennisxbox",
+      "fullpath": "4-player_games-vstennisxbox",
+      "name": "vstennisxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-wbeachvl",
+      "fullpath": "4-player_games-wbeachvl",
+      "name": "wbeachvl",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-wbeachvlxbox",
+      "fullpath": "4-player_games-wbeachvlxbox",
+      "name": "wbeachvlxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-wg3dhxbox",
+      "fullpath": "4-player_games-wg3dhxbox",
+      "name": "wg3dhxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-wof",
+      "fullpath": "4-player_games-wof",
+      "name": "wof",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-wofxbox",
+      "fullpath": "4-player_games-wofxbox",
+      "name": "wofxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-wsf",
+      "fullpath": "4-player_games-wsf",
+      "name": "wsf",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-wsfxbox",
+      "fullpath": "4-player_games-wsfxbox",
+      "name": "wsfxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-wwfwfest",
+      "fullpath": "4-player_games-wwfwfest",
+      "name": "wwfwfest",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-wwfwfestxbox",
+      "fullpath": "4-player_games-wwfwfestxbox",
+      "name": "wwfwfestxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-xenophob",
+      "fullpath": "4-player_games-xenophob",
+      "name": "xenophob",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-xenophobxbox",
+      "fullpath": "4-player_games-xenophobxbox",
+      "name": "xenophobxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-xmen",
+      "fullpath": "4-player_games-xmen",
+      "name": "xmen",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    },
+    {
+      "id": "player_games-xmenxbox",
+      "fullpath": "4-player_games-xmenxbox",
+      "name": "xmenxbox",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "MAME",
+      "rating": "Misc"
+    }
+  ]
+}

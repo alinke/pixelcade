@@ -1,0 +1,149 @@
+{
+  "platform": "atarijaguarcd",
+  "totalGames": 15,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "atarijaguarcd game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "atarijaguarcd.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Brain Dead 13 (World)",
+      "fullpath": "atarijaguarcd-Brain Dead 13 (World)",
+      "name": "Brain Dead 13",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Asteroids (World)",
+      "fullpath": "atarijaguarcd-Asteroids (World)",
+      "name": "Asteroids",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Baldies (World)",
+      "fullpath": "atarijaguarcd-Baldies (World)",
+      "name": "Baldies",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battlemorph (World)",
+      "fullpath": "atarijaguarcd-Battlemorph (World)",
+      "name": "Battlemorph",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blue Lightning (World)",
+      "fullpath": "atarijaguarcd-Blue Lightning (World)",
+      "name": "Blue Lightning",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dragon's Lair (World)",
+      "fullpath": "atarijaguarcd-Dragon's Lair (World)",
+      "name": "Dragon's Lair",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gorf (World)",
+      "fullpath": "atarijaguarcd-Gorf (World)",
+      "name": "Gorf",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Highlander - The Last of the MacLeods (World)",
+      "fullpath": "atarijaguarcd-Highlander - The Last of the MacLeods (World)",
+      "name": "Highlander - The Last of the MacLeods",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hover Strike - Unconquered Lands (World)",
+      "fullpath": "atarijaguarcd-Hover Strike - Unconquered Lands (World)",
+      "name": "Hover Strike - Unconquered Lands",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Iron Soldier 2 (World)",
+      "fullpath": "atarijaguarcd-Iron Soldier 2 (World)",
+      "name": "Iron Soldier 2",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "JagTris (World)",
+      "fullpath": "atarijaguarcd-JagTris (World)",
+      "name": "JagTris",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Myst (World)",
+      "fullpath": "atarijaguarcd-Myst (World)",
+      "name": "Myst",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Native (World)",
+      "fullpath": "atarijaguarcd-Native (World)",
+      "name": "Native",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Primal Rage (World)",
+      "fullpath": "atarijaguarcd-Primal Rage (World)",
+      "name": "Primal Rage",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Ace (World)",
+      "fullpath": "atarijaguarcd-Space Ace (World)",
+      "name": "Space Ace",
+      "year": "1996",
+      "publisher": "Atari Jaguar CD",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

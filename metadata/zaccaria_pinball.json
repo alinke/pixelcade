@@ -1,0 +1,1085 @@
+{
+  "platform": "zaccaria_pinball",
+  "totalGames": 119,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "zaccaria_pinball game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "zaccaria_pinball.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Aerobatics Retro",
+      "fullpath": "zaccaria_pinball-Aerobatics Retro",
+      "name": "Aerobatics Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aerobatics",
+      "fullpath": "zaccaria_pinball-Aerobatics",
+      "name": "Aerobatics",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battle 2016",
+      "fullpath": "zaccaria_pinball-Battle 2016",
+      "name": "Battle 2016",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battle Deluxe",
+      "fullpath": "zaccaria_pinball-Battle Deluxe",
+      "name": "Battle Deluxe",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battle Retro",
+      "fullpath": "zaccaria_pinball-Battle Retro",
+      "name": "Battle Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battle",
+      "fullpath": "zaccaria_pinball-Battle",
+      "name": "Battle",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Beast Master",
+      "fullpath": "zaccaria_pinball-Beast Master",
+      "name": "Beast Master",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blackbelt 2018",
+      "fullpath": "zaccaria_pinball-Blackbelt 2018",
+      "name": "Blackbelt 2018",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blackbelt Retro",
+      "fullpath": "zaccaria_pinball-Blackbelt Retro",
+      "name": "Blackbelt Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blackbelt",
+      "fullpath": "zaccaria_pinball-Blackbelt",
+      "name": "Blackbelt",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Caveman",
+      "fullpath": "zaccaria_pinball-Caveman",
+      "name": "Caveman",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cine Star Deluxe",
+      "fullpath": "zaccaria_pinball-Cine Star Deluxe",
+      "name": "Cine Star Deluxe",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cine Star",
+      "fullpath": "zaccaria_pinball-Cine Star",
+      "name": "Cine Star",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Circus 2017",
+      "fullpath": "zaccaria_pinball-Circus 2017",
+      "name": "Circus 2017",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Circus Retro",
+      "fullpath": "zaccaria_pinball-Circus Retro",
+      "name": "Circus Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Circus",
+      "fullpath": "zaccaria_pinball-Circus",
+      "name": "Circus",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Clown 2019",
+      "fullpath": "zaccaria_pinball-Clown 2019",
+      "name": "Clown 2019",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Clown Retro",
+      "fullpath": "zaccaria_pinball-Clown Retro",
+      "name": "Clown Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Clown",
+      "fullpath": "zaccaria_pinball-Clown",
+      "name": "Clown",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Devil Riders 2019",
+      "fullpath": "zaccaria_pinball-Devil Riders 2019",
+      "name": "Devil Riders 2019",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Devil Riders Retro",
+      "fullpath": "zaccaria_pinball-Devil Riders Retro",
+      "name": "Devil Riders Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Devil Riders",
+      "fullpath": "zaccaria_pinball-Devil Riders",
+      "name": "Devil Riders",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Earth Wind Fire 2017",
+      "fullpath": "zaccaria_pinball-Earth Wind Fire 2017",
+      "name": "Earth Wind Fire 2017",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Earth Wind Fire Retro",
+      "fullpath": "zaccaria_pinball-Earth Wind Fire Retro",
+      "name": "Earth Wind Fire Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Earth Wind Fire",
+      "fullpath": "zaccaria_pinball-Earth Wind Fire",
+      "name": "Earth Wind Fire",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Farfalla 2017",
+      "fullpath": "zaccaria_pinball-Farfalla 2017",
+      "name": "Farfalla 2017",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Farfalla Deluxe",
+      "fullpath": "zaccaria_pinball-Farfalla Deluxe",
+      "name": "Farfalla Deluxe",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Farfalla Retro",
+      "fullpath": "zaccaria_pinball-Farfalla Retro",
+      "name": "Farfalla Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Farfalla",
+      "fullpath": "zaccaria_pinball-Farfalla",
+      "name": "Farfalla",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fire Mountain 2019",
+      "fullpath": "zaccaria_pinball-Fire Mountain 2019",
+      "name": "Fire Mountain 2019",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fire Mountain Retro",
+      "fullpath": "zaccaria_pinball-Fire Mountain Retro",
+      "name": "Fire Mountain Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fire Mountain",
+      "fullpath": "zaccaria_pinball-Fire Mountain",
+      "name": "Fire Mountain",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Firefighter",
+      "fullpath": "zaccaria_pinball-Firefighter",
+      "name": "Firefighter",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Future World 2018",
+      "fullpath": "zaccaria_pinball-Future World 2018",
+      "name": "Future World 2018",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Future World",
+      "fullpath": "zaccaria_pinball-Future World",
+      "name": "Future World",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Granada",
+      "fullpath": "zaccaria_pinball-Granada",
+      "name": "Granada",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hot Wheels 2017",
+      "fullpath": "zaccaria_pinball-Hot Wheels 2017",
+      "name": "Hot Wheels 2017",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hot Wheels Retro",
+      "fullpath": "zaccaria_pinball-Hot Wheels Retro",
+      "name": "Hot Wheels Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hot Wheels",
+      "fullpath": "zaccaria_pinball-Hot Wheels",
+      "name": "Hot Wheels",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "House of Diamonds 2017",
+      "fullpath": "zaccaria_pinball-House of Diamonds 2017",
+      "name": "House of Diamonds 2017",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "House of Diamonds Deluxe",
+      "fullpath": "zaccaria_pinball-House of Diamonds Deluxe",
+      "name": "House of Diamonds Deluxe",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "House of Diamonds Retro",
+      "fullpath": "zaccaria_pinball-House of Diamonds Retro",
+      "name": "House of Diamonds Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "House of Diamonds",
+      "fullpath": "zaccaria_pinball-House of Diamonds",
+      "name": "House of Diamonds",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Locomotion 2018",
+      "fullpath": "zaccaria_pinball-Locomotion 2018",
+      "name": "Locomotion 2018",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Locomotion Retro",
+      "fullpath": "zaccaria_pinball-Locomotion Retro",
+      "name": "Locomotion Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Locomotion",
+      "fullpath": "zaccaria_pinball-Locomotion",
+      "name": "Locomotion",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lucky Fruit",
+      "fullpath": "zaccaria_pinball-Lucky Fruit",
+      "name": "Lucky Fruit",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Magic Castle 2017",
+      "fullpath": "zaccaria_pinball-Magic Castle 2017",
+      "name": "Magic Castle 2017",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Magic Castle Retro",
+      "fullpath": "zaccaria_pinball-Magic Castle Retro",
+      "name": "Magic Castle Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Magic Castle",
+      "fullpath": "zaccaria_pinball-Magic Castle",
+      "name": "Magic Castle",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mexico '86 Retro",
+      "fullpath": "zaccaria_pinball-Mexico '86 Retro",
+      "name": "Mexico '86 Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mexico '86",
+      "fullpath": "zaccaria_pinball-Mexico '86",
+      "name": "Mexico '86",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Moon Flight",
+      "fullpath": "zaccaria_pinball-Moon Flight",
+      "name": "Moon Flight",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mystic Star Retro",
+      "fullpath": "zaccaria_pinball-Mystic Star Retro",
+      "name": "Mystic Star Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mystic Star",
+      "fullpath": "zaccaria_pinball-Mystic Star",
+      "name": "Mystic Star",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Nautilus 2018",
+      "fullpath": "zaccaria_pinball-Nautilus 2018",
+      "name": "Nautilus 2018",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Nautilus Retro",
+      "fullpath": "zaccaria_pinball-Nautilus Retro",
+      "name": "Nautilus Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Nautilus",
+      "fullpath": "zaccaria_pinball-Nautilus",
+      "name": "Nautilus",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pinball Champ '82",
+      "fullpath": "zaccaria_pinball-Pinball Champ '82",
+      "name": "Pinball Champ '82",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pinball Champ 2018",
+      "fullpath": "zaccaria_pinball-Pinball Champ 2018",
+      "name": "Pinball Champ 2018",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pinball Champ Retro",
+      "fullpath": "zaccaria_pinball-Pinball Champ Retro",
+      "name": "Pinball Champ Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pinball Champ",
+      "fullpath": "zaccaria_pinball-Pinball Champ",
+      "name": "Pinball Champ",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pool Champion 2018",
+      "fullpath": "zaccaria_pinball-Pool Champion 2018",
+      "name": "Pool Champion 2018",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pool Champion Deluxe",
+      "fullpath": "zaccaria_pinball-Pool Champion Deluxe",
+      "name": "Pool Champion Deluxe",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pool Champion",
+      "fullpath": "zaccaria_pinball-Pool Champion",
+      "name": "Pool Champion",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Postal Redux 2021",
+      "fullpath": "zaccaria_pinball-Postal Redux 2021",
+      "name": "Postal Redux 2021",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Postal Redux Deluxe",
+      "fullpath": "zaccaria_pinball-Postal Redux Deluxe",
+      "name": "Postal Redux Deluxe",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Postal Redux Retro",
+      "fullpath": "zaccaria_pinball-Postal Redux Retro",
+      "name": "Postal Redux Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Postal Redux",
+      "fullpath": "zaccaria_pinball-Postal Redux",
+      "name": "Postal Redux",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Red Show Deluxe",
+      "fullpath": "zaccaria_pinball-Red Show Deluxe",
+      "name": "Red Show Deluxe",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Red Show",
+      "fullpath": "zaccaria_pinball-Red Show",
+      "name": "Red Show",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Robot 2018",
+      "fullpath": "zaccaria_pinball-Robot 2018",
+      "name": "Robot 2018",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Robot Deluxe",
+      "fullpath": "zaccaria_pinball-Robot Deluxe",
+      "name": "Robot Deluxe",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Robot Retro",
+      "fullpath": "zaccaria_pinball-Robot Retro",
+      "name": "Robot Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Robot",
+      "fullpath": "zaccaria_pinball-Robot",
+      "name": "Robot",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shooting the Rapids 2016",
+      "fullpath": "zaccaria_pinball-Shooting the Rapids 2016",
+      "name": "Shooting the Rapids 2016",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shooting the Rapids Retro",
+      "fullpath": "zaccaria_pinball-Shooting the Rapids Retro",
+      "name": "Shooting the Rapids Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shooting the Rapids",
+      "fullpath": "zaccaria_pinball-Shooting the Rapids",
+      "name": "Shooting the Rapids",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Soccer Kings Retro",
+      "fullpath": "zaccaria_pinball-Soccer Kings Retro",
+      "name": "Soccer Kings Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Soccer Kings",
+      "fullpath": "zaccaria_pinball-Soccer Kings",
+      "name": "Soccer Kings",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Shuttle 2016",
+      "fullpath": "zaccaria_pinball-Space Shuttle 2016",
+      "name": "Space Shuttle 2016",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Shuttle Retro",
+      "fullpath": "zaccaria_pinball-Space Shuttle Retro",
+      "name": "Space Shuttle Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Shuttle",
+      "fullpath": "zaccaria_pinball-Space Shuttle",
+      "name": "Space Shuttle",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Speed King",
+      "fullpath": "zaccaria_pinball-Speed King",
+      "name": "Speed King",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Spooky 2017",
+      "fullpath": "zaccaria_pinball-Spooky 2017",
+      "name": "Spooky 2017",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Spooky Deluxe",
+      "fullpath": "zaccaria_pinball-Spooky Deluxe",
+      "name": "Spooky Deluxe",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Spooky Retro",
+      "fullpath": "zaccaria_pinball-Spooky Retro",
+      "name": "Spooky Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Spooky",
+      "fullpath": "zaccaria_pinball-Spooky",
+      "name": "Spooky",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star God 2019",
+      "fullpath": "zaccaria_pinball-Star God 2019",
+      "name": "Star God 2019",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star God Retro",
+      "fullpath": "zaccaria_pinball-Star God Retro",
+      "name": "Star God Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star God",
+      "fullpath": "zaccaria_pinball-Star God",
+      "name": "Star God",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star's Phoenix 2018",
+      "fullpath": "zaccaria_pinball-Star's Phoenix 2018",
+      "name": "Star's Phoenix 2018",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star's Phoenix",
+      "fullpath": "zaccaria_pinball-Star's Phoenix",
+      "name": "Star's Phoenix",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Strike Deluxe",
+      "fullpath": "zaccaria_pinball-Strike Deluxe",
+      "name": "Strike Deluxe",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Strike",
+      "fullpath": "zaccaria_pinball-Strike",
+      "name": "Strike",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Supersonic Retro",
+      "fullpath": "zaccaria_pinball-Supersonic Retro",
+      "name": "Supersonic Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Supersonic",
+      "fullpath": "zaccaria_pinball-Supersonic",
+      "name": "Supersonic",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Aliens",
+      "fullpath": "zaccaria_pinball-The Aliens",
+      "name": "The Aliens",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Hippie",
+      "fullpath": "zaccaria_pinball-The Hippie",
+      "name": "The Hippie",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Mummy",
+      "fullpath": "zaccaria_pinball-The Mummy",
+      "name": "The Mummy",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Machine 2019",
+      "fullpath": "zaccaria_pinball-Time Machine 2019",
+      "name": "Time Machine 2019",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Machine Retro",
+      "fullpath": "zaccaria_pinball-Time Machine Retro",
+      "name": "Time Machine Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Machine",
+      "fullpath": "zaccaria_pinball-Time Machine",
+      "name": "Time Machine",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Top Hand",
+      "fullpath": "zaccaria_pinball-Top Hand",
+      "name": "Top Hand",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tropical 2019",
+      "fullpath": "zaccaria_pinball-Tropical 2019",
+      "name": "Tropical 2019",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tropical",
+      "fullpath": "zaccaria_pinball-Tropical",
+      "name": "Tropical",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Universe Deluxe",
+      "fullpath": "zaccaria_pinball-Universe Deluxe",
+      "name": "Universe Deluxe",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Universe Retro",
+      "fullpath": "zaccaria_pinball-Universe Retro",
+      "name": "Universe Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Universe",
+      "fullpath": "zaccaria_pinball-Universe",
+      "name": "Universe",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Voyager",
+      "fullpath": "zaccaria_pinball-Voyager",
+      "name": "Voyager",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Winter Sports 2018",
+      "fullpath": "zaccaria_pinball-Winter Sports 2018",
+      "name": "Winter Sports 2018",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Winter Sports",
+      "fullpath": "zaccaria_pinball-Winter Sports",
+      "name": "Winter Sports",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wizard",
+      "fullpath": "zaccaria_pinball-Wizard",
+      "name": "Wizard",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wood's Queen 2019",
+      "fullpath": "zaccaria_pinball-Wood's Queen 2019",
+      "name": "Wood's Queen 2019",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wood's Queen",
+      "fullpath": "zaccaria_pinball-Wood's Queen",
+      "name": "Wood's Queen",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zankor 2017",
+      "fullpath": "zaccaria_pinball-Zankor 2017",
+      "name": "Zankor 2017",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zankor Retro",
+      "fullpath": "zaccaria_pinball-Zankor Retro",
+      "name": "Zankor Retro",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zankor",
+      "fullpath": "zaccaria_pinball-Zankor",
+      "name": "Zankor",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zombies",
+      "fullpath": "zaccaria_pinball-Zombies",
+      "name": "Zombies",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

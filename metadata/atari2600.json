@@ -1,0 +1,2615 @@
+{
+  "platform": "atari2600",
+  "totalGames": 289,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "atari2600 game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "atari2600.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "3-D Tic-Tac-Toe (USA)",
+      "fullpath": "atari2600-3-D Tic-Tac-Toe (USA)",
+      "name": "3-D Tic-Tac-Toe",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "A Game of Concentration (USA)",
+      "fullpath": "atari2600-A Game of Concentration (USA)",
+      "name": "A Game of Concentration",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Activision Decathlon, The (USA)",
+      "fullpath": "atari2600-Activision Decathlon, The (USA)",
+      "name": "Activision Decathlon, The",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Adventure (USA)",
+      "fullpath": "atari2600-Adventure (USA)",
+      "name": "Adventure",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Adventure 2 (USA)",
+      "fullpath": "atari2600-Adventure 2 (USA)",
+      "name": "Adventure 2",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Air-Sea Battle (USA)",
+      "fullpath": "atari2600-Air-Sea Battle (USA)",
+      "name": "Air-Sea Battle",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Amidar (USA)",
+      "fullpath": "atari2600-Amidar (USA)",
+      "name": "Amidar",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aquaventure (USA) (Proto)",
+      "fullpath": "atari2600-Aquaventure (USA) (Proto)",
+      "name": "Aquaventure",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Asteroids (USA) (alt)",
+      "fullpath": "atari2600-Asteroids (USA) (alt)",
+      "name": "Asteroids",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Asteroids (USA)",
+      "fullpath": "atari2600-Asteroids (USA)",
+      "name": "Asteroids",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Atari Video Cube (USA)",
+      "fullpath": "atari2600-Atari Video Cube (USA)",
+      "name": "Atari Video Cube",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Atlantis (USA)",
+      "fullpath": "atari2600-Atlantis (USA)",
+      "name": "Atlantis",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Atlantis II (USA)",
+      "fullpath": "atari2600-Atlantis II (USA)",
+      "name": "Atlantis II",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Avalanche (USA)",
+      "fullpath": "atari2600-Avalanche (USA)",
+      "name": "Avalanche",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Backgammon (USA)",
+      "fullpath": "atari2600-Backgammon (USA)",
+      "name": "Backgammon",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Barnstorming (USA)",
+      "fullpath": "atari2600-Barnstorming (USA)",
+      "name": "Barnstorming",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Basic Math (USA)",
+      "fullpath": "atari2600-Basic Math (USA)",
+      "name": "Basic Math",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "BASIC Programming (USA)",
+      "fullpath": "atari2600-BASIC Programming (USA)",
+      "name": "BASIC Programming",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Basketball (USA)",
+      "fullpath": "atari2600-Basketball (USA)",
+      "name": "Basketball",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battlezone (USA)",
+      "fullpath": "atari2600-Battlezone (USA)",
+      "name": "Battlezone",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Beamrider (USA)",
+      "fullpath": "atari2600-Beamrider (USA)",
+      "name": "Beamrider",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Berzerk (USA) (alt)",
+      "fullpath": "atari2600-Berzerk (USA) (alt)",
+      "name": "Berzerk",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Berzerk (USA)",
+      "fullpath": "atari2600-Berzerk (USA)",
+      "name": "Berzerk",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Big Bird's Egg Catch (USA)",
+      "fullpath": "atari2600-Big Bird's Egg Catch (USA)",
+      "name": "Big Bird's Egg Catch",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bionic Breakthrough (USA) (Proto)",
+      "fullpath": "atari2600-Bionic Breakthrough (USA) (Proto)",
+      "name": "Bionic Breakthrough",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blackjack (USA)",
+      "fullpath": "atari2600-Blackjack (USA)",
+      "name": "Blackjack",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blueprint (USA) (alt)",
+      "fullpath": "atari2600-Blueprint (USA) (alt)",
+      "name": "Blueprint",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blueprint (USA)",
+      "fullpath": "atari2600-Blueprint (USA)",
+      "name": "Blueprint",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Boggle (USA) (Proto)",
+      "fullpath": "atari2600-Boggle (USA) (Proto)",
+      "name": "Boggle",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bowling (USA)",
+      "fullpath": "atari2600-Bowling (USA)",
+      "name": "Bowling",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Boxing (USA)",
+      "fullpath": "atari2600-Boxing (USA)",
+      "name": "Boxing",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Brain Games (USA)",
+      "fullpath": "atari2600-Brain Games (USA)",
+      "name": "Brain Games",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Breakout (USA) (alt)",
+      "fullpath": "atari2600-Breakout (USA) (alt)",
+      "name": "Breakout",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Breakout (USA)",
+      "fullpath": "atari2600-Breakout (USA)",
+      "name": "Breakout",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bridge (USA)",
+      "fullpath": "atari2600-Bridge (USA)",
+      "name": "Bridge",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Buck Rogers - Planet of Zoom (USA) (alt)",
+      "fullpath": "atari2600-Buck Rogers - Planet of Zoom (USA) (alt)",
+      "name": "Buck Rogers - Planet of Zoom",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Buck Rogers - Planet of Zoom (USA)",
+      "fullpath": "atari2600-Buck Rogers - Planet of Zoom (USA)",
+      "name": "Buck Rogers - Planet of Zoom",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bugs Bunny (USA) (Proto)",
+      "fullpath": "atari2600-Bugs Bunny (USA) (Proto)",
+      "name": "Bugs Bunny",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bump 'n' Jump (USA)",
+      "fullpath": "atari2600-Bump 'n' Jump (USA)",
+      "name": "Bump 'n' Jump",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "BurgerTime (USA)",
+      "fullpath": "atari2600-BurgerTime (USA)",
+      "name": "BurgerTime",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "California Games (USA)",
+      "fullpath": "atari2600-California Games (USA)",
+      "name": "California Games",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Canyon Bomber (USA)",
+      "fullpath": "atari2600-Canyon Bomber (USA)",
+      "name": "Canyon Bomber",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Casino (USA)",
+      "fullpath": "atari2600-Casino (USA)",
+      "name": "Casino",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Centipede (USA) (alt)",
+      "fullpath": "atari2600-Centipede (USA) (alt)",
+      "name": "Centipede",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Centipede (USA)",
+      "fullpath": "atari2600-Centipede (USA)",
+      "name": "Centipede",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Championship Soccer (USA)",
+      "fullpath": "atari2600-Championship Soccer (USA)",
+      "name": "Championship Soccer",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Checkers (USA)",
+      "fullpath": "atari2600-Checkers (USA)",
+      "name": "Checkers",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chopper Command (USA)",
+      "fullpath": "atari2600-Chopper Command (USA)",
+      "name": "Chopper Command",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Circus Atari (USA)",
+      "fullpath": "atari2600-Circus Atari (USA)",
+      "name": "Circus Atari",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Codebreaker (USA)",
+      "fullpath": "atari2600-Codebreaker (USA)",
+      "name": "Codebreaker",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Combat (USA)",
+      "fullpath": "atari2600-Combat (USA)",
+      "name": "Combat",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Combat Two (USA) (Proto)",
+      "fullpath": "atari2600-Combat Two (USA) (Proto)",
+      "name": "Combat Two",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Congo Bongo (USA)",
+      "fullpath": "atari2600-Congo Bongo (USA)",
+      "name": "Congo Bongo",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Conquest of Mars (USA)",
+      "fullpath": "atari2600-Conquest of Mars (USA)",
+      "name": "Conquest of Mars",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cookie Monster Munch (USA)",
+      "fullpath": "atari2600-Cookie Monster Munch (USA)",
+      "name": "Cookie Monster Munch",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cosmic Ark (USA)",
+      "fullpath": "atari2600-Cosmic Ark (USA)",
+      "name": "Cosmic Ark",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cosmic Commuter (USA)",
+      "fullpath": "atari2600-Cosmic Commuter (USA)",
+      "name": "Cosmic Commuter",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crack'ed (USA) (Proto)",
+      "fullpath": "atari2600-Crack'ed (USA) (Proto)",
+      "name": "Crack'ed",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crackpots (USA)",
+      "fullpath": "atari2600-Crackpots (USA)",
+      "name": "Crackpots",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crazy Climber (USA) (alt)",
+      "fullpath": "atari2600-Crazy Climber (USA) (alt)",
+      "name": "Crazy Climber",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crazy Climber (USA)",
+      "fullpath": "atari2600-Crazy Climber (USA)",
+      "name": "Crazy Climber",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crossbow (USA)",
+      "fullpath": "atari2600-Crossbow (USA)",
+      "name": "Crossbow",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crystal Castles (USA)",
+      "fullpath": "atari2600-Crystal Castles (USA)",
+      "name": "Crystal Castles",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cubicolor (USA) (Proto)",
+      "fullpath": "atari2600-Cubicolor (USA) (Proto)",
+      "name": "Cubicolor",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dark Chambers (USA)",
+      "fullpath": "atari2600-Dark Chambers (USA)",
+      "name": "Dark Chambers",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Defender (USA) (alt)",
+      "fullpath": "atari2600-Defender (USA) (alt)",
+      "name": "Defender",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Defender (USA)",
+      "fullpath": "atari2600-Defender (USA)",
+      "name": "Defender",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Demon Attack (USA)",
+      "fullpath": "atari2600-Demon Attack (USA)",
+      "name": "Demon Attack",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Demons to Diamonds (USA)",
+      "fullpath": "atari2600-Demons to Diamonds (USA)",
+      "name": "Demons to Diamonds",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Desert Falcon (USA)",
+      "fullpath": "atari2600-Desert Falcon (USA)",
+      "name": "Desert Falcon",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dig Dug (USA)",
+      "fullpath": "atari2600-Dig Dug (USA)",
+      "name": "Dig Dug",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dodge 'Em (USA)",
+      "fullpath": "atari2600-Dodge 'Em (USA)",
+      "name": "Dodge 'Em",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dolphin (USA)",
+      "fullpath": "atari2600-Dolphin (USA)",
+      "name": "Dolphin",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donald Duck's Speedboat (USA) (Proto)",
+      "fullpath": "atari2600-Donald Duck's Speedboat (USA) (Proto)",
+      "name": "Donald Duck's Speedboat",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donkey Kong (USA)",
+      "fullpath": "atari2600-Donkey Kong (USA)",
+      "name": "Donkey Kong",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Double Dragon (USA)",
+      "fullpath": "atari2600-Double Dragon (USA)",
+      "name": "Double Dragon",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Double Dunk (USA)",
+      "fullpath": "atari2600-Double Dunk (USA)",
+      "name": "Double Dunk",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dragonfire (USA)",
+      "fullpath": "atari2600-Dragonfire (USA)",
+      "name": "Dragonfire",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dragster (USA)",
+      "fullpath": "atari2600-Dragster (USA)",
+      "name": "Dragster",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dukes of Hazzard (USA) (Proto)",
+      "fullpath": "atari2600-Dukes of Hazzard (USA) (Proto)",
+      "name": "Dukes of Hazzard",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dukes of Hazzard (USA)",
+      "fullpath": "atari2600-Dukes of Hazzard (USA)",
+      "name": "Dukes of Hazzard",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dumbo's Flying Circus (USA) (Proto)",
+      "fullpath": "atari2600-Dumbo's Flying Circus (USA) (Proto)",
+      "name": "Dumbo's Flying Circus",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "E.T. - The Extra-Terrestrial (USA)",
+      "fullpath": "atari2600-E.T. - The Extra-Terrestrial (USA)",
+      "name": "E.T. - The Extra-Terrestrial",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Elevator Action (USA)",
+      "fullpath": "atari2600-Elevator Action (USA)",
+      "name": "Elevator Action",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Enduro (USA)",
+      "fullpath": "atari2600-Enduro (USA)",
+      "name": "Enduro",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fatal Run (Europe)",
+      "fullpath": "atari2600-Fatal Run (Europe)",
+      "name": "Fatal Run",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fathom (USA)",
+      "fullpath": "atari2600-Fathom (USA)",
+      "name": "Fathom",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fishing Derby (USA)",
+      "fullpath": "atari2600-Fishing Derby (USA)",
+      "name": "Fishing Derby",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Flag Capture (USA)",
+      "fullpath": "atari2600-Flag Capture (USA)",
+      "name": "Flag Capture",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Football (USA)",
+      "fullpath": "atari2600-Football (USA)",
+      "name": "Football",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Freeway (USA)",
+      "fullpath": "atari2600-Freeway (USA)",
+      "name": "Freeway",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Frog Pond (USA) (Proto)",
+      "fullpath": "atari2600-Frog Pond (USA) (Proto)",
+      "name": "Frog Pond",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Frogger (USA)",
+      "fullpath": "atari2600-Frogger (USA)",
+      "name": "Frogger",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Frogger II - Threeedeep! (USA)",
+      "fullpath": "atari2600-Frogger II - Threeedeep! (USA)",
+      "name": "Frogger II - Threeedeep!",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Frostbite (USA)",
+      "fullpath": "atari2600-Frostbite (USA)",
+      "name": "Frostbite",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Galagon (USA)",
+      "fullpath": "atari2600-Galagon (USA)",
+      "name": "Galagon",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Galaxian (USA)",
+      "fullpath": "atari2600-Galaxian (USA)",
+      "name": "Galaxian",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Garfield (USA) (Proto)",
+      "fullpath": "atari2600-Garfield (USA) (Proto)",
+      "name": "Garfield",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ghostbusters (USA)",
+      "fullpath": "atari2600-Ghostbusters (USA)",
+      "name": "Ghostbusters",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ghostbusters II (Europe)",
+      "fullpath": "atari2600-Ghostbusters II (Europe)",
+      "name": "Ghostbusters II",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Golf (USA)",
+      "fullpath": "atari2600-Golf (USA)",
+      "name": "Golf",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gorf (USA)",
+      "fullpath": "atari2600-Gorf (USA)",
+      "name": "Gorf",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Grand Prix (USA)",
+      "fullpath": "atari2600-Grand Prix (USA)",
+      "name": "Grand Prix",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gravitar (USA) (alt)",
+      "fullpath": "atari2600-Gravitar (USA) (alt)",
+      "name": "Gravitar",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gravitar (USA)",
+      "fullpath": "atari2600-Gravitar (USA)",
+      "name": "Gravitar",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gremlins (USA)",
+      "fullpath": "atari2600-Gremlins (USA)",
+      "name": "Gremlins",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Grover's Music Maker (USA) (Proto)",
+      "fullpath": "atari2600-Grover's Music Maker (USA) (Proto)",
+      "name": "Grover's Music Maker",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "H.E.R.O. (USA)",
+      "fullpath": "atari2600-H.E.R.O. (USA)",
+      "name": "H.E.R.O.",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Halo 2600 (USA) (Unl)",
+      "fullpath": "atari2600-Halo 2600 (USA) (Unl)",
+      "name": "Halo 2600",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hangman (USA)",
+      "fullpath": "atari2600-Hangman (USA)",
+      "name": "Hangman",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Haunted House (USA)",
+      "fullpath": "atari2600-Haunted House (USA)",
+      "name": "Haunted House",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Holey Moley (USA) (Proto)",
+      "fullpath": "atari2600-Holey Moley (USA) (Proto)",
+      "name": "Holey Moley",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Home Run (USA)",
+      "fullpath": "atari2600-Home Run (USA)",
+      "name": "Home Run",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Human Cannonball (USA)",
+      "fullpath": "atari2600-Human Cannonball (USA)",
+      "name": "Human Cannonball",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ice Hockey (USA)",
+      "fullpath": "atari2600-Ice Hockey (USA)",
+      "name": "Ice Hockey",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ikari Warriors (USA)",
+      "fullpath": "atari2600-Ikari Warriors (USA)",
+      "name": "Ikari Warriors",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Indy 500 (USA)",
+      "fullpath": "atari2600-Indy 500 (USA)",
+      "name": "Indy 500",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "James Bond 007 (USA)",
+      "fullpath": "atari2600-James Bond 007 (USA)",
+      "name": "James Bond 007",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Joust (USA)",
+      "fullpath": "atari2600-Joust (USA)",
+      "name": "Joust",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Jr. Pac-Man (USA)",
+      "fullpath": "atari2600-Jr. Pac-Man (USA)",
+      "name": "Jr. Pac-Man",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Jungle Hunt (USA)",
+      "fullpath": "atari2600-Jungle Hunt (USA)",
+      "name": "Jungle Hunt",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kabobber (USA) (Proto)",
+      "fullpath": "atari2600-Kabobber (USA) (Proto)",
+      "name": "Kabobber",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kaboom! (USA)",
+      "fullpath": "atari2600-Kaboom! (USA)",
+      "name": "Kaboom!",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kangaroo (USA) (alt)",
+      "fullpath": "atari2600-Kangaroo (USA) (alt)",
+      "name": "Kangaroo",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kangaroo (USA)",
+      "fullpath": "atari2600-Kangaroo (USA)",
+      "name": "Kangaroo",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Keystone Kapers (USA)",
+      "fullpath": "atari2600-Keystone Kapers (USA)",
+      "name": "Keystone Kapers",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Klax (Europe)",
+      "fullpath": "atari2600-Klax (Europe)",
+      "name": "Klax",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Krull (USA)",
+      "fullpath": "atari2600-Krull (USA)",
+      "name": "Krull",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lady Bug (USA)",
+      "fullpath": "atari2600-Lady Bug (USA)",
+      "name": "Lady Bug",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lady Bug Arcade (USA)",
+      "fullpath": "atari2600-Lady Bug Arcade (USA)",
+      "name": "Lady Bug Arcade",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Laser Blast (USA)",
+      "fullpath": "atari2600-Laser Blast (USA)",
+      "name": "Laser Blast",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Laser Gates (USA)",
+      "fullpath": "atari2600-Laser Gates (USA)",
+      "name": "Laser Gates",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Last Starfighter, The (USA) (Proto)",
+      "fullpath": "atari2600-Last Starfighter, The (USA) (Proto)",
+      "name": "Last Starfighter, The",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lock 'n' Chase (USA)",
+      "fullpath": "atari2600-Lock 'n' Chase (USA)",
+      "name": "Lock 'n' Chase",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Looping (USA) (Proto)",
+      "fullpath": "atari2600-Looping (USA) (Proto)",
+      "name": "Looping",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lord of the Rings, The - Journey to Rivendell (USA) (Proto)",
+      "fullpath": "atari2600-Lord of the Rings, The - Journey to Rivendell (USA) (Proto)",
+      "name": "Lord of the Rings, The - Journey to Rivendell",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mappy (USA)",
+      "fullpath": "atari2600-Mappy (USA)",
+      "name": "Mappy",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Bros. (USA)",
+      "fullpath": "atari2600-Mario Bros. (USA)",
+      "name": "Mario Bros.",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Math Gran Prix (USA)",
+      "fullpath": "atari2600-Math Gran Prix (USA)",
+      "name": "Math Gran Prix",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Maze Craze - A Game of Cops 'n Robbers (USA)",
+      "fullpath": "atari2600-Maze Craze - A Game of Cops 'n Robbers (USA)",
+      "name": "Maze Craze - A Game of Cops 'n Robbers",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "MegaMania - A Space Nightmare (USA)",
+      "fullpath": "atari2600-MegaMania - A Space Nightmare (USA)",
+      "name": "MegaMania - A Space Nightmare",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Midnight Magic (USA)",
+      "fullpath": "atari2600-Midnight Magic (USA)",
+      "name": "Midnight Magic",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Millipede (USA)",
+      "fullpath": "atari2600-Millipede (USA)",
+      "name": "Millipede",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mind Maze (USA) (Proto)",
+      "fullpath": "atari2600-Mind Maze (USA) (Proto)",
+      "name": "Mind Maze",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Miniature Golf (USA)",
+      "fullpath": "atari2600-Miniature Golf (USA)",
+      "name": "Miniature Golf",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Missile Command (USA) (alt)",
+      "fullpath": "atari2600-Missile Command (USA) (alt)",
+      "name": "Missile Command",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Missile Command (USA)",
+      "fullpath": "atari2600-Missile Command (USA)",
+      "name": "Missile Command",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Montezuma's Revenge - Featuring Panama Joe (USA)",
+      "fullpath": "atari2600-Montezuma's Revenge - Featuring Panama Joe (USA)",
+      "name": "Montezuma's Revenge - Featuring Panama Joe",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Moon Patrol (USA)",
+      "fullpath": "atari2600-Moon Patrol (USA)",
+      "name": "Moon Patrol",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Moonsweeper (USA)",
+      "fullpath": "atari2600-Moonsweeper (USA)",
+      "name": "Moonsweeper",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "MotoRodeo (USA)",
+      "fullpath": "atari2600-MotoRodeo (USA)",
+      "name": "MotoRodeo",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mountain King (USA)",
+      "fullpath": "atari2600-Mountain King (USA)",
+      "name": "Mountain King",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mouse Trap (USA)",
+      "fullpath": "atari2600-Mouse Trap (USA)",
+      "name": "Mouse Trap",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mr. Do!'s Castle (USA)",
+      "fullpath": "atari2600-Mr. Do!'s Castle (USA)",
+      "name": "Mr. Do!'s Castle",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ms. Pac-Man (USA)",
+      "fullpath": "atari2600-Ms. Pac-Man (USA)",
+      "name": "Ms. Pac-Man",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Night Driver (USA)",
+      "fullpath": "atari2600-Night Driver (USA)",
+      "name": "Night Driver",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "No Escape! (USA)",
+      "fullpath": "atari2600-No Escape! (USA)",
+      "name": "No Escape!",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Obelix (USA)",
+      "fullpath": "atari2600-Obelix (USA)",
+      "name": "Obelix",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Off the Wall (USA)",
+      "fullpath": "atari2600-Off the Wall (USA)",
+      "name": "Off the Wall",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Oink! (USA)",
+      "fullpath": "atari2600-Oink! (USA)",
+      "name": "Oink!",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Omega Race (USA)",
+      "fullpath": "atari2600-Omega Race (USA)",
+      "name": "Omega Race",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Othello (USA)",
+      "fullpath": "atari2600-Othello (USA)",
+      "name": "Othello",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Outlaw (USA)",
+      "fullpath": "atari2600-Outlaw (USA)",
+      "name": "Outlaw",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pac-Man (Atari) (USA) (alt)",
+      "fullpath": "atari2600-Pac-Man (Atari) (USA) (alt)",
+      "name": "Pac-Man",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pac-Man (Atari) (USA)",
+      "fullpath": "atari2600-Pac-Man (Atari) (USA)",
+      "name": "Pac-Man",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Peek-A-Boo (USA) (Proto)",
+      "fullpath": "atari2600-Peek-A-Boo (USA) (Proto)",
+      "name": "Peek-A-Boo",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pelé's Soccer (USA)",
+      "fullpath": "atari2600-Pelé's Soccer (USA)",
+      "name": "Pelé's Soccer",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pengo (USA)",
+      "fullpath": "atari2600-Pengo (USA)",
+      "name": "Pengo",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pepsi Invaders - Coke Wins (USA)",
+      "fullpath": "atari2600-Pepsi Invaders - Coke Wins (USA)",
+      "name": "Pepsi Invaders - Coke Wins",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Phoenix (USA) (alt)",
+      "fullpath": "atari2600-Phoenix (USA) (alt)",
+      "name": "Phoenix",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Phoenix (USA)",
+      "fullpath": "atari2600-Phoenix (USA)",
+      "name": "Phoenix",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pitfall II - Lost Caverns (USA)",
+      "fullpath": "atari2600-Pitfall II - Lost Caverns (USA)",
+      "name": "Pitfall II - Lost Caverns",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pitfall! - Pitfall Harry's Jungle Adventure (USA)",
+      "fullpath": "atari2600-Pitfall! - Pitfall Harry's Jungle Adventure (USA)",
+      "name": "Pitfall! - Pitfall Harry's Jungle Adventure",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Plaque Attack (USA)",
+      "fullpath": "atari2600-Plaque Attack (USA)",
+      "name": "Plaque Attack",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pole Position (USA)",
+      "fullpath": "atari2600-Pole Position (USA)",
+      "name": "Pole Position",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Polo (USA) (Proto)",
+      "fullpath": "atari2600-Polo (USA) (Proto)",
+      "name": "Polo",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pooyan (USA)",
+      "fullpath": "atari2600-Pooyan (USA)",
+      "name": "Pooyan",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Popeye (USA)",
+      "fullpath": "atari2600-Popeye (USA)",
+      "name": "Popeye",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pressure Cooker (USA)",
+      "fullpath": "atari2600-Pressure Cooker (USA)",
+      "name": "Pressure Cooker",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Private Eye (USA)",
+      "fullpath": "atari2600-Private Eye (USA)",
+      "name": "Private Eye",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Q-bert (USA)",
+      "fullpath": "atari2600-Q-bert (USA)",
+      "name": "Q-bert",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Quadrun (USA)",
+      "fullpath": "atari2600-Quadrun (USA)",
+      "name": "Quadrun",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Quick Step! (USA)",
+      "fullpath": "atari2600-Quick Step! (USA)",
+      "name": "Quick Step!",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Radar Lock (USA)",
+      "fullpath": "atari2600-Radar Lock (USA)",
+      "name": "Radar Lock",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Raiders of the Lost Ark (USA)",
+      "fullpath": "atari2600-Raiders of the Lost Ark (USA)",
+      "name": "Raiders of the Lost Ark",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rampage! (USA)",
+      "fullpath": "atari2600-Rampage! (USA)",
+      "name": "Rampage!",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Reactor (USA)",
+      "fullpath": "atari2600-Reactor (USA)",
+      "name": "Reactor",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "RealSports Baseball (USA)",
+      "fullpath": "atari2600-RealSports Baseball (USA)",
+      "name": "RealSports Baseball",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "RealSports Basketball (USA) (Proto)",
+      "fullpath": "atari2600-RealSports Basketball (USA) (Proto)",
+      "name": "RealSports Basketball",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "RealSports Boxing (USA)",
+      "fullpath": "atari2600-RealSports Boxing (USA)",
+      "name": "RealSports Boxing",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "RealSports Football (USA)",
+      "fullpath": "atari2600-RealSports Football (USA)",
+      "name": "RealSports Football",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "RealSports Soccer (USA)",
+      "fullpath": "atari2600-RealSports Soccer (USA)",
+      "name": "RealSports Soccer",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "RealSports Tennis (USA)",
+      "fullpath": "atari2600-RealSports Tennis (USA)",
+      "name": "RealSports Tennis",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "RealSports Volleyball (USA)",
+      "fullpath": "atari2600-RealSports Volleyball (USA)",
+      "name": "RealSports Volleyball",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Return to Haunted House (USA)",
+      "fullpath": "atari2600-Return to Haunted House (USA)",
+      "name": "Return to Haunted House",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Riddle of the Sphinx (USA)",
+      "fullpath": "atari2600-Riddle of the Sphinx (USA)",
+      "name": "Riddle of the Sphinx",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "River Raid (USA)",
+      "fullpath": "atari2600-River Raid (USA)",
+      "name": "River Raid",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "River Raid II (USA)",
+      "fullpath": "atari2600-River Raid II (USA)",
+      "name": "River Raid II",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Road Runner (USA)",
+      "fullpath": "atari2600-Road Runner (USA)",
+      "name": "Road Runner",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Robot Tank (USA)",
+      "fullpath": "atari2600-Robot Tank (USA)",
+      "name": "Robot Tank",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "RobotWar 2684",
+      "fullpath": "atari2600-RobotWar 2684",
+      "name": "RobotWar 2684",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Roc 'n Rope (USA)",
+      "fullpath": "atari2600-Roc 'n Rope (USA)",
+      "name": "Roc 'n Rope",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rubik's Cube 3-D (USA) (Proto)",
+      "fullpath": "atari2600-Rubik's Cube 3-D (USA) (Proto)",
+      "name": "Rubik's Cube 3-D",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Saboteur (USA) (Proto)",
+      "fullpath": "atari2600-Saboteur (USA) (Proto)",
+      "name": "Saboteur",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Save Mary! (USA) (Proto)",
+      "fullpath": "atari2600-Save Mary! (USA) (Proto)",
+      "name": "Save Mary!",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Scramble (USA)",
+      "fullpath": "atari2600-Scramble (USA)",
+      "name": "Scramble",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Seaquest (USA)",
+      "fullpath": "atari2600-Seaquest (USA)",
+      "name": "Seaquest",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Secret Quest (USA)",
+      "fullpath": "atari2600-Secret Quest (USA)",
+      "name": "Secret Quest",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sentinel (USA)",
+      "fullpath": "atari2600-Sentinel (USA)",
+      "name": "Sentinel",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shooting Arcade (USA) (Proto)",
+      "fullpath": "atari2600-Shooting Arcade (USA) (Proto)",
+      "name": "Shooting Arcade",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sinistar (USA) (Proto)",
+      "fullpath": "atari2600-Sinistar (USA) (Proto)",
+      "name": "Sinistar",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Skiing (USA)",
+      "fullpath": "atari2600-Skiing (USA)",
+      "name": "Skiing",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sky Jinks (USA)",
+      "fullpath": "atari2600-Sky Jinks (USA)",
+      "name": "Sky Jinks",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slot Machine (USA)",
+      "fullpath": "atari2600-Slot Machine (USA)",
+      "name": "Slot Machine",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slot Racers (USA)",
+      "fullpath": "atari2600-Slot Racers (USA)",
+      "name": "Slot Racers",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Solar Fox (USA)",
+      "fullpath": "atari2600-Solar Fox (USA)",
+      "name": "Solar Fox",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Solar Storm (USA)",
+      "fullpath": "atari2600-Solar Storm (USA)",
+      "name": "Solar Storm",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Solaris (USA)",
+      "fullpath": "atari2600-Solaris (USA)",
+      "name": "Solaris",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Invaders (USA) (alt)",
+      "fullpath": "atari2600-Space Invaders (USA) (alt)",
+      "name": "Space Invaders",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Invaders (USA)",
+      "fullpath": "atari2600-Space Invaders (USA)",
+      "name": "Space Invaders",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Shuttle - A Journey Into Space (USA)",
+      "fullpath": "atari2600-Space Shuttle - A Journey Into Space (USA)",
+      "name": "Space Shuttle - A Journey Into Space",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space War (USA)",
+      "fullpath": "atari2600-Space War (USA)",
+      "name": "Space War",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Spider Fighter (USA)",
+      "fullpath": "atari2600-Spider Fighter (USA)",
+      "name": "Spider Fighter",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Spider-Man (USA)",
+      "fullpath": "atari2600-Spider-Man (USA)",
+      "name": "Spider-Man",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Spy Hunter (USA)",
+      "fullpath": "atari2600-Spy Hunter (USA)",
+      "name": "Spy Hunter",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Stampede (USA)",
+      "fullpath": "atari2600-Stampede (USA)",
+      "name": "Stampede",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Raiders (USA)",
+      "fullpath": "atari2600-Star Raiders (USA)",
+      "name": "Star Raiders",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Ship (USA)",
+      "fullpath": "atari2600-Star Ship (USA)",
+      "name": "Star Ship",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Trek - Strategic Operations Simulator (USA)",
+      "fullpath": "atari2600-Star Trek - Strategic Operations Simulator (USA)",
+      "name": "Star Trek - Strategic Operations Simulator",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Voyager (USA)",
+      "fullpath": "atari2600-Star Voyager (USA)",
+      "name": "Star Voyager",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Wars - Jedi Arena (USA)",
+      "fullpath": "atari2600-Star Wars - Jedi Arena (USA)",
+      "name": "Star Wars - Jedi Arena",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Wars - Return of the Jedi - Death Star Battle (USA)",
+      "fullpath": "atari2600-Star Wars - Return of the Jedi - Death Star Battle (USA)",
+      "name": "Star Wars - Return of the Jedi - Death Star Battle",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto)",
+      "fullpath": "atari2600-Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto)",
+      "name": "Star Wars - Return of the Jedi - Ewok Adventure",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Wars - The Arcade Game (USA)",
+      "fullpath": "atari2600-Star Wars - The Arcade Game (USA)",
+      "name": "Star Wars - The Arcade Game",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Wars - The Empire Strikes Back (USA)",
+      "fullpath": "atari2600-Star Wars - The Empire Strikes Back (USA)",
+      "name": "Star Wars - The Empire Strikes Back",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Stargate (USA)",
+      "fullpath": "atari2600-Stargate (USA)",
+      "name": "Stargate",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "StarMaster (USA)",
+      "fullpath": "atari2600-StarMaster (USA)",
+      "name": "StarMaster",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Steeplechase (USA)",
+      "fullpath": "atari2600-Steeplechase (USA)",
+      "name": "Steeplechase",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Stellar Track (USA)",
+      "fullpath": "atari2600-Stellar Track (USA)",
+      "name": "Stellar Track",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Strawberry Shortcake - Musical Match-Ups (USA)",
+      "fullpath": "atari2600-Strawberry Shortcake - Musical Match-Ups (USA)",
+      "name": "Strawberry Shortcake - Musical Match-Ups",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Street Racer (USA)",
+      "fullpath": "atari2600-Street Racer (USA)",
+      "name": "Street Racer",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Stunt Cycle (USA) (Proto)",
+      "fullpath": "atari2600-Stunt Cycle (USA) (Proto)",
+      "name": "Stunt Cycle",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sub-Scan (USA)",
+      "fullpath": "atari2600-Sub-Scan (USA)",
+      "name": "Sub-Scan",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Submarine Commander (USA)",
+      "fullpath": "atari2600-Submarine Commander (USA)",
+      "name": "Submarine Commander",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Summer Games (USA)",
+      "fullpath": "atari2600-Summer Games (USA)",
+      "name": "Summer Games",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Baseball (USA)",
+      "fullpath": "atari2600-Super Baseball (USA)",
+      "name": "Super Baseball",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Breakout (USA) (alt)",
+      "fullpath": "atari2600-Super Breakout (USA) (alt)",
+      "name": "Super Breakout",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Breakout (USA)",
+      "fullpath": "atari2600-Super Breakout (USA)",
+      "name": "Super Breakout",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Cobra (USA)",
+      "fullpath": "atari2600-Super Cobra (USA)",
+      "name": "Super Cobra",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Cobra Arcade (USA)",
+      "fullpath": "atari2600-Super Cobra Arcade (USA)",
+      "name": "Super Cobra Arcade",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Football (USA)",
+      "fullpath": "atari2600-Super Football (USA)",
+      "name": "Super Football",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Superman (USA)",
+      "fullpath": "atari2600-Superman (USA)",
+      "name": "Superman",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Surround (USA)",
+      "fullpath": "atari2600-Surround (USA)",
+      "name": "Surround",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Survival Run (USA)",
+      "fullpath": "atari2600-Survival Run (USA)",
+      "name": "Survival Run",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SwordQuest - EarthWorld (USA)",
+      "fullpath": "atari2600-SwordQuest - EarthWorld (USA)",
+      "name": "SwordQuest - EarthWorld",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SwordQuest - FireWorld (USA)",
+      "fullpath": "atari2600-SwordQuest - FireWorld (USA)",
+      "name": "SwordQuest - FireWorld",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SwordQuest - WaterWorld (USA)",
+      "fullpath": "atari2600-SwordQuest - WaterWorld (USA)",
+      "name": "SwordQuest - WaterWorld",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tac-Scan (USA)",
+      "fullpath": "atari2600-Tac-Scan (USA)",
+      "name": "Tac-Scan",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tapper (USA)",
+      "fullpath": "atari2600-Tapper (USA)",
+      "name": "Tapper",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Telepathy (USA) (Proto)",
+      "fullpath": "atari2600-Telepathy (USA) (Proto)",
+      "name": "Telepathy",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tempest (USA) (Proto) (alt)",
+      "fullpath": "atari2600-Tempest (USA) (Proto) (alt)",
+      "name": "Tempest",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tempest (USA) (Proto)",
+      "fullpath": "atari2600-Tempest (USA) (Proto)",
+      "name": "Tempest",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tennis (USA)",
+      "fullpath": "atari2600-Tennis (USA)",
+      "name": "Tennis",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Thunderground (USA)",
+      "fullpath": "atari2600-Thunderground (USA)",
+      "name": "Thunderground",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Thwocker (USA) (Proto)",
+      "fullpath": "atari2600-Thwocker (USA) (Proto)",
+      "name": "Thwocker",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tunnel Runner (USA)",
+      "fullpath": "atari2600-Tunnel Runner (USA)",
+      "name": "Tunnel Runner",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tutankham (USA)",
+      "fullpath": "atari2600-Tutankham (USA)",
+      "name": "Tutankham",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Up 'N Down (USA)",
+      "fullpath": "atari2600-Up 'N Down (USA)",
+      "name": "Up 'N Down",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Vanguard (USA) (alt)",
+      "fullpath": "atari2600-Vanguard (USA) (alt)",
+      "name": "Vanguard",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Vanguard (USA)",
+      "fullpath": "atari2600-Vanguard (USA)",
+      "name": "Vanguard",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Venture (USA)",
+      "fullpath": "atari2600-Venture (USA)",
+      "name": "Venture",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Video Checkers (USA)",
+      "fullpath": "atari2600-Video Checkers (USA)",
+      "name": "Video Checkers",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Video Chess (USA)",
+      "fullpath": "atari2600-Video Chess (USA)",
+      "name": "Video Chess",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Video Olympics (USA)",
+      "fullpath": "atari2600-Video Olympics (USA)",
+      "name": "Video Olympics",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Video Pinball (USA)",
+      "fullpath": "atari2600-Video Pinball (USA)",
+      "name": "Video Pinball",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Warlords (USA) (alt)",
+      "fullpath": "atari2600-Warlords (USA) (alt)",
+      "name": "Warlords",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Warlords (USA)",
+      "fullpath": "atari2600-Warlords (USA)",
+      "name": "Warlords",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wing War (Europe)",
+      "fullpath": "atari2600-Wing War (Europe)",
+      "name": "Wing War",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Winter Games (USA)",
+      "fullpath": "atari2600-Winter Games (USA)",
+      "name": "Winter Games",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wizard (USA) (Proto)",
+      "fullpath": "atari2600-Wizard (USA) (Proto)",
+      "name": "Wizard",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wizard of Wor (USA)",
+      "fullpath": "atari2600-Wizard of Wor (USA)",
+      "name": "Wizard of Wor",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wizard of Wor Arcade (USA)",
+      "fullpath": "atari2600-Wizard of Wor Arcade (USA)",
+      "name": "Wizard of Wor Arcade",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Xenophobe (USA) (alt)",
+      "fullpath": "atari2600-Xenophobe (USA) (alt)",
+      "name": "Xenophobe",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Xenophobe (USA)",
+      "fullpath": "atari2600-Xenophobe (USA)",
+      "name": "Xenophobe",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Xevious (USA)",
+      "fullpath": "atari2600-Xevious (USA)",
+      "name": "Xevious",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Yars' Return (USA)",
+      "fullpath": "atari2600-Yars' Return (USA)",
+      "name": "Yars' Return",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Yars' Revenge (USA)",
+      "fullpath": "atari2600-Yars' Revenge (USA)",
+      "name": "Yars' Revenge",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zaxxon (USA)",
+      "fullpath": "atari2600-Zaxxon (USA)",
+      "name": "Zaxxon",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zoo Keeper (USA)",
+      "fullpath": "atari2600-Zoo Keeper (USA)",
+      "name": "Zoo Keeper",
+      "year": "1977",
+      "publisher": "Atari",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

@@ -1,0 +1,914 @@
+{
+  "platform": "sega_ring",
+  "totalGames": 100,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "sega_ring game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "sega_ring.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "After Burner Climax",
+      "fullpath": "sega_ring-After Burner Climax",
+      "name": "After Burner Climax",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Arcade Love Plus Pengo",
+      "fullpath": "sega_ring-Arcade Love Plus Pengo",
+      "name": "Arcade Love Plus Pengo",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Batman",
+      "fullpath": "sega_ring-Batman",
+      "name": "Batman",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Battle Gear 4 Tuned",
+      "fullpath": "sega_ring-Battle Gear 4 Tuned",
+      "name": "Battle Gear 4 Tuned",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Blade Arcus from Shining",
+      "fullpath": "sega_ring-Blade Arcus from Shining",
+      "name": "Blade Arcus from Shining",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Blade Strangers",
+      "fullpath": "sega_ring-Blade Strangers",
+      "name": "Blade Strangers",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Blazing Angels",
+      "fullpath": "sega_ring-Blazing Angels",
+      "name": "Blazing Angels",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "CaladriusAC",
+      "fullpath": "sega_ring-CaladriusAC",
+      "name": "CaladriusAC",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "CaladriusAC_",
+      "fullpath": "sega_ring-CaladriusAC_",
+      "name": "CaladriusAC_",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Cars",
+      "fullpath": "sega_ring-Cars",
+      "name": "Cars",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Chaos Code",
+      "fullpath": "sega_ring-Chaos Code",
+      "name": "Chaos Code",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Chaos Code_",
+      "fullpath": "sega_ring-Chaos Code_",
+      "name": "Chaos Code_",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Chase H.Q",
+      "fullpath": "sega_ring-Chase H.Q",
+      "name": "Chase H.Q",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Chase H.Q_",
+      "fullpath": "sega_ring-Chase H.Q_",
+      "name": "Chase H.Q_",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Cotton Rock'n'Roll",
+      "fullpath": "sega_ring-Cotton Rock'n'Roll",
+      "name": "Cotton Rock'n'Roll",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "D1GP Arcade",
+      "fullpath": "sega_ring-D1GP Arcade",
+      "name": "D1GP Arcade",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Daytona Championship USA",
+      "fullpath": "sega_ring-Daytona Championship USA",
+      "name": "Daytona Championship USA",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Dead Or Alive 5 Ultimate Arcade",
+      "fullpath": "sega_ring-Dead Or Alive 5 Ultimate Arcade",
+      "name": "Dead Or Alive 5 Ultimate Arcade",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Dead Or Alive 6",
+      "fullpath": "sega_ring-Dead Or Alive 6",
+      "name": "Dead Or Alive 6",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Dengeki Bunko - Fighting Climax",
+      "fullpath": "sega_ring-Dengeki Bunko - Fighting Climax",
+      "name": "Dengeki Bunko - Fighting Climax",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Dirty Drivin",
+      "fullpath": "sega_ring-Dirty Drivin",
+      "name": "Dirty Drivin",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Fast and Furious DRIFT",
+      "fullpath": "sega_ring-Fast and Furious DRIFT",
+      "name": "Fast and Furious DRIFT",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Fast and Furious Superbikes",
+      "fullpath": "sega_ring-Fast and Furious Superbikes",
+      "name": "Fast and Furious Superbikes",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Fast and Furious Supercars",
+      "fullpath": "sega_ring-Fast and Furious Supercars",
+      "name": "Fast and Furious Supercars",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Fast and Furious",
+      "fullpath": "sega_ring-Fast and Furious",
+      "name": "Fast and Furious",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Fighting Climax Ignition",
+      "fullpath": "sega_ring-Fighting Climax Ignition",
+      "name": "Fighting Climax Ignition",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Ford Racing - Full Blown",
+      "fullpath": "sega_ring-Ford Racing - Full Blown",
+      "name": "Ford Racing - Full Blown",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "GRID",
+      "fullpath": "sega_ring-GRID",
+      "name": "GRID",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "GTI Club Supermini Festa!",
+      "fullpath": "sega_ring-GTI Club Supermini Festa!",
+      "name": "GTI Club Supermini Festa!",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Guilty Gear Strive",
+      "fullpath": "sega_ring-Guilty Gear Strive",
+      "name": "Guilty Gear Strive",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Guilty Gear XX Accent Core Plus R",
+      "fullpath": "sega_ring-Guilty Gear XX Accent Core Plus R",
+      "name": "Guilty Gear XX Accent Core Plus R",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Guilty Gear Xrd - REV 2",
+      "fullpath": "sega_ring-Guilty Gear Xrd - REV 2",
+      "name": "Guilty Gear Xrd - REV 2",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Guilty Gear Xrd - Sign",
+      "fullpath": "sega_ring-Guilty Gear Xrd - Sign",
+      "name": "Guilty Gear Xrd - Sign",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Guitar Hero Arcade",
+      "fullpath": "sega_ring-Guitar Hero Arcade",
+      "name": "Guitar Hero Arcade",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "H2Overdrive",
+      "fullpath": "sega_ring-H2Overdrive",
+      "name": "H2Overdrive",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "House of the Dead 4",
+      "fullpath": "sega_ring-House of the Dead 4",
+      "name": "House of the Dead 4",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Initial D Arcade Stage 6 AA",
+      "fullpath": "sega_ring-Initial D Arcade Stage 6 AA",
+      "name": "Initial D Arcade Stage 6 AA",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Initial D Arcade Stage 7 AA X",
+      "fullpath": "sega_ring-Initial D Arcade Stage 7 AA X",
+      "name": "Initial D Arcade Stage 7 AA X",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Initial D Arcade Stage 8 Infinity",
+      "fullpath": "sega_ring-Initial D Arcade Stage 8 Infinity",
+      "name": "Initial D Arcade Stage 8 Infinity",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Justice League - Heroes United",
+      "fullpath": "sega_ring-Justice League - Heroes United",
+      "name": "Justice League - Heroes United",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Justice League - Heroes United__",
+      "fullpath": "sega_ring-Justice League - Heroes United__",
+      "name": "Justice League - Heroes United__",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "K.O",
+      "fullpath": "sega_ring-K.O",
+      "name": "K.O",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Koihime",
+      "fullpath": "sega_ring-Koihime",
+      "name": "Koihime",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Let's Go Island",
+      "fullpath": "sega_ring-Let's Go Island",
+      "name": "Let's Go Island",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Let's Go Jungle",
+      "fullpath": "sega_ring-Let's Go Jungle",
+      "name": "Let's Go Jungle",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Luigi's Mansion Arcade",
+      "fullpath": "sega_ring-Luigi's Mansion Arcade",
+      "name": "Luigi's Mansion Arcade",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mach Storm",
+      "fullpath": "sega_ring-Mach Storm",
+      "name": "Mach Storm",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mario Kart Arcade GP DX",
+      "fullpath": "sega_ring-Mario Kart Arcade GP DX",
+      "name": "Mario Kart Arcade GP DX",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Melty Blood - Actress Again Current Code",
+      "fullpath": "sega_ring-Melty Blood - Actress Again Current Code",
+      "name": "Melty Blood - Actress Again Current Code",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Nicktoons Nitro",
+      "fullpath": "sega_ring-Nicktoons Nitro",
+      "name": "Nicktoons Nitro",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Operation Ghost",
+      "fullpath": "sega_ring-Operation Ghost",
+      "name": "Operation Ghost",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "OutRun 2 SP SDX",
+      "fullpath": "sega_ring-OutRun 2 SP SDX",
+      "name": "OutRun 2 SP SDX",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Phantom Breaker Another Code",
+      "fullpath": "sega_ring-Phantom Breaker Another Code",
+      "name": "Phantom Breaker Another Code",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Pokken Tournament",
+      "fullpath": "sega_ring-Pokken Tournament",
+      "name": "Pokken Tournament",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Project Diva Arcade",
+      "fullpath": "sega_ring-Project Diva Arcade",
+      "name": "Project Diva Arcade",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Puyo Puyo - Quest Arcade",
+      "fullpath": "sega_ring-Puyo Puyo - Quest Arcade",
+      "name": "Puyo Puyo - Quest Arcade",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "R-Tuned",
+      "fullpath": "sega_ring-R-Tuned",
+      "name": "R-Tuned",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Radikal Bikers",
+      "fullpath": "sega_ring-Radikal Bikers",
+      "name": "Radikal Bikers",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Rambo",
+      "fullpath": "sega_ring-Rambo",
+      "name": "Rambo",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Rampage",
+      "fullpath": "sega_ring-Rampage",
+      "name": "Rampage",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "SNK Heroines AC",
+      "fullpath": "sega_ring-SNK Heroines AC",
+      "name": "SNK Heroines AC",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "School of Ragnarok",
+      "fullpath": "sega_ring-School of Ragnarok",
+      "name": "School of Ragnarok",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sega Dream Raiders",
+      "fullpath": "sega_ring-Sega Dream Raiders",
+      "name": "Sega Dream Raiders",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sega Golden Gun",
+      "fullpath": "sega_ring-Sega Golden Gun",
+      "name": "Sega Golden Gun",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sega Race TV",
+      "fullpath": "sega_ring-Sega Race TV",
+      "name": "Sega Race TV",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sega Racing Classic",
+      "fullpath": "sega_ring-Sega Racing Classic",
+      "name": "Sega Racing Classic",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sega Rally 3",
+      "fullpath": "sega_ring-Sega Rally 3",
+      "name": "Sega Rally 3",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Senjin Aleste",
+      "fullpath": "sega_ring-Senjin Aleste",
+      "name": "Senjin Aleste",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Shining Force Cross Raid",
+      "fullpath": "sega_ring-Shining Force Cross Raid",
+      "name": "Shining Force Cross Raid",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "SnoCross",
+      "fullpath": "sega_ring-SnoCross",
+      "name": "SnoCross",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sonic & Sega All-Stars Racing Arcade",
+      "fullpath": "sega_ring-Sonic & Sega All-Stars Racing Arcade",
+      "name": "Sonic & Sega All-Stars Racing Arcade",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Spider-Man - Homecoming",
+      "fullpath": "sega_ring-Spider-Man - Homecoming",
+      "name": "Spider-Man - Homecoming",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Star Trek Voyager",
+      "fullpath": "sega_ring-Star Trek Voyager",
+      "name": "Star Trek Voyager",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Star Wars - Battle Pod",
+      "fullpath": "sega_ring-Star Wars - Battle Pod",
+      "name": "Star Wars - Battle Pod",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Star Wars - Battle Pod_",
+      "fullpath": "sega_ring-Star Wars - Battle Pod_",
+      "name": "Star Wars - Battle Pod_",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Storm Racer G",
+      "fullpath": "sega_ring-Storm Racer G",
+      "name": "Storm Racer G",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Street Fighter V Type Arcade",
+      "fullpath": "sega_ring-Street Fighter V Type Arcade",
+      "name": "Street Fighter V Type Arcade",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Super Alpine Racer",
+      "fullpath": "sega_ring-Super Alpine Racer",
+      "name": "Super Alpine Racer",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Super Bikes 2",
+      "fullpath": "sega_ring-Super Bikes 2",
+      "name": "Super Bikes 2",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Super Bikes 2_",
+      "fullpath": "sega_ring-Super Bikes 2_",
+      "name": "Super Bikes 2_",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Super Monkey Ball - Ticket Blitz",
+      "fullpath": "sega_ring-Super Monkey Ball - Ticket Blitz",
+      "name": "Super Monkey Ball - Ticket Blitz",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Theatrhythm Final Fantasy - All-Star Carnival",
+      "fullpath": "sega_ring-Theatrhythm Final Fantasy - All-Star Carnival",
+      "name": "Theatrhythm Final Fantasy - All-Star Carnival",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Tokyo Cop",
+      "fullpath": "sega_ring-Tokyo Cop",
+      "name": "Tokyo Cop",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Too Spicy",
+      "fullpath": "sega_ring-Too Spicy",
+      "name": "Too Spicy",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Too Spicy_",
+      "fullpath": "sega_ring-Too Spicy_",
+      "name": "Too Spicy_",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Transformers Human Alliance",
+      "fullpath": "sega_ring-Transformers Human Alliance",
+      "name": "Transformers Human Alliance",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Under Defeat HD+",
+      "fullpath": "sega_ring-Under Defeat HD+",
+      "name": "Under Defeat HD+",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Under Night In-Birth",
+      "fullpath": "sega_ring-Under Night In-Birth",
+      "name": "Under Night In-Birth",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Valve Limit R",
+      "fullpath": "sega_ring-Valve Limit R",
+      "name": "Valve Limit R",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Virtua Fighter 5 Ver B",
+      "fullpath": "sega_ring-Virtua Fighter 5 Ver B",
+      "name": "Virtua Fighter 5 Ver B",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Virtua Fighter eSports",
+      "fullpath": "sega_ring-Virtua Fighter eSports",
+      "name": "Virtua Fighter eSports",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Virtua Tennis 3",
+      "fullpath": "sega_ring-Virtua Tennis 3",
+      "name": "Virtua Tennis 3",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Virtua Tennis 4",
+      "fullpath": "sega_ring-Virtua Tennis 4",
+      "name": "Virtua Tennis 4",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Wacky Races Arcade",
+      "fullpath": "sega_ring-Wacky Races Arcade",
+      "name": "Wacky Races Arcade",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Wangan Midnight Maximum Tune 5",
+      "fullpath": "sega_ring-Wangan Midnight Maximum Tune 5",
+      "name": "Wangan Midnight Maximum Tune 5",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Wangan Midnight Maximum Tune 5DX+",
+      "fullpath": "sega_ring-Wangan Midnight Maximum Tune 5DX+",
+      "name": "Wangan Midnight Maximum Tune 5DX+",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Wangan Midnight Maximum Tune 6",
+      "fullpath": "sega_ring-Wangan Midnight Maximum Tune 6",
+      "name": "Wangan Midnight Maximum Tune 6",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "WasteLand Racers",
+      "fullpath": "sega_ring-WasteLand Racers",
+      "name": "WasteLand Racers",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "X-Games Snowboarder",
+      "fullpath": "sega_ring-X-Games Snowboarder",
+      "name": "X-Games Snowboarder",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    },
+    {
+      "id": "Yugioh 5DS Duel Terminal 6",
+      "fullpath": "sega_ring-Yugioh 5DS Duel Terminal 6",
+      "name": "Yugioh 5DS Duel Terminal 6",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Teknoparrot",
+      "rating": "Misc"
+    }
+  ]
+}

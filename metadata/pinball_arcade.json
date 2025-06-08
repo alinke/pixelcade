@@ -1,0 +1,797 @@
+{
+  "platform": "pinball_arcade",
+  "totalGames": 87,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "pinball_arcade game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "pinball_arcade.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "\";\"Not Rated\")",
+      "fullpath": "\";\"Not Rated\")",
+      "name": "TAddamsFamily",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TAttackFromMars",
+      "fullpath": "pinball_arcade-TAttackFromMars",
+      "name": "TAttackFromMars",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TBigHurt",
+      "fullpath": "pinball_arcade-TBigHurt",
+      "name": "TBigHurt",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TBigShot",
+      "fullpath": "pinball_arcade-TBigShot",
+      "name": "TBigShot",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TBlackHole",
+      "fullpath": "pinball_arcade-TBlackHole",
+      "name": "TBlackHole",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TBlackKnight2000",
+      "fullpath": "pinball_arcade-TBlackKnight2000",
+      "name": "TBlackKnight2000",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TBlackRose",
+      "fullpath": "pinball_arcade-TBlackRose",
+      "name": "TBlackRose",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TBoneBusters",
+      "fullpath": "pinball_arcade-TBoneBusters",
+      "name": "TBoneBusters",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TBridePB",
+      "fullpath": "pinball_arcade-TBridePB",
+      "name": "TBridePB",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TCactusCanyon",
+      "fullpath": "pinball_arcade-TCactusCanyon",
+      "name": "TCactusCanyon",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TCactusJacks",
+      "fullpath": "pinball_arcade-TCactusJacks",
+      "name": "TCactusJacks",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TCentaur",
+      "fullpath": "pinball_arcade-TCentaur",
+      "name": "TCentaur",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TCentigrade37",
+      "fullpath": "pinball_arcade-TCentigrade37",
+      "name": "TCentigrade37",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TCentralPark",
+      "fullpath": "pinball_arcade-TCentralPark",
+      "name": "TCentralPark",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TChampionPub",
+      "fullpath": "pinball_arcade-TChampionPub",
+      "name": "TChampionPub",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TCirqus",
+      "fullpath": "pinball_arcade-TCirqus",
+      "name": "TCirqus",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TClass1812",
+      "fullpath": "pinball_arcade-TClass1812",
+      "name": "TClass1812",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TCreature",
+      "fullpath": "pinball_arcade-TCreature",
+      "name": "TCreature",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TCueBallWizard",
+      "fullpath": "pinball_arcade-TCueBallWizard",
+      "name": "TCueBallWizard",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TCyclone",
+      "fullpath": "pinball_arcade-TCyclone",
+      "name": "TCyclone",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TDiner",
+      "fullpath": "pinball_arcade-TDiner",
+      "name": "TDiner",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TDoctorWho",
+      "fullpath": "pinball_arcade-TDoctorWho",
+      "name": "TDoctorWho",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TDoctorWhoRegen",
+      "fullpath": "pinball_arcade-TDoctorWhoRegen",
+      "name": "TDoctorWhoRegen",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TDracula",
+      "fullpath": "pinball_arcade-TDracula",
+      "name": "TDracula",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TDrDude",
+      "fullpath": "pinball_arcade-TDrDude",
+      "name": "TDrDude",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TEarthShaker",
+      "fullpath": "pinball_arcade-TEarthShaker",
+      "name": "TEarthShaker",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TEightBallDeluxe",
+      "fullpath": "pinball_arcade-TEightBallDeluxe",
+      "name": "TEightBallDeluxe",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TElDorado",
+      "fullpath": "pinball_arcade-TElDorado",
+      "name": "TElDorado",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TElDoradoEM",
+      "fullpath": "pinball_arcade-TElDoradoEM",
+      "name": "TElDoradoEM",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TElviraPartyMonsters",
+      "fullpath": "pinball_arcade-TElviraPartyMonsters",
+      "name": "TElviraPartyMonsters",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TFireball",
+      "fullpath": "pinball_arcade-TFireball",
+      "name": "TFireball",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TFirepwr",
+      "fullpath": "pinball_arcade-TFirepwr",
+      "name": "TFirepwr",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TFishTales",
+      "fullpath": "pinball_arcade-TFishTales",
+      "name": "TFishTales",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TFlight2000",
+      "fullpath": "pinball_arcade-TFlight2000",
+      "name": "TFlight2000",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TFnHouse",
+      "fullpath": "pinball_arcade-TFnHouse",
+      "name": "TFnHouse",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TFrankenstein",
+      "fullpath": "pinball_arcade-TFrankenstein",
+      "name": "TFrankenstein",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TGenie",
+      "fullpath": "pinball_arcade-TGenie",
+      "name": "TGenie",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TGladiators",
+      "fullpath": "pinball_arcade-TGladiators",
+      "name": "TGladiators",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TGofers",
+      "fullpath": "pinball_arcade-TGofers",
+      "name": "TGofers",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TGoinNuts",
+      "fullpath": "pinball_arcade-TGoinNuts",
+      "name": "TGoinNuts",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TGorgar",
+      "fullpath": "pinball_arcade-TGorgar",
+      "name": "TGorgar",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TGorgarEmu",
+      "fullpath": "pinball_arcade-TGorgarEmu",
+      "name": "TGorgarEmu",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "THarleyDavidson",
+      "fullpath": "pinball_arcade-THarleyDavidson",
+      "name": "THarleyDavidson",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "THauntedHouse",
+      "fullpath": "pinball_arcade-THauntedHouse",
+      "name": "THauntedHouse",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "THighRollerCasino",
+      "fullpath": "pinball_arcade-THighRollerCasino",
+      "name": "THighRollerCasino",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "THighSpeed",
+      "fullpath": "pinball_arcade-THighSpeed",
+      "name": "THighSpeed",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "THighSpeed2",
+      "fullpath": "pinball_arcade-THighSpeed2",
+      "name": "THighSpeed2",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "THurricane",
+      "fullpath": "pinball_arcade-THurricane",
+      "name": "THurricane",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TIndy500",
+      "fullpath": "pinball_arcade-TIndy500",
+      "name": "TIndy500",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TJackBot",
+      "fullpath": "pinball_arcade-TJackBot",
+      "name": "TJackBot",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TJacksOpen",
+      "fullpath": "pinball_arcade-TJacksOpen",
+      "name": "TJacksOpen",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TJudgeDredd",
+      "fullpath": "pinball_arcade-TJudgeDredd",
+      "name": "TJudgeDredd",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TJunkYard",
+      "fullpath": "pinball_arcade-TJunkYard",
+      "name": "TJunkYard",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TKnight",
+      "fullpath": "pinball_arcade-TKnight",
+      "name": "TKnight",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TKnightEmu",
+      "fullpath": "pinball_arcade-TKnightEmu",
+      "name": "TKnightEmu",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TLastActionHero",
+      "fullpath": "pinball_arcade-TLastActionHero",
+      "name": "TLastActionHero",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TLightsCameraAction",
+      "fullpath": "pinball_arcade-TLightsCameraAction",
+      "name": "TLightsCameraAction",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TMediev",
+      "fullpath": "pinball_arcade-TMediev",
+      "name": "TMediev",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TMonsterBash",
+      "fullpath": "pinball_arcade-TMonsterBash",
+      "name": "TMonsterBash",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TNoFear",
+      "fullpath": "pinball_arcade-TNoFear",
+      "name": "TNoFear",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TParagon",
+      "fullpath": "pinball_arcade-TParagon",
+      "name": "TParagon",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TPartyZone",
+      "fullpath": "pinball_arcade-TPartyZone",
+      "name": "TPartyZone",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TPhantomOfTheOpera",
+      "fullpath": "pinball_arcade-TPhantomOfTheOpera",
+      "name": "TPhantomOfTheOpera",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TPinbot",
+      "fullpath": "pinball_arcade-TPinbot",
+      "name": "TPinbot",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TRescue911",
+      "fullpath": "pinball_arcade-TRescue911",
+      "name": "TRescue911",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TRipleys",
+      "fullpath": "pinball_arcade-TRipleys",
+      "name": "TRipleys",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TRoadShow",
+      "fullpath": "pinball_arcade-TRoadShow",
+      "name": "TRoadShow",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TSafeCracker",
+      "fullpath": "pinball_arcade-TSafeCracker",
+      "name": "TSafeCracker",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TScaredStiff",
+      "fullpath": "pinball_arcade-TScaredStiff",
+      "name": "TScaredStiff",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TShuttle",
+      "fullpath": "pinball_arcade-TShuttle",
+      "name": "TShuttle",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TStarshipTroopers",
+      "fullpath": "pinball_arcade-TStarshipTroopers",
+      "name": "TStarshipTroopers",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TStarTrekTNG",
+      "fullpath": "pinball_arcade-TStarTrekTNG",
+      "name": "TStarTrekTNG",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TSwordsOfFury",
+      "fullpath": "pinball_arcade-TSwordsOfFury",
+      "name": "TSwordsOfFury",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TTaxi",
+      "fullpath": "pinball_arcade-TTaxi",
+      "name": "TTaxi",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TTeedOff",
+      "fullpath": "pinball_arcade-TTeedOff",
+      "name": "TTeedOff",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TTerminator2",
+      "fullpath": "pinball_arcade-TTerminator2",
+      "name": "TTerminator2",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TTheaterOfMagic",
+      "fullpath": "pinball_arcade-TTheaterOfMagic",
+      "name": "TTheaterOfMagic",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TTomcat",
+      "fullpath": "pinball_arcade-TTomcat",
+      "name": "TTomcat",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TTotan",
+      "fullpath": "pinball_arcade-TTotan",
+      "name": "TTotan",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TTwilightZone",
+      "fullpath": "pinball_arcade-TTwilightZone",
+      "name": "TTwilightZone",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TTxSector",
+      "fullpath": "pinball_arcade-TTxSector",
+      "name": "TTxSector",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TVictory",
+      "fullpath": "pinball_arcade-TVictory",
+      "name": "TVictory",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TWhirlWind",
+      "fullpath": "pinball_arcade-TWhirlWind",
+      "name": "TWhirlWind",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TWhiteWater",
+      "fullpath": "pinball_arcade-TWhiteWater",
+      "name": "TWhiteWater",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TWhoDunnit",
+      "fullpath": "pinball_arcade-TWhoDunnit",
+      "name": "TWhoDunnit",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TWorldTour",
+      "fullpath": "pinball_arcade-TWorldTour",
+      "name": "TWorldTour",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TXenon",
+      "fullpath": "pinball_arcade-TXenon",
+      "name": "TXenon",
+      "year": "2013",
+      "publisher": "Pinball Arcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

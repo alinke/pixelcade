@@ -1,0 +1,869 @@
+{
+  "platform": "nec_turbografx_16",
+  "totalGames": 95,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "nec_turbografx_16 game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "nec_turbografx_16.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Aero Blasters (USA)",
+      "fullpath": "nec_turbografx_16-Aero Blasters (USA)",
+      "name": "Aero Blasters",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Air Zonk (USA)",
+      "fullpath": "nec_turbografx_16-Air Zonk (USA)",
+      "name": "Air Zonk",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alien Crush (USA)",
+      "fullpath": "nec_turbografx_16-Alien Crush (USA)",
+      "name": "Alien Crush",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ballistix (USA)",
+      "fullpath": "nec_turbografx_16-Ballistix (USA)",
+      "name": "Ballistix",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battle Royale (USA)",
+      "fullpath": "nec_turbografx_16-Battle Royale (USA)",
+      "name": "Battle Royale",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blazing Lazers (USA)",
+      "fullpath": "nec_turbografx_16-Blazing Lazers (USA)",
+      "name": "Blazing Lazers",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bloody Wolf (USA)",
+      "fullpath": "nec_turbografx_16-Bloody Wolf (USA)",
+      "name": "Bloody Wolf",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bomberman '93 (USA)",
+      "fullpath": "nec_turbografx_16-Bomberman '93 (USA)",
+      "name": "Bomberman '93",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bomberman (USA)",
+      "fullpath": "nec_turbografx_16-Bomberman (USA)",
+      "name": "Bomberman",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bonk III - Bonk's Big Adventure (USA)",
+      "fullpath": "nec_turbografx_16-Bonk III - Bonk's Big Adventure (USA)",
+      "name": "Bonk III - Bonk's Big Adventure",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bonk's Adventure (USA)",
+      "fullpath": "nec_turbografx_16-Bonk's Adventure (USA)",
+      "name": "Bonk's Adventure",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bonk's Revenge (USA)",
+      "fullpath": "nec_turbografx_16-Bonk's Revenge (USA)",
+      "name": "Bonk's Revenge",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Boxyboy (USA)",
+      "fullpath": "nec_turbografx_16-Boxyboy (USA)",
+      "name": "Boxyboy",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bravoman (USA)",
+      "fullpath": "nec_turbografx_16-Bravoman (USA)",
+      "name": "Bravoman",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cadash (USA)",
+      "fullpath": "nec_turbografx_16-Cadash (USA)",
+      "name": "Cadash",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Champions Forever Boxing (USA)",
+      "fullpath": "nec_turbografx_16-Champions Forever Boxing (USA)",
+      "name": "Champions Forever Boxing",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chew Man Fu (USA)",
+      "fullpath": "nec_turbografx_16-Chew Man Fu (USA)",
+      "name": "Chew Man Fu",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "China Warrior (USA)",
+      "fullpath": "nec_turbografx_16-China Warrior (USA)",
+      "name": "China Warrior",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cratermaze (USA)",
+      "fullpath": "nec_turbografx_16-Cratermaze (USA)",
+      "name": "Cratermaze",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cyber Core (USA)",
+      "fullpath": "nec_turbografx_16-Cyber Core (USA)",
+      "name": "Cyber Core",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Darkwing Duck (USA)",
+      "fullpath": "nec_turbografx_16-Darkwing Duck (USA)",
+      "name": "Darkwing Duck",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Davis Cup Tennis (USA)",
+      "fullpath": "nec_turbografx_16-Davis Cup Tennis (USA)",
+      "name": "Davis Cup Tennis",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dead Moon (USA)",
+      "fullpath": "nec_turbografx_16-Dead Moon (USA)",
+      "name": "Dead Moon",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Deep Blue (USA)",
+      "fullpath": "nec_turbografx_16-Deep Blue (USA)",
+      "name": "Deep Blue",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Devil's Crush - Naxat Pinball (USA)",
+      "fullpath": "nec_turbografx_16-Devil's Crush - Naxat Pinball (USA)",
+      "name": "Devil's Crush - Naxat Pinball",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Double Dungeons - W (USA)",
+      "fullpath": "nec_turbografx_16-Double Dungeons - W (USA)",
+      "name": "Double Dungeons - W",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dragon Spirit (USA)",
+      "fullpath": "nec_turbografx_16-Dragon Spirit (USA)",
+      "name": "Dragon Spirit",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dragon's Curse (USA)",
+      "fullpath": "nec_turbografx_16-Dragon's Curse (USA)",
+      "name": "Dragon's Curse",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Drop.Off (USA)",
+      "fullpath": "nec_turbografx_16-Drop.Off (USA)",
+      "name": "Drop.Off",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dungeon Explorer (USA)",
+      "fullpath": "nec_turbografx_16-Dungeon Explorer (USA)",
+      "name": "Dungeon Explorer",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Falcon (USA)",
+      "fullpath": "nec_turbografx_16-Falcon (USA)",
+      "name": "Falcon",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fantasy Zone (USA)",
+      "fullpath": "nec_turbografx_16-Fantasy Zone (USA)",
+      "name": "Fantasy Zone",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Final Lap Twin (USA)",
+      "fullpath": "nec_turbografx_16-Final Lap Twin (USA)",
+      "name": "Final Lap Twin",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Galaga '90 (USA)",
+      "fullpath": "nec_turbografx_16-Galaga '90 (USA)",
+      "name": "Galaga '90",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ghost Manor (USA)",
+      "fullpath": "nec_turbografx_16-Ghost Manor (USA)",
+      "name": "Ghost Manor",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gunboat (USA)",
+      "fullpath": "nec_turbografx_16-Gunboat (USA)",
+      "name": "Gunboat",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hit the Ice - VHL the Official Video Hockey League (USA)",
+      "fullpath": "nec_turbografx_16-Hit the Ice - VHL the Official Video Hockey League (USA)",
+      "name": "Hit the Ice - VHL the Official Video Hockey League",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Impossamole (USA)",
+      "fullpath": "nec_turbografx_16-Impossamole (USA)",
+      "name": "Impossamole",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "J.J. & Jeff (USA)",
+      "fullpath": "nec_turbografx_16-J.J. & Jeff (USA)",
+      "name": "J.J. & Jeff",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Jack Nicklaus' Turbo Golf (USA)",
+      "fullpath": "nec_turbografx_16-Jack Nicklaus' Turbo Golf (USA)",
+      "name": "Jack Nicklaus' Turbo Golf",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Jackie Chan's Action Kung Fu (USA)",
+      "fullpath": "nec_turbografx_16-Jackie Chan's Action Kung Fu (USA)",
+      "name": "Jackie Chan's Action Kung Fu",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Keith Courage in Alpha Zones (USA)",
+      "fullpath": "nec_turbografx_16-Keith Courage in Alpha Zones (USA)",
+      "name": "Keith Courage in Alpha Zones",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King of Casino (USA)",
+      "fullpath": "nec_turbografx_16-King of Casino (USA)",
+      "name": "King of Casino",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Klax (USA)",
+      "fullpath": "nec_turbografx_16-Klax (USA)",
+      "name": "Klax",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Legend of Hero Tonma (USA)",
+      "fullpath": "nec_turbografx_16-Legend of Hero Tonma (USA)",
+      "name": "Legend of Hero Tonma",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Legendary Axe II, The (USA)",
+      "fullpath": "nec_turbografx_16-Legendary Axe II, The (USA)",
+      "name": "Legendary Axe II, The",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Legendary Axe, The (USA)",
+      "fullpath": "nec_turbografx_16-Legendary Axe, The (USA)",
+      "name": "Legendary Axe, The",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Magical Chase (USA)",
+      "fullpath": "nec_turbografx_16-Magical Chase (USA)",
+      "name": "Magical Chase",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Military Madness (USA)",
+      "fullpath": "nec_turbografx_16-Military Madness (USA)",
+      "name": "Military Madness",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Moto Roader (USA)",
+      "fullpath": "nec_turbografx_16-Moto Roader (USA)",
+      "name": "Moto Roader",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neutopia (USA)",
+      "fullpath": "nec_turbografx_16-Neutopia (USA)",
+      "name": "Neutopia",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neutopia II (USA)",
+      "fullpath": "nec_turbografx_16-Neutopia II (USA)",
+      "name": "Neutopia II",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "New Adventure Island (USA)",
+      "fullpath": "nec_turbografx_16-New Adventure Island (USA)",
+      "name": "New Adventure Island",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Night Creatures (USA)",
+      "fullpath": "nec_turbografx_16-Night Creatures (USA)",
+      "name": "Night Creatures",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Spirit (USA)",
+      "fullpath": "nec_turbografx_16-Ninja Spirit (USA)",
+      "name": "Ninja Spirit",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Order of the Griffon (USA)",
+      "fullpath": "nec_turbografx_16-Order of the Griffon (USA)",
+      "name": "Order of the Griffon",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ordyne (USA)",
+      "fullpath": "nec_turbografx_16-Ordyne (USA)",
+      "name": "Ordyne",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pac-Land (USA)",
+      "fullpath": "nec_turbografx_16-Pac-Land (USA)",
+      "name": "Pac-Land",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Panza Kick Boxing (USA)",
+      "fullpath": "nec_turbografx_16-Panza Kick Boxing (USA)",
+      "name": "Panza Kick Boxing",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Parasol Stars - The Story of Bubble Bobble III (USA)",
+      "fullpath": "nec_turbografx_16-Parasol Stars - The Story of Bubble Bobble III (USA)",
+      "name": "Parasol Stars - The Story of Bubble Bobble III",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Power Golf (USA)",
+      "fullpath": "nec_turbografx_16-Power Golf (USA)",
+      "name": "Power Golf",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Psychosis (USA)",
+      "fullpath": "nec_turbografx_16-Psychosis (USA)",
+      "name": "Psychosis",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "R-Type (USA)",
+      "fullpath": "nec_turbografx_16-R-Type (USA)",
+      "name": "R-Type",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Raiden (USA)",
+      "fullpath": "nec_turbografx_16-Raiden (USA)",
+      "name": "Raiden",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai-Ghost (USA)",
+      "fullpath": "nec_turbografx_16-Samurai-Ghost (USA)",
+      "name": "Samurai-Ghost",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shockman (USA)",
+      "fullpath": "nec_turbografx_16-Shockman (USA)",
+      "name": "Shockman",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SideArms - Hyper Dyne (USA)",
+      "fullpath": "nec_turbografx_16-SideArms - Hyper Dyne (USA)",
+      "name": "SideArms - Hyper Dyne",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Silent Debuggers (USA)",
+      "fullpath": "nec_turbografx_16-Silent Debuggers (USA)",
+      "name": "Silent Debuggers",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sinistron (USA)",
+      "fullpath": "nec_turbografx_16-Sinistron (USA)",
+      "name": "Sinistron",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Soldier Blade (USA)",
+      "fullpath": "nec_turbografx_16-Soldier Blade (USA)",
+      "name": "Soldier Blade",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Somer Assault (USA)",
+      "fullpath": "nec_turbografx_16-Somer Assault (USA)",
+      "name": "Somer Assault",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic Spike - World Championship Beach Volleyball (USA)",
+      "fullpath": "nec_turbografx_16-Sonic Spike - World Championship Beach Volleyball (USA)",
+      "name": "Sonic Spike - World Championship Beach Volleyball",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Harrier (USA)",
+      "fullpath": "nec_turbografx_16-Space Harrier (USA)",
+      "name": "Space Harrier",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Splatterhouse (USA)",
+      "fullpath": "nec_turbografx_16-Splatterhouse (USA)",
+      "name": "Splatterhouse",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Star Soldier (USA)",
+      "fullpath": "nec_turbografx_16-Super Star Soldier (USA)",
+      "name": "Super Star Soldier",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Volleyball (USA)",
+      "fullpath": "nec_turbografx_16-Super Volleyball (USA)",
+      "name": "Super Volleyball",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TV Sports Basketball (USA)",
+      "fullpath": "nec_turbografx_16-TV Sports Basketball (USA)",
+      "name": "TV Sports Basketball",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TV Sports Football (USA)",
+      "fullpath": "nec_turbografx_16-TV Sports Football (USA)",
+      "name": "TV Sports Football",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TV Sports Hockey (USA)",
+      "fullpath": "nec_turbografx_16-TV Sports Hockey (USA)",
+      "name": "TV Sports Hockey",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Taito Chase H.Q. (USA)",
+      "fullpath": "nec_turbografx_16-Taito Chase H.Q. (USA)",
+      "name": "Taito Chase H.Q.",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Takin' It to the Hoop (USA)",
+      "fullpath": "nec_turbografx_16-Takin' It to the Hoop (USA)",
+      "name": "Takin' It to the Hoop",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TaleSpin (USA)",
+      "fullpath": "nec_turbografx_16-TaleSpin (USA)",
+      "name": "TaleSpin",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tiger Road (USA)",
+      "fullpath": "nec_turbografx_16-Tiger Road (USA)",
+      "name": "Tiger Road",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Cruise (USA)",
+      "fullpath": "nec_turbografx_16-Time Cruise (USA)",
+      "name": "Time Cruise",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Timeball (USA)",
+      "fullpath": "nec_turbografx_16-Timeball (USA)",
+      "name": "Timeball",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tricky Kick (USA)",
+      "fullpath": "nec_turbografx_16-Tricky Kick (USA)",
+      "name": "Tricky Kick",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Turrican (USA)",
+      "fullpath": "nec_turbografx_16-Turrican (USA)",
+      "name": "Turrican",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Veigues - Tactical Gladiator (USA)",
+      "fullpath": "nec_turbografx_16-Veigues - Tactical Gladiator (USA)",
+      "name": "Veigues - Tactical Gladiator",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Victory Run (USA)",
+      "fullpath": "nec_turbografx_16-Victory Run (USA)",
+      "name": "Victory Run",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Vigilante (USA)",
+      "fullpath": "nec_turbografx_16-Vigilante (USA)",
+      "name": "Vigilante",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Volfied (Japan)",
+      "fullpath": "nec_turbografx_16-Volfied (Japan)",
+      "name": "Volfied",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Class Baseball (USA)",
+      "fullpath": "nec_turbografx_16-World Class Baseball (USA)",
+      "name": "World Class Baseball",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Court Tennis (USA)",
+      "fullpath": "nec_turbografx_16-World Court Tennis (USA)",
+      "name": "World Court Tennis",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Sports Competition (USA)",
+      "fullpath": "nec_turbografx_16-World Sports Competition (USA)",
+      "name": "World Sports Competition",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Yo, Bro (USA)",
+      "fullpath": "nec_turbografx_16-Yo, Bro (USA)",
+      "name": "Yo, Bro",
+      "year": "1987",
+      "publisher": "NEC",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

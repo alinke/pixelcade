@@ -1,0 +1,1490 @@
+{
+  "platform": "intellivision",
+  "totalGames": 164,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "intellivision game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "intellivision.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "4-TRIS (2000) (Joseph Zbiciak)",
+      "fullpath": "intellivision-4-TRIS (2000) (Joseph Zbiciak)",
+      "name": "4-TRIS",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "4-TRIS (2001) (Joseph Zbiciak)",
+      "fullpath": "intellivision-4-TRIS (2001) (Joseph Zbiciak)",
+      "name": "4-TRIS",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ABPA Backgammon (1978) (Mattel)",
+      "fullpath": "intellivision-ABPA Backgammon (1978) (Mattel)",
+      "name": "ABPA Backgammon",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Advanced D&D - Treasure of Tarmin (1982) (Mattel)",
+      "fullpath": "intellivision-Advanced D&D - Treasure of Tarmin (1982) (Mattel)",
+      "name": "Advanced D&D - Treasure of Tarmin",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Advanced Dungeons and Dragons (1982) (Mattel)",
+      "fullpath": "intellivision-Advanced Dungeons and Dragons (1982) (Mattel)",
+      "name": "Advanced Dungeons and Dragons",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Adventures of TRON",
+      "fullpath": "intellivision-Adventures of TRON",
+      "name": "Adventures of TRON",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Air Strike (1982) (Mattel)",
+      "fullpath": "intellivision-Air Strike (1982) (Mattel)",
+      "name": "Air Strike",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "All-Star Major League Baseball (1983) (Mattel)",
+      "fullpath": "intellivision-All-Star Major League Baseball (1983) (Mattel)",
+      "name": "All-Star Major League Baseball",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Armor Battle (1978) (Mattel)",
+      "fullpath": "intellivision-Armor Battle (1978) (Mattel)",
+      "name": "Armor Battle",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Astrosmash (1981) (Mattel)",
+      "fullpath": "intellivision-Astrosmash (1981) (Mattel)",
+      "name": "Astrosmash",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Atlantis (1981) (Imagic) [!]",
+      "fullpath": "intellivision-Atlantis (1981) (Imagic) [!]",
+      "name": "Atlantis",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Auto Racing (1979) (Mattel)",
+      "fullpath": "intellivision-Auto Racing (1979) (Mattel)",
+      "name": "Auto Racing",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "B-17 Bomber (1981) (Mattel) [!]",
+      "fullpath": "intellivision-B-17 Bomber (1981) (Mattel) [!]",
+      "name": "B-17 Bomber",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Baseball (1978) (Mattel)",
+      "fullpath": "intellivision-Baseball (1978) (Mattel)",
+      "name": "Baseball",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Basketball (Mattel)",
+      "fullpath": "intellivision-Basketball (Mattel)",
+      "name": "Basketball",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "BeamRider (1983) (Activision) [!]",
+      "fullpath": "intellivision-BeamRider (1983) (Activision) [!]",
+      "name": "BeamRider",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Beauty and the Beast (1982) (Imagic) [!]",
+      "fullpath": "intellivision-Beauty and the Beast (1982) (Imagic) [!]",
+      "name": "Beauty and the Beast",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blockade Runner (1983) (Interphase)",
+      "fullpath": "intellivision-Blockade Runner (1983) (Interphase)",
+      "name": "Blockade Runner",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Body Slam - Super Pro Wrestling (1988) (Intv Corp)",
+      "fullpath": "intellivision-Body Slam - Super Pro Wrestling (1988) (Intv Corp)",
+      "name": "Body Slam - Super Pro Wrestling",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bomb Squad (1982) (Mattel) [!]",
+      "fullpath": "intellivision-Bomb Squad (1982) (Mattel) [!]",
+      "name": "Bomb Squad",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bowling (Mattel)",
+      "fullpath": "intellivision-Bowling (Mattel)",
+      "name": "Bowling",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Boxing (1980) (Mattel)",
+      "fullpath": "intellivision-Boxing (1980) (Mattel)",
+      "name": "Boxing",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Brickout! (1981) (Mattel)",
+      "fullpath": "intellivision-Brickout! (1981) (Mattel)",
+      "name": "Brickout!",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bump 'N' Jump (1982-83) (Mattel)",
+      "fullpath": "intellivision-Bump 'N' Jump (1982-83) (Mattel)",
+      "name": "Bump 'N' Jump",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "BurgerTime! (1982) (Mattel)",
+      "fullpath": "intellivision-BurgerTime! (1982) (Mattel)",
+      "name": "BurgerTime!",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Buzz Bombers (1982) (Mattel)",
+      "fullpath": "intellivision-Buzz Bombers (1982) (Mattel)",
+      "name": "Buzz Bombers",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Carnival (1982) (Coleco-CBS)",
+      "fullpath": "intellivision-Carnival (1982) (Coleco-CBS)",
+      "name": "Carnival",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Centipede (1983) (Atarisoft) (alt)",
+      "fullpath": "intellivision-Centipede (1983) (Atarisoft) (alt)",
+      "name": "Centipede",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Centipede (1983) (Atarisoft)",
+      "fullpath": "intellivision-Centipede (1983) (Atarisoft)",
+      "name": "Centipede",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Championship Tennis (1985) (Mattel)",
+      "fullpath": "intellivision-Championship Tennis (1985) (Mattel)",
+      "name": "Championship Tennis",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Checkers (1979) (Mattel)",
+      "fullpath": "intellivision-Checkers (1979) (Mattel)",
+      "name": "Checkers",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chip Shot - Super Pro Golf (1987) (Intv Corp)",
+      "fullpath": "intellivision-Chip Shot - Super Pro Golf (1987) (Intv Corp)",
+      "name": "Chip Shot - Super Pro Golf",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Choplifter",
+      "fullpath": "intellivision-Choplifter",
+      "name": "Choplifter",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Commando (1987) (Mattel)",
+      "fullpath": "intellivision-Commando (1987) (Mattel)",
+      "name": "Commando",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Congo Bongo (1983) (Sega)",
+      "fullpath": "intellivision-Congo Bongo (1983) (Sega)",
+      "name": "Congo Bongo",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crazy Clones (1981) (PD)",
+      "fullpath": "intellivision-Crazy Clones (1981) (PD)",
+      "name": "Crazy Clones",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Deep Pockets-Super Pro Pool and Billiards (1990) (Realtime) [!]",
+      "fullpath": "intellivision-Deep Pockets-Super Pro Pool and Billiards (1990) (Realtime) [!]",
+      "name": "Deep Pockets-Super Pro Pool and Billiards",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Defender (1983) (Atarisoft) (alt)",
+      "fullpath": "intellivision-Defender (1983) (Atarisoft) (alt)",
+      "name": "Defender",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Defender (1983) (Atarisoft)",
+      "fullpath": "intellivision-Defender (1983) (Atarisoft)",
+      "name": "Defender",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Demon Attack (1982) (Imagic) [!]",
+      "fullpath": "intellivision-Demon Attack (1982) (Imagic) [!]",
+      "name": "Demon Attack",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dig Dug (1987) (Intv Corp)",
+      "fullpath": "intellivision-Dig Dug (1987) (Intv Corp)",
+      "name": "Dig Dug",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Diner (1987) (Intv Corp)",
+      "fullpath": "intellivision-Diner (1987) (Intv Corp)",
+      "name": "Diner",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donkey Kong (1982) (Coleco)",
+      "fullpath": "intellivision-Donkey Kong (1982) (Coleco)",
+      "name": "Donkey Kong",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donkey Kong Jr (1982) (Coleco)",
+      "fullpath": "intellivision-Donkey Kong Jr (1982) (Coleco)",
+      "name": "Donkey Kong Jr",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dracula (1982) (Imagic) [!]",
+      "fullpath": "intellivision-Dracula (1982) (Imagic) [!]",
+      "name": "Dracula",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dragonfire (1982) (Imagic) [!]",
+      "fullpath": "intellivision-Dragonfire (1982) (Imagic) [!]",
+      "name": "Dragonfire",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dreadnaught Factor, The (1983) (Activision) [!]",
+      "fullpath": "intellivision-Dreadnaught Factor, The (1983) (Activision) [!]",
+      "name": "Dreadnaught Factor, The",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Easter Eggs (1981) (Mattel)",
+      "fullpath": "intellivision-Easter Eggs (1981) (Mattel)",
+      "name": "Easter Eggs",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Electric Company - Math Fun (1978) (CTW)",
+      "fullpath": "intellivision-Electric Company - Math Fun (1978) (CTW)",
+      "name": "Electric Company - Math Fun",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Electric Company - Word Fun (1980) (CTW)",
+      "fullpath": "intellivision-Electric Company - Word Fun (1980) (CTW)",
+      "name": "Electric Company - Word Fun",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fathom (1983) (Imagic) [!]",
+      "fullpath": "intellivision-Fathom (1983) (Imagic) [!]",
+      "name": "Fathom",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Football (Mattel)",
+      "fullpath": "intellivision-Football (Mattel)",
+      "name": "Football",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Frog Bog (1982) (Mattel)",
+      "fullpath": "intellivision-Frog Bog (1982) (Mattel)",
+      "name": "Frog Bog",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Frogger (1983) (Parker Bros)",
+      "fullpath": "intellivision-Frogger (1983) (Parker Bros)",
+      "name": "Frogger",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Game Factory (World)",
+      "fullpath": "IntellIvIsIon-Game Factory (World)",
+      "name": "Game Factory",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Golf (Mattel)",
+      "fullpath": "intellivision-Golf (Mattel)",
+      "name": "Golf",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Grid Shock (World)",
+      "fullpath": "IntellIvIsIon-Grid Shock (World)",
+      "name": "Grid Shock",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Happy Trails (1983) (Activision)",
+      "fullpath": "intellivision-Happy Trails (1983) (Activision)",
+      "name": "Happy Trails",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hard Hat (World)",
+      "fullpath": "IntellIvIsIon-Hard Hat (World)",
+      "name": "Hard Hat",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Horse Racing (1980) (Mattel)",
+      "fullpath": "intellivision-Horse Racing (1980) (Mattel)",
+      "name": "Horse Racing",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hover Force (1986) (Intv Corp)",
+      "fullpath": "intellivision-Hover Force (1986) (Intv Corp)",
+      "name": "Hover Force",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hypnotic Lights (1981) (Mattel)",
+      "fullpath": "intellivision-Hypnotic Lights (1981) (Mattel)",
+      "name": "Hypnotic Lights",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ice Trek (1983) (Imagic) [!]",
+      "fullpath": "intellivision-Ice Trek (1983) (Imagic) [!]",
+      "name": "Ice Trek",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Illusions",
+      "fullpath": "intellivision-Illusions",
+      "name": "Illusions",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Jetsons, The - Ways With Words (1983) (Mattel)",
+      "fullpath": "intellivision-Jetsons, The - Ways With Words (1983) (Mattel)",
+      "name": "Jetsons, The - Ways With Words",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King of the Mountain (1982) (Mattel)",
+      "fullpath": "intellivision-King of the Mountain (1982) (Mattel)",
+      "name": "King of the Mountain",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kool-Aid Man (1983) (Mattel)",
+      "fullpath": "intellivision-Kool-Aid Man (1983) (Mattel)",
+      "name": "Kool-Aid Man",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lady Bug (1983) (Coleco)",
+      "fullpath": "intellivision-Lady Bug (1983) (Coleco)",
+      "name": "Lady Bug",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Land Battle (World)",
+      "fullpath": "IntellIvIsIon-Land Battle (World)",
+      "name": "Land Battle",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Las Vegas Blackjack and Poker (1979) (Mattel)",
+      "fullpath": "intellivision-Las Vegas Blackjack and Poker (1979) (Mattel)",
+      "name": "Las Vegas Blackjack and Poker",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Las Vegas Roulette (1979) (Mattel)",
+      "fullpath": "intellivision-Las Vegas Roulette (1979) (Mattel)",
+      "name": "Las Vegas Roulette",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "League of Light (Prototype) (1983) (Activision) [!]",
+      "fullpath": "intellivision-League of Light (Prototype) (1983) (Activision) [!]",
+      "name": "League of Light",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Learning Fun I - Math Master Factor Fun (1987) (Intv Corp)",
+      "fullpath": "intellivision-Learning Fun I - Math Master Factor Fun (1987) (Intv Corp)",
+      "name": "Learning Fun I - Math Master Factor Fun",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Learning Fun II - Word Wizard Memory Fun (1987) (Intv Corp)",
+      "fullpath": "intellivision-Learning Fun II - Word Wizard Memory Fun (1987) (Intv Corp)",
+      "name": "Learning Fun II - Word Wizard Memory Fun",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lock 'N' Chase (1982) (Mattel)",
+      "fullpath": "intellivision-Lock 'N' Chase (1982) (Mattel)",
+      "name": "Lock 'N' Chase",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Loco-Motion (1982) (Mattel)",
+      "fullpath": "intellivision-Loco-Motion (1982) (Mattel)",
+      "name": "Loco-Motion",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Magic Carousel (Prototype) (1983) (Intv Corp) [!]",
+      "fullpath": "intellivision-Magic Carousel (Prototype) (1983) (Intv Corp) [!]",
+      "name": "Magic Carousel",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Major League Baseball (1983) (Mattel)",
+      "fullpath": "intellivision-Major League Baseball (1983) (Mattel)",
+      "name": "Major League Baseball",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Masters of the Universe-The Power of He-Man! (1983) (Mattel)",
+      "fullpath": "intellivision-Masters of the Universe-The Power of He-Man! (1983) (Mattel)",
+      "name": "Masters of the Universe-The Power of He-Man!",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Melody Blaster (1983) (Mattel) [!]",
+      "fullpath": "intellivision-Melody Blaster (1983) (Mattel) [!]",
+      "name": "Melody Blaster",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Meteor (World)",
+      "fullpath": "IntellIvIsIon-Meteor (World)",
+      "name": "Meteor",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Microsurgeon (1982) (Imagic) [!]",
+      "fullpath": "intellivision-Microsurgeon (1982) (Imagic) [!]",
+      "name": "Microsurgeon",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mind Strike! (1982) (Mattel) [!]",
+      "fullpath": "intellivision-Mind Strike! (1982) (Mattel) [!]",
+      "name": "Mind Strike!",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "MIne Hunter (World)",
+      "fullpath": "IntellIvIsIon-MIne Hunter (World)",
+      "name": "MIne Hunter",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mission X (1982) (Mattel)",
+      "fullpath": "intellivision-Mission X (1982) (Mattel)",
+      "name": "Mission X",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Motocross (1982) (Mattel)",
+      "fullpath": "intellivision-Motocross (1982) (Mattel)",
+      "name": "Motocross",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mountain Madness - Super Pro Skiing (1987) (Intv Corp)",
+      "fullpath": "intellivision-Mountain Madness - Super Pro Skiing (1987) (Intv Corp)",
+      "name": "Mountain Madness - Super Pro Skiing",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mouse Trap (1982) (Coleco)",
+      "fullpath": "intellivision-Mouse Trap (1982) (Coleco)",
+      "name": "Mouse Trap",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mr. Basic Meets Bits 'N Bytes (1983) (Mattel) [!]",
+      "fullpath": "intellivision-Mr. Basic Meets Bits 'N Bytes (1983) (Mattel) [!]",
+      "name": "Mr. Basic Meets Bits 'N Bytes",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NASL Soccer (1979) (Mattel)",
+      "fullpath": "intellivision-NASL Soccer (1979) (Mattel)",
+      "name": "NASL Soccer",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NBA Basketball (1978) (Mattel)",
+      "fullpath": "intellivision-NBA Basketball (1978) (Mattel)",
+      "name": "NBA Basketball",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NFL Football (1978) (Mattel)",
+      "fullpath": "intellivision-NFL Football (1978) (Mattel)",
+      "name": "NFL Football",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NHL Hockey (1979) (Mattel)",
+      "fullpath": "intellivision-NHL Hockey (1979) (Mattel)",
+      "name": "NHL Hockey",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Night Stalker (1982) (Mattel)",
+      "fullpath": "intellivision-Night Stalker (1982) (Mattel)",
+      "name": "Night Stalker",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Nova Blast (1983) (Imagic) [!]",
+      "fullpath": "intellivision-Nova Blast (1983) (Imagic) [!]",
+      "name": "Nova Blast",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Number Jumble (World)",
+      "fullpath": "IntellIvIsIon-Number Jumble (World)",
+      "name": "Number Jumble",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pac-Man (1983) (Atarisoft) (alt)",
+      "fullpath": "intellivision-Pac-Man (1983) (Atarisoft) (alt)",
+      "name": "Pac-Man",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pac-Man (1983) (Atarisoft)",
+      "fullpath": "intellivision-Pac-Man (1983) (Atarisoft)",
+      "name": "Pac-Man",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "PBA Bowling (1980) (Mattel)",
+      "fullpath": "intellivision-PBA Bowling (1980) (Mattel)",
+      "name": "PBA Bowling",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "PGA Golf (1979) (Mattel)",
+      "fullpath": "intellivision-PGA Golf (1979) (Mattel)",
+      "name": "PGA Golf",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pinball (1981) (Mattel)",
+      "fullpath": "intellivision-Pinball (1981) (Mattel)",
+      "name": "Pinball",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pitfall! (1982) (Activision) [!]",
+      "fullpath": "intellivision-Pitfall! (1982) (Activision) [!]",
+      "name": "Pitfall!",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pole Position (1986) (Intv Corp)",
+      "fullpath": "intellivision-Pole Position (1986) (Intv Corp)",
+      "name": "Pole Position",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Popeye (1983) (Parker Bros)",
+      "fullpath": "intellivision-Popeye (1983) (Parker Bros)",
+      "name": "Popeye",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Q-bert (1983) (Parker Bros)",
+      "fullpath": "intellivision-Q-bert (1983) (Parker Bros)",
+      "name": "Q-bert",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Reversi (1984) (Mattel)",
+      "fullpath": "intellivision-Reversi (1984) (Mattel)",
+      "name": "Reversi",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "River Raid (1982-83) (Activision) [!]",
+      "fullpath": "intellivision-River Raid (1982-83) (Activision) [!]",
+      "name": "River Raid",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Robot Rubble V3 (Prototype) (1983) (Activision) [!]",
+      "fullpath": "intellivision-Robot Rubble V3 (Prototype) (1983) (Activision) [!]",
+      "name": "Robot Rubble V3",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Royal Dealer (1981) (Mattel)",
+      "fullpath": "intellivision-Royal Dealer (1981) (Mattel)",
+      "name": "Royal Dealer",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Safecracker (1983) (Imagic) [!]",
+      "fullpath": "intellivision-Safecracker (1983) (Imagic) [!]",
+      "name": "Safecracker",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Same Game and Robots (Mattel)",
+      "fullpath": "intellivision-Same Game and Robots (Mattel)",
+      "name": "Same Game and Robots",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Santa's Helper (1983) (Mattel)",
+      "fullpath": "intellivision-Santa's Helper (1983) (Mattel)",
+      "name": "Santa's Helper",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Scooby Doo's Maze Chase (1983) (Mattel)",
+      "fullpath": "intellivision-Scooby Doo's Maze Chase (1983) (Mattel)",
+      "name": "Scooby Doo's Maze Chase",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sea Battle (1980) (Mattel)",
+      "fullpath": "intellivision-Sea Battle (1980) (Mattel)",
+      "name": "Sea Battle",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sewer Sam (1983) (Interphase)",
+      "fullpath": "intellivision-Sewer Sam (1983) (Interphase)",
+      "name": "Sewer Sam",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shark! Shark! (1982) (Mattel) [!]",
+      "fullpath": "intellivision-Shark! Shark! (1982) (Mattel) [!]",
+      "name": "Shark! Shark!",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sharp Shot (1982) (Mattel)",
+      "fullpath": "intellivision-Sharp Shot (1982) (Mattel)",
+      "name": "Sharp Shot",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Skiing (Mattel)",
+      "fullpath": "intellivision-Skiing (Mattel)",
+      "name": "Skiing",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slam Dunk - Super Pro Basketball (1987) (Intv Corp)",
+      "fullpath": "intellivision-Slam Dunk - Super Pro Basketball (1987) (Intv Corp)",
+      "name": "Slam Dunk - Super Pro Basketball",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slap Shot - Super Pro Hockey (1987) (Intv Corp)",
+      "fullpath": "intellivision-Slap Shot - Super Pro Hockey (1987) (Intv Corp)",
+      "name": "Slap Shot - Super Pro Hockey",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Snafu (1981) (Mattel)",
+      "fullpath": "intellivision-Snafu (1981) (Mattel)",
+      "name": "Snafu",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Armada (1981) (Mattel)",
+      "fullpath": "intellivision-Space Armada (1981) (Mattel)",
+      "name": "Space Armada",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Battle (1979) (Mattel)",
+      "fullpath": "intellivision-Space Battle (1979) (Mattel)",
+      "name": "Space Battle",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Cadet (World)",
+      "fullpath": "IntellIvIsIon-Space Cadet (World)",
+      "name": "Space Cadet",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Hawk (1981) (Mattel)",
+      "fullpath": "intellivision-Space Hawk (1981) (Mattel)",
+      "name": "Space Hawk",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Spartans (1981) (Mattel) [!]",
+      "fullpath": "intellivision-Space Spartans (1981) (Mattel) [!]",
+      "name": "Space Spartans",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Spiker! - Super Pro Volleyball (1988) (Intv Corp)",
+      "fullpath": "intellivision-Spiker! - Super Pro Volleyball (1988) (Intv Corp)",
+      "name": "Spiker! - Super Pro Volleyball",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Stadium Mud Buggies (1988) (Intv Corp)",
+      "fullpath": "intellivision-Stadium Mud Buggies (1988) (Intv Corp)",
+      "name": "Stadium Mud Buggies",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Stampede (1982) (Activision) [!]",
+      "fullpath": "intellivision-Stampede (1982) (Activision) [!]",
+      "name": "Stampede",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Strike (1981) (Mattel)",
+      "fullpath": "intellivision-Star Strike (1981) (Mattel)",
+      "name": "Star Strike",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Wars - The Empire Strikes Back (1983) (Parker Bros)",
+      "fullpath": "intellivision-Star Wars - The Empire Strikes Back (1983) (Parker Bros)",
+      "name": "Star Wars - The Empire Strikes Back",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "StonIx (World)",
+      "fullpath": "IntellIvIsIon-StonIx (World)",
+      "name": "StonIx",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Street (1981) (Mattel)",
+      "fullpath": "intellivision-Street (1981) (Mattel)",
+      "name": "Street",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sub Hunt (1981) (Mattel)",
+      "fullpath": "intellivision-Sub Hunt (1981) (Mattel)",
+      "name": "Sub Hunt",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Cobra (1983) (Konami)",
+      "fullpath": "intellivision-Super Cobra (1983) (Konami)",
+      "name": "Super Cobra",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Pro Decathlon (1988) (Intv Corp)",
+      "fullpath": "intellivision-Super Pro Decathlon (1988) (Intv Corp)",
+      "name": "Super Pro Decathlon",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Pro Football (1986) (Intv Corp)",
+      "fullpath": "intellivision-Super Pro Football (1986) (Intv Corp)",
+      "name": "Super Pro Football",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Swords and Serpents (1982) (Imagic) [!]",
+      "fullpath": "intellivision-Swords and Serpents (1982) (Imagic) [!]",
+      "name": "Swords and Serpents",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Takeover (World)",
+      "fullpath": "IntellIvIsIon-Takeover (World)",
+      "name": "Takeover",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tennis (1980) (Mattel)",
+      "fullpath": "intellivision-Tennis (1980) (Mattel)",
+      "name": "Tennis",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Thin Ice (Prototype) (1983) (Intv Corp) [!]",
+      "fullpath": "intellivision-Thin Ice (Prototype) (1983) (Intv Corp) [!]",
+      "name": "Thin Ice",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Thunder Castle (1982) (Mattel)",
+      "fullpath": "intellivision-Thunder Castle (1982) (Mattel)",
+      "name": "Thunder Castle",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tower of Doom (1986) (Intv Corp)",
+      "fullpath": "intellivision-Tower of Doom (1986) (Intv Corp)",
+      "name": "Tower of Doom",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Triple Action (1981) (Mattel)",
+      "fullpath": "intellivision-Triple Action (1981) (Mattel)",
+      "name": "Triple Action",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Triple Challenge (1986) (Intv Corp)",
+      "fullpath": "intellivision-Triple Challenge (1986) (Intv Corp)",
+      "name": "Triple Challenge",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TRON - Deadly Discs (1981) (Mattel)",
+      "fullpath": "intellivision-TRON - Deadly Discs (1981) (Mattel)",
+      "name": "TRON - Deadly Discs",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TRON - Maze-A-Tron (1981) (Mattel)",
+      "fullpath": "intellivision-TRON - Maze-A-Tron (1981) (Mattel)",
+      "name": "TRON - Maze-A-Tron",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TRON - Solar Sailer (1982) (Mattel)",
+      "fullpath": "intellivision-TRON - Solar Sailer (1982) (Mattel)",
+      "name": "TRON - Solar Sailer",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tropical Trouble (1982) (Imagic) [!]",
+      "fullpath": "intellivision-Tropical Trouble (1982) (Imagic) [!]",
+      "name": "Tropical Trouble",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Truckin' (1983) (Imagic) [!]",
+      "fullpath": "intellivision-Truckin' (1983) (Imagic) [!]",
+      "name": "Truckin'",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Turbo (1983) (Coleco)",
+      "fullpath": "intellivision-Turbo (1983) (Coleco)",
+      "name": "Turbo",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tutankham (1983) (Parker Bros)",
+      "fullpath": "intellivision-Tutankham (1983) (Parker Bros)",
+      "name": "Tutankham",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "U.S. Ski Team Skiing (1980) (Mattel)",
+      "fullpath": "intellivision-U.S. Ski Team Skiing (1980) (Mattel)",
+      "name": "U.S. Ski Team Skiing",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "USCF Chess (1981) (Mattel)",
+      "fullpath": "intellivision-USCF Chess (1981) (Mattel)",
+      "name": "USCF Chess",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Utopia (1981) (Mattel)",
+      "fullpath": "intellivision-Utopia (1981) (Mattel)",
+      "name": "Utopia",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Vectron (1982) (Mattel)",
+      "fullpath": "intellivision-Vectron (1982) (Mattel)",
+      "name": "Vectron",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Venture (1982) (Coleco)",
+      "fullpath": "intellivision-Venture (1982) (Coleco)",
+      "name": "Venture",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "White Water! (1983) (Imagic) [!]",
+      "fullpath": "intellivision-White Water! (1983) (Imagic) [!]",
+      "name": "White Water!",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World ChampIonshIp Baseball (World)",
+      "fullpath": "IntellIvIsIon-World ChampIonshIp Baseball (World)",
+      "name": "World ChampIonshIp Baseball",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Cup Football (1985) (Nice Ideas)",
+      "fullpath": "intellivision-World Cup Football (1985) (Nice Ideas)",
+      "name": "World Cup Football",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Cup Soccer (World)",
+      "fullpath": "IntellIvIsIon-World Cup Soccer (World)",
+      "name": "World Cup Soccer",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Series Major League Baseball (1983) (Mattel) [!]",
+      "fullpath": "intellivision-World Series Major League Baseball (1983) (Mattel) [!]",
+      "name": "World Series Major League Baseball",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Worm Whomper (1983) (Activision) [!]",
+      "fullpath": "intellivision-Worm Whomper (1983) (Activision) [!]",
+      "name": "Worm Whomper",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zaxxon (1982) (Coleco)",
+      "fullpath": "intellivision-Zaxxon (1982) (Coleco)",
+      "name": "Zaxxon",
+      "year": "1979",
+      "publisher": "Intellivision",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

@@ -1,0 +1,1463 @@
+{
+  "platform": "snk_neo_geo_mvs",
+  "totalGames": 161,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "snk_neo_geo_mvs game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "snk_neo_geo_mvs.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "2020bb",
+      "fullpath": "snk_neo_geo_mvs-2020bb",
+      "name": "2020bb",
+      "year": "2020",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "3countb",
+      "fullpath": "snk_neo_geo_mvs-3countb",
+      "name": "3countb",
+      "year": "2021",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "alpham2",
+      "fullpath": "snk_neo_geo_mvs-alpham2",
+      "name": "alpham2",
+      "year": "2022",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "androdun",
+      "fullpath": "snk_neo_geo_mvs-androdun",
+      "name": "androdun",
+      "year": "2023",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "aodk",
+      "fullpath": "snk_neo_geo_mvs-aodk",
+      "name": "aodk",
+      "year": "2024",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "aof",
+      "fullpath": "snk_neo_geo_mvs-aof",
+      "name": "aof",
+      "year": "2025",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "aof2",
+      "fullpath": "snk_neo_geo_mvs-aof2",
+      "name": "aof2",
+      "year": "2026",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "aof3",
+      "fullpath": "snk_neo_geo_mvs-aof3",
+      "name": "aof3",
+      "year": "2027",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "b2b",
+      "fullpath": "snk_neo_geo_mvs-b2b",
+      "name": "b2b",
+      "year": "2028",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "bakatono",
+      "fullpath": "snk_neo_geo_mvs-bakatono",
+      "name": "bakatono",
+      "year": "2029",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "bangbead",
+      "fullpath": "snk_neo_geo_mvs-bangbead",
+      "name": "bangbead",
+      "year": "2030",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "bjourney",
+      "fullpath": "snk_neo_geo_mvs-bjourney",
+      "name": "bjourney",
+      "year": "2031",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "blazstar",
+      "fullpath": "snk_neo_geo_mvs-blazstar",
+      "name": "blazstar",
+      "year": "2032",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "breakers",
+      "fullpath": "snk_neo_geo_mvs-breakers",
+      "name": "breakers",
+      "year": "2033",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "breakrev",
+      "fullpath": "snk_neo_geo_mvs-breakrev",
+      "name": "breakrev",
+      "year": "2034",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "bstars",
+      "fullpath": "snk_neo_geo_mvs-bstars",
+      "name": "bstars",
+      "year": "2035",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "bstars2",
+      "fullpath": "snk_neo_geo_mvs-bstars2",
+      "name": "bstars2",
+      "year": "2036",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "burningf",
+      "fullpath": "snk_neo_geo_mvs-burningf",
+      "name": "burningf",
+      "year": "2037",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "crswd2bl",
+      "fullpath": "snk_neo_geo_mvs-crswd2bl",
+      "name": "crswd2bl",
+      "year": "2038",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "crsword",
+      "fullpath": "snk_neo_geo_mvs-crsword",
+      "name": "crsword",
+      "year": "2039",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ctomaday",
+      "fullpath": "snk_neo_geo_mvs-ctomaday",
+      "name": "ctomaday",
+      "year": "2040",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "cyberlip",
+      "fullpath": "snk_neo_geo_mvs-cyberlip",
+      "name": "cyberlip",
+      "year": "2041",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "diggerma",
+      "fullpath": "snk_neo_geo_mvs-diggerma",
+      "name": "diggerma",
+      "year": "2042",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "doubledr",
+      "fullpath": "snk_neo_geo_mvs-doubledr",
+      "name": "doubledr",
+      "year": "2043",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "eightman",
+      "fullpath": "snk_neo_geo_mvs-eightman",
+      "name": "eightman",
+      "year": "2044",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "fatfursp",
+      "fullpath": "snk_neo_geo_mvs-fatfursp",
+      "name": "fatfursp",
+      "year": "2045",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "fatfury1",
+      "fullpath": "snk_neo_geo_mvs-fatfury1",
+      "name": "fatfury1",
+      "year": "2046",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "fatfury2",
+      "fullpath": "snk_neo_geo_mvs-fatfury2",
+      "name": "fatfury2",
+      "year": "2047",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "fatfury3",
+      "fullpath": "snk_neo_geo_mvs-fatfury3",
+      "name": "fatfury3",
+      "year": "2048",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "fbfrenzy",
+      "fullpath": "snk_neo_geo_mvs-fbfrenzy",
+      "name": "fbfrenzy",
+      "year": "2049",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "fightfev",
+      "fullpath": "snk_neo_geo_mvs-fightfev",
+      "name": "fightfev",
+      "year": "2050",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "flipshot",
+      "fullpath": "snk_neo_geo_mvs-flipshot",
+      "name": "flipshot",
+      "year": "2051",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "galaxyfg",
+      "fullpath": "snk_neo_geo_mvs-galaxyfg",
+      "name": "galaxyfg",
+      "year": "2052",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ganryu",
+      "fullpath": "snk_neo_geo_mvs-ganryu",
+      "name": "ganryu",
+      "year": "2053",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "garou",
+      "fullpath": "snk_neo_geo_mvs-garou",
+      "name": "garou",
+      "year": "2054",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ghostlop",
+      "fullpath": "snk_neo_geo_mvs-ghostlop",
+      "name": "ghostlop",
+      "year": "2055",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "goalx3",
+      "fullpath": "snk_neo_geo_mvs-goalx3",
+      "name": "goalx3",
+      "year": "2056",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "gowcaizr",
+      "fullpath": "snk_neo_geo_mvs-gowcaizr",
+      "name": "gowcaizr",
+      "year": "2057",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "gpilots",
+      "fullpath": "snk_neo_geo_mvs-gpilots",
+      "name": "gpilots",
+      "year": "2058",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "gururin",
+      "fullpath": "snk_neo_geo_mvs-gururin",
+      "name": "gururin",
+      "year": "2059",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ironclad",
+      "fullpath": "snk_neo_geo_mvs-ironclad",
+      "name": "ironclad",
+      "year": "2060",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "irrmaze",
+      "fullpath": "snk_neo_geo_mvs-irrmaze",
+      "name": "irrmaze",
+      "year": "2061",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "janshin",
+      "fullpath": "snk_neo_geo_mvs-janshin",
+      "name": "janshin",
+      "year": "2062",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "jockeygp",
+      "fullpath": "snk_neo_geo_mvs-jockeygp",
+      "name": "jockeygp",
+      "year": "2063",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "joyjoy",
+      "fullpath": "snk_neo_geo_mvs-joyjoy",
+      "name": "joyjoy",
+      "year": "2064",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kabukikl",
+      "fullpath": "snk_neo_geo_mvs-kabukikl",
+      "name": "kabukikl",
+      "year": "2065",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "karnovr",
+      "fullpath": "snk_neo_geo_mvs-karnovr",
+      "name": "karnovr",
+      "year": "2066",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kizuna",
+      "fullpath": "snk_neo_geo_mvs-kizuna",
+      "name": "kizuna",
+      "year": "2067",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kof2000",
+      "fullpath": "snk_neo_geo_mvs-kof2000",
+      "name": "kof2000",
+      "year": "2068",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kof2001",
+      "fullpath": "snk_neo_geo_mvs-kof2001",
+      "name": "kof2001",
+      "year": "2069",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kof2002",
+      "fullpath": "snk_neo_geo_mvs-kof2002",
+      "name": "kof2002",
+      "year": "2070",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kof2003",
+      "fullpath": "snk_neo_geo_mvs-kof2003",
+      "name": "kof2003",
+      "year": "2071",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kof94",
+      "fullpath": "snk_neo_geo_mvs-kof94",
+      "name": "kof94",
+      "year": "2072",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kof95",
+      "fullpath": "snk_neo_geo_mvs-kof95",
+      "name": "kof95",
+      "year": "2073",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kof96",
+      "fullpath": "snk_neo_geo_mvs-kof96",
+      "name": "kof96",
+      "year": "2074",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kof97",
+      "fullpath": "snk_neo_geo_mvs-kof97",
+      "name": "kof97",
+      "year": "2075",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kof98",
+      "fullpath": "snk_neo_geo_mvs-kof98",
+      "name": "kof98",
+      "year": "2076",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kof99",
+      "fullpath": "snk_neo_geo_mvs-kof99",
+      "name": "kof99",
+      "year": "2077",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kotm",
+      "fullpath": "snk_neo_geo_mvs-kotm",
+      "name": "kotm",
+      "year": "2078",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "kotm2",
+      "fullpath": "snk_neo_geo_mvs-kotm2",
+      "name": "kotm2",
+      "year": "2079",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "lastblad",
+      "fullpath": "snk_neo_geo_mvs-lastblad",
+      "name": "lastblad",
+      "year": "2080",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "lastbld2",
+      "fullpath": "snk_neo_geo_mvs-lastbld2",
+      "name": "lastbld2",
+      "year": "2081",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "lbowling",
+      "fullpath": "snk_neo_geo_mvs-lbowling",
+      "name": "lbowling",
+      "year": "2082",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "legendos",
+      "fullpath": "snk_neo_geo_mvs-legendos",
+      "name": "legendos",
+      "year": "2083",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "lresort",
+      "fullpath": "snk_neo_geo_mvs-lresort",
+      "name": "lresort",
+      "year": "2084",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "magdrop2",
+      "fullpath": "snk_neo_geo_mvs-magdrop2",
+      "name": "magdrop2",
+      "year": "2085",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "magdrop3",
+      "fullpath": "snk_neo_geo_mvs-magdrop3",
+      "name": "magdrop3",
+      "year": "2086",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "maglord",
+      "fullpath": "snk_neo_geo_mvs-maglord",
+      "name": "maglord",
+      "year": "2087",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "mahretsu",
+      "fullpath": "snk_neo_geo_mvs-mahretsu",
+      "name": "mahretsu",
+      "year": "2088",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "marukodq",
+      "fullpath": "snk_neo_geo_mvs-marukodq",
+      "name": "marukodq",
+      "year": "2089",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "matrim",
+      "fullpath": "snk_neo_geo_mvs-matrim",
+      "name": "matrim",
+      "year": "2090",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "miexchng",
+      "fullpath": "snk_neo_geo_mvs-miexchng",
+      "name": "miexchng",
+      "year": "2091",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "minasan",
+      "fullpath": "snk_neo_geo_mvs-minasan",
+      "name": "minasan",
+      "year": "2092",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "mosyougi",
+      "fullpath": "snk_neo_geo_mvs-mosyougi",
+      "name": "mosyougi",
+      "year": "2093",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "mslug",
+      "fullpath": "snk_neo_geo_mvs-mslug",
+      "name": "mslug",
+      "year": "2094",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "mslug2",
+      "fullpath": "snk_neo_geo_mvs-mslug2",
+      "name": "mslug2",
+      "year": "2095",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "mslug3",
+      "fullpath": "snk_neo_geo_mvs-mslug3",
+      "name": "mslug3",
+      "year": "2096",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "mslug4",
+      "fullpath": "snk_neo_geo_mvs-mslug4",
+      "name": "mslug4",
+      "year": "2097",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "mslug5",
+      "fullpath": "snk_neo_geo_mvs-mslug5",
+      "name": "mslug5",
+      "year": "2098",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "mslugx",
+      "fullpath": "snk_neo_geo_mvs-mslugx",
+      "name": "mslugx",
+      "year": "2099",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "mutnat",
+      "fullpath": "snk_neo_geo_mvs-mutnat",
+      "name": "mutnat",
+      "year": "2100",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "nam1975",
+      "fullpath": "snk_neo_geo_mvs-nam1975",
+      "name": "nam1975",
+      "year": "2101",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ncombat",
+      "fullpath": "snk_neo_geo_mvs-ncombat",
+      "name": "ncombat",
+      "year": "2102",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ncommand",
+      "fullpath": "snk_neo_geo_mvs-ncommand",
+      "name": "ncommand",
+      "year": "2103",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "neobombe",
+      "fullpath": "snk_neo_geo_mvs-neobombe",
+      "name": "neobombe",
+      "year": "2104",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "neocup98",
+      "fullpath": "snk_neo_geo_mvs-neocup98",
+      "name": "neocup98",
+      "year": "2105",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "neodrift",
+      "fullpath": "snk_neo_geo_mvs-neodrift",
+      "name": "neodrift",
+      "year": "2106",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "neogeo",
+      "fullpath": "snk_neo_geo_mvs-neogeo",
+      "name": "neogeo",
+      "year": "2107",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "neomrdo",
+      "fullpath": "snk_neo_geo_mvs-neomrdo",
+      "name": "neomrdo",
+      "year": "2108",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ninjamas",
+      "fullpath": "snk_neo_geo_mvs-ninjamas",
+      "name": "ninjamas",
+      "year": "2109",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "nitd",
+      "fullpath": "snk_neo_geo_mvs-nitd",
+      "name": "nitd",
+      "year": "2110",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "overtop",
+      "fullpath": "snk_neo_geo_mvs-overtop",
+      "name": "overtop",
+      "year": "2111",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "panicbom",
+      "fullpath": "snk_neo_geo_mvs-panicbom",
+      "name": "panicbom",
+      "year": "2112",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "pbobbl2n",
+      "fullpath": "snk_neo_geo_mvs-pbobbl2n",
+      "name": "pbobbl2n",
+      "year": "2113",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "pbobble2x",
+      "fullpath": "snk_neo_geo_mvs-pbobble2x",
+      "name": "pbobble2x",
+      "year": "2114",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "pbobblen",
+      "fullpath": "snk_neo_geo_mvs-pbobblen",
+      "name": "pbobblen",
+      "year": "2115",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "pgoal",
+      "fullpath": "snk_neo_geo_mvs-pgoal",
+      "name": "pgoal",
+      "year": "2116",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "pnyaa",
+      "fullpath": "snk_neo_geo_mvs-pnyaa",
+      "name": "pnyaa",
+      "year": "2117",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "popbounc",
+      "fullpath": "snk_neo_geo_mvs-popbounc",
+      "name": "popbounc",
+      "year": "2118",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "preisle2",
+      "fullpath": "snk_neo_geo_mvs-preisle2",
+      "name": "preisle2",
+      "year": "2119",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "pspikes2",
+      "fullpath": "snk_neo_geo_mvs-pspikes2",
+      "name": "pspikes2",
+      "year": "2120",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "pulstar",
+      "fullpath": "snk_neo_geo_mvs-pulstar",
+      "name": "pulstar",
+      "year": "2121",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "puzzldpr",
+      "fullpath": "snk_neo_geo_mvs-puzzldpr",
+      "name": "puzzldpr",
+      "year": "2122",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "puzzledp",
+      "fullpath": "snk_neo_geo_mvs-puzzledp",
+      "name": "puzzledp",
+      "year": "2123",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "quizdai2",
+      "fullpath": "snk_neo_geo_mvs-quizdai2",
+      "name": "quizdai2",
+      "year": "2124",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "quizdais",
+      "fullpath": "snk_neo_geo_mvs-quizdais",
+      "name": "quizdais",
+      "year": "2125",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "quizkof",
+      "fullpath": "snk_neo_geo_mvs-quizkof",
+      "name": "quizkof",
+      "year": "2126",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ragnagrd",
+      "fullpath": "snk_neo_geo_mvs-ragnagrd",
+      "name": "ragnagrd",
+      "year": "2127",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ragngard",
+      "fullpath": "snk_neo_geo_mvs-ragngard",
+      "name": "ragngard",
+      "year": "2128",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "rbff1",
+      "fullpath": "snk_neo_geo_mvs-rbff1",
+      "name": "rbff1",
+      "year": "2129",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "rbff2",
+      "fullpath": "snk_neo_geo_mvs-rbff2",
+      "name": "rbff2",
+      "year": "2130",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "rbffspec",
+      "fullpath": "snk_neo_geo_mvs-rbffspec",
+      "name": "rbffspec",
+      "year": "2131",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ridhero",
+      "fullpath": "snk_neo_geo_mvs-ridhero",
+      "name": "ridhero",
+      "year": "2132",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "roboarmy",
+      "fullpath": "snk_neo_geo_mvs-roboarmy",
+      "name": "roboarmy",
+      "year": "2133",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "rotd",
+      "fullpath": "snk_neo_geo_mvs-rotd",
+      "name": "rotd",
+      "year": "2134",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "s1945p",
+      "fullpath": "snk_neo_geo_mvs-s1945p",
+      "name": "s1945p",
+      "year": "2135",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "samsh5sp",
+      "fullpath": "snk_neo_geo_mvs-samsh5sp",
+      "name": "samsh5sp",
+      "year": "2136",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "samsho",
+      "fullpath": "snk_neo_geo_mvs-samsho",
+      "name": "samsho",
+      "year": "2137",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "samsho2",
+      "fullpath": "snk_neo_geo_mvs-samsho2",
+      "name": "samsho2",
+      "year": "2138",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "samsho3",
+      "fullpath": "snk_neo_geo_mvs-samsho3",
+      "name": "samsho3",
+      "year": "2139",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "samsho4",
+      "fullpath": "snk_neo_geo_mvs-samsho4",
+      "name": "samsho4",
+      "year": "2140",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "samsho5",
+      "fullpath": "snk_neo_geo_mvs-samsho5",
+      "name": "samsho5",
+      "year": "2141",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "savagere",
+      "fullpath": "snk_neo_geo_mvs-savagere",
+      "name": "savagere",
+      "year": "2142",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "sdodgeb",
+      "fullpath": "snk_neo_geo_mvs-sdodgeb",
+      "name": "sdodgeb",
+      "year": "2143",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "sengoku",
+      "fullpath": "snk_neo_geo_mvs-sengoku",
+      "name": "sengoku",
+      "year": "2144",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "sengoku2",
+      "fullpath": "snk_neo_geo_mvs-sengoku2",
+      "name": "sengoku2",
+      "year": "2145",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "sengoku3",
+      "fullpath": "snk_neo_geo_mvs-sengoku3",
+      "name": "sengoku3",
+      "year": "2146",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "shocktr2",
+      "fullpath": "snk_neo_geo_mvs-shocktr2",
+      "name": "shocktr2",
+      "year": "2147",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "shocktro",
+      "fullpath": "snk_neo_geo_mvs-shocktro",
+      "name": "shocktro",
+      "year": "2148",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "socbrawl",
+      "fullpath": "snk_neo_geo_mvs-socbrawl",
+      "name": "socbrawl",
+      "year": "2149",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "sonicwi2",
+      "fullpath": "snk_neo_geo_mvs-sonicwi2",
+      "name": "sonicwi2",
+      "year": "2150",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "sonicwi3",
+      "fullpath": "snk_neo_geo_mvs-sonicwi3",
+      "name": "sonicwi3",
+      "year": "2151",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "spinmast",
+      "fullpath": "snk_neo_geo_mvs-spinmast",
+      "name": "spinmast",
+      "year": "2152",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ssideki",
+      "fullpath": "snk_neo_geo_mvs-ssideki",
+      "name": "ssideki",
+      "year": "2153",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ssideki2",
+      "fullpath": "snk_neo_geo_mvs-ssideki2",
+      "name": "ssideki2",
+      "year": "2154",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ssideki3",
+      "fullpath": "snk_neo_geo_mvs-ssideki3",
+      "name": "ssideki3",
+      "year": "2155",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "ssideki4",
+      "fullpath": "snk_neo_geo_mvs-ssideki4",
+      "name": "ssideki4",
+      "year": "2156",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "stakwin",
+      "fullpath": "snk_neo_geo_mvs-stakwin",
+      "name": "stakwin",
+      "year": "2157",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "stakwin2",
+      "fullpath": "snk_neo_geo_mvs-stakwin2",
+      "name": "stakwin2",
+      "year": "2158",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "strhoop",
+      "fullpath": "snk_neo_geo_mvs-strhoop",
+      "name": "strhoop",
+      "year": "2159",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "superspy",
+      "fullpath": "snk_neo_geo_mvs-superspy",
+      "name": "superspy",
+      "year": "2160",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "svc",
+      "fullpath": "snk_neo_geo_mvs-svc",
+      "name": "svc",
+      "year": "2161",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "tophuntr",
+      "fullpath": "snk_neo_geo_mvs-tophuntr",
+      "name": "tophuntr",
+      "year": "2162",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "tpgolf",
+      "fullpath": "snk_neo_geo_mvs-tpgolf",
+      "name": "tpgolf",
+      "year": "2163",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "trally",
+      "fullpath": "snk_neo_geo_mvs-trally",
+      "name": "trally",
+      "year": "2164",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "turfmast",
+      "fullpath": "snk_neo_geo_mvs-turfmast",
+      "name": "turfmast",
+      "year": "2165",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "twinspri",
+      "fullpath": "snk_neo_geo_mvs-twinspri",
+      "name": "twinspri",
+      "year": "2166",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "tws96",
+      "fullpath": "snk_neo_geo_mvs-tws96",
+      "name": "tws96",
+      "year": "2167",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "twsoc96",
+      "fullpath": "snk_neo_geo_mvs-twsoc96",
+      "name": "twsoc96",
+      "year": "2168",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "viewpoin",
+      "fullpath": "snk_neo_geo_mvs-viewpoin",
+      "name": "viewpoin",
+      "year": "2169",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "vliner",
+      "fullpath": "snk_neo_geo_mvs-vliner",
+      "name": "vliner",
+      "year": "2170",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "wakuwak7",
+      "fullpath": "snk_neo_geo_mvs-wakuwak7",
+      "name": "wakuwak7",
+      "year": "2171",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "wh1",
+      "fullpath": "snk_neo_geo_mvs-wh1",
+      "name": "wh1",
+      "year": "2172",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "wh1_",
+      "fullpath": "snk_neo_geo_mvs-wh1_",
+      "name": "wh1_",
+      "year": "2173",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "wh2",
+      "fullpath": "snk_neo_geo_mvs-wh2",
+      "name": "wh2",
+      "year": "2174",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "wh2j",
+      "fullpath": "snk_neo_geo_mvs-wh2j",
+      "name": "wh2j",
+      "year": "2175",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "whp",
+      "fullpath": "snk_neo_geo_mvs-whp",
+      "name": "whp",
+      "year": "2176",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "wjammers",
+      "fullpath": "snk_neo_geo_mvs-wjammers",
+      "name": "wjammers",
+      "year": "2177",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "zedblade",
+      "fullpath": "snk_neo_geo_mvs-zedblade",
+      "name": "zedblade",
+      "year": "2178",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "zintrckb",
+      "fullpath": "snk_neo_geo_mvs-zintrckb",
+      "name": "zintrckb",
+      "year": "2179",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    },
+    {
+      "id": "zupapa",
+      "fullpath": "snk_neo_geo_mvs-zupapa",
+      "name": "zupapa",
+      "year": "2180",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Misc"
+    }
+  ]
+}

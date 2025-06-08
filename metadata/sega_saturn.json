@@ -1,0 +1,2957 @@
+{
+  "platform": "sega_saturn",
+  "totalGames": 327,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "sega_saturn game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "sega_saturn.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "3D Baseball (USA)",
+      "fullpath": "sega_saturn-3D Baseball (USA)",
+      "name": "3D Baseball",
+      "year": "1997",
+      "publisher": "Crystal Dynamics",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "3D Lemmings (Europe)",
+      "fullpath": "sega_saturn-3D Lemmings (Europe)",
+      "name": "3D Lemmings",
+      "year": "1996",
+      "publisher": "Psygnosis",
+      "genre": "Puzzle",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "A+M+O+K (USA)",
+      "fullpath": "sega_saturn-A+M+O+K (USA)",
+      "name": "A+M+O+K",
+      "year": "1997",
+      "publisher": "Scavenger",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Akumajo Dracula X - Gekka no Yasokyoku (Japan)",
+      "fullpath": "sega_saturn-Akumajo Dracula X - Gekka no Yasokyoku (Japan)",
+      "name": "Akumajo Dracula X - Gekka no Yasokyoku",
+      "year": "1998",
+      "publisher": "Konami",
+      "genre": "Adventure",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Albert Odyssey - Legend of Eldean (USA)",
+      "fullpath": "sega_saturn-Albert Odyssey - Legend of Eldean (USA)",
+      "name": "Albert Odyssey - Legend of Eldean",
+      "year": "1997",
+      "publisher": "Working Designs",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Alien Trilogy (USA)",
+      "fullpath": "sega_saturn-Alien Trilogy (USA)",
+      "name": "Alien Trilogy",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "All Star Baseball '97 Featuring Frank Thomas (USA)",
+      "fullpath": "sega_saturn-All Star Baseball '97 Featuring Frank Thomas (USA)",
+      "name": "All Star Baseball '97 Featuring Frank Thomas",
+      "year": "1997",
+      "publisher": "Acclaim",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Alone in the Dark - One-Eyed Jack's Revenge (USA)",
+      "fullpath": "sega_saturn-Alone in the Dark - One-Eyed Jack's Revenge (USA)",
+      "name": "Alone in the Dark - One-Eyed Jack's Revenge",
+      "year": "1996",
+      "publisher": "Kokopeli Digital Studios",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Andretti Racing (USA)",
+      "fullpath": "sega_saturn-Andretti Racing (USA)",
+      "name": "Andretti Racing",
+      "year": "1996",
+      "publisher": "EA Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Arcade's Greatest Hits - The Atari Collection 1 (USA)",
+      "fullpath": "sega_saturn-Arcade's Greatest Hits - The Atari Collection 1 (USA)",
+      "name": "Arcade's Greatest Hits - The Atari Collection 1",
+      "year": "1996",
+      "publisher": "Midway",
+      "genre": "Compilation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Arcade's Greatest Hits - Williams (USA)",
+      "fullpath": "sega_saturn-Arcade's Greatest Hits - Williams (USA)",
+      "name": "Arcade's Greatest Hits - Williams",
+      "year": "1996",
+      "publisher": "Midway",
+      "genre": "Compilation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Area 51 (USA)",
+      "fullpath": "sega_saturn-Area 51 (USA)",
+      "name": "Area 51",
+      "year": "1997",
+      "publisher": "Midway",
+      "genre": "Gun",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Astal (USA)",
+      "fullpath": "sega_saturn-Astal (USA)",
+      "name": "Astal",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Atlantis - The Lost Tales (Europe) (Disc 1)",
+      "fullpath": "sega_saturn-Atlantis - The Lost Tales (Europe) (Disc 1)",
+      "name": "Atlantis - The Lost Tales",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "PEGI - 12 (Everyone 12+)"
+    },
+    {
+      "id": "Atlantis - The Lost Tales (Europe) (Disc 2)",
+      "fullpath": "sega_saturn-Atlantis - The Lost Tales (Europe) (Disc 2)",
+      "name": "Atlantis - The Lost Tales",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "PEGI - 12 (Everyone 12+)"
+    },
+    {
+      "id": "Baku Baku (USA)",
+      "fullpath": "sega_saturn-Baku Baku (USA)",
+      "name": "Baku Baku",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bases Loaded '96 - Double Header (USA)",
+      "fullpath": "sega_saturn-Bases Loaded '96 - Double Header (USA)",
+      "name": "Bases Loaded '96 - Double Header",
+      "year": "1995",
+      "publisher": "Jaleco",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Batman Forever - The Arcade Game (USA)",
+      "fullpath": "sega_saturn-Batman Forever - The Arcade Game (USA)",
+      "name": "Batman Forever - The Arcade Game",
+      "year": "1997",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Battle Arena Toshinden Remix (USA)",
+      "fullpath": "sega_saturn-Battle Arena Toshinden Remix (USA)",
+      "name": "Battle Arena Toshinden Remix",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Battle Arena Toshinden URA (USA)",
+      "fullpath": "sega_saturn-Battle Arena Toshinden URA (USA)",
+      "name": "Battle Arena Toshinden URA",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Battle Monsters (USA)",
+      "fullpath": "sega_saturn-Battle Monsters (USA)",
+      "name": "Battle Monsters",
+      "year": "1995",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Battle Stations (USA)",
+      "fullpath": "sega_saturn-Battle Stations (USA)",
+      "name": "Battle Stations",
+      "year": "1997",
+      "publisher": "Electronic Arts",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BattleSport (USA)",
+      "fullpath": "sega_saturn-BattleSport (USA)",
+      "name": "BattleSport",
+      "year": "1997",
+      "publisher": "Acclaim",
+      "genre": "Sports/Futuristic",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Black Dawn (USA)",
+      "fullpath": "sega_saturn-Black Dawn (USA)",
+      "name": "Black Dawn",
+      "year": "1997",
+      "publisher": "Virgin Interactive Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Black Fire (USA)",
+      "fullpath": "sega_saturn-Black Fire (USA)",
+      "name": "Black Fire",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Blast Chamber (USA)",
+      "fullpath": "sega_saturn-Blast Chamber (USA)",
+      "name": "Blast Chamber",
+      "year": "1997",
+      "publisher": "Activision",
+      "genre": "Sports/Futuristic",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Blazing Dragons (USA)",
+      "fullpath": "sega_saturn-Blazing Dragons (USA)",
+      "name": "Blazing Dragons",
+      "year": "1996",
+      "publisher": "Crystal Dynamics",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Blazing Heroes (USA)",
+      "fullpath": "sega_saturn-Blazing Heroes (USA)",
+      "name": "Blazing Heroes",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bottom of the 9th (USA)",
+      "fullpath": "sega_saturn-Bottom of the 9th (USA)",
+      "name": "Bottom of the 9th",
+      "year": "1996",
+      "publisher": "Konami",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Brain Dead 13 (USA)",
+      "fullpath": "sega_saturn-Brain Dead 13 (USA)",
+      "name": "Brain Dead 13",
+      "year": "1996",
+      "publisher": "ReadySoft",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Break Point Tennis (USA)",
+      "fullpath": "sega_saturn-Break Point Tennis (USA)",
+      "name": "Break Point Tennis",
+      "year": "1997",
+      "publisher": "Ocean",
+      "genre": "Sports/Tennis",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bubble Bobble - Also featuring Rainbow Islands (USA)",
+      "fullpath": "sega_saturn-Bubble Bobble - Also featuring Rainbow Islands (USA)",
+      "name": "Bubble Bobble - Also featuring Rainbow Islands",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bug Too! (USA)",
+      "fullpath": "sega_saturn-Bug Too! (USA)",
+      "name": "Bug Too!",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bug! (USA)",
+      "fullpath": "sega_saturn-Bug! (USA)",
+      "name": "Bug!",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Burning Fest. Limit Over. (Hack) (Japan) (Translated En)",
+      "fullpath": "sega_saturn-Burning Fest. Limit Over. (Hack) (Japan) (Translated En)",
+      "name": "Burning Fest. Limit Over.",
+      "year": "1999",
+      "publisher": "ASK Kodansha",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Burning Rangers (USA)",
+      "fullpath": "sega_saturn-Burning Rangers (USA)",
+      "name": "Burning Rangers",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bust-A-Move 2 - Arcade Edition (USA)",
+      "fullpath": "sega_saturn-Bust-A-Move 2 - Arcade Edition (USA)",
+      "name": "Bust-A-Move 2 - Arcade Edition",
+      "year": "1998",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bust-A-Move 3 (USA)",
+      "fullpath": "sega_saturn-Bust-A-Move 3 (USA)",
+      "name": "Bust-A-Move 3",
+      "year": "1997",
+      "publisher": "Natsume",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Casper (USA)",
+      "fullpath": "sega_saturn-Casper (USA)",
+      "name": "Casper",
+      "year": "1997",
+      "publisher": "Interplay",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Center Ring Boxing (USA)",
+      "fullpath": "sega_saturn-Center Ring Boxing (USA)",
+      "name": "Center Ring Boxing",
+      "year": "1995",
+      "publisher": "JVC Musical Industries, Inc.",
+      "genre": "Sports/Boxing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Chaos Control (Europe)",
+      "fullpath": "sega_saturn-Chaos Control (Europe)",
+      "name": "Chaos Control",
+      "year": "1995",
+      "publisher": "Infogrames",
+      "genre": "Shooter",
+      "rating": "PEGI - 12 (Everyone 12+)"
+    },
+    {
+      "id": "Christmas NiGHTS (USA)",
+      "fullpath": "sega_saturn-Christmas NiGHTS (USA)",
+      "name": "Christmas NiGHTS",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Clockwork Knight (USA)",
+      "fullpath": "sega_saturn-Clockwork Knight (USA)",
+      "name": "Clockwork Knight",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Clockwork Knight 2 (USA)",
+      "fullpath": "sega_saturn-Clockwork Knight 2 (USA)",
+      "name": "Clockwork Knight 2",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "College Slam (USA)",
+      "fullpath": "sega_saturn-College Slam (USA)",
+      "name": "College Slam",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Command & Conquer (USA) (Disc 1)",
+      "fullpath": "sega_saturn-Command & Conquer (USA) (Disc 1)",
+      "name": "Command & Conquer",
+      "year": "1996",
+      "publisher": "Westwood Studios",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Command & Conquer (USA) (Disc 2)",
+      "fullpath": "sega_saturn-Command & Conquer (USA) (Disc 2)",
+      "name": "Command & Conquer",
+      "year": "1996",
+      "publisher": "Westwood Studios",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Congo - The Movie - The Lost City Of Zinj (USA)",
+      "fullpath": "sega_saturn-Congo - The Movie - The Lost City Of Zinj (USA)",
+      "name": "Congo - The Movie - The Lost City Of Zinj",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Contra - Legacy of War (USA)",
+      "fullpath": "sega_saturn-Contra - Legacy of War (USA)",
+      "name": "Contra - Legacy of War",
+      "year": "1997",
+      "publisher": "Konami",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Corpse Killer - Graveyard Edition (USA) (Disc 1)",
+      "fullpath": "sega_saturn-Corpse Killer - Graveyard Edition (USA) (Disc 1)",
+      "name": "Corpse Killer - Graveyard Edition",
+      "year": "1995",
+      "publisher": "Digital Pictures",
+      "genre": "Gun",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Corpse Killer - Graveyard Edition (USA) (Disc 2)",
+      "fullpath": "sega_saturn-Corpse Killer - Graveyard Edition (USA) (Disc 2)",
+      "name": "Corpse Killer - Graveyard Edition",
+      "year": "1995",
+      "publisher": "Digital Pictures",
+      "genre": "Gun",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Courier Crisis (USA)",
+      "fullpath": "sega_saturn-Courier Crisis (USA)",
+      "name": "Courier Crisis",
+      "year": "1998",
+      "publisher": "GT Interactive Software",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Creature Shock (USA) (Disc 1)",
+      "fullpath": "sega_saturn-Creature Shock (USA) (Disc 1)",
+      "name": "Creature Shock",
+      "year": "1996",
+      "publisher": "Data East",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Creature Shock (USA) (Disc 2)",
+      "fullpath": "sega_saturn-Creature Shock (USA) (Disc 2)",
+      "name": "Creature Shock",
+      "year": "1996",
+      "publisher": "Data East",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Crime Wave (USA)",
+      "fullpath": "sega_saturn-Crime Wave (USA)",
+      "name": "Crime Wave",
+      "year": "1997",
+      "publisher": "Eidos Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Criticom - The Critical Combat (USA)",
+      "fullpath": "sega_saturn-Criticom - The Critical Combat (USA)",
+      "name": "Criticom - The Critical Combat",
+      "year": "1996",
+      "publisher": "Vic Tokai Inc.",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Croc - Legend of the Gobbos (USA)",
+      "fullpath": "sega_saturn-Croc - Legend of the Gobbos (USA)",
+      "name": "Croc - Legend of the Gobbos",
+      "year": "1998",
+      "publisher": "Fox Interactive",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Crow, The - City of Angels (USA)",
+      "fullpath": "sega_saturn-Crow, The - City of Angels (USA)",
+      "name": "Crow, The - City of Angels",
+      "year": "1997",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Crusader - No Remorse (USA)",
+      "fullpath": "sega_saturn-Crusader - No Remorse (USA)",
+      "name": "Crusader - No Remorse",
+      "year": "1997",
+      "publisher": "Origin",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Crypt Killer (USA)",
+      "fullpath": "sega_saturn-Crypt Killer (USA)",
+      "name": "Crypt Killer",
+      "year": "1997",
+      "publisher": "Konami",
+      "genre": "Gun",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Cyber Speedway (USA)",
+      "fullpath": "sega_saturn-Cyber Speedway (USA)",
+      "name": "Cyber Speedway",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cyberia (USA)",
+      "fullpath": "sega_saturn-Cyberia (USA)",
+      "name": "Cyberia",
+      "year": "1996",
+      "publisher": "Interplay",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "D (USA) (Disc 1)",
+      "fullpath": "sega_saturn-D (USA) (Disc 1)",
+      "name": "D",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "D (USA) (Disc 2)",
+      "fullpath": "sega_saturn-D (USA) (Disc 2)",
+      "name": "D",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Darius Gaiden (USA)",
+      "fullpath": "sega_saturn-Darius Gaiden (USA)",
+      "name": "Darius Gaiden",
+      "year": "1995",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Darius II (Europe)",
+      "fullpath": "sega_saturn-Darius II (Europe)",
+      "name": "Darius II",
+      "year": "1996",
+      "publisher": "Taito",
+      "genre": "Shooter",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Dark Legend (USA)",
+      "fullpath": "sega_saturn-Dark Legend (USA)",
+      "name": "Dark Legend",
+      "year": "1995",
+      "publisher": "Data East",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dark Savior (USA)",
+      "fullpath": "sega_saturn-Dark Savior (USA)",
+      "name": "Dark Savior",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Darklight Conflict (USA)",
+      "fullpath": "sega_saturn-Darklight Conflict (USA)",
+      "name": "Darklight Conflict",
+      "year": "1997",
+      "publisher": "Electronic Arts",
+      "genre": "Simulation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Daytona USA (USA)",
+      "fullpath": "sega_saturn-Daytona USA (USA)",
+      "name": "Daytona USA",
+      "year": "1995",
+      "publisher": "Sega Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Daytona USA - Championship Circuit Edition (USA)",
+      "fullpath": "sega_saturn-Daytona USA - Championship Circuit Edition (USA)",
+      "name": "Daytona USA - Championship Circuit Edition",
+      "year": "1996",
+      "publisher": "Sega Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Daytona USA - CCE Netlink Edition (USA)",
+      "fullpath": "sega_saturn-Daytona USA - CCE Netlink Edition (USA)",
+      "name": "Daytona USA - CCE Netlink Edition",
+      "year": "1996",
+      "publisher": "Sega Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dead or Alive (Japan)",
+      "fullpath": "sega_saturn-Dead or Alive (Japan)",
+      "name": "Dead or Alive",
+      "year": "1997",
+      "publisher": "Tecmo",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Decathlete (USA)",
+      "fullpath": "sega_saturn-Decathlete (USA)",
+      "name": "Decathlete",
+      "year": "1996",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Olympic",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Deep Fear (Europe) (Disc 1)",
+      "fullpath": "sega_saturn-Deep Fear (Europe) (Disc 1)",
+      "name": "Deep Fear",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "PEGI - 16 (Everyone 16+)"
+    },
+    {
+      "id": "Deep Fear (Europe) (Disc 2)",
+      "fullpath": "sega_saturn-Deep Fear (Europe) (Disc 2)",
+      "name": "Deep Fear",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "PEGI - 16 (Everyone 16+)"
+    },
+    {
+      "id": "Defcon 5 (USA)",
+      "fullpath": "sega_saturn-Defcon 5 (USA)",
+      "name": "Defcon 5",
+      "year": "1995",
+      "publisher": "Data East",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Destruction Derby (Europe)",
+      "fullpath": "sega_saturn-Destruction Derby (Europe)",
+      "name": "Destruction Derby",
+      "year": "1996",
+      "publisher": "Psygnosis",
+      "genre": "Driving",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Die Hard Arcade (USA)",
+      "fullpath": "sega_saturn-Die Hard Arcade (USA)",
+      "name": "Die Hard Arcade",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Die Hard Trilogy (USA)",
+      "fullpath": "sega_saturn-Die Hard Trilogy (USA)",
+      "name": "Die Hard Trilogy",
+      "year": "1997",
+      "publisher": "Fox Interactive",
+      "genre": "Gun",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Discworld (Europe)",
+      "fullpath": "sega_saturn-Discworld (Europe)",
+      "name": "Discworld",
+      "year": "1996",
+      "publisher": "Psygnosis",
+      "genre": "Adventure",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Discworld II - Missing, presumed... ! (Europe)",
+      "fullpath": "sega_saturn-Discworld II - Missing, presumed... ! (Europe)",
+      "name": "Discworld II - Missing, presumed... !",
+      "year": "1996",
+      "publisher": "Perfect Entertainment",
+      "genre": "Adventure",
+      "rating": "PEGI - 12 (Everyone 12+)"
+    },
+    {
+      "id": "DonPachi (Japan)",
+      "fullpath": "sega_saturn-DonPachi (Japan)",
+      "name": "DonPachi",
+      "year": "1996",
+      "publisher": "Atlus",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Doom (USA)",
+      "fullpath": "sega_saturn-Doom (USA)",
+      "name": "Doom",
+      "year": "1997",
+      "publisher": "id Software",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Double Switch (USA) (Disc 1)",
+      "fullpath": "sega_saturn-Double Switch (USA) (Disc 1)",
+      "name": "Double Switch",
+      "year": "1995",
+      "publisher": "Digital Pictures",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Double Switch (USA) (Disc 2)",
+      "fullpath": "sega_saturn-Double Switch (USA) (Disc 2)",
+      "name": "Double Switch",
+      "year": "1995",
+      "publisher": "Digital Pictures",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Ball Z - The Legend (Europe)",
+      "fullpath": "sega_saturn-Dragon Ball Z - The Legend (Europe)",
+      "name": "Dragon Ball Z - The Legend",
+      "year": "1997",
+      "publisher": "Bandai",
+      "genre": "Fighter",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Dragon Force (USA)",
+      "fullpath": "sega_saturn-Dragon Force (USA)",
+      "name": "Dragon Force",
+      "year": "1997",
+      "publisher": "Working Designs",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dragon Force II - Kami Sarishi Daichi ni (Japan) (Translated En)",
+      "fullpath": "sega_saturn-Dragon Force II - Kami Sarishi Daichi ni (Japan) (Translated En)",
+      "name": "Dragon Force II - The Godforsaken Land",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "DragonHeart - Fire & Steel (USA)",
+      "fullpath": "sega_saturn-DragonHeart - Fire & Steel (USA)",
+      "name": "DragonHeart - Fire & Steel",
+      "year": "1997",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Duke Nukem 3D (Europe)",
+      "fullpath": "sega_saturn-Duke Nukem 3D (Europe)",
+      "name": "Duke Nukem 3D",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Dungeons & Dragons Collection (Japan) (Disc 1)",
+      "fullpath": "sega_saturn-Dungeons & Dragons Collection (Japan) (Disc 1)",
+      "name": "Dungeons & Dragons Collection",
+      "year": "1999",
+      "publisher": "Capcom",
+      "genre": "Compilation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dungeons & Dragons Collection (Japan) (Disc 2)",
+      "fullpath": "sega_saturn-Dungeons & Dragons Collection (Japan) (Disc 2)",
+      "name": "Dungeons & Dragons Collection",
+      "year": "1999",
+      "publisher": "Capcom",
+      "genre": "Compilation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dungeon Master Nexus (Japan)",
+      "fullpath": "sega_saturn-Dungeon Master Nexus (Japan)",
+      "name": "Dungeon Master Nexus",
+      "year": "1998",
+      "publisher": "Victor",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Earthworm Jim 2 (USA)",
+      "fullpath": "sega_saturn-Earthworm Jim 2 (USA)",
+      "name": "Earthworm Jim 2",
+      "year": "1996",
+      "publisher": "Playmates Interactive Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Enemy Zero (USA) (Disc 1)",
+      "fullpath": "sega_saturn-Enemy Zero (USA) (Disc 1)",
+      "name": "Enemy Zero",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Enemy Zero (USA) (Disc 2)",
+      "fullpath": "sega_saturn-Enemy Zero (USA) (Disc 2)",
+      "name": "Enemy Zero",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Enemy Zero (USA) (Disc 3)",
+      "fullpath": "sega_saturn-Enemy Zero (USA) (Disc 3)",
+      "name": "Enemy Zero",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Enemy Zero (USA) (Disc 4)",
+      "fullpath": "sega_saturn-Enemy Zero (USA) (Disc 4)",
+      "name": "Enemy Zero",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "F1 Challenge (USA)",
+      "fullpath": "sega_saturn-F1 Challenge (USA)",
+      "name": "F1 Challenge",
+      "year": "1995",
+      "publisher": "Virgin Interactive Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA - Road to World Cup 98 (USA)",
+      "fullpath": "sega_saturn-FIFA - Road to World Cup 98 (USA)",
+      "name": "FIFA - Road to World Cup 98",
+      "year": "1997",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA Soccer 96 (USA)",
+      "fullpath": "sega_saturn-FIFA Soccer 96 (USA)",
+      "name": "FIFA Soccer 96",
+      "year": "1996",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA Soccer 97 (USA)",
+      "fullpath": "sega_saturn-FIFA Soccer 97 (USA)",
+      "name": "FIFA Soccer 97",
+      "year": "1997",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Fighters Megamix (USA)",
+      "fullpath": "sega_saturn-Fighters Megamix (USA)",
+      "name": "Fighters Megamix",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Fighting Vipers (USA)",
+      "fullpath": "sega_saturn-Fighting Vipers (USA)",
+      "name": "Fighting Vipers",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Final Fight Revenge (Japan)",
+      "fullpath": "sega_saturn-Final Fight Revenge (Japan)",
+      "name": "Final Fight Revenge",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Formula Karts - Special Edition (Europe)",
+      "fullpath": "sega_saturn-Formula Karts - Special Edition (Europe)",
+      "name": "Formula Karts - Special Edition",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Frank Thomas Big Hurt Baseball (USA)",
+      "fullpath": "sega_saturn-Frank Thomas Big Hurt Baseball (USA)",
+      "name": "Frank Thomas Big Hurt Baseball",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Frankenstein - Through the Eyes of the Monster (Europe)",
+      "fullpath": "sega_saturn-Frankenstein - Through the Eyes of the Monster (Europe)",
+      "name": "Frankenstein - Through the Eyes of the Monster",
+      "year": "1995",
+      "publisher": "Interplay",
+      "genre": "Adventure",
+      "rating": "PEGI - 12 (Everyone 12+)"
+    },
+    {
+      "id": "Galactic Attack (USA)",
+      "fullpath": "sega_saturn-Galactic Attack (USA)",
+      "name": "Galactic Attack",
+      "year": "1997",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Galaxy Fight (USA)",
+      "fullpath": "sega_saturn-Galaxy Fight (USA)",
+      "name": "Galaxy Fight",
+      "year": "1995",
+      "publisher": "Sunsoft",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Gex (USA)",
+      "fullpath": "sega_saturn-Gex (USA)",
+      "name": "Gex",
+      "year": "1996",
+      "publisher": "Crystal Dynamics",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ghen War (USA)",
+      "fullpath": "sega_saturn-Ghen War (USA)",
+      "name": "Ghen War",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Golden Axe - The Duel (USA)",
+      "fullpath": "sega_saturn-Golden Axe - The Duel (USA)",
+      "name": "Golden Axe - The Duel",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Grand Slam (USA)",
+      "fullpath": "sega_saturn-Grand Slam (USA)",
+      "name": "Grand Slam",
+      "year": "1996",
+      "publisher": "Virgin Interactive Entertainment",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Grandia - Digital Museum (Japan)",
+      "fullpath": "sega_saturn-Grandia - Digital Museum (Japan)",
+      "name": "Grandia - Digital Museum",
+      "year": "1998",
+      "publisher": "ESP",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Grid Runner (USA)",
+      "fullpath": "sega_saturn-Grid Runner (USA)",
+      "name": "Grid Runner",
+      "year": "1996",
+      "publisher": "Virgin Interactive Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Guardian Heroes (USA)",
+      "fullpath": "sega_saturn-Guardian Heroes (USA)",
+      "name": "Guardian Heroes",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Gungriffon (USA)",
+      "fullpath": "sega_saturn-Gungriffon (USA)",
+      "name": "Gungriffon",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Simulation",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Hang-On GP (USA)",
+      "fullpath": "sega_saturn-Hang-On GP (USA)",
+      "name": "Hang-On GP",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hebereke's Popoitto (Europe)",
+      "fullpath": "sega_saturn-Hebereke's Popoitto (Europe)",
+      "name": "Hebereke's Popoitto",
+      "year": "1995",
+      "publisher": "Sunsoft",
+      "genre": "Puzzle",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Heir of Zendor - The Legend and The Land (USA)",
+      "fullpath": "sega_saturn-Heir of Zendor - The Legend and The Land (USA)",
+      "name": "Heir of Zendor - The Legend and The Land",
+      "year": "1996",
+      "publisher": "Koei",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Herc's Adventures (USA)",
+      "fullpath": "sega_saturn-Herc's Adventures (USA)",
+      "name": "Herc's Adventures",
+      "year": "1997",
+      "publisher": "LucasArts",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hexen - Beyond Heretic (USA)",
+      "fullpath": "sega_saturn-Hexen - Beyond Heretic (USA)",
+      "name": "Hexen - Beyond Heretic",
+      "year": "1997",
+      "publisher": "id Software",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Hi-Octane - The Track Fights Back! (USA)",
+      "fullpath": "sega_saturn-Hi-Octane - The Track Fights Back! (USA)",
+      "name": "Hi-Octane - The Track Fights Back!",
+      "year": "1996",
+      "publisher": "Bullfrog Productions Ltd",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "High Velocity - Mountain Racing Challenge (USA)",
+      "fullpath": "sega_saturn-High Velocity - Mountain Racing Challenge (USA)",
+      "name": "High Velocity - Mountain Racing Challenge",
+      "year": "1995",
+      "publisher": "Atlus",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Highway 2000 (USA)",
+      "fullpath": "sega_saturn-Highway 2000 (USA)",
+      "name": "Highway 2000",
+      "year": "1995",
+      "publisher": "Natsume",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Horde, The (USA)",
+      "fullpath": "sega_saturn-Horde, The (USA)",
+      "name": "Horde, The",
+      "year": "1995",
+      "publisher": "Crystal Dynamics",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "House of the Dead, The (USA)",
+      "fullpath": "sega_saturn-House of the Dead, The (USA)",
+      "name": "House of the Dead, The",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Gun",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Hyper 3-D Pinball (USA)",
+      "fullpath": "sega_saturn-Hyper 3-D Pinball (USA)",
+      "name": "Hyper 3-D Pinball",
+      "year": "1997",
+      "publisher": "Virgin Interactive Entertainment",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Impact Racing (USA)",
+      "fullpath": "sega_saturn-Impact Racing (USA)",
+      "name": "Impact Racing",
+      "year": "1997",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "In the Hunt (USA)",
+      "fullpath": "sega_saturn-In the Hunt (USA)",
+      "name": "In the Hunt",
+      "year": "1995",
+      "publisher": "Kokopeli Digital Studios",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Incredible Hulk, The - The Pantheon Saga (USA)",
+      "fullpath": "sega_saturn-Incredible Hulk, The - The Pantheon Saga (USA)",
+      "name": "Incredible Hulk, The - The Pantheon Saga",
+      "year": "1996",
+      "publisher": "Eidos Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Independence Day (USA)",
+      "fullpath": "sega_saturn-Independence Day (USA)",
+      "name": "Independence Day",
+      "year": "1996",
+      "publisher": "Fox Interactive",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Iron Man X-O Manowar in Heavy Metal (USA)",
+      "fullpath": "sega_saturn-Iron Man X-O Manowar in Heavy Metal (USA)",
+      "name": "Iron Man X-O Manowar in Heavy Metal",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Iron Storm (USA)",
+      "fullpath": "sega_saturn-Iron Storm (USA)",
+      "name": "Iron Storm",
+      "year": "1995",
+      "publisher": "Working Designs",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Jewels Of The Oracle (Europe)",
+      "fullpath": "sega_saturn-Jewels Of The Oracle (Europe)",
+      "name": "Jewels Of The Oracle",
+      "year": "1995",
+      "publisher": "Sunsoft",
+      "genre": "Adventure",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Johnny Bazookatone (USA)",
+      "fullpath": "sega_saturn-Johnny Bazookatone (USA)",
+      "name": "Johnny Bazookatone",
+      "year": "1996",
+      "publisher": "U.S. Gold",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Jonah Lomu Rugby (Europe)",
+      "fullpath": "sega_saturn-Jonah Lomu Rugby (Europe)",
+      "name": "Jonah Lomu Rugby",
+      "year": "1997",
+      "publisher": "Sports Master",
+      "genre": "Sports/Rugby",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Keio Flying Squadron 2 (Europe)",
+      "fullpath": "sega_saturn-Keio Flying Squadron 2 (Europe)",
+      "name": "Keio Flying Squadron 2",
+      "year": "1997",
+      "publisher": "JVC",
+      "genre": "Platform",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "King of Fighters '95, The (Europe)",
+      "fullpath": "sega_saturn-King of Fighters '95, The (Europe)",
+      "name": "King of Fighters '95, The",
+      "year": "1996",
+      "publisher": "SNK",
+      "genre": "Fighter",
+      "rating": "PEGI - 16 (Everyone 16+)"
+    },
+    {
+      "id": "Krazy Ivan (Europe)",
+      "fullpath": "sega_saturn-Krazy Ivan (Europe)",
+      "name": "Krazy Ivan",
+      "year": "1997",
+      "publisher": "Psygnosis",
+      "genre": "Simulation",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Last Bronx (USA)",
+      "fullpath": "sega_saturn-Last Bronx (USA)",
+      "name": "Last Bronx",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Last Gladiators - Digital Pinball (USA)",
+      "fullpath": "sega_saturn-Last Gladiators - Digital Pinball (USA)",
+      "name": "Last Gladiators - Digital Pinball",
+      "year": "1996",
+      "publisher": "Time Warner Interactive",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Legend of Oasis, The (USA)",
+      "fullpath": "sega_saturn-Legend of Oasis, The (USA)",
+      "name": "Legend of Oasis, The",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Loaded (USA)",
+      "fullpath": "sega_saturn-Loaded (USA)",
+      "name": "Loaded",
+      "year": "1996",
+      "publisher": "Interplay",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Lost World, The - Jurassic Park (USA)",
+      "fullpath": "sega_saturn-Lost World, The - Jurassic Park (USA)",
+      "name": "Lost World, The - Jurassic Park",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Lunacy (USA) (Disc 1)",
+      "fullpath": "sega_saturn-Lunacy (USA) (Disc 1)",
+      "name": "Lunacy",
+      "year": "1997",
+      "publisher": "Atlus",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lunacy (USA) (Disc 2)",
+      "fullpath": "sega_saturn-Lunacy (USA) (Disc 2)",
+      "name": "Lunacy",
+      "year": "1997",
+      "publisher": "Atlus",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Machine Head (USA)",
+      "fullpath": "sega_saturn-Machine Head (USA)",
+      "name": "Machine Head",
+      "year": "1997",
+      "publisher": "Eidos Interactive",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Madden NFL 97 (USA)",
+      "fullpath": "sega_saturn-Madden NFL 97 (USA)",
+      "name": "Madden NFL 97",
+      "year": "1996",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 98 (USA)",
+      "fullpath": "sega_saturn-Madden NFL 98 (USA)",
+      "name": "Madden NFL 98",
+      "year": "1997",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Magic Carpet (USA)",
+      "fullpath": "sega_saturn-Magic Carpet (USA)",
+      "name": "Magic Carpet",
+      "year": "1996",
+      "publisher": "Bullfrog Productions Ltd",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Magic Knight Rayearth (USA)",
+      "fullpath": "sega_saturn-Magic Knight Rayearth (USA)",
+      "name": "Magic Knight Rayearth",
+      "year": "1995",
+      "publisher": "Working Designs",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mansion of Hidden Souls, The (USA)",
+      "fullpath": "sega_saturn-Mansion of Hidden Souls, The (USA)",
+      "name": "Mansion of Hidden Souls, The",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Manx TT SuperBike (USA)",
+      "fullpath": "sega_saturn-Manx TT SuperBike (USA)",
+      "name": "Manx TT SuperBike",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Marvel Super Heroes (USA)",
+      "fullpath": "sega_saturn-Marvel Super Heroes (USA)",
+      "name": "Marvel Super Heroes",
+      "year": "1997",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Marvel Super Heroes vs. Street Fighter (Japan)",
+      "fullpath": "sega_saturn-Marvel Super Heroes vs. Street Fighter (Japan)",
+      "name": "Marvel Super Heroes vs. Street Fighter",
+      "year": "1998",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Mass Destruction (USA)",
+      "fullpath": "sega_saturn-Mass Destruction (USA)",
+      "name": "Mass Destruction",
+      "year": "1997",
+      "publisher": "ASC Games",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Maximum Force (USA)",
+      "fullpath": "sega_saturn-Maximum Force (USA)",
+      "name": "Maximum Force",
+      "year": "1996",
+      "publisher": "Midway",
+      "genre": "Gun",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "MechWarrior 2 - 31st Century Combat (USA)",
+      "fullpath": "sega_saturn-MechWarrior 2 - 31st Century Combat (USA)",
+      "name": "MechWarrior 2 - 31st Century Combat",
+      "year": "1997",
+      "publisher": "Activision",
+      "genre": "Simulation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mega Man 8 - Anniversary Collector's Edition (USA)",
+      "fullpath": "sega_saturn-Mega Man 8 - Anniversary Collector's Edition (USA)",
+      "name": "Mega Man 8 - Anniversary Collector's Edition",
+      "year": "1999",
+      "publisher": "Capcom",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Megaman X3 (Europe)",
+      "fullpath": "sega_saturn-Megaman X3 (Europe)",
+      "name": "Megaman X3",
+      "year": "1997",
+      "publisher": "Capcom/Virgin Interactive Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Megaman X4 (USA)",
+      "fullpath": "sega_saturn-Megaman X4 (USA)",
+      "name": "Megaman X4",
+      "year": "1997",
+      "publisher": "Capcom",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mighty Hits (Europe)",
+      "fullpath": "sega_saturn-Mighty Hits (Europe)",
+      "name": "Mighty Hits",
+      "year": "1996",
+      "publisher": "Altron",
+      "genre": "Gun",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Minnesota Fats - Pool Legend (USA)",
+      "fullpath": "sega_saturn-Minnesota Fats - Pool Legend (USA)",
+      "name": "Minnesota Fats - Pool Legend",
+      "year": "1995",
+      "publisher": "Data East",
+      "genre": "Sports/Pool and Dart",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mortal Kombat II (USA)",
+      "fullpath": "sega_saturn-Mortal Kombat II (USA)",
+      "name": "Mortal Kombat II",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Mortal Kombat Trilogy (USA)",
+      "fullpath": "sega_saturn-Mortal Kombat Trilogy (USA)",
+      "name": "Mortal Kombat Trilogy",
+      "year": "1997",
+      "publisher": "Midway",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Mr. Bones (USA) (Disc 1)",
+      "fullpath": "sega_saturn-Mr. Bones (USA) (Disc 1)",
+      "name": "Mr. Bones",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mr. Bones (USA) (Disc 2)",
+      "fullpath": "sega_saturn-Mr. Bones (USA) (Disc 2)",
+      "name": "Mr. Bones",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Myst (USA)",
+      "fullpath": "sega_saturn-Myst (USA)",
+      "name": "Myst",
+      "year": "1994",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NASCAR '98 (USA)",
+      "fullpath": "sega_saturn-NASCAR '98 (USA)",
+      "name": "NASCAR '98",
+      "year": "1997",
+      "publisher": "EA Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Action (USA)",
+      "fullpath": "sega_saturn-NBA Action (USA)",
+      "name": "NBA Action",
+      "year": "1996",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Action 98 (USA)",
+      "fullpath": "sega_saturn-NBA Action 98 (USA)",
+      "name": "NBA Action 98",
+      "year": "1998",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Jam Extreme (USA)",
+      "fullpath": "sega_saturn-NBA Jam Extreme (USA)",
+      "name": "NBA Jam Extreme",
+      "year": "1997",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Jam Tournament Edition (USA)",
+      "fullpath": "sega_saturn-NBA Jam Tournament Edition (USA)",
+      "name": "NBA Jam Tournament Edition",
+      "year": "1995",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Live 97 (USA)",
+      "fullpath": "sega_saturn-NBA Live 97 (USA)",
+      "name": "NBA Live 97",
+      "year": "1997",
+      "publisher": "EA Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Live 98 (USA)",
+      "fullpath": "sega_saturn-NBA Live 98 (USA)",
+      "name": "NBA Live 98",
+      "year": "1997",
+      "publisher": "EA Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Need for Speed, The (USA)",
+      "fullpath": "sega_saturn-Need for Speed, The (USA)",
+      "name": "Need for Speed, The",
+      "year": "1996",
+      "publisher": "Electronic Arts",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL '97 (USA)",
+      "fullpath": "sega_saturn-NFL '97 (USA)",
+      "name": "NFL '97",
+      "year": "1996",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Quarterback Club '96 (USA)",
+      "fullpath": "sega_saturn-NFL Quarterback Club '96 (USA)",
+      "name": "NFL Quarterback Club '96",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Quarterback Club '97 (USA)",
+      "fullpath": "sega_saturn-NFL Quarterback Club '97 (USA)",
+      "name": "NFL Quarterback Club '97",
+      "year": "1997",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL 97 (USA)",
+      "fullpath": "sega_saturn-NHL 97 (USA)",
+      "name": "NHL 97",
+      "year": "1997",
+      "publisher": "EA Sports",
+      "genre": "Sports/Ice Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL 98 (USA)",
+      "fullpath": "sega_saturn-NHL 98 (USA)",
+      "name": "NHL 98",
+      "year": "1998",
+      "publisher": "EA Sports",
+      "genre": "Sports/Ice Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL All-Star Hockey (USA)",
+      "fullpath": "sega_saturn-NHL All-Star Hockey (USA)",
+      "name": "NHL All-Star Hockey",
+      "year": "1997",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Ice Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL All-Star Hockey 98 (USA)",
+      "fullpath": "sega_saturn-NHL All-Star Hockey 98 (USA)",
+      "name": "NHL All-Star Hockey 98",
+      "year": "1998",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Ice Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL Powerplay '96 (USA)",
+      "fullpath": "sega_saturn-NHL Powerplay '96 (USA)",
+      "name": "NHL Powerplay '96",
+      "year": "1996",
+      "publisher": "Virgin Interactive Entertainment",
+      "genre": "Sports/Ice Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Night Warriors - Darkstalkers' Revenge (USA)",
+      "fullpath": "sega_saturn-Night Warriors - Darkstalkers' Revenge (USA)",
+      "name": "Night Warriors - Darkstalkers' Revenge",
+      "year": "1996",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Nights Into Dreams... (USA)",
+      "fullpath": "sega_saturn-Nights Into Dreams... (USA)",
+      "name": "Nights Into Dreams...",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Norse by Norsewest - The Return of The Lost Vikings (USA)",
+      "fullpath": "sega_saturn-Norse by Norsewest - The Return of The Lost Vikings (USA)",
+      "name": "Norse by Norsewest - The Return of The Lost Vikings",
+      "year": "1997",
+      "publisher": "Interplay",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Off-World Interceptor Extreme (USA)",
+      "fullpath": "sega_saturn-Off-World Interceptor Extreme (USA)",
+      "name": "Off-World Interceptor Extreme",
+      "year": "1995",
+      "publisher": "Crystal Dynamics",
+      "genre": "Driving",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Olympic Soccer (USA)",
+      "fullpath": "sega_saturn-Olympic Soccer (USA)",
+      "name": "Olympic Soccer",
+      "year": "1996",
+      "publisher": "U.S. Gold Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "P.T.O. II - Pacific Theater of Operations (USA)",
+      "fullpath": "sega_saturn-P.T.O. II - Pacific Theater of Operations (USA)",
+      "name": "P.T.O. II - Pacific Theater of Operations",
+      "year": "1996",
+      "publisher": "Koei",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pandemonium! (USA)",
+      "fullpath": "sega_saturn-Pandemonium! (USA)",
+      "name": "Pandemonium!",
+      "year": "1997",
+      "publisher": "Crystal Dynamics",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Panzer Dragoon (USA)",
+      "fullpath": "sega_saturn-Panzer Dragoon (USA)",
+      "name": "Panzer Dragoon",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Panzer Dragoon II - Zwei (USA)",
+      "fullpath": "sega_saturn-Panzer Dragoon II - Zwei (USA)",
+      "name": "Panzer Dragoon II - Zwei",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Panzer Dragoon Saga (USA) (Disc 1)",
+      "fullpath": "sega_saturn-Panzer Dragoon Saga (USA) (Disc 1)",
+      "name": "Panzer Dragoon Saga",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Panzer Dragoon Saga (USA) (Disc 2)",
+      "fullpath": "sega_saturn-Panzer Dragoon Saga (USA) (Disc 2)",
+      "name": "Panzer Dragoon Saga",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Panzer Dragoon Saga (USA) (Disc 3)",
+      "fullpath": "sega_saturn-Panzer Dragoon Saga (USA) (Disc 3)",
+      "name": "Panzer Dragoon Saga",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Panzer Dragoon Saga (USA) (Disc 4)",
+      "fullpath": "sega_saturn-Panzer Dragoon Saga (USA) (Disc 4)",
+      "name": "Panzer Dragoon Saga",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Parodius (Europe)",
+      "fullpath": "sega_saturn-Parodius (Europe)",
+      "name": "Parodius",
+      "year": "1995",
+      "publisher": "Konami",
+      "genre": "Compilation",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Pebble Beach Golf Links (USA)",
+      "fullpath": "sega_saturn-Pebble Beach Golf Links (USA)",
+      "name": "Pebble Beach Golf Links",
+      "year": "1995",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "PGA Tour 97 (USA)",
+      "fullpath": "sega_saturn-PGA Tour 97 (USA)",
+      "name": "PGA Tour 97",
+      "year": "1997",
+      "publisher": "EA Sports",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pinball Graffiti (Europe)",
+      "fullpath": "sega_saturn-Pinball Graffiti (Europe)",
+      "name": "Pinball Graffiti",
+      "year": "1996",
+      "publisher": "JVC",
+      "genre": "Pinball",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Policenauts (Japan) (Translated En) (Disc 1)",
+      "fullpath": "sega_saturn-Policenauts (Japan) (Translated En) (Disc 1)",
+      "name": "Policenauts",
+      "year": "1996",
+      "publisher": "Konami",
+      "genre": "Adventure",
+      "rating": "HSRS - 17 (17+)"
+    },
+    {
+      "id": "Policenauts (Japan) (Translated En) (Disc 2)",
+      "fullpath": "sega_saturn-Policenauts (Japan) (Translated En) (Disc 2)",
+      "name": "Policenauts",
+      "year": "1996",
+      "publisher": "Konami",
+      "genre": "Adventure",
+      "rating": "HSRS - 17 (17+)"
+    },
+    {
+      "id": "Policenauts (Japan) (Translated En) (Disc 3)",
+      "fullpath": "sega_saturn-Policenauts (Japan) (Translated En) (Disc 3)",
+      "name": "Policenauts",
+      "year": "1996",
+      "publisher": "Konami",
+      "genre": "Adventure",
+      "rating": "HSRS - 17 (17+)"
+    },
+    {
+      "id": "PowerSlave (USA)",
+      "fullpath": "sega_saturn-PowerSlave (USA)",
+      "name": "PowerSlave",
+      "year": "1996",
+      "publisher": "Playmates Interactive Entertainment",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Primal Rage (USA)",
+      "fullpath": "sega_saturn-Primal Rage (USA)",
+      "name": "Primal Rage",
+      "year": "1998",
+      "publisher": "Time Warner Interactive",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Pro Pinball (USA)",
+      "fullpath": "sega_saturn-Pro Pinball (USA)",
+      "name": "Pro Pinball",
+      "year": "1996",
+      "publisher": "Interplay",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Quake (USA)",
+      "fullpath": "sega_saturn-Quake (USA)",
+      "name": "Quake",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Quarterback Attack with Mike Ditka (USA)",
+      "fullpath": "sega_saturn-Quarterback Attack with Mike Ditka (USA)",
+      "name": "Quarterback Attack with Mike Ditka",
+      "year": "1995",
+      "publisher": "Digital Pictures",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Radiant Silvergun (Japan)",
+      "fullpath": "sega_saturn-Radiant Silvergun (Japan)",
+      "name": "Radiant Silvergun",
+      "year": "1998",
+      "publisher": "ESP",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rampage - World Tour (USA)",
+      "fullpath": "sega_saturn-Rampage - World Tour (USA)",
+      "name": "Rampage - World Tour",
+      "year": "1997",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Rayman (USA)",
+      "fullpath": "sega_saturn-Rayman (USA)",
+      "name": "Rayman",
+      "year": "1995",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Resident Evil (USA)",
+      "fullpath": "sega_saturn-Resident Evil (USA)",
+      "name": "Resident Evil",
+      "year": "1997",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resurrection - Rise 2 (USA)",
+      "fullpath": "sega_saturn-Resurrection - Rise 2 (USA)",
+      "name": "Resurrection - Rise 2",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Return Fire (USA)",
+      "fullpath": "sega_saturn-Return Fire (USA)",
+      "name": "Return Fire",
+      "year": "1998",
+      "publisher": "Williams Entertainment Inc.",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Revolution X (USA)",
+      "fullpath": "sega_saturn-Revolution X (USA)",
+      "name": "Revolution X",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Gun",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Riven - The Sequel to Myst (Europe) (Disc 1)",
+      "fullpath": "sega_saturn-Riven - The Sequel to Myst (Europe) (Disc 1)",
+      "name": "Riven - The Sequel to Myst",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Riven - The Sequel to Myst (Europe) (Disc 2)",
+      "fullpath": "sega_saturn-Riven - The Sequel to Myst (Europe) (Disc 2)",
+      "name": "Riven - The Sequel to Myst",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Riven - The Sequel to Myst (Europe) (Disc 3)",
+      "fullpath": "sega_saturn-Riven - The Sequel to Myst (Europe) (Disc 3)",
+      "name": "Riven - The Sequel to Myst",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Riven - The Sequel to Myst (Europe) (Disc 4)",
+      "fullpath": "sega_saturn-Riven - The Sequel to Myst (Europe) (Disc 4)",
+      "name": "Riven - The Sequel to Myst",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Road Rash (USA)",
+      "fullpath": "sega_saturn-Road Rash (USA)",
+      "name": "Road Rash",
+      "year": "1996",
+      "publisher": "Electronic Arts",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Robo Pit (USA)",
+      "fullpath": "sega_saturn-Robo Pit (USA)",
+      "name": "Robo Pit",
+      "year": "1996",
+      "publisher": "Kokopeli Digital Studios",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Robotica (USA)",
+      "fullpath": "sega_saturn-Robotica (USA)",
+      "name": "Robotica",
+      "year": "1995",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Romance of the Three Kingdoms IV - Wall Of Fire (USA)",
+      "fullpath": "sega_saturn-Romance of the Three Kingdoms IV - Wall Of Fire (USA)",
+      "name": "Romance of the Three Kingdoms IV - Wall Of Fire",
+      "year": "1995",
+      "publisher": "Koei",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Saturn Bomber Man (Europe)",
+      "fullpath": "sega_saturn-Saturn Bomber Man (Europe)",
+      "name": "Saturn Bomber Man",
+      "year": "1997",
+      "publisher": "Hudson",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Scorcher (USA)",
+      "fullpath": "sega_saturn-Scorcher (USA)",
+      "name": "Scorcher",
+      "year": "1997",
+      "publisher": "Scavenger",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Scud - The Disposable Assassin (USA)",
+      "fullpath": "sega_saturn-Scud - The Disposable Assassin (USA)",
+      "name": "Scud - The Disposable Assassin",
+      "year": "1997",
+      "publisher": "SegaSoft",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sea Bass Fishing (Europe)",
+      "fullpath": "sega_saturn-Sea Bass Fishing (Europe)",
+      "name": "Sea Bass Fishing",
+      "year": "1996",
+      "publisher": "JVC",
+      "genre": "Sports/Fishing",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Sega Ages (USA)",
+      "fullpath": "sega_saturn-Sega Ages (USA)",
+      "name": "Sega Ages",
+      "year": "1996",
+      "publisher": "Spaz/Working Designs",
+      "genre": "Compilation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sega Rally Championship (USA)",
+      "fullpath": "sega_saturn-Sega Rally Championship (USA)",
+      "name": "Sega Rally Championship",
+      "year": "1995",
+      "publisher": "Sega Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sega Rally Championship Plus - Netlink Edition (USA)",
+      "fullpath": "sega_saturn-Sega Rally Championship Plus - Netlink Edition (USA)",
+      "name": "Sega Rally Championship Plus - Netlink Edition",
+      "year": "1997",
+      "publisher": "Sega Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sega Touring Car Championship (USA)",
+      "fullpath": "sega_saturn-Sega Touring Car Championship (USA)",
+      "name": "Sega Touring Car Championship",
+      "year": "1997",
+      "publisher": "Sega Racing",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sega Worldwide Soccer '97 (USA)",
+      "fullpath": "sega_saturn-Sega Worldwide Soccer '97 (USA)",
+      "name": "Sega Worldwide Soccer '97",
+      "year": "1996",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sega Worldwide Soccer '98 (USA)",
+      "fullpath": "sega_saturn-Sega Worldwide Soccer '98 (USA)",
+      "name": "Sega Worldwide Soccer '98",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Segata Sanshirou Shinken Yuugi (Japan)",
+      "fullpath": "sega_saturn-Segata Sanshirou Shinken Yuugi (Japan)",
+      "name": "Segata Sanshirou Shinken Yuugi",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Mini-Games",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shanghai - Triple Threat (USA)",
+      "fullpath": "sega_saturn-Shanghai - Triple Threat (USA)",
+      "name": "Shanghai - Triple Threat",
+      "year": "1998",
+      "publisher": "Activision",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shellshock (USA)",
+      "fullpath": "sega_saturn-Shellshock (USA)",
+      "name": "Shellshock",
+      "year": "1996",
+      "publisher": "U.S. Gold",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shining Force III (USA)",
+      "fullpath": "sega_saturn-Shining Force III (USA)",
+      "name": "Shining Force III",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Shining Force III - Scenario 1 (Japan) (Translated En)",
+      "fullpath": "sega_saturn-Shining Force III - Scenario 1 (Japan) (Translated En)",
+      "name": "Shining Force III - Scenario 1",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shining Force III - Scenario 2 (Japan) (Translated En)",
+      "fullpath": "sega_saturn-Shining Force III - Scenario 2 (Japan) (Translated En)",
+      "name": "Shining Force III - Scenario 2",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shining Force III - Scenario 3 (Japan) (Translated En)",
+      "fullpath": "sega_saturn-Shining Force III - Scenario 3 (Japan) (Translated En)",
+      "name": "Shining Force III - Scenario 3",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shining Force III - Premium Disc (Japan) (Translated En)",
+      "fullpath": "sega_saturn-Shining Force III - Premium Disc (Japan) (Translated En)",
+      "name": "Shining Force III - Premium Disc",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shining the Holy Ark (USA)",
+      "fullpath": "sega_saturn-Shining the Holy Ark (USA)",
+      "name": "Shining the Holy Ark",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shining Wisdom (USA)",
+      "fullpath": "sega_saturn-Shining Wisdom (USA)",
+      "name": "Shining Wisdom",
+      "year": "1995",
+      "publisher": "Working Designs",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shinobi Legions (USA)",
+      "fullpath": "sega_saturn-Shinobi Legions (USA)",
+      "name": "Shinobi Legions",
+      "year": "1995",
+      "publisher": "Vic Tokai Inc.",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Shinrei Jusatsushi Taromaru (Japan)",
+      "fullpath": "sega_saturn-Shinrei Jusatsushi Taromaru (Japan)",
+      "name": "Shinrei Jusatsushi Taromaru",
+      "year": "1997",
+      "publisher": "Time Warner Interactive",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shockwave Assault (USA)",
+      "fullpath": "sega_saturn-Shockwave Assault (USA)",
+      "name": "Shockwave Assault",
+      "year": "1996",
+      "publisher": "Electronic Arts",
+      "genre": "Simulation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Translated En) (Disc 1)",
+      "fullpath": "sega_saturn-Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Translated En) (Disc 1)",
+      "name": "Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Translated En) (Disc 2)",
+      "fullpath": "sega_saturn-Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Translated En) (Disc 2)",
+      "name": "Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "SimCity 2000 (USA)",
+      "fullpath": "sega_saturn-SimCity 2000 (USA)",
+      "name": "SimCity 2000",
+      "year": "1995",
+      "publisher": "Maxis",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Skeleton Warriors (USA)",
+      "fullpath": "sega_saturn-Skeleton Warriors (USA)",
+      "name": "Skeleton Warriors",
+      "year": "1997",
+      "publisher": "Playmates Interactive Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sky Target (USA)",
+      "fullpath": "sega_saturn-Sky Target (USA)",
+      "name": "Sky Target",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Slam 'N Jam '96 featuring Magic & Kareem (USA)",
+      "fullpath": "sega_saturn-Slam 'N Jam '96 featuring Magic & Kareem (USA)",
+      "name": "Slam 'N Jam '96 featuring Magic & Kareem",
+      "year": "1996",
+      "publisher": "Crystal Dynamics",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Solar Eclipse (USA)",
+      "fullpath": "sega_saturn-Solar Eclipse (USA)",
+      "name": "Solar Eclipse",
+      "year": "1996",
+      "publisher": "Crystal Dynamics",
+      "genre": "Simulation",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sonic 3D Blast (USA)",
+      "fullpath": "sega_saturn-Sonic 3D Blast (USA)",
+      "name": "Sonic 3D Blast",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic Jam (USA)",
+      "fullpath": "sega_saturn-Sonic Jam (USA)",
+      "name": "Sonic Jam",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Compilation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic R (USA)",
+      "fullpath": "sega_saturn-Sonic R (USA)",
+      "name": "Sonic R",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Soviet Strike (USA)",
+      "fullpath": "sega_saturn-Soviet Strike (USA)",
+      "name": "Soviet Strike",
+      "year": "1997",
+      "publisher": "Electronic Arts",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Space Hulk - Vengeance of the Blood Angels (USA)",
+      "fullpath": "sega_saturn-Space Hulk - Vengeance of the Blood Angels (USA)",
+      "name": "Space Hulk - Vengeance of the Blood Angels",
+      "year": "1996",
+      "publisher": "Electronic Arts",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Space Invaders (Japan)",
+      "fullpath": "sega_saturn-Space Invaders (Japan)",
+      "name": "Space Invaders",
+      "year": "1996",
+      "publisher": "Taito",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Space Jam (USA)",
+      "fullpath": "sega_saturn-Space Jam (USA)",
+      "name": "Space Jam",
+      "year": "1997",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spot Goes to Hollywood (USA)",
+      "fullpath": "sega_saturn-Spot Goes to Hollywood (USA)",
+      "name": "Spot Goes to Hollywood",
+      "year": "1997",
+      "publisher": "Virgin Interactive Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Star Fighter (USA)",
+      "fullpath": "sega_saturn-Star Fighter (USA)",
+      "name": "Star Fighter",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Steep Slope Sliders (USA)",
+      "fullpath": "sega_saturn-Steep Slope Sliders (USA)",
+      "name": "Steep Slope Sliders",
+      "year": "1998",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Snowboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Street Fighter - The Movie (USA)",
+      "fullpath": "sega_saturn-Street Fighter - The Movie (USA)",
+      "name": "Street Fighter - The Movie",
+      "year": "1995",
+      "publisher": "Capcom/Acclaim Entertainment, Inc.",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter Alpha - Warrior's Dreams (USA)",
+      "fullpath": "sega_saturn-Street Fighter Alpha - Warrior's Dreams (USA)",
+      "name": "Street Fighter Alpha - Warrior's Dreams",
+      "year": "1996",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter Alpha 2 (USA)",
+      "fullpath": "sega_saturn-Street Fighter Alpha 2 (USA)",
+      "name": "Street Fighter Alpha 2",
+      "year": "1996",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter Collection (USA) (Disc 1)",
+      "fullpath": "sega_saturn-Street Fighter Collection (USA) (Disc 1)",
+      "name": "Street Fighter Collection",
+      "year": "1997",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter Collection (USA) (Disc 2)",
+      "fullpath": "sega_saturn-Street Fighter Collection (USA) (Disc 2)",
+      "name": "Street Fighter Collection",
+      "year": "1997",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Racer (Europe)",
+      "fullpath": "sega_saturn-Street Racer (Europe)",
+      "name": "Street Racer",
+      "year": "1996",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Striker '96 (USA)",
+      "fullpath": "sega_saturn-Striker '96 (USA)",
+      "name": "Striker '96",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Strikers 1945 (Japan)",
+      "fullpath": "sega_saturn-Strikers 1945 (Japan)",
+      "name": "Strikers 1945",
+      "year": "1996",
+      "publisher": "Atlus",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Puzzle Fighter II Turbo (USA)",
+      "fullpath": "sega_saturn-Super Puzzle Fighter II Turbo (USA)",
+      "name": "Super Puzzle Fighter II Turbo",
+      "year": "1996",
+      "publisher": "Capcom",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Swagman (Europe)",
+      "fullpath": "sega_saturn-Swagman (Europe)",
+      "name": "Swagman",
+      "year": "1997",
+      "publisher": "Eidos Interactive",
+      "genre": "Action",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Tempest 2000 (USA)",
+      "fullpath": "sega_saturn-Tempest 2000 (USA)",
+      "name": "Tempest 2000",
+      "year": "1996",
+      "publisher": "Interplay",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ten Pin Alley (USA)",
+      "fullpath": "sega_saturn-Ten Pin Alley (USA)",
+      "name": "Ten Pin Alley",
+      "year": "1997",
+      "publisher": "ASC Games",
+      "genre": "Sports/Bowling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tetris Plus (USA)",
+      "fullpath": "sega_saturn-Tetris Plus (USA)",
+      "name": "Tetris Plus",
+      "year": "1996",
+      "publisher": "Jaleco",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Theme Park (USA)",
+      "fullpath": "sega_saturn-Theme Park (USA)",
+      "name": "Theme Park",
+      "year": "1995",
+      "publisher": "Bullfrog Productions Ltd",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Three Dirty Dwarves (USA)",
+      "fullpath": "sega_saturn-Three Dirty Dwarves (USA)",
+      "name": "Three Dirty Dwarves",
+      "year": "1997",
+      "publisher": "SegaSoft",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Thunder Force V (Japan)",
+      "fullpath": "sega_saturn-Thunder Force V (Japan)",
+      "name": "Thunder Force V",
+      "year": "1997",
+      "publisher": "Tecno Soft",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Thunderstrike 2 (USA)",
+      "fullpath": "sega_saturn-Thunderstrike 2 (USA)",
+      "name": "Thunderstrike 2",
+      "year": "1996",
+      "publisher": "U.S. Gold",
+      "genre": "Simulation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "TNN Motor Sports - Hardcore 4X4 (USA)",
+      "fullpath": "sega_saturn-TNN Motor Sports - Hardcore 4X4 (USA)",
+      "name": "TNN Motor Sports - Hardcore 4X4",
+      "year": "1996",
+      "publisher": "ASC Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tomb Raider (USA)",
+      "fullpath": "sega_saturn-Tomb Raider (USA)",
+      "name": "Tomb Raider",
+      "year": "1998",
+      "publisher": "Eidos Interactive",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Trash It (Europe)",
+      "fullpath": "sega_saturn-Trash It (Europe)",
+      "name": "Trash It",
+      "year": "1997",
+      "publisher": "GT Interactive Software",
+      "genre": "Platform",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "True Pinball (USA)",
+      "fullpath": "sega_saturn-True Pinball (USA)",
+      "name": "True Pinball",
+      "year": "1996",
+      "publisher": "Ocean",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tunnel B1 (USA)",
+      "fullpath": "sega_saturn-Tunnel B1 (USA)",
+      "name": "Tunnel B1",
+      "year": "1997",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "UEFA Euro 96 England (Europe)",
+      "fullpath": "sega_saturn-UEFA Euro 96 England (Europe)",
+      "name": "UEFA Euro 96 England",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Sports/Soccer",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Ultimate Mortal Kombat 3 (USA)",
+      "fullpath": "sega_saturn-Ultimate Mortal Kombat 3 (USA)",
+      "name": "Ultimate Mortal Kombat 3",
+      "year": "1996",
+      "publisher": "Williams Entertainment Inc.",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Valora Valley Golf (USA)",
+      "fullpath": "sega_saturn-Valora Valley Golf (USA)",
+      "name": "Valora Valley Golf",
+      "year": "1995",
+      "publisher": "Vic Tokai Inc.",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Vampire Savior (Japan)",
+      "fullpath": "sega_saturn-Vampire Savior (Japan)",
+      "name": "Vampire Savior",
+      "year": "1998",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Virtua Cop (USA)",
+      "fullpath": "sega_saturn-Virtua Cop (USA)",
+      "name": "Virtua Cop",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Gun",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtua Cop 2 (USA)",
+      "fullpath": "sega_saturn-Virtua Cop 2 (USA)",
+      "name": "Virtua Cop 2",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Gun",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtua Fighter (USA)",
+      "fullpath": "sega_saturn-Virtua Fighter (USA)",
+      "name": "Virtua Fighter",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtua Fighter 2 (USA)",
+      "fullpath": "sega_saturn-Virtua Fighter 2 (USA)",
+      "name": "Virtua Fighter 2",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtua Fighter Kids (USA)",
+      "fullpath": "sega_saturn-Virtua Fighter Kids (USA)",
+      "name": "Virtua Fighter Kids",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtua Fighter Remix (USA)",
+      "fullpath": "sega_saturn-Virtua Fighter Remix (USA)",
+      "name": "Virtua Fighter Remix",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtual Casino (USA)",
+      "fullpath": "sega_saturn-Virtual Casino (USA)",
+      "name": "Virtual Casino",
+      "year": "1996",
+      "publisher": "Natsume",
+      "genre": "Casino",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtual Golf (Europe)",
+      "fullpath": "sega_saturn-Virtual Golf (Europe)",
+      "name": "Virtual Golf",
+      "year": "1996",
+      "publisher": "Core Design Limited",
+      "genre": "Sports/Golf",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Virtual Hydlide (USA)",
+      "fullpath": "sega_saturn-Virtual Hydlide (USA)",
+      "name": "Virtual Hydlide",
+      "year": "1995",
+      "publisher": "Atlus",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Virtual Open Tennis (USA)",
+      "fullpath": "sega_saturn-Virtual Open Tennis (USA)",
+      "name": "Virtual Open Tennis",
+      "year": "1995",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Sports/Tennis",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Virtual-On - Cyber Troopers (USA)",
+      "fullpath": "sega_saturn-Virtual-On - Cyber Troopers (USA)",
+      "name": "Virtual-On - Cyber Troopers",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Virtual-On - Cyber Troopers - Netlink Edition (USA)",
+      "fullpath": "sega_saturn-Virtual-On - Cyber Troopers - Netlink Edition (USA)",
+      "name": "Virtual-On - Cyber Troopers - Netlink Edition",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "VR Golf '97 (USA)",
+      "fullpath": "sega_saturn-VR Golf '97 (USA)",
+      "name": "VR Golf '97",
+      "year": "1997",
+      "publisher": "Interplay",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "VR Soccer (USA)",
+      "fullpath": "sega_saturn-VR Soccer (USA)",
+      "name": "VR Soccer",
+      "year": "1996",
+      "publisher": "Interplay",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "VR Virtua Racing (USA)",
+      "fullpath": "sega_saturn-VR Virtua Racing (USA)",
+      "name": "VR Virtua Racing",
+      "year": "1995",
+      "publisher": "Time Warner Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WarCraft II - The Dark Saga (USA)",
+      "fullpath": "sega_saturn-WarCraft II - The Dark Saga (USA)",
+      "name": "WarCraft II - The Dark Saga",
+      "year": "1997",
+      "publisher": "Electronic Arts",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Whizz (Europe)",
+      "fullpath": "sega_saturn-Whizz (Europe)",
+      "name": "Whizz",
+      "year": "1997",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Wing Arms (USA)",
+      "fullpath": "sega_saturn-Wing Arms (USA)",
+      "name": "Wing Arms",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Flying",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Winning Post (USA)",
+      "fullpath": "sega_saturn-Winning Post (USA)",
+      "name": "Winning Post",
+      "year": "1998",
+      "publisher": "Koei",
+      "genre": "Sports/Horse Racing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Winter Heat (USA)",
+      "fullpath": "sega_saturn-Winter Heat (USA)",
+      "name": "Winter Heat",
+      "year": "1998",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Skiing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WipEout (USA)",
+      "fullpath": "sega_saturn-WipEout (USA)",
+      "name": "WipEout",
+      "year": "1996",
+      "publisher": "Psygnosis",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WipEout 2097 (Europe)",
+      "fullpath": "sega_saturn-WipEout 2097 (Europe)",
+      "name": "WipEout 2097",
+      "year": "1997",
+      "publisher": "Psygnosis",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "World Cup Golf - Professional Edition (USA)",
+      "fullpath": "sega_saturn-World Cup Golf - Professional Edition (USA)",
+      "name": "World Cup Golf - Professional Edition",
+      "year": "1996",
+      "publisher": "U.S. Gold Sports",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "World League Soccer '98 (Europe)",
+      "fullpath": "sega_saturn-World League Soccer '98 (Europe)",
+      "name": "World League Soccer '98",
+      "year": "1998",
+      "publisher": "Silicon Dreams",
+      "genre": "Sports/Soccer",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "World Series Baseball '98 (USA)",
+      "fullpath": "sega_saturn-World Series Baseball '98 (USA)",
+      "name": "World Series Baseball '98",
+      "year": "1997",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "World Series Baseball (USA)",
+      "fullpath": "sega_saturn-World Series Baseball (USA)",
+      "name": "World Series Baseball",
+      "year": "1995",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "World Series Baseball II (USA)",
+      "fullpath": "sega_saturn-World Series Baseball II (USA)",
+      "name": "World Series Baseball II",
+      "year": "1996",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Worldwide Soccer - Sega International Victory Goal Edition (USA)",
+      "fullpath": "sega_saturn-Worldwide Soccer - Sega International Victory Goal Edition (USA)",
+      "name": "Worldwide Soccer - Sega International Victory Goal Edition",
+      "year": "1995",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Worms (USA)",
+      "fullpath": "sega_saturn-Worms (USA)",
+      "name": "Worms",
+      "year": "1997",
+      "publisher": "Ocean",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WWF In Your House (USA)",
+      "fullpath": "sega_saturn-WWF In Your House (USA)",
+      "name": "WWF In Your House",
+      "year": "1997",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WWF Wrestlemania - The Arcade Game (USA)",
+      "fullpath": "sega_saturn-WWF Wrestlemania - The Arcade Game (USA)",
+      "name": "WWF Wrestlemania - The Arcade Game",
+      "year": "1996",
+      "publisher": "Acclaim Entertainment, Inc.",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "X-Men - Children of the Atom (USA)",
+      "fullpath": "sega_saturn-X-Men - Children of the Atom (USA)",
+      "name": "X-Men - Children of the Atom",
+      "year": "1995",
+      "publisher": "Capcom/Acclaim Entertainment, Inc.",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "X-Men vs. Street Fighter (Japan)",
+      "fullpath": "sega_saturn-X-Men vs. Street Fighter (Japan)",
+      "name": "X-Men vs. Street Fighter",
+      "year": "1997",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Z (Europe)",
+      "fullpath": "sega_saturn-Z (Europe)",
+      "name": "Z",
+      "year": "1998",
+      "publisher": "GT Interactive Software",
+      "genre": "Shooter",
+      "rating": "PEGI - 12 (Everyone 12+)"
+    }
+  ]
+}

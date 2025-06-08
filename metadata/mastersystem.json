@@ -1,0 +1,3695 @@
+{
+  "platform": "mastersystem",
+  "totalGames": 409,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "mastersystem game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "mastersystem.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "20 em 1 (Brazil)",
+      "fullpath": "mastersystem-20 em 1 (Brazil)",
+      "name": "20 em 1",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "4 PAK All Action (Australia)",
+      "fullpath": "mastersystem-4 PAK All Action (Australia)",
+      "name": "4 PAK All Action",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ace of Aces (Europe)",
+      "fullpath": "mastersystem-Ace of Aces (Europe)",
+      "name": "Ace of Aces",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Action Fighter (USA, Europe) (v1.2)",
+      "fullpath": "mastersystem-Action Fighter (USA, Europe) (v1.2)",
+      "name": "Action Fighter",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Action Fighter (USA, Europe)",
+      "fullpath": "mastersystem-Action Fighter (USA, Europe)",
+      "name": "Action Fighter",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Addams Family, The (Europe)",
+      "fullpath": "mastersystem-Addams Family, The (Europe)",
+      "name": "Addams Family, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aerial Assault (USA)",
+      "fullpath": "mastersystem-Aerial Assault (USA)",
+      "name": "Aerial Assault",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "After Burner (USA) (alt)",
+      "fullpath": "mastersystem-After Burner (USA) (alt)",
+      "name": "After Burner",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "After Burner (USA)",
+      "fullpath": "mastersystem-After Burner (USA)",
+      "name": "After Burner",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "After Burner (World) (alt)",
+      "fullpath": "mastersystem-After Burner (World) (alt)",
+      "name": "After Burner",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "After Burner (World)",
+      "fullpath": "mastersystem-After Burner (World)",
+      "name": "After Burner",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Air Rescue (Europe)",
+      "fullpath": "mastersystem-Air Rescue (Europe)",
+      "name": "Air Rescue",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aladdin (Europe)",
+      "fullpath": "mastersystem-Aladdin (Europe)",
+      "name": "Aladdin",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alex Kidd - High-Tech World (USA, Europe)",
+      "fullpath": "mastersystem-Alex Kidd - High-Tech World (USA, Europe)",
+      "name": "Alex Kidd - High-Tech World",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alex Kidd - The Lost Stars (World)",
+      "fullpath": "mastersystem-Alex Kidd - The Lost Stars (World)",
+      "name": "Alex Kidd - The Lost Stars",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alex Kidd in Miracle World (USA, Europe) (v1.1)",
+      "fullpath": "mastersystem-Alex Kidd in Miracle World (USA, Europe) (v1.1)",
+      "name": "Alex Kidd in Miracle World",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alex Kidd in Miracle World (USA, Europe)",
+      "fullpath": "mastersystem-Alex Kidd in Miracle World (USA, Europe)",
+      "name": "Alex Kidd in Miracle World",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alex Kidd in Shinobi World (USA, Europe)",
+      "fullpath": "mastersystem-Alex Kidd in Shinobi World (USA, Europe)",
+      "name": "Alex Kidd in Shinobi World",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alf (USA)",
+      "fullpath": "mastersystem-Alf (USA)",
+      "name": "Alf",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alien 3 (Europe)",
+      "fullpath": "mastersystem-Alien 3 (Europe)",
+      "name": "Alien 3",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alien Storm (Europe) (alt)",
+      "fullpath": "mastersystem-Alien Storm (Europe) (alt)",
+      "name": "Alien Storm",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alien Storm (Europe)",
+      "fullpath": "mastersystem-Alien Storm (Europe)",
+      "name": "Alien Storm",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alien Syndrome (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Alien Syndrome (USA, Europe) (alt)",
+      "name": "Alien Syndrome",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alien Syndrome (USA, Europe)",
+      "fullpath": "mastersystem-Alien Syndrome (USA, Europe)",
+      "name": "Alien Syndrome",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Altered Beast (USA, Europe)",
+      "fullpath": "mastersystem-Altered Beast (USA, Europe)",
+      "name": "Altered Beast",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "American Baseball (Europe)",
+      "fullpath": "mastersystem-American Baseball (Europe)",
+      "name": "American Baseball",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "American Pro Football (Europe)",
+      "fullpath": "mastersystem-American Pro Football (Europe)",
+      "name": "American Pro Football",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Andre Agassi Tennis (Europe)",
+      "fullpath": "mastersystem-Andre Agassi Tennis (Europe)",
+      "name": "Andre Agassi Tennis",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Arcade Smash Hits (Europe)",
+      "fullpath": "mastersystem-Arcade Smash Hits (Europe)",
+      "name": "Arcade Smash Hits",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Argos no Juujiken (Japan)",
+      "fullpath": "mastersystem-Argos no Juujiken (Japan)",
+      "name": "Argos no Juujiken",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ariel - The Little Mermaid (Brazil)",
+      "fullpath": "mastersystem-Ariel - The Little Mermaid (Brazil)",
+      "name": "Ariel - The Little Mermaid",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Assault City (Europe)",
+      "fullpath": "mastersystem-Assault City (Europe)",
+      "name": "Assault City",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Asterix (Europe) (En,Fr) (v1.1)",
+      "fullpath": "mastersystem-Asterix (Europe) (En,Fr) (v1.1)",
+      "name": "Asterix",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Asterix (Europe)",
+      "fullpath": "mastersystem-Asterix (Europe)",
+      "name": "Asterix",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)",
+      "fullpath": "mastersystem-Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)",
+      "name": "Asterix and the Great Rescue",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Asterix and the Great Rescue (Europe)",
+      "fullpath": "mastersystem-Asterix and the Great Rescue (Europe)",
+      "name": "Asterix and the Great Rescue",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Asterix and the Secret Mission (Europe) (En,Fr,De)",
+      "fullpath": "mastersystem-Asterix and the Secret Mission (Europe) (En,Fr,De)",
+      "name": "Asterix and the Secret Mission",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Asterix and the Secret Mission (Europe)",
+      "fullpath": "mastersystem-Asterix and the Secret Mission (Europe)",
+      "name": "Asterix and the Secret Mission",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Astro Warrior & Pit Pot (Europe)",
+      "fullpath": "mastersystem-Astro Warrior & Pit Pot (Europe)",
+      "name": "Astro Warrior & Pit Pot",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Astro Warrior (Japan, USA)",
+      "fullpath": "mastersystem-Astro Warrior (Japan, USA)",
+      "name": "Astro Warrior",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ayrton Senna's Super Monaco GP II (Europe)",
+      "fullpath": "mastersystem-Ayrton Senna's Super Monaco GP II (Europe)",
+      "name": "Ayrton Senna's Super Monaco GP II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aztec Adventure - The Golden Road to Paradise (World)",
+      "fullpath": "mastersystem-Aztec Adventure - The Golden Road to Paradise (World)",
+      "name": "Aztec Adventure - The Golden Road to Paradise",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Back to the Future Part II (Europe)",
+      "fullpath": "mastersystem-Back to the Future Part II (Europe)",
+      "name": "Back to the Future Part II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Back to the Future Part III (Europe)",
+      "fullpath": "mastersystem-Back to the Future Part III (Europe)",
+      "name": "Back to the Future Part III",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Baku Baku Animal (Brazil)",
+      "fullpath": "mastersystem-Baku Baku Animal (Brazil)",
+      "name": "Baku Baku Animal",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bank Panic (Europe)",
+      "fullpath": "mastersystem-Bank Panic (Europe)",
+      "name": "Bank Panic",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Basketball Nightmare (Europe)",
+      "fullpath": "mastersystem-Basketball Nightmare (Europe)",
+      "name": "Basketball Nightmare",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Batman Returns (Europe)",
+      "fullpath": "mastersystem-Batman Returns (Europe)",
+      "name": "Batman Returns",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battle Out Run (Europe)",
+      "fullpath": "mastersystem-Battle Out Run (Europe)",
+      "name": "Battle Out Run",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battlemaniacs (Brazil)",
+      "fullpath": "mastersystem-Battlemaniacs (Brazil)",
+      "name": "Battlemaniacs",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Black Belt (USA, Europe)",
+      "fullpath": "mastersystem-Black Belt (USA, Europe)",
+      "name": "Black Belt",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blade Eagle (World)",
+      "fullpath": "mastersystem-Blade Eagle (World)",
+      "name": "Blade Eagle",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bomber Raid (World)",
+      "fullpath": "mastersystem-Bomber Raid (World)",
+      "name": "Bomber Raid",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bonanza Bros. (Europe) (alt)",
+      "fullpath": "mastersystem-Bonanza Bros. (Europe) (alt)",
+      "name": "Bonanza Bros.",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bonanza Bros. (Europe)",
+      "fullpath": "mastersystem-Bonanza Bros. (Europe)",
+      "name": "Bonanza Bros.",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bonkers Wax Up! (Brazil)",
+      "fullpath": "mastersystem-Bonkers Wax Up! (Brazil)",
+      "name": "Bonkers Wax Up!",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bram Stoker's Dracula (Europe)",
+      "fullpath": "mastersystem-Bram Stoker's Dracula (Europe)",
+      "name": "Bram Stoker's Dracula",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bruce Lee (World) (Unl)",
+      "fullpath": "mastersystem-Bruce Lee (World) (Unl)",
+      "name": "Bruce Lee",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bubble Bobble (Europe)",
+      "fullpath": "mastersystem-Bubble Bobble (Europe)",
+      "name": "Bubble Bobble",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Buggy Run (Europe)",
+      "fullpath": "mastersystem-Buggy Run (Europe)",
+      "name": "Buggy Run",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "California Games (USA, Europe)",
+      "fullpath": "mastersystem-California Games (USA, Europe)",
+      "name": "California Games",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "California Games II (Europe)",
+      "fullpath": "mastersystem-California Games II (Europe)",
+      "name": "California Games II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Captain Silver (USA)",
+      "fullpath": "mastersystem-Captain Silver (USA)",
+      "name": "Captain Silver",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Casino Games (USA, Europe)",
+      "fullpath": "mastersystem-Casino Games (USA, Europe)",
+      "name": "Casino Games",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Castelo Ra-Tim-Bum (Brazil)",
+      "fullpath": "mastersystem-Castelo Ra-Tim-Bum (Brazil)",
+      "name": "Castelo Ra-Tim-Bum",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Castle of Illusion Starring Mickey Mouse (USA)",
+      "fullpath": "mastersystem-Castle of Illusion Starring Mickey Mouse (USA)",
+      "name": "Castle of Illusion Starring Mickey Mouse",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Champions of Europe (Europe)",
+      "fullpath": "mastersystem-Champions of Europe (Europe)",
+      "name": "Champions of Europe",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Championship Hockey (Europe)",
+      "fullpath": "mastersystem-Championship Hockey (Europe)",
+      "name": "Championship Hockey",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chapolim x Dracula - Um Duelo Assustador (Brazil)",
+      "fullpath": "mastersystem-Chapolim x Dracula - Um Duelo Assustador (Brazil)",
+      "name": "Chapolim x Dracula - Um Duelo Assustador",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cheese Cat-astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)",
+      "fullpath": "mastersystem-Cheese Cat-astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)",
+      "name": "Cheese Cat-astrophe Starring Speedy Gonzales",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cheese Cat-astrophe Starring Speedy Gonzales (Europe)",
+      "fullpath": "mastersystem-Cheese Cat-astrophe Starring Speedy Gonzales (Europe)",
+      "name": "Cheese Cat-astrophe Starring Speedy Gonzales",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Choplifter (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Choplifter (USA, Europe) (alt)",
+      "name": "Choplifter",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Choplifter (USA, Europe)",
+      "fullpath": "mastersystem-Choplifter (USA, Europe)",
+      "name": "Choplifter",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chuck Rock (Europe)",
+      "fullpath": "mastersystem-Chuck Rock (Europe)",
+      "name": "Chuck Rock",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chuck Rock II - Son of Chuck (Europe)",
+      "fullpath": "mastersystem-Chuck Rock II - Son of Chuck (Europe)",
+      "name": "Chuck Rock II - Son of Chuck",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cloud Master (USA, Europe)",
+      "fullpath": "mastersystem-Cloud Master (USA, Europe)",
+      "name": "Cloud Master",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Columns (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Columns (USA, Europe) (alt)",
+      "name": "Columns",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Columns (USA, Europe)",
+      "fullpath": "mastersystem-Columns (USA, Europe)",
+      "name": "Columns",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Comical Machine Gun Joe (Japan)",
+      "fullpath": "mastersystem-Comical Machine Gun Joe (Japan)",
+      "name": "Comical Machine Gun Joe",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cool Spot (Europe) (alt)",
+      "fullpath": "mastersystem-Cool Spot (Europe) (alt)",
+      "name": "Cool Spot",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cool Spot (Europe)",
+      "fullpath": "mastersystem-Cool Spot (Europe)",
+      "name": "Cool Spot",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cosmic Spacehead (Europe) (En,Fr,De,Es)",
+      "fullpath": "mastersystem-Cosmic Spacehead (Europe) (En,Fr,De,Es)",
+      "name": "Cosmic Spacehead",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cosmic Spacehead (Europe)",
+      "fullpath": "mastersystem-Cosmic Spacehead (Europe)",
+      "name": "Cosmic Spacehead",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cyber Shinobi, The (Europe)",
+      "fullpath": "mastersystem-Cyber Shinobi, The (Europe)",
+      "name": "Cyber Shinobi, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cyborg Hunter (USA, Europe)",
+      "fullpath": "mastersystem-Cyborg Hunter (USA, Europe)",
+      "name": "Cyborg Hunter",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)",
+      "fullpath": "mastersystem-Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)",
+      "name": "Daffy Duck in Hollywood",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Daffy Duck in Hollywood (Europe)",
+      "fullpath": "mastersystem-Daffy Duck in Hollywood (Europe)",
+      "name": "Daffy Duck in Hollywood",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Danan - The Jungle Fighter (Europe)",
+      "fullpath": "mastersystem-Danan - The Jungle Fighter (Europe)",
+      "name": "Danan - The Jungle Fighter",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dead Angle (USA, Europe)",
+      "fullpath": "mastersystem-Dead Angle (USA, Europe)",
+      "name": "Dead Angle",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Deep Duck Trouble Starring Donald Duck (Europe)",
+      "fullpath": "mastersystem-Deep Duck Trouble Starring Donald Duck (Europe)",
+      "name": "Deep Duck Trouble Starring Donald Duck",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)",
+      "fullpath": "mastersystem-Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)",
+      "name": "Desert Speedtrap Starring Road Runner and Wile E. Coyote",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe)",
+      "fullpath": "mastersystem-Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe)",
+      "name": "Desert Speedtrap Starring Road Runner and Wile E. Coyote",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Desert Strike (Europe) (En,Fr,De,Es)",
+      "fullpath": "mastersystem-Desert Strike (Europe) (En,Fr,De,Es)",
+      "name": "Desert Strike",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Desert Strike (Europe)",
+      "fullpath": "mastersystem-Desert Strike (Europe)",
+      "name": "Desert Strike",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dick Tracy (USA, Europe)",
+      "fullpath": "mastersystem-Dick Tracy (USA, Europe)",
+      "name": "Dick Tracy",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dinobasher - Starring Bignose the Caveman (Europe) (Proto)",
+      "fullpath": "mastersystem-Dinobasher - Starring Bignose the Caveman (Europe) (Proto)",
+      "name": "Dinobasher - Starring Bignose the Caveman",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Double Dragon (World)",
+      "fullpath": "mastersystem-Double Dragon (World)",
+      "name": "Double Dragon",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Double Hawk (Europe)",
+      "fullpath": "mastersystem-Double Hawk (Europe)",
+      "name": "Double Hawk",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dr. Robotnik's Mean Bean Machine (Europe)",
+      "fullpath": "mastersystem-Dr. Robotnik's Mean Bean Machine (Europe)",
+      "name": "Dr. Robotnik's Mean Bean Machine",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dragon - The Bruce Lee Story (Europe)",
+      "fullpath": "mastersystem-Dragon - The Bruce Lee Story (Europe)",
+      "name": "Dragon - The Bruce Lee Story",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dragon Crystal (Europe)",
+      "fullpath": "mastersystem-Dragon Crystal (Europe)",
+      "name": "Dragon Crystal",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dynamite Duke (Europe) (alt)",
+      "fullpath": "mastersystem-Dynamite Duke (Europe) (alt)",
+      "name": "Dynamite Duke",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dynamite Duke (Europe)",
+      "fullpath": "mastersystem-Dynamite Duke (Europe)",
+      "name": "Dynamite Duke",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dynamite Dux (Europe) (alt)",
+      "fullpath": "mastersystem-Dynamite Dux (Europe) (alt)",
+      "name": "Dynamite Dux",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dynamite Dux (Europe)",
+      "fullpath": "mastersystem-Dynamite Dux (Europe)",
+      "name": "Dynamite Dux",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dynamite Headdy (Brazil)",
+      "fullpath": "mastersystem-Dynamite Headdy (Brazil)",
+      "name": "Dynamite Headdy",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "E-SWAT - City Under Siege (USA, Europe) (Hard Version) (alt)",
+      "fullpath": "mastersystem-E-SWAT - City Under Siege (USA, Europe) (Hard Version) (alt)",
+      "name": "E-SWAT - City Under Siege",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "E-SWAT - City Under Siege (USA, Europe) (Hard Version)",
+      "fullpath": "mastersystem-E-SWAT - City Under Siege (USA, Europe) (Hard Version)",
+      "name": "E-SWAT - City Under Siege",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "E-SWAT - City Under Siege (USA, Europe) (alt)",
+      "fullpath": "mastersystem-E-SWAT - City Under Siege (USA, Europe) (alt)",
+      "name": "E-SWAT - City Under Siege",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "E-SWAT - City Under Siege (USA, Europe)",
+      "fullpath": "mastersystem-E-SWAT - City Under Siege (USA, Europe)",
+      "name": "E-SWAT - City Under Siege",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Earthworm Jim (Brazil)",
+      "fullpath": "mastersystem-Earthworm Jim (Brazil)",
+      "name": "Earthworm Jim",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ecco - The Tides of Time (Brazil)",
+      "fullpath": "mastersystem-Ecco - The Tides of Time (Brazil)",
+      "name": "Ecco - The Tides of Time",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ecco the Dolphin (Europe)",
+      "fullpath": "mastersystem-Ecco the Dolphin (Europe)",
+      "name": "Ecco the Dolphin",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Enduro Racer (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Enduro Racer (USA, Europe) (alt)",
+      "name": "Enduro Racer",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Enduro Racer (USA, Europe)",
+      "fullpath": "mastersystem-Enduro Racer (USA, Europe)",
+      "name": "Enduro Racer",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Excellent Dizzy Collection, The (USA, Europe) (En,Fr,De,Es,It) (Proto)",
+      "fullpath": "mastersystem-Excellent Dizzy Collection, The (USA, Europe) (En,Fr,De,Es,It) (Proto)",
+      "name": "Excellent Dizzy Collection, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "F-16 Fighting Falcon (USA)",
+      "fullpath": "mastersystem-F-16 Fighting Falcon (USA)",
+      "name": "F-16 Fighting Falcon",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "F1 (Europe)",
+      "fullpath": "mastersystem-F1 (Europe)",
+      "name": "F1",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "FIFA International Soccer (Brazil)",
+      "fullpath": "mastersystem-FIFA International Soccer (Brazil)",
+      "name": "FIFA International Soccer",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fantastic Dizzy (Europe) (En,Fr,De,Es,It)",
+      "fullpath": "mastersystem-Fantastic Dizzy (Europe) (En,Fr,De,Es,It)",
+      "name": "Fantastic Dizzy",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fantastic Dizzy (Europe)",
+      "fullpath": "mastersystem-Fantastic Dizzy (Europe)",
+      "name": "Fantastic Dizzy",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fantasy Zone (World) (alt)",
+      "fullpath": "mastersystem-Fantasy Zone (World) (alt)",
+      "name": "Fantasy Zone",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fantasy Zone (World) (v1.2) (alt)",
+      "fullpath": "mastersystem-Fantasy Zone (World) (v1.2) (alt)",
+      "name": "Fantasy Zone",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fantasy Zone (World) (v1.2)",
+      "fullpath": "mastersystem-Fantasy Zone (World) (v1.2)",
+      "name": "Fantasy Zone",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fantasy Zone (World)",
+      "fullpath": "mastersystem-Fantasy Zone (World)",
+      "name": "Fantasy Zone",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fantasy Zone - The Maze (USA, Europe)",
+      "fullpath": "mastersystem-Fantasy Zone - The Maze (USA, Europe)",
+      "name": "Fantasy Zone - The Maze",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fantasy Zone II - The Tears of Opa-Opa (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Fantasy Zone II - The Tears of Opa-Opa (USA, Europe) (alt)",
+      "name": "Fantasy Zone II - The Tears of Opa-Opa",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fantasy Zone II - The Tears of Opa-Opa (USA, Europe)",
+      "fullpath": "mastersystem-Fantasy Zone II - The Tears of Opa-Opa (USA, Europe)",
+      "name": "Fantasy Zone II - The Tears of Opa-Opa",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ferias Frustradas do Pica Pau (Brazil)",
+      "fullpath": "mastersystem-Ferias Frustradas do Pica Pau (Brazil)",
+      "name": "Ferias Frustradas do Pica Pau",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fire & Forget II (Europe)",
+      "fullpath": "mastersystem-Fire & Forget II (Europe)",
+      "name": "Fire & Forget II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fire & Ice (Brazil)",
+      "fullpath": "mastersystem-Fire & Ice (Brazil)",
+      "name": "Fire & Ice",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Flash, The (Europe)",
+      "fullpath": "mastersystem-Flash, The (Europe)",
+      "name": "Flash, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Flintstones, The (Europe)",
+      "fullpath": "mastersystem-Flintstones, The (Europe)",
+      "name": "Flintstones, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Forgotten Worlds (Europe)",
+      "fullpath": "mastersystem-Forgotten Worlds (Europe)",
+      "name": "Forgotten Worlds",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "G-LOC Air Battle (Europe)",
+      "fullpath": "mastersystem-G-LOC Air Battle (Europe)",
+      "name": "G-LOC Air Battle",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "GP Rider (Europe)",
+      "fullpath": "mastersystem-GP Rider (Europe)",
+      "name": "GP Rider",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gain Ground (Europe) (alt)",
+      "fullpath": "mastersystem-Gain Ground (Europe) (alt)",
+      "name": "Gain Ground",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gain Ground (Europe)",
+      "fullpath": "mastersystem-Gain Ground (Europe)",
+      "name": "Gain Ground",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Galactic Protector (Japan)",
+      "fullpath": "mastersystem-Galactic Protector (Japan)",
+      "name": "Galactic Protector",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Galaxy Force (USA)",
+      "fullpath": "mastersystem-Galaxy Force (USA)",
+      "name": "Galaxy Force",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gangster Town (USA, Europe)",
+      "fullpath": "mastersystem-Gangster Town (USA, Europe)",
+      "name": "Gangster Town",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gauntlet (Europe)",
+      "fullpath": "mastersystem-Gauntlet (Europe)",
+      "name": "Gauntlet",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "George Foreman's KO Boxing (Europe)",
+      "fullpath": "mastersystem-George Foreman's KO Boxing (Europe)",
+      "name": "George Foreman's KO Boxing",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Geraldinho (Brazil)",
+      "fullpath": "mastersystem-Geraldinho (Brazil)",
+      "name": "Geraldinho",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ghost House (USA, Europe)",
+      "fullpath": "mastersystem-Ghost House (USA, Europe)",
+      "name": "Ghost House",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ghostbusters (USA, Europe)",
+      "fullpath": "mastersystem-Ghostbusters (USA, Europe)",
+      "name": "Ghostbusters",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ghouls'n Ghosts (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Ghouls'n Ghosts (USA, Europe) (alt)",
+      "name": "Ghouls'n Ghosts",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ghouls'n Ghosts (USA, Europe)",
+      "fullpath": "mastersystem-Ghouls'n Ghosts (USA, Europe)",
+      "name": "Ghouls'n Ghosts",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Global Defense (USA, Europe)",
+      "fullpath": "mastersystem-Global Defense (USA, Europe)",
+      "name": "Global Defense",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Global Gladiators (Europe)",
+      "fullpath": "mastersystem-Global Gladiators (Europe)",
+      "name": "Global Gladiators",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Golden Axe (USA, Europe)",
+      "fullpath": "mastersystem-Golden Axe (USA, Europe)",
+      "name": "Golden Axe",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Golden Axe Warrior (USA, Europe)",
+      "fullpath": "mastersystem-Golden Axe Warrior (USA, Europe)",
+      "name": "Golden Axe Warrior",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Golfamania (Europe)",
+      "fullpath": "mastersystem-Golfamania (Europe)",
+      "name": "Golfamania",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Golvellius (USA, Europe)",
+      "fullpath": "mastersystem-Golvellius (USA, Europe)",
+      "name": "Golvellius",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Great Baseball (Japan)",
+      "fullpath": "mastersystem-Great Baseball (Japan)",
+      "name": "Great Baseball",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Great Baseball (USA, Europe)",
+      "fullpath": "mastersystem-Great Baseball (USA, Europe)",
+      "name": "Great Baseball",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Great Basketball (World)",
+      "fullpath": "mastersystem-Great Basketball (World)",
+      "name": "Great Basketball",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Great Football (World)",
+      "fullpath": "mastersystem-Great Football (World)",
+      "name": "Great Football",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Great Golf (Japan)",
+      "fullpath": "mastersystem-Great Golf (Japan)",
+      "name": "Great Golf",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Great Golf (World)",
+      "fullpath": "mastersystem-Great Golf (World)",
+      "name": "Great Golf",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Great Ice Hockey (Japan, USA)",
+      "fullpath": "mastersystem-Great Ice Hockey (Japan, USA)",
+      "name": "Great Ice Hockey",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Great Soccer (Europe)",
+      "fullpath": "mastersystem-Great Soccer (Europe)",
+      "name": "Great Soccer",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Great Soccer (USA)",
+      "fullpath": "mastersystem-Great Soccer (USA)",
+      "name": "Great Soccer",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Great Volleyball (USA, Europe)",
+      "fullpath": "mastersystem-Great Volleyball (USA, Europe)",
+      "name": "Great Volleyball",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hang-On & Astro Warrior (USA)",
+      "fullpath": "mastersystem-Hang-On & Astro Warrior (USA)",
+      "name": "Hang-On & Astro Warrior",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hang-On & Safari Hunt (USA)",
+      "fullpath": "mastersystem-Hang-On & Safari Hunt (USA)",
+      "name": "Hang-On & Safari Hunt",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hang-On (Europe) (alt)",
+      "fullpath": "mastersystem-Hang-On (Europe) (alt)",
+      "name": "Hang-On",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hang-On (Europe)",
+      "fullpath": "mastersystem-Hang-On (Europe)",
+      "name": "Hang-On",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Heavyweight Champ (Europe)",
+      "fullpath": "mastersystem-Heavyweight Champ (Europe)",
+      "name": "Heavyweight Champ",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Heroes of the Lance (Europe)",
+      "fullpath": "mastersystem-Heroes of the Lance (Europe)",
+      "name": "Heroes of the Lance",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "High School! Kimengumi (Japan) (Translated En)",
+      "fullpath": "mastersystem-High School! Kimengumi (Japan) (Translated En)",
+      "name": "High School! Kimengumi",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hokuto no Ken (Japan)",
+      "fullpath": "mastersystem-Hokuto no Ken (Japan)",
+      "name": "Hokuto no Ken",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Home Alone (Europe)",
+      "fullpath": "mastersystem-Home Alone (Europe)",
+      "name": "Home Alone",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hook (Europe) (Proto)",
+      "fullpath": "mastersystem-Hook (Europe) (Proto)",
+      "name": "Hook",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hoshi wo Sagasite... (Japan) (Translated En)",
+      "fullpath": "mastersystem-Hoshi wo Sagasite... (Japan) (Translated En)",
+      "name": "Hoshi wo Sagasite...",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Impossible Mission (Europe)",
+      "fullpath": "mastersystem-Impossible Mission (Europe)",
+      "name": "Impossible Mission",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Incredible Crash Dummies, The (Europe)",
+      "fullpath": "mastersystem-Incredible Crash Dummies, The (Europe)",
+      "name": "Incredible Crash Dummies, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Incredible Hulk, The (Europe)",
+      "fullpath": "mastersystem-Incredible Hulk, The (Europe)",
+      "name": "Incredible Hulk, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Indiana Jones and the Last Crusade (Europe)",
+      "fullpath": "mastersystem-Indiana Jones and the Last Crusade (Europe)",
+      "name": "Indiana Jones and the Last Crusade",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "James 'Buster' Douglas Knockout Boxing (USA)",
+      "fullpath": "mastersystem-James 'Buster' Douglas Knockout Boxing (USA)",
+      "name": "James 'Buster' Douglas Knockout Boxing",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "James Bond 007 - The Duel (Europe)",
+      "fullpath": "mastersystem-James Bond 007 - The Duel (Europe)",
+      "name": "James Bond 007 - The Duel",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "James Pond 2 - Codename RoboCod (Europe)",
+      "fullpath": "mastersystem-James Pond 2 - Codename RoboCod (Europe)",
+      "name": "James Pond 2 - Codename RoboCod",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Joe Montana Football (USA, Europe)",
+      "fullpath": "mastersystem-Joe Montana Football (USA, Europe)",
+      "name": "Joe Montana Football",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Jungle Book, The (Europe)",
+      "fullpath": "mastersystem-Jungle Book, The (Europe)",
+      "name": "Jungle Book, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Jurassic Park (Europe)",
+      "fullpath": "mastersystem-Jurassic Park (Europe)",
+      "name": "Jurassic Park",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kenseiden (USA, Europe)",
+      "fullpath": "mastersystem-Kenseiden (USA, Europe)",
+      "name": "Kenseiden",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King's Quest - Quest for the Crown (USA)",
+      "fullpath": "mastersystem-King's Quest - Quest for the Crown (USA)",
+      "name": "King's Quest - Quest for the Crown",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Klax (Europe)",
+      "fullpath": "mastersystem-Klax (Europe)",
+      "name": "Klax",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Krusty's Fun House (Europe)",
+      "fullpath": "mastersystem-Krusty's Fun House (Europe)",
+      "name": "Krusty's Fun House",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kung Fu Kid (USA, Europe)",
+      "fullpath": "mastersystem-Kung Fu Kid (USA, Europe)",
+      "name": "Kung Fu Kid",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Land of Illusion Starring Mickey Mouse (Europe)",
+      "fullpath": "mastersystem-Land of Illusion Starring Mickey Mouse (Europe)",
+      "name": "Land of Illusion Starring Mickey Mouse",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lander 2 (World) (Unl)",
+      "fullpath": "mastersystem-Lander 2 (World) (Unl)",
+      "name": "Lander 2",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Laser Ghost (Europe)",
+      "fullpath": "mastersystem-Laser Ghost (Europe)",
+      "name": "Laser Ghost",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Legend of Illusion Starring Mickey Mouse (Brazil)",
+      "fullpath": "mastersystem-Legend of Illusion Starring Mickey Mouse (Brazil)",
+      "name": "Legend of Illusion Starring Mickey Mouse",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lemmings (Europe)",
+      "fullpath": "mastersystem-Lemmings (Europe)",
+      "name": "Lemmings",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lemmings 2 - The Tribes (World) (Proto)",
+      "fullpath": "mastersystem-Lemmings 2 - The Tribes (World) (Proto)",
+      "name": "Lemmings 2 - The Tribes",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Line of Fire (Europe)",
+      "fullpath": "mastersystem-Line of Fire (Europe)",
+      "name": "Line of Fire",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lion King, The (Europe)",
+      "fullpath": "mastersystem-Lion King, The (Europe)",
+      "name": "Lion King, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lord of the Sword (USA, Europe)",
+      "fullpath": "mastersystem-Lord of the Sword (USA, Europe)",
+      "name": "Lord of the Sword",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lucky Dime Caper Starring Donald Duck, The (Europe)",
+      "fullpath": "mastersystem-Lucky Dime Caper Starring Donald Duck, The (Europe)",
+      "name": "Lucky Dime Caper Starring Donald Duck, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mahjong Sengoku Jidai (Japan)",
+      "fullpath": "mastersystem-Mahjong Sengoku Jidai (Japan)",
+      "name": "Mahjong Sengoku Jidai",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Marble Madness (Europe) (alt)",
+      "fullpath": "mastersystem-Marble Madness (Europe) (alt)",
+      "name": "Marble Madness",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Marble Madness (Europe)",
+      "fullpath": "mastersystem-Marble Madness (Europe)",
+      "name": "Marble Madness",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Marksman Shooting & Trap Shooting & Safari Hunt (Europe)",
+      "fullpath": "mastersystem-Marksman Shooting & Trap Shooting & Safari Hunt (Europe)",
+      "name": "Marksman Shooting & Trap Shooting & Safari Hunt",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Marksman Shooting & Trap Shooting (USA)",
+      "fullpath": "mastersystem-Marksman Shooting & Trap Shooting (USA)",
+      "name": "Marksman Shooting & Trap Shooting",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Master of Darkness (Europe)",
+      "fullpath": "mastersystem-Master of Darkness (Europe)",
+      "name": "Master of Darkness",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Masters of Combat (Europe)",
+      "fullpath": "mastersystem-Masters of Combat (Europe)",
+      "name": "Masters of Combat",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Maze Hunter 3-D (USA, Europe)",
+      "fullpath": "mastersystem-Maze Hunter 3-D (USA, Europe)",
+      "name": "Maze Hunter 3-D",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Megumi Rescue (Japan)",
+      "fullpath": "mastersystem-Megumi Rescue (Japan)",
+      "name": "Megumi Rescue",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mercs (Europe)",
+      "fullpath": "mastersystem-Mercs (Europe)",
+      "name": "Mercs",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Michael Jackson's Moonwalker (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Michael Jackson's Moonwalker (USA, Europe) (alt)",
+      "name": "Michael Jackson's Moonwalker",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Michael Jackson's Moonwalker (USA, Europe)",
+      "fullpath": "mastersystem-Michael Jackson's Moonwalker (USA, Europe)",
+      "name": "Michael Jackson's Moonwalker",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mick & Mack as the Global Gladiators (Europe)",
+      "fullpath": "mastersystem-Mick & Mack as the Global Gladiators (Europe)",
+      "name": "Mick & Mack as the Global Gladiators",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mickey's Ultimate Challenge (Brazil)",
+      "fullpath": "mastersystem-Mickey's Ultimate Challenge (Brazil)",
+      "name": "Mickey's Ultimate Challenge",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Micro Machines (Europe)",
+      "fullpath": "mastersystem-Micro Machines (Europe)",
+      "name": "Micro Machines",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Miracle Warriors - Seal of the Dark Lord (USA, Europe)",
+      "fullpath": "mastersystem-Miracle Warriors - Seal of the Dark Lord (USA, Europe)",
+      "name": "Miracle Warriors - Seal of the Dark Lord",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Missile Defense 3-D (USA, Europe)",
+      "fullpath": "mastersystem-Missile Defense 3-D (USA, Europe)",
+      "name": "Missile Defense 3-D",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Monica no Castelo do Dragao (Brazil)",
+      "fullpath": "mastersystem-Monica no Castelo do Dragao (Brazil)",
+      "name": "Monica no Castelo do Dragao",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Monopoly (USA)",
+      "fullpath": "mastersystem-Monopoly (USA)",
+      "name": "Monopoly",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Montezuma's Revenge Featuring Panama Joe (USA)",
+      "fullpath": "mastersystem-Montezuma's Revenge Featuring Panama Joe (USA)",
+      "name": "Montezuma's Revenge Featuring Panama Joe",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mortal Kombat (Europe) (alt)",
+      "fullpath": "mastersystem-Mortal Kombat (Europe) (alt)",
+      "name": "Mortal Kombat",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mortal Kombat (Europe)",
+      "fullpath": "mastersystem-Mortal Kombat (Europe)",
+      "name": "Mortal Kombat",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mortal Kombat 3 (Brazil) (alt)",
+      "fullpath": "mastersystem-Mortal Kombat 3 (Brazil) (alt)",
+      "name": "Mortal Kombat 3",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mortal Kombat 3 (Brazil)",
+      "fullpath": "mastersystem-Mortal Kombat 3 (Brazil)",
+      "name": "Mortal Kombat 3",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mortal Kombat II (Europe)",
+      "fullpath": "mastersystem-Mortal Kombat II (Europe)",
+      "name": "Mortal Kombat II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ms. Pac-Man (Europe) (alt)",
+      "fullpath": "mastersystem-Ms. Pac-Man (Europe) (alt)",
+      "name": "Ms. Pac-Man",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ms. Pac-Man (Europe)",
+      "fullpath": "mastersystem-Ms. Pac-Man (Europe)",
+      "name": "Ms. Pac-Man",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "My Hero (USA, Europe)",
+      "fullpath": "mastersystem-My Hero (USA, Europe)",
+      "name": "My Hero",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NBA Jam (Europe) (Proto) (alt)",
+      "fullpath": "mastersystem-NBA Jam (Europe) (Proto) (alt)",
+      "name": "NBA Jam",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NBA Jam (Europe) (Proto)",
+      "fullpath": "mastersystem-NBA Jam (Europe) (Proto)",
+      "name": "NBA Jam",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Nekkyuu Koushien (Japan)",
+      "fullpath": "mastersystem-Nekkyuu Koushien (Japan)",
+      "name": "Nekkyuu Koushien",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "New Zealand Story, The (Europe)",
+      "fullpath": "mastersystem-New Zealand Story, The (Europe)",
+      "name": "New Zealand Story, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Gaiden (Europe) (alt)",
+      "fullpath": "mastersystem-Ninja Gaiden (Europe) (alt)",
+      "name": "Ninja Gaiden",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Gaiden (Europe)",
+      "fullpath": "mastersystem-Ninja Gaiden (Europe)",
+      "name": "Ninja Gaiden",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja, The (USA, Europe)",
+      "fullpath": "mastersystem-Ninja, The (USA, Europe)",
+      "name": "Ninja, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv) (alt)",
+      "fullpath": "mastersystem-Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv) (alt)",
+      "name": "Olympic Gold",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "fullpath": "mastersystem-Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "name": "Olympic Gold",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Olympic Gold (Europe) (alt)",
+      "fullpath": "mastersystem-Olympic Gold (Europe) (alt)",
+      "name": "Olympic Gold",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Olympic Gold (Europe)",
+      "fullpath": "mastersystem-Olympic Gold (Europe)",
+      "name": "Olympic Gold",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Operation Wolf (Europe)",
+      "fullpath": "mastersystem-Operation Wolf (Europe)",
+      "name": "Operation Wolf",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ottifants, The (Europe) (En,Fr,De,Es,It)",
+      "fullpath": "mastersystem-Ottifants, The (Europe) (En,Fr,De,Es,It)",
+      "name": "Ottifants, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ottifants, The (Europe)",
+      "fullpath": "mastersystem-Ottifants, The (Europe)",
+      "name": "Ottifants, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "OutRun (World) (alt)",
+      "fullpath": "mastersystem-OutRun (World) (alt)",
+      "name": "OutRun",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "OutRun (World)",
+      "fullpath": "mastersystem-OutRun (World)",
+      "name": "OutRun",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "OutRun 3-D (Europe)",
+      "fullpath": "mastersystem-OutRun 3-D (Europe)",
+      "name": "OutRun 3-D",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "OutRun Europa (Europe)",
+      "fullpath": "mastersystem-OutRun Europa (Europe)",
+      "name": "OutRun Europa",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "PGA Tour Golf (Europe)",
+      "fullpath": "mastersystem-PGA Tour Golf (Europe)",
+      "name": "PGA Tour Golf",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pac-Mania (Europe) (alt)",
+      "fullpath": "mastersystem-Pac-Mania (Europe) (alt)",
+      "name": "Pac-Mania",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pac-Mania (Europe)",
+      "fullpath": "mastersystem-Pac-Mania (Europe)",
+      "name": "Pac-Mania",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Paperboy (USA) (alt)",
+      "fullpath": "mastersystem-Paperboy (USA) (alt)",
+      "name": "Paperboy",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Paperboy (USA)",
+      "fullpath": "mastersystem-Paperboy (USA)",
+      "name": "Paperboy",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Parlour Games (USA, Europe)",
+      "fullpath": "mastersystem-Parlour Games (USA, Europe)",
+      "name": "Parlour Games",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pat Riley Basketball (USA) (Proto)",
+      "fullpath": "mastersystem-Pat Riley Basketball (USA) (Proto)",
+      "name": "Pat Riley Basketball",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Penguin Land (USA, Europe)",
+      "fullpath": "mastersystem-Penguin Land (USA, Europe)",
+      "name": "Penguin Land",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Phantasy Star (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Phantasy Star (USA, Europe) (alt)",
+      "name": "Phantasy Star",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Phantasy Star (USA, Europe) (v1.3) (alt)",
+      "fullpath": "mastersystem-Phantasy Star (USA, Europe) (v1.3) (alt)",
+      "name": "Phantasy Star",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Phantasy Star (USA, Europe) (v1.3)",
+      "fullpath": "mastersystem-Phantasy Star (USA, Europe) (v1.3)",
+      "name": "Phantasy Star",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Phantasy Star (USA, Europe)",
+      "fullpath": "mastersystem-Phantasy Star (USA, Europe)",
+      "name": "Phantasy Star",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pit Fighter (Europe)",
+      "fullpath": "mastersystem-Pit Fighter (Europe)",
+      "name": "Pit Fighter",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Populous (Europe)",
+      "fullpath": "mastersystem-Populous (Europe)",
+      "name": "Populous",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Poseidon Wars 3-D (USA, Europe)",
+      "fullpath": "mastersystem-Poseidon Wars 3-D (USA, Europe)",
+      "name": "Poseidon Wars 3-D",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Power Strike (USA, Europe)",
+      "fullpath": "mastersystem-Power Strike (USA, Europe)",
+      "name": "Power Strike",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Power Strike II (Europe)",
+      "fullpath": "mastersystem-Power Strike II (Europe)",
+      "name": "Power Strike II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Predator 2 (Europe)",
+      "fullpath": "mastersystem-Predator 2 (Europe)",
+      "name": "Predator 2",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Prince of Persia (Europe)",
+      "fullpath": "mastersystem-Prince of Persia (Europe)",
+      "name": "Prince of Persia",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pro Wrestling (USA, Europe)",
+      "fullpath": "mastersystem-Pro Wrestling (USA, Europe)",
+      "name": "Pro Wrestling",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pro Yakyuu Pennant Race, The (Japan)",
+      "fullpath": "mastersystem-Pro Yakyuu Pennant Race, The (Japan)",
+      "name": "Pro Yakyuu Pennant Race, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Psychic World (Europe)",
+      "fullpath": "mastersystem-Psychic World (Europe)",
+      "name": "Psychic World",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Psycho Fox (USA, Europe)",
+      "fullpath": "mastersystem-Psycho Fox (USA, Europe)",
+      "name": "Psycho Fox",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Putt & Putter (Europe)",
+      "fullpath": "mastersystem-Putt & Putter (Europe)",
+      "name": "Putt & Putter",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Quartet (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Quartet (USA, Europe) (alt)",
+      "name": "Quartet",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Quartet (USA, Europe)",
+      "fullpath": "mastersystem-Quartet (USA, Europe)",
+      "name": "Quartet",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil)",
+      "fullpath": "mastersystem-Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil)",
+      "name": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "R-Type (World)",
+      "fullpath": "mastersystem-R-Type (World)",
+      "name": "R-Type",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "R.C. Grand Prix (USA, Europe)",
+      "fullpath": "mastersystem-R.C. Grand Prix (USA, Europe)",
+      "name": "R.C. Grand Prix",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rainbow Islands - The Story of Bubble Bobble 2 (Europe)",
+      "fullpath": "mastersystem-Rainbow Islands - The Story of Bubble Bobble 2 (Europe)",
+      "name": "Rainbow Islands - The Story of Bubble Bobble 2",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rambo - First Blood Part II (USA)",
+      "fullpath": "mastersystem-Rambo - First Blood Part II (USA)",
+      "name": "Rambo - First Blood Part II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rambo III (USA, Europe)",
+      "fullpath": "mastersystem-Rambo III (USA, Europe)",
+      "name": "Rambo III",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rampage (USA, Europe)",
+      "fullpath": "mastersystem-Rampage (USA, Europe)",
+      "name": "Rampage",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rampart (Europe)",
+      "fullpath": "mastersystem-Rampart (Europe)",
+      "name": "Rampart",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rastan (USA, Europe)",
+      "fullpath": "mastersystem-Rastan (USA, Europe)",
+      "name": "Rastan",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Reggie Jackson Baseball (USA)",
+      "fullpath": "mastersystem-Reggie Jackson Baseball (USA)",
+      "name": "Reggie Jackson Baseball",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Renegade (Europe)",
+      "fullpath": "mastersystem-Renegade (Europe)",
+      "name": "Renegade",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rescue Mission (USA, Europe)",
+      "fullpath": "mastersystem-Rescue Mission (USA, Europe)",
+      "name": "Rescue Mission",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Road Rash (Europe)",
+      "fullpath": "mastersystem-Road Rash (Europe)",
+      "name": "Road Rash",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "RoboCop 3 (Europe)",
+      "fullpath": "mastersystem-RoboCop 3 (Europe)",
+      "name": "RoboCop 3",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "RoboCop versus The Terminator (Europe)",
+      "fullpath": "mastersystem-RoboCop versus The Terminator (Europe)",
+      "name": "RoboCop versus The Terminator",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rocky (World)",
+      "fullpath": "mastersystem-Rocky (World)",
+      "name": "Rocky",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Running Battle (Europe)",
+      "fullpath": "mastersystem-Running Battle (Europe)",
+      "name": "Running Battle",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sagaia (Europe)",
+      "fullpath": "mastersystem-Sagaia (Europe)",
+      "name": "Sagaia",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sapo Xule - O Mestre do Kung Fu (Brazil)",
+      "fullpath": "mastersystem-Sapo Xule - O Mestre do Kung Fu (Brazil)",
+      "name": "Sapo Xule - O Mestre do Kung Fu",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sapo Xule - S.O.S Lagoa Poluida (Brazil)",
+      "fullpath": "mastersystem-Sapo Xule - S.O.S Lagoa Poluida (Brazil)",
+      "name": "Sapo Xule - S.O.S Lagoa Poluida",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sapo Xule vs. Os Invasores do Brejo (Brazil)",
+      "fullpath": "mastersystem-Sapo Xule vs. Os Invasores do Brejo (Brazil)",
+      "name": "Sapo Xule vs. Os Invasores do Brejo",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Satellite 7 (Japan)",
+      "fullpath": "mastersystem-Satellite 7 (Japan)",
+      "name": "Satellite 7",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Scramble Spirits (Europe) (alt)",
+      "fullpath": "mastersystem-Scramble Spirits (Europe) (alt)",
+      "name": "Scramble Spirits",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Scramble Spirits (Europe)",
+      "fullpath": "mastersystem-Scramble Spirits (Europe)",
+      "name": "Scramble Spirits",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sega Chess (Europe)",
+      "fullpath": "mastersystem-Sega Chess (Europe)",
+      "name": "Sega Chess",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sega World Tournament Golf (Europe)",
+      "fullpath": "mastersystem-Sega World Tournament Golf (Europe)",
+      "name": "Sega World Tournament Golf",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sensible Soccer (Europe)",
+      "fullpath": "mastersystem-Sensible Soccer (Europe)",
+      "name": "Sensible Soccer",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shadow Dancer (Europe) (alt)",
+      "fullpath": "mastersystem-Shadow Dancer (Europe) (alt)",
+      "name": "Shadow Dancer",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shadow Dancer (Europe)",
+      "fullpath": "mastersystem-Shadow Dancer (Europe)",
+      "name": "Shadow Dancer",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shadow of the Beast (Europe)",
+      "fullpath": "mastersystem-Shadow of the Beast (Europe)",
+      "name": "Shadow of the Beast",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shanghai (USA, Europe)",
+      "fullpath": "mastersystem-Shanghai (USA, Europe)",
+      "name": "Shanghai",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shinobi (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Shinobi (USA, Europe) (alt)",
+      "name": "Shinobi",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shinobi (USA, Europe)",
+      "fullpath": "mastersystem-Shinobi (USA, Europe)",
+      "name": "Shinobi",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shooting Gallery (USA, Europe)",
+      "fullpath": "mastersystem-Shooting Gallery (USA, Europe)",
+      "name": "Shooting Gallery",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Simpsons, The - Bart vs. The Space Mutants (Europe)",
+      "fullpath": "mastersystem-Simpsons, The - Bart vs. The Space Mutants (Europe)",
+      "name": "Simpsons, The - Bart vs. The Space Mutants",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Simpsons, The - Bart vs. The World (Europe)",
+      "fullpath": "mastersystem-Simpsons, The - Bart vs. The World (Europe)",
+      "name": "Simpsons, The - Bart vs. The World",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sitio do Picapau Amarelo (Brazil)",
+      "fullpath": "mastersystem-Sitio do Picapau Amarelo (Brazil)",
+      "name": "Sitio do Picapau Amarelo",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slap Shot (USA) (v1.1)",
+      "fullpath": "mastersystem-Slap Shot (USA) (v1.1)",
+      "name": "Slap Shot",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slap Shot (USA)",
+      "fullpath": "mastersystem-Slap Shot (USA)",
+      "name": "Slap Shot",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Smurfs Travel the World, The (Europe)",
+      "fullpath": "mastersystem-Smurfs Travel the World, The (Europe)",
+      "name": "Smurfs Travel the World, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Smurfs, The (Europe) (En,Fr,De,Es)",
+      "fullpath": "mastersystem-Smurfs, The (Europe) (En,Fr,De,Es)",
+      "name": "Smurfs, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Smurfs, The (Europe)",
+      "fullpath": "mastersystem-Smurfs, The (Europe)",
+      "name": "Smurfs, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Solomon no Kagi - Oujo Rihita no Namida (Japan)",
+      "fullpath": "mastersystem-Solomon no Kagi - Oujo Rihita no Namida (Japan)",
+      "name": "Solomon no Kagi - Oujo Rihita no Namida",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic Blast (Brazil)",
+      "fullpath": "mastersystem-Sonic Blast (Brazil)",
+      "name": "Sonic Blast",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic Chaos (Europe)",
+      "fullpath": "mastersystem-Sonic Chaos (Europe)",
+      "name": "Sonic Chaos",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic Edusoft (USA) (Proto)",
+      "fullpath": "mastersystem-Sonic Edusoft (USA) (Proto)",
+      "name": "Sonic Edusoft",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic Spinball (Europe)",
+      "fullpath": "mastersystem-Sonic Spinball (Europe)",
+      "name": "Sonic Spinball",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic The Hedgehog (USA, Europe)",
+      "fullpath": "mastersystem-Sonic The Hedgehog (USA, Europe)",
+      "name": "Sonic The Hedgehog",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic The Hedgehog 2 (Europe) (v1.1)",
+      "fullpath": "mastersystem-Sonic The Hedgehog 2 (Europe) (v1.1)",
+      "name": "Sonic The Hedgehog 2",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic The Hedgehog 2 (Europe)",
+      "fullpath": "mastersystem-Sonic The Hedgehog 2 (Europe)",
+      "name": "Sonic The Hedgehog 2",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Gun (Europe)",
+      "fullpath": "mastersystem-Space Gun (Europe)",
+      "name": "Space Gun",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Harrier (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Space Harrier (USA, Europe) (alt)",
+      "name": "Space Harrier",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Harrier (USA, Europe)",
+      "fullpath": "mastersystem-Space Harrier (USA, Europe)",
+      "name": "Space Harrier",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Space Harrier 3-D (USA, Europe)",
+      "fullpath": "mastersystem-Space Harrier 3-D (USA, Europe)",
+      "name": "Space Harrier 3-D",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Special Criminal Investigation (Europe)",
+      "fullpath": "mastersystem-Special Criminal Investigation (Europe)",
+      "name": "Special Criminal Investigation",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Speedball (Europe) (Virgin)",
+      "fullpath": "mastersystem-Speedball (Europe) (Virgin)",
+      "name": "Speedball",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Speedball (Europe)",
+      "fullpath": "mastersystem-Speedball (Europe)",
+      "name": "Speedball",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Speedball 2 (Europe)",
+      "fullpath": "mastersystem-Speedball 2 (Europe)",
+      "name": "Speedball 2",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SpellCaster (USA, Europe)",
+      "fullpath": "mastersystem-SpellCaster (USA, Europe)",
+      "name": "SpellCaster",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Spider-Man - Return of the Sinister Six (Europe)",
+      "fullpath": "mastersystem-Spider-Man - Return of the Sinister Six (Europe)",
+      "name": "Spider-Man - Return of the Sinister Six",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Spider-Man vs. The Kingpin (USA, Europe)",
+      "fullpath": "mastersystem-Spider-Man vs. The Kingpin (USA, Europe)",
+      "name": "Spider-Man vs. The Kingpin",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sports Pad Football (USA)",
+      "fullpath": "mastersystem-Sports Pad Football (USA)",
+      "name": "Sports Pad Football",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Spy vs. Spy (USA, Europe)",
+      "fullpath": "mastersystem-Spy vs. Spy (USA, Europe)",
+      "name": "Spy vs. Spy",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Wars (Europe)",
+      "fullpath": "mastersystem-Star Wars (Europe)",
+      "name": "Star Wars",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Street Fighter II (Brazil)",
+      "fullpath": "mastersystem-Street Fighter II (Brazil)",
+      "name": "Street Fighter II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Streets of Rage (Europe)",
+      "fullpath": "mastersystem-Streets of Rage (Europe)",
+      "name": "Streets of Rage",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Streets of Rage II (Europe)",
+      "fullpath": "mastersystem-Streets of Rage II (Europe)",
+      "name": "Streets of Rage II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Strider (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Strider (USA, Europe) (alt)",
+      "name": "Strider",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Strider (USA, Europe)",
+      "fullpath": "mastersystem-Strider (USA, Europe)",
+      "name": "Strider",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Strider II (Europe)",
+      "fullpath": "mastersystem-Strider II (Europe)",
+      "name": "Strider II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Submarine Attack (Europe)",
+      "fullpath": "mastersystem-Submarine Attack (Europe)",
+      "name": "Submarine Attack",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En)",
+      "fullpath": "mastersystem-Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En)",
+      "name": "Sukeban Deka II - Shoujo Tekkamen Densetsu",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Summer Games (Europe)",
+      "fullpath": "mastersystem-Summer Games (Europe)",
+      "name": "Summer Games",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "fullpath": "mastersystem-Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "name": "Super Kick Off",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Kick Off (Europe)",
+      "fullpath": "mastersystem-Super Kick Off (Europe)",
+      "name": "Super Kick Off",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Monaco GP (USA)",
+      "fullpath": "mastersystem-Super Monaco GP (USA)",
+      "name": "Super Monaco GP",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Off Road (Europe)",
+      "fullpath": "mastersystem-Super Off Road (Europe)",
+      "name": "Super Off Road",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Racing (Japan)",
+      "fullpath": "mastersystem-Super Racing (Japan)",
+      "name": "Super Racing",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Smash T.V. (Europe)",
+      "fullpath": "mastersystem-Super Smash T.V. (Europe)",
+      "name": "Super Smash T.V.",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Space Invaders (Europe)",
+      "fullpath": "mastersystem-Super Space Invaders (Europe)",
+      "name": "Super Space Invaders",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Tennis (USA, Europe)",
+      "fullpath": "mastersystem-Super Tennis (USA, Europe)",
+      "name": "Super Tennis",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Superman - The Man of Steel (Europe)",
+      "fullpath": "mastersystem-Superman - The Man of Steel (Europe)",
+      "name": "Superman - The Man of Steel",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "T2 - The Arcade Game (Europe)",
+      "fullpath": "mastersystem-T2 - The Arcade Game (Europe)",
+      "name": "T2 - The Arcade Game",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TV Colosso (Brazil)",
+      "fullpath": "mastersystem-TV Colosso (Brazil)",
+      "name": "TV Colosso",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Taito Chase H.Q. (Europe) (alt)",
+      "fullpath": "mastersystem-Taito Chase H.Q. (Europe) (alt)",
+      "name": "Taito Chase H.Q.",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Taito Chase H.Q. (Europe)",
+      "fullpath": "mastersystem-Taito Chase H.Q. (Europe)",
+      "name": "Taito Chase H.Q.",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Taz in Escape from Mars (Brazil)",
+      "fullpath": "mastersystem-Taz in Escape from Mars (Brazil)",
+      "name": "Taz in Escape from Mars",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Taz-Mania (Europe)",
+      "fullpath": "mastersystem-Taz-Mania (Europe)",
+      "name": "Taz-Mania",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tecmo World Cup '93 (Europe)",
+      "fullpath": "mastersystem-Tecmo World Cup '93 (Europe)",
+      "name": "Tecmo World Cup '93",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Teddy Boy (USA, Europe)",
+      "fullpath": "mastersystem-Teddy Boy (USA, Europe)",
+      "name": "Teddy Boy",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tennis Ace (Europe)",
+      "fullpath": "mastersystem-Tennis Ace (Europe)",
+      "name": "Tennis Ace",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Terminator 2 - Judgment Day (Europe)",
+      "fullpath": "mastersystem-Terminator 2 - Judgment Day (Europe)",
+      "name": "Terminator 2 - Judgment Day",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Terminator, The (Europe)",
+      "fullpath": "mastersystem-Terminator, The (Europe)",
+      "name": "Terminator, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Thunder Blade (USA, Europe) (alt)",
+      "fullpath": "mastersystem-Thunder Blade (USA, Europe) (alt)",
+      "name": "Thunder Blade",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Thunder Blade (USA, Europe)",
+      "fullpath": "mastersystem-Thunder Blade (USA, Europe)",
+      "name": "Thunder Blade",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Soldiers (USA, Europe)",
+      "fullpath": "mastersystem-Time Soldiers (USA, Europe)",
+      "name": "Time Soldiers",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tom and Jerry - The Movie (Europe)",
+      "fullpath": "mastersystem-Tom and Jerry - The Movie (Europe)",
+      "name": "Tom and Jerry - The Movie",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TransBot (USA, Europe)",
+      "fullpath": "mastersystem-TransBot (USA, Europe)",
+      "name": "TransBot",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es)",
+      "fullpath": "mastersystem-Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es)",
+      "name": "Trivial Pursuit - Genus Edition",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Trivial Pursuit - Genus Edition (Europe)",
+      "fullpath": "mastersystem-Trivial Pursuit - Genus Edition (Europe)",
+      "name": "Trivial Pursuit - Genus Edition",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Turma da Monica em O Resgate (Brazil)",
+      "fullpath": "mastersystem-Turma da Monica em O Resgate (Brazil)",
+      "name": "Turma da Monica em O Resgate",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ultima IV - Quest of the Avatar (Europe)",
+      "fullpath": "mastersystem-Ultima IV - Quest of the Avatar (Europe)",
+      "name": "Ultima IV - Quest of the Avatar",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ultimate Soccer (Europe) (En,Fr,De,Es,It)",
+      "fullpath": "mastersystem-Ultimate Soccer (Europe) (En,Fr,De,Es,It)",
+      "name": "Ultimate Soccer",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ultimate Soccer (Europe)",
+      "fullpath": "mastersystem-Ultimate Soccer (Europe)",
+      "name": "Ultimate Soccer",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Vigilante (USA, Europe)",
+      "fullpath": "mastersystem-Vigilante (USA, Europe)",
+      "name": "Vigilante",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Virtua Fighter Animation (Brazil)",
+      "fullpath": "mastersystem-Virtua Fighter Animation (Brazil)",
+      "name": "Virtua Fighter Animation",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "WWF Wrestlemania - Steel Cage Challenge (Europe)",
+      "fullpath": "mastersystem-WWF Wrestlemania - Steel Cage Challenge (Europe)",
+      "name": "WWF Wrestlemania - Steel Cage Challenge",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Walter Payton Football (USA)",
+      "fullpath": "mastersystem-Walter Payton Football (USA)",
+      "name": "Walter Payton Football",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wanted (USA, Europe)",
+      "fullpath": "mastersystem-Wanted (USA, Europe)",
+      "name": "Wanted",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Where in the World is Carmen Sandiego (USA)",
+      "fullpath": "mastersystem-Where in the World is Carmen Sandiego (USA)",
+      "name": "Where in the World is Carmen Sandiego",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wimbledon (Europe)",
+      "fullpath": "mastersystem-Wimbledon (Europe)",
+      "name": "Wimbledon",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wimbledon II (Europe)",
+      "fullpath": "mastersystem-Wimbledon II (Europe)",
+      "name": "Wimbledon II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Winter Olympics - Lillehammer '94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)",
+      "fullpath": "mastersystem-Winter Olympics - Lillehammer '94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)",
+      "name": "Winter Olympics - Lillehammer '94",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Winter Olympics - Lillehammer '94 (Europe)",
+      "fullpath": "mastersystem-Winter Olympics - Lillehammer '94 (Europe)",
+      "name": "Winter Olympics - Lillehammer '94",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wolfchild (Europe) (alt)",
+      "fullpath": "mastersystem-Wolfchild (Europe) (alt)",
+      "name": "Wolfchild",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wolfchild (Europe)",
+      "fullpath": "mastersystem-Wolfchild (Europe)",
+      "name": "Wolfchild",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wonder Boy (USA, Europe)",
+      "fullpath": "mastersystem-Wonder Boy (USA, Europe)",
+      "name": "Wonder Boy",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wonder Boy III - The Dragon's Trap (USA, Europe)",
+      "fullpath": "mastersystem-Wonder Boy III - The Dragon's Trap (USA, Europe)",
+      "name": "Wonder Boy III - The Dragon's Trap",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wonder Boy in Monster Land (USA, Europe)",
+      "fullpath": "mastersystem-Wonder Boy in Monster Land (USA, Europe)",
+      "name": "Wonder Boy in Monster Land",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wonder Boy in Monster World (Europe)",
+      "fullpath": "mastersystem-Wonder Boy in Monster World (Europe)",
+      "name": "Wonder Boy in Monster World",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Woody Pop - Shinjinrui no Block Kuzushi (Japan)",
+      "fullpath": "mastersystem-Woody Pop - Shinjinrui no Block Kuzushi (Japan)",
+      "name": "Woody Pop - Shinjinrui no Block Kuzushi",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Class Leader Board (Europe)",
+      "fullpath": "mastersystem-World Class Leader Board (Europe)",
+      "name": "World Class Leader Board",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Cup Italia '90 (Europe)",
+      "fullpath": "mastersystem-World Cup Italia '90 (Europe)",
+      "name": "World Cup Italia '90",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "fullpath": "mastersystem-World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "name": "World Cup USA 94",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Cup USA 94 (Europe)",
+      "fullpath": "mastersystem-World Cup USA 94 (Europe)",
+      "name": "World Cup USA 94",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Games (Europe)",
+      "fullpath": "mastersystem-World Games (Europe)",
+      "name": "World Games",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Grand Prix (USA)",
+      "fullpath": "mastersystem-World Grand Prix (USA)",
+      "name": "World Grand Prix",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "X-Men - Mojo World (Brazil)",
+      "fullpath": "mastersystem-X-Men - Mojo World (Brazil)",
+      "name": "X-Men - Mojo World",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Xenon 2 - Megablast (Europe) (Virgin)",
+      "fullpath": "mastersystem-Xenon 2 - Megablast (Europe) (Virgin)",
+      "name": "Xenon 2 - Megablast",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Xenon 2 - Megablast (Europe)",
+      "fullpath": "mastersystem-Xenon 2 - Megablast (Europe)",
+      "name": "Xenon 2 - Megablast",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ys - The Vanished Omens (USA, Europe)",
+      "fullpath": "mastersystem-Ys - The Vanished Omens (USA, Europe)",
+      "name": "Ys - The Vanished Omens",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zaxxon 3-D (World) (alt)",
+      "fullpath": "mastersystem-Zaxxon 3-D (World) (alt)",
+      "name": "Zaxxon 3-D",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zaxxon 3-D (World)",
+      "fullpath": "mastersystem-Zaxxon 3-D (World)",
+      "name": "Zaxxon 3-D",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zillion (Europe) (v1.2)",
+      "fullpath": "mastersystem-Zillion (Europe) (v1.2)",
+      "name": "Zillion",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zillion (USA)",
+      "fullpath": "mastersystem-Zillion (USA)",
+      "name": "Zillion",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zillion II - The Tri Formation (World)",
+      "fullpath": "mastersystem-Zillion II - The Tri Formation (World)",
+      "name": "Zillion II - The Tri Formation",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zool - Ninja of the 'Nth' Dimension (Europe)",
+      "fullpath": "mastersystem-Zool - Ninja of the 'Nth' Dimension (Europe)",
+      "name": "Zool - Ninja of the 'Nth' Dimension",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

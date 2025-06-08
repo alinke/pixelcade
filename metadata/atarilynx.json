@@ -1,0 +1,761 @@
+{
+  "platform": "atarilynx",
+  "totalGames": 83,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "atarilynx game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "atarilynx.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "A.P.B. - All Points Bulletin (USA, Europe)",
+      "fullpath": "atarilynx-A.P.B. - All Points Bulletin (USA, Europe)",
+      "name": "A.P.B. - All Points Bulletin",
+      "year": "1991",
+      "publisher": "Atari",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Alien vs. Predator (USA, Europe) (Proto)",
+      "fullpath": "atarilynx-Alien vs. Predator (USA, Europe) (Proto)",
+      "name": "Alien vs. Predator",
+      "year": "1994",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Awesome Golf (USA, Europe)",
+      "fullpath": "atarilynx-Awesome Golf (USA, Europe)",
+      "name": "Awesome Golf",
+      "year": "1991",
+      "publisher": "Hand Made Software, Ltd.",
+      "genre": "Sports/Golf",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Baseball Heroes (USA, Europe)",
+      "fullpath": "atarilynx-Baseball Heroes (USA, Europe)",
+      "name": "Baseball Heroes",
+      "year": "1992",
+      "publisher": "Atari",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Basketbrawl (USA, Europe)",
+      "fullpath": "atarilynx-Basketbrawl (USA, Europe)",
+      "name": "Basketbrawl",
+      "year": "1992",
+      "publisher": "Atari",
+      "genre": "Sports/Basketball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Batman Returns (USA, Europe)",
+      "fullpath": "atarilynx-Batman Returns (USA, Europe)",
+      "name": "Batman Returns",
+      "year": "1992",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Battle Wheels (USA, Europe)",
+      "fullpath": "atarilynx-Battle Wheels (USA, Europe)",
+      "name": "Battle Wheels",
+      "year": "1992",
+      "publisher": "Beyond Games",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Battlezone 2000 (USA, Europe)",
+      "fullpath": "atarilynx-Battlezone 2000 (USA, Europe)",
+      "name": "Battlezone 2000",
+      "year": "1994",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bill & Ted's Excellent Adventure (USA, Europe)",
+      "fullpath": "atarilynx-Bill & Ted's Excellent Adventure (USA, Europe)",
+      "name": "Bill & Ted's Excellent Adventure",
+      "year": "1989",
+      "publisher": "Atari",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Block Out (USA, Europe)",
+      "fullpath": "atarilynx-Block Out (USA, Europe)",
+      "name": "Block Out",
+      "year": "1991",
+      "publisher": "Atari",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Blue Lightning (USA, Europe)",
+      "fullpath": "atarilynx-Blue Lightning (USA, Europe)",
+      "name": "Blue Lightning",
+      "year": "1989",
+      "publisher": "Epyx",
+      "genre": "Flying",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Bubble Trouble (USA, Europe)",
+      "fullpath": "atarilynx-Bubble Trouble (USA, Europe)",
+      "name": "Bubble Trouble",
+      "year": "1991",
+      "publisher": "Telegames, Inc.",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "California Games (USA, Europe)",
+      "fullpath": "atarilynx-California Games (USA, Europe)",
+      "name": "California Games",
+      "year": "1989",
+      "publisher": "Epyx",
+      "genre": "Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Centipede (USA, Europe) (Proto)",
+      "fullpath": "atarilynx-Centipede (USA, Europe) (Proto)",
+      "name": "Centipede",
+      "year": "198?",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Checkered Flag (USA, Europe)",
+      "fullpath": "atarilynx-Checkered Flag (USA, Europe)",
+      "name": "Checkered Flag",
+      "year": "1991",
+      "publisher": "Atari",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chip's Challenge (USA, Europe)",
+      "fullpath": "atarilynx-Chip's Challenge (USA, Europe)",
+      "name": "Chip's Challenge",
+      "year": "1989",
+      "publisher": "Epyx",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Crystal Mines II (USA, Europe)",
+      "fullpath": "atarilynx-Crystal Mines II (USA, Europe)",
+      "name": "Crystal Mines II",
+      "year": "1990",
+      "publisher": "Color Dreams",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Daemonsgate (USA)(Proto)",
+      "fullpath": "atarilynx-Daemonsgate (USA)(Proto)",
+      "name": "Daemonsgate",
+      "year": "1993",
+      "publisher": "Imagitec Design",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Desert Strike - Return to the Gulf (USA, Europe)",
+      "fullpath": "atarilynx-Desert Strike - Return to the Gulf (USA, Europe)",
+      "name": "Desert Strike - Return to the Gulf",
+      "year": "1993",
+      "publisher": "Telegames, Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dinolympics (USA, Europe)",
+      "fullpath": "atarilynx-Dinolympics (USA, Europe)",
+      "name": "Dinolympics",
+      "year": "1992",
+      "publisher": "Imagitec Design, Inc.",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dirty Larry - Renegade Cop (USA, Europe)",
+      "fullpath": "atarilynx-Dirty Larry - Renegade Cop (USA, Europe)",
+      "name": "Dirty Larry - Renegade Cop",
+      "year": "1992",
+      "publisher": "Atari",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Double Dragon (USA, Europe)",
+      "fullpath": "atarilynx-Double Dragon (USA, Europe)",
+      "name": "Double Dragon",
+      "year": "1993",
+      "publisher": "Telegames, Inc.",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dracula the Undead (USA, Europe)",
+      "fullpath": "atarilynx-Dracula the Undead (USA, Europe)",
+      "name": "Dracula the Undead",
+      "year": "1991",
+      "publisher": "Atari",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Electrocop (USA, Europe)",
+      "fullpath": "atarilynx-Electrocop (USA, Europe)",
+      "name": "Electrocop",
+      "year": "1989",
+      "publisher": "Epyx",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "European Soccer Challenge (USA, Europe)",
+      "fullpath": "atarilynx-European Soccer Challenge (USA, Europe)",
+      "name": "European Soccer Challenge",
+      "year": "1993",
+      "publisher": "Telegames, Inc.",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Eye of the Beholder (USA, Europe) (Proto)",
+      "fullpath": "atarilynx-Eye of the Beholder (USA, Europe) (Proto)",
+      "name": "Eye of the Beholder",
+      "year": "1990",
+      "publisher": "NuFX",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fat Bobby (USA, Europe)",
+      "fullpath": "atarilynx-Fat Bobby (USA, Europe)",
+      "name": "Fat Bobby",
+      "year": "1997",
+      "publisher": "Telegames, Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fidelity Ultimate Chess Challenge, The (USA, Europe)",
+      "fullpath": "atarilynx-Fidelity Ultimate Chess Challenge, The (USA, Europe)",
+      "name": "Fidelity Ultimate Chess Challenge, The",
+      "year": "1992",
+      "publisher": "Telegames, Inc.",
+      "genre": "Board Games",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Gates of Zendocon, The (USA, Europe)",
+      "fullpath": "atarilynx-Gates of Zendocon, The (USA, Europe)",
+      "name": "Gates of Zendocon, The",
+      "year": "1993",
+      "publisher": "Epyx",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Gauntlet - The Third Encounter (USA, Europe)",
+      "fullpath": "atarilynx-Gauntlet - The Third Encounter (USA, Europe)",
+      "name": "Gauntlet - The Third Encounter",
+      "year": "1990",
+      "publisher": "Epyx",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Gordo 106 - The Mutated Lab Monkey (USA, Europe)",
+      "fullpath": "atarilynx-Gordo 106 - The Mutated Lab Monkey (USA, Europe)",
+      "name": "Gordo 106 - The Mutated Lab Monkey",
+      "year": "1991",
+      "publisher": "Epyx",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Hard Drivin' (USA, Europe)",
+      "fullpath": "atarilynx-Hard Drivin' (USA, Europe)",
+      "name": "Hard Drivin'",
+      "year": "1991",
+      "publisher": "NuFX",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Hockey (USA, Europe)",
+      "fullpath": "atarilynx-Hockey (USA, Europe)",
+      "name": "Hockey",
+      "year": "1992",
+      "publisher": "Alpine Studios",
+      "genre": "Sports/Hockey",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Hydra (USA, Europe)",
+      "fullpath": "atarilynx-Hydra (USA, Europe)",
+      "name": "Hydra",
+      "year": "1992",
+      "publisher": "NuFX",
+      "genre": "Water",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ishido - The Way of Stones (USA, Europe)",
+      "fullpath": "atarilynx-Ishido - The Way of Stones (USA, Europe)",
+      "name": "Ishido - The Way of Stones",
+      "year": "1991",
+      "publisher": "California Dreams",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jimmy Connors' Tennis (USA, Europe)",
+      "fullpath": "atarilynx-Jimmy Connors' Tennis (USA, Europe)",
+      "name": "Jimmy Connors' Tennis",
+      "year": "1993",
+      "publisher": "HandMade Software",
+      "genre": "Sports/Tennis",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Joust (USA, Europe)",
+      "fullpath": "atarilynx-Joust (USA, Europe)",
+      "name": "Joust",
+      "year": "1992",
+      "publisher": "Shadowsoft",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Klax (USA, Europe)",
+      "fullpath": "atarilynx-Klax (USA, Europe)",
+      "name": "Klax",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Krazy Ace - Miniature Golf (USA, Europe)",
+      "fullpath": "atarilynx-Krazy Ace - Miniature Golf (USA, Europe)",
+      "name": "Krazy Ace - Miniature Golf",
+      "year": "1993",
+      "publisher": "Telegames",
+      "genre": "Sports/Golf",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Kung Food (USA, Europe)",
+      "fullpath": "atarilynx-Kung Food (USA, Europe)",
+      "name": "Kung Food",
+      "year": "1992",
+      "publisher": "Lore Games",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Lemmings (USA, Europe)",
+      "fullpath": "atarilynx-Lemmings (USA, Europe)",
+      "name": "Lemmings",
+      "year": "1993",
+      "publisher": "DMA Design Limited",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Lexis (USA, Europe)",
+      "fullpath": "atarilynx-Lexis (USA, Europe)",
+      "name": "Lexis",
+      "year": "1999",
+      "publisher": "Shadowsoft",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Loopz (USA) (Proto)",
+      "fullpath": "atarilynx-Loopz (USA) (Proto)",
+      "name": "Loopz",
+      "year": "1992",
+      "publisher": "HandMade Software",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Lynx Casino (USA, Europe)",
+      "fullpath": "atarilynx-Lynx Casino (USA, Europe)",
+      "name": "Lynx Casino",
+      "year": "1992",
+      "publisher": "Atari",
+      "genre": "Casino",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Malibu Bikini Volleyball (USA, Europe)",
+      "fullpath": "atarilynx-Malibu Bikini Volleyball (USA, Europe)",
+      "name": "Malibu Bikini Volleyball",
+      "year": "1993",
+      "publisher": "HandMade Software",
+      "genre": "Sports/Volleyball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Marlboro Go! (Europe) (Proto)",
+      "fullpath": "atarilynx-Marlboro Go! (Europe) (Proto)",
+      "name": "Marlboro Go!",
+      "year": "1993",
+      "publisher": "Digital Image",
+      "genre": "Driving/Motorcycle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ms. Pac-Man (USA, Europe)",
+      "fullpath": "atarilynx-Ms. Pac-Man (USA, Europe)",
+      "name": "Ms. Pac-Man",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "NFL Football (USA, Europe)",
+      "fullpath": "atarilynx-NFL Football (USA, Europe)",
+      "name": "NFL Football",
+      "year": "1992",
+      "publisher": "Atari",
+      "genre": "Sports/Football",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ninja Gaiden (USA, Europe)",
+      "fullpath": "atarilynx-Ninja Gaiden (USA, Europe)",
+      "name": "Ninja Gaiden",
+      "year": "1991",
+      "publisher": "Tecmo",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)",
+      "fullpath": "atarilynx-Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)",
+      "name": "Ninja Gaiden III - The Ancient Ship of Doom",
+      "year": "1993",
+      "publisher": "Tecmo",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pac-Land (USA, Europe)",
+      "fullpath": "atarilynx-Pac-Land (USA, Europe)",
+      "name": "Pac-Land",
+      "year": "1991",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Paperboy (USA, Europe)",
+      "fullpath": "atarilynx-Paperboy (USA, Europe)",
+      "name": "Paperboy",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pinball Jam (USA, Europe)",
+      "fullpath": "atarilynx-Pinball Jam (USA, Europe)",
+      "name": "Pinball Jam",
+      "year": "1992",
+      "publisher": "Atari",
+      "genre": "Pinball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pit Fighter - The Ultimate Competition (USA, Europe)",
+      "fullpath": "atarilynx-Pit Fighter - The Ultimate Competition (USA, Europe)",
+      "name": "Pit Fighter - The Ultimate Competition",
+      "year": "1992",
+      "publisher": "Atari",
+      "genre": "Fighter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Power Factor (USA, Europe)",
+      "fullpath": "atarilynx-Power Factor (USA, Europe)",
+      "name": "Power Factor",
+      "year": "1992",
+      "publisher": "HandMade Software",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Qix (USA, Europe)",
+      "fullpath": "atarilynx-Qix (USA, Europe)",
+      "name": "Qix",
+      "year": "1991",
+      "publisher": "Knight Technologies",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Raiden (USA) (v3.0)",
+      "fullpath": "atarilynx-Raiden (USA) (v3.0)",
+      "name": "Raiden",
+      "year": "1997",
+      "publisher": "Fabtek",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rampage (USA, Europe)",
+      "fullpath": "atarilynx-Rampage (USA, Europe)",
+      "name": "Rampage",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rampart (USA, Europe)",
+      "fullpath": "atarilynx-Rampart (USA, Europe)",
+      "name": "Rampart",
+      "year": "1992",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Road Riot 4WD (USA) (Proto)",
+      "fullpath": "atarilynx-Road Riot 4WD (USA) (Proto)",
+      "name": "Road Riot 4WD",
+      "year": "1994",
+      "publisher": "Tengen",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "RoadBlasters (USA, Europe)",
+      "fullpath": "atarilynx-RoadBlasters (USA, Europe)",
+      "name": "RoadBlasters",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Robo-Squash (USA, Europe)",
+      "fullpath": "atarilynx-Robo-Squash (USA, Europe)",
+      "name": "Robo-Squash",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Robotron 2084 (USA, Europe)",
+      "fullpath": "atarilynx-Robotron 2084 (USA, Europe)",
+      "name": "Robotron 2084",
+      "year": "1991",
+      "publisher": "Shadowsoft",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rygar - Legendary Warrior (USA, Europe)",
+      "fullpath": "atarilynx-Rygar - Legendary Warrior (USA, Europe)",
+      "name": "Rygar - Legendary Warrior",
+      "year": "1990",
+      "publisher": "Tecmo",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "S.T.U.N. Runner (USA, Europe)",
+      "fullpath": "atarilynx-S.T.U.N. Runner (USA, Europe)",
+      "name": "S.T.U.N. Runner",
+      "year": "1991",
+      "publisher": "Atari",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Scrapyard Dog (USA, Europe)",
+      "fullpath": "atarilynx-Scrapyard Dog (USA, Europe)",
+      "name": "Scrapyard Dog",
+      "year": "1991",
+      "publisher": "Creative Software Designs",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shadow of the Beast (USA, Europe)",
+      "fullpath": "atarilynx-Shadow of the Beast (USA, Europe)",
+      "name": "Shadow of the Beast",
+      "year": "1992",
+      "publisher": "Digital Developments",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shanghai (USA, Europe)",
+      "fullpath": "atarilynx-Shanghai (USA, Europe)",
+      "name": "Shanghai",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Steel Talons (USA, Europe)",
+      "fullpath": "atarilynx-Steel Talons (USA, Europe)",
+      "name": "Steel Talons",
+      "year": "1992",
+      "publisher": "NuFX",
+      "genre": "Flying",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Asteroids, Missile Command (USA, Europe)",
+      "fullpath": "atarilynx-Super Asteroids, Missile Command (USA, Europe)",
+      "name": "Super Asteroids, Missile Command",
+      "year": "1995",
+      "publisher": "Atari",
+      "genre": "Shoot-'Em-Up/Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Off-Road (USA, Europe)",
+      "fullpath": "atarilynx-Super Off-Road (USA, Europe)",
+      "name": "Super Off-Road",
+      "year": "1993",
+      "publisher": "Telegames",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Skweek (USA, Europe)",
+      "fullpath": "atarilynx-Super Skweek (USA, Europe)",
+      "name": "Super Skweek",
+      "year": "1991",
+      "publisher": "Loriciel",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Switchblade II (USA, Europe)",
+      "fullpath": "atarilynx-Switchblade II (USA, Europe)",
+      "name": "Switchblade II",
+      "year": "1992",
+      "publisher": "Gremlin Graphics",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Todd's Adventures in Slime World (USA, Europe)",
+      "fullpath": "atarilynx-Todd's Adventures in Slime World (USA, Europe)",
+      "name": "Todd's Adventures in Slime World",
+      "year": "1990",
+      "publisher": "Epyx",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Toki (USA, Europe)",
+      "fullpath": "atarilynx-Toki (USA, Europe)",
+      "name": "Toki",
+      "year": "1992",
+      "publisher": "Tad",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tournament Cyberball (USA, Europe)",
+      "fullpath": "atarilynx-Tournament Cyberball (USA, Europe)",
+      "name": "Tournament Cyberball",
+      "year": "1991",
+      "publisher": "Atari",
+      "genre": "Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Turbo Sub (USA, Europe)",
+      "fullpath": "atarilynx-Turbo Sub (USA, Europe)",
+      "name": "Turbo Sub",
+      "year": "1991",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Viking Child (USA, Europe)",
+      "fullpath": "atarilynx-Viking Child (USA, Europe)",
+      "name": "Viking Child",
+      "year": "1991",
+      "publisher": "Imagitec Design",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Warbirds (USA, Europe)",
+      "fullpath": "atarilynx-Warbirds (USA, Europe)",
+      "name": "Warbirds",
+      "year": "1991",
+      "publisher": "Atari",
+      "genre": "Simulation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "World Class Soccer (USA, Europe)",
+      "fullpath": "atarilynx-World Class Soccer (USA, Europe)",
+      "name": "World Class Soccer",
+      "year": "1992",
+      "publisher": "Atari",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Xenophobe (USA, Europe)",
+      "fullpath": "atarilynx-Xenophobe (USA, Europe)",
+      "name": "Xenophobe",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Xybots (USA, Europe)",
+      "fullpath": "atarilynx-Xybots (USA, Europe)",
+      "name": "Xybots",
+      "year": "1991",
+      "publisher": "Tengen",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Zarlor Mercenary (USA, Europe)",
+      "fullpath": "atarilynx-Zarlor Mercenary (USA, Europe)",
+      "name": "Zarlor Mercenary",
+      "year": "1990",
+      "publisher": "Epyx",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    }
+  ]
+}

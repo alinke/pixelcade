@@ -1,0 +1,518 @@
+{
+  "platform": "nintendo_game_and_watch",
+  "totalGames": 56,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "nintendo_game_and_watch game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "nintendo_game_and_watch.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Armor Battle (Mattel Electronics)",
+      "fullpath": "nintendo_game_and_watch-Armor Battle (Mattel Electronics)",
+      "name": "Armor Battle (Mattel Electronics)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Banana (VTech, Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Banana (VTech, Time & Fun)",
+      "name": "Banana (VTech, Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Baseball (VTech, Explorer Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Baseball (VTech, Explorer Time & Fun)",
+      "name": "Baseball (VTech, Explorer Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bomb Fight (VTech, Mini Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Bomb Fight (VTech, Mini Time & Fun)",
+      "name": "Bomb Fight (VTech, Mini Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Caccia al Ladro (VTech, Mini Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Caccia al Ladro (VTech, Mini Time & Fun)",
+      "name": "Caccia al Ladro (VTech, Mini Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cessate il Fuoco (VTech, Mini Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Cessate il Fuoco (VTech, Mini Time & Fun)",
+      "name": "Cessate il Fuoco (VTech, Mini Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chicky Woggy (VTech, Arcade Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Chicky Woggy (VTech, Arcade Time & Fun)",
+      "name": "Chicky Woggy (VTech, Arcade Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chicky Woggy (VTech, Electronic Tini-Arcade)",
+      "fullpath": "nintendo_game_and_watch-Chicky Woggy (VTech, Electronic Tini-Arcade)",
+      "name": "Chicky Woggy (VTech, Electronic Tini-Arcade)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Condor (VTech, Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Condor (VTech, Time & Fun)",
+      "name": "Condor (VTech, Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crazy Chewy (VTech, Electronic Tini-Arcade)",
+      "fullpath": "nintendo_game_and_watch-Crazy Chewy (VTech, Electronic Tini-Arcade)",
+      "name": "Crazy Chewy (VTech, Electronic Tini-Arcade)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Defendo (VTech, Explorer Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Defendo (VTech, Explorer Time & Fun)",
+      "name": "Defendo (VTech, Explorer Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donkey Kong (Coleco)",
+      "fullpath": "nintendo_game_and_watch-Donkey Kong (Coleco)",
+      "name": "Donkey Kong (Coleco)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donkey Kong (Nintendo, Multi Screen)",
+      "fullpath": "nintendo_game_and_watch-Donkey Kong (Nintendo, Multi Screen)",
+      "name": "Donkey Kong (Nintendo, Multi Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donkey Kong Circus (Nintendo, Panorama Screen)",
+      "fullpath": "nintendo_game_and_watch-Donkey Kong Circus (Nintendo, Panorama Screen)",
+      "name": "Donkey Kong Circus (Nintendo, Panorama Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donkey Kong II (Nintendo, Multi Screen)",
+      "fullpath": "nintendo_game_and_watch-Donkey Kong II (Nintendo, Multi Screen)",
+      "name": "Donkey Kong II (Nintendo, Multi Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donkey Kong Jr. (Coleco)",
+      "fullpath": "nintendo_game_and_watch-Donkey Kong Jr. (Coleco)",
+      "name": "Donkey Kong Jr. (Coleco)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donkey Kong Jr. (Nintendo, Panorama Screen)",
+      "fullpath": "nintendo_game_and_watch-Donkey Kong Jr. (Nintendo, Panorama Screen)",
+      "name": "Donkey Kong Jr. (Nintendo, Panorama Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donkey Kong Jr. (Nintendo, Table Top)",
+      "fullpath": "nintendo_game_and_watch-Donkey Kong Jr. (Nintendo, Table Top)",
+      "name": "Donkey Kong Jr. (Nintendo, Table Top)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dungeons & Dragons Computer Fantasy Game (Mattel Electronics, Arcade Action Series)",
+      "fullpath": "nintendo_game_and_watch-Dungeons & Dragons Computer Fantasy Game (Mattel Electronics, Arcade Action Series)",
+      "name": "Dungeons & Dragons Computer Fantasy Game (Mattel Electronics, Arcade Action Series)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Egg (Nintendo, Wide Screen)",
+      "fullpath": "nintendo_game_and_watch-Egg (Nintendo, Wide Screen)",
+      "name": "Egg (Nintendo, Wide Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Engine Room (VTech, Explorer Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Engine Room (VTech, Explorer Time & Fun)",
+      "name": "Engine Room (VTech, Explorer Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Escape (VTech, Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Escape (VTech, Time & Fun)",
+      "name": "Escape (VTech, Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Explorers of Space (Elektronika)",
+      "fullpath": "nintendo_game_and_watch-Explorers of Space (Elektronika)",
+      "name": "Explorers of Space (Elektronika)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fowling (Elektronika)",
+      "fullpath": "nintendo_game_and_watch-Fowling (Elektronika)",
+      "name": "Fowling (Elektronika)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Frog Boaster (Elektronika)",
+      "fullpath": "nintendo_game_and_watch-Frog Boaster (Elektronika)",
+      "name": "Frog Boaster (Elektronika)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Galaxy II (Epoch)",
+      "fullpath": "nintendo_game_and_watch-Galaxy II (Epoch)",
+      "name": "Galaxy II (Epoch)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Grab Man (unknown manufacturer, Game & Time)",
+      "fullpath": "nintendo_game_and_watch-Grab Man (unknown manufacturer, Game & Time)",
+      "name": "Grab Man (unknown manufacturer, Game & Time)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hippo Teeth (VTech, Mini Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Hippo Teeth (VTech, Mini Time & Fun)",
+      "name": "Hippo Teeth (VTech, Mini Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hippo Teeth (VTech, Sporty Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Hippo Teeth (VTech, Sporty Time & Fun)",
+      "name": "Hippo Teeth (VTech, Sporty Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hot Line (VTech, Mini Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Hot Line (VTech, Mini Time & Fun)",
+      "name": "Hot Line (VTech, Mini Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hot Line (VTech, Sporty Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Hot Line (VTech, Sporty Time & Fun)",
+      "name": "Hot Line (VTech, Sporty Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Las Vegas (Bandai, LCD Game Digital)",
+      "fullpath": "nintendo_game_and_watch-Las Vegas (Bandai, LCD Game Digital)",
+      "name": "Las Vegas (Bandai, LCD Game Digital)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lifeboat (Nintendo, Multi Screen)",
+      "fullpath": "nintendo_game_and_watch-Lifeboat (Nintendo, Multi Screen)",
+      "name": "Lifeboat (Nintendo, Multi Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Bros. (Nintendo, Multi Screen)",
+      "fullpath": "nintendo_game_and_watch-Mario Bros. (Nintendo, Multi Screen)",
+      "name": "Mario Bros. (Nintendo, Multi Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario's Bombs Away (Nintendo, Panorama Screen)",
+      "fullpath": "nintendo_game_and_watch-Mario's Bombs Away (Nintendo, Panorama Screen)",
+      "name": "Mario's Bombs Away (Nintendo, Panorama Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mickey Mouse (Nintendo, Panorama Screen)",
+      "fullpath": "nintendo_game_and_watch-Mickey Mouse (Nintendo, Panorama Screen)",
+      "name": "Mickey Mouse (Nintendo, Panorama Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mickey Mouse (Nintendo, Wide Screen)",
+      "fullpath": "nintendo_game_and_watch-Mickey Mouse (Nintendo, Wide Screen)",
+      "name": "Mickey Mouse (Nintendo, Wide Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Monkey (VTech, Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Monkey (VTech, Time & Fun)",
+      "name": "Monkey (VTech, Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Monkey Jump (VTech, Arcade Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Monkey Jump (VTech, Arcade Time & Fun)",
+      "name": "Monkey Jump (VTech, Arcade Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Motor Cross (Queentex)",
+      "fullpath": "nintendo_game_and_watch-Motor Cross (Queentex)",
+      "name": "Motor Cross (Queentex)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pac Man (Tomytronic)",
+      "fullpath": "nintendo_game_and_watch-Pac Man (Tomytronic)",
+      "name": "Pac Man (Tomytronic)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pancake (VTech, Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Pancake (VTech, Time & Fun)",
+      "name": "Pancake (VTech, Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Parachute (Nintendo, Wide Screen)",
+      "fullpath": "nintendo_game_and_watch-Parachute (Nintendo, Wide Screen)",
+      "name": "Parachute (Nintendo, Wide Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pirate (VTech, Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Pirate (VTech, Time & Fun)",
+      "name": "Pirate (VTech, Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Roller Coaster (VTech, Explorer Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Roller Coaster (VTech, Explorer Time & Fun)",
+      "name": "Roller Coaster (VTech, Explorer Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Safari (VTech, Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Safari (VTech, Time & Fun)",
+      "name": "Safari (VTech, Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sleep Walker (VTech, Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Sleep Walker (VTech, Time & Fun)",
+      "name": "Sleep Walker (VTech, Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Snoopy (Nintendo, Panorama Screen)",
+      "fullpath": "nintendo_game_and_watch-Snoopy (Nintendo, Panorama Screen)",
+      "name": "Snoopy (Nintendo, Panorama Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Snoopy (Nintendo, Table Top)",
+      "fullpath": "nintendo_game_and_watch-Snoopy (Nintendo, Table Top)",
+      "name": "Snoopy (Nintendo, Table Top)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Snoopy Tennis (Nintendo, Wide Screen)",
+      "fullpath": "nintendo_game_and_watch-Snoopy Tennis (Nintendo, Wide Screen)",
+      "name": "Snoopy Tennis (Nintendo, Wide Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sub Chase (Mattel Electronics)",
+      "fullpath": "nintendo_game_and_watch-Sub Chase (Mattel Electronics)",
+      "name": "Sub Chase (Mattel Electronics)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tennis Menace (VTech, Sporty Time & Fun)",
+      "fullpath": "nintendo_game_and_watch-Tennis Menace (VTech, Sporty Time & Fun)",
+      "name": "Tennis Menace (VTech, Sporty Time & Fun)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Towering Rescue (Gakken, LCD Card Game)",
+      "fullpath": "nintendo_game_and_watch-Towering Rescue (Gakken, LCD Card Game)",
+      "name": "Towering Rescue (Gakken, LCD Card Game)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tron (Tomytronic)",
+      "fullpath": "nintendo_game_and_watch-Tron (Tomytronic)",
+      "name": "Tron (Tomytronic)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Turtle Bridge (Nintendo, Wide Screen)",
+      "fullpath": "nintendo_game_and_watch-Turtle Bridge (Nintendo, Wide Screen)",
+      "name": "Turtle Bridge (Nintendo, Wide Screen)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wild Man Jump (VTech, Electronic Tini-Arcade)",
+      "fullpath": "nintendo_game_and_watch-Wild Man Jump (VTech, Electronic Tini-Arcade)",
+      "name": "Wild Man Jump (VTech, Electronic Tini-Arcade)",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

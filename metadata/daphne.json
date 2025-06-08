@@ -1,0 +1,590 @@
+{
+  "platform": "daphne",
+  "totalGames": 64,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "daphne game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "daphne.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "astron",
+      "fullpath": "daphne-astron",
+      "name": "Astron Belt",
+      "year": "1983",
+      "publisher": "Shoot-'Em-Up",
+      "genre": "Bally Midway",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "badlands",
+      "fullpath": "daphne-badlands",
+      "name": "Badlands",
+      "year": "1984",
+      "publisher": "Adventure",
+      "genre": "Konami",
+      "rating": "AAMA - Yellow (Animated Violence Mild)"
+    },
+    {
+      "id": "bega",
+      "fullpath": "daphne-bega",
+      "name": "Bega's Battle",
+      "year": "1983",
+      "publisher": "Adventure",
+      "genre": "Data East",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "cliff",
+      "fullpath": "daphne-cliff",
+      "name": "Cliff Hanger",
+      "year": "1983",
+      "publisher": "Adventure",
+      "genre": "Stern",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "cobraab",
+      "fullpath": "daphne-cobraab",
+      "name": "Cobra Command",
+      "year": "1988",
+      "publisher": "Flying",
+      "genre": "Data East",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "lair",
+      "fullpath": "daphne-lair",
+      "name": "Dragons Lair",
+      "year": "1983",
+      "publisher": "Adventure",
+      "genre": "Cinematronics",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "lair2",
+      "fullpath": "daphne-lair2",
+      "name": "Dragons Lair 2",
+      "year": "1991",
+      "publisher": "Adventure",
+      "genre": "Leland",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "esh",
+      "fullpath": "daphne-esh",
+      "name": "Esh's Arunmilla",
+      "year": "1984",
+      "publisher": "Adventure",
+      "genre": "Funai",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "galaxy",
+      "fullpath": "daphne-galaxy",
+      "name": "Galaxy Ranger",
+      "year": "1983",
+      "publisher": "Shoot-'Em-Up",
+      "genre": "Bally Midway",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "gpworld",
+      "fullpath": "daphne-gpworld",
+      "name": "GP World",
+      "year": "1984",
+      "publisher": "Driving",
+      "genre": "Bally Midway",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "interstellar",
+      "fullpath": "daphne-interstellar",
+      "name": "Interstellar",
+      "year": "1983",
+      "publisher": "Shoot-'Em-Up",
+      "genre": "Funai",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "mach3",
+      "fullpath": "daphne-mach3",
+      "name": "M.A.C.H. 3",
+      "year": "1983",
+      "publisher": "Flying",
+      "genre": "Mylstar",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "hayate",
+      "fullpath": "daphne-hayate",
+      "name": "Ninja Hayate",
+      "year": "1984",
+      "publisher": "Adventure",
+      "genre": "Taito",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "roadblaster",
+      "fullpath": "daphne-roadblaster",
+      "name": "Road Blaster",
+      "year": "1985",
+      "publisher": "Driving",
+      "genre": "Data East",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "ace",
+      "fullpath": "daphne-ace",
+      "name": "Space Ace",
+      "year": "1984",
+      "publisher": "Adventure",
+      "genre": "Cinematronics",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "sdq",
+      "fullpath": "daphne-sdq",
+      "name": "Super Don Quix-Ote",
+      "year": "1984",
+      "publisher": "Adventure",
+      "genre": "Universal",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "tq",
+      "fullpath": "daphne-tq",
+      "name": "Thayer's Quest",
+      "year": "1984",
+      "publisher": "Adventure",
+      "genre": "RDI Video Systems",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "timegal",
+      "fullpath": "daphne-timegal",
+      "name": "Time Gal",
+      "year": "1985",
+      "publisher": "Adventure",
+      "genre": "Taito",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "timetraveler",
+      "fullpath": "daphne-timetraveler",
+      "name": "Time Traveler",
+      "year": "1991",
+      "publisher": "Adventure",
+      "genre": "GTE Interactive Media",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "uvt",
+      "fullpath": "daphne-uvt",
+      "name": "Us vs Them",
+      "year": "1984",
+      "publisher": "Shoot-'Em-Up",
+      "genre": "Mylstar",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "astron",
+      "fullpath": "daphne-astron",
+      "name": "Astron Belt",
+      "year": "1983",
+      "publisher": "Shoot-'Em-Up",
+      "genre": "Bally Midway",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "badlands",
+      "fullpath": "daphne-badlands",
+      "name": "Badlands",
+      "year": "1984",
+      "publisher": "Adventure",
+      "genre": "Konami",
+      "rating": "AAMA - Yellow (Animated Violence Mild)"
+    },
+    {
+      "id": "bega",
+      "fullpath": "daphne-bega",
+      "name": "Bega's Battle",
+      "year": "1983",
+      "publisher": "Adventure",
+      "genre": "Data East",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "cliff",
+      "fullpath": "daphne-cliff",
+      "name": "Cliff Hanger",
+      "year": "1983",
+      "publisher": "Adventure",
+      "genre": "Stern",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "cobraab",
+      "fullpath": "daphne-cobraab",
+      "name": "Cobra Command",
+      "year": "1988",
+      "publisher": "Flying",
+      "genre": "Data East",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "lair",
+      "fullpath": "daphne-lair",
+      "name": "Dragons Lair",
+      "year": "1983",
+      "publisher": "Adventure",
+      "genre": "Cinematronics",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "lair2",
+      "fullpath": "daphne-lair2",
+      "name": "Dragons Lair 2",
+      "year": "1991",
+      "publisher": "Adventure",
+      "genre": "Leland",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "esh",
+      "fullpath": "daphne-esh",
+      "name": "Esh's Arunmilla",
+      "year": "1984",
+      "publisher": "Adventure",
+      "genre": "Funai",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "galaxy",
+      "fullpath": "daphne-galaxy",
+      "name": "Galaxy Ranger",
+      "year": "1983",
+      "publisher": "Shoot-'Em-Up",
+      "genre": "Bally Midway",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "gpworld",
+      "fullpath": "daphne-gpworld",
+      "name": "GP World",
+      "year": "1984",
+      "publisher": "Driving",
+      "genre": "Bally Midway",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "interstellar",
+      "fullpath": "daphne-interstellar",
+      "name": "Interstellar",
+      "year": "1983",
+      "publisher": "Shoot-'Em-Up",
+      "genre": "Funai",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "mach3",
+      "fullpath": "daphne-mach3",
+      "name": "M.A.C.H. 3",
+      "year": "1983",
+      "publisher": "Flying",
+      "genre": "Mylstar",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "hayate",
+      "fullpath": "daphne-hayate",
+      "name": "Ninja Hayate",
+      "year": "1984",
+      "publisher": "Adventure",
+      "genre": "Taito",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "roadblaster",
+      "fullpath": "daphne-roadblaster",
+      "name": "Road Blaster",
+      "year": "1985",
+      "publisher": "Driving",
+      "genre": "Data East",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "ace",
+      "fullpath": "daphne-ace",
+      "name": "Space Ace",
+      "year": "1984",
+      "publisher": "Adventure",
+      "genre": "Cinematronics",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "sdq",
+      "fullpath": "daphne-sdq",
+      "name": "Super Don Quix-Ote",
+      "year": "1984",
+      "publisher": "Adventure",
+      "genre": "Universal",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "tq",
+      "fullpath": "daphne-tq",
+      "name": "Thayer's Quest",
+      "year": "1984",
+      "publisher": "Adventure",
+      "genre": "RDI Video Systems",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "timegal",
+      "fullpath": "daphne-timegal",
+      "name": "Time Gal",
+      "year": "1985",
+      "publisher": "Adventure",
+      "genre": "Taito",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "timetraveler",
+      "fullpath": "daphne-timetraveler",
+      "name": "Time Traveler",
+      "year": "1991",
+      "publisher": "Adventure",
+      "genre": "GTE Interactive Media",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "uvt",
+      "fullpath": "daphne-uvt",
+      "name": "Us vs Them",
+      "year": "1984",
+      "publisher": "Shoot-'Em-Up",
+      "genre": "Mylstar",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Alteredcarbon",
+      "fullpath": "daphne-Alteredcarbon",
+      "name": "Alteredcarbon",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Conan",
+      "fullpath": "daphne-Conan",
+      "name": "Conan",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Cracke  The Chicken",
+      "fullpath": "daphne-Cracke  The Chicken",
+      "name": "Cracke  The Chicken",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Dragon Trainer Eng",
+      "fullpath": "daphne-Dragon Trainer Eng",
+      "name": "Dragon Trainer Eng",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Dragons Lair TV",
+      "fullpath": "daphne-Dragons Lair TV",
+      "name": "Dragons Lair TV",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Freedom Fighter",
+      "fullpath": "daphne-Freedom Fighter",
+      "name": "Freedom Fighter",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Oeil Pour Oeil",
+      "fullpath": "daphne-Oeil Pour Oeil",
+      "name": "Oeil Pour Oeil",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Princess Mononoke",
+      "fullpath": "daphne-Princess Mononoke",
+      "name": "Princess Mononoke",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Samurai Jack Eng",
+      "fullpath": "daphne-Samurai Jack Eng",
+      "name": "Samurai Jack Eng",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Scrat No Time For Nuts",
+      "fullpath": "daphne-Scrat No Time For Nuts",
+      "name": "Scrat No Time For Nuts",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Starblazers",
+      "fullpath": "daphne-Starblazers",
+      "name": "Starblazers",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Sucker Punch",
+      "fullpath": "daphne-Sucker Punch",
+      "name": "Sucker Punch",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Time Traveler (3d)",
+      "fullpath": "daphne-Time Traveler (3d)",
+      "name": "Time Traveler (3d)",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Timegal",
+      "fullpath": "daphne-Timegal",
+      "name": "Timegal",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Titan 16_9",
+      "fullpath": "daphne-Titan 16_9",
+      "name": "Titan 16_9",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "Tron",
+      "fullpath": "daphne-Tron",
+      "name": "Tron",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "asterix",
+      "fullpath": "daphne-asterix",
+      "name": "asterix",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "chantze's stone",
+      "fullpath": "daphne-chantze's stone",
+      "name": "chantze's stone",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "daitarn 3",
+      "fullpath": "daphne-daitarn 3",
+      "name": "daitarn 3",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "fire and ice 16_9",
+      "fullpath": "daphne-fire and ice 16_9",
+      "name": "fire and ice 16_9",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "friday13th",
+      "fullpath": "daphne-friday13th",
+      "name": "friday13th",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "platoon_mkeys",
+      "fullpath": "daphne-platoon_mkeys",
+      "name": "platoon_mkeys",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "puss n boots",
+      "fullpath": "daphne-puss n boots",
+      "name": "puss n boots",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    },
+    {
+      "id": "strahl",
+      "fullpath": "daphne-strahl",
+      "name": "strahl",
+      "year": "2000",
+      "publisher": "General",
+      "genre": "General",
+      "rating": "AAMA - Green (Suitable For All Ages)"
+    }
+  ]
+}

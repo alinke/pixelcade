@@ -1,0 +1,3029 @@
+{
+  "platform": "gamegear",
+  "totalGames": 335,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "gamegear game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "gamegear.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "5 in 1 Funpak (USA)",
+      "fullpath": "gamegear-5 in 1 Funpak (USA)",
+      "name": "5 in 1 Funpak",
+      "year": "1994",
+      "publisher": "Interplay",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Aa Harimanada (Japan)",
+      "fullpath": "gamegear-Aa Harimanada (Japan)",
+      "name": "Aa Harimanada",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Sports",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Addams Family, The (World)",
+      "fullpath": "gamegear-Addams Family, The (World)",
+      "name": "Addams Family, The",
+      "year": "1994",
+      "publisher": "Flying Edge",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Adventures of Batman & Robin, The (USA, Europe)",
+      "fullpath": "gamegear-Adventures of Batman & Robin, The (USA, Europe)",
+      "name": "Adventures of Batman & Robin, The",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Aerial Assault (World)",
+      "fullpath": "gamegear-Aerial Assault (World)",
+      "name": "Aerial Assault",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Aladdin (USA, Europe)",
+      "fullpath": "gamegear-Aladdin (USA, Europe)",
+      "name": "Aladdin",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Alien 3 (USA, Europe)",
+      "fullpath": "gamegear-Alien 3 (USA, Europe)",
+      "name": "Alien 3",
+      "year": "1994",
+      "publisher": "Arena",
+      "genre": "Platform",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Alien Syndrome (Europe)",
+      "fullpath": "gamegear-Alien Syndrome (Europe)",
+      "name": "Alien Syndrome",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Andre Agassi Tennis (USA)",
+      "fullpath": "gamegear-Andre Agassi Tennis (USA)",
+      "name": "Andre Agassi Tennis",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Sports/Tennis",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Arcade Classics (USA)",
+      "fullpath": "gamegear-Arcade Classics (USA)",
+      "name": "Arcade Classics",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Compilation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Arch Rivals (USA)",
+      "fullpath": "gamegear-Arch Rivals (USA)",
+      "name": "Arch Rivals",
+      "year": "1992",
+      "publisher": "Flying Edge",
+      "genre": "Sports/Basketball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Arena - Maze of Death (USA)",
+      "fullpath": "gamegear-Arena - Maze of Death (USA)",
+      "name": "Arena: Maze of Death",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ariel the Little Mermaid (USA, Europe)",
+      "fullpath": "gamegear-Ariel the Little Mermaid (USA, Europe)",
+      "name": "Ariel the Little Mermaid",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Asterix and the Great Rescue (USA)",
+      "fullpath": "gamegear-Asterix and the Great Rescue (USA)",
+      "name": "Asterix and the Great Rescue",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Asterix and the Secret Mission (Europe)",
+      "fullpath": "gamegear-Asterix and the Secret Mission (Europe)",
+      "name": "Asterix and the Secret Mission",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ax Battler - A Legend of Golden Axe (USA, Europe)",
+      "fullpath": "gamegear-Ax Battler - A Legend of Golden Axe (USA, Europe)",
+      "name": "Ax Battler: A Legend of Golden Axe",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ayrton Senna's Super Monaco GP II (USA, Europe)",
+      "fullpath": "gamegear-Ayrton Senna's Super Monaco GP II (USA, Europe)",
+      "name": "Ayrton Senna's Super Monaco GP II",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Baku Baku Animal (USA)",
+      "fullpath": "gamegear-Baku Baku Animal (USA)",
+      "name": "Baku Baku Animal",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Barbie Super Model (USA) (Proto)",
+      "fullpath": "gamegear-Barbie Super Model (USA) (Proto)",
+      "name": "Barbie Super Model",
+      "year": "1994",
+      "publisher": "Bonsai",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Simpsons, The - Bartman Meets Radioactive Man (USA)",
+      "fullpath": "gamegear-Simpsons, The - Bartman Meets Radioactive Man (USA)",
+      "name": "Simpsons, The: Bartman Meets Radioactive Man",
+      "year": "1992",
+      "publisher": "Acclaim",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Batman Forever (World)",
+      "fullpath": "gamegear-Batman Forever (World)",
+      "name": "Batman Forever",
+      "year": "1995",
+      "publisher": "Acclaim",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Batman Returns (World)",
+      "fullpath": "gamegear-Batman Returns (World)",
+      "name": "Batman Returns",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Batter Up (USA, Europe)",
+      "fullpath": "gamegear-Batter Up (USA, Europe)",
+      "name": "Batter Up",
+      "year": "1991",
+      "publisher": "Namco",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Battleship (USA, Europe)",
+      "fullpath": "gamegear-Battleship (USA, Europe)",
+      "name": "Battleship",
+      "year": "1993",
+      "publisher": "Mindscape Inc.",
+      "genre": "Board Games",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Battletoads (USA)",
+      "fullpath": "gamegear-Battletoads (USA)",
+      "name": "Battletoads",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Beavis and Butt-head (USA)",
+      "fullpath": "gamegear-Beavis and Butt-head (USA)",
+      "name": "Beavis and Butt-head",
+      "year": "1994",
+      "publisher": "Viacom New Media",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Berenstain Bears' Camping Adventure, The (USA)",
+      "fullpath": "gamegear-Berenstain Bears' Camping Adventure, The (USA)",
+      "name": "Berenstain Bears' Camping Adventure, The",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Berlin no Kabe (Japan)",
+      "fullpath": "gamegear-Berlin no Kabe (Japan)",
+      "name": "Berlin no Kabe",
+      "year": "1991",
+      "publisher": "Kaneko",
+      "genre": "Action",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Bishoujo Senshi Sailor Moon S (Japan)",
+      "fullpath": "gamegear-Bishoujo Senshi Sailor Moon S (Japan)",
+      "name": "Bishoujo Senshi Sailor Moon S",
+      "year": "1995",
+      "publisher": "Bandai",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Bonkers Wax Up! (USA, Europe)",
+      "fullpath": "gamegear-Bonkers Wax Up! (USA, Europe)",
+      "name": "Bonkers Wax Up!",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bram Stoker's Dracula (USA)",
+      "fullpath": "gamegear-Bram Stoker's Dracula (USA)",
+      "name": "Bram Stoker's Dracula",
+      "year": "1993",
+      "publisher": "Sony Imagesoft",
+      "genre": "Action",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Bubble Bobble (USA, Europe)",
+      "fullpath": "gamegear-Bubble Bobble (USA, Europe)",
+      "name": "Bubble Bobble",
+      "year": "1994",
+      "publisher": "Taito Corporation",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Bugs Bunny in Double Trouble (USA, Europe)",
+      "fullpath": "gamegear-Bugs Bunny in Double Trouble (USA, Europe)",
+      "name": "Bugs Bunny in Double Trouble",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Bust-A-Move (USA, Europe)",
+      "fullpath": "gamegear-Bust-A-Move (USA, Europe)",
+      "name": "Bust-A-Move",
+      "year": "1995",
+      "publisher": "Taito Corporation",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Buster Ball (Japan)",
+      "fullpath": "gamegear-Buster Ball (Japan)",
+      "name": "Buster Ball",
+      "year": "1992",
+      "publisher": "Riverhillsoft",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Buster Fight (Japan)",
+      "fullpath": "gamegear-Buster Fight (Japan)",
+      "name": "Buster Fight",
+      "year": "1994",
+      "publisher": "Sims",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Caesars Palace (USA)",
+      "fullpath": "gamegear-Caesars Palace (USA)",
+      "name": "Caesars Palace",
+      "year": "1993",
+      "publisher": "Virgin Interactive",
+      "genre": "Casino",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Captain America and the Avengers (USA, Europe)",
+      "fullpath": "gamegear-Captain America and the Avengers (USA, Europe)",
+      "name": "Captain America and the Avengers",
+      "year": "1993",
+      "publisher": "Mindscape Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Casino Funpak (USA)",
+      "fullpath": "gamegear-Casino Funpak (USA)",
+      "name": "Casino Funpak",
+      "year": "1995",
+      "publisher": "Interplay",
+      "genre": "Casino",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Castle of Illusion Starring Mickey Mouse (USA, Europe)",
+      "fullpath": "gamegear-Castle of Illusion Starring Mickey Mouse (USA, Europe)",
+      "name": "Castle of Illusion Starring Mickey Mouse",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chakan (USA, Europe)",
+      "fullpath": "gamegear-Chakan (USA, Europe)",
+      "name": "Chakan",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Championship Hockey (Europe)",
+      "fullpath": "gamegear-Championship Hockey (Europe)",
+      "name": "Championship Hockey",
+      "year": "1994",
+      "publisher": "Imagitec Design, Inc.",
+      "genre": "Sports/Hockey",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chase H.Q. (USA)",
+      "fullpath": "gamegear-Chase H.Q. (USA)",
+      "name": "Chase H.Q.",
+      "year": "1991",
+      "publisher": "Taito",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cheese Cat-Astrophe - Starring Speedy Gonzales (Europe)",
+      "fullpath": "gamegear-Cheese Cat-Astrophe - Starring Speedy Gonzales (Europe)",
+      "name": "Cheese Cat-Astrophe: Starring Speedy Gonzales",
+      "year": "1994",
+      "publisher": "Gametek",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chessmaster, The (USA, Europe)",
+      "fullpath": "gamegear-Chessmaster, The (USA, Europe)",
+      "name": "Chessmaster, The",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chicago Syndicate (USA, Europe)",
+      "fullpath": "gamegear-Chicago Syndicate (USA, Europe)",
+      "name": "Chicago Syndicate",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Choplifter III (USA, Europe)",
+      "fullpath": "gamegear-Choplifter III (USA, Europe)",
+      "name": "Choplifter III",
+      "year": "1995",
+      "publisher": "Extreme Entertainment Group",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chuck Rock (World)",
+      "fullpath": "gamegear-Chuck Rock (World)",
+      "name": "Chuck Rock",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chuck Rock II - Son of Chuck (USA)",
+      "fullpath": "gamegear-Chuck Rock II - Son of Chuck (USA)",
+      "name": "Chuck Rock II: Son of Chuck",
+      "year": "1993",
+      "publisher": "Virgin Games",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "CJ Elephant Fugitive (Europe)",
+      "fullpath": "gamegear-CJ Elephant Fugitive (Europe)",
+      "name": "CJ Elephant Fugitive",
+      "year": "1994",
+      "publisher": "Big Red Software",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cliffhanger (USA, Europe)",
+      "fullpath": "gamegear-Cliffhanger (USA, Europe)",
+      "name": "Cliffhanger",
+      "year": "1994",
+      "publisher": "Sony Imagesoft",
+      "genre": "Action",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Clutch Hitter (USA)",
+      "fullpath": "gamegear-Clutch Hitter (USA)",
+      "name": "Clutch Hitter",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Coca-Cola Kid (Japan) (Translated En)",
+      "fullpath": "gamegear-Coca-Cola Kid (Japan) (Translated En)",
+      "name": "Coca-Cola Kid",
+      "year": "1994",
+      "publisher": "Aspect",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Columns (USA, Europe)",
+      "fullpath": "gamegear-Columns (USA, Europe)",
+      "name": "Columns",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cool Spot (USA)",
+      "fullpath": "gamegear-Cool Spot (USA)",
+      "name": "Cool Spot",
+      "year": "1993",
+      "publisher": "Virgin Interactive",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cosmic Spacehead (USA)",
+      "fullpath": "gamegear-Cosmic Spacehead (USA)",
+      "name": "Cosmic Spacehead",
+      "year": "1996",
+      "publisher": "Codemasters",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan)",
+      "fullpath": "gamegear-Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan)",
+      "name": "Crayon Shin-chan: Taiketsu! Kantam Panic!!",
+      "year": "1995",
+      "publisher": "Minato Giken",
+      "genre": "Mini-Games",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Crazy Faces (USA) (Proto)",
+      "fullpath": "gamegear-Crazy Faces (USA) (Proto)",
+      "name": "Crazy Faces",
+      "year": "1993",
+      "publisher": "The Kremlin",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Crystal Warriors (USA, Europe)",
+      "fullpath": "gamegear-Crystal Warriors (USA, Europe)",
+      "name": "Crystal Warriors",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cutthroat Island (USA, Europe)",
+      "fullpath": "gamegear-Cutthroat Island (USA, Europe)",
+      "name": "Cutthroat Island",
+      "year": "1995",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Daffy Duck in Hollywood (Europe)",
+      "fullpath": "gamegear-Daffy Duck in Hollywood (Europe)",
+      "name": "Daffy Duck in Hollywood",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Deep Duck Trouble Starring Donald Duck (USA, Europe)",
+      "fullpath": "gamegear-Deep Duck Trouble Starring Donald Duck (USA, Europe)",
+      "name": "Deep Duck Trouble Starring Donald Duck",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Defenders of Oasis (USA, Europe)",
+      "fullpath": "gamegear-Defenders of Oasis (USA, Europe)",
+      "name": "Defenders of Oasis",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Desert Speedtrap starring Road Runner and Wile E. Coyote (USA)",
+      "fullpath": "gamegear-Desert Speedtrap starring Road Runner and Wile E. Coyote (USA)",
+      "name": "Desert Speedtrap starring Road Runner and Wile E. Coyote",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Desert Strike - Return to the Gulf (USA, Europe)",
+      "fullpath": "gamegear-Desert Strike - Return to the Gulf (USA, Europe)",
+      "name": "Desert Strike: Return to the Gulf",
+      "year": "1994",
+      "publisher": "Electronic Arts",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Devilish (USA)",
+      "fullpath": "gamegear-Devilish (USA)",
+      "name": "Devilish",
+      "year": "1991",
+      "publisher": "Sage's Creation",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Donald no Magical World (Japan)",
+      "fullpath": "gamegear-Donald no Magical World (Japan)",
+      "name": "Donald no Magical World",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Doraemon - Noranosuke no Yabou (Japan)",
+      "fullpath": "gamegear-Doraemon - Noranosuke no Yabou (Japan)",
+      "name": "Doraemon: Noranosuke no Yabou",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Doraemon - Waku Waku Pocket Paradise (Japan)",
+      "fullpath": "gamegear-Doraemon - Waku Waku Pocket Paradise (Japan)",
+      "name": "Doraemon: Waku Waku Pocket Paradise",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Mini-Games",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Double Dragon (USA, Europe)",
+      "fullpath": "gamegear-Double Dragon (USA, Europe)",
+      "name": "Double Dragon",
+      "year": "1993",
+      "publisher": "Virgin Interactive",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dr. Robotnik's Mean Bean Machine (USA, Europe)",
+      "fullpath": "gamegear-Dr. Robotnik's Mean Bean Machine (USA, Europe)",
+      "name": "Dr. Robotnik's Mean Bean Machine",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dragon - The Bruce Lee Story (USA)",
+      "fullpath": "gamegear-Dragon - The Bruce Lee Story (USA)",
+      "name": "Dragon: The Bruce Lee Story",
+      "year": "1993",
+      "publisher": "Acclaim",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Crystal (USA, Europe)",
+      "fullpath": "gamegear-Dragon Crystal (USA, Europe)",
+      "name": "Dragon Crystal",
+      "year": "1990",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dropzone (Europe)",
+      "fullpath": "gamegear-Dropzone (Europe)",
+      "name": "Dropzone",
+      "year": "1994",
+      "publisher": "Codemasters",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dunk Kids (Japan)",
+      "fullpath": "gamegear-Dunk Kids (Japan)",
+      "name": "Dunk Kids",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Sports/Basketball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dynamite Headdy (USA, Europe)",
+      "fullpath": "gamegear-Dynamite Headdy (USA, Europe)",
+      "name": "Dynamite Headdy",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Earthworm Jim (USA)",
+      "fullpath": "gamegear-Earthworm Jim (USA)",
+      "name": "Earthworm Jim",
+      "year": "1995",
+      "publisher": "Playmates",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ecco II - The Tides of Time (USA, Europe)",
+      "fullpath": "gamegear-Ecco II - The Tides of Time (USA, Europe)",
+      "name": "Ecco II: The Tides of Time",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ecco the Dolphin (USA, Europe)",
+      "fullpath": "gamegear-Ecco the Dolphin (USA, Europe)",
+      "name": "Ecco the Dolphin",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ernie Els Golf (Europe)",
+      "fullpath": "gamegear-Ernie Els Golf (Europe)",
+      "name": "Ernie Els Golf",
+      "year": "1994",
+      "publisher": "Codemasters",
+      "genre": "Sports/Golf",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Evander Holyfield's 'Real Deal' Boxing (USA)",
+      "fullpath": "gamegear-Evander Holyfield's 'Real Deal' Boxing (USA)",
+      "name": "Evander Holyfield's 'Real Deal' Boxing",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Sports/Boxing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Excellent Dizzy Collection, The (Europe)",
+      "fullpath": "gamegear-Excellent Dizzy Collection, The (Europe)",
+      "name": "Excellent Dizzy Collection, The",
+      "year": "1993",
+      "publisher": "Codemasters",
+      "genre": "Compilation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "F-15 Strike Eagle (USA, Europe)",
+      "fullpath": "gamegear-F-15 Strike Eagle (USA, Europe)",
+      "name": "F-15 Strike Eagle",
+      "year": "1993",
+      "publisher": "MicroProse",
+      "genre": "Flying",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "F1 (USA, Europe)",
+      "fullpath": "gamegear-F1 (USA, Europe)",
+      "name": "F1",
+      "year": "1995",
+      "publisher": "Domark",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "F1 - World Championship Edition (Europe)",
+      "fullpath": "gamegear-F1 - World Championship Edition (Europe)",
+      "name": "F1: World Championship Edition",
+      "year": "1995",
+      "publisher": "Domark",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Faceball 2000 (Japan)",
+      "fullpath": "gamegear-Faceball 2000 (Japan)",
+      "name": "Faceball 2000",
+      "year": "1993",
+      "publisher": "Xanth Software",
+      "genre": "Sports/Futuristic",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Factory Panic (Europe)",
+      "fullpath": "gamegear-Factory Panic (Europe)",
+      "name": "Factory Panic",
+      "year": "1991",
+      "publisher": "Biox",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fantastic Dizzy (USA)",
+      "fullpath": "gamegear-Fantastic Dizzy (USA)",
+      "name": "Fantastic Dizzy",
+      "year": "1993",
+      "publisher": "Codemasters",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fantasy Zone (USA)",
+      "fullpath": "gamegear-Fantasy Zone (USA)",
+      "name": "Fantasy Zone",
+      "year": "1991",
+      "publisher": "Sims",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fatal Fury Special (USA)",
+      "fullpath": "gamegear-Fatal Fury Special (USA)",
+      "name": "Fatal Fury Special",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "Fighter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "FIFA International Soccer (USA, Europe)",
+      "fullpath": "gamegear-FIFA International Soccer (USA, Europe)",
+      "name": "FIFA International Soccer",
+      "year": "1994",
+      "publisher": "Electronic Arts",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "FIFA Soccer 96 (USA, Europe)",
+      "fullpath": "gamegear-FIFA Soccer 96 (USA, Europe)",
+      "name": "FIFA Soccer 96",
+      "year": "1995",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Foreman for Real (World)",
+      "fullpath": "gamegear-Foreman for Real (World)",
+      "name": "Foreman for Real",
+      "year": "1995",
+      "publisher": "Acclaim",
+      "genre": "Sports/Boxing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Frank Thomas Big Hurt Baseball (USA)",
+      "fullpath": "gamegear-Frank Thomas Big Hurt Baseball (USA)",
+      "name": "Frank Thomas Big Hurt Baseball",
+      "year": "1995",
+      "publisher": "Acclaim",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Fred Couples Golf (USA)",
+      "fullpath": "gamegear-Fred Couples Golf (USA)",
+      "name": "Fred Couples Golf",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Frogger (USA) (Proto)",
+      "fullpath": "gamegear-Frogger (USA) (Proto)",
+      "name": "Frogger",
+      "year": "1991",
+      "publisher": "Majesco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "From TV Animation - Slam Dunk - Shouri e no Starting 5 (Japan)",
+      "fullpath": "gamegear-From TV Animation - Slam Dunk - Shouri e no Starting 5 (Japan)",
+      "name": "From TV Animation: Slam Dunk: Shouri e no Starting 5",
+      "year": "1994",
+      "publisher": "Sims",
+      "genre": "Sports/Basketball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "G-LOC Air Battle (USA, Europe)",
+      "fullpath": "gamegear-G-LOC Air Battle (USA, Europe)",
+      "name": "G-LOC Air Battle",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Flying",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Galaga 2 (Europe)",
+      "fullpath": "gamegear-Galaga 2 (Europe)",
+      "name": "Galaga 2",
+      "year": "1991",
+      "publisher": "Namco",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Gamble Panic (Japan)",
+      "fullpath": "gamegear-Gamble Panic (Japan)",
+      "name": "Gamble Panic",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Tabletop",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Gambler Jiko Chuushinha (Japan)",
+      "fullpath": "gamegear-Gambler Jiko Chuushinha (Japan)",
+      "name": "Gambler Jiko Chuushinha",
+      "year": "1992",
+      "publisher": "Game Arts",
+      "genre": "Mahjong",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Ganbare Gorby! (Japan)",
+      "fullpath": "gamegear-Ganbare Gorby! (Japan)",
+      "name": "Ganbare Gorby!",
+      "year": "1991",
+      "publisher": "Biox",
+      "genre": "Action",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Garfield - Caught in the Act (USA, Europe)",
+      "fullpath": "gamegear-Garfield - Caught in the Act (USA, Europe)",
+      "name": "Garfield: Caught in the Act",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Gear Works (USA)",
+      "fullpath": "gamegear-Gear Works (USA)",
+      "name": "Gear Works",
+      "year": "1994",
+      "publisher": "Sony Imagesoft",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "George Foreman's KO Boxing (USA, Europe)",
+      "fullpath": "gamegear-George Foreman's KO Boxing (USA, Europe)",
+      "name": "George Foreman's KO Boxing",
+      "year": "1992",
+      "publisher": "Flying Edge",
+      "genre": "Sports/Boxing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "GG Aleste (Japan)",
+      "fullpath": "gamegear-GG Aleste (Japan)",
+      "name": "GG Aleste",
+      "year": "1991",
+      "publisher": "Compile",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "GP Rider (USA, Europe)",
+      "fullpath": "gamegear-GP Rider (USA, Europe)",
+      "name": "GP Rider",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Greendog (USA, Europe)",
+      "fullpath": "gamegear-Greendog (USA, Europe)",
+      "name": "Greendog",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Griffin (Japan)",
+      "fullpath": "gamegear-Griffin (Japan)",
+      "name": "Griffin",
+      "year": "1991",
+      "publisher": "Nippon Telenet",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Gunstar Heroes (Japan)",
+      "fullpath": "gamegear-Gunstar Heroes (Japan)",
+      "name": "Gunstar Heroes",
+      "year": "1995",
+      "publisher": "Treasure",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Halley Wars (USA, Europe)",
+      "fullpath": "gamegear-Halley Wars (USA, Europe)",
+      "name": "Halley Wars",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Head Buster (Japan) (Translated En)",
+      "fullpath": "gamegear-Head Buster (Japan) (Translated En)",
+      "name": "Head Buster",
+      "year": "1991",
+      "publisher": "NCS",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Home Alone (USA, Europe)",
+      "fullpath": "gamegear-Home Alone (USA, Europe)",
+      "name": "Home Alone",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Hook (USA, Europe)",
+      "fullpath": "gamegear-Hook (USA, Europe)",
+      "name": "Hook",
+      "year": "1992",
+      "publisher": "Sony Imagesoft",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Hurricanes (Europe)",
+      "fullpath": "gamegear-Hurricanes (Europe)",
+      "name": "Hurricanes",
+      "year": "1994",
+      "publisher": "U.S. Gold",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Hyokkori Hyoutan-Jima - Hyoutan-Jima no Daikoukai (Japan)",
+      "fullpath": "gamegear-Hyokkori Hyoutan-Jima - Hyoutan-Jima no Daikoukai (Japan)",
+      "name": "Hyokkori Hyoutan-Jima: Hyoutan-Jima no Daikoukai",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ichidant~R GG (Japan)",
+      "fullpath": "gamegear-Ichidant~R GG (Japan)",
+      "name": "Ichidant~R GG",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Incredible Crash Dummies, The (USA, Europe)",
+      "fullpath": "gamegear-Incredible Crash Dummies, The (USA, Europe)",
+      "name": "Incredible Crash Dummies, The",
+      "year": "1992",
+      "publisher": "Flying Edge",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Incredible Hulk, The (USA, Europe)",
+      "fullpath": "gamegear-Incredible Hulk, The (USA, Europe)",
+      "name": "Incredible Hulk, The",
+      "year": "1995",
+      "publisher": "U.S. Gold",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Indiana Jones and the Last Crusade (USA, Europe)",
+      "fullpath": "gamegear-Indiana Jones and the Last Crusade (USA, Europe)",
+      "name": "Indiana Jones and the Last Crusade",
+      "year": "1992",
+      "publisher": "U.S. Gold",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Iron Man X-O Manowar in Heavy Metal (USA, Europe)",
+      "fullpath": "gamegear-Iron Man X-O Manowar in Heavy Metal (USA, Europe)",
+      "name": "Iron Man X-O Manowar in Heavy Metal",
+      "year": "1996",
+      "publisher": "Acclaim",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Itchy & Scratchy Game, The (USA, Europe)",
+      "fullpath": "gamegear-Itchy & Scratchy Game, The (USA, Europe)",
+      "name": "Itchy & Scratchy Game, The",
+      "year": "1995",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "J-League GG Pro Striker '94 (Japan)",
+      "fullpath": "gamegear-J-League GG Pro Striker '94 (Japan)",
+      "name": "J-League GG Pro Striker '94",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "J-League Soccer - Dream Eleven (Japan)",
+      "fullpath": "gamegear-J-League Soccer - Dream Eleven (Japan)",
+      "name": "J-League Soccer: Dream Eleven",
+      "year": "1995",
+      "publisher": "Sims",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "James Bond 007 - The Duel (Europe)",
+      "fullpath": "gamegear-James Bond 007 - The Duel (Europe)",
+      "name": "James Bond 007: The Duel",
+      "year": "1993",
+      "publisher": "Domark",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "James Pond 3 - Operation Starfi5h (Europe)",
+      "fullpath": "gamegear-James Pond 3 - Operation Starfi5h (Europe)",
+      "name": "James Pond 3: Operation Starfi5h",
+      "year": "1993",
+      "publisher": "Electronic Arts",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "James Pond II - Codename RoboCod (USA)",
+      "fullpath": "gamegear-James Pond II - Codename RoboCod (USA)",
+      "name": "James Pond II: Codename RoboCod",
+      "year": "1993",
+      "publisher": "U.S. Gold",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jang Pung II (Korea) (Unl)",
+      "fullpath": "gamegear-Jang Pung II (Korea) (Unl)",
+      "name": "Jang Pung II",
+      "year": "1993",
+      "publisher": "Sieco",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Jeopardy! (USA)",
+      "fullpath": "gamegear-Jeopardy! (USA)",
+      "name": "Jeopardy!",
+      "year": "1992",
+      "publisher": "GameTek",
+      "genre": "Game Show",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jeopardy! - Sports Edition (USA, Europe)",
+      "fullpath": "gamegear-Jeopardy! - Sports Edition (USA, Europe)",
+      "name": "Jeopardy!: Sports Edition",
+      "year": "1994",
+      "publisher": "GameTek",
+      "genre": "Game Show",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Joe Montana Football (USA)",
+      "fullpath": "gamegear-Joe Montana Football (USA)",
+      "name": "Joe Montana Football",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Sports/Football",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Journey from Darkness - Strider Returns (USA, Europe)",
+      "fullpath": "gamegear-Journey from Darkness - Strider Returns (USA, Europe)",
+      "name": "Journey from Darkness: Strider Returns",
+      "year": "1994",
+      "publisher": "U.S. Gold",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Judge Dredd (USA, Europe)",
+      "fullpath": "gamegear-Judge Dredd (USA, Europe)",
+      "name": "Judge Dredd",
+      "year": "1995",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Junction (USA, Europe)",
+      "fullpath": "gamegear-Junction (USA, Europe)",
+      "name": "Junction",
+      "year": "1991",
+      "publisher": "Micronet",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jungle Book, The (USA)",
+      "fullpath": "gamegear-Jungle Book, The (USA)",
+      "name": "Jungle Book, The",
+      "year": "1994",
+      "publisher": "Majesco Games",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jungle Strike (USA)",
+      "fullpath": "gamegear-Jungle Strike (USA)",
+      "name": "Jungle Strike",
+      "year": "1993",
+      "publisher": "Unexpected Development",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Jurassic Park (USA, Europe)",
+      "fullpath": "gamegear-Jurassic Park (USA, Europe)",
+      "name": "Jurassic Park",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Kaitou Saint Tail (Japan)",
+      "fullpath": "gamegear-Kaitou Saint Tail (Japan)",
+      "name": "Kaitou Saint Tail",
+      "year": "1996",
+      "publisher": "Minato Giken",
+      "genre": "Mini-Games",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Kawasaki Superbike Challenge (USA, Europe)",
+      "fullpath": "gamegear-Kawasaki Superbike Challenge (USA, Europe)",
+      "name": "Kawasaki Superbike Challenge",
+      "year": "1995",
+      "publisher": "Time Warner Interactive",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Kenyuu Densetsu Yaiba (Japan)",
+      "fullpath": "gamegear-Kenyuu Densetsu Yaiba (Japan)",
+      "name": "Kenyuu Densetsu Yaiba",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Kinetic Connection (Japan)",
+      "fullpath": "gamegear-Kinetic Connection (Japan)",
+      "name": "Kinetic Connection",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Kishin Douji Zenki (Japan)",
+      "fullpath": "gamegear-Kishin Douji Zenki (Japan)",
+      "name": "Kishin Douji Zenki",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Klax (USA, Europe)",
+      "fullpath": "gamegear-Klax (USA, Europe)",
+      "name": "Klax",
+      "year": "1992",
+      "publisher": "Tengen",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Krusty's Fun House (USA, Europe)",
+      "fullpath": "gamegear-Krusty's Fun House (USA, Europe)",
+      "name": "Krusty's Fun House",
+      "year": "1993",
+      "publisher": "Flying Edge",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Land of Illusion Starring Mickey Mouse (USA, Europe)",
+      "fullpath": "gamegear-Land of Illusion Starring Mickey Mouse (USA, Europe)",
+      "name": "Land of Illusion Starring Mickey Mouse",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Last Action Hero (USA)",
+      "fullpath": "gamegear-Last Action Hero (USA)",
+      "name": "Last Action Hero",
+      "year": "1992",
+      "publisher": "Sony Imagesoft",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Legend of Illusion Starring Mickey Mouse (USA, Europe)",
+      "fullpath": "gamegear-Legend of Illusion Starring Mickey Mouse (USA, Europe)",
+      "name": "Legend of Illusion Starring Mickey Mouse",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Lemmings (World)",
+      "fullpath": "gamegear-Lemmings (World)",
+      "name": "Lemmings",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Lemmings 2 - The Tribes (Europe) (Proto)",
+      "fullpath": "gamegear-Lemmings 2 - The Tribes (Europe) (Proto)",
+      "name": "Lemmings 2: The Tribes",
+      "year": "1994",
+      "publisher": "Spidersoft",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lion King, The (USA)",
+      "fullpath": "gamegear-Lion King, The (USA)",
+      "name": "Lion King, The",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Lost World, The - Jurassic Park (USA)",
+      "fullpath": "gamegear-Lost World, The - Jurassic Park (USA)",
+      "name": "Lost World, The: Jurassic Park",
+      "year": "1997",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lucky Dime Caper, The (USA, Europe)",
+      "fullpath": "gamegear-Lucky Dime Caper, The (USA, Europe)",
+      "name": "Lucky Dime Caper, The",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Lunar - Sanposuru Gakuen (Japan) (Translated En)",
+      "fullpath": "gamegear-Lunar - Sanposuru Gakuen (Japan) (Translated En)",
+      "name": "Lunar: Sanposuru Gakuen",
+      "year": "1996",
+      "publisher": "Game Arts",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Madden NFL '95 (USA)",
+      "fullpath": "gamegear-Madden NFL '95 (USA)",
+      "name": "Madden NFL '95",
+      "year": "1995",
+      "publisher": "THQ",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL '96 (USA, Europe)",
+      "fullpath": "gamegear-Madden NFL '96 (USA, Europe)",
+      "name": "Madden NFL '96",
+      "year": "1996",
+      "publisher": "Electronic Arts",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madou Monogatari I - 3-Tsu no Madoukyuu (Japan) (Translated En)",
+      "fullpath": "gamegear-Madou Monogatari I - 3-Tsu no Madoukyuu (Japan) (Translated En)",
+      "name": "Madou Monogatari I: 3-Tsu no Madoukyuu",
+      "year": "1993",
+      "publisher": "Compile",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Magical Puzzle Popils (World)",
+      "fullpath": "gamegear-Magical Puzzle Popils (World)",
+      "name": "Magical Puzzle Popils",
+      "year": "1992",
+      "publisher": "Tengen",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Magical Taruruuto-kun (Japan)",
+      "fullpath": "gamegear-Magical Taruruuto-kun (Japan)",
+      "name": "Magical Taruruuto-kun",
+      "year": "1991",
+      "publisher": "Tsukuda Ideal",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Majors - Pro Baseball, The (USA)",
+      "fullpath": "gamegear-Majors - Pro Baseball, The (USA)",
+      "name": "Majors: Pro Baseball, The",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mappy (Japan)",
+      "fullpath": "gamegear-Mappy (Japan)",
+      "name": "Mappy",
+      "year": "1991",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Marble Madness (USA, Europe)",
+      "fullpath": "gamegear-Marble Madness (USA, Europe)",
+      "name": "Marble Madness",
+      "year": "1992",
+      "publisher": "Tengen",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Marko's Magic Football (Europe)",
+      "fullpath": "gamegear-Marko's Magic Football (Europe)",
+      "name": "Marko's Magic Football",
+      "year": "1993",
+      "publisher": "Domark",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mega Man (USA, Europe)",
+      "fullpath": "gamegear-Mega Man (USA, Europe)",
+      "name": "Mega Man",
+      "year": "1995",
+      "publisher": "U.S. Gold",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mick & Mack as the Global Gladiators (USA, Europe)",
+      "fullpath": "gamegear-Mick & Mack as the Global Gladiators (USA, Europe)",
+      "name": "Mick & Mack as the Global Gladiators",
+      "year": "1992",
+      "publisher": "Virgin Interactive",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mickey's Ultimate Challenge (USA, Europe)",
+      "fullpath": "gamegear-Mickey's Ultimate Challenge (USA, Europe)",
+      "name": "Mickey's Ultimate Challenge",
+      "year": "1994",
+      "publisher": "Hi Tech Expressions",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Micro Machines (Europe)",
+      "fullpath": "gamegear-Micro Machines (Europe)",
+      "name": "Micro Machines",
+      "year": "1993",
+      "publisher": "Codemasters",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Micro Machines 2 - Turbo Tournament (Europe)",
+      "fullpath": "gamegear-Micro Machines 2 - Turbo Tournament (Europe)",
+      "name": "Micro Machines 2: Turbo Tournament",
+      "year": "1995",
+      "publisher": "Codemasters",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mighty Morphin Power Rangers (USA, Europe)",
+      "fullpath": "gamegear-Mighty Morphin Power Rangers (USA, Europe)",
+      "name": "Mighty Morphin Power Rangers",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mighty Morphin Power Rangers - The Movie (USA, Europe)",
+      "fullpath": "gamegear-Mighty Morphin Power Rangers - The Movie (USA, Europe)",
+      "name": "Mighty Morphin Power Rangers: The Movie",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MLBPA Baseball (USA)",
+      "fullpath": "gamegear-MLBPA Baseball (USA)",
+      "name": "MLBPA Baseball",
+      "year": "1995",
+      "publisher": "EA Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Monster Truck Wars (USA, Europe)",
+      "fullpath": "gamegear-Monster Truck Wars (USA, Europe)",
+      "name": "Monster Truck Wars",
+      "year": "1995",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mortal Kombat (USA, Europe)",
+      "fullpath": "gamegear-Mortal Kombat (USA, Europe)",
+      "name": "Mortal Kombat",
+      "year": "1993",
+      "publisher": "Arena",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Mortal Kombat 3 (Europe)",
+      "fullpath": "gamegear-Mortal Kombat 3 (Europe)",
+      "name": "Mortal Kombat 3",
+      "year": "1996",
+      "publisher": "Acclaim",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Mortal Kombat II (World)",
+      "fullpath": "gamegear-Mortal Kombat II (World)",
+      "name": "Mortal Kombat II",
+      "year": "1994",
+      "publisher": "Acclaim",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Ms. Pac-Man (USA)",
+      "fullpath": "gamegear-Ms. Pac-Man (USA)",
+      "name": "Ms. Pac-Man",
+      "year": "1995",
+      "publisher": "Majesco Games",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "NBA Action Starring David Robinson (USA)",
+      "fullpath": "gamegear-NBA Action Starring David Robinson (USA)",
+      "name": "NBA Action Starring David Robinson",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Sports/Basketball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "NBA Jam (USA)",
+      "fullpath": "gamegear-NBA Jam (USA)",
+      "name": "NBA Jam",
+      "year": "1993",
+      "publisher": "Arena",
+      "genre": "Sports/Basketball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "NBA Jam Tournament Edition (USA, Europe)",
+      "fullpath": "gamegear-NBA Jam Tournament Edition (USA, Europe)",
+      "name": "NBA Jam Tournament Edition",
+      "year": "1995",
+      "publisher": "Acclaim",
+      "genre": "Sports/Basketball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "NFL '95 (USA)",
+      "fullpath": "gamegear-NFL '95 (USA)",
+      "name": "NFL '95",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Quarterback Club '96 (USA, Europe)",
+      "fullpath": "gamegear-NFL Quarterback Club '96 (USA, Europe)",
+      "name": "NFL Quarterback Club '96",
+      "year": "1995",
+      "publisher": "Acclaim",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Quarterback Club (World)",
+      "fullpath": "gamegear-NFL Quarterback Club (World)",
+      "name": "NFL Quarterback Club",
+      "year": "1994",
+      "publisher": "Acclaim",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL All-Star Hockey (USA)",
+      "fullpath": "gamegear-NHL All-Star Hockey (USA)",
+      "name": "NHL All-Star Hockey",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL Hockey (USA, Europe)",
+      "fullpath": "gamegear-NHL Hockey (USA, Europe)",
+      "name": "NHL Hockey",
+      "year": "1994",
+      "publisher": "EA Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ninja Gaiden (USA, Europe)",
+      "fullpath": "gamegear-Ninja Gaiden (USA, Europe)",
+      "name": "Ninja Gaiden",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Olympic Gold (USA)",
+      "fullpath": "gamegear-Olympic Gold (USA)",
+      "name": "Olympic Gold",
+      "year": "1992",
+      "publisher": "U.S. Gold",
+      "genre": "Sports/Olympic",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ottifants, The (Europe)",
+      "fullpath": "gamegear-Ottifants, The (Europe)",
+      "name": "Ottifants, The",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "OutRun (USA, Europe)",
+      "fullpath": "gamegear-OutRun (USA, Europe)",
+      "name": "OutRun",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "OutRun Europa (USA, Europe)",
+      "fullpath": "gamegear-OutRun Europa (USA, Europe)",
+      "name": "OutRun Europa",
+      "year": "1991",
+      "publisher": "U.S. Gold",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pac-Attack (USA, Europe)",
+      "fullpath": "gamegear-Pac-Attack (USA, Europe)",
+      "name": "Pac-Attack",
+      "year": "1994",
+      "publisher": "Namco",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pac-In-Time (USA) (Proto)",
+      "fullpath": "gamegear-Pac-In-Time (USA) (Proto)",
+      "name": "Pac-In-Time",
+      "year": "1994",
+      "publisher": "Namco",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pac-Man (USA)",
+      "fullpath": "gamegear-Pac-Man (USA)",
+      "name": "Pac-Man",
+      "year": "1991",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Panzer Dragoon Mini (Japan)",
+      "fullpath": "gamegear-Panzer Dragoon Mini (Japan)",
+      "name": "Panzer Dragoon Mini",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Paperboy (USA, Europe)",
+      "fullpath": "gamegear-Paperboy (USA, Europe)",
+      "name": "Paperboy",
+      "year": "1992",
+      "publisher": "Tengen",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Paperboy II (USA, Europe)",
+      "fullpath": "gamegear-Paperboy II (USA, Europe)",
+      "name": "Paperboy II",
+      "year": "1992",
+      "publisher": "Tengen",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pengo (USA, Europe)",
+      "fullpath": "gamegear-Pengo (USA, Europe)",
+      "name": "Pengo",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pete Sampras Tennis (Europe)",
+      "fullpath": "gamegear-Pete Sampras Tennis (Europe)",
+      "name": "Pete Sampras Tennis",
+      "year": "1994",
+      "publisher": "Codemasters",
+      "genre": "Sports/Tennis",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "PGA Tour 96 (USA, Europe)",
+      "fullpath": "gamegear-PGA Tour 96 (USA, Europe)",
+      "name": "PGA Tour 96",
+      "year": "1996",
+      "publisher": "Black Pearl",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "PGA Tour Golf (USA)",
+      "fullpath": "gamegear-PGA Tour Golf (USA)",
+      "name": "PGA Tour Golf",
+      "year": "1994",
+      "publisher": "Tengen",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "PGA Tour Golf II (USA, Europe)",
+      "fullpath": "gamegear-PGA Tour Golf II (USA, Europe)",
+      "name": "PGA Tour Golf II",
+      "year": "1995",
+      "publisher": "Time Warner Interactive",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Phantasy Star Adventure (Japan) (Translated En)",
+      "fullpath": "gamegear-Phantasy Star Adventure (Japan) (Translated En)",
+      "name": "Phantasy Star Adventure",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Phantasy Star Gaiden (Japan) (Translated En)",
+      "fullpath": "gamegear-Phantasy Star Gaiden (Japan) (Translated En)",
+      "name": "Phantasy Star Gaiden",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Phantom 2040 (USA, Europe)",
+      "fullpath": "gamegear-Phantom 2040 (USA, Europe)",
+      "name": "Phantom 2040",
+      "year": "1995",
+      "publisher": "Viacom New Media",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pinball Dreams (USA)",
+      "fullpath": "gamegear-Pinball Dreams (USA)",
+      "name": "Pinball Dreams",
+      "year": "1995",
+      "publisher": "GameTek",
+      "genre": "Pinball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pocket Jansou (Japan)",
+      "fullpath": "gamegear-Pocket Jansou (Japan)",
+      "name": "Pocket Jansou",
+      "year": "1992",
+      "publisher": "Namco",
+      "genre": "Mahjong",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Poker Faced Paul's Blackjack (USA)",
+      "fullpath": "gamegear-Poker Faced Paul's Blackjack (USA)",
+      "name": "Poker Faced Paul's Blackjack",
+      "year": "1993",
+      "publisher": "Adrenalin Interactive",
+      "genre": "Casino",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Poker Faced Paul's Gin (USA)",
+      "fullpath": "gamegear-Poker Faced Paul's Gin (USA)",
+      "name": "Poker Faced Paul's Gin",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Casino",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Poker Faced Paul's Poker (USA)",
+      "fullpath": "gamegear-Poker Faced Paul's Poker (USA)",
+      "name": "Poker Faced Paul's Poker",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Casino",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Poker Faced Paul's Solitaire (USA)",
+      "fullpath": "gamegear-Poker Faced Paul's Solitaire (USA)",
+      "name": "Poker Faced Paul's Solitaire",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Casino",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pop Breaker (Japan)",
+      "fullpath": "gamegear-Pop Breaker (Japan)",
+      "name": "Pop Breaker",
+      "year": "1991",
+      "publisher": "Micro Cabin",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Popeye no Beach Volleyball (Japan)",
+      "fullpath": "gamegear-Popeye no Beach Volleyball (Japan)",
+      "name": "Popeye no Beach Volleyball",
+      "year": "1994",
+      "publisher": "Technos Japan",
+      "genre": "Sports/Volleyball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Power Drive (Europe)",
+      "fullpath": "gamegear-Power Drive (Europe)",
+      "name": "Power Drive",
+      "year": "1994",
+      "publisher": "U.S. Gold",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Power Strike II (Japan, Europe)",
+      "fullpath": "gamegear-Power Strike II (Japan, Europe)",
+      "name": "Power Strike II",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Predator 2 (USA, Europe)",
+      "fullpath": "gamegear-Predator 2 (USA, Europe)",
+      "name": "Predator 2",
+      "year": "1992",
+      "publisher": "Arena",
+      "genre": "Action",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Primal Rage (USA, Europe)",
+      "fullpath": "gamegear-Primal Rage (USA, Europe)",
+      "name": "Primal Rage",
+      "year": "1995",
+      "publisher": "Time Warner Interactive",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Prince of Persia (USA, Europe)",
+      "fullpath": "gamegear-Prince of Persia (USA, Europe)",
+      "name": "Prince of Persia",
+      "year": "1992",
+      "publisher": "Tengen",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Psychic World (USA, Europe)",
+      "fullpath": "gamegear-Psychic World (USA, Europe)",
+      "name": "Psychic World",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Putt & Putter (USA, Europe)",
+      "fullpath": "gamegear-Putt & Putter (USA, Europe)",
+      "name": "Putt & Putter",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Sports/Golf",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Puyo Puyo (Japan)",
+      "fullpath": "gamegear-Puyo Puyo (Japan)",
+      "name": "Puyo Puyo",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Puyo Puyo 2 (Japan)",
+      "fullpath": "gamegear-Puyo Puyo 2 (Japan)",
+      "name": "Puyo Puyo 2",
+      "year": "1994",
+      "publisher": "Compile",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy (USA, Europe)",
+      "fullpath": "gamegear-Quest for the Shaven Yak Starring Ren Hoek & Stimpy (USA, Europe)",
+      "name": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "R.B.I. Baseball '94 (USA)",
+      "fullpath": "gamegear-R.B.I. Baseball '94 (USA)",
+      "name": "R.B.I. Baseball '94",
+      "year": "1994",
+      "publisher": "Tengen",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "R.C. Grand Prix (USA, Europe)",
+      "fullpath": "gamegear-R.C. Grand Prix (USA, Europe)",
+      "name": "R.C. Grand Prix",
+      "year": "1992",
+      "publisher": "Absolute Entertainment",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rastan Saga (Japan)",
+      "fullpath": "gamegear-Rastan Saga (Japan)",
+      "name": "Rastan Saga",
+      "year": "1991",
+      "publisher": "Taito Corporation",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Revenge of Drancon (USA)",
+      "fullpath": "gamegear-Revenge of Drancon (USA)",
+      "name": "Revenge of Drancon",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Riddick Bowe Boxing (USA)",
+      "fullpath": "gamegear-Riddick Bowe Boxing (USA)",
+      "name": "Riddick Bowe Boxing",
+      "year": "1993",
+      "publisher": "Extreme Entertainment Group",
+      "genre": "Sports/Boxing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rise of the Robots (USA, Europe)",
+      "fullpath": "gamegear-Rise of the Robots (USA, Europe)",
+      "name": "Rise of the Robots",
+      "year": "1995",
+      "publisher": "Time Warner Interactive",
+      "genre": "Fighter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ristar (World)",
+      "fullpath": "gamegear-Ristar (World)",
+      "name": "Ristar",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Road Rash (USA)",
+      "fullpath": "gamegear-Road Rash (USA)",
+      "name": "Road Rash",
+      "year": "1994",
+      "publisher": "U.S. Gold",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "RoboCop 3 (USA, Europe)",
+      "fullpath": "gamegear-RoboCop 3 (USA, Europe)",
+      "name": "RoboCop 3",
+      "year": "1994",
+      "publisher": "Flying Edge",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "RoboCop versus The Terminator (USA, Europe)",
+      "fullpath": "gamegear-RoboCop versus The Terminator (USA, Europe)",
+      "name": "RoboCop versus The Terminator",
+      "year": "1993",
+      "publisher": "Virgin Interactive",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Royal Stone - Hirakareshi Toki no Tobira (Japan) (Translated En)",
+      "fullpath": "gamegear-Royal Stone - Hirakareshi Toki no Tobira (Japan) (Translated En)",
+      "name": "Royal Stone: Hirakareshi Toki no Tobira",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "S.S. Lucifer - Man Overboard! (Europe)",
+      "fullpath": "gamegear-S.S. Lucifer - Man Overboard! (Europe)",
+      "name": "S.S. Lucifer: Man Overboard!",
+      "year": "1993",
+      "publisher": "Codemasters",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Samurai Shodown (USA)",
+      "fullpath": "gamegear-Samurai Shodown (USA)",
+      "name": "Samurai Shodown",
+      "year": "1994",
+      "publisher": "Takara",
+      "genre": "Fighter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Scratch Golf (USA)",
+      "fullpath": "gamegear-Scratch Golf (USA)",
+      "name": "Scratch Golf",
+      "year": "1994",
+      "publisher": "Electronics Application",
+      "genre": "Sports/Golf",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "SD Gundam - Winner's History (Japan) (Translated En)",
+      "fullpath": "gamegear-SD Gundam - Winner's History (Japan) (Translated En)",
+      "name": "SD Gundam: Winner's History",
+      "year": "1995",
+      "publisher": "Bandai",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sega Game Pack 4 in 1 (Europe)",
+      "fullpath": "gamegear-Sega Game Pack 4 in 1 (Europe)",
+      "name": "Sega Game Pack 4 in 1",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Compilation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sensible Soccer - European Champions (Europe)",
+      "fullpath": "gamegear-Sensible Soccer - European Champions (Europe)",
+      "name": "Sensible Soccer: European Champions",
+      "year": "1993",
+      "publisher": "Sony Imagesoft",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shanghai II (Japan)",
+      "fullpath": "gamegear-Shanghai II (Japan)",
+      "name": "Shanghai II",
+      "year": "1994",
+      "publisher": "SunSoft",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shaq Fu (USA, Europe)",
+      "fullpath": "gamegear-Shaq Fu (USA, Europe)",
+      "name": "Shaq Fu",
+      "year": "1995",
+      "publisher": "Electronic Arts",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Shikinjou (Japan)",
+      "fullpath": "gamegear-Shikinjou (Japan)",
+      "name": "Shikinjou",
+      "year": "1991",
+      "publisher": "SunSoft",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shining Force Gaiden - Final Conflict (Japan) (Translated En)",
+      "fullpath": "gamegear-Shining Force Gaiden - Final Conflict (Japan) (Translated En)",
+      "name": "Shining Force Gaiden: Final Conflict",
+      "year": "1995",
+      "publisher": "Camelot Software Planning",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shining Force II - The Sword of Hajya (USA, Europe)",
+      "fullpath": "gamegear-Shining Force II - The Sword of Hajya (USA, Europe)",
+      "name": "Shining Force II: The Sword of Hajya",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shinobi (USA, Europe)",
+      "fullpath": "gamegear-Shinobi (USA, Europe)",
+      "name": "Shinobi",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shinobi II - The Silent Fury (World)",
+      "fullpath": "gamegear-Shinobi II - The Silent Fury (World)",
+      "name": "Shinobi II: The Silent Fury",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Side Pocket (USA)",
+      "fullpath": "gamegear-Side Pocket (USA)",
+      "name": "Side Pocket",
+      "year": "1994",
+      "publisher": "Data East USA",
+      "genre": "Sports/Pool and Dart",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Simpsons, The - Bart vs. The Space Mutants (USA, Europe)",
+      "fullpath": "gamegear-Simpsons, The - Bart vs. The Space Mutants (USA, Europe)",
+      "name": "Simpsons, The: Bart vs. The Space Mutants",
+      "year": "1992",
+      "publisher": "Flying Edge",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Simpsons, The - Bart vs. The World (USA, Europe)",
+      "fullpath": "gamegear-Simpsons, The - Bart vs. The World (USA, Europe)",
+      "name": "Simpsons, The: Bart vs. The World",
+      "year": "1993",
+      "publisher": "Flying Edge",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Slider (USA, Europe)",
+      "fullpath": "gamegear-Slider (USA, Europe)",
+      "name": "Slider",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Smurfs Travel the World, The (Europe)",
+      "fullpath": "gamegear-Smurfs Travel the World, The (Europe)",
+      "name": "Smurfs Travel the World, The",
+      "year": "1996",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Smurfs, The (Europe)",
+      "fullpath": "gamegear-Smurfs, The (Europe)",
+      "name": "Smurfs, The",
+      "year": "1994",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Solitaire Funpak (USA)",
+      "fullpath": "gamegear-Solitaire Funpak (USA)",
+      "name": "Solitaire Funpak",
+      "year": "1994",
+      "publisher": "Interplay",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Solitaire Poker (USA, Europe)",
+      "fullpath": "gamegear-Solitaire Poker (USA, Europe)",
+      "name": "Solitaire Poker",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Casino",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Sonic Blast (World)",
+      "fullpath": "gamegear-Sonic Blast (World)",
+      "name": "Sonic Blast",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic Chaos (USA, Europe)",
+      "fullpath": "gamegear-Sonic Chaos (USA, Europe)",
+      "name": "Sonic Chaos",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sonic Drift (Japan)",
+      "fullpath": "gamegear-Sonic Drift (Japan)",
+      "name": "Sonic Drift",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sonic Drift 2 (Japan, USA)",
+      "fullpath": "gamegear-Sonic Drift 2 (Japan, USA)",
+      "name": "Sonic Drift 2",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic Labyrinth (World)",
+      "fullpath": "gamegear-Sonic Labyrinth (World)",
+      "name": "Sonic Labyrinth",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic Spinball (USA, Europe)",
+      "fullpath": "gamegear-Sonic Spinball (USA, Europe)",
+      "name": "Sonic Spinball",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Pinball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sonic The Hedgehog (World)",
+      "fullpath": "gamegear-Sonic The Hedgehog (World)",
+      "name": "Sonic The Hedgehog",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic The Hedgehog - Triple Trouble (USA, Europe)",
+      "fullpath": "gamegear-Sonic The Hedgehog - Triple Trouble (USA, Europe)",
+      "name": "Sonic The Hedgehog: Triple Trouble",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic The Hedgehog 2 (World)",
+      "fullpath": "gamegear-Sonic The Hedgehog 2 (World)",
+      "name": "Sonic The Hedgehog 2",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Soukoban (Japan)",
+      "fullpath": "gamegear-Soukoban (Japan)",
+      "name": "Soukoban",
+      "year": "1990",
+      "publisher": "Riverhillsoft",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Space Harrier (World)",
+      "fullpath": "gamegear-Space Harrier (World)",
+      "name": "Space Harrier",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Spider-Man - Return of the Sinister Six (USA, Europe)",
+      "fullpath": "gamegear-Spider-Man - Return of the Sinister Six (USA, Europe)",
+      "name": "Spider-Man: Return of the Sinister Six",
+      "year": "1993",
+      "publisher": "Flying Edge",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Spider-Man and the X-Men in Arcade's Revenge (USA)",
+      "fullpath": "gamegear-Spider-Man and the X-Men in Arcade's Revenge (USA)",
+      "name": "Spider-Man and the X-Men in Arcade's Revenge",
+      "year": "1994",
+      "publisher": "Flying Edge",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Spider-Man vs. The Kingpin (USA, Europe)",
+      "fullpath": "gamegear-Spider-Man vs. The Kingpin (USA, Europe)",
+      "name": "Spider-Man vs. The Kingpin",
+      "year": "1992",
+      "publisher": "Flying Edge",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Spirou (Europe) (Proto)",
+      "fullpath": "gamegear-Spirou (Europe) (Proto)",
+      "name": "Spirou",
+      "year": "1996",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sports Illustrated Championship Football & Baseball (USA, Europe)",
+      "fullpath": "gamegear-Sports Illustrated Championship Football & Baseball (USA, Europe)",
+      "name": "Sports Illustrated Championship Football & Baseball",
+      "year": "1993",
+      "publisher": "Black Pearl",
+      "genre": "Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sports Trivia (USA)",
+      "fullpath": "gamegear-Sports Trivia (USA)",
+      "name": "Sports Trivia",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Game Show",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sports Trivia - Championship Edition (USA, Europe)",
+      "fullpath": "gamegear-Sports Trivia - Championship Edition (USA, Europe)",
+      "name": "Sports Trivia: Championship Edition",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Game Show",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)",
+      "fullpath": "gamegear-Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)",
+      "name": "Star Trek: The Next Generation: The Advanced Holodeck Tutorial",
+      "year": "1994",
+      "publisher": "Absolute Entertainment",
+      "genre": "Simulation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Star Trek Generations - Beyond the Nexus (USA, Europe)",
+      "fullpath": "gamegear-Star Trek Generations - Beyond the Nexus (USA, Europe)",
+      "name": "Star Trek Generations: Beyond the Nexus",
+      "year": "1995",
+      "publisher": "Absolute Entertainment",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Star Wars (USA)",
+      "fullpath": "gamegear-Star Wars (USA)",
+      "name": "Star Wars",
+      "year": "1993",
+      "publisher": "U.S. Gold",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Stargate (World)",
+      "fullpath": "gamegear-Stargate (World)",
+      "name": "Stargate",
+      "year": "1994",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Street Hero (USA) (Proto)",
+      "fullpath": "gamegear-Street Hero (USA) (Proto)",
+      "name": "Street Hero",
+      "year": "1994",
+      "publisher": "Daou",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Streets of Rage (World)",
+      "fullpath": "gamegear-Streets of Rage (World)",
+      "name": "Streets of Rage",
+      "year": "1992",
+      "publisher": "Sega",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Streets of Rage 2 (World)",
+      "fullpath": "gamegear-Streets of Rage 2 (World)",
+      "name": "Streets of Rage 2",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Striker (Europe)",
+      "fullpath": "gamegear-Striker (Europe)",
+      "name": "Striker",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Battletank (USA)",
+      "fullpath": "gamegear-Super Battletank (USA)",
+      "name": "Super Battletank",
+      "year": "2001",
+      "publisher": "Majesco Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Columns (USA, Europe)",
+      "fullpath": "gamegear-Super Columns (USA, Europe)",
+      "name": "Super Columns",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Golf (USA)",
+      "fullpath": "gamegear-Super Golf (USA)",
+      "name": "Super Golf",
+      "year": "1991",
+      "publisher": "Sage's Creation",
+      "genre": "Sports/Golf",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Kick Off (Europe, Japan)",
+      "fullpath": "gamegear-Super Kick Off (Europe, Japan)",
+      "name": "Super Kick Off",
+      "year": "1991",
+      "publisher": "Tiertex Design Studios",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Monaco GP (USA, Europe)",
+      "fullpath": "gamegear-Super Monaco GP (USA, Europe)",
+      "name": "Super Monaco GP",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Off Road (USA, Europe)",
+      "fullpath": "gamegear-Super Off Road (USA, Europe)",
+      "name": "Super Off Road",
+      "year": "1992",
+      "publisher": "Virgin Games",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Return of the Jedi (USA, Europe)",
+      "fullpath": "gamegear-Super Return of the Jedi (USA, Europe)",
+      "name": "Super Return of the Jedi",
+      "year": "1994",
+      "publisher": "Black Pearl",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Smash T.V. (World)",
+      "fullpath": "gamegear-Super Smash T.V. (World)",
+      "name": "Super Smash T.V.",
+      "year": "1994",
+      "publisher": "Flying Edge",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Space Invaders (USA, Europe)",
+      "fullpath": "gamegear-Super Space Invaders (USA, Europe)",
+      "name": "Super Space Invaders",
+      "year": "1993",
+      "publisher": "Domark",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Superman - The Man of Steel (Europe)",
+      "fullpath": "gamegear-Superman - The Man of Steel (Europe)",
+      "name": "Superman: The Man of Steel",
+      "year": "1993",
+      "publisher": "Virgin Interactive",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Surf Ninjas (USA)",
+      "fullpath": "gamegear-Surf Ninjas (USA)",
+      "name": "Surf Ninjas",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sylvan Tale (Japan) (Translated En)",
+      "fullpath": "gamegear-Sylvan Tale (Japan) (Translated En)",
+      "name": "Sylvan Tale",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "T2 - The Arcade Game (USA, Europe)",
+      "fullpath": "gamegear-T2 - The Arcade Game (USA, Europe)",
+      "name": "T2: The Arcade Game",
+      "year": "1993",
+      "publisher": "Arena",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tails Adventures (World)",
+      "fullpath": "gamegear-Tails Adventures (World)",
+      "name": "Tails Adventures",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tails no Sky Patrol (Japan)",
+      "fullpath": "gamegear-Tails no Sky Patrol (Japan)",
+      "name": "Tails no Sky Patrol",
+      "year": "1995",
+      "publisher": "Sonic Team",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Taisen Mahjong HaoPai (Japan)",
+      "fullpath": "gamegear-Taisen Mahjong HaoPai (Japan)",
+      "name": "Taisen Mahjong HaoPai",
+      "year": "1990",
+      "publisher": "Sega",
+      "genre": "Mahjong",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Taisen Mahjong HaoPai 2 (Japan)",
+      "fullpath": "gamegear-Taisen Mahjong HaoPai 2 (Japan)",
+      "name": "Taisen Mahjong HaoPai 2",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Mahjong",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "TaleSpin (USA, Europe)",
+      "fullpath": "gamegear-TaleSpin (USA, Europe)",
+      "name": "TaleSpin",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tarzan - Lord of the Jungle (Europe)",
+      "fullpath": "gamegear-Tarzan - Lord of the Jungle (Europe)",
+      "name": "Tarzan: Lord of the Jungle",
+      "year": "1994",
+      "publisher": "GameTek",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Taz in Escape from Mars (USA, Europe)",
+      "fullpath": "gamegear-Taz in Escape from Mars (USA, Europe)",
+      "name": "Taz in Escape from Mars",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Taz-Mania (USA, Europe)",
+      "fullpath": "gamegear-Taz-Mania (USA, Europe)",
+      "name": "Taz-Mania",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tempo Jr. (World)",
+      "fullpath": "gamegear-Tempo Jr. (World)",
+      "name": "Tempo Jr.",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tengen World Cup Soccer (USA, Europe)",
+      "fullpath": "gamegear-Tengen World Cup Soccer (USA, Europe)",
+      "name": "Tengen World Cup Soccer",
+      "year": "1993",
+      "publisher": "Tengen",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Terminator 2 - Judgment Day (USA, Europe)",
+      "fullpath": "gamegear-Terminator 2 - Judgment Day (USA, Europe)",
+      "name": "Terminator 2: Judgment Day",
+      "year": "1993",
+      "publisher": "Flying Edge",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Terminator, The (USA, Europe)",
+      "fullpath": "gamegear-Terminator, The (USA, Europe)",
+      "name": "Terminator, The",
+      "year": "1992",
+      "publisher": "Virgin Interactive",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tesserae (USA, Europe)",
+      "fullpath": "gamegear-Tesserae (USA, Europe)",
+      "name": "Tesserae",
+      "year": "1993",
+      "publisher": "GameTek",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tintin in Tibet (Europe)",
+      "fullpath": "gamegear-Tintin in Tibet (Europe)",
+      "name": "Tintin in Tibet",
+      "year": "1995",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tom and Jerry - The Movie (USA)",
+      "fullpath": "gamegear-Tom and Jerry - The Movie (USA)",
+      "name": "Tom and Jerry: The Movie",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "True Lies (World)",
+      "fullpath": "gamegear-True Lies (World)",
+      "name": "True Lies",
+      "year": "1995",
+      "publisher": "Acclaim",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ultimate Soccer (Japan, Europe)",
+      "fullpath": "gamegear-Ultimate Soccer (Japan, Europe)",
+      "name": "Ultimate Soccer",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Urban Strike (USA, Europe)",
+      "fullpath": "gamegear-Urban Strike (USA, Europe)",
+      "name": "Urban Strike",
+      "year": "1995",
+      "publisher": "Electronic Arts",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Vampire - Master of Darkness (USA)",
+      "fullpath": "gamegear-Vampire - Master of Darkness (USA)",
+      "name": "Vampire: Master of Darkness",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Virtua Fighter Animation (USA, Europe)",
+      "fullpath": "gamegear-Virtua Fighter Animation (USA, Europe)",
+      "name": "Virtua Fighter Animation",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "VR Troopers (USA, Europe)",
+      "fullpath": "gamegear-VR Troopers (USA, Europe)",
+      "name": "VR Troopers",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wagan Land (Japan)",
+      "fullpath": "gamegear-Wagan Land (Japan)",
+      "name": "Wagan Land",
+      "year": "1991",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wheel of Fortune (USA)",
+      "fullpath": "gamegear-Wheel of Fortune (USA)",
+      "name": "Wheel of Fortune",
+      "year": "1992",
+      "publisher": "GameTek",
+      "genre": "Game Show",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wild Snake (USA) (Proto)",
+      "fullpath": "gamegear-Wild Snake (USA) (Proto)",
+      "name": "Wild Snake",
+      "year": "1994",
+      "publisher": "Bullet-Proof Software",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wimbledon Tennis (World)",
+      "fullpath": "gamegear-Wimbledon Tennis (World)",
+      "name": "Wimbledon Tennis",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Sports/Tennis",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Winter Olympics - Lillehammer '94 (USA, Europe)",
+      "fullpath": "gamegear-Winter Olympics - Lillehammer '94 (USA, Europe)",
+      "name": "Winter Olympics: Lillehammer '94",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Sports/Olympic",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wizard Pinball (Europe)",
+      "fullpath": "gamegear-Wizard Pinball (Europe)",
+      "name": "Wizard Pinball",
+      "year": "1992",
+      "publisher": "Domark",
+      "genre": "Pinball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wolfchild (Europe)",
+      "fullpath": "gamegear-Wolfchild (Europe)",
+      "name": "Wolfchild",
+      "year": "1993",
+      "publisher": "Virgin Interactive",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wonder Boy - The Dragon's Trap (Europe)",
+      "fullpath": "gamegear-Wonder Boy - The Dragon's Trap (Europe)",
+      "name": "Wonder Boy: The Dragon's Trap",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Woody Pop (USA, Europe)",
+      "fullpath": "gamegear-Woody Pop (USA, Europe)",
+      "name": "Woody Pop",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "World Class Leader Board (USA, Europe)",
+      "fullpath": "gamegear-World Class Leader Board (USA, Europe)",
+      "name": "World Class Leader Board",
+      "year": "1991",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "World Cup USA 94 (USA, Europe)",
+      "fullpath": "gamegear-World Cup USA 94 (USA, Europe)",
+      "name": "World Cup USA 94",
+      "year": "1994",
+      "publisher": "U.S. Gold",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "World Series Baseball '95 (USA)",
+      "fullpath": "gamegear-World Series Baseball '95 (USA)",
+      "name": "World Series Baseball '95",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "World Series Baseball (USA)",
+      "fullpath": "gamegear-World Series Baseball (USA)",
+      "name": "World Series Baseball",
+      "year": "1993",
+      "publisher": "Sega",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "WWF Raw (USA, Europe)",
+      "fullpath": "gamegear-WWF Raw (USA, Europe)",
+      "name": "WWF Raw",
+      "year": "1994",
+      "publisher": "Acclaim",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WWF Wrestlemania Steel Cage Challenge (USA)",
+      "fullpath": "gamegear-WWF Wrestlemania Steel Cage Challenge (USA)",
+      "name": "WWF Wrestlemania Steel Cage Challenge",
+      "year": "1993",
+      "publisher": "Flying Edge",
+      "genre": "Sports/Wrestling",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "X-Men (USA)",
+      "fullpath": "gamegear-X-Men (USA)",
+      "name": "X-Men",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "X-Men - Gamemaster's Legacy (USA, Europe)",
+      "fullpath": "gamegear-X-Men - Gamemaster's Legacy (USA, Europe)",
+      "name": "X-Men: Gamemaster's Legacy",
+      "year": "1995",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "X-Men - Mojo World (USA, Europe)",
+      "fullpath": "gamegear-X-Men - Mojo World (USA, Europe)",
+      "name": "X-Men: Mojo World",
+      "year": "1996",
+      "publisher": "Sega",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Yogi Bear in Yogi Bear's Goldrush (USA) (Proto)",
+      "fullpath": "gamegear-Yogi Bear in Yogi Bear's Goldrush (USA) (Proto)",
+      "name": "Yogi Bear in Yogi Bear's Goldrush",
+      "year": "1994",
+      "publisher": "Gametek",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)",
+      "fullpath": "gamegear-Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)",
+      "name": "Yu Yu Hakusho: Horobishimono no Gyakushuu",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai (Japan) (Translated En)",
+      "fullpath": "gamegear-Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai (Japan) (Translated En)",
+      "name": "Yu Yu Hakusho 2: Gekitou! Nanakyou no Tatakai",
+      "year": "1994",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Zool - Ninja of the Nth Dimension (USA)",
+      "fullpath": "gamegear-Zool - Ninja of the Nth Dimension (USA)",
+      "name": "Zool: Ninja of the Nth Dimension",
+      "year": "1993",
+      "publisher": "GameTek",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Zoop (USA)",
+      "fullpath": "gamegear-Zoop (USA)",
+      "name": "Zoop",
+      "year": "1995",
+      "publisher": "Viacom New Media",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    }
+  ]
+}

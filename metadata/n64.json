@@ -1,0 +1,2975 @@
+{
+  "platform": "n64",
+  "totalGames": 329,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "n64 game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "n64.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "007 - GoldenEye (USA)",
+      "fullpath": "n64-007 - GoldenEye (USA)",
+      "name": "007: GoldenEye",
+      "year": "1997",
+      "publisher": "Rareware/Nintendo",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "007 - The World Is Not Enough (USA)",
+      "fullpath": "n64-007 - The World Is Not Enough (USA)",
+      "name": "007: The World Is Not Enough",
+      "year": "2000",
+      "publisher": "EA Games",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "1080 Snowboarding (Japan, USA)",
+      "fullpath": "n64-1080 Snowboarding (Japan, USA)",
+      "name": "1080 Snowboarding",
+      "year": "1998",
+      "publisher": "Nintendo",
+      "genre": "Sports/Snowboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "AeroFighters Assault (USA)",
+      "fullpath": "n64-AeroFighters Assault (USA)",
+      "name": "AeroFighters Assault",
+      "year": "1997",
+      "publisher": "Video System",
+      "genre": "Flying",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "AeroGauge (USA)",
+      "fullpath": "n64-AeroGauge (USA)",
+      "name": "AeroGauge",
+      "year": "1998",
+      "publisher": "ASCII Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Aidyn Chronicles - The First Mage (USA)",
+      "fullpath": "n64-Aidyn Chronicles - The First Mage (USA)",
+      "name": "Aidyn Chronicles: The First Mage",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Air Boarder 64 (Europe)",
+      "fullpath": "n64-Air Boarder 64 (Europe)",
+      "name": "Air Boarder 64",
+      "year": "1998",
+      "publisher": "GMI",
+      "genre": "Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "All Star Tennis '99 (USA)",
+      "fullpath": "n64-All Star Tennis '99 (USA)",
+      "name": "All Star Tennis '99",
+      "year": "1999",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Sports/Tennis",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "All-Star Baseball 2000 (USA)",
+      "fullpath": "n64-All-Star Baseball 2000 (USA)",
+      "name": "All-Star Baseball 2000",
+      "year": "1999",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "All-Star Baseball 2001 (USA)",
+      "fullpath": "n64-All-Star Baseball 2001 (USA)",
+      "name": "All-Star Baseball 2001",
+      "year": "2000",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "All-Star Baseball '99 (USA)",
+      "fullpath": "n64-All-Star Baseball '99 (USA)",
+      "name": "All-Star Baseball '99",
+      "year": "1998",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Armorines - Project S.W.A.R.M. (USA)",
+      "fullpath": "n64-Armorines - Project S.W.A.R.M. (USA)",
+      "name": "Armorines: Project S.W.A.R.M.",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Army Men - Air Combat (USA)",
+      "fullpath": "n64-Army Men - Air Combat (USA)",
+      "name": "Army Men: Air Combat",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Army Men - Sarge's Heroes (USA)",
+      "fullpath": "n64-Army Men - Sarge's Heroes (USA)",
+      "name": "Army Men: Sarge's Heroes",
+      "year": "1999",
+      "publisher": "3DO",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Army Men - Sarge's Heroes 2 (USA)",
+      "fullpath": "n64-Army Men - Sarge's Heroes 2 (USA)",
+      "name": "Army Men: Sarge's Heroes 2",
+      "year": "2000",
+      "publisher": "3DO",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Asteroids Hyper 64 (USA)",
+      "fullpath": "n64-Asteroids Hyper 64 (USA)",
+      "name": "Asteroids Hyper 64",
+      "year": "1999",
+      "publisher": "Crave Entertainment",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Automobili Lamborghini (USA)",
+      "fullpath": "n64-Automobili Lamborghini (USA)",
+      "name": "Automobili Lamborghini",
+      "year": "1997",
+      "publisher": "Titus",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bakuretsu Muteki Bangaioh (Japan)",
+      "fullpath": "n64-Bakuretsu Muteki Bangaioh (Japan)",
+      "name": "Bakuretsu Muteki Bangaioh",
+      "year": "1999",
+      "publisher": "Treasure/Esp",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Banjo-Kazooie (USA)",
+      "fullpath": "n64-Banjo-Kazooie (USA)",
+      "name": "Banjo-Kazooie",
+      "year": "1998",
+      "publisher": "Rareware/Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Banjo-Tooie (USA)",
+      "fullpath": "n64-Banjo-Tooie (USA)",
+      "name": "Banjo-Tooie",
+      "year": "2000",
+      "publisher": "Rareware/Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bassmasters 2000 (USA)",
+      "fullpath": "n64-Bassmasters 2000 (USA)",
+      "name": "Bassmasters 2000",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Batman Beyond - Return of the Joker (USA)",
+      "fullpath": "n64-Batman Beyond - Return of the Joker (USA)",
+      "name": "Batman Beyond: Return of the Joker",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BattleTanx - Global Assault (USA)",
+      "fullpath": "n64-BattleTanx - Global Assault (USA)",
+      "name": "BattleTanx: Global Assault",
+      "year": "1999",
+      "publisher": "3DO",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "BattleTanx (USA)",
+      "fullpath": "n64-BattleTanx (USA)",
+      "name": "BattleTanx",
+      "year": "1998",
+      "publisher": "3DO",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Battlezone - Rise of the Black Dogs (USA)",
+      "fullpath": "n64-Battlezone - Rise of the Black Dogs (USA)",
+      "name": "Battlezone: Rise of the Black Dogs",
+      "year": "2000",
+      "publisher": "Crave Entertainment",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Beetle Adventure Racing! (USA)",
+      "fullpath": "n64-Beetle Adventure Racing! (USA)",
+      "name": "Beetle Adventure Racing!",
+      "year": "1999",
+      "publisher": "Electronic Arts",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Big Mountain 2000 (USA)",
+      "fullpath": "n64-Big Mountain 2000 (USA)",
+      "name": "Big Mountain 2000",
+      "year": "2000",
+      "publisher": "SouthPeak Interactive",
+      "genre": "Sports/Snowboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bio F.R.E.A.K.S. (USA)",
+      "fullpath": "n64-Bio F.R.E.A.K.S. (USA)",
+      "name": "Bio F.R.E.A.K.S.",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Blast Corps (USA)",
+      "fullpath": "n64-Blast Corps (USA)",
+      "name": "Blast Corps",
+      "year": "1997",
+      "publisher": "Rareware/Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Blues Brothers 2000 (USA)",
+      "fullpath": "n64-Blues Brothers 2000 (USA)",
+      "name": "Blues Brothers 2000",
+      "year": "2000",
+      "publisher": "Titus",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Body Harvest (USA)",
+      "fullpath": "n64-Body Harvest (USA)",
+      "name": "Body Harvest",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Bomberman 64 - The Second Attack! (USA)",
+      "fullpath": "n64-Bomberman 64 - The Second Attack! (USA)",
+      "name": "Bomberman 64: The Second Attack!",
+      "year": "2000",
+      "publisher": "Vatical Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bomberman 64 (Japan) (Translated En)",
+      "fullpath": "n64-Bomberman 64 (Japan) (Translated En)",
+      "name": "Bomberman 64",
+      "year": "2001",
+      "publisher": "Hudson",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Bomberman 64 (USA)",
+      "fullpath": "n64-Bomberman 64 (USA)",
+      "name": "Bomberman 64",
+      "year": "1997",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bomberman Hero (USA)",
+      "fullpath": "n64-Bomberman Hero (USA)",
+      "name": "Bomberman Hero",
+      "year": "1998",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bottom of the 9th (USA)",
+      "fullpath": "n64-Bottom of the 9th (USA)",
+      "name": "Bottom of the 9th",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Brunswick Circuit Pro Bowling (USA)",
+      "fullpath": "n64-Brunswick Circuit Pro Bowling (USA)",
+      "name": "Brunswick Circuit Pro Bowling",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Sports/Bowling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Buck Bumble (USA)",
+      "fullpath": "n64-Buck Bumble (USA)",
+      "name": "Buck Bumble",
+      "year": "1998",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bug's Life, A (USA)",
+      "fullpath": "n64-Bug's Life, A (USA)",
+      "name": "Bug's Life, A",
+      "year": "1999",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bust-A-Move 2 - Arcade Edition (USA)",
+      "fullpath": "n64-Bust-A-Move 2 - Arcade Edition (USA)",
+      "name": "Bust-A-Move 2: Arcade Edition",
+      "year": "1998",
+      "publisher": "Acclaim",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bust-A-Move '99 (USA)",
+      "fullpath": "n64-Bust-A-Move '99 (USA)",
+      "name": "Bust-A-Move '99",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "California Speed (USA)",
+      "fullpath": "n64-California Speed (USA)",
+      "name": "California Speed",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Carmageddon 64 (USA)",
+      "fullpath": "n64-Carmageddon 64 (USA)",
+      "name": "Carmageddon 64",
+      "year": "1999",
+      "publisher": "Titus",
+      "genre": "Driving",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Castlevania - Legacy of Darkness (USA)",
+      "fullpath": "n64-Castlevania - Legacy of Darkness (USA)",
+      "name": "Castlevania: Legacy of Darkness",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Castlevania (USA)",
+      "fullpath": "n64-Castlevania (USA)",
+      "name": "Castlevania",
+      "year": "1998",
+      "publisher": "Konami",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Centre Court Tennis (Europe)",
+      "fullpath": "n64-Centre Court Tennis (Europe)",
+      "name": "Centre Court Tennis",
+      "year": "1999",
+      "publisher": "GMI",
+      "genre": "Sports/Tennis",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chameleon Twist (Japan) (Translated En)",
+      "fullpath": "n64-Chameleon Twist (Japan) (Translated En)",
+      "name": "Chameleon Twist",
+      "year": "1997",
+      "publisher": "Japan Supply System",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chameleon Twist (USA)",
+      "fullpath": "n64-Chameleon Twist (USA)",
+      "name": "Chameleon Twist",
+      "year": "1997",
+      "publisher": "SunSoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Chameleon Twist 2 (USA)",
+      "fullpath": "n64-Chameleon Twist 2 (USA)",
+      "name": "Chameleon Twist 2",
+      "year": "1997",
+      "publisher": "SunSoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Charlie Blast's Territory (USA)",
+      "fullpath": "n64-Charlie Blast's Territory (USA)",
+      "name": "Charlie Blast's Territory",
+      "year": "1999",
+      "publisher": "Kemco",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Chopper Attack (USA)",
+      "fullpath": "n64-Chopper Attack (USA)",
+      "name": "Chopper Attack",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Clay Fighter - Sculptor's Cut (USA)",
+      "fullpath": "n64-Clay Fighter - Sculptor's Cut (USA)",
+      "name": "Clay Fighter: Sculptor's Cut",
+      "year": "1998",
+      "publisher": "Interplay",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Clay Fighter 63 1-3 (USA)",
+      "fullpath": "n64-Clay Fighter 63 1-3 (USA)",
+      "name": "Clay Fighter 63 1-3",
+      "year": "1997",
+      "publisher": "Interplay",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Command & Conquer (USA)",
+      "fullpath": "n64-Command & Conquer (USA)",
+      "name": "Command & Conquer",
+      "year": "1999",
+      "publisher": "Westwood Studios/Nintendo",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Conker's Bad Fur Day (USA)",
+      "fullpath": "n64-Conker's Bad Fur Day (USA)",
+      "name": "Conker's Bad Fur Day",
+      "year": "2001",
+      "publisher": "Rareware",
+      "genre": "Platform",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Cruis'n Exotica (USA)",
+      "fullpath": "n64-Cruis'n Exotica (USA)",
+      "name": "Cruis'n Exotica",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cruis'n USA (USA)",
+      "fullpath": "n64-Cruis'n USA (USA)",
+      "name": "Cruis'n USA",
+      "year": "1996",
+      "publisher": "Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cruis'n World (USA)",
+      "fullpath": "n64-Cruis'n World (USA)",
+      "name": "Cruis'n World",
+      "year": "1998",
+      "publisher": "Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "CyberTiger (USA)",
+      "fullpath": "n64-CyberTiger (USA)",
+      "name": "CyberTiger",
+      "year": "2000",
+      "publisher": "Electronic Arts",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dance Dance Revolution - Disney Dancing Museum (Japan)",
+      "fullpath": "n64-Dance Dance Revolution - Disney Dancing Museum (Japan)",
+      "name": "Dance Dance Revolution: Disney Dancing Museum",
+      "year": "2000",
+      "publisher": "Bemani/Disney Interactive/Konami",
+      "genre": "Rhythm",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dark Rift (USA)",
+      "fullpath": "n64-Dark Rift (USA)",
+      "name": "Dark Rift",
+      "year": "1997",
+      "publisher": "Vic Tokai Inc.",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Deadly Arts (USA)",
+      "fullpath": "n64-Deadly Arts (USA)",
+      "name": "Deadly Arts",
+      "year": "1998",
+      "publisher": "Konami",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Densha de Go! 64 (Japan) (Translated En)",
+      "fullpath": "n64-Densha de Go! 64 (Japan) (Translated En)",
+      "name": "Densha de Go! 64",
+      "year": "1999",
+      "publisher": "Taito",
+      "genre": "Simulation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Destruction Derby 64 (USA)",
+      "fullpath": "n64-Destruction Derby 64 (USA)",
+      "name": "Destruction Derby 64",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dezaemon 3D (Japan)",
+      "fullpath": "n64-Dezaemon 3D (Japan)",
+      "name": "Dezaemon 3D",
+      "year": "1998",
+      "publisher": "Athena",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Diddy Kong Racing (USA)",
+      "fullpath": "n64-Diddy Kong Racing (USA)",
+      "name": "Diddy Kong Racing",
+      "year": "1997",
+      "publisher": "Rareware",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Donald Duck - Goin' Quackers (USA)",
+      "fullpath": "n64-Donald Duck - Goin' Quackers (USA)",
+      "name": "Donald Duck: Goin' Quackers",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Donkey Kong 64 (USA)",
+      "fullpath": "n64-Donkey Kong 64 (USA)",
+      "name": "Donkey Kong 64",
+      "year": "1999",
+      "publisher": "Rareware/Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Doom 64 (USA)",
+      "fullpath": "n64-Doom 64 (USA)",
+      "name": "Doom 64",
+      "year": "1997",
+      "publisher": "Midway",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Dr. Mario 64 (USA)",
+      "fullpath": "n64-Dr. Mario 64 (USA)",
+      "name": "Dr. Mario 64",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dual Heroes (USA)",
+      "fullpath": "n64-Dual Heroes (USA)",
+      "name": "Dual Heroes",
+      "year": "1998",
+      "publisher": "Electro Brain Corp",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Duck Dodgers Starring Daffy Duck (USA)",
+      "fullpath": "n64-Duck Dodgers Starring Daffy Duck (USA)",
+      "name": "Duck Dodgers Starring Daffy Duck",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Duke Nukem - Zero Hour (USA)",
+      "fullpath": "n64-Duke Nukem - Zero Hour (USA)",
+      "name": "Duke Nukem: Zero Hour",
+      "year": "1999",
+      "publisher": "GT Interactive Software",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Duke Nukem 64 (USA)",
+      "fullpath": "n64-Duke Nukem 64 (USA)",
+      "name": "Duke Nukem 64",
+      "year": "1997",
+      "publisher": "GT Interactive Software",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Earthworm Jim 3D (USA)",
+      "fullpath": "n64-Earthworm Jim 3D (USA)",
+      "name": "Earthworm Jim 3D",
+      "year": "1999",
+      "publisher": "Rockstar Games",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "ECW Hardcore Revolution (USA)",
+      "fullpath": "n64-ECW Hardcore Revolution (USA)",
+      "name": "ECW Hardcore Revolution",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Elmo's Letter Adventure (USA)",
+      "fullpath": "n64-Elmo's Letter Adventure (USA)",
+      "name": "Elmo's Letter Adventure",
+      "year": "1999",
+      "publisher": "NewKidCo",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - EC (Early Childhood)"
+    },
+    {
+      "id": "Elmo's Number Journey (USA)",
+      "fullpath": "n64-Elmo's Number Journey (USA)",
+      "name": "Elmo's Number Journey",
+      "year": "1999",
+      "publisher": "NewKidCo",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - EC (Early Childhood)"
+    },
+    {
+      "id": "Excitebike 64 (USA)",
+      "fullpath": "n64-Excitebike 64 (USA)",
+      "name": "Excitebike 64",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Extreme-G (USA)",
+      "fullpath": "n64-Extreme-G (USA)",
+      "name": "Extreme-G",
+      "year": "1997",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Extreme-G XG2 (USA)",
+      "fullpath": "n64-Extreme-G XG2 (USA)",
+      "name": "Extreme-G XG2",
+      "year": "1998",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F1 Pole Position 64 (USA)",
+      "fullpath": "n64-F1 Pole Position 64 (USA)",
+      "name": "F1 Pole Position 64",
+      "year": "1997",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F1 Racing Championship (Europe)",
+      "fullpath": "n64-F1 Racing Championship (Europe)",
+      "name": "F1 Racing Championship",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment/Video System",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "F-1 World Grand Prix (USA)",
+      "fullpath": "n64-F-1 World Grand Prix (USA)",
+      "name": "F-1 World Grand Prix",
+      "year": "1998",
+      "publisher": "Video System",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F-1 World Grand Prix II (Europe)",
+      "fullpath": "n64-F-1 World Grand Prix II (Europe)",
+      "name": "F-1 World Grand Prix II",
+      "year": "1999",
+      "publisher": "Video System",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Famista 64 (Japan)",
+      "fullpath": "n64-Famista 64 (Japan)",
+      "name": "Famista 64",
+      "year": "1997",
+      "publisher": "Namco",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "FIFA - Road to World Cup 98 (USA)",
+      "fullpath": "n64-FIFA - Road to World Cup 98 (USA)",
+      "name": "FIFA: Road to World Cup 98",
+      "year": "1997",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA 99 (USA)",
+      "fullpath": "n64-FIFA 99 (USA)",
+      "name": "FIFA 99",
+      "year": "1998",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA Soccer 64 (USA)",
+      "fullpath": "n64-FIFA Soccer 64 (USA)",
+      "name": "FIFA Soccer 64",
+      "year": "1997",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Fighter Destiny 2 (USA)",
+      "fullpath": "n64-Fighter Destiny 2 (USA)",
+      "name": "Fighter Destiny 2",
+      "year": "1998",
+      "publisher": "SouthPeak Interactive",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Fighters Destiny (USA)",
+      "fullpath": "n64-Fighters Destiny (USA)",
+      "name": "Fighters Destiny",
+      "year": "1998",
+      "publisher": "Ocean",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Fighting Force 64 (USA)",
+      "fullpath": "n64-Fighting Force 64 (USA)",
+      "name": "Fighting Force 64",
+      "year": "1999",
+      "publisher": "Crave Entertainment",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Flying Dragon (USA)",
+      "fullpath": "n64-Flying Dragon (USA)",
+      "name": "Flying Dragon",
+      "year": "1998",
+      "publisher": "Natsume",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Forsaken 64 (USA)",
+      "fullpath": "n64-Forsaken 64 (USA)",
+      "name": "Forsaken 64",
+      "year": "1998",
+      "publisher": "Acclaim",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Fox Sports College Hoops '99 (USA)",
+      "fullpath": "n64-Fox Sports College Hoops '99 (USA)",
+      "name": "Fox Sports College Hoops '99",
+      "year": "1998",
+      "publisher": "Fox Sports Interactive",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F-Zero X (USA)",
+      "fullpath": "n64-F-Zero X (USA)",
+      "name": "F-Zero X",
+      "year": "1998",
+      "publisher": "Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Gauntlet Legends (USA)",
+      "fullpath": "n64-Gauntlet Legends (USA)",
+      "name": "Gauntlet Legends",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Gex 3 - Deep Cover Gecko (USA)",
+      "fullpath": "n64-Gex 3 - Deep Cover Gecko (USA)",
+      "name": "Gex 3: Deep Cover Gecko",
+      "year": "1999",
+      "publisher": "Crave Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Gex 64 - Enter the Gecko (USA)",
+      "fullpath": "n64-Gex 64 - Enter the Gecko (USA)",
+      "name": "Gex 64: Enter the Gecko",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Glover (USA)",
+      "fullpath": "n64-Glover (USA)",
+      "name": "Glover",
+      "year": "1998",
+      "publisher": "Hasbro Interactive",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Goemon's Great Adventure (USA)",
+      "fullpath": "n64-Goemon's Great Adventure (USA)",
+      "name": "Goemon's Great Adventure",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Golden Nugget 64 (USA)",
+      "fullpath": "n64-Golden Nugget 64 (USA)",
+      "name": "Golden Nugget 64",
+      "year": "1998",
+      "publisher": "Electronic Arts",
+      "genre": "Casino",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "GT64 - Championship Edition (USA)",
+      "fullpath": "n64-GT64 - Championship Edition (USA)",
+      "name": "GT64: Championship Edition",
+      "year": "1998",
+      "publisher": "Ocean",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harukanaru Augusta - Masters '98 (Japan)",
+      "fullpath": "n64-Harukanaru Augusta - Masters '98 (Japan)",
+      "name": "Harukanaru Augusta: Masters '98",
+      "year": "1997",
+      "publisher": "T&E Soft",
+      "genre": "Sports/Golf",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Harvest Moon 64 (USA)",
+      "fullpath": "n64-Harvest Moon 64 (USA)",
+      "name": "Harvest Moon 64",
+      "year": "1999",
+      "publisher": "Natsume",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hercules - The Legendary Journeys (USA)",
+      "fullpath": "n64-Hercules - The Legendary Journeys (USA)",
+      "name": "Hercules: The Legendary Journeys",
+      "year": "2000",
+      "publisher": "Titus",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Hexen (USA)",
+      "fullpath": "n64-Hexen (USA)",
+      "name": "Hexen",
+      "year": "1997",
+      "publisher": "GT Interactive Software",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Hey You, Pikachu! (USA)",
+      "fullpath": "n64-Hey You, Pikachu! (USA)",
+      "name": "Hey You, Pikachu!",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hot Wheels - Turbo Racing (USA)",
+      "fullpath": "n64-Hot Wheels - Turbo Racing (USA)",
+      "name": "Hot Wheels: Turbo Racing",
+      "year": "1999",
+      "publisher": "Electronic Arts",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hybrid Heaven (USA)",
+      "fullpath": "n64-Hybrid Heaven (USA)",
+      "name": "Hybrid Heaven",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Hydro Thunder (USA)",
+      "fullpath": "n64-Hydro Thunder (USA)",
+      "name": "Hydro Thunder",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Water",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Iggy's Reckin' Balls (USA)",
+      "fullpath": "n64-Iggy's Reckin' Balls (USA)",
+      "name": "Iggy's Reckin' Balls",
+      "year": "1998",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Indiana Jones and the Infernal Machine (USA)",
+      "fullpath": "n64-Indiana Jones and the Infernal Machine (USA)",
+      "name": "Indiana Jones and the Infernal Machine",
+      "year": "2000",
+      "publisher": "LucasArts",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Indy Racing 2000 (USA)",
+      "fullpath": "n64-Indy Racing 2000 (USA)",
+      "name": "Indy Racing 2000",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "In-Fisherman - Bass Hunter 64 (USA)",
+      "fullpath": "n64-In-Fisherman - Bass Hunter 64 (USA)",
+      "name": "In-Fisherman: Bass Hunter 64",
+      "year": "1999",
+      "publisher": "Take2 Interactive",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "International Superstar Soccer 2000 (USA)",
+      "fullpath": "n64-International Superstar Soccer 2000 (USA)",
+      "name": "International Superstar Soccer 2000",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "International Superstar Soccer 64 (USA)",
+      "fullpath": "n64-International Superstar Soccer 64 (USA)",
+      "name": "International Superstar Soccer 64",
+      "year": "1997",
+      "publisher": "Konami",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "International Superstar Soccer '98 (USA)",
+      "fullpath": "n64-International Superstar Soccer '98 (USA)",
+      "name": "International Superstar Soccer '98",
+      "year": "1998",
+      "publisher": "Konami",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "International Track & Field 2000 (USA)",
+      "fullpath": "n64-International Track & Field 2000 (USA)",
+      "name": "International Track & Field 2000",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Sports/Olympic",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "J-League Dynamite Soccer 64 (Japan)",
+      "fullpath": "n64-J-League Dynamite Soccer 64 (Japan)",
+      "name": "J-League Dynamite Soccer 64",
+      "year": "1997",
+      "publisher": "A-Max/Imagineer",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "J-League Eleven Beat 1997 (Japan)",
+      "fullpath": "n64-J-League Eleven Beat 1997 (Japan)",
+      "name": "J-League Eleven Beat 1997",
+      "year": "1997",
+      "publisher": "Hudson",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "J-League Live 64 (Japan)",
+      "fullpath": "n64-J-League Live 64 (Japan)",
+      "name": "J-League Live 64",
+      "year": "1997",
+      "publisher": "Electronic Arts",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jeopardy! (USA)",
+      "fullpath": "n64-Jeopardy! (USA)",
+      "name": "Jeopardy!",
+      "year": "1998",
+      "publisher": "GameTek",
+      "genre": "Game Show",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Jeremy McGrath Supercross 2000 (USA)",
+      "fullpath": "n64-Jeremy McGrath Supercross 2000 (USA)",
+      "name": "Jeremy McGrath Supercross 2000",
+      "year": "2000",
+      "publisher": "Acclaim Sports",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Jet Force Gemini (USA)",
+      "fullpath": "n64-Jet Force Gemini (USA)",
+      "name": "Jet Force Gemini",
+      "year": "1999",
+      "publisher": "Rareware",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Jikkyou J-League 1999 - Perfect Striker 2 (Japan)",
+      "fullpath": "n64-Jikkyou J-League 1999 - Perfect Striker 2 (Japan)",
+      "name": "Jikkyou J-League 1999: Perfect Striker 2",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jikkyou J-League Perfect Striker (Japan)",
+      "fullpath": "n64-Jikkyou J-League Perfect Striker (Japan)",
+      "name": "Jikkyou J-League Perfect Striker",
+      "year": "1996",
+      "publisher": "Konami",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "John Romero's Daikatana (USA)",
+      "fullpath": "n64-John Romero's Daikatana (USA)",
+      "name": "John Romero's Daikatana",
+      "year": "2000",
+      "publisher": "Kemco",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Ken Griffey Jr.'s Slugfest (USA)",
+      "fullpath": "n64-Ken Griffey Jr.'s Slugfest (USA)",
+      "name": "Ken Griffey Jr.'s Slugfest",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Killer Instinct Gold (USA)",
+      "fullpath": "n64-Killer Instinct Gold (USA)",
+      "name": "Killer Instinct Gold",
+      "year": "1996",
+      "publisher": "Rareware/Nintendo",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Kirby 64 - The Crystal Shards (USA)",
+      "fullpath": "n64-Kirby 64 - The Crystal Shards (USA)",
+      "name": "Kirby 64: The Crystal Shards",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Knife Edge - Nose Gunner (USA)",
+      "fullpath": "n64-Knife Edge - Nose Gunner (USA)",
+      "name": "Knife Edge: Nose Gunner",
+      "year": "1998",
+      "publisher": "Kemco",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Knockout Kings 2000 (USA)",
+      "fullpath": "n64-Knockout Kings 2000 (USA)",
+      "name": "Knockout Kings 2000",
+      "year": "1999",
+      "publisher": "EA Sports",
+      "genre": "Sports/Boxing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Kobe Bryant's NBA Courtside (USA)",
+      "fullpath": "n64-Kobe Bryant's NBA Courtside (USA)",
+      "name": "Kobe Bryant's NBA Courtside",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Legend of Zelda, The - Majora's Mask (USA)",
+      "fullpath": "n64-Legend of Zelda, The - Majora's Mask (USA)",
+      "name": "Legend of Zelda, The: Majora's Mask",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Legend of Zelda, The - Ocarina of Time (USA)",
+      "fullpath": "n64-Legend of Zelda, The - Ocarina of Time (USA)",
+      "name": "Legend of Zelda, The: Ocarina of Time",
+      "year": "1998",
+      "publisher": "Nintendo",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "LEGO Racers (USA)",
+      "fullpath": "n64-LEGO Racers (USA)",
+      "name": "LEGO Racers",
+      "year": "1999",
+      "publisher": "Lego Media",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lode Runner 3-D (USA)",
+      "fullpath": "n64-Lode Runner 3-D (USA)",
+      "name": "Lode Runner 3-D",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mace - The Dark Age (USA)",
+      "fullpath": "n64-Mace - The Dark Age (USA)",
+      "name": "Mace: The Dark Age",
+      "year": "1997",
+      "publisher": "Midway",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Madden Football 64 (USA)",
+      "fullpath": "n64-Madden Football 64 (USA)",
+      "name": "Madden Football 64",
+      "year": "1997",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 2000 (USA)",
+      "fullpath": "n64-Madden NFL 2000 (USA)",
+      "name": "Madden NFL 2000",
+      "year": "1999",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 2001 (USA)",
+      "fullpath": "n64-Madden NFL 2001 (USA)",
+      "name": "Madden NFL 2001",
+      "year": "2000",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 2002 (USA)",
+      "fullpath": "n64-Madden NFL 2002 (USA)",
+      "name": "Madden NFL 2002",
+      "year": "2001",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 99 (USA)",
+      "fullpath": "n64-Madden NFL 99 (USA)",
+      "name": "Madden NFL 99",
+      "year": "1998",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Magical Tetris Challenge (USA)",
+      "fullpath": "n64-Magical Tetris Challenge (USA)",
+      "name": "Magical Tetris Challenge",
+      "year": "1999",
+      "publisher": "Capcom",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Major League Baseball featuring Ken Griffey Jr. (USA)",
+      "fullpath": "n64-Major League Baseball featuring Ken Griffey Jr. (USA)",
+      "name": "Major League Baseball featuring Ken Griffey Jr.",
+      "year": "1998",
+      "publisher": "Nintendo",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Golf (USA)",
+      "fullpath": "n64-Mario Golf (USA)",
+      "name": "Mario Golf",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Kart 64 (USA)",
+      "fullpath": "n64-Mario Kart 64 (USA)",
+      "name": "Mario Kart 64",
+      "year": "1997",
+      "publisher": "Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Party (USA)",
+      "fullpath": "n64-Mario Party (USA)",
+      "name": "Mario Party",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Party",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Party 2 (USA)",
+      "fullpath": "n64-Mario Party 2 (USA)",
+      "name": "Mario Party 2",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Party",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Party 3 (USA)",
+      "fullpath": "n64-Mario Party 3 (USA)",
+      "name": "Mario Party 3",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Tennis (USA)",
+      "fullpath": "n64-Mario Tennis (USA)",
+      "name": "Mario Tennis",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Sports/Tennis",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mega Man 64 (USA)",
+      "fullpath": "n64-Mega Man 64 (USA)",
+      "name": "Mega Man 64",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mia Hamm Soccer 64 (USA)",
+      "fullpath": "n64-Mia Hamm Soccer 64 (USA)",
+      "name": "Mia Hamm Soccer 64",
+      "year": "2000",
+      "publisher": "SouthPeak Interactive",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mickey's Speedway USA (USA)",
+      "fullpath": "n64-Mickey's Speedway USA (USA)",
+      "name": "Mickey's Speedway USA",
+      "year": "2000",
+      "publisher": "Rareware/Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Micro Machines 64 Turbo (USA)",
+      "fullpath": "n64-Micro Machines 64 Turbo (USA)",
+      "name": "Micro Machines 64 Turbo",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Midway's Greatest Arcade Hits - Volume 1 (USA)",
+      "fullpath": "n64-Midway's Greatest Arcade Hits - Volume 1 (USA)",
+      "name": "Midway's Greatest Arcade Hits: Volume 1",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mike Piazza's StrikeZone (USA)",
+      "fullpath": "n64-Mike Piazza's StrikeZone (USA)",
+      "name": "Mike Piazza's StrikeZone",
+      "year": "1998",
+      "publisher": "GT Interactive Software",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Milo's Astro Lanes (USA)",
+      "fullpath": "n64-Milo's Astro Lanes (USA)",
+      "name": "Milo's Astro Lanes",
+      "year": "1998",
+      "publisher": "Crave Entertainment",
+      "genre": "Sports/Bowling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mischief Makers (USA)",
+      "fullpath": "n64-Mischief Makers (USA)",
+      "name": "Mischief Makers",
+      "year": "1997",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mission Impossible (USA)",
+      "fullpath": "n64-Mission Impossible (USA)",
+      "name": "Mission Impossible",
+      "year": "1998",
+      "publisher": "Ocean",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Monaco Grand Prix (USA)",
+      "fullpath": "n64-Monaco Grand Prix (USA)",
+      "name": "Monaco Grand Prix",
+      "year": "1999",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Monopoly (USA)",
+      "fullpath": "n64-Monopoly (USA)",
+      "name": "Monopoly",
+      "year": "1999",
+      "publisher": "Hasbro Interactive",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Monster Truck Madness 64 (USA)",
+      "fullpath": "n64-Monster Truck Madness 64 (USA)",
+      "name": "Monster Truck Madness 64",
+      "year": "1999",
+      "publisher": "Rockstar Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mortal Kombat 4 (USA)",
+      "fullpath": "n64-Mortal Kombat 4 (USA)",
+      "name": "Mortal Kombat 4",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Mortal Kombat Mythologies - Sub-Zero (USA)",
+      "fullpath": "n64-Mortal Kombat Mythologies - Sub-Zero (USA)",
+      "name": "Mortal Kombat Mythologies: Sub-Zero",
+      "year": "1997",
+      "publisher": "Midway",
+      "genre": "Platform",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Mortal Kombat Trilogy (USA)",
+      "fullpath": "n64-Mortal Kombat Trilogy (USA)",
+      "name": "Mortal Kombat Trilogy",
+      "year": "1996",
+      "publisher": "Williams Entertainment Inc.",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "MRC - Multi Racing Championship (USA)",
+      "fullpath": "n64-MRC - Multi Racing Championship (USA)",
+      "name": "MRC: Multi Racing Championship",
+      "year": "1997",
+      "publisher": "Ocean",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ms. Pac-Man - Maze Madness (USA)",
+      "fullpath": "n64-Ms. Pac-Man - Maze Madness (USA)",
+      "name": "Ms. Pac-Man: Maze Madness",
+      "year": "2000",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mystical Ninja Starring Goemon (USA)",
+      "fullpath": "n64-Mystical Ninja Starring Goemon (USA)",
+      "name": "Mystical Ninja Starring Goemon",
+      "year": "1998",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Nagano Winter Olympics '98 (USA)",
+      "fullpath": "n64-Nagano Winter Olympics '98 (USA)",
+      "name": "Nagano Winter Olympics '98",
+      "year": "1998",
+      "publisher": "Konami",
+      "genre": "Sports/Olympic",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Namco Museum 64 (USA)",
+      "fullpath": "n64-Namco Museum 64 (USA)",
+      "name": "Namco Museum 64",
+      "year": "1999",
+      "publisher": "Namco",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NASCAR 2000 (USA)",
+      "fullpath": "n64-NASCAR 2000 (USA)",
+      "name": "NASCAR 2000",
+      "year": "1999",
+      "publisher": "EA Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NASCAR 99 (USA)",
+      "fullpath": "n64-NASCAR 99 (USA)",
+      "name": "NASCAR 99",
+      "year": "1998",
+      "publisher": "EA Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Courtside 2 featuring Kobe Bryant (USA)",
+      "fullpath": "n64-NBA Courtside 2 featuring Kobe Bryant (USA)",
+      "name": "NBA Courtside 2 featuring Kobe Bryant",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Hangtime (USA)",
+      "fullpath": "n64-NBA Hangtime (USA)",
+      "name": "NBA Hangtime",
+      "year": "1997",
+      "publisher": "Midway",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA in the Zone 2000 (USA)",
+      "fullpath": "n64-NBA in the Zone 2000 (USA)",
+      "name": "NBA in the Zone 2000",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA in the Zone '98 (USA)",
+      "fullpath": "n64-NBA in the Zone '98 (USA)",
+      "name": "NBA in the Zone '98",
+      "year": "1998",
+      "publisher": "Konami",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA in the Zone '99 (USA)",
+      "fullpath": "n64-NBA in the Zone '99 (USA)",
+      "name": "NBA in the Zone '99",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Jam 2000 (USA)",
+      "fullpath": "n64-NBA Jam 2000 (USA)",
+      "name": "NBA Jam 2000",
+      "year": "1999",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Jam 99 (USA)",
+      "fullpath": "n64-NBA Jam 99 (USA)",
+      "name": "NBA Jam 99",
+      "year": "1998",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Live 2000 (USA)",
+      "fullpath": "n64-NBA Live 2000 (USA)",
+      "name": "NBA Live 2000",
+      "year": "2000",
+      "publisher": "EA Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Live 99 (USA)",
+      "fullpath": "n64-NBA Live 99 (USA)",
+      "name": "NBA Live 99",
+      "year": "1998",
+      "publisher": "EA Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Showtime - NBA on NBC (USA)",
+      "fullpath": "n64-NBA Showtime - NBA on NBC (USA)",
+      "name": "NBA Showtime: NBA on NBC",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Neon Genesis Evangelion (Japan)",
+      "fullpath": "n64-Neon Genesis Evangelion (Japan)",
+      "name": "Neon Genesis Evangelion",
+      "year": "1999",
+      "publisher": "Bandai",
+      "genre": "Action",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "New Tetris, The (USA)",
+      "fullpath": "n64-New Tetris, The (USA)",
+      "name": "New Tetris, The",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Blitz - Special Edition (USA)",
+      "fullpath": "n64-NFL Blitz - Special Edition (USA)",
+      "name": "NFL Blitz: Special Edition",
+      "year": "2001",
+      "publisher": "Midway",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Blitz (USA)",
+      "fullpath": "n64-NFL Blitz (USA)",
+      "name": "NFL Blitz",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Blitz 2000 (USA)",
+      "fullpath": "n64-NFL Blitz 2000 (USA)",
+      "name": "NFL Blitz 2000",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Blitz 2001 (USA)",
+      "fullpath": "n64-NFL Blitz 2001 (USA)",
+      "name": "NFL Blitz 2001",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Quarterback Club 2000 (USA)",
+      "fullpath": "n64-NFL Quarterback Club 2000 (USA)",
+      "name": "NFL Quarterback Club 2000",
+      "year": "1999",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Quarterback Club 2001 (USA)",
+      "fullpath": "n64-NFL Quarterback Club 2001 (USA)",
+      "name": "NFL Quarterback Club 2001",
+      "year": "2000",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Quarterback Club 98 (USA)",
+      "fullpath": "n64-NFL Quarterback Club 98 (USA)",
+      "name": "NFL Quarterback Club 98",
+      "year": "1997",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Quarterback Club 99 (USA)",
+      "fullpath": "n64-NFL Quarterback Club 99 (USA)",
+      "name": "NFL Quarterback Club 99",
+      "year": "1998",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL 99 (USA)",
+      "fullpath": "n64-NHL 99 (USA)",
+      "name": "NHL 99",
+      "year": "1998",
+      "publisher": "EA Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL Blades of Steel '99 (USA)",
+      "fullpath": "n64-NHL Blades of Steel '99 (USA)",
+      "name": "NHL Blades of Steel '99",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL Breakaway 98 (USA)",
+      "fullpath": "n64-NHL Breakaway 98 (USA)",
+      "name": "NHL Breakaway 98",
+      "year": "1998",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL Breakaway 99 (USA)",
+      "fullpath": "n64-NHL Breakaway 99 (USA)",
+      "name": "NHL Breakaway 99",
+      "year": "1998",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Nightmare Creatures (USA)",
+      "fullpath": "n64-Nightmare Creatures (USA)",
+      "name": "Nightmare Creatures",
+      "year": "1998",
+      "publisher": "Activision",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Nuclear Strike 64 (USA)",
+      "fullpath": "n64-Nuclear Strike 64 (USA)",
+      "name": "Nuclear Strike 64",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Off Road Challenge (USA)",
+      "fullpath": "n64-Off Road Challenge (USA)",
+      "name": "Off Road Challenge",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ogre Battle 64 - Person of Lordly Caliber (USA)",
+      "fullpath": "n64-Ogre Battle 64 - Person of Lordly Caliber (USA)",
+      "name": "Ogre Battle 64: Person of Lordly Caliber",
+      "year": "2000",
+      "publisher": "Atlus",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Olympic Hockey 98 (USA)",
+      "fullpath": "n64-Olympic Hockey 98 (USA)",
+      "name": "Olympic Hockey 98",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Paper Mario (USA)",
+      "fullpath": "n64-Paper Mario (USA)",
+      "name": "Paper Mario",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Paperboy (USA)",
+      "fullpath": "n64-Paperboy (USA)",
+      "name": "Paperboy",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Penny Racers (USA)",
+      "fullpath": "n64-Penny Racers (USA)",
+      "name": "Penny Racers",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Perfect Dark (USA)",
+      "fullpath": "n64-Perfect Dark (USA)",
+      "name": "Perfect Dark",
+      "year": "2000",
+      "publisher": "Rareware",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "PGA European Tour (USA)",
+      "fullpath": "n64-PGA European Tour (USA)",
+      "name": "PGA European Tour",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pilotwings 64 (USA)",
+      "fullpath": "n64-Pilotwings 64 (USA)",
+      "name": "Pilotwings 64",
+      "year": "1996",
+      "publisher": "Nintendo",
+      "genre": "Simulation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon Puzzle League (USA)",
+      "fullpath": "n64-Pokemon Puzzle League (USA)",
+      "name": "Pokemon Puzzle League",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon Snap (USA)",
+      "fullpath": "n64-Pokemon Snap (USA)",
+      "name": "Pokemon Snap",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon Stadium (USA)",
+      "fullpath": "n64-Pokemon Stadium (USA)",
+      "name": "Pokemon Stadium",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon Stadium 2 (USA)",
+      "fullpath": "n64-Pokemon Stadium 2 (USA)",
+      "name": "Pokemon Stadium 2",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Polaris SnoCross (USA)",
+      "fullpath": "n64-Polaris SnoCross (USA)",
+      "name": "Polaris SnoCross",
+      "year": "2000",
+      "publisher": "Vatical Entertainment",
+      "genre": "Water",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Power League 64 (Japan)",
+      "fullpath": "n64-Power League 64 (Japan)",
+      "name": "Power League 64",
+      "year": "1997",
+      "publisher": "Hudson",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Power Rangers - Lightspeed Rescue (USA)",
+      "fullpath": "n64-Power Rangers - Lightspeed Rescue (USA)",
+      "name": "Power Rangers: Lightspeed Rescue",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Powerpuff Girls, The - Chemical X-Traction (USA)",
+      "fullpath": "n64-Powerpuff Girls, The - Chemical X-Traction (USA)",
+      "name": "Powerpuff Girls, The: Chemical X-Traction",
+      "year": "2001",
+      "publisher": "Bam Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Premier Manager 64 (Europe)",
+      "fullpath": "n64-Premier Manager 64 (Europe)",
+      "name": "Premier Manager 64",
+      "year": "1999",
+      "publisher": "Gremlin Interactive",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Puyo Puyo 4 - Puyo Puyon Party (Japan)",
+      "fullpath": "n64-Puyo Puyo 4 - Puyo Puyon Party (Japan)",
+      "name": "Puyo Puyo 4: Puyo Puyon Party",
+      "year": "1999",
+      "publisher": "Compile",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Puyo Puyo Sun 64 (Japan)",
+      "fullpath": "n64-Puyo Puyo Sun 64 (Japan)",
+      "name": "Puyo Puyo Sun 64",
+      "year": "1997",
+      "publisher": "Compile",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Quake 64 (USA)",
+      "fullpath": "n64-Quake 64 (USA)",
+      "name": "Quake 64",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Quake II (USA)",
+      "fullpath": "n64-Quake II (USA)",
+      "name": "Quake II",
+      "year": "1999",
+      "publisher": "Activision",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Quest 64 (USA)",
+      "fullpath": "n64-Quest 64 (USA)",
+      "name": "Quest 64",
+      "year": "1998",
+      "publisher": "THQ",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rakuga Kids (Europe)",
+      "fullpath": "n64-Rakuga Kids (Europe)",
+      "name": "Rakuga Kids",
+      "year": "1998",
+      "publisher": "Konami",
+      "genre": "Fighter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rally Challenge 2000 (USA)",
+      "fullpath": "n64-Rally Challenge 2000 (USA)",
+      "name": "Rally Challenge 2000",
+      "year": "2000",
+      "publisher": "SouthPeak Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rampage - World Tour (USA)",
+      "fullpath": "n64-Rampage - World Tour (USA)",
+      "name": "Rampage: World Tour",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Rampage 2 - Universal Tour (USA)",
+      "fullpath": "n64-Rampage 2 - Universal Tour (USA)",
+      "name": "Rampage 2: Universal Tour",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Rat Attack! (USA)",
+      "fullpath": "n64-Rat Attack! (USA)",
+      "name": "Rat Attack!",
+      "year": "2000",
+      "publisher": "Mindscape Entertainment",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rayman 2 - The Great Escape (USA)",
+      "fullpath": "n64-Rayman 2 - The Great Escape (USA)",
+      "name": "Rayman 2: The Great Escape",
+      "year": "1999",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Razor Freestyle Scooter (USA)",
+      "fullpath": "n64-Razor Freestyle Scooter (USA)",
+      "name": "Razor Freestyle Scooter",
+      "year": "2001",
+      "publisher": "Crave Entertainment",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ready 2 Rumble Boxing - Round 2 (USA)",
+      "fullpath": "n64-Ready 2 Rumble Boxing - Round 2 (USA)",
+      "name": "Ready 2 Rumble Boxing: Round 2",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Sports/Boxing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Ready 2 Rumble Boxing (USA)",
+      "fullpath": "n64-Ready 2 Rumble Boxing (USA)",
+      "name": "Ready 2 Rumble Boxing",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Sports/Boxing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Resident Evil 2 (USA)",
+      "fullpath": "n64-Resident Evil 2 (USA)",
+      "name": "Resident Evil 2",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Re-Volt (USA)",
+      "fullpath": "n64-Re-Volt (USA)",
+      "name": "Re-Volt",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Road Rash 64 (USA)",
+      "fullpath": "n64-Road Rash 64 (USA)",
+      "name": "Road Rash 64",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Motorcycle",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Roadsters Trophy (USA)",
+      "fullpath": "n64-Roadsters Trophy (USA)",
+      "name": "Roadsters Trophy",
+      "year": "1999",
+      "publisher": "Titus",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Robotron 64 (USA)",
+      "fullpath": "n64-Robotron 64 (USA)",
+      "name": "Robotron 64",
+      "year": "1998",
+      "publisher": "Crave Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Rocket - Robot on Wheels (USA)",
+      "fullpath": "n64-Rocket - Robot on Wheels (USA)",
+      "name": "Rocket: Robot on Wheels",
+      "year": "1999",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "RR64 - Ridge Racer 64 (USA)",
+      "fullpath": "n64-RR64 - Ridge Racer 64 (USA)",
+      "name": "RR64: Ridge Racer 64",
+      "year": "2000",
+      "publisher": "Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rugrats - Scavenger Hunt (USA)",
+      "fullpath": "n64-Rugrats - Scavenger Hunt (USA)",
+      "name": "Rugrats: Scavenger Hunt",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rugrats in Paris - The Movie (USA)",
+      "fullpath": "n64-Rugrats in Paris - The Movie (USA)",
+      "name": "Rugrats in Paris: The Movie",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rush 2 - Extreme Racing USA (USA)",
+      "fullpath": "n64-Rush 2 - Extreme Racing USA (USA)",
+      "name": "Rush 2: Extreme Racing USA",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "S.C.A.R.S. (USA)",
+      "fullpath": "n64-S.C.A.R.S. (USA)",
+      "name": "S.C.A.R.S.",
+      "year": "1998",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "San Francisco Rush - Extreme Racing (USA)",
+      "fullpath": "n64-San Francisco Rush - Extreme Racing (USA)",
+      "name": "San Francisco Rush: Extreme Racing",
+      "year": "1997",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "San Francisco Rush 2049 (USA)",
+      "fullpath": "n64-San Francisco Rush 2049 (USA)",
+      "name": "San Francisco Rush 2049",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Scooby-Doo! - Classic Creep Capers (USA)",
+      "fullpath": "n64-Scooby-Doo! - Classic Creep Capers (USA)",
+      "name": "Scooby-Doo!: Classic Creep Capers",
+      "year": "2001",
+      "publisher": "THQ",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shadow Man (USA)",
+      "fullpath": "n64-Shadow Man (USA)",
+      "name": "Shadow Man",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Shadowgate 64 - Trials of the Four Towers (USA)",
+      "fullpath": "n64-Shadowgate 64 - Trials of the Four Towers (USA)",
+      "name": "Shadowgate 64: Trials of the Four Towers",
+      "year": "1999",
+      "publisher": "Kemco",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)",
+      "fullpath": "n64-Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)",
+      "name": "Shin Nihon Pro Wrestling Toukon Road: Brave Spirits",
+      "year": "1998",
+      "publisher": "Hudson",
+      "genre": "Sports/Wrestling",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)",
+      "fullpath": "n64-Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)",
+      "name": "Shin Nihon Pro Wrestling Toukon Road 2: The Next Generation",
+      "year": "1998",
+      "publisher": "Hudson",
+      "genre": "Sports/Wrestling",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Snowboard Kids (USA)",
+      "fullpath": "n64-Snowboard Kids (USA)",
+      "name": "Snowboard Kids",
+      "year": "1998",
+      "publisher": "Atlus",
+      "genre": "Sports/Snowboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Snowboard Kids 2 (USA)",
+      "fullpath": "n64-Snowboard Kids 2 (USA)",
+      "name": "Snowboard Kids 2",
+      "year": "1999",
+      "publisher": "Atlus",
+      "genre": "Sports/Snowboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "South Park - Chef's Luv Shack (USA)",
+      "fullpath": "n64-South Park - Chef's Luv Shack (USA)",
+      "name": "South Park: Chef's Luv Shack",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Party",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "South Park (USA)",
+      "fullpath": "n64-South Park (USA)",
+      "name": "South Park",
+      "year": "1998",
+      "publisher": "Acclaim",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "South Park Rally (USA)",
+      "fullpath": "n64-South Park Rally (USA)",
+      "name": "South Park Rally",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Space Invaders (USA)",
+      "fullpath": "n64-Space Invaders (USA)",
+      "name": "Space Invaders",
+      "year": "1999",
+      "publisher": "Activision",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SpaceStation Silicon Valley (USA)",
+      "fullpath": "n64-SpaceStation Silicon Valley (USA)",
+      "name": "SpaceStation Silicon Valley",
+      "year": "1998",
+      "publisher": "Take2 Interactive",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spider-Man (USA)",
+      "fullpath": "n64-Spider-Man (USA)",
+      "name": "Spider-Man",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Star Fox 64 (USA)",
+      "fullpath": "n64-Star Fox 64 (USA)",
+      "name": "Star Fox 64",
+      "year": "1997",
+      "publisher": "Nintendo",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Star Soldier - Vanishing Earth (USA)",
+      "fullpath": "n64-Star Soldier - Vanishing Earth (USA)",
+      "name": "Star Soldier: Vanishing Earth",
+      "year": "1998",
+      "publisher": "Electro Brain Corp",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Star Wars - Rogue Squadron (USA)",
+      "fullpath": "n64-Star Wars - Rogue Squadron (USA)",
+      "name": "Star Wars: Rogue Squadron",
+      "year": "1998",
+      "publisher": "LucasArts",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Star Wars - Shadows of the Empire (USA)",
+      "fullpath": "n64-Star Wars - Shadows of the Empire (USA)",
+      "name": "Star Wars: Shadows of the Empire",
+      "year": "1999",
+      "publisher": "LucasArts/Nintendo",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Star Wars Episode I - Battle for Naboo (USA)",
+      "fullpath": "n64-Star Wars Episode I - Battle for Naboo (USA)",
+      "name": "Star Wars Episode I: Battle for Naboo",
+      "year": "2000",
+      "publisher": "LucasArts",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Star Wars Episode I - Racer (USA)",
+      "fullpath": "n64-Star Wars Episode I - Racer (USA)",
+      "name": "Star Wars Episode I: Racer",
+      "year": "1999",
+      "publisher": "LucasArts",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "StarCraft 64 (USA)",
+      "fullpath": "n64-StarCraft 64 (USA)",
+      "name": "StarCraft 64",
+      "year": "2000",
+      "publisher": "Blizzard Entertainment/Nintendo",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Starshot - Space Circus Fever (USA)",
+      "fullpath": "n64-Starshot - Space Circus Fever (USA)",
+      "name": "Starshot: Space Circus Fever",
+      "year": "1999",
+      "publisher": "Infogrames Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Stunt Racer 64 (USA)",
+      "fullpath": "n64-Stunt Racer 64 (USA)",
+      "name": "Stunt Racer 64",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Bowling (USA)",
+      "fullpath": "n64-Super Bowling (USA)",
+      "name": "Super Bowling",
+      "year": "2001",
+      "publisher": "UFO",
+      "genre": "Sports/Bowling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Mario 64 (USA)",
+      "fullpath": "n64-Super Mario 64 (USA)",
+      "name": "Super Mario 64",
+      "year": "1996",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Robot Spirits (Japan)",
+      "fullpath": "n64-Super Robot Spirits (Japan)",
+      "name": "Super Robot Spirits",
+      "year": "1998",
+      "publisher": "Banpresto",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Super Smash Bros. (USA)",
+      "fullpath": "n64-Super Smash Bros. (USA)",
+      "name": "Super Smash Bros.",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Supercross 2000 (USA)",
+      "fullpath": "n64-Supercross 2000 (USA)",
+      "name": "Supercross 2000",
+      "year": "1999",
+      "publisher": "EA Sports",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Superman (USA)",
+      "fullpath": "n64-Superman (USA)",
+      "name": "Superman",
+      "year": "1999",
+      "publisher": "Titus",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)",
+      "fullpath": "n64-Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)",
+      "name": "Susume! Taisen Puzzle Dama: Toukon! Marutama Chou",
+      "year": "1998",
+      "publisher": "KCEK/Konami",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tarzan (USA)",
+      "fullpath": "n64-Tarzan (USA)",
+      "name": "Tarzan",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Taz Express (Europe)",
+      "fullpath": "n64-Taz Express (Europe)",
+      "name": "Taz Express",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tetris 64 (Japan) (En)",
+      "fullpath": "n64-Tetris 64 (Japan) (En)",
+      "name": "Tetris 64",
+      "year": "1998",
+      "publisher": "Seta",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tetrisphere (USA)",
+      "fullpath": "n64-Tetrisphere (USA)",
+      "name": "Tetrisphere",
+      "year": "1997",
+      "publisher": "Nintendo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tigger's Honey Hunt (USA)",
+      "fullpath": "n64-Tigger's Honey Hunt (USA)",
+      "name": "Tigger's Honey Hunt",
+      "year": "2000",
+      "publisher": "NewKidCo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tom and Jerry in Fists of Furry (USA)",
+      "fullpath": "n64-Tom and Jerry in Fists of Furry (USA)",
+      "name": "Tom and Jerry in Fists of Furry",
+      "year": "2000",
+      "publisher": "NewKidCo",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tom Clancy's Rainbow Six (USA)",
+      "fullpath": "n64-Tom Clancy's Rainbow Six (USA)",
+      "name": "Tom Clancy's Rainbow Six",
+      "year": "1999",
+      "publisher": "Red Storm Entertainment",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tonic Trouble (USA)",
+      "fullpath": "n64-Tonic Trouble (USA)",
+      "name": "Tonic Trouble",
+      "year": "1999",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tony Hawk's Pro Skater (USA)",
+      "fullpath": "n64-Tony Hawk's Pro Skater (USA)",
+      "name": "Tony Hawk's Pro Skater",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Sports/Skateboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tony Hawk's Pro Skater 2 (USA)",
+      "fullpath": "n64-Tony Hawk's Pro Skater 2 (USA)",
+      "name": "Tony Hawk's Pro Skater 2",
+      "year": "2001",
+      "publisher": "Activision O2",
+      "genre": "Sports/Skateboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tony Hawk's Pro Skater 3 (USA)",
+      "fullpath": "n64-Tony Hawk's Pro Skater 3 (USA)",
+      "name": "Tony Hawk's Pro Skater 3",
+      "year": "2002",
+      "publisher": "Activision O2",
+      "genre": "Sports/Skateboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Top Gear Hyper-Bike (USA)",
+      "fullpath": "n64-Top Gear Hyper-Bike (USA)",
+      "name": "Top Gear Hyper-Bike",
+      "year": "2000",
+      "publisher": "Kemco",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Top Gear Overdrive (USA)",
+      "fullpath": "n64-Top Gear Overdrive (USA)",
+      "name": "Top Gear Overdrive",
+      "year": "1998",
+      "publisher": "Kemco",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Top Gear Rally (USA)",
+      "fullpath": "n64-Top Gear Rally (USA)",
+      "name": "Top Gear Rally",
+      "year": "1997",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Top Gear Rally 2 (USA)",
+      "fullpath": "n64-Top Gear Rally 2 (USA)",
+      "name": "Top Gear Rally 2",
+      "year": "1999",
+      "publisher": "Kemco",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Toy Story 2 (USA)",
+      "fullpath": "n64-Toy Story 2 (USA)",
+      "name": "Toy Story 2",
+      "year": "1999",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Transformers - Beast Wars Transmetals (USA)",
+      "fullpath": "n64-Transformers - Beast Wars Transmetals (USA)",
+      "name": "Transformers: Beast Wars Transmetals",
+      "year": "2000",
+      "publisher": "Bam Entertainment",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Triple Play 2000 (USA)",
+      "fullpath": "n64-Triple Play 2000 (USA)",
+      "name": "Triple Play 2000",
+      "year": "1999",
+      "publisher": "EA Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Turok - Dinosaur Hunter (USA)",
+      "fullpath": "n64-Turok - Dinosaur Hunter (USA)",
+      "name": "Turok: Dinosaur Hunter",
+      "year": "1997",
+      "publisher": "Acclaim",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Turok - Rage Wars (USA)",
+      "fullpath": "n64-Turok - Rage Wars (USA)",
+      "name": "Turok: Rage Wars",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Turok 2 - Seeds of Evil (USA)",
+      "fullpath": "n64-Turok 2 - Seeds of Evil (USA)",
+      "name": "Turok 2: Seeds of Evil",
+      "year": "1998",
+      "publisher": "Acclaim",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Turok 3 - Shadow of Oblivion (USA)",
+      "fullpath": "n64-Turok 3 - Shadow of Oblivion (USA)",
+      "name": "Turok 3: Shadow of Oblivion",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Twisted Edge - Extreme Snowboarding (USA)",
+      "fullpath": "n64-Twisted Edge - Extreme Snowboarding (USA)",
+      "name": "Twisted Edge: Extreme Snowboarding",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Sports/Snowboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)",
+      "fullpath": "n64-Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)",
+      "name": "Utchan Nanchan no Hono no Challenger: Denryuu Ira Ira Bou",
+      "year": "1997",
+      "publisher": "Hudson",
+      "genre": "Action",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Vigilante 8 - 2nd Offense (USA)",
+      "fullpath": "n64-Vigilante 8 - 2nd Offense (USA)",
+      "name": "Vigilante 8: 2nd Offense",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Vigilante 8 (USA)",
+      "fullpath": "n64-Vigilante 8 (USA)",
+      "name": "Vigilante 8",
+      "year": "1998",
+      "publisher": "Activision",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtual Chess 64 (USA)",
+      "fullpath": "n64-Virtual Chess 64 (USA)",
+      "name": "Virtual Chess 64",
+      "year": "1998",
+      "publisher": "Titus",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Virtual Pool 64 (USA)",
+      "fullpath": "n64-Virtual Pool 64 (USA)",
+      "name": "Virtual Pool 64",
+      "year": "1998",
+      "publisher": "Crave Entertainment",
+      "genre": "Pool and Dart",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Virtual Pro Wrestling 2 - Oudou Keishou (Japan)",
+      "fullpath": "n64-Virtual Pro Wrestling 2 - Oudou Keishou (Japan)",
+      "name": "Virtual Pro Wrestling 2: Oudou Keishou",
+      "year": "2000",
+      "publisher": "Asmik Ace Entertainment Inc.",
+      "genre": "Sports/Wrestling",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Virtual Pro Wrestling 64 (Japan)",
+      "fullpath": "n64-Virtual Pro Wrestling 64 (Japan)",
+      "name": "Virtual Pro Wrestling 64",
+      "year": "1997",
+      "publisher": "Asmik",
+      "genre": "Sports/Wrestling",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "V-Rally Edition 99 (USA)",
+      "fullpath": "n64-V-Rally Edition 99 (USA)",
+      "name": "V-Rally Edition 99",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Waialae Country Club - True Golf Classics (USA)",
+      "fullpath": "n64-Waialae Country Club - True Golf Classics (USA)",
+      "name": "Waialae Country Club: True Golf Classics",
+      "year": "1998",
+      "publisher": "Nintendo",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "War Gods (USA)",
+      "fullpath": "n64-War Gods (USA)",
+      "name": "War Gods",
+      "year": "1997",
+      "publisher": "Midway",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Wave Race 64 (USA)",
+      "fullpath": "n64-Wave Race 64 (USA)",
+      "name": "Wave Race 64",
+      "year": "1996",
+      "publisher": "Nintendo",
+      "genre": "Water",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wayne Gretzky's 3D Hockey (USA)",
+      "fullpath": "n64-Wayne Gretzky's 3D Hockey (USA)",
+      "name": "Wayne Gretzky's 3D Hockey",
+      "year": "1996",
+      "publisher": "Midway",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wayne Gretzky's 3D Hockey '98 (USA)",
+      "fullpath": "n64-Wayne Gretzky's 3D Hockey '98 (USA)",
+      "name": "Wayne Gretzky's 3D Hockey '98",
+      "year": "1997",
+      "publisher": "Midway",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WCW Backstage Assault (USA)",
+      "fullpath": "n64-WCW Backstage Assault (USA)",
+      "name": "WCW Backstage Assault",
+      "year": "2000",
+      "publisher": "Electronic Arts",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "WCW Mayhem (USA)",
+      "fullpath": "n64-WCW Mayhem (USA)",
+      "name": "WCW Mayhem",
+      "year": "1999",
+      "publisher": "Electronic Arts",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "WCW Nitro (USA)",
+      "fullpath": "n64-WCW Nitro (USA)",
+      "name": "WCW Nitro",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WCW vs. nWo - World Tour (USA)",
+      "fullpath": "n64-WCW vs. nWo - World Tour (USA)",
+      "name": "WCW vs. nWo: World Tour",
+      "year": "1997",
+      "publisher": "THQ",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WCW-nWo Revenge (USA)",
+      "fullpath": "n64-WCW-nWo Revenge (USA)",
+      "name": "WCW-nWo Revenge",
+      "year": "1998",
+      "publisher": "THQ",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wetrix (USA)",
+      "fullpath": "n64-Wetrix (USA)",
+      "name": "Wetrix",
+      "year": "1998",
+      "publisher": "Ocean",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wheel of Fortune (USA)",
+      "fullpath": "n64-Wheel of Fortune (USA)",
+      "name": "Wheel of Fortune",
+      "year": "1997",
+      "publisher": "GameTek",
+      "genre": "Game Show",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WinBack - Covert Operations (USA)",
+      "fullpath": "n64-WinBack - Covert Operations (USA)",
+      "name": "WinBack: Covert Operations",
+      "year": "1999",
+      "publisher": "Koei",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Wipeout 64 (USA)",
+      "fullpath": "n64-Wipeout 64 (USA)",
+      "name": "Wipeout 64",
+      "year": "1998",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wonder Project J2 - Josette of the Corlo Forest (Japan) (Translated En)",
+      "fullpath": "n64-Wonder Project J2 - Josette of the Corlo Forest (Japan) (Translated En)",
+      "name": "Wonder Project J2: Josette of the Corlo Forest",
+      "year": "1996",
+      "publisher": "Enix",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "World Cup 98 (USA)",
+      "fullpath": "n64-World Cup 98 (USA)",
+      "name": "World Cup 98",
+      "year": "1998",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "World Driver Championship (USA)",
+      "fullpath": "n64-World Driver Championship (USA)",
+      "name": "World Driver Championship",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Worms Armageddon (USA)",
+      "fullpath": "n64-Worms Armageddon (USA)",
+      "name": "Worms Armageddon",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WWF Attitude (USA)",
+      "fullpath": "n64-WWF Attitude (USA)",
+      "name": "WWF Attitude",
+      "year": "1999",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "WWF No Mercy (USA)",
+      "fullpath": "n64-WWF No Mercy (USA)",
+      "name": "WWF No Mercy",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "WWF War Zone (USA)",
+      "fullpath": "n64-WWF War Zone (USA)",
+      "name": "WWF War Zone",
+      "year": "1998",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "WWF WrestleMania 2000 (USA)",
+      "fullpath": "n64-WWF WrestleMania 2000 (USA)",
+      "name": "WWF WrestleMania 2000",
+      "year": "1999",
+      "publisher": "THQ",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Xena - Warrior Princess - The Talisman of Fate (USA)",
+      "fullpath": "n64-Xena - Warrior Princess - The Talisman of Fate (USA)",
+      "name": "Xena: Warrior Princess - The Talisman of Fate",
+      "year": "1999",
+      "publisher": "Titus",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Yoshi's Story (USA)",
+      "fullpath": "n64-Yoshi's Story (USA)",
+      "name": "Yoshi's Story",
+      "year": "1998",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    }
+  ]
+}

@@ -1,0 +1,3497 @@
+{
+  "platform": "dreamcast",
+  "totalGames": 387,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "dreamcast game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "dreamcast.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Disney's 102 Dalmatians - Puppies to the Rescue (USA)",
+      "fullpath": "dreamcast-Disney's 102 Dalmatians - Puppies to the Rescue (USA)",
+      "name": "Disney's 102 Dalmatians: Puppies to the Rescue",
+      "year": "2000",
+      "publisher": "Eidos Interactive",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "18 Wheeler - American Pro Trucker (USA)",
+      "fullpath": "dreamcast-18 Wheeler - American Pro Trucker (USA)",
+      "name": "18 Wheeler: American Pro Trucker",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "2D House of Terror (World) (Unl)",
+      "fullpath": "dreamcast-2D House of Terror (World) (Unl)",
+      "name": "2D House of Terror",
+      "year": "2013",
+      "publisher": "2D-Retroperspectives",
+      "genre": "Mini-Games",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "3 in 1 Shooters Pack (World) (Unl)",
+      "fullpath": "dreamcast-3 in 1 Shooters Pack (World) (Unl)",
+      "name": "3 in 1 Shooters Pack",
+      "year": "Unknown",
+      "publisher": "Various",
+      "genre": "Compilation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "4 in 1 Shooters Pack (World) (Unl)",
+      "fullpath": "dreamcast-4 in 1 Shooters Pack (World) (Unl)",
+      "name": "4 in 1 Shooters Pack",
+      "year": "Unknown",
+      "publisher": "Various",
+      "genre": "Compilation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "4 Wheel Thunder (USA)",
+      "fullpath": "dreamcast-4 Wheel Thunder (USA)",
+      "name": "4 Wheel Thunder",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "4x4 Evo (USA)",
+      "fullpath": "dreamcast-4x4 Evo (USA)",
+      "name": "4x4 Evo",
+      "year": "2000",
+      "publisher": "Gathering of Developers",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "90 Minutes - Sega Championship Football (Europe)",
+      "fullpath": "dreamcast-90 Minutes - Sega Championship Football (Europe)",
+      "name": "90 Minutes: Sega Championship Football",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Sports/Soccer",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Advanced Daisenryaku 2001 (Japan) (Translated En)",
+      "fullpath": "dreamcast-Advanced Daisenryaku 2001 (Japan) (Translated En)",
+      "name": "Advanced Daisenryaku 2001",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "AeroWings (USA)",
+      "fullpath": "dreamcast-AeroWings (USA)",
+      "name": "AeroWings",
+      "year": "1999",
+      "publisher": "Crave Entertainment",
+      "genre": "Flying",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "AeroWings 2 - Air Strike (USA)",
+      "fullpath": "dreamcast-AeroWings 2 - Air Strike (USA)",
+      "name": "AeroWings 2: Air Strike",
+      "year": "2000",
+      "publisher": "Crave Entertainment",
+      "genre": "Flying",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "AirForce Delta (USA)",
+      "fullpath": "dreamcast-AirForce Delta (USA)",
+      "name": "AirForce Delta",
+      "year": "1999",
+      "publisher": "Konami",
+      "genre": "Flying",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Alice's Mom's Rescue (World) (Unl)",
+      "fullpath": "dreamcast-Alice's Mom's Rescue (World) (Unl)",
+      "name": "Alice's Mom's Rescue",
+      "year": "2015",
+      "publisher": "Hucast",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Alien Front Online (USA)",
+      "fullpath": "dreamcast-Alien Front Online (USA)",
+      "name": "Alien Front Online",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Alone in the Dark - The New Nightmare (USA) (Disc 1)",
+      "fullpath": "dreamcast-Alone in the Dark - The New Nightmare (USA) (Disc 1)",
+      "name": "Alone in the Dark: The New Nightmare",
+      "year": "2001",
+      "publisher": "Infogrames",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Alone in the Dark - The New Nightmare (USA) (Disc 2)",
+      "fullpath": "dreamcast-Alone in the Dark - The New Nightmare (USA) (Disc 2)",
+      "name": "Alone in the Dark: The New Nightmare",
+      "year": "2001",
+      "publisher": "Infogrames",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Aqua GT (Europe)",
+      "fullpath": "dreamcast-Aqua GT (Europe)",
+      "name": "Aqua GT",
+      "year": "2000",
+      "publisher": "Take2 Interactive",
+      "genre": "Driving",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Armada (USA)",
+      "fullpath": "dreamcast-Armada (USA)",
+      "name": "Armada",
+      "year": "1999",
+      "publisher": "Metro3D, Inc.",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Army Men - Sarge's Heroes (USA)",
+      "fullpath": "dreamcast-Army Men - Sarge's Heroes (USA)",
+      "name": "Army Men: Sarge's Heroes",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Atari Anniversary Edition (USA)",
+      "fullpath": "dreamcast-Atari Anniversary Edition (USA)",
+      "name": "Atari Anniversary Edition",
+      "year": "2001",
+      "publisher": "Infogrames",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "BANG! Gunship Elite (USA)",
+      "fullpath": "dreamcast-BANG! Gunship Elite (USA)",
+      "name": "BANG! Gunship Elite",
+      "year": "2000",
+      "publisher": "Red Storm Entertainment",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bangai-O (USA)",
+      "fullpath": "dreamcast-Bangai-O (USA)",
+      "name": "Bangai-O",
+      "year": "2001",
+      "publisher": "Crave Entertainment",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Biohazard - Code - Veronica - Kanzenban (Japan) (Translated En) (Disc 1)",
+      "fullpath": "dreamcast-Biohazard - Code - Veronica - Kanzenban (Japan) (Translated En) (Disc 1)",
+      "name": "Biohazard - Code: Veronica - Kanzenban",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "HSRS - 17 (17+)"
+    },
+    {
+      "id": "Biohazard - Code - Veronica - Kanzenban (Japan) (Translated En) (Disc 2)",
+      "fullpath": "dreamcast-Biohazard - Code - Veronica - Kanzenban (Japan) (Translated En) (Disc 2)",
+      "name": "Biohazard - Code: Veronica - Kanzenban",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "HSRS - 17 (17+)"
+    },
+    {
+      "id": "Blue Stinger (USA)",
+      "fullpath": "dreamcast-Blue Stinger (USA)",
+      "name": "Blue Stinger",
+      "year": "1999",
+      "publisher": "Activision",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Boku no Tennis Jinsei (Japan)",
+      "fullpath": "dreamcast-Boku no Tennis Jinsei (Japan)",
+      "name": "Boku no Tennis Jinsei",
+      "year": "2001",
+      "publisher": "Bimboosoft",
+      "genre": "Sports/Tennis",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Bomberman Online (USA)",
+      "fullpath": "dreamcast-Bomberman Online (USA)",
+      "name": "Bomberman Online",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Border Down (Japan)",
+      "fullpath": "dreamcast-Border Down (Japan)",
+      "name": "Border Down",
+      "year": "2003",
+      "publisher": "G.Rev",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Bust-A-Move 4 (USA)",
+      "fullpath": "dreamcast-Bust-A-Move 4 (USA)",
+      "name": "Bust-A-Move 4",
+      "year": "2000",
+      "publisher": "Club Acclaim",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney-Pixar's Buzz Lightyear of Star Command (USA)",
+      "fullpath": "dreamcast-Disney-Pixar's Buzz Lightyear of Star Command (USA)",
+      "name": "Disney/Pixar's Buzz Lightyear of Star Command",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Caesars Palace 2000 - Millennium Gold Edition (USA)",
+      "fullpath": "dreamcast-Caesars Palace 2000 - Millennium Gold Edition (USA)",
+      "name": "Caesars Palace 2000: Millennium Gold Edition",
+      "year": "2000",
+      "publisher": "Interplay",
+      "genre": "Casino",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cannon Spike (USA)",
+      "fullpath": "dreamcast-Cannon Spike (USA)",
+      "name": "Cannon Spike",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Capcom vs. SNK (USA)",
+      "fullpath": "dreamcast-Capcom vs. SNK (USA)",
+      "name": "Capcom vs. SNK",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Capcom vs. SNK - Millennium Fight 2000 Pro (Japan)",
+      "fullpath": "dreamcast-Capcom vs. SNK - Millennium Fight 2000 Pro (Japan)",
+      "name": "Capcom vs. SNK: Millennium Fight 2000 Pro",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan)",
+      "fullpath": "dreamcast-Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan)",
+      "name": "Capcom vs. SNK 2: Millionaire Fighting 2001",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Capcom vs. SNK 2 Taisen Fan Disc (Japan) (Translated En)",
+      "fullpath": "dreamcast-Capcom vs. SNK 2 Taisen Fan Disc (Japan) (Translated En)",
+      "name": "Capcom vs. SNK 2 Taisen Fan Disc",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Miscellaneous",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Carrier (USA)",
+      "fullpath": "dreamcast-Carrier (USA)",
+      "name": "Carrier",
+      "year": "2000",
+      "publisher": "Jaleco Entertainment",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Shikigami no Shiro II (Japan)",
+      "fullpath": "dreamcast-Shikigami no Shiro II (Japan)",
+      "name": "Shikigami no Shiro II",
+      "year": "2004",
+      "publisher": "Alfa System",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Centipede (USA)",
+      "fullpath": "dreamcast-Centipede (USA)",
+      "name": "Centipede",
+      "year": "1999",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Championship Surfer (USA)",
+      "fullpath": "dreamcast-Championship Surfer (USA)",
+      "name": "Championship Surfer",
+      "year": "2000",
+      "publisher": "Mattel Interactive",
+      "genre": "Sports/Surfing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Chaos Field (Japan)",
+      "fullpath": "dreamcast-Chaos Field (Japan)",
+      "name": "Chaos Field",
+      "year": "2004",
+      "publisher": "Milestone Inc.",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Charge 'N Blast (USA)",
+      "fullpath": "dreamcast-Charge 'N Blast (USA)",
+      "name": "Charge 'N Blast",
+      "year": "2001",
+      "publisher": "Xicat Interactive",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Chicken Run (USA)",
+      "fullpath": "dreamcast-Chicken Run (USA)",
+      "name": "Chicken Run",
+      "year": "2000",
+      "publisher": "Eidos Interactive",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "ChuChu Rocket! (USA)",
+      "fullpath": "dreamcast-ChuChu Rocket! (USA)",
+      "name": "ChuChu Rocket!",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cleopatra Fortune (Japan)",
+      "fullpath": "dreamcast-Cleopatra Fortune (Japan)",
+      "name": "Cleopatra Fortune",
+      "year": "2001",
+      "publisher": "Altron",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Coaster Works (USA)",
+      "fullpath": "dreamcast-Coaster Works (USA)",
+      "name": "Coaster Works",
+      "year": "2000",
+      "publisher": "Xicat Interactive",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Confidential Mission (USA)",
+      "fullpath": "dreamcast-Confidential Mission (USA)",
+      "name": "Confidential Mission",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Gun",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Conflict Zone - Modern War Strategy (USA)",
+      "fullpath": "dreamcast-Conflict Zone - Modern War Strategy (USA)",
+      "name": "Conflict Zone: Modern War Strategy",
+      "year": "2001",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Cool Cool Toon (Japan)",
+      "fullpath": "dreamcast-Cool Cool Toon (Japan)",
+      "name": "Cool Cool Toon",
+      "year": "2000",
+      "publisher": "SNK",
+      "genre": "Rhythm",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cool Herders (World) (Unl)",
+      "fullpath": "dreamcast-Cool Herders (World) (Unl)",
+      "name": "Cool Herders",
+      "year": "2005",
+      "publisher": "GOAT Store Publishing",
+      "genre": "Maze",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cosmic Smash (Japan)",
+      "fullpath": "dreamcast-Cosmic Smash (Japan)",
+      "name": "Cosmic Smash",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Sports",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Crazy Taxi (USA)",
+      "fullpath": "dreamcast-Crazy Taxi (USA)",
+      "name": "Crazy Taxi",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Crazy Taxi 2 (USA)",
+      "fullpath": "dreamcast-Crazy Taxi 2 (USA)",
+      "name": "Crazy Taxi 2",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Cyber Troopers Virtual On - Oratorio Tangram (USA)",
+      "fullpath": "dreamcast-Cyber Troopers Virtual On - Oratorio Tangram (USA)",
+      "name": "Cyber Troopers Virtual On: Oratorio Tangram",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "D2 (USA) (Disc 1)",
+      "fullpath": "dreamcast-D2 (USA) (Disc 1)",
+      "name": "D2",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "D2 (USA) (Disc 2)",
+      "fullpath": "dreamcast-D2 (USA) (Disc 2)",
+      "name": "D2",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "D2 (USA) (Disc 3)",
+      "fullpath": "dreamcast-D2 (USA) (Disc 3)",
+      "name": "D2",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "D2 (USA) (Disc 4)",
+      "fullpath": "dreamcast-D2 (USA) (Disc 4)",
+      "name": "D2",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Dance Dance Revolution - 2nd Mix - Dreamcast Edition (Japan)",
+      "fullpath": "dreamcast-Dance Dance Revolution - 2nd Mix - Dreamcast Edition (Japan)",
+      "name": "Dance Dance Revolution: 2nd Mix - Dreamcast Edition",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Rhythm",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dance Dance Revolution - Club Version - Dreamcast Edition (Japan)",
+      "fullpath": "dreamcast-Dance Dance Revolution - Club Version - Dreamcast Edition (Japan)",
+      "name": "Dance Dance Revolution: Club Version - Dreamcast Edition",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Rhythm",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dave Mirra Freestyle BMX (USA)",
+      "fullpath": "dreamcast-Dave Mirra Freestyle BMX (USA)",
+      "name": "Dave Mirra Freestyle BMX",
+      "year": "2000",
+      "publisher": "Acclaim Max Sports",
+      "genre": "Sports/Biking",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Daytona USA (USA)",
+      "fullpath": "dreamcast-Daytona USA (USA)",
+      "name": "Daytona USA",
+      "year": "2001",
+      "publisher": "Sega/Hasbro Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dead or Alive 2 (USA)",
+      "fullpath": "dreamcast-Dead or Alive 2 (USA)",
+      "name": "Dead or Alive 2",
+      "year": "2000",
+      "publisher": "Tecmo",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dead or Alive 2 - Limited Edition (Japan)",
+      "fullpath": "dreamcast-Dead or Alive 2 - Limited Edition (Japan)",
+      "name": "Dead or Alive 2: Limited Edition",
+      "year": "2000",
+      "publisher": "Tecmo",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Death Crimson OX (USA)",
+      "fullpath": "dreamcast-Death Crimson OX (USA)",
+      "name": "Death Crimson OX",
+      "year": "2001",
+      "publisher": "Sammy Entertainment, Inc.",
+      "genre": "Gun",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Deep Fighter (USA) (Disc 1)",
+      "fullpath": "dreamcast-Deep Fighter (USA) (Disc 1)",
+      "name": "Deep Fighter",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Simulation",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Deep Fighter (USA) (Disc 2)",
+      "fullpath": "dreamcast-Deep Fighter (USA) (Disc 2)",
+      "name": "Deep Fighter",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Simulation",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Demolition Racer - No Exit (USA)",
+      "fullpath": "dreamcast-Demolition Racer - No Exit (USA)",
+      "name": "Demolition Racer: No Exit",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dino Crisis (USA)",
+      "fullpath": "dreamcast-Dino Crisis (USA)",
+      "name": "Dino Crisis",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Disney's Dinosaur (USA)",
+      "fullpath": "dreamcast-Disney's Dinosaur (USA)",
+      "name": "Disney's Dinosaur",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney's Donald Duck - Goin' Quackers (USA)",
+      "fullpath": "dreamcast-Disney's Donald Duck - Goin' Quackers (USA)",
+      "name": "Disney's Donald Duck: Goin' Quackers",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Divi-Dead (World) (Unl)",
+      "fullpath": "dreamcast-Divi-Dead (World) (Unl)",
+      "name": "Divi-Dead",
+      "year": "2008",
+      "publisher": "Himeya Soft",
+      "genre": "Adventure",
+      "rating": "HSRS - AD (Adult)"
+    },
+    {
+      "id": "Draconus - Cult of the Wyrm (USA)",
+      "fullpath": "dreamcast-Draconus - Cult of the Wyrm (USA)",
+      "name": "Draconus: Cult of the Wyrm",
+      "year": "2000",
+      "publisher": "Crave Entertainment",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Riders - Chronicles of Pern (USA)",
+      "fullpath": "dreamcast-Dragon Riders - Chronicles of Pern (USA)",
+      "name": "Dragon Riders: Chronicles of Pern",
+      "year": "2001",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Ducati World Racing Challenge (USA)",
+      "fullpath": "dreamcast-Ducati World Racing Challenge (USA)",
+      "name": "Ducati World Racing Challenge",
+      "year": "2001",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "DUX (World) (Unl)",
+      "fullpath": "dreamcast-DUX (World) (Unl)",
+      "name": "DUX",
+      "year": "2009",
+      "publisher": "Hucast",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "DUX - Version 1.5 (World) (Unl)",
+      "fullpath": "dreamcast-DUX - Version 1.5 (World) (Unl)",
+      "name": "DUX: Version 1.5",
+      "year": "2013",
+      "publisher": "Hucast",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dynamite Cop! (USA)",
+      "fullpath": "dreamcast-Dynamite Cop! (USA)",
+      "name": "Dynamite Cop!",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Ecco the Dolphin - Defender of the Future (USA)",
+      "fullpath": "dreamcast-Ecco the Dolphin - Defender of the Future (USA)",
+      "name": "Ecco the Dolphin: Defender of the Future",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "ECW Anarchy Rulz (USA)",
+      "fullpath": "dreamcast-ECW Anarchy Rulz (USA)",
+      "name": "ECW Anarchy Rulz",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "ECW Hardcore Revolution (USA)",
+      "fullpath": "dreamcast-ECW Hardcore Revolution (USA)",
+      "name": "ECW Hardcore Revolution",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "EGG - Elemental Gimmick Gear (USA)",
+      "fullpath": "dreamcast-EGG - Elemental Gimmick Gear (USA)",
+      "name": "EGG: Elemental Gimmick Gear",
+      "year": "1999",
+      "publisher": "Vatical Entertainment",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "ESPN International Track & Field (USA)",
+      "fullpath": "dreamcast-ESPN International Track & Field (USA)",
+      "name": "ESPN International Track & Field",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Sports/Olympic",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "ESPN NBA 2Night (USA)",
+      "fullpath": "dreamcast-ESPN NBA 2Night (USA)",
+      "name": "ESPN NBA 2Night",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "European Super League (Europe)",
+      "fullpath": "dreamcast-European Super League (Europe)",
+      "name": "European Super League",
+      "year": "2001",
+      "publisher": "Virgin Interactive",
+      "genre": "Sports/Soccer",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Evil Dead - Hail to the King (USA)",
+      "fullpath": "dreamcast-Evil Dead - Hail to the King (USA)",
+      "name": "Evil Dead: Hail to the King",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Evil Twin - Cyprien's Chronicles (Europe)",
+      "fullpath": "dreamcast-Evil Twin - Cyprien's Chronicles (Europe)",
+      "name": "Evil Twin: Cyprien's Chronicles",
+      "year": "2002",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Platform",
+      "rating": "ELSPA - 11+ (Everyone 11+)"
+    },
+    {
+      "id": "Evolution - The World of Sacred Device (USA)",
+      "fullpath": "dreamcast-Evolution - The World of Sacred Device (USA)",
+      "name": "Evolution: The World of Sacred Device",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Evolution 2 - Far Off Promise (USA)",
+      "fullpath": "dreamcast-Evolution 2 - Far Off Promise (USA)",
+      "name": "Evolution 2: Far Off Promise",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "E.O.S. - Exhibition of Speed (Europe)",
+      "fullpath": "dreamcast-E.O.S. - Exhibition of Speed (Europe)",
+      "name": "E.O.S.: Exhibition of Speed",
+      "year": "2001",
+      "publisher": "Titus",
+      "genre": "Driving",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Expendable (USA)",
+      "fullpath": "dreamcast-Expendable (USA)",
+      "name": "Expendable",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "F1 Racing Championship (Europe)",
+      "fullpath": "dreamcast-F1 Racing Championship (Europe)",
+      "name": "F1 Racing Championship",
+      "year": "2001",
+      "publisher": "Ubi Soft Entertainment/Video System",
+      "genre": "Driving",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "F1 World Grand Prix (USA)",
+      "fullpath": "dreamcast-F1 World Grand Prix (USA)",
+      "name": "F1 World Grand Prix",
+      "year": "2000",
+      "publisher": "Video System",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F1 World Grand Prix II for Dreamcast (Europe)",
+      "fullpath": "dreamcast-F1 World Grand Prix II for Dreamcast (Europe)",
+      "name": "F1 World Grand Prix II for Dreamcast",
+      "year": "2000",
+      "publisher": "Video System",
+      "genre": "Driving",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "F355 Challenge - Passione Rossa (USA)",
+      "fullpath": "dreamcast-F355 Challenge - Passione Rossa (USA)",
+      "name": "F355 Challenge: Passione Rossa",
+      "year": "2000",
+      "publisher": "Sega/Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Fast Striker (World) (Unl)",
+      "fullpath": "dreamcast-Fast Striker (World) (Unl)",
+      "name": "Fast Striker",
+      "year": "2010",
+      "publisher": "NG:DEV.TEAM",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fatal Fury - Mark of the Wolves (USA)",
+      "fullpath": "dreamcast-Fatal Fury - Mark of the Wolves (USA)",
+      "name": "Fatal Fury: Mark of the Wolves",
+      "year": "2001",
+      "publisher": "Agetec",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Feet of Fury - Mobile Tactical Dancing Action (World) (Unl)",
+      "fullpath": "dreamcast-Feet of Fury - Mobile Tactical Dancing Action (World) (Unl)",
+      "name": "Feet of Fury: Mobile Tactical Dancing Action",
+      "year": "2003",
+      "publisher": "GOAT Store Publishing",
+      "genre": "Rhythm",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fighting Force 2 (USA)",
+      "fullpath": "dreamcast-Fighting Force 2 (USA)",
+      "name": "Fighting Force 2",
+      "year": "1999",
+      "publisher": "Eidos Interactive",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Fighting Vipers 2 (Europe)",
+      "fullpath": "dreamcast-Fighting Vipers 2 (Europe)",
+      "name": "Fighting Vipers 2",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ELSPA - 15+ (Everyone 15+)"
+    },
+    {
+      "id": "Fire Pro Wrestling D (Japan) (Translated En)",
+      "fullpath": "dreamcast-Fire Pro Wrestling D (Japan) (Translated En)",
+      "name": "Fire Pro Wrestling D",
+      "year": "2001",
+      "publisher": "Spike Colosseum",
+      "genre": "Sports/Wrestling",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Flag to Flag - C.A.R.T. (USA)",
+      "fullpath": "dreamcast-Flag to Flag - C.A.R.T. (USA)",
+      "name": "Flag to Flag: C.A.R.T.",
+      "year": "1999",
+      "publisher": "Sega Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Flintstones, The - Viva Rock Vegas (Europe) (Proto)",
+      "fullpath": "dreamcast-Flintstones, The - Viva Rock Vegas (Europe) (Proto)",
+      "name": "Flintstones, The: Viva Rock Vegas",
+      "year": "2000",
+      "publisher": "Swing! Entertainment",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Floigan Bros. - Episode 1 (USA)",
+      "fullpath": "dreamcast-Floigan Bros. - Episode 1 (USA)",
+      "name": "Floigan Bros.: Episode 1",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Frame Gride (Japan) (Translated En)",
+      "fullpath": "dreamcast-Frame Gride (Japan) (Translated En)",
+      "name": "Frame Gride",
+      "year": "1999",
+      "publisher": "From Software",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Frogger 2 - Swampy's Revenge (USA)",
+      "fullpath": "dreamcast-Frogger 2 - Swampy's Revenge (USA)",
+      "name": "Frogger 2: Swampy's Revenge",
+      "year": "2000",
+      "publisher": "Hasbro Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Frog Feast (World) (Unl)",
+      "fullpath": "dreamcast-Frog Feast (World) (Unl)",
+      "name": "Frog Feast",
+      "year": "2007",
+      "publisher": "OlderGames",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fruit'Y (World) (Unl)",
+      "fullpath": "dreamcast-Fruit'Y (World) (Unl)",
+      "name": "Fruit'Y",
+      "year": "2015",
+      "publisher": "Retro Guru/Dragon Box Shop",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fur Fighters (USA)",
+      "fullpath": "dreamcast-Fur Fighters (USA)",
+      "name": "Fur Fighters",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Gauntlet Legends (USA)",
+      "fullpath": "dreamcast-Gauntlet Legends (USA)",
+      "name": "Gauntlet Legends",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Get!! Colonies (Japan)",
+      "fullpath": "dreamcast-Get!! Colonies (Japan)",
+      "name": "Get!! Colonies",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ghost Blade (World) (Unl)",
+      "fullpath": "dreamcast-Ghost Blade (World) (Unl)",
+      "name": "Ghost Blade",
+      "year": "2015",
+      "publisher": "Hucast",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Giant Gram - Zen Nihon Pro Wres 2 in Nihon Budoukan (Japan)",
+      "fullpath": "dreamcast-Giant Gram - Zen Nihon Pro Wres 2 in Nihon Budoukan (Japan)",
+      "name": "Giant Gram: Zen Nihon Pro Wres 2 in Nihon Budoukan",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Sports/Wrestling",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuushatachi (Japan)",
+      "fullpath": "dreamcast-Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuushatachi (Japan)",
+      "name": "Giant Gram 2000: Zen Nihon Pro Wres 3 Eikou no Yuushatachi",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Sports/Wrestling",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Giant Killers (Europe)",
+      "fullpath": "dreamcast-Giant Killers (Europe)",
+      "name": "Giant Killers",
+      "year": "2001",
+      "publisher": "AAA Game Ltd & Smoking Gun Productions",
+      "genre": "Sports/Soccer",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Giga Wing (USA)",
+      "fullpath": "dreamcast-Giga Wing (USA)",
+      "name": "Giga Wing",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Giga Wing 2 (USA)",
+      "fullpath": "dreamcast-Giga Wing 2 (USA)",
+      "name": "Giga Wing 2",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Godzilla Generations (Japan)",
+      "fullpath": "dreamcast-Godzilla Generations (Japan)",
+      "name": "Godzilla Generations",
+      "year": "1998",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Godzilla Generations - Maximum Impact (Japan)",
+      "fullpath": "dreamcast-Godzilla Generations - Maximum Impact (Japan)",
+      "name": "Godzilla Generations: Maximum Impact",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Grand Theft Auto 2 (USA)",
+      "fullpath": "dreamcast-Grand Theft Auto 2 (USA)",
+      "name": "Grand Theft Auto 2",
+      "year": "2000",
+      "publisher": "Rockstar Games",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Grandia II (USA)",
+      "fullpath": "dreamcast-Grandia II (USA)",
+      "name": "Grandia II",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Grandia II (USA) (Soundtrack Disc)",
+      "fullpath": "dreamcast-Grandia II (USA) (Soundtrack Disc)",
+      "name": "Grandia II",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Grinch, The (USA)",
+      "fullpath": "dreamcast-Grinch, The (USA)",
+      "name": "Grinch, The",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Guilty Gear X (Japan)",
+      "fullpath": "dreamcast-Guilty Gear X (Japan)",
+      "name": "Guilty Gear X",
+      "year": "2000",
+      "publisher": "Sammy",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Gunbird 2 (USA)",
+      "fullpath": "dreamcast-Gunbird 2 (USA)",
+      "name": "Gunbird 2",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Shoot-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Gundam Side Story 0079 - Rise from the Ashes (USA)",
+      "fullpath": "dreamcast-Gundam Side Story 0079 - Rise from the Ashes (USA)",
+      "name": "Gundam Side Story 0079: Rise from the Ashes",
+      "year": "2000",
+      "publisher": "Bandai",
+      "genre": "Simulation",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "GunLord (World) (Unl)",
+      "fullpath": "dreamcast-GunLord (World) (Unl)",
+      "name": "GunLord",
+      "year": "2012",
+      "publisher": "NG:DEV.TEAM",
+      "genre": "Platform",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Half-Life (World) (Proto)",
+      "fullpath": "dreamcast-Half-Life (World) (Proto)",
+      "name": "Half-Life",
+      "year": "2000",
+      "publisher": "Sierra On-Line",
+      "genre": "Shooter",
+      "rating": "HSRS - 17 (17+)"
+    },
+    {
+      "id": "Headhunter (Europe) (Disc 1)",
+      "fullpath": "dreamcast-Headhunter (Europe) (Disc 1)",
+      "name": "Headhunter",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ELSPA - 15+ (Everyone 15+)"
+    },
+    {
+      "id": "Headhunter (Europe) (Disc 2)",
+      "fullpath": "dreamcast-Headhunter (Europe) (Disc 2)",
+      "name": "Headhunter",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ELSPA - 15+ (Everyone 15+)"
+    },
+    {
+      "id": "Heavy Metal - Geomatrix (USA)",
+      "fullpath": "dreamcast-Heavy Metal - Geomatrix (USA)",
+      "name": "Heavy Metal: Geomatrix",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Hello Kitty no Lovely Fruit Park (Japan)",
+      "fullpath": "dreamcast-Hello Kitty no Lovely Fruit Park (Japan)",
+      "name": "Hello Kitty no Lovely Fruit Park",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Hello Kitty no Waku Waku Cookies (Japan)",
+      "fullpath": "dreamcast-Hello Kitty no Waku Waku Cookies (Japan)",
+      "name": "Hello Kitty no Waku Waku Cookies",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Quiz",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Hello Kitty no Magical Block (Japan)",
+      "fullpath": "dreamcast-Hello Kitty no Magical Block (Japan)",
+      "name": "Hello Kitty no Magical Block",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Hidden & Dangerous (USA)",
+      "fullpath": "dreamcast-Hidden & Dangerous (USA)",
+      "name": "Hidden & Dangerous",
+      "year": "2000",
+      "publisher": "Talonsoft",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "House of the Dead 2, The (USA)",
+      "fullpath": "dreamcast-House of the Dead 2, The (USA)",
+      "name": "House of the Dead 2, The",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Gun",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Hoyle Casino (USA)",
+      "fullpath": "dreamcast-Hoyle Casino (USA)",
+      "name": "Hoyle Casino",
+      "year": "2000",
+      "publisher": "Sierra Attractions",
+      "genre": "Casino",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hydro Thunder (USA)",
+      "fullpath": "dreamcast-Hydro Thunder (USA)",
+      "name": "Hydro Thunder",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ikaruga (Japan)",
+      "fullpath": "dreamcast-Ikaruga (Japan)",
+      "name": "Ikaruga",
+      "year": "2002",
+      "publisher": "ESP",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Illbleed (USA)",
+      "fullpath": "dreamcast-Illbleed (USA)",
+      "name": "Illbleed",
+      "year": "2001",
+      "publisher": "AIA",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Incoming (USA)",
+      "fullpath": "dreamcast-Incoming (USA)",
+      "name": "Incoming",
+      "year": "1998",
+      "publisher": "Interplay",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Industrial Spy - Operation Espionage (USA)",
+      "fullpath": "dreamcast-Industrial Spy - Operation Espionage (USA)",
+      "name": "Industrial Spy: Operation Espionage",
+      "year": "2000",
+      "publisher": "UFO",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Inhabitants - Dreamcast (World) (Unl)",
+      "fullpath": "dreamcast-Inhabitants - Dreamcast (World) (Unl)",
+      "name": "Inhabitants: Dreamcast",
+      "year": "2005",
+      "publisher": "GOAT Store Publishing",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Irides - Master of Blocks (World) (Unl)",
+      "fullpath": "dreamcast-Irides - Master of Blocks (World) (Unl)",
+      "name": "Irides: Master of Blocks",
+      "year": "2009",
+      "publisher": "GOAT Store Publishing",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Iron Aces (USA)",
+      "fullpath": "dreamcast-Iron Aces (USA)",
+      "name": "Iron Aces",
+      "year": "2001",
+      "publisher": "Infogrames",
+      "genre": "Flying",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "J-League Spectacle Soccer (Japan)",
+      "fullpath": "dreamcast-J-League Spectacle Soccer (Japan)",
+      "name": "J-League Spectacle Soccer",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jeremy McGrath Supercross 2000 (USA)",
+      "fullpath": "dreamcast-Jeremy McGrath Supercross 2000 (USA)",
+      "name": "Jeremy McGrath Supercross 2000",
+      "year": "1999",
+      "publisher": "Acclaim Sports",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Jet Grind Radio (USA)",
+      "fullpath": "dreamcast-Jet Grind Radio (USA)",
+      "name": "Jet Grind Radio",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Jimmy White's 2 - Cueball (Europe)",
+      "fullpath": "dreamcast-Jimmy White's 2 - Cueball (Europe)",
+      "name": "Jimmy White's 2: Cueball",
+      "year": "2000",
+      "publisher": "Virgin Interactive",
+      "genre": "Pool and Dart",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Jojo's Bizarre Adventure (USA)",
+      "fullpath": "dreamcast-Jojo's Bizarre Adventure (USA)",
+      "name": "Jojo's Bizarre Adventure",
+      "year": "1999",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "KAO the Kangaroo (USA)",
+      "fullpath": "dreamcast-KAO the Kangaroo (USA)",
+      "name": "KAO the Kangaroo",
+      "year": "2001",
+      "publisher": "Titus",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Karous (Japan)",
+      "fullpath": "dreamcast-Karous (Japan)",
+      "name": "Karous",
+      "year": "2007",
+      "publisher": "Milestone Inc.",
+      "genre": "Shoot-'Em-Up",
+      "rating": "CERO - A (All Ages)"
+    },
+    {
+      "id": "King of Fighters Evolution, The (USA)",
+      "fullpath": "dreamcast-King of Fighters Evolution, The (USA)",
+      "name": "King of Fighters Evolution, The",
+      "year": "2001",
+      "publisher": "Agetec",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "King of Fighters 2000, The (Japan)",
+      "fullpath": "dreamcast-King of Fighters 2000, The (Japan)",
+      "name": "King of Fighters 2000, The",
+      "year": "2002",
+      "publisher": "Playmore",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "King of Fighters 2001, The (Japan)",
+      "fullpath": "dreamcast-King of Fighters 2001, The (Japan)",
+      "name": "King of Fighters 2001, The",
+      "year": "2002",
+      "publisher": "Playmore",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "King of Fighters 2002, The (Japan)",
+      "fullpath": "dreamcast-King of Fighters 2002, The (Japan)",
+      "name": "King of Fighters 2002, The",
+      "year": "2003",
+      "publisher": "Playmore",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "King of Fighters Dream Match 1999, The (USA)",
+      "fullpath": "dreamcast-King of Fighters Dream Match 1999, The (USA)",
+      "name": "King of Fighters Dream Match 1999, The",
+      "year": "1999",
+      "publisher": "SNK",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "KISS Psycho Circus - The Nightmare Child (USA)",
+      "fullpath": "dreamcast-KISS Psycho Circus - The Nightmare Child (USA)",
+      "name": "KISS Psycho Circus: The Nightmare Child",
+      "year": "2000",
+      "publisher": "Take2 Interactive",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "L.O.L. - Lack of Love (Japan)",
+      "fullpath": "dreamcast-L.O.L. - Lack of Love (Japan)",
+      "name": "L.O.L.: Lack of Love",
+      "year": "2000",
+      "publisher": "ASCII",
+      "genre": "Adventure",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Last Blade 2 - Heart of the Samurai, The (USA)",
+      "fullpath": "dreamcast-Last Blade 2 - Heart of the Samurai, The (USA)",
+      "name": "Last Blade 2: Heart of the Samurai, The",
+      "year": "2001",
+      "publisher": "Agetec",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Last Hope (World) (Unl)",
+      "fullpath": "dreamcast-Last Hope (World) (Unl)",
+      "name": "Last Hope",
+      "year": "2007",
+      "publisher": "NG:DEV.TEAM",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Last Hope - Pink Bullets (World) (Unl)",
+      "fullpath": "dreamcast-Last Hope - Pink Bullets (World) (Unl)",
+      "name": "Last Hope: Pink Bullets",
+      "year": "2009",
+      "publisher": "NG:DEV.TEAM",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Legacy of Kain - Soul Reaver (USA)",
+      "fullpath": "dreamcast-Legacy of Kain - Soul Reaver (USA)",
+      "name": "Legacy of Kain: Soul Reaver",
+      "year": "2000",
+      "publisher": "Eidos Interactive",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Looney Tunes - Space Race (USA)",
+      "fullpath": "dreamcast-Looney Tunes - Space Race (USA)",
+      "name": "Looney Tunes: Space Race",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Macross M3 (Japan)",
+      "fullpath": "dreamcast-Macross M3 (Japan)",
+      "name": "Macross M3",
+      "year": "2001",
+      "publisher": "Shoeisha",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Magforce Racing (USA)",
+      "fullpath": "dreamcast-Magforce Racing (USA)",
+      "name": "Magforce Racing",
+      "year": "2000",
+      "publisher": "Crave Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Maken X (USA)",
+      "fullpath": "dreamcast-Maken X (USA)",
+      "name": "Maken X",
+      "year": "1999",
+      "publisher": "Atlus/Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Maqiupai (World) (Unl)",
+      "fullpath": "dreamcast-Maqiupai (World) (Unl)",
+      "name": "Maqiupai",
+      "year": "2005",
+      "publisher": "GOAT Store Publishing",
+      "genre": "Board Games",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mars Matrix (USA)",
+      "fullpath": "dreamcast-Mars Matrix (USA)",
+      "name": "Mars Matrix",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Marvel vs. Capcom - Clash of Super Heroes (USA)",
+      "fullpath": "dreamcast-Marvel vs. Capcom - Clash of Super Heroes (USA)",
+      "name": "Marvel vs. Capcom: Clash of Super Heroes",
+      "year": "1999",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Marvel vs. Capcom 2 (USA)",
+      "fullpath": "dreamcast-Marvel vs. Capcom 2 (USA)",
+      "name": "Marvel vs. Capcom 2",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mat Hoffman's Pro BMX (USA)",
+      "fullpath": "dreamcast-Mat Hoffman's Pro BMX (USA)",
+      "name": "Mat Hoffman's Pro BMX",
+      "year": "2001",
+      "publisher": "Activision O2",
+      "genre": "Sports/Biking",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Max Steel - Covert Missions (USA)",
+      "fullpath": "dreamcast-Max Steel - Covert Missions (USA)",
+      "name": "Max Steel: Covert Missions",
+      "year": "2001",
+      "publisher": "Mattel Interactive",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Maximum Pool (USA)",
+      "fullpath": "dreamcast-Maximum Pool (USA)",
+      "name": "Maximum Pool",
+      "year": "2000",
+      "publisher": "Sierra Sports",
+      "genre": "Pool and Dart",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MDK 2 (USA)",
+      "fullpath": "dreamcast-MDK 2 (USA)",
+      "name": "MDK 2",
+      "year": "2000",
+      "publisher": "Interplay",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Metropolis Street Racer (USA)",
+      "fullpath": "dreamcast-Metropolis Street Racer (USA)",
+      "name": "Metropolis Street Racer",
+      "year": "2001",
+      "publisher": "Bizarre Creations/Sega",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Midway's Greatest Arcade Hits Volume 1 (USA)",
+      "fullpath": "dreamcast-Midway's Greatest Arcade Hits Volume 1 (USA)",
+      "name": "Midway's Greatest Arcade Hits Volume 1",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Midway's Greatest Arcade Hits Volume 2 (USA)",
+      "fullpath": "dreamcast-Midway's Greatest Arcade Hits Volume 2 (USA)",
+      "name": "Midway's Greatest Arcade Hits Volume 2",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Millennium Racer - Y2K Fighters (World) (Proto)",
+      "fullpath": "dreamcast-Millennium Racer - Y2K Fighters (World) (Proto)",
+      "name": "Millennium Racer: Y2K Fighters",
+      "year": "2000",
+      "publisher": "Creat Studio/Cryo Interactive",
+      "genre": "Miscellaneous",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Moho (Europe)",
+      "fullpath": "dreamcast-Moho (Europe)",
+      "name": "Moho",
+      "year": "2000",
+      "publisher": "Take2 Interactive",
+      "genre": "Action",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Monaco Grand Prix (USA)",
+      "fullpath": "dreamcast-Monaco Grand Prix (USA)",
+      "name": "Monaco Grand Prix",
+      "year": "1999",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mortal Kombat Gold (USA)",
+      "fullpath": "dreamcast-Mortal Kombat Gold (USA)",
+      "name": "Mortal Kombat Gold",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Mr. Driller (USA)",
+      "fullpath": "dreamcast-Mr. Driller (USA)",
+      "name": "Mr. Driller",
+      "year": "2000",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ms. Pac-Man Maze Madness (USA)",
+      "fullpath": "dreamcast-Ms. Pac-Man Maze Madness (USA)",
+      "name": "Ms. Pac-Man Maze Madness",
+      "year": "2000",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MTV Sports - Skateboarding Featuring Andy McDonald (USA)",
+      "fullpath": "dreamcast-MTV Sports - Skateboarding Featuring Andy McDonald (USA)",
+      "name": "MTV Sports: Skateboarding Featuring Andy McDonald",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Sports/Skateboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Musapey's Choco Marker (Japan)",
+      "fullpath": "dreamcast-Musapey's Choco Marker (Japan)",
+      "name": "Musapey's Choco Marker",
+      "year": "2002",
+      "publisher": "Ecole Software Corporation",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Namco Museum (USA)",
+      "fullpath": "dreamcast-Namco Museum (USA)",
+      "name": "Namco Museum",
+      "year": "2000",
+      "publisher": "Namco",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA 2K (USA)",
+      "fullpath": "dreamcast-NBA 2K (USA)",
+      "name": "NBA 2K",
+      "year": "1999",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA 2K1 (USA)",
+      "fullpath": "dreamcast-NBA 2K1 (USA)",
+      "name": "NBA 2K1",
+      "year": "2000",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA 2K2 (USA)",
+      "fullpath": "dreamcast-NBA 2K2 (USA)",
+      "name": "NBA 2K2",
+      "year": "2001",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Hoopz (USA)",
+      "fullpath": "dreamcast-NBA Hoopz (USA)",
+      "name": "NBA Hoopz",
+      "year": "2001",
+      "publisher": "Midway",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Showtime - NBA on NBC (USA)",
+      "fullpath": "dreamcast-NBA Showtime - NBA on NBC (USA)",
+      "name": "NBA Showtime: NBA on NBC",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NCAA College Football 2K2 - Road to the Rose Bowl (USA)",
+      "fullpath": "dreamcast-NCAA College Football 2K2 - Road to the Rose Bowl (USA)",
+      "name": "NCAA College Football 2K2: Road to the Rose Bowl",
+      "year": "2001",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Neo Golden Logres (Japan)",
+      "fullpath": "dreamcast-Neo Golden Logres (Japan)",
+      "name": "Neo Golden Logres",
+      "year": "2000",
+      "publisher": "Success",
+      "genre": "Pinball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "NEO XYX (World) (Unl)",
+      "fullpath": "dreamcast-NEO XYX (World) (Unl)",
+      "name": "NEO XYX",
+      "year": "2014",
+      "publisher": "NG:DEV.TEAM",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Netto de Tennis (Japan)",
+      "fullpath": "dreamcast-Netto de Tennis (Japan)",
+      "name": "Netto de Tennis",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Sports/Tennis",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Shin Nihon Pro Wrestling - Toukon Retsuden 4 (Japan)",
+      "fullpath": "dreamcast-Shin Nihon Pro Wrestling - Toukon Retsuden 4 (Japan)",
+      "name": "Shin Nihon Pro Wrestling: Toukon Retsuden 4",
+      "year": "1999",
+      "publisher": "Tomy Entertainment",
+      "genre": "Sports/Wrestling",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Next Tetris, The - On-line Edition (USA)",
+      "fullpath": "dreamcast-Next Tetris, The - On-line Edition (USA)",
+      "name": "Next Tetris, The: On-line Edition",
+      "year": "2000",
+      "publisher": "Crave Entertainment",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL 2K (USA)",
+      "fullpath": "dreamcast-NFL 2K (USA)",
+      "name": "NFL 2K",
+      "year": "1999",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL 2K1 (USA)",
+      "fullpath": "dreamcast-NFL 2K1 (USA)",
+      "name": "NFL 2K1",
+      "year": "2000",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL 2K2 (USA)",
+      "fullpath": "dreamcast-NFL 2K2 (USA)",
+      "name": "NFL 2K2",
+      "year": "2002",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Blitz 2000 (USA)",
+      "fullpath": "dreamcast-NFL Blitz 2000 (USA)",
+      "name": "NFL Blitz 2000",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Blitz 2001 (USA)",
+      "fullpath": "dreamcast-NFL Blitz 2001 (USA)",
+      "name": "NFL Blitz 2001",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL QB Club 2001 (USA)",
+      "fullpath": "dreamcast-NFL QB Club 2001 (USA)",
+      "name": "NFL QB Club 2001",
+      "year": "2000",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Quarterback Club 2000 (USA)",
+      "fullpath": "dreamcast-NFL Quarterback Club 2000 (USA)",
+      "name": "NFL Quarterback Club 2000",
+      "year": "1999",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL 2K (USA)",
+      "fullpath": "dreamcast-NHL 2K (USA)",
+      "name": "NHL 2K",
+      "year": "2000",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL 2K2 (USA)",
+      "fullpath": "dreamcast-NHL 2K2 (USA)",
+      "name": "NHL 2K2",
+      "year": "2002",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Nightmare Creatures II (USA)",
+      "fullpath": "dreamcast-Nightmare Creatures II (USA)",
+      "name": "Nightmare Creatures II",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Omikron - The Nomad Soul (USA)",
+      "fullpath": "dreamcast-Omikron - The Nomad Soul (USA)",
+      "name": "Omikron: The Nomad Soul",
+      "year": "2000",
+      "publisher": "Eidos Interactive",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Ooga Booga (USA)",
+      "fullpath": "dreamcast-Ooga Booga (USA)",
+      "name": "Ooga Booga",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Outtrigger (USA)",
+      "fullpath": "dreamcast-Outtrigger (USA)",
+      "name": "Outtrigger",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "PBA Tour Bowling 2001 (USA) (Proto)",
+      "fullpath": "dreamcast-PBA Tour Bowling 2001 (USA) (Proto)",
+      "name": "PBA Tour Bowling 2001",
+      "year": "2000",
+      "publisher": "Bethesda Softworks",
+      "genre": "Sports/Bowling",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pen Pen TriIcelon (USA)",
+      "fullpath": "dreamcast-Pen Pen TriIcelon (USA)",
+      "name": "Pen Pen TriIcelon",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Phantasy Star Online (USA)",
+      "fullpath": "dreamcast-Phantasy Star Online (USA)",
+      "name": "Phantasy Star Online",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Phantasy Star Online Ver. 2 (USA)",
+      "fullpath": "dreamcast-Phantasy Star Online Ver. 2 (USA)",
+      "name": "Phantasy Star Online Ver. 2",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Pier Solar and the Great Architects (World) (Unl)",
+      "fullpath": "dreamcast-Pier Solar and the Great Architects (World) (Unl)",
+      "name": "Pier Solar and the Great Architects",
+      "year": "2015",
+      "publisher": "WaterMelon",
+      "genre": "Role-Playing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Planet Ring (Europe)",
+      "fullpath": "dreamcast-Planet Ring (Europe)",
+      "name": "Planet Ring",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Plasma Sword - Nightmare of Bilstein (USA)",
+      "fullpath": "dreamcast-Plasma Sword - Nightmare of Bilstein (USA)",
+      "name": "Plasma Sword: Nightmare of Bilstein",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Plus Plum (Japan)",
+      "fullpath": "dreamcast-Plus Plum (Japan)",
+      "name": "Plus Plum",
+      "year": "1999",
+      "publisher": "Takuyo",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "POD - Speedzone (USA)",
+      "fullpath": "dreamcast-POD - Speedzone (USA)",
+      "name": "POD: Speedzone",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Power Jet Racing 2001 (Japan)",
+      "fullpath": "dreamcast-Power Jet Racing 2001 (Japan)",
+      "name": "Power Jet Racing 2001",
+      "year": "2001",
+      "publisher": "CSK Research Institute",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Power Stone (USA)",
+      "fullpath": "dreamcast-Power Stone (USA)",
+      "name": "Power Stone",
+      "year": "1999",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Power Stone 2 (USA)",
+      "fullpath": "dreamcast-Power Stone 2 (USA)",
+      "name": "Power Stone 2",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Prince of Persia - Arabian Nights (USA)",
+      "fullpath": "dreamcast-Prince of Persia - Arabian Nights (USA)",
+      "name": "Prince of Persia: Arabian Nights",
+      "year": "2000",
+      "publisher": "Mattel Interactive",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Pro Pinball Trilogy (Europe)",
+      "fullpath": "dreamcast-Pro Pinball Trilogy (Europe)",
+      "name": "Pro Pinball Trilogy",
+      "year": "2001",
+      "publisher": "Empire Interactive",
+      "genre": "Pool and Dart",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Project Justice (USA)",
+      "fullpath": "dreamcast-Project Justice (USA)",
+      "name": "Project Justice",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Propeller Arena - Aviation Battle Championship (World) (Proto)",
+      "fullpath": "dreamcast-Propeller Arena - Aviation Battle Championship (World) (Proto)",
+      "name": "Propeller Arena: Aviation Battle Championship",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Psychic Force 2012 (USA)",
+      "fullpath": "dreamcast-Psychic Force 2012 (USA)",
+      "name": "Psychic Force 2012",
+      "year": "1999",
+      "publisher": "Taito",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Psyvariar 2 - The Will to Fabricate (Japan)",
+      "fullpath": "dreamcast-Psyvariar 2 - The Will to Fabricate (Japan)",
+      "name": "Psyvariar 2: The Will to Fabricate",
+      "year": "2004",
+      "publisher": "Success",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Puyo Puyo 4 (Japan)",
+      "fullpath": "dreamcast-Puyo Puyo 4 (Japan)",
+      "name": "Puyo Puyo 4",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Puyo Puyo Da! featuring Ellena System (Japan)",
+      "fullpath": "dreamcast-Puyo Puyo Da! featuring Ellena System (Japan)",
+      "name": "Puyo Puyo Da! featuring Ellena System",
+      "year": "1999",
+      "publisher": "Compile",
+      "genre": "Rhythm",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Puyo Puyo Fever (Japan)",
+      "fullpath": "dreamcast-Puyo Puyo Fever (Japan)",
+      "name": "Puyo Puyo Fever",
+      "year": "2004",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "CERO - A (All Ages)"
+    },
+    {
+      "id": "Q-Bert (USA)",
+      "fullpath": "dreamcast-Q-Bert (USA)",
+      "name": "Q-Bert",
+      "year": "2000",
+      "publisher": "Hasbro Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Quake III Arena (USA)",
+      "fullpath": "dreamcast-Quake III Arena (USA)",
+      "name": "Quake III Arena",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Racing Simulation 2 - Monaco Grand Prix On-Line (Europe)",
+      "fullpath": "dreamcast-Racing Simulation 2 - Monaco Grand Prix On-Line (Europe)",
+      "name": "Racing Simulation 2: Monaco Grand Prix On-Line",
+      "year": "2001",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Radirgy (Japan)",
+      "fullpath": "dreamcast-Radirgy (Japan)",
+      "name": "Radirgy",
+      "year": "2006",
+      "publisher": "Milestone Inc.",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Railroad Tycoon II - Gold Edition (USA)",
+      "fullpath": "dreamcast-Railroad Tycoon II - Gold Edition (USA)",
+      "name": "Railroad Tycoon II: Gold Edition",
+      "year": "2000",
+      "publisher": "Gathering of Developers",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rainbow Cotton (Japan)",
+      "fullpath": "dreamcast-Rainbow Cotton (Japan)",
+      "name": "Rainbow Cotton",
+      "year": "2000",
+      "publisher": "Success",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rayman 2 - The Great Escape (USA)",
+      "fullpath": "dreamcast-Rayman 2 - The Great Escape (USA)",
+      "name": "Rayman 2: The Great Escape",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Razor Freestyle Scooter (USA)",
+      "fullpath": "dreamcast-Razor Freestyle Scooter (USA)",
+      "name": "Razor Freestyle Scooter",
+      "year": "2001",
+      "publisher": "Crave Entertainment",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Re-Volt (USA)",
+      "fullpath": "dreamcast-Re-Volt (USA)",
+      "name": "Re-Volt",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ready 2 Rumble Boxing (USA)",
+      "fullpath": "dreamcast-Ready 2 Rumble Boxing (USA)",
+      "name": "Ready 2 Rumble Boxing",
+      "year": "1999",
+      "publisher": "Midway",
+      "genre": "Sports/Boxing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Ready 2 Rumble Boxing - Round 2 (USA)",
+      "fullpath": "dreamcast-Ready 2 Rumble Boxing - Round 2 (USA)",
+      "name": "Ready 2 Rumble Boxing: Round 2",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Sports/Boxing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Record of Lodoss War (USA)",
+      "fullpath": "dreamcast-Record of Lodoss War (USA)",
+      "name": "Record of Lodoss War",
+      "year": "2001",
+      "publisher": "Crave Entertainment",
+      "genre": "Role-Playing",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Red Dog - Superior Firepower (USA)",
+      "fullpath": "dreamcast-Red Dog - Superior Firepower (USA)",
+      "name": "Red Dog: Superior Firepower",
+      "year": "2000",
+      "publisher": "Crave Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Redux - Dark Matters (World) (Unl)",
+      "fullpath": "dreamcast-Redux - Dark Matters (World) (Unl)",
+      "name": "Redux: Dark Matters",
+      "year": "2013",
+      "publisher": "Hucast",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Reel Fishing - Wild (USA)",
+      "fullpath": "dreamcast-Reel Fishing - Wild (USA)",
+      "name": "Reel Fishing: Wild",
+      "year": "2001",
+      "publisher": "Natsume",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Resident Evil 2 (USA) (Disc 1)",
+      "fullpath": "dreamcast-Resident Evil 2 (USA) (Disc 1)",
+      "name": "Resident Evil 2",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil 2 (USA) (Disc 2)",
+      "fullpath": "dreamcast-Resident Evil 2 (USA) (Disc 2)",
+      "name": "Resident Evil 2",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil 3 - Nemesis (USA)",
+      "fullpath": "dreamcast-Resident Evil 3 - Nemesis (USA)",
+      "name": "Resident Evil 3: Nemesis",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil - Code - Veronica (USA) (Disc 1)",
+      "fullpath": "dreamcast-Resident Evil - Code - Veronica (USA) (Disc 1)",
+      "name": "Resident Evil - Code: Veronica",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil - Code - Veronica (USA) (Disc 2)",
+      "fullpath": "dreamcast-Resident Evil - Code - Veronica (USA) (Disc 2)",
+      "name": "Resident Evil - Code: Veronica",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Rez (Europe)",
+      "fullpath": "dreamcast-Rez (Europe)",
+      "name": "Rez",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Ring, The - Terror's Realm (USA)",
+      "fullpath": "dreamcast-Ring, The - Terror's Realm (USA)",
+      "name": "Ring, The: Terror's Realm",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Rippin' Riders (USA)",
+      "fullpath": "dreamcast-Rippin' Riders (USA)",
+      "name": "Rippin' Riders",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Sports/Snowboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Roadsters (USA)",
+      "fullpath": "dreamcast-Roadsters (USA)",
+      "name": "Roadsters",
+      "year": "2000",
+      "publisher": "Titus",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rush Rush Rally Racing (World) (Unl)",
+      "fullpath": "dreamcast-Rush Rush Rally Racing (World) (Unl)",
+      "name": "Rush Rush Rally Racing",
+      "year": "2009",
+      "publisher": "RedSpotGames",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Samba de Amigo (USA)",
+      "fullpath": "dreamcast-Samba de Amigo (USA)",
+      "name": "Samba de Amigo",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Rhythm",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Samba de Amigo ver. 2000 (Japan)",
+      "fullpath": "dreamcast-Samba de Amigo ver. 2000 (Japan)",
+      "name": "Samba de Amigo ver. 2000",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Rhythm",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "San Francisco Rush 2049 (USA)",
+      "fullpath": "dreamcast-San Francisco Rush 2049 (USA)",
+      "name": "San Francisco Rush 2049",
+      "year": "2000",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Seaman (USA)",
+      "fullpath": "dreamcast-Seaman (USA)",
+      "name": "Seaman",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Virtual Life",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sega Bass Fishing (USA)",
+      "fullpath": "dreamcast-Sega Bass Fishing (USA)",
+      "name": "Sega Bass Fishing",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sega Bass Fishing 2 (USA)",
+      "fullpath": "dreamcast-Sega Bass Fishing 2 (USA)",
+      "name": "Sega Bass Fishing 2",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sega GT (USA)",
+      "fullpath": "dreamcast-Sega GT (USA)",
+      "name": "Sega GT",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sega Marine Fishing (USA)",
+      "fullpath": "dreamcast-Sega Marine Fishing (USA)",
+      "name": "Sega Marine Fishing",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sega Rally 2 - Sega Rally Championship (USA)",
+      "fullpath": "dreamcast-Sega Rally 2 - Sega Rally Championship (USA)",
+      "name": "Sega Rally 2: Sega Rally Championship",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sega Smash Pack Volume 1 (USA)",
+      "fullpath": "dreamcast-Sega Smash Pack Volume 1 (USA)",
+      "name": "Sega Smash Pack Volume 1",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sega Swirl (USA)",
+      "fullpath": "dreamcast-Sega Swirl (USA)",
+      "name": "Sega Swirl",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sega Tetris (Japan)",
+      "fullpath": "dreamcast-Sega Tetris (Japan)",
+      "name": "Sega Tetris",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sega Worldwide Soccer 2000 (Europe)",
+      "fullpath": "dreamcast-Sega Worldwide Soccer 2000 (Europe)",
+      "name": "Sega Worldwide Soccer 2000",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Sports/Soccer",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Sega Worldwide Soccer 2000 - Euro Edition (Europe)",
+      "fullpath": "dreamcast-Sega Worldwide Soccer 2000 - Euro Edition (Europe)",
+      "name": "Sega Worldwide Soccer 2000: Euro Edition",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Sports/Soccer",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Seventh Cross Evolution (USA)",
+      "fullpath": "dreamcast-Seventh Cross Evolution (USA)",
+      "name": "Seventh Cross Evolution",
+      "year": "2000",
+      "publisher": "UFO",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Shadow Man (USA)",
+      "fullpath": "dreamcast-Shadow Man (USA)",
+      "name": "Shadow Man",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Shenmue (USA) (Disc 1)",
+      "fullpath": "dreamcast-Shenmue (USA) (Disc 1)",
+      "name": "Shenmue",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Shenmue (USA) (Disc 2)",
+      "fullpath": "dreamcast-Shenmue (USA) (Disc 2)",
+      "name": "Shenmue",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Shenmue (USA) (Disc 3)",
+      "fullpath": "dreamcast-Shenmue (USA) (Disc 3)",
+      "name": "Shenmue",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Shenmue (USA) (Passport Disc)",
+      "fullpath": "dreamcast-Shenmue (USA) (Passport Disc)",
+      "name": "Shenmue",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Shenmue II (Europe) (Disc 1)",
+      "fullpath": "dreamcast-Shenmue II (Europe) (Disc 1)",
+      "name": "Shenmue II",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ELSPA - 11+ (Everyone 11+)"
+    },
+    {
+      "id": "Shenmue II (Europe) (Disc 2)",
+      "fullpath": "dreamcast-Shenmue II (Europe) (Disc 2)",
+      "name": "Shenmue II",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ELSPA - 11+ (Everyone 11+)"
+    },
+    {
+      "id": "Shenmue II (Europe) (Disc 3)",
+      "fullpath": "dreamcast-Shenmue II (Europe) (Disc 3)",
+      "name": "Shenmue II",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ELSPA - 11+ (Everyone 11+)"
+    },
+    {
+      "id": "Shenmue II (Europe) (Disc 4)",
+      "fullpath": "dreamcast-Shenmue II (Europe) (Disc 4)",
+      "name": "Shenmue II",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ELSPA - 11+ (Everyone 11+)"
+    },
+    {
+      "id": "Silent Scope (USA)",
+      "fullpath": "dreamcast-Silent Scope (USA)",
+      "name": "Silent Scope",
+      "year": "2000",
+      "publisher": "Konami",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Silver (USA)",
+      "fullpath": "dreamcast-Silver (USA)",
+      "name": "Silver",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Skies of Arcadia (USA) (Disc 1)",
+      "fullpath": "dreamcast-Skies of Arcadia (USA) (Disc 1)",
+      "name": "Skies of Arcadia",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Skies of Arcadia (USA) (Disc 2)",
+      "fullpath": "dreamcast-Skies of Arcadia (USA) (Disc 2)",
+      "name": "Skies of Arcadia",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Slave Zero (USA)",
+      "fullpath": "dreamcast-Slave Zero (USA)",
+      "name": "Slave Zero",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sno-Cross Championship Racing (USA)",
+      "fullpath": "dreamcast-Sno-Cross Championship Racing (USA)",
+      "name": "Sno-Cross Championship Racing",
+      "year": "2000",
+      "publisher": "Crave Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Soldier of Fortune (USA)",
+      "fullpath": "dreamcast-Soldier of Fortune (USA)",
+      "name": "Soldier of Fortune",
+      "year": "2001",
+      "publisher": "Crave Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Sonic Adventure (USA)",
+      "fullpath": "dreamcast-Sonic Adventure (USA)",
+      "name": "Sonic Adventure",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic Adventure 2 (USA)",
+      "fullpath": "dreamcast-Sonic Adventure 2 (USA)",
+      "name": "Sonic Adventure 2",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic Adventure International (Japan)",
+      "fullpath": "dreamcast-Sonic Adventure International (Japan)",
+      "name": "Sonic Adventure International",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sonic Shuffle (USA)",
+      "fullpath": "dreamcast-Sonic Shuffle (USA)",
+      "name": "Sonic Shuffle",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SoulCalibur (USA)",
+      "fullpath": "dreamcast-SoulCalibur (USA)",
+      "name": "SoulCalibur",
+      "year": "1999",
+      "publisher": "Namco",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Soul Fighter (USA)",
+      "fullpath": "dreamcast-Soul Fighter (USA)",
+      "name": "Soul Fighter",
+      "year": "1999",
+      "publisher": "Red Orb Entertainment",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "South Park - Chef's Luv Shack (USA)",
+      "fullpath": "dreamcast-South Park - Chef's Luv Shack (USA)",
+      "name": "South Park: Chef's Luv Shack",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Game Show",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "South Park Rally (USA)",
+      "fullpath": "dreamcast-South Park Rally (USA)",
+      "name": "South Park Rally",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Space Channel 5 (USA)",
+      "fullpath": "dreamcast-Space Channel 5 (USA)",
+      "name": "Space Channel 5",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Rhythm",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Space Channel 5 Part 2 (Japan) (Translated En)",
+      "fullpath": "dreamcast-Space Channel 5 Part 2 (Japan) (Translated En)",
+      "name": "Space Channel 5 Part 2",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Rhythm",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Spawn - In the Demon's Hand (USA)",
+      "fullpath": "dreamcast-Spawn - In the Demon's Hand (USA)",
+      "name": "Spawn: In the Demon's Hand",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Spec Ops II - Omega Squad (USA)",
+      "fullpath": "dreamcast-Spec Ops II - Omega Squad (USA)",
+      "name": "Spec Ops II: Omega Squad",
+      "year": "2000",
+      "publisher": "Ripcord Games",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Speed Devils (USA)",
+      "fullpath": "dreamcast-Speed Devils (USA)",
+      "name": "Speed Devils",
+      "year": "1999",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Speed Devils - Online Racing (USA)",
+      "fullpath": "dreamcast-Speed Devils - Online Racing (USA)",
+      "name": "Speed Devils: Online Racing",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spider-Man (USA)",
+      "fullpath": "dreamcast-Spider-Man (USA)",
+      "name": "Spider-Man",
+      "year": "2001",
+      "publisher": "Activision",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spirit of Speed 1937 (USA)",
+      "fullpath": "dreamcast-Spirit of Speed 1937 (USA)",
+      "name": "Spirit of Speed 1937",
+      "year": "2000",
+      "publisher": "LJN",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sports Jam (USA)",
+      "fullpath": "dreamcast-Sports Jam (USA)",
+      "name": "Sports Jam",
+      "year": "2001",
+      "publisher": "Agetec",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Star Wars - Demolition (USA)",
+      "fullpath": "dreamcast-Star Wars - Demolition (USA)",
+      "name": "Star Wars: Demolition",
+      "year": "2000",
+      "publisher": "LucasArts",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Star Wars - Episode I - Racer (USA)",
+      "fullpath": "dreamcast-Star Wars - Episode I - Racer (USA)",
+      "name": "Star Wars: Episode I - Racer",
+      "year": "2000",
+      "publisher": "LucasArts",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Star Wars - Episode I - Jedi Power Battles (USA)",
+      "fullpath": "dreamcast-Star Wars - Episode I - Jedi Power Battles (USA)",
+      "name": "Star Wars: Episode I - Jedi Power Battles",
+      "year": "2000",
+      "publisher": "LucasArts",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "StarLancer (USA)",
+      "fullpath": "dreamcast-StarLancer (USA)",
+      "name": "StarLancer",
+      "year": "2000",
+      "publisher": "Crave Entertainment",
+      "genre": "Simulation",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter Alpha 3 (USA)",
+      "fullpath": "dreamcast-Street Fighter Alpha 3 (USA)",
+      "name": "Street Fighter Alpha 3",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter III - 3rd Strike (USA)",
+      "fullpath": "dreamcast-Street Fighter III - 3rd Strike (USA)",
+      "name": "Street Fighter III: 3rd Strike",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter III - Double Impact (USA)",
+      "fullpath": "dreamcast-Street Fighter III - Double Impact (USA)",
+      "name": "Street Fighter III: Double Impact",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Fighter III - Triple Threat (World) (Unl)",
+      "fullpath": "dreamcast-Street Fighter III - Triple Threat (World) (Unl)",
+      "name": "Street Fighter III: Triple Threat",
+      "year": "2000",
+      "publisher": "Capcom/ReviveDC Project",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Striker Pro 2000 (USA)",
+      "fullpath": "dreamcast-Striker Pro 2000 (USA)",
+      "name": "Striker Pro 2000",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Stunt GP (Europe)",
+      "fullpath": "dreamcast-Stunt GP (Europe)",
+      "name": "Stunt GP",
+      "year": "2001",
+      "publisher": "EON Digital Entertainment",
+      "genre": "Driving",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Stupid Invaders (USA) (Disc 1)",
+      "fullpath": "dreamcast-Stupid Invaders (USA) (Disc 1)",
+      "name": "Stupid Invaders",
+      "year": "2001",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Stupid Invaders (USA) (Disc 2)",
+      "fullpath": "dreamcast-Stupid Invaders (USA) (Disc 2)",
+      "name": "Stupid Invaders",
+      "year": "2001",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sturmwind (World) (Unl)",
+      "fullpath": "dreamcast-Sturmwind (World) (Unl)",
+      "name": "Sturmwind",
+      "year": "2013",
+      "publisher": "RedSpotGames",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Euro Soccer 2000 (Japan)",
+      "fullpath": "dreamcast-Super Euro Soccer 2000 (Japan)",
+      "name": "Super Euro Soccer 2000",
+      "year": "2000",
+      "publisher": "Imagineer",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Magnetic Neo (USA)",
+      "fullpath": "dreamcast-Super Magnetic Neo (USA)",
+      "name": "Super Magnetic Neo",
+      "year": "2000",
+      "publisher": "Crave Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Puzzle Fighter II X for Matching Service (Japan) (Translated En)",
+      "fullpath": "dreamcast-Super Puzzle Fighter II X for Matching Service (Japan) (Translated En)",
+      "name": "Super Puzzle Fighter II X for Matching Service",
+      "year": "2001",
+      "publisher": "Capcom",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Runabout - San Francisco Edition (USA)",
+      "fullpath": "dreamcast-Super Runabout - San Francisco Edition (USA)",
+      "name": "Super Runabout: San Francisco Edition",
+      "year": "2000",
+      "publisher": "Interplay",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Street Fighter II X for Matching Service - Grand Master Challenge (Japan) (Translated En)",
+      "fullpath": "dreamcast-Super Street Fighter II X for Matching Service - Grand Master Challenge (Japan) (Translated En)",
+      "name": "Super Street Fighter II X for Matching Service: Grand Master Challenge",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Surf Rocket Racers (USA)",
+      "fullpath": "dreamcast-Surf Rocket Racers (USA)",
+      "name": "Surf Rocket Racers",
+      "year": "2001",
+      "publisher": "Crave Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Suzuki Alstare Extreme Racing (USA)",
+      "fullpath": "dreamcast-Suzuki Alstare Extreme Racing (USA)",
+      "name": "Suzuki Alstare Extreme Racing",
+      "year": "1999",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sword of the Berserk - Guts' Rage (USA)",
+      "fullpath": "dreamcast-Sword of the Berserk - Guts' Rage (USA)",
+      "name": "Sword of the Berserk: Guts' Rage",
+      "year": "2000",
+      "publisher": "Eidos Interactive",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Sydney 2000 (USA)",
+      "fullpath": "dreamcast-Sydney 2000 (USA)",
+      "name": "Sydney 2000",
+      "year": "2000",
+      "publisher": "Eidos Interactive",
+      "genre": "Sports/Olympic",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Taxi 2 - Le Jeu (France)",
+      "fullpath": "dreamcast-Taxi 2 - Le Jeu (France)",
+      "name": "Taxi 2: Le Jeu",
+      "year": "2000",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tech Romancer (USA)",
+      "fullpath": "dreamcast-Tech Romancer (USA)",
+      "name": "Tech Romancer",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tee Off (USA)",
+      "fullpath": "dreamcast-Tee Off (USA)",
+      "name": "Tee Off",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tennis 2K2 (USA)",
+      "fullpath": "dreamcast-Tennis 2K2 (USA)",
+      "name": "Tennis 2K2",
+      "year": "2001",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Tennis",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Test Drive 6 (USA)",
+      "fullpath": "dreamcast-Test Drive 6 (USA)",
+      "name": "Test Drive 6",
+      "year": "1999",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Test Drive Le Mans (USA)",
+      "fullpath": "dreamcast-Test Drive Le Mans (USA)",
+      "name": "Test Drive Le Mans",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Test Drive V-Rally (USA)",
+      "fullpath": "dreamcast-Test Drive V-Rally (USA)",
+      "name": "Test Drive V-Rally",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tetris 4D (Japan)",
+      "fullpath": "dreamcast-Tetris 4D (Japan)",
+      "name": "Tetris 4D",
+      "year": "1998",
+      "publisher": "Bullet Proof Software",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Time Stalkers (USA)",
+      "fullpath": "dreamcast-Time Stalkers (USA)",
+      "name": "Time Stalkers",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "TNN Motorsports Hardcore Heat (USA)",
+      "fullpath": "dreamcast-TNN Motorsports Hardcore Heat (USA)",
+      "name": "TNN Motorsports Hardcore Heat",
+      "year": "1999",
+      "publisher": "ASC Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tokyo Xtreme Racer (USA)",
+      "fullpath": "dreamcast-Tokyo Xtreme Racer (USA)",
+      "name": "Tokyo Xtreme Racer",
+      "year": "1999",
+      "publisher": "Crave Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tokyo Xtreme Racer 2 (USA)",
+      "fullpath": "dreamcast-Tokyo Xtreme Racer 2 (USA)",
+      "name": "Tokyo Xtreme Racer 2",
+      "year": "2000",
+      "publisher": "Crave Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tom Clancy's Rainbow Six (USA)",
+      "fullpath": "dreamcast-Tom Clancy's Rainbow Six (USA)",
+      "name": "Tom Clancy's Rainbow Six",
+      "year": "2000",
+      "publisher": "Pipe Dream Interactive",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tom Clancy's Rainbow Six - Rogue Spear (USA)",
+      "fullpath": "dreamcast-Tom Clancy's Rainbow Six - Rogue Spear (USA)",
+      "name": "Tom Clancy's Rainbow Six: Rogue Spear",
+      "year": "2000",
+      "publisher": "Pipe Dream Interactive",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tomb Raider - Chronicles (USA)",
+      "fullpath": "dreamcast-Tomb Raider - Chronicles (USA)",
+      "name": "Tomb Raider: Chronicles",
+      "year": "2000",
+      "publisher": "Eidos Interactive",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tomb Raider - The Last Revelation (USA)",
+      "fullpath": "dreamcast-Tomb Raider - The Last Revelation (USA)",
+      "name": "Tomb Raider: The Last Revelation",
+      "year": "2001",
+      "publisher": "Eidos Interactive",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tony Hawk's Pro Skater (USA)",
+      "fullpath": "dreamcast-Tony Hawk's Pro Skater (USA)",
+      "name": "Tony Hawk's Pro Skater",
+      "year": "2000",
+      "publisher": "Activision/Crave Entertainment",
+      "genre": "Sports/Skateboarding",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tony Hawk's Pro Skater 2 (USA)",
+      "fullpath": "dreamcast-Tony Hawk's Pro Skater 2 (USA)",
+      "name": "Tony Hawk's Pro Skater 2",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Sports/Skateboarding",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Toy Commander (USA)",
+      "fullpath": "dreamcast-Toy Commander (USA)",
+      "name": "Toy Commander",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Toy Racer (Europe)",
+      "fullpath": "dreamcast-Toy Racer (Europe)",
+      "name": "Toy Racer",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Disney-Pixar's Toy Story 2 - Buzz Lightyear to the Rescue! (USA)",
+      "fullpath": "dreamcast-Disney-Pixar's Toy Story 2 - Buzz Lightyear to the Rescue! (USA)",
+      "name": "Disney/Pixar's Toy Story 2: Buzz Lightyear to the Rescue!",
+      "year": "2000",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "TrickStyle (USA)",
+      "fullpath": "dreamcast-TrickStyle (USA)",
+      "name": "TrickStyle",
+      "year": "1999",
+      "publisher": "Acclaim",
+      "genre": "Sports/Skateboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Trigger Heart Exelica (Japan)",
+      "fullpath": "dreamcast-Trigger Heart Exelica (Japan)",
+      "name": "Trigger Heart Exelica",
+      "year": "2007",
+      "publisher": "Warashi",
+      "genre": "Shoot-'Em-Up",
+      "rating": "CERO - A (All Ages)"
+    },
+    {
+      "id": "Trizeal (Japan)",
+      "fullpath": "dreamcast-Trizeal (Japan)",
+      "name": "Trizeal",
+      "year": "2005",
+      "publisher": "Triangle Service",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Twinkle Star Sprites (Japan) (Translated En)",
+      "fullpath": "dreamcast-Twinkle Star Sprites (Japan) (Translated En)",
+      "name": "Twinkle Star Sprites",
+      "year": "2000",
+      "publisher": "SNK",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Typing of the Dead, The (USA)",
+      "fullpath": "dreamcast-Typing of the Dead, The (USA)",
+      "name": "Typing of the Dead, The",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "UEFA Dream Soccer (Europe)",
+      "fullpath": "dreamcast-UEFA Dream Soccer (Europe)",
+      "name": "UEFA Dream Soccer",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Sports/Soccer",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "UEFA Striker (Europe)",
+      "fullpath": "dreamcast-UEFA Striker (Europe)",
+      "name": "UEFA Striker",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Sports/Soccer",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Ultimate Fighting Championship (USA)",
+      "fullpath": "dreamcast-Ultimate Fighting Championship (USA)",
+      "name": "Ultimate Fighting Championship",
+      "year": "2000",
+      "publisher": "Crave Entertainment",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Under Defeat (Japan)",
+      "fullpath": "dreamcast-Under Defeat (Japan)",
+      "name": "Under Defeat",
+      "year": "2006",
+      "publisher": "G.Rev",
+      "genre": "Shoot-'Em-Up",
+      "rating": "CERO - A (All Ages)"
+    },
+    {
+      "id": "Unreal Tournament (USA)",
+      "fullpath": "dreamcast-Unreal Tournament (USA)",
+      "name": "Unreal Tournament",
+      "year": "2001",
+      "publisher": "Infogrames",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Urban Chaos (USA)",
+      "fullpath": "dreamcast-Urban Chaos (USA)",
+      "name": "Urban Chaos",
+      "year": "2000",
+      "publisher": "Eidos Interactive",
+      "genre": "Adventure",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Vampire Chronicle for Matching Service (Japan)",
+      "fullpath": "dreamcast-Vampire Chronicle for Matching Service (Japan)",
+      "name": "Vampire Chronicle for Matching Service",
+      "year": "2000",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Vanishing Point (USA)",
+      "fullpath": "dreamcast-Vanishing Point (USA)",
+      "name": "Vanishing Point",
+      "year": "2000",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Vigilante 8 - 2nd Offense (USA)",
+      "fullpath": "dreamcast-Vigilante 8 - 2nd Offense (USA)",
+      "name": "Vigilante 8: 2nd Offense",
+      "year": "1999",
+      "publisher": "Activision",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtua Athlete 2000 (USA)",
+      "fullpath": "dreamcast-Virtua Athlete 2000 (USA)",
+      "name": "Virtua Athlete 2000",
+      "year": "2001",
+      "publisher": "Agetec",
+      "genre": "Sports/Olympic",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Virtua Cop 2 (Japan)",
+      "fullpath": "dreamcast-Virtua Cop 2 (Japan)",
+      "name": "Virtua Cop 2",
+      "year": "2000",
+      "publisher": "Sega",
+      "genre": "Gun",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Virtua Fighter 3tb (USA)",
+      "fullpath": "dreamcast-Virtua Fighter 3tb (USA)",
+      "name": "Virtua Fighter 3tb",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtua Striker 2 (USA)",
+      "fullpath": "dreamcast-Virtua Striker 2 (USA)",
+      "name": "Virtua Striker 2",
+      "year": "2000",
+      "publisher": "Sega Sports Arcade",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Virtua Tennis (USA)",
+      "fullpath": "dreamcast-Virtua Tennis (USA)",
+      "name": "Virtua Tennis",
+      "year": "2000",
+      "publisher": "Sega Sports Arcade",
+      "genre": "Sports/Tennis",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Volgarr the Viking (World) (Unl)",
+      "fullpath": "dreamcast-Volgarr the Viking (World) (Unl)",
+      "name": "Volgarr the Viking",
+      "year": "2015",
+      "publisher": "Crazy Viking Studios",
+      "genre": "Platform",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Wacky Races (USA)",
+      "fullpath": "dreamcast-Wacky Races (USA)",
+      "name": "Wacky Races",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Walt Disney World Quest - Magical Racing Tour (USA)",
+      "fullpath": "dreamcast-Walt Disney World Quest - Magical Racing Tour (USA)",
+      "name": "Walt Disney World Quest: Magical Racing Tour",
+      "year": "2000",
+      "publisher": "Eidos Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wetrix+ (USA)",
+      "fullpath": "dreamcast-Wetrix+ (USA)",
+      "name": "Wetrix+",
+      "year": "1999",
+      "publisher": "Xicat Interactive",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "What's Shenmue (Demo) (Japan) (Translated En)",
+      "fullpath": "dreamcast-What's Shenmue (Demo) (Japan) (Translated En)",
+      "name": "What's Shenmue",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "HSRS - PG (Parental Guidance)"
+    },
+    {
+      "id": "Wind and Water - Puzzle Battles (World) (Unl)",
+      "fullpath": "dreamcast-Wind and Water - Puzzle Battles (World) (Unl)",
+      "name": "Wind and Water: Puzzle Battles",
+      "year": "2008",
+      "publisher": "RedSpotGames",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Who Wants to Be a Millionaire (Europe)",
+      "fullpath": "dreamcast-Who Wants to Be a Millionaire (Europe)",
+      "name": "Who Wants to Be a Millionaire",
+      "year": "2000",
+      "publisher": "Eidos Interactive",
+      "genre": "Game Show",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Who Wants to Beat Up a Millionaire (USA)",
+      "fullpath": "dreamcast-Who Wants to Beat Up a Millionaire (USA)",
+      "name": "Who Wants to Beat Up a Millionaire",
+      "year": "2000",
+      "publisher": "Simon & Schuster Interactive",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Wild Metal (USA)",
+      "fullpath": "dreamcast-Wild Metal (USA)",
+      "name": "Wild Metal",
+      "year": "2000",
+      "publisher": "Rockstar Games",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "World Series Baseball 2K1 (USA)",
+      "fullpath": "dreamcast-World Series Baseball 2K1 (USA)",
+      "name": "World Series Baseball 2K1",
+      "year": "2000",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "World Series Baseball 2K2 (USA)",
+      "fullpath": "dreamcast-World Series Baseball 2K2 (USA)",
+      "name": "World Series Baseball 2K2",
+      "year": "2001",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Worms Armageddon (USA)",
+      "fullpath": "dreamcast-Worms Armageddon (USA)",
+      "name": "Worms Armageddon",
+      "year": "1999",
+      "publisher": "Micro Prose",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Worms World Party (USA)",
+      "fullpath": "dreamcast-Worms World Party (USA)",
+      "name": "Worms World Party",
+      "year": "2001",
+      "publisher": "Titus",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WWF Attitude (USA)",
+      "fullpath": "dreamcast-WWF Attitude (USA)",
+      "name": "WWF Attitude",
+      "year": "1999",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "WWF Royal Rumble (USA)",
+      "fullpath": "dreamcast-WWF Royal Rumble (USA)",
+      "name": "WWF Royal Rumble",
+      "year": "2000",
+      "publisher": "THQ",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Xtreme Sports (USA)",
+      "fullpath": "dreamcast-Xtreme Sports (USA)",
+      "name": "Xtreme Sports",
+      "year": "2000",
+      "publisher": "Infogrames",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Yu Suzuki Game Works Vol. 1 (Japan)",
+      "fullpath": "dreamcast-Yu Suzuki Game Works Vol. 1 (Japan)",
+      "name": "Yu Suzuki Game Works Vol. 1",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Miscellaneous",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Zero Gunner 2 (Japan)",
+      "fullpath": "dreamcast-Zero Gunner 2 (Japan)",
+      "name": "Zero Gunner 2",
+      "year": "2001",
+      "publisher": "Amusement Works Psikyo",
+      "genre": "Shoot-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Zombie Revenge (USA)",
+      "fullpath": "dreamcast-Zombie Revenge (USA)",
+      "name": "Zombie Revenge",
+      "year": "1999",
+      "publisher": "Sega",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Zusar Vasar (Japan)",
+      "fullpath": "dreamcast-Zusar Vasar (Japan)",
+      "name": "Zusar Vasar",
+      "year": "2000",
+      "publisher": "Real Vision, Inc.",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    }
+  ]
+}

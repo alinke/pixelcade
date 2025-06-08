@@ -1,0 +1,5756 @@
+{
+  "platform": "nintendo_gamecube",
+  "totalGames": 638,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "nintendo_gamecube game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "nintendo_gamecube.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "007 - Agent Under Fire (USA)",
+      "fullpath": "nintendo_gamecube-007 - Agent Under Fire (USA)",
+      "name": "007: Agent Under Fire",
+      "year": "2002",
+      "publisher": "EA Games",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "007 - Everything or Nothing (USA)",
+      "fullpath": "nintendo_gamecube-007 - Everything or Nothing (USA)",
+      "name": "007: Everything or Nothing",
+      "year": "2004",
+      "publisher": "EA Games",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "007 - From Russia with Love (USA)",
+      "fullpath": "nintendo_gamecube-007 - From Russia with Love (USA)",
+      "name": "007: From Russia with Love",
+      "year": "2005",
+      "publisher": "Electronic Arts",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "007 - Nightfire (USA)",
+      "fullpath": "nintendo_gamecube-007 - Nightfire (USA)",
+      "name": "007: Nightfire",
+      "year": "2002",
+      "publisher": "EA Games",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "1080 Avalanche (USA)",
+      "fullpath": "nintendo_gamecube-1080 Avalanche (USA)",
+      "name": "1080 Avalanche",
+      "year": "2003",
+      "publisher": "Nintendo",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "18 Wheeler - American Pro Trucker (USA)",
+      "fullpath": "nintendo_gamecube-18 Wheeler - American Pro Trucker (USA)",
+      "name": "18 Wheeler: American Pro Trucker",
+      "year": "2002",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "2002 FIFA World Cup (USA)",
+      "fullpath": "nintendo_gamecube-2002 FIFA World Cup (USA)",
+      "name": "2002 FIFA World Cup",
+      "year": "2002",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "2006 FIFA World Cup (USA)",
+      "fullpath": "nintendo_gamecube-2006 FIFA World Cup (USA)",
+      "name": "2006 FIFA World Cup",
+      "year": "2006",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "4x4 Evo 2 (USA)",
+      "fullpath": "nintendo_gamecube-4x4 Evo 2 (USA)",
+      "name": "4x4 Evo 2",
+      "year": "2002",
+      "publisher": "Universal Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Adventures of Jimmy Neutron, The - Boy Genius (USA)",
+      "fullpath": "nintendo_gamecube-Adventures of Jimmy Neutron, The - Boy Genius (USA)",
+      "name": "Adventures of Jimmy Neutron, The: Boy Genius",
+      "year": "2002",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Adventures of Jimmy Neutron, The - Boy Genius - Attack of the Twonkies (USA)",
+      "fullpath": "nintendo_gamecube-Adventures of Jimmy Neutron, The - Boy Genius - Attack of the Twonkies (USA)",
+      "name": "Adventures of Jimmy Neutron, The: Boy Genius - Attack of the Twonkies",
+      "year": "2004",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Adventures of Jimmy Neutron, The - Boy Genius - Jet Fusion (USA)",
+      "fullpath": "nintendo_gamecube-Adventures of Jimmy Neutron, The - Boy Genius - Jet Fusion (USA)",
+      "name": "Adventures of Jimmy Neutron, The: Boy Genius - Jet Fusion",
+      "year": "2003",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Aggressive Inline (USA)",
+      "fullpath": "nintendo_gamecube-Aggressive Inline (USA)",
+      "name": "Aggressive Inline",
+      "year": "2002",
+      "publisher": "AKA Acclaim",
+      "genre": "Sports/Skating",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Alien Hominid (USA)",
+      "fullpath": "nintendo_gamecube-Alien Hominid (USA)",
+      "name": "Alien Hominid",
+      "year": "2004",
+      "publisher": "03 Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "All-Star Baseball 2002 (USA)",
+      "fullpath": "nintendo_gamecube-All-Star Baseball 2002 (USA)",
+      "name": "All-Star Baseball 2002",
+      "year": "2001",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "All-Star Baseball 2003 (USA)",
+      "fullpath": "nintendo_gamecube-All-Star Baseball 2003 (USA)",
+      "name": "All-Star Baseball 2003",
+      "year": "2002",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "All-Star Baseball 2004 (USA)",
+      "fullpath": "nintendo_gamecube-All-Star Baseball 2004 (USA)",
+      "name": "All-Star Baseball 2004",
+      "year": "2003",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Amazing Island (USA)",
+      "fullpath": "nintendo_gamecube-Amazing Island (USA)",
+      "name": "Amazing Island",
+      "year": "2004",
+      "publisher": "Sega",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "American Chopper 2 - Full Throttle (USA)",
+      "fullpath": "nintendo_gamecube-American Chopper 2 - Full Throttle (USA)",
+      "name": "American Chopper 2: Full Throttle",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Animal Crossing (USA)",
+      "fullpath": "nintendo_gamecube-Animal Crossing (USA)",
+      "name": "Animal Crossing",
+      "year": "2002",
+      "publisher": "Nintendo",
+      "genre": "Simulation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Animaniacs - The Great Edgar Hunt (USA)",
+      "fullpath": "nintendo_gamecube-Animaniacs - The Great Edgar Hunt (USA)",
+      "name": "Animaniacs: The Great Edgar Hunt",
+      "year": "2005",
+      "publisher": "Ignition Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ant Bully, The (USA)",
+      "fullpath": "nintendo_gamecube-Ant Bully, The (USA)",
+      "name": "Ant Bully, The",
+      "year": "2006",
+      "publisher": "Midway",
+      "genre": "Platform",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Aquaman - Battle for Atlantis (USA)",
+      "fullpath": "nintendo_gamecube-Aquaman - Battle for Atlantis (USA)",
+      "name": "Aquaman: Battle for Atlantis",
+      "year": "2003",
+      "publisher": "TDK",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Army Men - Air Combat - The Elite Missions (USA)",
+      "fullpath": "nintendo_gamecube-Army Men - Air Combat - The Elite Missions (USA)",
+      "name": "Army Men: Air Combat - The Elite Missions",
+      "year": "2003",
+      "publisher": "3DO",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Army Men - RTS (USA)",
+      "fullpath": "nintendo_gamecube-Army Men - RTS (USA)",
+      "name": "Army Men: RTS",
+      "year": "2004",
+      "publisher": "Global Star Software",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Army Men - Sarge's War (USA)",
+      "fullpath": "nintendo_gamecube-Army Men - Sarge's War (USA)",
+      "name": "Army Men: Sarge's War",
+      "year": "2004",
+      "publisher": "Global Star Software",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Asterix & Obelix XXL (Europe)",
+      "fullpath": "nintendo_gamecube-Asterix & Obelix XXL (Europe)",
+      "name": "Asterix & Obelix XXL",
+      "year": "2004",
+      "publisher": "Atari",
+      "genre": "Beat-'Em-Up",
+      "rating": "PEGI - 7 (Everyone 7+)"
+    },
+    {
+      "id": "ATV - Quad Power Racing 2 (USA)",
+      "fullpath": "nintendo_gamecube-ATV - Quad Power Racing 2 (USA)",
+      "name": "ATV: Quad Power Racing 2",
+      "year": "2003",
+      "publisher": "Crave Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Auto Modellista (USA)",
+      "fullpath": "nintendo_gamecube-Auto Modellista (USA)",
+      "name": "Auto Modellista",
+      "year": "2003",
+      "publisher": "Capcom",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Avatar - The Last Airbender (USA)",
+      "fullpath": "nintendo_gamecube-Avatar - The Last Airbender (USA)",
+      "name": "Avatar: The Last Airbender",
+      "year": "2006",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Backyard Baseball (USA)",
+      "fullpath": "nintendo_gamecube-Backyard Baseball (USA)",
+      "name": "Backyard Baseball",
+      "year": "2003",
+      "publisher": "Infogrames",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Backyard Baseball 2007 (USA)",
+      "fullpath": "nintendo_gamecube-Backyard Baseball 2007 (USA)",
+      "name": "Backyard Baseball 2007",
+      "year": "2007",
+      "publisher": "Atari",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Backyard Football (USA)",
+      "fullpath": "nintendo_gamecube-Backyard Football (USA)",
+      "name": "Backyard Football",
+      "year": "2002",
+      "publisher": "Infogrames",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bad Boys - Miami Takedown (USA)",
+      "fullpath": "nintendo_gamecube-Bad Boys - Miami Takedown (USA)",
+      "name": "Bad Boys: Miami Takedown",
+      "year": "2004",
+      "publisher": "Crave Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Baldur's Gate - Dark Alliance (USA)",
+      "fullpath": "nintendo_gamecube-Baldur's Gate - Dark Alliance (USA)",
+      "name": "Baldur's Gate: Dark Alliance",
+      "year": "2002",
+      "publisher": "THQ",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Barnyard (USA)",
+      "fullpath": "nintendo_gamecube-Barnyard (USA)",
+      "name": "Barnyard",
+      "year": "2006",
+      "publisher": "THQ",
+      "genre": "Adventure",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Baten Kaitos - Eternal Wings and the Lost Ocean (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Baten Kaitos - Eternal Wings and the Lost Ocean (USA) (Disc 1)",
+      "name": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+      "year": "2004",
+      "publisher": "Namco",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Baten Kaitos - Eternal Wings and the Lost Ocean (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Baten Kaitos - Eternal Wings and the Lost Ocean (USA) (Disc 2)",
+      "name": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+      "year": "2004",
+      "publisher": "Namco",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Baten Kaitos Origins (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Baten Kaitos Origins (USA) (Disc 1)",
+      "name": "Baten Kaitos Origins",
+      "year": "2006",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Baten Kaitos Origins (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Baten Kaitos Origins (USA) (Disc 2)",
+      "name": "Baten Kaitos Origins",
+      "year": "2006",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Batman - Dark Tomorrow (USA)",
+      "fullpath": "nintendo_gamecube-Batman - Dark Tomorrow (USA)",
+      "name": "Batman: Dark Tomorrow",
+      "year": "2003",
+      "publisher": "Kemco",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Batman - Rise of Sin Tzu (USA)",
+      "fullpath": "nintendo_gamecube-Batman - Rise of Sin Tzu (USA)",
+      "name": "Batman: Rise of Sin Tzu",
+      "year": "2003",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Batman - Vengeance (USA)",
+      "fullpath": "nintendo_gamecube-Batman - Vengeance (USA)",
+      "name": "Batman: Vengeance",
+      "year": "2001",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Batman Begins (USA)",
+      "fullpath": "nintendo_gamecube-Batman Begins (USA)",
+      "name": "Batman Begins",
+      "year": "2005",
+      "publisher": "EA Games",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Battalion Wars (USA)",
+      "fullpath": "nintendo_gamecube-Battalion Wars (USA)",
+      "name": "Battalion Wars",
+      "year": "2005",
+      "publisher": "Nintendo",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Battle Stadium D.O.N (Japan)",
+      "fullpath": "nintendo_gamecube-Battle Stadium D.O.N (Japan)",
+      "name": "Battle Stadium D.O.N",
+      "year": "2006",
+      "publisher": "Bandai",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Beach Spikers - Virtua Beach Volleyball (USA)",
+      "fullpath": "nintendo_gamecube-Beach Spikers - Virtua Beach Volleyball (USA)",
+      "name": "Beach Spikers: Virtua Beach Volleyball",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Sports/Volleyball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Beyblade VForce - Super Tournament Battle (USA)",
+      "fullpath": "nintendo_gamecube-Beyblade VForce - Super Tournament Battle (USA)",
+      "name": "Beyblade VForce: Super Tournament Battle",
+      "year": "2003",
+      "publisher": "Atari",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Beyond Good & Evil (USA)",
+      "fullpath": "nintendo_gamecube-Beyond Good & Evil (USA)",
+      "name": "Beyond Good & Evil",
+      "year": "2003",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Big Air Freestyle (USA)",
+      "fullpath": "nintendo_gamecube-Big Air Freestyle (USA)",
+      "name": "Big Air Freestyle",
+      "year": "2002",
+      "publisher": "Infogrames",
+      "genre": "Motorcycle",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Big Mutha Truckers (USA)",
+      "fullpath": "nintendo_gamecube-Big Mutha Truckers (USA)",
+      "name": "Big Mutha Truckers",
+      "year": "2003",
+      "publisher": "THQ",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Billy Hatcher and the Giant Egg (USA)",
+      "fullpath": "nintendo_gamecube-Billy Hatcher and the Giant Egg (USA)",
+      "name": "Billy Hatcher and the Giant Egg",
+      "year": "2003",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bionicle (USA)",
+      "fullpath": "nintendo_gamecube-Bionicle (USA)",
+      "name": "Bionicle",
+      "year": "2003",
+      "publisher": "Electronic Arts",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bionicle Heroes (USA)",
+      "fullpath": "nintendo_gamecube-Bionicle Heroes (USA)",
+      "name": "Bionicle Heroes",
+      "year": "2006",
+      "publisher": "Eidos",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Black & Bruised (USA)",
+      "fullpath": "nintendo_gamecube-Black & Bruised (USA)",
+      "name": "Black & Bruised",
+      "year": "2003",
+      "publisher": "Majesco",
+      "genre": "Sports/Boxing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Bleach GC - Tasogare Ni Mamieru Shinigami (Japan)",
+      "fullpath": "nintendo_gamecube-Bleach GC - Tasogare Ni Mamieru Shinigami (Japan)",
+      "name": "Bleach GC: Tasogare Ni Mamieru Shinigami",
+      "year": "2005",
+      "publisher": "Sega",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "BloodRayne (USA)",
+      "fullpath": "nintendo_gamecube-BloodRayne (USA)",
+      "name": "BloodRayne",
+      "year": "2002",
+      "publisher": "Majesco",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Bloody Roar - Primal Fury (USA)",
+      "fullpath": "nintendo_gamecube-Bloody Roar - Primal Fury (USA)",
+      "name": "Bloody Roar: Primal Fury",
+      "year": "2002",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Blowout (USA)",
+      "fullpath": "nintendo_gamecube-Blowout (USA)",
+      "name": "Blowout",
+      "year": "2004",
+      "publisher": "Majesco",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "BMX XXX (USA)",
+      "fullpath": "nintendo_gamecube-BMX XXX (USA)",
+      "name": "BMX XXX",
+      "year": "2002",
+      "publisher": "AKA Acclaim",
+      "genre": "Sports/Biking",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Boboboubo Boubobo Dassutsu! Hajike Royale (Japan)",
+      "fullpath": "nintendo_gamecube-Boboboubo Boubobo Dassutsu! Hajike Royale (Japan)",
+      "name": "Boboboubo Boubobo Dassutsu! Hajike Royale",
+      "year": "2005",
+      "publisher": "Hudson",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Bomber Man Land 2 (Japan)",
+      "fullpath": "nintendo_gamecube-Bomber Man Land 2 (Japan)",
+      "name": "Bomber Man Land 2",
+      "year": "2003",
+      "publisher": "Hudson",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bomberman Generation (USA)",
+      "fullpath": "nintendo_gamecube-Bomberman Generation (USA)",
+      "name": "Bomberman Generation",
+      "year": "2002",
+      "publisher": "Majesco",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bomberman Jetters (USA)",
+      "fullpath": "nintendo_gamecube-Bomberman Jetters (USA)",
+      "name": "Bomberman Jetters",
+      "year": "2004",
+      "publisher": "Majesco",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bratz - Forever Diamondz (USA)",
+      "fullpath": "nintendo_gamecube-Bratz - Forever Diamondz (USA)",
+      "name": "Bratz: Forever Diamondz",
+      "year": "2006",
+      "publisher": "THQ",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bratz - Rock Angelz (USA)",
+      "fullpath": "nintendo_gamecube-Bratz - Rock Angelz (USA)",
+      "name": "Bratz: Rock Angelz",
+      "year": "2005",
+      "publisher": "THQ",
+      "genre": "Virtual Life",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Buffy the Vampire Slayer - Chaos Bleeds (USA)",
+      "fullpath": "nintendo_gamecube-Buffy the Vampire Slayer - Chaos Bleeds (USA)",
+      "name": "Buffy the Vampire Slayer: Chaos Bleeds",
+      "year": "2003",
+      "publisher": "Vivendi Universal Games",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Burnout (USA)",
+      "fullpath": "nintendo_gamecube-Burnout (USA)",
+      "name": "Burnout",
+      "year": "2002",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Burnout 2 - Point of Impact (USA)",
+      "fullpath": "nintendo_gamecube-Burnout 2 - Point of Impact (USA)",
+      "name": "Burnout 2: Point of Impact",
+      "year": "2003",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Bust-A-Move 3000 (USA)",
+      "fullpath": "nintendo_gamecube-Bust-A-Move 3000 (USA)",
+      "name": "Bust-A-Move 3000",
+      "year": "2003",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Butt-Ugly Martians - Zoom or Doom! (Europe)",
+      "fullpath": "nintendo_gamecube-Butt-Ugly Martians - Zoom or Doom! (Europe)",
+      "name": "Butt-Ugly Martians: Zoom or Doom!",
+      "year": "2003",
+      "publisher": "Vivendi Universal Publishing",
+      "genre": "Puzzle",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Cabela's Big Game Hunter - 2005 Adventures (USA)",
+      "fullpath": "nintendo_gamecube-Cabela's Big Game Hunter - 2005 Adventures (USA)",
+      "name": "Cabela's Big Game Hunter: 2005 Adventures",
+      "year": "2004",
+      "publisher": "Activision",
+      "genre": "Sports/Hunting",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Cabela's Dangerous Hunts 2 (USA)",
+      "fullpath": "nintendo_gamecube-Cabela's Dangerous Hunts 2 (USA)",
+      "name": "Cabela's Dangerous Hunts 2",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Sports/Hunting",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Cabela's Outdoor Adventures (USA)",
+      "fullpath": "nintendo_gamecube-Cabela's Outdoor Adventures (USA)",
+      "name": "Cabela's Outdoor Adventures",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Sports/Hunting",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Call of Duty - Finest Hour (USA)",
+      "fullpath": "nintendo_gamecube-Call of Duty - Finest Hour (USA)",
+      "name": "Call of Duty: Finest Hour",
+      "year": "2004",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Call of Duty 2 - Big Red One (USA)",
+      "fullpath": "nintendo_gamecube-Call of Duty 2 - Big Red One (USA)",
+      "name": "Call of Duty 2: Big Red One",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Capcom vs. SNK 2 EO - Millionaire Fighting 2001 (USA)",
+      "fullpath": "nintendo_gamecube-Capcom vs. SNK 2 EO - Millionaire Fighting 2001 (USA)",
+      "name": "Capcom vs. SNK 2 EO: Millionaire Fighting 2001",
+      "year": "2002",
+      "publisher": "Capcom",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Captain Tsubasa - Ougon Sedai No Chousen (Japan)",
+      "fullpath": "nintendo_gamecube-Captain Tsubasa - Ougon Sedai No Chousen (Japan)",
+      "name": "Captain Tsubasa: Ougon Sedai No Chousen",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Carmen Sandiego - The Secret of the Stolen Drums (USA)",
+      "fullpath": "nintendo_gamecube-Carmen Sandiego - The Secret of the Stolen Drums (USA)",
+      "name": "Carmen Sandiego: The Secret of the Stolen Drums",
+      "year": "2004",
+      "publisher": "Bam! Entertainment",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Casper - Spirit Dimensions (USA)",
+      "fullpath": "nintendo_gamecube-Casper - Spirit Dimensions (USA)",
+      "name": "Casper: Spirit Dimensions",
+      "year": "2002",
+      "publisher": "TDK",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Catwoman (USA)",
+      "fullpath": "nintendo_gamecube-Catwoman (USA)",
+      "name": "Catwoman",
+      "year": "2004",
+      "publisher": "EA Games",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Cel Damage (USA)",
+      "fullpath": "nintendo_gamecube-Cel Damage (USA)",
+      "name": "Cel Damage",
+      "year": "2002",
+      "publisher": "EA Games",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Chaos Field (USA)",
+      "fullpath": "nintendo_gamecube-Chaos Field (USA)",
+      "name": "Chaos Field",
+      "year": "2005",
+      "publisher": "03 Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Charinko Hero (Japan)",
+      "fullpath": "nintendo_gamecube-Charinko Hero (Japan)",
+      "name": "Charinko Hero",
+      "year": "2003",
+      "publisher": "Banpresto",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Charlie and the Chocolate Factory (USA)",
+      "fullpath": "nintendo_gamecube-Charlie and the Chocolate Factory (USA)",
+      "name": "Charlie and the Chocolate Factory",
+      "year": "2005",
+      "publisher": "Global Star Software",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Charlie's Angels (USA)",
+      "fullpath": "nintendo_gamecube-Charlie's Angels (USA)",
+      "name": "Charlie's Angels",
+      "year": "2003",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Chibi-Robo! - Plug into Adventure (USA)",
+      "fullpath": "nintendo_gamecube-Chibi-Robo! - Plug into Adventure (USA)",
+      "name": "Chibi-Robo!: Plug into Adventure",
+      "year": "2006",
+      "publisher": "Nintendo",
+      "genre": "Adventure",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA)",
+      "fullpath": "nintendo_gamecube-Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA)",
+      "name": "Chronicles of Narnia, The: The Lion, the Witch and the Wardrobe",
+      "year": "2005",
+      "publisher": "Buena Vista Games",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "City Racer (USA)",
+      "fullpath": "nintendo_gamecube-City Racer (USA)",
+      "name": "City Racer",
+      "year": "2003",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cocoto Funfair (Europe)",
+      "fullpath": "nintendo_gamecube-Cocoto Funfair (Europe)",
+      "name": "Cocoto Funfair",
+      "year": "2006",
+      "publisher": "BigBen Interactive",
+      "genre": "Shooter",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Cocoto Kart Racer (Europe)",
+      "fullpath": "nintendo_gamecube-Cocoto Kart Racer (Europe)",
+      "name": "Cocoto Kart Racer",
+      "year": "2005",
+      "publisher": "BigBen Interactive",
+      "genre": "Driving",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Cocoto Platform Jumper (Europe)",
+      "fullpath": "nintendo_gamecube-Cocoto Platform Jumper (Europe)",
+      "name": "Cocoto Platform Jumper",
+      "year": "2004",
+      "publisher": "BigBen Interactive",
+      "genre": "Action",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (USA)",
+      "fullpath": "nintendo_gamecube-Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (USA)",
+      "name": "Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E.",
+      "year": "2005",
+      "publisher": "Global Star Software",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Conan (Europe) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Conan (Europe) (Disc 1)",
+      "name": "Conan",
+      "year": "2004",
+      "publisher": "TDK",
+      "genre": "Action",
+      "rating": "PEGI - 16 (Everyone 16+)"
+    },
+    {
+      "id": "Conan (Europe) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Conan (Europe) (Disc 2)",
+      "name": "Conan",
+      "year": "2004",
+      "publisher": "TDK",
+      "genre": "Action",
+      "rating": "PEGI - 16 (Everyone 16+)"
+    },
+    {
+      "id": "Conflict - Desert Storm (USA)",
+      "fullpath": "nintendo_gamecube-Conflict - Desert Storm (USA)",
+      "name": "Conflict: Desert Storm",
+      "year": "2003",
+      "publisher": "Gotham Games",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Conflict - Desert Storm II - Back to Baghdad (USA)",
+      "fullpath": "nintendo_gamecube-Conflict - Desert Storm II - Back to Baghdad (USA)",
+      "name": "Conflict: Desert Storm II - Back to Baghdad",
+      "year": "2004",
+      "publisher": "Gathering",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Crash Bandicoot - The Wrath of Cortex (USA)",
+      "fullpath": "nintendo_gamecube-Crash Bandicoot - The Wrath of Cortex (USA)",
+      "name": "Crash Bandicoot: The Wrath of Cortex",
+      "year": "2002",
+      "publisher": "Universal Interactive",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Crash Nitro Kart (USA)",
+      "fullpath": "nintendo_gamecube-Crash Nitro Kart (USA)",
+      "name": "Crash Nitro Kart",
+      "year": "2003",
+      "publisher": "Universal Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Crash Tag Team Racing (USA)",
+      "fullpath": "nintendo_gamecube-Crash Tag Team Racing (USA)",
+      "name": "Crash Tag Team Racing",
+      "year": "2005",
+      "publisher": "Sierra",
+      "genre": "Driving",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Crazy Taxi (USA)",
+      "fullpath": "nintendo_gamecube-Crazy Taxi (USA)",
+      "name": "Crazy Taxi",
+      "year": "2001",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Cubivore (USA)",
+      "fullpath": "nintendo_gamecube-Cubivore (USA)",
+      "name": "Cubivore",
+      "year": "2002",
+      "publisher": "Atlus",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Cubix Robots for Everyone - Showdown (USA)",
+      "fullpath": "nintendo_gamecube-Cubix Robots for Everyone - Showdown (USA)",
+      "name": "Cubix Robots for Everyone: Showdown",
+      "year": "2003",
+      "publisher": "3DO",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Curious George (USA)",
+      "fullpath": "nintendo_gamecube-Curious George (USA)",
+      "name": "Curious George",
+      "year": "2006",
+      "publisher": "Namco",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Custom Robo (USA)",
+      "fullpath": "nintendo_gamecube-Custom Robo (USA)",
+      "name": "Custom Robo",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dakar 2 - The World's Ultimate Rally (USA)",
+      "fullpath": "nintendo_gamecube-Dakar 2 - The World's Ultimate Rally (USA)",
+      "name": "Dakar 2: The World's Ultimate Rally",
+      "year": "2003",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dance Dance Revolution - Mario Mix (USA)",
+      "fullpath": "nintendo_gamecube-Dance Dance Revolution - Mario Mix (USA)",
+      "name": "Dance Dance Revolution: Mario Mix",
+      "year": "2005",
+      "publisher": "Konami",
+      "genre": "Rhythm",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dark Summit (USA)",
+      "fullpath": "nintendo_gamecube-Dark Summit (USA)",
+      "name": "Dark Summit",
+      "year": "2002",
+      "publisher": "THQ",
+      "genre": "Sports/Snowboarding",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Darkened Skye (USA)",
+      "fullpath": "nintendo_gamecube-Darkened Skye (USA)",
+      "name": "Darkened Skye",
+      "year": "2002",
+      "publisher": "Simon & Schuster Interactive",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dave Mirra Freestyle BMX 2 (USA)",
+      "fullpath": "nintendo_gamecube-Dave Mirra Freestyle BMX 2 (USA)",
+      "name": "Dave Mirra Freestyle BMX 2",
+      "year": "2001",
+      "publisher": "Acclaim Max Sports",
+      "genre": "Sports/Biking",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dead to Rights (USA)",
+      "fullpath": "nintendo_gamecube-Dead to Rights (USA)",
+      "name": "Dead to Rights",
+      "year": "2002",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Def Jam - Fight for NY (USA)",
+      "fullpath": "nintendo_gamecube-Def Jam - Fight for NY (USA)",
+      "name": "Def Jam: Fight for NY",
+      "year": "2004",
+      "publisher": "EA Games",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Def Jam - Vendetta (USA)",
+      "fullpath": "nintendo_gamecube-Def Jam - Vendetta (USA)",
+      "name": "Def Jam: Vendetta",
+      "year": "2003",
+      "publisher": "EA Sports BIG",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Defender (USA)",
+      "fullpath": "nintendo_gamecube-Defender (USA)",
+      "name": "Defender",
+      "year": "2002",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Die Hard - Vendetta (USA)",
+      "fullpath": "nintendo_gamecube-Die Hard - Vendetta (USA)",
+      "name": "Die Hard: Vendetta",
+      "year": "2002",
+      "publisher": "Sierra",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Digimon Rumble Arena 2 (USA)",
+      "fullpath": "nintendo_gamecube-Digimon Rumble Arena 2 (USA)",
+      "name": "Digimon Rumble Arena 2",
+      "year": "2004",
+      "publisher": "Bandai",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Digimon World 4 (USA)",
+      "fullpath": "nintendo_gamecube-Digimon World 4 (USA)",
+      "name": "Digimon World 4",
+      "year": "2005",
+      "publisher": "Bandai",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dinotopia - The Sunstone Odyssey (USA)",
+      "fullpath": "nintendo_gamecube-Dinotopia - The Sunstone Odyssey (USA)",
+      "name": "Dinotopia: The Sunstone Odyssey",
+      "year": "2003",
+      "publisher": "TDK",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Disney Sports - Basketball (USA)",
+      "fullpath": "nintendo_gamecube-Disney Sports - Basketball (USA)",
+      "name": "Disney Sports: Basketball",
+      "year": "2003",
+      "publisher": "Konami",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney Sports - Football (USA)",
+      "fullpath": "nintendo_gamecube-Disney Sports - Football (USA)",
+      "name": "Disney Sports: Football",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney Sports - Skateboarding (USA)",
+      "fullpath": "nintendo_gamecube-Disney Sports - Skateboarding (USA)",
+      "name": "Disney Sports: Skateboarding",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Sports/Skating",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney Sports - Soccer (USA)",
+      "fullpath": "nintendo_gamecube-Disney Sports - Soccer (USA)",
+      "name": "Disney Sports: Soccer",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney's Chicken Little (USA)",
+      "fullpath": "nintendo_gamecube-Disney's Chicken Little (USA)",
+      "name": "Disney's Chicken Little",
+      "year": "2005",
+      "publisher": "Buena Vista Games",
+      "genre": "Platform",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Disney's Donald Duck - Goin' Quackers (USA)",
+      "fullpath": "nintendo_gamecube-Disney's Donald Duck - Goin' Quackers (USA)",
+      "name": "Disney's Donald Duck: Goin' Quackers",
+      "year": "2002",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney's Extreme Skate Adventure (USA)",
+      "fullpath": "nintendo_gamecube-Disney's Extreme Skate Adventure (USA)",
+      "name": "Disney's Extreme Skate Adventure",
+      "year": "2003",
+      "publisher": "Activision",
+      "genre": "Sports/Skating",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney's Hide & Sneak (USA)",
+      "fullpath": "nintendo_gamecube-Disney's Hide & Sneak (USA)",
+      "name": "Disney's Hide & Sneak",
+      "year": "2003",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney's Magical Mirror Starring Mickey Mouse (USA)",
+      "fullpath": "nintendo_gamecube-Disney's Magical Mirror Starring Mickey Mouse (USA)",
+      "name": "Disney's Magical Mirror Starring Mickey Mouse",
+      "year": "2002",
+      "publisher": "Capcom",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney's Meet the Robinsons (USA)",
+      "fullpath": "nintendo_gamecube-Disney's Meet the Robinsons (USA)",
+      "name": "Disney's Meet the Robinsons",
+      "year": "2007",
+      "publisher": "Disney",
+      "genre": "Adventure",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Disney's Party (USA)",
+      "fullpath": "nintendo_gamecube-Disney's Party (USA)",
+      "name": "Disney's Party",
+      "year": "2003",
+      "publisher": "Electronic Arts",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney's PK - Out of the Shadows (USA)",
+      "fullpath": "nintendo_gamecube-Disney's PK - Out of the Shadows (USA)",
+      "name": "Disney's PK: Out of the Shadows",
+      "year": "2002",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney's Tarzan Untamed (USA)",
+      "fullpath": "nintendo_gamecube-Disney's Tarzan Untamed (USA)",
+      "name": "Disney's Tarzan Untamed",
+      "year": "2001",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney's The Haunted Mansion (USA)",
+      "fullpath": "nintendo_gamecube-Disney's The Haunted Mansion (USA)",
+      "name": "Disney's The Haunted Mansion",
+      "year": "2003",
+      "publisher": "TDK",
+      "genre": "Adventure",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Disney-Pixar Cars (USA)",
+      "fullpath": "nintendo_gamecube-Disney-Pixar Cars (USA)",
+      "name": "Disney-Pixar Cars",
+      "year": "2006",
+      "publisher": "THQ",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney-Pixar Finding Nemo (USA)",
+      "fullpath": "nintendo_gamecube-Disney-Pixar Finding Nemo (USA)",
+      "name": "Disney-Pixar Finding Nemo",
+      "year": "2003",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney-Pixar Monsters, Inc. - Scream Arena (USA)",
+      "fullpath": "nintendo_gamecube-Disney-Pixar Monsters, Inc. - Scream Arena (USA)",
+      "name": "Disney-Pixar Monsters, Inc.: Scream Arena",
+      "year": "2002",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Disney-Pixar Ratatouille (USA)",
+      "fullpath": "nintendo_gamecube-Disney-Pixar Ratatouille (USA)",
+      "name": "Disney-Pixar Ratatouille",
+      "year": "2007",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Donkey Kong Jungle Beat (USA)",
+      "fullpath": "nintendo_gamecube-Donkey Kong Jungle Beat (USA)",
+      "name": "Donkey Kong Jungle Beat",
+      "year": "2005",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Donkey Konga (USA)",
+      "fullpath": "nintendo_gamecube-Donkey Konga (USA)",
+      "name": "Donkey Konga",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Rhythm",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Donkey Konga 2 (USA)",
+      "fullpath": "nintendo_gamecube-Donkey Konga 2 (USA)",
+      "name": "Donkey Konga 2",
+      "year": "2005",
+      "publisher": "Nintendo",
+      "genre": "Rhythm",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Donkey Konga 3 (Japan)",
+      "fullpath": "nintendo_gamecube-Donkey Konga 3 (Japan)",
+      "name": "Donkey Konga 3",
+      "year": "2005",
+      "publisher": "Nintendo",
+      "genre": "Rhythm",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dora the Explorer - Journey to the Purple Planet (USA)",
+      "fullpath": "nintendo_gamecube-Dora the Explorer - Journey to the Purple Planet (USA)",
+      "name": "Dora the Explorer: Journey to the Purple Planet",
+      "year": "2005",
+      "publisher": "Global Star Software",
+      "genre": "Adventure",
+      "rating": "ESRB - EC (Early Childhood)"
+    },
+    {
+      "id": "Doraemon - Minna de Asobou! Miniland (Japan)",
+      "fullpath": "nintendo_gamecube-Doraemon - Minna de Asobou! Miniland (Japan)",
+      "name": "Doraemon: Minna de Asobou! Miniland",
+      "year": "2003",
+      "publisher": "Epoch",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Doshin the Giant (Europe)",
+      "fullpath": "nintendo_gamecube-Doshin the Giant (Europe)",
+      "name": "Doshin the Giant",
+      "year": "2002",
+      "publisher": "Nintendo",
+      "genre": "Strategy",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Dr. Muto (USA)",
+      "fullpath": "nintendo_gamecube-Dr. Muto (USA)",
+      "name": "Dr. Muto",
+      "year": "2003",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Ball Z - Budokai (USA)",
+      "fullpath": "nintendo_gamecube-Dragon Ball Z - Budokai (USA)",
+      "name": "Dragon Ball Z: Budokai",
+      "year": "2003",
+      "publisher": "Atari",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Ball Z - Budokai 2 (USA)",
+      "fullpath": "nintendo_gamecube-Dragon Ball Z - Budokai 2 (USA)",
+      "name": "Dragon Ball Z: Budokai 2",
+      "year": "2004",
+      "publisher": "Atari",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Ball Z - Sagas (USA)",
+      "fullpath": "nintendo_gamecube-Dragon Ball Z - Sagas (USA)",
+      "name": "Dragon Ball Z: Sagas",
+      "year": "2005",
+      "publisher": "Atari",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon Drive - D-Masters Shot (Japan)",
+      "fullpath": "nintendo_gamecube-Dragon Drive - D-Masters Shot (Japan)",
+      "name": "Dragon Drive: D-Masters Shot",
+      "year": "2003",
+      "publisher": "Bandai",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Dragon's Lair 3D - Return to the Lair (USA)",
+      "fullpath": "nintendo_gamecube-Dragon's Lair 3D - Return to the Lair (USA)",
+      "name": "Dragon's Lair 3D: Return to the Lair",
+      "year": "2002",
+      "publisher": "Encore",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "DreamMix TV - World Fighters (Japan)",
+      "fullpath": "nintendo_gamecube-DreamMix TV - World Fighters (Japan)",
+      "name": "DreamMix TV: World Fighters",
+      "year": "2003",
+      "publisher": "Konami",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Driven (USA)",
+      "fullpath": "nintendo_gamecube-Driven (USA)",
+      "name": "Driven",
+      "year": "2002",
+      "publisher": "Bam! Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Drome Racers (USA)",
+      "fullpath": "nintendo_gamecube-Drome Racers (USA)",
+      "name": "Drome Racers",
+      "year": "2003",
+      "publisher": "Electronic Arts",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ed, Edd n Eddy - The Mis-Edventures (USA)",
+      "fullpath": "nintendo_gamecube-Ed, Edd n Eddy - The Mis-Edventures (USA)",
+      "name": "Ed, Edd n Eddy: The Mis-Edventures",
+      "year": "2005",
+      "publisher": "Midway",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Egg Mania - Eggstreme Madness (USA)",
+      "fullpath": "nintendo_gamecube-Egg Mania - Eggstreme Madness (USA)",
+      "name": "Egg Mania: Eggstreme Madness",
+      "year": "2002",
+      "publisher": "Kemco",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Enter the Matrix (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Enter the Matrix (USA) (Disc 1)",
+      "name": "Enter the Matrix",
+      "year": "2003",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Enter the Matrix (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Enter the Matrix (USA) (Disc 2)",
+      "name": "Enter the Matrix",
+      "year": "2003",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "ESPN International Winter Sports 2002 (USA)",
+      "fullpath": "nintendo_gamecube-ESPN International Winter Sports 2002 (USA)",
+      "name": "ESPN International Winter Sports 2002",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Sports/Olympic",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "ESPN MLS ExtraTime 2002 (USA)",
+      "fullpath": "nintendo_gamecube-ESPN MLS ExtraTime 2002 (USA)",
+      "name": "ESPN MLS ExtraTime 2002",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Eternal Darkness - Sanity's Requiem (USA)",
+      "fullpath": "nintendo_gamecube-Eternal Darkness - Sanity's Requiem (USA)",
+      "name": "Eternal Darkness: Sanity's Requiem",
+      "year": "2002",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Evolution Skateboarding (USA)",
+      "fullpath": "nintendo_gamecube-Evolution Skateboarding (USA)",
+      "name": "Evolution Skateboarding",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Sports/Skating",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Evolution Snowboarding (USA)",
+      "fullpath": "nintendo_gamecube-Evolution Snowboarding (USA)",
+      "name": "Evolution Snowboarding",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Sports/Skating",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Evolution Worlds (USA)",
+      "fullpath": "nintendo_gamecube-Evolution Worlds (USA)",
+      "name": "Evolution Worlds",
+      "year": "2002",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F-Zero GX (USA)",
+      "fullpath": "nintendo_gamecube-F-Zero GX (USA)",
+      "name": "F-Zero GX",
+      "year": "2003",
+      "publisher": "Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "F1 2002 (USA)",
+      "fullpath": "nintendo_gamecube-F1 2002 (USA)",
+      "name": "F1 2002",
+      "year": "2002",
+      "publisher": "EA Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "F1 Career Challenge (Europe)",
+      "fullpath": "nintendo_gamecube-F1 Career Challenge (Europe)",
+      "name": "F1 Career Challenge",
+      "year": "2003",
+      "publisher": "EA Sports",
+      "genre": "Driving",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Fairly OddParents, The - Breakin' da Rules (USA)",
+      "fullpath": "nintendo_gamecube-Fairly OddParents, The - Breakin' da Rules (USA)",
+      "name": "Fairly OddParents, The: Breakin' da Rules",
+      "year": "2003",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Fairly OddParents, The - Shadow Showdown (USA)",
+      "fullpath": "nintendo_gamecube-Fairly OddParents, The - Shadow Showdown (USA)",
+      "name": "Fairly OddParents, The: Shadow Showdown",
+      "year": "2004",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Fantastic 4 (USA)",
+      "fullpath": "nintendo_gamecube-Fantastic 4 (USA)",
+      "name": "Fantastic 4",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "FIFA Soccer 06 (USA)",
+      "fullpath": "nintendo_gamecube-FIFA Soccer 06 (USA)",
+      "name": "FIFA Soccer 06",
+      "year": "2005",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA Soccer 07 (USA)",
+      "fullpath": "nintendo_gamecube-FIFA Soccer 07 (USA)",
+      "name": "FIFA Soccer 07",
+      "year": "2006",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA Soccer 2002 (USA)",
+      "fullpath": "nintendo_gamecube-FIFA Soccer 2002 (USA)",
+      "name": "FIFA Soccer 2002",
+      "year": "2001",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA Soccer 2003 (USA)",
+      "fullpath": "nintendo_gamecube-FIFA Soccer 2003 (USA)",
+      "name": "FIFA Soccer 2003",
+      "year": "2002",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA Soccer 2004 (USA)",
+      "fullpath": "nintendo_gamecube-FIFA Soccer 2004 (USA)",
+      "name": "FIFA Soccer 2004",
+      "year": "2003",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA Soccer 2005 (USA)",
+      "fullpath": "nintendo_gamecube-FIFA Soccer 2005 (USA)",
+      "name": "FIFA Soccer 2005",
+      "year": "2004",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA Street (USA)",
+      "fullpath": "nintendo_gamecube-FIFA Street (USA)",
+      "name": "FIFA Street",
+      "year": "2005",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "FIFA Street 2 (USA)",
+      "fullpath": "nintendo_gamecube-FIFA Street 2 (USA)",
+      "name": "FIFA Street 2",
+      "year": "2006",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Fight Night Round 2 (USA)",
+      "fullpath": "nintendo_gamecube-Fight Night Round 2 (USA)",
+      "name": "Fight Night Round 2",
+      "year": "2005",
+      "publisher": "EA Sports",
+      "genre": "Sports",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Final Fantasy - Crystal Chronicles (USA)",
+      "fullpath": "nintendo_gamecube-Final Fantasy - Crystal Chronicles (USA)",
+      "name": "Final Fantasy: Crystal Chronicles",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Fire Emblem - Path of Radiance (USA)",
+      "fullpath": "nintendo_gamecube-Fire Emblem - Path of Radiance (USA)",
+      "name": "Fire Emblem: Path of Radiance",
+      "year": "2005",
+      "publisher": "Nintendo",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Fireblade (USA)",
+      "fullpath": "nintendo_gamecube-Fireblade (USA)",
+      "name": "Fireblade",
+      "year": "2002",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Flushed Away (USA)",
+      "fullpath": "nintendo_gamecube-Flushed Away (USA)",
+      "name": "Flushed Away",
+      "year": "2006",
+      "publisher": "D3 Publisher",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Franklin - A Birthday Surprise (Europe)",
+      "fullpath": "nintendo_gamecube-Franklin - A Birthday Surprise (Europe)",
+      "name": "Franklin: A Birthday Surprise",
+      "year": "2006",
+      "publisher": "The Game Factory",
+      "genre": "Miscellaneous",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "Freaky Flyers (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Freaky Flyers (USA) (Disc 1)",
+      "name": "Freaky Flyers",
+      "year": "2003",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Freaky Flyers (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Freaky Flyers (USA) (Disc 2)",
+      "name": "Freaky Flyers",
+      "year": "2003",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Freedom Fighters (USA)",
+      "fullpath": "nintendo_gamecube-Freedom Fighters (USA)",
+      "name": "Freedom Fighters",
+      "year": "2003",
+      "publisher": "EA Games",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Freekstyle (USA)",
+      "fullpath": "nintendo_gamecube-Freekstyle (USA)",
+      "name": "Freekstyle",
+      "year": "2002",
+      "publisher": "EA Sports",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Freestyle MetalX (USA)",
+      "fullpath": "nintendo_gamecube-Freestyle MetalX (USA)",
+      "name": "Freestyle MetalX",
+      "year": "2003",
+      "publisher": "Midway",
+      "genre": "Motorcycle",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Freestyle Street Soccer (USA)",
+      "fullpath": "nintendo_gamecube-Freestyle Street Soccer (USA)",
+      "name": "Freestyle Street Soccer",
+      "year": "2004",
+      "publisher": "Acclaim",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Frogger - Ancient Shadow (USA)",
+      "fullpath": "nintendo_gamecube-Frogger - Ancient Shadow (USA)",
+      "name": "Frogger: Ancient Shadow",
+      "year": "2005",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Frogger Beyond (USA)",
+      "fullpath": "nintendo_gamecube-Frogger Beyond (USA)",
+      "name": "Frogger Beyond",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Frogger's Adventures - The Rescue (USA)",
+      "fullpath": "nintendo_gamecube-Frogger's Adventures - The Rescue (USA)",
+      "name": "Frogger's Adventures: The Rescue",
+      "year": "2003",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Future Tactics - The Uprising (USA)",
+      "fullpath": "nintendo_gamecube-Future Tactics - The Uprising (USA)",
+      "name": "Future Tactics: The Uprising",
+      "year": "2004",
+      "publisher": "Crave Entertainment",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Gauntlet - Dark Legacy (USA)",
+      "fullpath": "nintendo_gamecube-Gauntlet - Dark Legacy (USA)",
+      "name": "Gauntlet: Dark Legacy",
+      "year": "2002",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Geist (USA)",
+      "fullpath": "nintendo_gamecube-Geist (USA)",
+      "name": "Geist",
+      "year": "2005",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Gladius (USA)",
+      "fullpath": "nintendo_gamecube-Gladius (USA)",
+      "name": "Gladius",
+      "year": "2003",
+      "publisher": "LucasArts",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Go! Go! Hypergrind (USA)",
+      "fullpath": "nintendo_gamecube-Go! Go! Hypergrind (USA)",
+      "name": "Go! Go! Hypergrind",
+      "year": "2003",
+      "publisher": "Atlus",
+      "genre": "Sports/Skating",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Goblin Commander - Unleash the Horde (USA)",
+      "fullpath": "nintendo_gamecube-Goblin Commander - Unleash the Horde (USA)",
+      "name": "Goblin Commander: Unleash the Horde",
+      "year": "2003",
+      "publisher": "Jaleco Entertainment",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Godzilla - Destroy All Monsters Melee (USA)",
+      "fullpath": "nintendo_gamecube-Godzilla - Destroy All Monsters Melee (USA)",
+      "name": "Godzilla: Destroy All Monsters Melee",
+      "year": "2002",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "GoldenEye - Rogue Agent (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-GoldenEye - Rogue Agent (USA) (Disc 1)",
+      "name": "GoldenEye: Rogue Agent",
+      "year": "2004",
+      "publisher": "EA Games",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "GoldenEye - Rogue Agent (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-GoldenEye - Rogue Agent (USA) (Disc 2)",
+      "name": "GoldenEye: Rogue Agent",
+      "year": "2004",
+      "publisher": "EA Games",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Gotcha Force (USA)",
+      "fullpath": "nintendo_gamecube-Gotcha Force (USA)",
+      "name": "Gotcha Force",
+      "year": "2003",
+      "publisher": "Capcom",
+      "genre": "Simulation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Grim Adventures of Billy & Mandy, The (USA)",
+      "fullpath": "nintendo_gamecube-Grim Adventures of Billy & Mandy, The (USA)",
+      "name": "Grim Adventures of Billy & Mandy, The",
+      "year": "2006",
+      "publisher": "Midway",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Grooverider - Slot Car Thunder (USA)",
+      "fullpath": "nintendo_gamecube-Grooverider - Slot Car Thunder (USA)",
+      "name": "Grooverider: Slot Car Thunder",
+      "year": "2003",
+      "publisher": "Encore",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "GT Cube (Japan)",
+      "fullpath": "nintendo_gamecube-GT Cube (Japan)",
+      "name": "GT Cube",
+      "year": "2003",
+      "publisher": "Motorsports Software Technical Office",
+      "genre": "Driving",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Gun (USA)",
+      "fullpath": "nintendo_gamecube-Gun (USA)",
+      "name": "Gun",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Happy Feet (USA)",
+      "fullpath": "nintendo_gamecube-Happy Feet (USA)",
+      "name": "Happy Feet",
+      "year": "2006",
+      "publisher": "Midway",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harry Potter - Quidditch World Cup (USA)",
+      "fullpath": "nintendo_gamecube-Harry Potter - Quidditch World Cup (USA)",
+      "name": "Harry Potter: Quidditch World Cup",
+      "year": "2003",
+      "publisher": "EA Games",
+      "genre": "Sports",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harry Potter and the Chamber of Secrets (USA)",
+      "fullpath": "nintendo_gamecube-Harry Potter and the Chamber of Secrets (USA)",
+      "name": "Harry Potter and the Chamber of Secrets",
+      "year": "2002",
+      "publisher": "EA Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harry Potter and the Goblet of Fire (USA)",
+      "fullpath": "nintendo_gamecube-Harry Potter and the Goblet of Fire (USA)",
+      "name": "Harry Potter and the Goblet of Fire",
+      "year": "2005",
+      "publisher": "Electronic Arts",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Harry Potter and the Prisoner of Azkaban (USA)",
+      "fullpath": "nintendo_gamecube-Harry Potter and the Prisoner of Azkaban (USA)",
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "year": "2004",
+      "publisher": "EA Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harry Potter and the Sorcerer's Stone (USA)",
+      "fullpath": "nintendo_gamecube-Harry Potter and the Sorcerer's Stone (USA)",
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "year": "2003",
+      "publisher": "EA Games",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harvest Moon - A Wonderful Life (USA)",
+      "fullpath": "nintendo_gamecube-Harvest Moon - A Wonderful Life (USA)",
+      "name": "Harvest Moon: A Wonderful Life",
+      "year": "2004",
+      "publisher": "Natsume",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harvest Moon - Another Wonderful Life (USA)",
+      "fullpath": "nintendo_gamecube-Harvest Moon - Another Wonderful Life (USA)",
+      "name": "Harvest Moon: Another Wonderful Life",
+      "year": "2005",
+      "publisher": "Natsume",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Harvest Moon - Magical Melody (USA)",
+      "fullpath": "nintendo_gamecube-Harvest Moon - Magical Melody (USA)",
+      "name": "Harvest Moon: Magical Melody",
+      "year": "2006",
+      "publisher": "Natsume",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hello Kitty - Roller Rescue (USA)",
+      "fullpath": "nintendo_gamecube-Hello Kitty - Roller Rescue (USA)",
+      "name": "Hello Kitty: Roller Rescue",
+      "year": "2005",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hitman 2 - Silent Assassin (USA)",
+      "fullpath": "nintendo_gamecube-Hitman 2 - Silent Assassin (USA)",
+      "name": "Hitman 2: Silent Assassin",
+      "year": "2003",
+      "publisher": "Eidos Interactive",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Hobbit, The (USA)",
+      "fullpath": "nintendo_gamecube-Hobbit, The (USA)",
+      "name": "Hobbit, The",
+      "year": "2003",
+      "publisher": "Sierra",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Home Run King (USA)",
+      "fullpath": "nintendo_gamecube-Home Run King (USA)",
+      "name": "Home Run King",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hot Wheels - Velocity X (USA)",
+      "fullpath": "nintendo_gamecube-Hot Wheels - Velocity X (USA)",
+      "name": "Hot Wheels: Velocity X",
+      "year": "2002",
+      "publisher": "THQ",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hot Wheels - World Race (USA)",
+      "fullpath": "nintendo_gamecube-Hot Wheels - World Race (USA)",
+      "name": "Hot Wheels: World Race",
+      "year": "2003",
+      "publisher": "THQ",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hudson Selection Vol.1 - Cubic Lode Runner (Japan)",
+      "fullpath": "nintendo_gamecube-Hudson Selection Vol.1 - Cubic Lode Runner (Japan)",
+      "name": "Hudson Selection Vol.1: Cubic Lode Runner",
+      "year": "2003",
+      "publisher": "Hudson",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hudson Selection Vol.2 - Star Soldier (Japan)",
+      "fullpath": "nintendo_gamecube-Hudson Selection Vol.2 - Star Soldier (Japan)",
+      "name": "Hudson Selection Vol.2: Star Soldier",
+      "year": "2003",
+      "publisher": "Hudson",
+      "genre": "Shooter",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Hudson Selection Vol.3 - PC Genjin - Pithecanthropus Computerurus (Japan)",
+      "fullpath": "nintendo_gamecube-Hudson Selection Vol.3 - PC Genjin - Pithecanthropus Computerurus (Japan)",
+      "name": "Hudson Selection Vol.3: PC Genjin - Pithecanthropus Computerurus",
+      "year": "2003",
+      "publisher": "Hudson",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hudson Selection Vol.4 - Takahashi-Meijin no Boukenjima (Japan)",
+      "fullpath": "nintendo_gamecube-Hudson Selection Vol.4 - Takahashi-Meijin no Boukenjima (Japan)",
+      "name": "Hudson Selection Vol.4: Takahashi-Meijin no Boukenjima",
+      "year": "2003",
+      "publisher": "Hudson",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hulk (USA)",
+      "fullpath": "nintendo_gamecube-Hulk (USA)",
+      "name": "Hulk",
+      "year": "2003",
+      "publisher": "Universal Interactive",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Hunter - The Reckoning (USA)",
+      "fullpath": "nintendo_gamecube-Hunter - The Reckoning (USA)",
+      "name": "Hunter: The Reckoning",
+      "year": "2002",
+      "publisher": "Interplay",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "I-Ninja (USA)",
+      "fullpath": "nintendo_gamecube-I-Ninja (USA)",
+      "name": "I-Ninja",
+      "year": "2003",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Ice Age 2 - The Meltdown (USA)",
+      "fullpath": "nintendo_gamecube-Ice Age 2 - The Meltdown (USA)",
+      "name": "Ice Age 2: The Meltdown",
+      "year": "2006",
+      "publisher": "Sierra",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Ikaruga (USA)",
+      "fullpath": "nintendo_gamecube-Ikaruga (USA)",
+      "name": "Ikaruga",
+      "year": "2003",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Incredible Hulk, The - Ultimate Destruction (USA)",
+      "fullpath": "nintendo_gamecube-Incredible Hulk, The - Ultimate Destruction (USA)",
+      "name": "Incredible Hulk, The: Ultimate Destruction",
+      "year": "2005",
+      "publisher": "Sierra",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Incredibles, The (USA)",
+      "fullpath": "nintendo_gamecube-Incredibles, The (USA)",
+      "name": "Incredibles, The",
+      "year": "2004",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Incredibles, The - Rise of the Underminer (USA)",
+      "fullpath": "nintendo_gamecube-Incredibles, The - Rise of the Underminer (USA)",
+      "name": "Incredibles, The: Rise of the Underminer",
+      "year": "2005",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Intellivision Lives! (USA)",
+      "fullpath": "nintendo_gamecube-Intellivision Lives! (USA)",
+      "name": "Intellivision Lives!",
+      "year": "2004",
+      "publisher": "Crave Entertainment",
+      "genre": "Compilation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "International Superstar Soccer 2 (Europe)",
+      "fullpath": "nintendo_gamecube-International Superstar Soccer 2 (Europe)",
+      "name": "International Superstar Soccer 2",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Sports/Soccer",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "International Superstar Soccer 3 (Europe)",
+      "fullpath": "nintendo_gamecube-International Superstar Soccer 3 (Europe)",
+      "name": "International Superstar Soccer 3",
+      "year": "2003",
+      "publisher": "Konami",
+      "genre": "Sports/Soccer",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Italian Job, The (USA)",
+      "fullpath": "nintendo_gamecube-Italian Job, The (USA)",
+      "name": "Italian Job, The",
+      "year": "2003",
+      "publisher": "Eidos Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Jeremy McGrath Supercross World (USA)",
+      "fullpath": "nintendo_gamecube-Jeremy McGrath Supercross World (USA)",
+      "name": "Jeremy McGrath Supercross World",
+      "year": "2002",
+      "publisher": "Acclaim Max Sports",
+      "genre": "Motorcycle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Jikkyou World Soccer 2002 (Japan)",
+      "fullpath": "nintendo_gamecube-Jikkyou World Soccer 2002 (Japan)",
+      "name": "Jikkyou World Soccer 2002",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Judge Dredd - Dredd vs Death (USA)",
+      "fullpath": "nintendo_gamecube-Judge Dredd - Dredd vs Death (USA)",
+      "name": "Judge Dredd: Dredd vs Death",
+      "year": "2005",
+      "publisher": "Evolved Games",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Kao the Kangaroo - Round 2 (USA)",
+      "fullpath": "nintendo_gamecube-Kao the Kangaroo - Round 2 (USA)",
+      "name": "Kao the Kangaroo: Round 2",
+      "year": "2006",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Karaoke Revolution Party (USA)",
+      "fullpath": "nintendo_gamecube-Karaoke Revolution Party (USA)",
+      "name": "Karaoke Revolution Party",
+      "year": "2005",
+      "publisher": "Konami",
+      "genre": "Rhythm",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Kelly Slater's Pro Surfer (USA)",
+      "fullpath": "nintendo_gamecube-Kelly Slater's Pro Surfer (USA)",
+      "name": "Kelly Slater's Pro Surfer",
+      "year": "2002",
+      "publisher": "Activision",
+      "genre": "Sports/Surfing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Kidou Senshi Gundam - Gundam vs. Z Gundam (Japan)",
+      "fullpath": "nintendo_gamecube-Kidou Senshi Gundam - Gundam vs. Z Gundam (Japan)",
+      "name": "Kidou Senshi Gundam: Gundam vs. Z Gundam",
+      "year": "2004",
+      "publisher": "Bandai",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Killer7 (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Killer7 (USA) (Disc 1)",
+      "name": "Killer7",
+      "year": "2005",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Killer7 (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Killer7 (USA) (Disc 2)",
+      "name": "Killer7",
+      "year": "2005",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "King Arthur (USA)",
+      "fullpath": "nintendo_gamecube-King Arthur (USA)",
+      "name": "King Arthur",
+      "year": "2004",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Kirby Air Ride (USA)",
+      "fullpath": "nintendo_gamecube-Kirby Air Ride (USA)",
+      "name": "Kirby Air Ride",
+      "year": "2003",
+      "publisher": "Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Knights of the Temple - Infernal Crusade (Europe)",
+      "fullpath": "nintendo_gamecube-Knights of the Temple - Infernal Crusade (Europe)",
+      "name": "Knights of the Temple: Infernal Crusade",
+      "year": "2004",
+      "publisher": "TDK",
+      "genre": "Action",
+      "rating": "PEGI - 16 (Everyone 16+)"
+    },
+    {
+      "id": "Knockout Kings 2003 (USA)",
+      "fullpath": "nintendo_gamecube-Knockout Kings 2003 (USA)",
+      "name": "Knockout Kings 2003",
+      "year": "2002",
+      "publisher": "EA Sports",
+      "genre": "Sports/Boxing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan)",
+      "fullpath": "nintendo_gamecube-Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan)",
+      "name": "Konjiki no Gashbell!! Go! Go! Mamono Fight!!",
+      "year": "2005",
+      "publisher": "Bandai",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Konjiki no Gashbell!! Yuujyo Tag Battle - Full Power (Japan)",
+      "fullpath": "nintendo_gamecube-Konjiki no Gashbell!! Yuujyo Tag Battle - Full Power (Japan)",
+      "name": "Konjiki no Gashbell!! Yuujyo Tag Battle: Full Power",
+      "year": "2004",
+      "publisher": "Bandai",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Konjiki no Gashbell!! Yuujyo Tag Battle 2 (Japan)",
+      "fullpath": "nintendo_gamecube-Konjiki no Gashbell!! Yuujyo Tag Battle 2 (Japan)",
+      "name": "Konjiki no Gashbell!! Yuujyo Tag Battle 2",
+      "year": "2005",
+      "publisher": "Bandai",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Korokke! Ban-Ou no Kiki o Sukue (Japan)",
+      "fullpath": "nintendo_gamecube-Korokke! Ban-Ou no Kiki o Sukue (Japan)",
+      "name": "Korokke! Ban-Ou no Kiki o Sukue",
+      "year": "2004",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Kururin Squash! (Japan)",
+      "fullpath": "nintendo_gamecube-Kururin Squash! (Japan)",
+      "name": "Kururin Squash!",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lara Croft Tomb Raider - Legend (USA)",
+      "fullpath": "nintendo_gamecube-Lara Croft Tomb Raider - Legend (USA)",
+      "name": "Lara Croft Tomb Raider: Legend",
+      "year": "2006",
+      "publisher": "Eidos",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Largo Winch - Empire Under Threat (Europe)",
+      "fullpath": "nintendo_gamecube-Largo Winch - Empire Under Threat (Europe)",
+      "name": "Largo Winch: Empire Under Threat",
+      "year": "2002",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Adventure",
+      "rating": "USK - 12 (Everyone 12+)"
+    },
+    {
+      "id": "Legacy of Kain, The - Blood Omen 2 (USA)",
+      "fullpath": "nintendo_gamecube-Legacy of Kain, The - Blood Omen 2 (USA)",
+      "name": "Legacy of Kain, The: Blood Omen 2",
+      "year": "2002",
+      "publisher": "Eidos Interactive",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Legend of Spyro, The - A New Beginning (USA)",
+      "fullpath": "nintendo_gamecube-Legend of Spyro, The - A New Beginning (USA)",
+      "name": "Legend of Spyro, The: A New Beginning",
+      "year": "2006",
+      "publisher": "Sierra",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Legend of Zelda, The - Collector's Edition (USA)",
+      "fullpath": "nintendo_gamecube-Legend of Zelda, The - Collector's Edition (USA)",
+      "name": "Legend of Zelda, The: Collector's Edition",
+      "year": "2003",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Legend of Zelda, The - Four Swords Adventures (USA)",
+      "fullpath": "nintendo_gamecube-Legend of Zelda, The - Four Swords Adventures (USA)",
+      "name": "Legend of Zelda, The: Four Swords Adventures",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA)",
+      "fullpath": "nintendo_gamecube-Legend of Zelda, The - Ocarina of Time - Master Quest (USA)",
+      "name": "Legend of Zelda, The: Ocarina of Time - Master Quest",
+      "year": "2003",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Legend of Zelda, The - The Wind Waker (USA)",
+      "fullpath": "nintendo_gamecube-Legend of Zelda, The - The Wind Waker (USA)",
+      "name": "Legend of Zelda, The: The Wind Waker",
+      "year": "2003",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Legend of Zelda, The - Twilight Princess (USA)",
+      "fullpath": "nintendo_gamecube-Legend of Zelda, The - Twilight Princess (USA)",
+      "name": "Legend of Zelda, The: Twilight Princess",
+      "year": "2006",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Legends of Wrestling (USA)",
+      "fullpath": "nintendo_gamecube-Legends of Wrestling (USA)",
+      "name": "Legends of Wrestling",
+      "year": "2002",
+      "publisher": "Acclaim",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Legends of Wrestling II (USA)",
+      "fullpath": "nintendo_gamecube-Legends of Wrestling II (USA)",
+      "name": "Legends of Wrestling II",
+      "year": "2002",
+      "publisher": "Acclaim",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "LEGO Star Wars - The Video Game (USA)",
+      "fullpath": "nintendo_gamecube-LEGO Star Wars - The Video Game (USA)",
+      "name": "LEGO Star Wars: The Video Game",
+      "year": "2005",
+      "publisher": "Eidos",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "LEGO Star Wars II - The Original Trilogy (USA)",
+      "fullpath": "nintendo_gamecube-LEGO Star Wars II - The Original Trilogy (USA)",
+      "name": "LEGO Star Wars II: The Original Trilogy",
+      "year": "2006",
+      "publisher": "LucasArts",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Lemony Snicket's A Series of Unfortunate Events (USA)",
+      "fullpath": "nintendo_gamecube-Lemony Snicket's A Series of Unfortunate Events (USA)",
+      "name": "Lemony Snicket's A Series of Unfortunate Events",
+      "year": "2004",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Looney Tunes - Back in Action (USA)",
+      "fullpath": "nintendo_gamecube-Looney Tunes - Back in Action (USA)",
+      "name": "Looney Tunes: Back in Action",
+      "year": "2003",
+      "publisher": "Electronic Arts",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Lord of the Rings, The - The Return of the King (USA)",
+      "fullpath": "nintendo_gamecube-Lord of the Rings, The - The Return of the King (USA)",
+      "name": "Lord of the Rings, The: The Return of the King",
+      "year": "2003",
+      "publisher": "EA Games",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Lord of the Rings, The - The Third Age (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Lord of the Rings, The - The Third Age (USA) (Disc 1)",
+      "name": "Lord of the Rings, The: The Third Age",
+      "year": "2004",
+      "publisher": "EA Games",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Lord of the Rings, The - The Third Age (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Lord of the Rings, The - The Third Age (USA) (Disc 2)",
+      "name": "Lord of the Rings, The: The Third Age",
+      "year": "2004",
+      "publisher": "EA Games",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Lord of the Rings, The - The Two Towers (USA)",
+      "fullpath": "nintendo_gamecube-Lord of the Rings, The - The Two Towers (USA)",
+      "name": "Lord of the Rings, The: The Two Towers",
+      "year": "2002",
+      "publisher": "EA Games",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Lost Kingdoms (USA)",
+      "fullpath": "nintendo_gamecube-Lost Kingdoms (USA)",
+      "name": "Lost Kingdoms",
+      "year": "2002",
+      "publisher": "Activision",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Lost Kingdoms II (USA)",
+      "fullpath": "nintendo_gamecube-Lost Kingdoms II (USA)",
+      "name": "Lost Kingdoms II",
+      "year": "2003",
+      "publisher": "Activision",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Lotus Challenge (USA)",
+      "fullpath": "nintendo_gamecube-Lotus Challenge (USA)",
+      "name": "Lotus Challenge",
+      "year": "2004",
+      "publisher": "Ignition Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Luigi's Mansion (USA)",
+      "fullpath": "nintendo_gamecube-Luigi's Mansion (USA)",
+      "name": "Luigi's Mansion",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madagascar (USA)",
+      "fullpath": "nintendo_gamecube-Madagascar (USA)",
+      "name": "Madagascar",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Madden NFL 06 (USA)",
+      "fullpath": "nintendo_gamecube-Madden NFL 06 (USA)",
+      "name": "Madden NFL 06",
+      "year": "2005",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 07 (USA)",
+      "fullpath": "nintendo_gamecube-Madden NFL 07 (USA)",
+      "name": "Madden NFL 07",
+      "year": "2006",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 08 (USA)",
+      "fullpath": "nintendo_gamecube-Madden NFL 08 (USA)",
+      "name": "Madden NFL 08",
+      "year": "2007",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 2002 (USA)",
+      "fullpath": "nintendo_gamecube-Madden NFL 2002 (USA)",
+      "name": "Madden NFL 2002",
+      "year": "2001",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 2003 (USA)",
+      "fullpath": "nintendo_gamecube-Madden NFL 2003 (USA)",
+      "name": "Madden NFL 2003",
+      "year": "2002",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 2004 (USA)",
+      "fullpath": "nintendo_gamecube-Madden NFL 2004 (USA)",
+      "name": "Madden NFL 2004",
+      "year": "2003",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Madden NFL 2005 (USA)",
+      "fullpath": "nintendo_gamecube-Madden NFL 2005 (USA)",
+      "name": "Madden NFL 2005",
+      "year": "2004",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Major League Baseball 2K6 (USA)",
+      "fullpath": "nintendo_gamecube-Major League Baseball 2K6 (USA)",
+      "name": "Major League Baseball 2K6",
+      "year": "2006",
+      "publisher": "2K Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Golf - Toadstool Tour (USA)",
+      "fullpath": "nintendo_gamecube-Mario Golf - Toadstool Tour (USA)",
+      "name": "Mario Golf: Toadstool Tour",
+      "year": "2003",
+      "publisher": "Nintendo",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Kart - Double Dash!! (USA)",
+      "fullpath": "nintendo_gamecube-Mario Kart - Double Dash!! (USA)",
+      "name": "Mario Kart: Double Dash!!",
+      "year": "2003",
+      "publisher": "Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Party 4 (USA)",
+      "fullpath": "nintendo_gamecube-Mario Party 4 (USA)",
+      "name": "Mario Party 4",
+      "year": "2002",
+      "publisher": "Nintendo",
+      "genre": "Party",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Party 5 (USA)",
+      "fullpath": "nintendo_gamecube-Mario Party 5 (USA)",
+      "name": "Mario Party 5",
+      "year": "2003",
+      "publisher": "Nintendo",
+      "genre": "Party",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Party 6 (USA)",
+      "fullpath": "nintendo_gamecube-Mario Party 6 (USA)",
+      "name": "Mario Party 6",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Party",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Party 7 (USA)",
+      "fullpath": "nintendo_gamecube-Mario Party 7 (USA)",
+      "name": "Mario Party 7",
+      "year": "2005",
+      "publisher": "Nintendo",
+      "genre": "Party",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Power Tennis (USA)",
+      "fullpath": "nintendo_gamecube-Mario Power Tennis (USA)",
+      "name": "Mario Power Tennis",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Sports/Tennis",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mario Superstar Baseball (USA)",
+      "fullpath": "nintendo_gamecube-Mario Superstar Baseball (USA)",
+      "name": "Mario Superstar Baseball",
+      "year": "2005",
+      "publisher": "Nintendo",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mark Davis Pro Bass Challenge (USA)",
+      "fullpath": "nintendo_gamecube-Mark Davis Pro Bass Challenge (USA)",
+      "name": "Mark Davis Pro Bass Challenge",
+      "year": "2005",
+      "publisher": "Natsume",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Marvel Nemesis - Rise of the Imperfects (USA)",
+      "fullpath": "nintendo_gamecube-Marvel Nemesis - Rise of the Imperfects (USA)",
+      "name": "Marvel Nemesis: Rise of the Imperfects",
+      "year": "2005",
+      "publisher": "Electronic Arts",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mary-Kate and Ashley - Sweet 16 - Licensed to Drive (USA)",
+      "fullpath": "nintendo_gamecube-Mary-Kate and Ashley - Sweet 16 - Licensed to Drive (USA)",
+      "name": "Mary-Kate and Ashley: Sweet 16 - Licensed to Drive",
+      "year": "2003",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mat Hoffman's Pro BMX 2 (USA)",
+      "fullpath": "nintendo_gamecube-Mat Hoffman's Pro BMX 2 (USA)",
+      "name": "Mat Hoffman's Pro BMX 2",
+      "year": "2002",
+      "publisher": "Activision o2",
+      "genre": "Motorcycle",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Maxplay Classic Games Volume 1 (Europe) (Unl)",
+      "fullpath": "nintendo_gamecube-Maxplay Classic Games Volume 1 (Europe) (Unl)",
+      "name": "Maxplay Classic Games Volume 1",
+      "year": "2004",
+      "publisher": "Datel",
+      "genre": "Compilation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "MC Groovz Dance Craze (USA)",
+      "fullpath": "nintendo_gamecube-MC Groovz Dance Craze (USA)",
+      "name": "MC Groovz Dance Craze",
+      "year": "2004",
+      "publisher": "Mad Catz",
+      "genre": "Rhythm",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Medabots Infinity (USA)",
+      "fullpath": "nintendo_gamecube-Medabots Infinity (USA)",
+      "name": "Medabots Infinity",
+      "year": "2003",
+      "publisher": "Natsume",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Medal of Honor - European Assault (USA)",
+      "fullpath": "nintendo_gamecube-Medal of Honor - European Assault (USA)",
+      "name": "Medal of Honor: European Assault",
+      "year": "2005",
+      "publisher": "EA Games",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Medal of Honor - Frontline (USA)",
+      "fullpath": "nintendo_gamecube-Medal of Honor - Frontline (USA)",
+      "name": "Medal of Honor: Frontline",
+      "year": "2002",
+      "publisher": "EA Games",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Medal of Honor - Rising Sun (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Medal of Honor - Rising Sun (USA) (Disc 1)",
+      "name": "Medal of Honor: Rising Sun",
+      "year": "2003",
+      "publisher": "EA Games",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Medal of Honor - Rising Sun (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Medal of Honor - Rising Sun (USA) (Disc 2)",
+      "name": "Medal of Honor: Rising Sun",
+      "year": "2003",
+      "publisher": "EA Games",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mega Man - Network Transmission (USA)",
+      "fullpath": "nintendo_gamecube-Mega Man - Network Transmission (USA)",
+      "name": "Mega Man: Network Transmission",
+      "year": "2003",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mega Man Anniversary Collection (USA)",
+      "fullpath": "nintendo_gamecube-Mega Man Anniversary Collection (USA)",
+      "name": "Mega Man Anniversary Collection",
+      "year": "2004",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mega Man X - Command Mission (USA)",
+      "fullpath": "nintendo_gamecube-Mega Man X - Command Mission (USA)",
+      "name": "Mega Man X: Command Mission",
+      "year": "2004",
+      "publisher": "Capcom",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mega Man X Collection (USA)",
+      "fullpath": "nintendo_gamecube-Mega Man X Collection (USA)",
+      "name": "Mega Man X Collection",
+      "year": "2006",
+      "publisher": "Capcom",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Men in Black II - Alien Escape (USA)",
+      "fullpath": "nintendo_gamecube-Men in Black II - Alien Escape (USA)",
+      "name": "Men in Black II: Alien Escape",
+      "year": "2002",
+      "publisher": "Infogrames",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Metal Arms - Glitch in the System (USA)",
+      "fullpath": "nintendo_gamecube-Metal Arms - Glitch in the System (USA)",
+      "name": "Metal Arms: Glitch in the System",
+      "year": "2003",
+      "publisher": "Sierra",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Metal Gear Solid - The Twin Snakes (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Metal Gear Solid - The Twin Snakes (USA) (Disc 1)",
+      "name": "Metal Gear Solid: The Twin Snakes",
+      "year": "2004",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Metal Gear Solid - The Twin Snakes (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Metal Gear Solid - The Twin Snakes (USA) (Disc 2)",
+      "name": "Metal Gear Solid: The Twin Snakes",
+      "year": "2004",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Metroid Prime (USA)",
+      "fullpath": "nintendo_gamecube-Metroid Prime (USA)",
+      "name": "Metroid Prime",
+      "year": "2002",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Metroid Prime 2 - Echoes (USA)",
+      "fullpath": "nintendo_gamecube-Metroid Prime 2 - Echoes (USA)",
+      "name": "Metroid Prime 2: Echoes",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Micro Machines (Europe)",
+      "fullpath": "nintendo_gamecube-Micro Machines (Europe)",
+      "name": "Micro Machines",
+      "year": "2003",
+      "publisher": "Atari",
+      "genre": "Driving",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Midway Arcade Treasures (USA)",
+      "fullpath": "nintendo_gamecube-Midway Arcade Treasures (USA)",
+      "name": "Midway Arcade Treasures",
+      "year": "2003",
+      "publisher": "Midway",
+      "genre": "Compilation",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Midway Arcade Treasures 2 (USA)",
+      "fullpath": "nintendo_gamecube-Midway Arcade Treasures 2 (USA)",
+      "name": "Midway Arcade Treasures 2",
+      "year": "2004",
+      "publisher": "Midway",
+      "genre": "Compilation",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Midway Arcade Treasures 3 (USA)",
+      "fullpath": "nintendo_gamecube-Midway Arcade Treasures 3 (USA)",
+      "name": "Midway Arcade Treasures 3",
+      "year": "2005",
+      "publisher": "Midway",
+      "genre": "Compilation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Minority Report - Everybody Runs (USA)",
+      "fullpath": "nintendo_gamecube-Minority Report - Everybody Runs (USA)",
+      "name": "Minority Report: Everybody Runs",
+      "year": "2002",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mission Impossible - Operation Surma (USA)",
+      "fullpath": "nintendo_gamecube-Mission Impossible - Operation Surma (USA)",
+      "name": "Mission Impossible: Operation Surma",
+      "year": "2004",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "MLB SlugFest 2003 (USA)",
+      "fullpath": "nintendo_gamecube-MLB SlugFest 2003 (USA)",
+      "name": "MLB SlugFest 2003",
+      "year": "2002",
+      "publisher": "Midway Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MLB SlugFest 2004 (USA)",
+      "fullpath": "nintendo_gamecube-MLB SlugFest 2004 (USA)",
+      "name": "MLB SlugFest 2004",
+      "year": "2003",
+      "publisher": "Midway Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Monopoly Party (USA)",
+      "fullpath": "nintendo_gamecube-Monopoly Party (USA)",
+      "name": "Monopoly Party",
+      "year": "2002",
+      "publisher": "Infogrames",
+      "genre": "Board Games",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Monster 4x4 - Masters of Metal (USA)",
+      "fullpath": "nintendo_gamecube-Monster 4x4 - Masters of Metal (USA)",
+      "name": "Monster 4x4: Masters of Metal",
+      "year": "2003",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Monster House (USA)",
+      "fullpath": "nintendo_gamecube-Monster House (USA)",
+      "name": "Monster House",
+      "year": "2006",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Monster Jam - Maximum Destruction (USA)",
+      "fullpath": "nintendo_gamecube-Monster Jam - Maximum Destruction (USA)",
+      "name": "Monster Jam: Maximum Destruction",
+      "year": "2002",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Mortal Kombat - Deadly Alliance (USA)",
+      "fullpath": "nintendo_gamecube-Mortal Kombat - Deadly Alliance (USA)",
+      "name": "Mortal Kombat: Deadly Alliance",
+      "year": "2002",
+      "publisher": "Midway",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Mortal Kombat - Deception (USA)",
+      "fullpath": "nintendo_gamecube-Mortal Kombat - Deception (USA)",
+      "name": "Mortal Kombat: Deception",
+      "year": "2005",
+      "publisher": "Midway",
+      "genre": "Fighter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Mr. Driller - Drill Land (Japan)",
+      "fullpath": "nintendo_gamecube-Mr. Driller - Drill Land (Japan)",
+      "name": "Mr. Driller: Drill Land",
+      "year": "2002",
+      "publisher": "Namco",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Muppets - Party Cruise (USA)",
+      "fullpath": "nintendo_gamecube-Muppets - Party Cruise (USA)",
+      "name": "Muppets: Party Cruise",
+      "year": "2003",
+      "publisher": "TDK",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MVP Baseball 2004 (USA)",
+      "fullpath": "nintendo_gamecube-MVP Baseball 2004 (USA)",
+      "name": "MVP Baseball 2004",
+      "year": "2004",
+      "publisher": "EA Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MVP Baseball 2005 (USA)",
+      "fullpath": "nintendo_gamecube-MVP Baseball 2005 (USA)",
+      "name": "MVP Baseball 2005",
+      "year": "2005",
+      "publisher": "EA Sports",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "MX Superfly Featuring Ricky Carmichael (USA)",
+      "fullpath": "nintendo_gamecube-MX Superfly Featuring Ricky Carmichael (USA)",
+      "name": "MX Superfly Featuring Ricky Carmichael",
+      "year": "2002",
+      "publisher": "THQ",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mystic Heroes (USA)",
+      "fullpath": "nintendo_gamecube-Mystic Heroes (USA)",
+      "name": "Mystic Heroes",
+      "year": "2002",
+      "publisher": "Koei",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Namco Museum (USA)",
+      "fullpath": "nintendo_gamecube-Namco Museum (USA)",
+      "name": "Namco Museum",
+      "year": "2002",
+      "publisher": "Namco",
+      "genre": "Compilation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Namco Museum - 50th Anniversary (USA)",
+      "fullpath": "nintendo_gamecube-Namco Museum - 50th Anniversary (USA)",
+      "name": "Namco Museum: 50th Anniversary",
+      "year": "2005",
+      "publisher": "Namco",
+      "genre": "Compilation",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Naruto - Clash of Ninja (USA)",
+      "fullpath": "nintendo_gamecube-Naruto - Clash of Ninja (USA)",
+      "name": "Naruto: Clash of Ninja",
+      "year": "2003",
+      "publisher": "Tomy",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Naruto - Clash of Ninja 2 (USA)",
+      "fullpath": "nintendo_gamecube-Naruto - Clash of Ninja 2 (USA)",
+      "name": "Naruto: Clash of Ninja 2",
+      "year": "2003",
+      "publisher": "Tomy",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Naruto - Gekitou Ninja Taisen! 3 (Japan)",
+      "fullpath": "nintendo_gamecube-Naruto - Gekitou Ninja Taisen! 3 (Japan)",
+      "name": "Naruto: Gekitou Ninja Taisen! 3",
+      "year": "2004",
+      "publisher": "Tomy",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Naruto - Gekitou Ninja Taisen! 4 (Japan)",
+      "fullpath": "nintendo_gamecube-Naruto - Gekitou Ninja Taisen! 4 (Japan)",
+      "name": "Naruto: Gekitou Ninja Taisen! 4",
+      "year": "2005",
+      "publisher": "Tomy",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "NASCAR - Dirt to Daytona (USA)",
+      "fullpath": "nintendo_gamecube-NASCAR - Dirt to Daytona (USA)",
+      "name": "NASCAR: Dirt to Daytona",
+      "year": "2002",
+      "publisher": "Infogrames",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NASCAR 2005 - Chase for the Cup (USA)",
+      "fullpath": "nintendo_gamecube-NASCAR 2005 - Chase for the Cup (USA)",
+      "name": "NASCAR 2005: Chase for the Cup",
+      "year": "2004",
+      "publisher": "EA Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NASCAR Thunder 2003 (USA)",
+      "fullpath": "nintendo_gamecube-NASCAR Thunder 2003 (USA)",
+      "name": "NASCAR Thunder 2003",
+      "year": "2002",
+      "publisher": "EA Sports",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA 2K2 (USA)",
+      "fullpath": "nintendo_gamecube-NBA 2K2 (USA)",
+      "name": "NBA 2K2",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA 2K3 (USA)",
+      "fullpath": "nintendo_gamecube-NBA 2K3 (USA)",
+      "name": "NBA 2K3",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Courtside 2002 (USA)",
+      "fullpath": "nintendo_gamecube-NBA Courtside 2002 (USA)",
+      "name": "NBA Courtside 2002",
+      "year": "2002",
+      "publisher": "Nintendo",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Live 06 (USA)",
+      "fullpath": "nintendo_gamecube-NBA Live 06 (USA)",
+      "name": "NBA Live 06",
+      "year": "2005",
+      "publisher": "EA Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Live 2003 (USA)",
+      "fullpath": "nintendo_gamecube-NBA Live 2003 (USA)",
+      "name": "NBA Live 2003",
+      "year": "2002",
+      "publisher": "EA Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Live 2004 (USA)",
+      "fullpath": "nintendo_gamecube-NBA Live 2004 (USA)",
+      "name": "NBA Live 2004",
+      "year": "2003",
+      "publisher": "EA Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Live 2005 (USA)",
+      "fullpath": "nintendo_gamecube-NBA Live 2005 (USA)",
+      "name": "NBA Live 2005",
+      "year": "2004",
+      "publisher": "EA Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Street (USA)",
+      "fullpath": "nintendo_gamecube-NBA Street (USA)",
+      "name": "NBA Street",
+      "year": "2002",
+      "publisher": "EA Sports BIG",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Street V3 (USA)",
+      "fullpath": "nintendo_gamecube-NBA Street V3 (USA)",
+      "name": "NBA Street V3",
+      "year": "2005",
+      "publisher": "EA Sports BIG",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NBA Street Vol. 2 (USA)",
+      "fullpath": "nintendo_gamecube-NBA Street Vol. 2 (USA)",
+      "name": "NBA Street Vol. 2",
+      "year": "2003",
+      "publisher": "EA Sports BIG",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NCAA College Basketball 2K3 (USA)",
+      "fullpath": "nintendo_gamecube-NCAA College Basketball 2K3 (USA)",
+      "name": "NCAA College Basketball 2K3",
+      "year": "2002",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NCAA College Football 2K3 (USA)",
+      "fullpath": "nintendo_gamecube-NCAA College Football 2K3 (USA)",
+      "name": "NCAA College Football 2K3",
+      "year": "2002",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NCAA Football 2003 (USA)",
+      "fullpath": "nintendo_gamecube-NCAA Football 2003 (USA)",
+      "name": "NCAA Football 2003",
+      "year": "2002",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NCAA Football 2004 (USA)",
+      "fullpath": "nintendo_gamecube-NCAA Football 2004 (USA)",
+      "name": "NCAA Football 2004",
+      "year": "2003",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NCAA Football 2005 (USA)",
+      "fullpath": "nintendo_gamecube-NCAA Football 2005 (USA)",
+      "name": "NCAA Football 2005",
+      "year": "2004",
+      "publisher": "EA Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Need for Speed - Carbon (USA)",
+      "fullpath": "nintendo_gamecube-Need for Speed - Carbon (USA)",
+      "name": "Need for Speed: Carbon",
+      "year": "2006",
+      "publisher": "Electronic Arts",
+      "genre": "Driving",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Need for Speed - Hot Pursuit 2 (USA)",
+      "fullpath": "nintendo_gamecube-Need for Speed - Hot Pursuit 2 (USA)",
+      "name": "Need for Speed: Hot Pursuit 2",
+      "year": "2002",
+      "publisher": "EA Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Need for Speed - Most Wanted (USA)",
+      "fullpath": "nintendo_gamecube-Need for Speed - Most Wanted (USA)",
+      "name": "Need for Speed: Most Wanted",
+      "year": "2005",
+      "publisher": "Electronic Arts",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Need for Speed - Underground (USA)",
+      "fullpath": "nintendo_gamecube-Need for Speed - Underground (USA)",
+      "name": "Need for Speed: Underground",
+      "year": "2003",
+      "publisher": "EA Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Need for Speed - Underground 2 (USA)",
+      "fullpath": "nintendo_gamecube-Need for Speed - Underground 2 (USA)",
+      "name": "Need for Speed: Underground 2",
+      "year": "2004",
+      "publisher": "EA Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Neighbours From Hell (Europe)",
+      "fullpath": "nintendo_gamecube-Neighbours From Hell (Europe)",
+      "name": "Neighbours From Hell",
+      "year": "2005",
+      "publisher": "JoWooD Productions",
+      "genre": "Strategy",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "NFL 2K3 (USA)",
+      "fullpath": "nintendo_gamecube-NFL 2K3 (USA)",
+      "name": "NFL 2K3",
+      "year": "2002",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Blitz 2002 (USA)",
+      "fullpath": "nintendo_gamecube-NFL Blitz 2002 (USA)",
+      "name": "NFL Blitz 2002",
+      "year": "2002",
+      "publisher": "Midway",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Blitz 2003 (USA)",
+      "fullpath": "nintendo_gamecube-NFL Blitz 2003 (USA)",
+      "name": "NFL Blitz 2003",
+      "year": "2002",
+      "publisher": "Midway Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Blitz Pro (USA)",
+      "fullpath": "nintendo_gamecube-NFL Blitz Pro (USA)",
+      "name": "NFL Blitz Pro",
+      "year": "2003",
+      "publisher": "Midway Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Quarterback Club 2002 (USA)",
+      "fullpath": "nintendo_gamecube-NFL Quarterback Club 2002 (USA)",
+      "name": "NFL Quarterback Club 2002",
+      "year": "2001",
+      "publisher": "Acclaim Sports",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Street (USA)",
+      "fullpath": "nintendo_gamecube-NFL Street (USA)",
+      "name": "NFL Street",
+      "year": "2004",
+      "publisher": "EA Sports BIG",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NFL Street 2 (USA)",
+      "fullpath": "nintendo_gamecube-NFL Street 2 (USA)",
+      "name": "NFL Street 2",
+      "year": "2004",
+      "publisher": "EA Sports BIG",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL 06 (USA)",
+      "fullpath": "nintendo_gamecube-NHL 06 (USA)",
+      "name": "NHL 06",
+      "year": "2005",
+      "publisher": "EA Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "NHL 2003 (USA)",
+      "fullpath": "nintendo_gamecube-NHL 2003 (USA)",
+      "name": "NHL 2003",
+      "year": "2002",
+      "publisher": "EA Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL 2004 (USA)",
+      "fullpath": "nintendo_gamecube-NHL 2004 (USA)",
+      "name": "NHL 2004",
+      "year": "2003",
+      "publisher": "EA Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL 2005 (USA)",
+      "fullpath": "nintendo_gamecube-NHL 2005 (USA)",
+      "name": "NHL 2005",
+      "year": "2004",
+      "publisher": "EA Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL 2K3 (USA)",
+      "fullpath": "nintendo_gamecube-NHL 2K3 (USA)",
+      "name": "NHL 2K3",
+      "year": "2002",
+      "publisher": "Sega Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL Hitz 2002 (USA)",
+      "fullpath": "nintendo_gamecube-NHL Hitz 2002 (USA)",
+      "name": "NHL Hitz 2002",
+      "year": "2001",
+      "publisher": "Midway",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL Hitz 2003 (USA)",
+      "fullpath": "nintendo_gamecube-NHL Hitz 2003 (USA)",
+      "name": "NHL Hitz 2003",
+      "year": "2002",
+      "publisher": "Midway Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "NHL Hitz Pro (USA)",
+      "fullpath": "nintendo_gamecube-NHL Hitz Pro (USA)",
+      "name": "NHL Hitz Pro",
+      "year": "2003",
+      "publisher": "Midway Sports",
+      "genre": "Sports/Hockey",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Nickelodeon Party Blast (USA)",
+      "fullpath": "nintendo_gamecube-Nickelodeon Party Blast (USA)",
+      "name": "Nickelodeon Party Blast",
+      "year": "2002",
+      "publisher": "Infogrames",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Nicktoons - Battle for Volcano Island (USA)",
+      "fullpath": "nintendo_gamecube-Nicktoons - Battle for Volcano Island (USA)",
+      "name": "Nicktoons: Battle for Volcano Island",
+      "year": "2006",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Nicktoons Unite! (USA)",
+      "fullpath": "nintendo_gamecube-Nicktoons Unite! (USA)",
+      "name": "Nicktoons Unite!",
+      "year": "2005",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Nintendo Puzzle Collection (Japan)",
+      "fullpath": "nintendo_gamecube-Nintendo Puzzle Collection (Japan)",
+      "name": "Nintendo Puzzle Collection",
+      "year": "2003",
+      "publisher": "Nintendo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Odama (USA)",
+      "fullpath": "nintendo_gamecube-Odama (USA)",
+      "name": "Odama",
+      "year": "2006",
+      "publisher": "Nintendo",
+      "genre": "Pinball",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "One Piece - Grand Adventure (USA)",
+      "fullpath": "nintendo_gamecube-One Piece - Grand Adventure (USA)",
+      "name": "One Piece: Grand Adventure",
+      "year": "2006",
+      "publisher": "Bandai Namco Games",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "One Piece - Grand Battle (USA)",
+      "fullpath": "nintendo_gamecube-One Piece - Grand Battle (USA)",
+      "name": "One Piece: Grand Battle",
+      "year": "2005",
+      "publisher": "Bandai",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "One Piece - Grand Battle 3 (Japan)",
+      "fullpath": "nintendo_gamecube-One Piece - Grand Battle 3 (Japan)",
+      "name": "One Piece: Grand Battle 3",
+      "year": "2003",
+      "publisher": "Bandai",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "One Piece - Pirates Carnival (USA)",
+      "fullpath": "nintendo_gamecube-One Piece - Pirates Carnival (USA)",
+      "name": "One Piece: Pirates Carnival",
+      "year": "2006",
+      "publisher": "Bandai Namco Games",
+      "genre": "Fighter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "One Piece - Treasure Battle! (Japan)",
+      "fullpath": "nintendo_gamecube-One Piece - Treasure Battle! (Japan)",
+      "name": "One Piece: Treasure Battle!",
+      "year": "2002",
+      "publisher": "Bandai",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Open Season (USA)",
+      "fullpath": "nintendo_gamecube-Open Season (USA)",
+      "name": "Open Season",
+      "year": "2006",
+      "publisher": "Ubisoft",
+      "genre": "Platform",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Outlaw Golf (USA)",
+      "fullpath": "nintendo_gamecube-Outlaw Golf (USA)",
+      "name": "Outlaw Golf",
+      "year": "2002",
+      "publisher": "Simon & Schuster Interactive",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Over the Hedge (USA)",
+      "fullpath": "nintendo_gamecube-Over the Hedge (USA)",
+      "name": "Over the Hedge",
+      "year": "2006",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "P.N. 03 (USA)",
+      "fullpath": "nintendo_gamecube-P.N. 03 (USA)",
+      "name": "P.N. 03",
+      "year": "2003",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Pac-Man Fever (USA)",
+      "fullpath": "nintendo_gamecube-Pac-Man Fever (USA)",
+      "name": "Pac-Man Fever",
+      "year": "2002",
+      "publisher": "Namco",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pac-Man Vs. (USA)",
+      "fullpath": "nintendo_gamecube-Pac-Man Vs. (USA)",
+      "name": "Pac-Man Vs.",
+      "year": "2003",
+      "publisher": "Namco",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pac-Man World 2 (USA)",
+      "fullpath": "nintendo_gamecube-Pac-Man World 2 (USA)",
+      "name": "Pac-Man World 2",
+      "year": "2002",
+      "publisher": "Namco",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pac-Man World 3 (USA)",
+      "fullpath": "nintendo_gamecube-Pac-Man World 3 (USA)",
+      "name": "Pac-Man World 3",
+      "year": "2005",
+      "publisher": "Namco",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pac-Man World Rally (USA)",
+      "fullpath": "nintendo_gamecube-Pac-Man World Rally (USA)",
+      "name": "Pac-Man World Rally",
+      "year": "2006",
+      "publisher": "Bandai Namco Games",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Paper Mario - The Thousand-Year Door (USA)",
+      "fullpath": "nintendo_gamecube-Paper Mario - The Thousand-Year Door (USA)",
+      "name": "Paper Mario: The Thousand-Year Door",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Peter Jackson's King Kong (USA)",
+      "fullpath": "nintendo_gamecube-Peter Jackson's King Kong (USA)",
+      "name": "Peter Jackson's King Kong",
+      "year": "2005",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Phantasy Star Online Episode I & II (USA)",
+      "fullpath": "nintendo_gamecube-Phantasy Star Online Episode I & II (USA)",
+      "name": "Phantasy Star Online Episode I & II",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Phantasy Star Online Episode I & II Plus (USA)",
+      "fullpath": "nintendo_gamecube-Phantasy Star Online Episode I & II Plus (USA)",
+      "name": "Phantasy Star Online Episode I & II Plus",
+      "year": "2004",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Phantasy Star Online Episode III - C.A.R.D. Revolution (USA)",
+      "fullpath": "nintendo_gamecube-Phantasy Star Online Episode III - C.A.R.D. Revolution (USA)",
+      "name": "Phantasy Star Online Episode III: C.A.R.D. Revolution",
+      "year": "2004",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Piglet's Big Game (USA)",
+      "fullpath": "nintendo_gamecube-Piglet's Big Game (USA)",
+      "name": "Piglet's Big Game",
+      "year": "2003",
+      "publisher": "Gotham Games",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pikmin (USA)",
+      "fullpath": "nintendo_gamecube-Pikmin (USA)",
+      "name": "Pikmin",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pikmin 2 (USA)",
+      "fullpath": "nintendo_gamecube-Pikmin 2 (USA)",
+      "name": "Pikmin 2",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Strategy",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pinball Hall of Fame - The Gottlieb Collection (USA)",
+      "fullpath": "nintendo_gamecube-Pinball Hall of Fame - The Gottlieb Collection (USA)",
+      "name": "Pinball Hall of Fame: The Gottlieb Collection",
+      "year": "2005",
+      "publisher": "Crave Entertainment",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pitfall - The Lost Expedition (USA)",
+      "fullpath": "nintendo_gamecube-Pitfall - The Lost Expedition (USA)",
+      "name": "Pitfall: The Lost Expedition",
+      "year": "2004",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon Box - Ruby & Sapphire (USA)",
+      "fullpath": "nintendo_gamecube-Pokemon Box - Ruby & Sapphire (USA)",
+      "name": "Pokemon Box: Ruby & Sapphire",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon Channel (USA)",
+      "fullpath": "nintendo_gamecube-Pokemon Channel (USA)",
+      "name": "Pokemon Channel",
+      "year": "2003",
+      "publisher": "Nintendo",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon Colosseum (USA)",
+      "fullpath": "nintendo_gamecube-Pokemon Colosseum (USA)",
+      "name": "Pokemon Colosseum",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pokemon XD - Gale of Darkness (USA)",
+      "fullpath": "nintendo_gamecube-Pokemon XD - Gale of Darkness (USA)",
+      "name": "Pokemon XD: Gale of Darkness",
+      "year": "2005",
+      "publisher": "Nintendo",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Polar Express, The (USA)",
+      "fullpath": "nintendo_gamecube-Polar Express, The (USA)",
+      "name": "Polar Express, The",
+      "year": "2004",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pool Edge (Japan)",
+      "fullpath": "nintendo_gamecube-Pool Edge (Japan)",
+      "name": "Pool Edge",
+      "year": "2002",
+      "publisher": "MediaKite",
+      "genre": "Sports/Pool and Dart",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pool Paradise (USA)",
+      "fullpath": "nintendo_gamecube-Pool Paradise (USA)",
+      "name": "Pool Paradise",
+      "year": "2004",
+      "publisher": "Ignition Entertainment",
+      "genre": "Sports/Pool and Dart",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Power Rangers - Dino Thunder (USA)",
+      "fullpath": "nintendo_gamecube-Power Rangers - Dino Thunder (USA)",
+      "name": "Power Rangers: Dino Thunder",
+      "year": "2004",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Powerpuff Girls, The - Relish Rampage (USA)",
+      "fullpath": "nintendo_gamecube-Powerpuff Girls, The - Relish Rampage (USA)",
+      "name": "Powerpuff Girls, The: Relish Rampage",
+      "year": "2003",
+      "publisher": "Bam! Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Prince of Persia - The Sands of Time (USA)",
+      "fullpath": "nintendo_gamecube-Prince of Persia - The Sands of Time (USA)",
+      "name": "Prince of Persia: The Sands of Time",
+      "year": "2003",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Prince of Persia - The Two Thrones (USA)",
+      "fullpath": "nintendo_gamecube-Prince of Persia - The Two Thrones (USA)",
+      "name": "Prince of Persia: The Two Thrones",
+      "year": "2005",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Prince of Persia - Warrior Within (USA)",
+      "fullpath": "nintendo_gamecube-Prince of Persia - Warrior Within (USA)",
+      "name": "Prince of Persia: Warrior Within",
+      "year": "2004",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Pro Rally (USA)",
+      "fullpath": "nintendo_gamecube-Pro Rally (USA)",
+      "name": "Pro Rally",
+      "year": "2002",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Puyo Pop Fever (USA)",
+      "fullpath": "nintendo_gamecube-Puyo Pop Fever (USA)",
+      "name": "Puyo Pop Fever",
+      "year": "2004",
+      "publisher": "Sega",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "R - Racing Evolution (USA)",
+      "fullpath": "nintendo_gamecube-R - Racing Evolution (USA)",
+      "name": "R: Racing Evolution",
+      "year": "2003",
+      "publisher": "Namco",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Radirgy Generic (Japan)",
+      "fullpath": "nintendo_gamecube-Radirgy Generic (Japan)",
+      "name": "Radirgy Generic",
+      "year": "2006",
+      "publisher": "Milestone Inc.",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Rally Championship (USA)",
+      "fullpath": "nintendo_gamecube-Rally Championship (USA)",
+      "name": "Rally Championship",
+      "year": "2003",
+      "publisher": "Conspiracy Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rampage - Total Destruction (USA)",
+      "fullpath": "nintendo_gamecube-Rampage - Total Destruction (USA)",
+      "name": "Rampage: Total Destruction",
+      "year": "2006",
+      "publisher": "Midway",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Rave Master (USA)",
+      "fullpath": "nintendo_gamecube-Rave Master (USA)",
+      "name": "Rave Master",
+      "year": "2005",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Rayman 3 - Hoodlum Havoc (USA)",
+      "fullpath": "nintendo_gamecube-Rayman 3 - Hoodlum Havoc (USA)",
+      "name": "Rayman 3: Hoodlum Havoc",
+      "year": "2003",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rayman Arena (USA)",
+      "fullpath": "nintendo_gamecube-Rayman Arena (USA)",
+      "name": "Rayman Arena",
+      "year": "2002",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Party",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Red Faction II (USA)",
+      "fullpath": "nintendo_gamecube-Red Faction II (USA)",
+      "name": "Red Faction II",
+      "year": "2003",
+      "publisher": "THQ",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "RedCard 2003 (USA)",
+      "fullpath": "nintendo_gamecube-RedCard 2003 (USA)",
+      "name": "RedCard 2003",
+      "year": "2002",
+      "publisher": "Midway Sports",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rei Fighter Gekitsui Senki (Japan)",
+      "fullpath": "nintendo_gamecube-Rei Fighter Gekitsui Senki (Japan)",
+      "name": "Rei Fighter Gekitsui Senki",
+      "year": "2003",
+      "publisher": "Global A Entertainment Inc.",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Reign of Fire (USA)",
+      "fullpath": "nintendo_gamecube-Reign of Fire (USA)",
+      "name": "Reign of Fire",
+      "year": "2002",
+      "publisher": "Bam! Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Resident Evil (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Resident Evil (USA) (Disc 1)",
+      "name": "Resident Evil",
+      "year": "2002",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Resident Evil (USA) (Disc 2)",
+      "name": "Resident Evil",
+      "year": "2002",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil - Code - Veronica X (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Resident Evil - Code - Veronica X (USA) (Disc 1)",
+      "name": "Resident Evil - Code: Veronica X",
+      "year": "2003",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil - Code - Veronica X (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Resident Evil - Code - Veronica X (USA) (Disc 2)",
+      "name": "Resident Evil - Code: Veronica X",
+      "year": "2003",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil 2 (USA)",
+      "fullpath": "nintendo_gamecube-Resident Evil 2 (USA)",
+      "name": "Resident Evil 2",
+      "year": "2003",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil 3 - Nemesis (USA)",
+      "fullpath": "nintendo_gamecube-Resident Evil 3 - Nemesis (USA)",
+      "name": "Resident Evil 3: Nemesis",
+      "year": "2003",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil 4 (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Resident Evil 4 (USA) (Disc 1)",
+      "name": "Resident Evil 4",
+      "year": "2005",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil 4 (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Resident Evil 4 (USA) (Disc 2)",
+      "name": "Resident Evil 4",
+      "year": "2005",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil Zero (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Resident Evil Zero (USA) (Disc 1)",
+      "name": "Resident Evil Zero",
+      "year": "2002",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Resident Evil Zero (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Resident Evil Zero (USA) (Disc 2)",
+      "name": "Resident Evil Zero",
+      "year": "2002",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Ribbit King (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Ribbit King (USA) (Disc 1)",
+      "name": "Ribbit King",
+      "year": "2004",
+      "publisher": "Bandai",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ribbit King (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Ribbit King (USA) (Disc 2)",
+      "name": "Ribbit King",
+      "year": "2004",
+      "publisher": "Bandai",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Road Trip - The Arcade Edition (USA)",
+      "fullpath": "nintendo_gamecube-Road Trip - The Arcade Edition (USA)",
+      "name": "Road Trip: The Arcade Edition",
+      "year": "2004",
+      "publisher": "Conspiracy Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "RoadKill (USA)",
+      "fullpath": "nintendo_gamecube-RoadKill (USA)",
+      "name": "RoadKill",
+      "year": "2003",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Robocop - Aratanaru Kiki (Japan)",
+      "fullpath": "nintendo_gamecube-Robocop - Aratanaru Kiki (Japan)",
+      "name": "Robocop: Aratanaru Kiki",
+      "year": "2004",
+      "publisher": "Titus Japan K.K.",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Robotech - Battlecry (USA)",
+      "fullpath": "nintendo_gamecube-Robotech - Battlecry (USA)",
+      "name": "Robotech: Battlecry",
+      "year": "2002",
+      "publisher": "TDK",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Robots (USA)",
+      "fullpath": "nintendo_gamecube-Robots (USA)",
+      "name": "Robots",
+      "year": "2005",
+      "publisher": "Sierra",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rocket Power - Beach Bandits (USA)",
+      "fullpath": "nintendo_gamecube-Rocket Power - Beach Bandits (USA)",
+      "name": "Rocket Power: Beach Bandits",
+      "year": "2002",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Rocky (USA)",
+      "fullpath": "nintendo_gamecube-Rocky (USA)",
+      "name": "Rocky",
+      "year": "2002",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Sports/Boxing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Rogue Ops (USA)",
+      "fullpath": "nintendo_gamecube-Rogue Ops (USA)",
+      "name": "Rogue Ops",
+      "year": "2003",
+      "publisher": "Kemco",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Rugrats - Royal Ransom (USA)",
+      "fullpath": "nintendo_gamecube-Rugrats - Royal Ransom (USA)",
+      "name": "Rugrats: Royal Ransom",
+      "year": "2002",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Samurai Jack - The Shadow of Aku (USA)",
+      "fullpath": "nintendo_gamecube-Samurai Jack - The Shadow of Aku (USA)",
+      "name": "Samurai Jack: The Shadow of Aku",
+      "year": "2004",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Scaler (USA)",
+      "fullpath": "nintendo_gamecube-Scaler (USA)",
+      "name": "Scaler",
+      "year": "2004",
+      "publisher": "Global Star Software",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Scooby-Doo! - Mystery Mayhem (USA)",
+      "fullpath": "nintendo_gamecube-Scooby-Doo! - Mystery Mayhem (USA)",
+      "name": "Scooby-Doo!: Mystery Mayhem",
+      "year": "2004",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Scooby-Doo! - Night of 100 Frights (USA)",
+      "fullpath": "nintendo_gamecube-Scooby-Doo! - Night of 100 Frights (USA)",
+      "name": "Scooby-Doo!: Night of 100 Frights",
+      "year": "2002",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Scooby-Doo! - Unmasked (USA)",
+      "fullpath": "nintendo_gamecube-Scooby-Doo! - Unmasked (USA)",
+      "name": "Scooby-Doo!: Unmasked",
+      "year": "2005",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Scorpion King, The - Rise of the Akkadian (USA)",
+      "fullpath": "nintendo_gamecube-Scorpion King, The - Rise of the Akkadian (USA)",
+      "name": "Scorpion King, The: Rise of the Akkadian",
+      "year": "2002",
+      "publisher": "Universal Interactive",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "SeaWorld Adventure Parks - Shamu's Deep Sea Adventures (USA)",
+      "fullpath": "nintendo_gamecube-SeaWorld Adventure Parks - Shamu's Deep Sea Adventures (USA)",
+      "name": "SeaWorld Adventure Parks: Shamu's Deep Sea Adventures",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Second Sight (USA)",
+      "fullpath": "nintendo_gamecube-Second Sight (USA)",
+      "name": "Second Sight",
+      "year": "2004",
+      "publisher": "Codemasters",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sega Soccer Slam (USA)",
+      "fullpath": "nintendo_gamecube-Sega Soccer Slam (USA)",
+      "name": "Sega Soccer Slam",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Serious Sam - Next Encounter (USA)",
+      "fullpath": "nintendo_gamecube-Serious Sam - Next Encounter (USA)",
+      "name": "Serious Sam: Next Encounter",
+      "year": "2004",
+      "publisher": "Global Star Software",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Shadow the Hedgehog (USA)",
+      "fullpath": "nintendo_gamecube-Shadow the Hedgehog (USA)",
+      "name": "Shadow the Hedgehog",
+      "year": "2005",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Shaman King - Soul Fight (Japan)",
+      "fullpath": "nintendo_gamecube-Shaman King - Soul Fight (Japan)",
+      "name": "Shaman King: Soul Fight",
+      "year": "2003",
+      "publisher": "Bandai",
+      "genre": "Platform",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Shark Tale (USA)",
+      "fullpath": "nintendo_gamecube-Shark Tale (USA)",
+      "name": "Shark Tale",
+      "year": "2004",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shikigami no Shiro II (Japan)",
+      "fullpath": "nintendo_gamecube-Shikigami no Shiro II (Japan)",
+      "name": "Shikigami no Shiro II",
+      "year": "2003",
+      "publisher": "Kids Station",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Shinseiki GPX Cyber Formula - Road to the Evolution (Japan)",
+      "fullpath": "nintendo_gamecube-Shinseiki GPX Cyber Formula - Road to the Evolution (Japan)",
+      "name": "Shinseiki GPX Cyber Formula: Road to the Evolution",
+      "year": "2004",
+      "publisher": "Sunrise Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shrek - Extra Large (USA)",
+      "fullpath": "nintendo_gamecube-Shrek - Extra Large (USA)",
+      "name": "Shrek: Extra Large",
+      "year": "2002",
+      "publisher": "TDK",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Shrek 2 (USA)",
+      "fullpath": "nintendo_gamecube-Shrek 2 (USA)",
+      "name": "Shrek 2",
+      "year": "2004",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shrek Smash n' Crash Racing (USA)",
+      "fullpath": "nintendo_gamecube-Shrek Smash n' Crash Racing (USA)",
+      "name": "Shrek Smash n' Crash Racing",
+      "year": "2006",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shrek Super Party (USA)",
+      "fullpath": "nintendo_gamecube-Shrek Super Party (USA)",
+      "name": "Shrek Super Party",
+      "year": "2003",
+      "publisher": "TDK",
+      "genre": "Party",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Shrek SuperSlam (USA)",
+      "fullpath": "nintendo_gamecube-Shrek SuperSlam (USA)",
+      "name": "Shrek SuperSlam",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Simpsons, The - Hit & Run (USA)",
+      "fullpath": "nintendo_gamecube-Simpsons, The - Hit & Run (USA)",
+      "name": "Simpsons, The: Hit & Run",
+      "year": "2003",
+      "publisher": "Vivendi Universal Games",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Simpsons, The - Road Rage (USA)",
+      "fullpath": "nintendo_gamecube-Simpsons, The - Road Rage (USA)",
+      "name": "Simpsons, The: Road Rage",
+      "year": "2001",
+      "publisher": "Electronic Arts",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sims 2, The (USA)",
+      "fullpath": "nintendo_gamecube-Sims 2, The (USA)",
+      "name": "Sims 2, The",
+      "year": "2005",
+      "publisher": "Electronic Arts",
+      "genre": "Virtual Life",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sims 2, The - Pets (USA)",
+      "fullpath": "nintendo_gamecube-Sims 2, The - Pets (USA)",
+      "name": "Sims 2, The: Pets",
+      "year": "2006",
+      "publisher": "Electronic Arts",
+      "genre": "Virtual Life",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sims, The (USA)",
+      "fullpath": "nintendo_gamecube-Sims, The (USA)",
+      "name": "Sims, The",
+      "year": "2003",
+      "publisher": "EA Games",
+      "genre": "Virtual Life",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sims, The - Bustin' Out (USA)",
+      "fullpath": "nintendo_gamecube-Sims, The - Bustin' Out (USA)",
+      "name": "Sims, The: Bustin' Out",
+      "year": "2003",
+      "publisher": "EA Games",
+      "genre": "Virtual Life",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Skies of Arcadia Legends (USA)",
+      "fullpath": "nintendo_gamecube-Skies of Arcadia Legends (USA)",
+      "name": "Skies of Arcadia Legends",
+      "year": "2003",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Smashing Drive (USA)",
+      "fullpath": "nintendo_gamecube-Smashing Drive (USA)",
+      "name": "Smashing Drive",
+      "year": "2002",
+      "publisher": "Namco",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Smuggler's Run - Warzones (USA)",
+      "fullpath": "nintendo_gamecube-Smuggler's Run - Warzones (USA)",
+      "name": "Smuggler's Run: Warzones",
+      "year": "2002",
+      "publisher": "Rockstar",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Sonic Adventure 2 - Battle (USA)",
+      "fullpath": "nintendo_gamecube-Sonic Adventure 2 - Battle (USA)",
+      "name": "Sonic Adventure 2: Battle",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic Adventure DX - Director's Cut (USA)",
+      "fullpath": "nintendo_gamecube-Sonic Adventure DX - Director's Cut (USA)",
+      "name": "Sonic Adventure DX: Director's Cut",
+      "year": "2003",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic Gems Collection (USA)",
+      "fullpath": "nintendo_gamecube-Sonic Gems Collection (USA)",
+      "name": "Sonic Gems Collection",
+      "year": "2005",
+      "publisher": "Sega",
+      "genre": "Compilation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic Heroes (USA)",
+      "fullpath": "nintendo_gamecube-Sonic Heroes (USA)",
+      "name": "Sonic Heroes",
+      "year": "2004",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic Mega Collection (USA)",
+      "fullpath": "nintendo_gamecube-Sonic Mega Collection (USA)",
+      "name": "Sonic Mega Collection",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Compilation",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sonic Riders (USA)",
+      "fullpath": "nintendo_gamecube-Sonic Riders (USA)",
+      "name": "Sonic Riders",
+      "year": "2006",
+      "publisher": "Sega",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Soul Calibur II (USA)",
+      "fullpath": "nintendo_gamecube-Soul Calibur II (USA)",
+      "name": "Soul Calibur II",
+      "year": "2003",
+      "publisher": "Namco",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Space Raiders (USA)",
+      "fullpath": "nintendo_gamecube-Space Raiders (USA)",
+      "name": "Space Raiders",
+      "year": "2004",
+      "publisher": "Mastiff",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Spartan - Total Warrior (USA)",
+      "fullpath": "nintendo_gamecube-Spartan - Total Warrior (USA)",
+      "name": "Spartan: Total Warrior",
+      "year": "2005",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Spawn - Armageddon (USA)",
+      "fullpath": "nintendo_gamecube-Spawn - Armageddon (USA)",
+      "name": "Spawn: Armageddon",
+      "year": "2003",
+      "publisher": "Namco",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Speed Challenge - Jacques Villeneuve's Racing Vision (Europe)",
+      "fullpath": "nintendo_gamecube-Speed Challenge - Jacques Villeneuve's Racing Vision (Europe)",
+      "name": "Speed Challenge: Jacques Villeneuve's Racing Vision",
+      "year": "2002",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Speed Kings (USA)",
+      "fullpath": "nintendo_gamecube-Speed Kings (USA)",
+      "name": "Speed Kings",
+      "year": "2003",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sphinx and the Cursed Mummy (USA)",
+      "fullpath": "nintendo_gamecube-Sphinx and the Cursed Mummy (USA)",
+      "name": "Sphinx and the Cursed Mummy",
+      "year": "2003",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Spider-Man (USA)",
+      "fullpath": "nintendo_gamecube-Spider-Man (USA)",
+      "name": "Spider-Man",
+      "year": "2002",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spider-Man 2 (USA)",
+      "fullpath": "nintendo_gamecube-Spider-Man 2 (USA)",
+      "name": "Spider-Man 2",
+      "year": "2004",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Spirits & Spells (USA)",
+      "fullpath": "nintendo_gamecube-Spirits & Spells (USA)",
+      "name": "Spirits & Spells",
+      "year": "2003",
+      "publisher": "Dreamcatcher",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SpongeBob SquarePants - Battle for Bikini Bottom (USA)",
+      "fullpath": "nintendo_gamecube-SpongeBob SquarePants - Battle for Bikini Bottom (USA)",
+      "name": "SpongeBob SquarePants: Battle for Bikini Bottom",
+      "year": "2003",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SpongeBob SquarePants - Creature from the Krusty Krab (USA)",
+      "fullpath": "nintendo_gamecube-SpongeBob SquarePants - Creature from the Krusty Krab (USA)",
+      "name": "SpongeBob SquarePants: Creature from the Krusty Krab",
+      "year": "2006",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SpongeBob SquarePants - Lights, Camera, Pants! (USA)",
+      "fullpath": "nintendo_gamecube-SpongeBob SquarePants - Lights, Camera, Pants! (USA)",
+      "name": "SpongeBob SquarePants: Lights, Camera, Pants!",
+      "year": "2005",
+      "publisher": "THQ",
+      "genre": "Party",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SpongeBob SquarePants - Revenge of the Flying Dutchman (USA)",
+      "fullpath": "nintendo_gamecube-SpongeBob SquarePants - Revenge of the Flying Dutchman (USA)",
+      "name": "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+      "year": "2002",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SpongeBob SquarePants - The Movie (USA)",
+      "fullpath": "nintendo_gamecube-SpongeBob SquarePants - The Movie (USA)",
+      "name": "SpongeBob SquarePants: The Movie",
+      "year": "2004",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spy Hunter (USA)",
+      "fullpath": "nintendo_gamecube-Spy Hunter (USA)",
+      "name": "Spy Hunter",
+      "year": "2002",
+      "publisher": "Midway",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Spyro - A Hero's Tail (USA)",
+      "fullpath": "nintendo_gamecube-Spyro - A Hero's Tail (USA)",
+      "name": "Spyro: A Hero's Tail",
+      "year": "2004",
+      "publisher": "Vivendi Universal Games",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spyro - Enter the Dragonfly (USA)",
+      "fullpath": "nintendo_gamecube-Spyro - Enter the Dragonfly (USA)",
+      "name": "Spyro: Enter the Dragonfly",
+      "year": "2002",
+      "publisher": "Universal Interactive",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SSX 3 (USA)",
+      "fullpath": "nintendo_gamecube-SSX 3 (USA)",
+      "name": "SSX 3",
+      "year": "2003",
+      "publisher": "EA Sports BIG",
+      "genre": "Sports/Snowboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SSX On Tour (USA)",
+      "fullpath": "nintendo_gamecube-SSX On Tour (USA)",
+      "name": "SSX On Tour",
+      "year": "2005",
+      "publisher": "EA Sports BIG",
+      "genre": "Sports/Snowboarding",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "SSX Tricky (USA)",
+      "fullpath": "nintendo_gamecube-SSX Tricky (USA)",
+      "name": "SSX Tricky",
+      "year": "2001",
+      "publisher": "EA Sports BIG",
+      "genre": "Sports/Snowboarding",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Star Fox Adventures (USA)",
+      "fullpath": "nintendo_gamecube-Star Fox Adventures (USA)",
+      "name": "Star Fox Adventures",
+      "year": "2002",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Star Fox Assault (USA)",
+      "fullpath": "nintendo_gamecube-Star Fox Assault (USA)",
+      "name": "Star Fox Assault",
+      "year": "2005",
+      "publisher": "Nintendo",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Star Wars - Bounty Hunter (USA)",
+      "fullpath": "nintendo_gamecube-Star Wars - Bounty Hunter (USA)",
+      "name": "Star Wars: Bounty Hunter",
+      "year": "2002",
+      "publisher": "LucasArts",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Star Wars - Jedi Knight II - Jedi Outcast (USA)",
+      "fullpath": "nintendo_gamecube-Star Wars - Jedi Knight II - Jedi Outcast (USA)",
+      "name": "Star Wars: Jedi Knight II - Jedi Outcast",
+      "year": "2002",
+      "publisher": "LucasArts",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Star Wars - Rogue Squadron II - Rogue Leader (USA)",
+      "fullpath": "nintendo_gamecube-Star Wars - Rogue Squadron II - Rogue Leader (USA)",
+      "name": "Star Wars: Rogue Squadron II - Rogue Leader",
+      "year": "2001",
+      "publisher": "LucasArts",
+      "genre": "Simulation",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Star Wars - Rogue Squadron III - Rebel Strike (USA)",
+      "fullpath": "nintendo_gamecube-Star Wars - Rogue Squadron III - Rebel Strike (USA)",
+      "name": "Star Wars: Rogue Squadron III - Rebel Strike",
+      "year": "2003",
+      "publisher": "LucasArts",
+      "genre": "Simulation",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Star Wars - The Clone Wars (USA)",
+      "fullpath": "nintendo_gamecube-Star Wars - The Clone Wars (USA)",
+      "name": "Star Wars: The Clone Wars",
+      "year": "2002",
+      "publisher": "LucasArts",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Starsky & Hutch (USA)",
+      "fullpath": "nintendo_gamecube-Starsky & Hutch (USA)",
+      "name": "Starsky & Hutch",
+      "year": "2004",
+      "publisher": "Empire Interactive",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Hoops (USA)",
+      "fullpath": "nintendo_gamecube-Street Hoops (USA)",
+      "name": "Street Hoops",
+      "year": "2002",
+      "publisher": "Activision",
+      "genre": "Sports/Basketball",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Street Racing Syndicate (USA)",
+      "fullpath": "nintendo_gamecube-Street Racing Syndicate (USA)",
+      "name": "Street Racing Syndicate",
+      "year": "2004",
+      "publisher": "Namco",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Strike Force Bowling (USA)",
+      "fullpath": "nintendo_gamecube-Strike Force Bowling (USA)",
+      "name": "Strike Force Bowling",
+      "year": "2005",
+      "publisher": "Crave Entertainment",
+      "genre": "Sports/Bowling",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sum of All Fears, The (USA)",
+      "fullpath": "nintendo_gamecube-Sum of All Fears, The (USA)",
+      "name": "Sum of All Fears, The",
+      "year": "2003",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Summoner - A Goddess Reborn (USA)",
+      "fullpath": "nintendo_gamecube-Summoner - A Goddess Reborn (USA)",
+      "name": "Summoner: A Goddess Reborn",
+      "year": "2003",
+      "publisher": "THQ",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Super Bubble Pop (USA)",
+      "fullpath": "nintendo_gamecube-Super Bubble Pop (USA)",
+      "name": "Super Bubble Pop",
+      "year": "2003",
+      "publisher": "Jaleco Entertainment",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Mario Strikers (USA)",
+      "fullpath": "nintendo_gamecube-Super Mario Strikers (USA)",
+      "name": "Super Mario Strikers",
+      "year": "2005",
+      "publisher": "Nintendo",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Mario Sunshine (USA)",
+      "fullpath": "nintendo_gamecube-Super Mario Sunshine (USA)",
+      "name": "Super Mario Sunshine",
+      "year": "2002",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Monkey Ball (USA)",
+      "fullpath": "nintendo_gamecube-Super Monkey Ball (USA)",
+      "name": "Super Monkey Ball",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Party",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Monkey Ball 2 (USA)",
+      "fullpath": "nintendo_gamecube-Super Monkey Ball 2 (USA)",
+      "name": "Super Monkey Ball 2",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Party",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Monkey Ball Adventure (USA)",
+      "fullpath": "nintendo_gamecube-Super Monkey Ball Adventure (USA)",
+      "name": "Super Monkey Ball Adventure",
+      "year": "2006",
+      "publisher": "Sega",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Super Smash Bros. Melee (USA)",
+      "fullpath": "nintendo_gamecube-Super Smash Bros. Melee (USA)",
+      "name": "Super Smash Bros. Melee",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Superman - Shadow of Apokolips (USA)",
+      "fullpath": "nintendo_gamecube-Superman - Shadow of Apokolips (USA)",
+      "name": "Superman: Shadow of Apokolips",
+      "year": "2003",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Surf's Up (USA)",
+      "fullpath": "nintendo_gamecube-Surf's Up (USA)",
+      "name": "Surf's Up",
+      "year": "2007",
+      "publisher": "Ubisoft",
+      "genre": "Sports/Surfing",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Swingerz Golf (USA)",
+      "fullpath": "nintendo_gamecube-Swingerz Golf (USA)",
+      "name": "Swingerz Golf",
+      "year": "2002",
+      "publisher": "Fresh Games by Eidos Interactive",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "SX Superstar (USA)",
+      "fullpath": "nintendo_gamecube-SX Superstar (USA)",
+      "name": "SX Superstar",
+      "year": "2003",
+      "publisher": "AKA Acclaim",
+      "genre": "Motorcycle",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tak - The Great Juju Challenge (USA)",
+      "fullpath": "nintendo_gamecube-Tak - The Great Juju Challenge (USA)",
+      "name": "Tak: The Great Juju Challenge",
+      "year": "2005",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tak 2 - The Staff of Dreams (USA)",
+      "fullpath": "nintendo_gamecube-Tak 2 - The Staff of Dreams (USA)",
+      "name": "Tak 2: The Staff of Dreams",
+      "year": "2004",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tak and the Power of Juju (USA)",
+      "fullpath": "nintendo_gamecube-Tak and the Power of Juju (USA)",
+      "name": "Tak and the Power of Juju",
+      "year": "2003",
+      "publisher": "THQ",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tales of Symphonia (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Tales of Symphonia (USA) (Disc 1)",
+      "name": "Tales of Symphonia",
+      "year": "2004",
+      "publisher": "Namco",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tales of Symphonia (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Tales of Symphonia (USA) (Disc 2)",
+      "name": "Tales of Symphonia",
+      "year": "2004",
+      "publisher": "Namco",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Taxi 3 (France)",
+      "fullpath": "nintendo_gamecube-Taxi 3 (France)",
+      "name": "Taxi 3",
+      "year": "2003",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Driving",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Taz - Wanted (USA)",
+      "fullpath": "nintendo_gamecube-Taz - Wanted (USA)",
+      "name": "Taz: Wanted",
+      "year": "2002",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Teen Titans (USA)",
+      "fullpath": "nintendo_gamecube-Teen Titans (USA)",
+      "name": "Teen Titans",
+      "year": "2006",
+      "publisher": "THQ",
+      "genre": "Action",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Teenage Mutant Ninja Turtles (USA)",
+      "fullpath": "nintendo_gamecube-Teenage Mutant Ninja Turtles (USA)",
+      "name": "Teenage Mutant Ninja Turtles",
+      "year": "2003",
+      "publisher": "Konami",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1)",
+      "name": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
+      "year": "2004",
+      "publisher": "Konami",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 2)",
+      "name": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
+      "year": "2004",
+      "publisher": "Konami",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 1)",
+      "name": "Teenage Mutant Ninja Turtles 3: Mutant Nightmare",
+      "year": "2005",
+      "publisher": "Konami",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 2)",
+      "name": "Teenage Mutant Ninja Turtles 3: Mutant Nightmare",
+      "year": "2005",
+      "publisher": "Konami",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "Terminator 3 - The Redemption (USA)",
+      "fullpath": "nintendo_gamecube-Terminator 3 - The Redemption (USA)",
+      "name": "Terminator 3: The Redemption",
+      "year": "2004",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tetris Worlds (USA)",
+      "fullpath": "nintendo_gamecube-Tetris Worlds (USA)",
+      "name": "Tetris Worlds",
+      "year": "2002",
+      "publisher": "THQ",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tiger Woods PGA Tour 06 (USA)",
+      "fullpath": "nintendo_gamecube-Tiger Woods PGA Tour 06 (USA)",
+      "name": "Tiger Woods PGA Tour 06",
+      "year": "2005",
+      "publisher": "EA Sports",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tiger Woods PGA Tour 2003 (USA)",
+      "fullpath": "nintendo_gamecube-Tiger Woods PGA Tour 2003 (USA)",
+      "name": "Tiger Woods PGA Tour 2003",
+      "year": "2002",
+      "publisher": "EA Sports",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tiger Woods PGA Tour 2004 (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Tiger Woods PGA Tour 2004 (USA) (Disc 1)",
+      "name": "Tiger Woods PGA Tour 2004",
+      "year": "2003",
+      "publisher": "EA Sports",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tiger Woods PGA Tour 2004 (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Tiger Woods PGA Tour 2004 (USA) (Disc 2)",
+      "name": "Tiger Woods PGA Tour 2004",
+      "year": "2003",
+      "publisher": "EA Sports",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tiger Woods PGA Tour 2005 (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Tiger Woods PGA Tour 2005 (USA) (Disc 1)",
+      "name": "Tiger Woods PGA Tour 2005",
+      "year": "2004",
+      "publisher": "EA Sports",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tiger Woods PGA Tour 2005 (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Tiger Woods PGA Tour 2005 (USA) (Disc 2)",
+      "name": "Tiger Woods PGA Tour 2005",
+      "year": "2004",
+      "publisher": "EA Sports",
+      "genre": "Sports/Golf",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "TimeSplitters - Future Perfect (USA)",
+      "fullpath": "nintendo_gamecube-TimeSplitters - Future Perfect (USA)",
+      "name": "TimeSplitters: Future Perfect",
+      "year": "2005",
+      "publisher": "EA Games",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "TimeSplitters 2 (USA)",
+      "fullpath": "nintendo_gamecube-TimeSplitters 2 (USA)",
+      "name": "TimeSplitters 2",
+      "year": "2002",
+      "publisher": "Eidos Interactive",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "TMNT (USA)",
+      "fullpath": "nintendo_gamecube-TMNT (USA)",
+      "name": "TMNT",
+      "year": "2007",
+      "publisher": "Ubisoft",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "TMNT - Mutant Melee (USA)",
+      "fullpath": "nintendo_gamecube-TMNT - Mutant Melee (USA)",
+      "name": "TMNT: Mutant Melee",
+      "year": "2005",
+      "publisher": "Konami",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tom & Jerry in War of the Whiskers (USA)",
+      "fullpath": "nintendo_gamecube-Tom & Jerry in War of the Whiskers (USA)",
+      "name": "Tom & Jerry in War of the Whiskers",
+      "year": "2003",
+      "publisher": "NewKidCo",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tom Clancy's Ghost Recon (USA)",
+      "fullpath": "nintendo_gamecube-Tom Clancy's Ghost Recon (USA)",
+      "name": "Tom Clancy's Ghost Recon",
+      "year": "2003",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Tom Clancy's Ghost Recon 2 (USA)",
+      "fullpath": "nintendo_gamecube-Tom Clancy's Ghost Recon 2 (USA)",
+      "name": "Tom Clancy's Ghost Recon 2",
+      "year": "2005",
+      "publisher": "Ubisoft",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tom Clancy's Rainbow Six - Lockdown (USA)",
+      "fullpath": "nintendo_gamecube-Tom Clancy's Rainbow Six - Lockdown (USA)",
+      "name": "Tom Clancy's Rainbow Six: Lockdown",
+      "year": "2005",
+      "publisher": "Ubisoft",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Tom Clancy's Rainbow Six 3 (USA)",
+      "fullpath": "nintendo_gamecube-Tom Clancy's Rainbow Six 3 (USA)",
+      "name": "Tom Clancy's Rainbow Six 3",
+      "year": "2004",
+      "publisher": "Ubisoft",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Tom Clancy's Splinter Cell (USA)",
+      "fullpath": "nintendo_gamecube-Tom Clancy's Splinter Cell (USA)",
+      "name": "Tom Clancy's Splinter Cell",
+      "year": "2003",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tom Clancy's Splinter Cell - Chaos Theory (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Tom Clancy's Splinter Cell - Chaos Theory (USA) (Disc 1)",
+      "name": "Tom Clancy's Splinter Cell: Chaos Theory",
+      "year": "2005",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Tom Clancy's Splinter Cell - Chaos Theory (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Tom Clancy's Splinter Cell - Chaos Theory (USA) (Disc 2)",
+      "name": "Tom Clancy's Splinter Cell: Chaos Theory",
+      "year": "2005",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Tom Clancy's Splinter Cell - Double Agent (USA) (Disc 1)",
+      "fullpath": "nintendo_gamecube-Tom Clancy's Splinter Cell - Double Agent (USA) (Disc 1)",
+      "name": "Tom Clancy's Splinter Cell: Double Agent",
+      "year": "2006",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Tom Clancy's Splinter Cell - Double Agent (USA) (Disc 2)",
+      "fullpath": "nintendo_gamecube-Tom Clancy's Splinter Cell - Double Agent (USA) (Disc 2)",
+      "name": "Tom Clancy's Splinter Cell: Double Agent",
+      "year": "2006",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Tom Clancy's Splinter Cell - Pandora Tomorrow (USA)",
+      "fullpath": "nintendo_gamecube-Tom Clancy's Splinter Cell - Pandora Tomorrow (USA)",
+      "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+      "year": "2004",
+      "publisher": "Ubisoft",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tonka - Rescue Patrol (USA)",
+      "fullpath": "nintendo_gamecube-Tonka - Rescue Patrol (USA)",
+      "name": "Tonka: Rescue Patrol",
+      "year": "2003",
+      "publisher": "TDK",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tony Hawk's American Wasteland (USA)",
+      "fullpath": "nintendo_gamecube-Tony Hawk's American Wasteland (USA)",
+      "name": "Tony Hawk's American Wasteland",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Sports/Skating",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tony Hawk's Pro Skater 3 (USA)",
+      "fullpath": "nintendo_gamecube-Tony Hawk's Pro Skater 3 (USA)",
+      "name": "Tony Hawk's Pro Skater 3",
+      "year": "2001",
+      "publisher": "Activision o2",
+      "genre": "Sports/Skating",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tony Hawk's Pro Skater 4 (USA)",
+      "fullpath": "nintendo_gamecube-Tony Hawk's Pro Skater 4 (USA)",
+      "name": "Tony Hawk's Pro Skater 4",
+      "year": "2002",
+      "publisher": "Activision o2",
+      "genre": "Sports/Skating",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tony Hawk's Underground (USA)",
+      "fullpath": "nintendo_gamecube-Tony Hawk's Underground (USA)",
+      "name": "Tony Hawk's Underground",
+      "year": "2003",
+      "publisher": "Activision",
+      "genre": "Sports/Skating",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Tony Hawk's Underground 2 (USA)",
+      "fullpath": "nintendo_gamecube-Tony Hawk's Underground 2 (USA)",
+      "name": "Tony Hawk's Underground 2",
+      "year": "2004",
+      "publisher": "Activision",
+      "genre": "Sports/Skating",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Top Angler - Real Bass Fishing (USA)",
+      "fullpath": "nintendo_gamecube-Top Angler - Real Bass Fishing (USA)",
+      "name": "Top Angler: Real Bass Fishing",
+      "year": "2003",
+      "publisher": "Xicat Interactive",
+      "genre": "Sports/Fishing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Top Gun - Combat Zones (USA)",
+      "fullpath": "nintendo_gamecube-Top Gun - Combat Zones (USA)",
+      "name": "Top Gun: Combat Zones",
+      "year": "2002",
+      "publisher": "Titus",
+      "genre": "Flying",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Tower of Druaga, The (Japan)",
+      "fullpath": "nintendo_gamecube-Tower of Druaga, The (Japan)",
+      "name": "Tower of Druaga, The",
+      "year": "2003",
+      "publisher": "Namcot",
+      "genre": "Role-Playing",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "TransWorld Surf - Next Wave (USA)",
+      "fullpath": "nintendo_gamecube-TransWorld Surf - Next Wave (USA)",
+      "name": "TransWorld Surf: Next Wave",
+      "year": "2003",
+      "publisher": "Atari",
+      "genre": "Sports/Surfing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Trigger Man (USA)",
+      "fullpath": "nintendo_gamecube-Trigger Man (USA)",
+      "name": "Trigger Man",
+      "year": "2004",
+      "publisher": "Crave Entertainment",
+      "genre": "Shooter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "True Crime - New York City (USA)",
+      "fullpath": "nintendo_gamecube-True Crime - New York City (USA)",
+      "name": "True Crime: New York City",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "True Crime - Streets of LA (USA)",
+      "fullpath": "nintendo_gamecube-True Crime - Streets of LA (USA)",
+      "name": "True Crime: Streets of LA",
+      "year": "2003",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Tube Slider - The Championship of Future Formula (USA)",
+      "fullpath": "nintendo_gamecube-Tube Slider - The Championship of Future Formula (USA)",
+      "name": "Tube Slider: The Championship of Future Formula",
+      "year": "2003",
+      "publisher": "NEC",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Turok - Evolution (USA)",
+      "fullpath": "nintendo_gamecube-Turok - Evolution (USA)",
+      "name": "Turok: Evolution",
+      "year": "2002",
+      "publisher": "Acclaim",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Ty the Tasmanian Tiger (USA)",
+      "fullpath": "nintendo_gamecube-Ty the Tasmanian Tiger (USA)",
+      "name": "Ty the Tasmanian Tiger",
+      "year": "2002",
+      "publisher": "EA Games",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ty the Tasmanian Tiger 2 - Bush Rescue (USA)",
+      "fullpath": "nintendo_gamecube-Ty the Tasmanian Tiger 2 - Bush Rescue (USA)",
+      "name": "Ty the Tasmanian Tiger 2: Bush Rescue",
+      "year": "2004",
+      "publisher": "EA Games",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Ty the Tasmanian Tiger 3 - Night of the Quinkan (USA)",
+      "fullpath": "nintendo_gamecube-Ty the Tasmanian Tiger 3 - Night of the Quinkan (USA)",
+      "name": "Ty the Tasmanian Tiger 3: Night of the Quinkan",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "UEFA Champions League 2004-2005 (Europe)",
+      "fullpath": "nintendo_gamecube-UEFA Champions League 2004-2005 (Europe)",
+      "name": "UEFA Champions League 2004-2005",
+      "year": "2005",
+      "publisher": "EA Sports",
+      "genre": "Sports/Soccer",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "UFC - Throwdown (USA)",
+      "fullpath": "nintendo_gamecube-UFC - Throwdown (USA)",
+      "name": "UFC: Throwdown",
+      "year": "2002",
+      "publisher": "Crave Entertainment",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Ultimate Muscle - Legends vs. New Generation (USA)",
+      "fullpath": "nintendo_gamecube-Ultimate Muscle - Legends vs. New Generation (USA)",
+      "name": "Ultimate Muscle: Legends vs. New Generation",
+      "year": "2002",
+      "publisher": "Bandai",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Ultimate Spider-Man (USA)",
+      "fullpath": "nintendo_gamecube-Ultimate Spider-Man (USA)",
+      "name": "Ultimate Spider-Man",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Universal Studios Theme Parks Adventure (USA)",
+      "fullpath": "nintendo_gamecube-Universal Studios Theme Parks Adventure (USA)",
+      "name": "Universal Studios Theme Parks Adventure",
+      "year": "2001",
+      "publisher": "Kemco",
+      "genre": "Party",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Urbz, The - Sims in the City (USA)",
+      "fullpath": "nintendo_gamecube-Urbz, The - Sims in the City (USA)",
+      "name": "Urbz, The: Sims in the City",
+      "year": "2004",
+      "publisher": "EA Games",
+      "genre": "Simulation",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "V-Rally 3 (Europe)",
+      "fullpath": "nintendo_gamecube-V-Rally 3 (Europe)",
+      "name": "V-Rally 3",
+      "year": "2003",
+      "publisher": "Eden Studios",
+      "genre": "Driving",
+      "rating": "ELSPA - 3+ (Everyone 3+)"
+    },
+    {
+      "id": "Vexx (USA)",
+      "fullpath": "nintendo_gamecube-Vexx (USA)",
+      "name": "Vexx",
+      "year": "2003",
+      "publisher": "Acclaim",
+      "genre": "Platform",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Viewtiful Joe (USA)",
+      "fullpath": "nintendo_gamecube-Viewtiful Joe (USA)",
+      "name": "Viewtiful Joe",
+      "year": "2003",
+      "publisher": "Capcom",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Viewtiful Joe - Red Hot Rumble (USA)",
+      "fullpath": "nintendo_gamecube-Viewtiful Joe - Red Hot Rumble (USA)",
+      "name": "Viewtiful Joe: Red Hot Rumble",
+      "year": "2005",
+      "publisher": "Capcom",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Viewtiful Joe 2 (USA)",
+      "fullpath": "nintendo_gamecube-Viewtiful Joe 2 (USA)",
+      "name": "Viewtiful Joe 2",
+      "year": "2004",
+      "publisher": "Capcom",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtua Quest (USA)",
+      "fullpath": "nintendo_gamecube-Virtua Quest (USA)",
+      "name": "Virtua Quest",
+      "year": "2004",
+      "publisher": "Sega",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Virtua Striker 2002 (USA)",
+      "fullpath": "nintendo_gamecube-Virtua Striker 2002 (USA)",
+      "name": "Virtua Striker 2002",
+      "year": "2002",
+      "publisher": "Sega",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wallace & Gromit in Project Zoo (USA)",
+      "fullpath": "nintendo_gamecube-Wallace & Gromit in Project Zoo (USA)",
+      "name": "Wallace & Gromit in Project Zoo",
+      "year": "2003",
+      "publisher": "Bam! Entertainment",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wario World (USA)",
+      "fullpath": "nintendo_gamecube-Wario World (USA)",
+      "name": "Wario World",
+      "year": "2003",
+      "publisher": "Nintendo",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WarioWare, Inc. - Mega Party Game$! (USA)",
+      "fullpath": "nintendo_gamecube-WarioWare, Inc. - Mega Party Game$! (USA)",
+      "name": "WarioWare, Inc.: Mega Party Game$!",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Warrior Blade - Rastan vs. Barbarian (Japan)",
+      "fullpath": "nintendo_gamecube-Warrior Blade - Rastan vs. Barbarian (Japan)",
+      "name": "Warrior Blade: Rastan vs. Barbarian",
+      "year": "2004",
+      "publisher": "Titus",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Wave Race - Blue Storm (USA)",
+      "fullpath": "nintendo_gamecube-Wave Race - Blue Storm (USA)",
+      "name": "Wave Race: Blue Storm",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Whirl Tour (USA)",
+      "fullpath": "nintendo_gamecube-Whirl Tour (USA)",
+      "name": "Whirl Tour",
+      "year": "2002",
+      "publisher": "Vivendi Universal Games",
+      "genre": "Sports/Skating",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Winnie the Pooh's Rumbly Tumbly Adventure (USA)",
+      "fullpath": "nintendo_gamecube-Winnie the Pooh's Rumbly Tumbly Adventure (USA)",
+      "name": "Winnie the Pooh's Rumbly Tumbly Adventure",
+      "year": "2005",
+      "publisher": "Ubisoft",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "World Racing (Europe)",
+      "fullpath": "nintendo_gamecube-World Racing (Europe)",
+      "name": "World Racing",
+      "year": "2004",
+      "publisher": "TDK",
+      "genre": "Driving",
+      "rating": "PEGI - 3 (Everyone 3+)"
+    },
+    {
+      "id": "World Series of Poker (USA)",
+      "fullpath": "nintendo_gamecube-World Series of Poker (USA)",
+      "name": "World Series of Poker",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Tabletop",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "World Soccer Winning Eleven 6 - Final Evolution (Japan)",
+      "fullpath": "nintendo_gamecube-World Soccer Winning Eleven 6 - Final Evolution (Japan)",
+      "name": "World Soccer Winning Eleven 6: Final Evolution",
+      "year": "2003",
+      "publisher": "Konami",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Worms 3D (USA)",
+      "fullpath": "nintendo_gamecube-Worms 3D (USA)",
+      "name": "Worms 3D",
+      "year": "2004",
+      "publisher": "Acclaim",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Worms Blast (USA)",
+      "fullpath": "nintendo_gamecube-Worms Blast (USA)",
+      "name": "Worms Blast",
+      "year": "2002",
+      "publisher": "Ubi Soft Entertainment",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Wreckless - The Yakuza Missions (USA)",
+      "fullpath": "nintendo_gamecube-Wreckless - The Yakuza Missions (USA)",
+      "name": "Wreckless: The Yakuza Missions",
+      "year": "2002",
+      "publisher": "Activision",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "WTA Tour Tennis (USA)",
+      "fullpath": "nintendo_gamecube-WTA Tour Tennis (USA)",
+      "name": "WTA Tour Tennis",
+      "year": "2002",
+      "publisher": "Konami",
+      "genre": "Sports/Tennis",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "WWE Crush Hour (USA)",
+      "fullpath": "nintendo_gamecube-WWE Crush Hour (USA)",
+      "name": "WWE Crush Hour",
+      "year": "2003",
+      "publisher": "THQ",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "WWE Day of Reckoning (USA)",
+      "fullpath": "nintendo_gamecube-WWE Day of Reckoning (USA)",
+      "name": "WWE Day of Reckoning",
+      "year": "2004",
+      "publisher": "THQ",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "WWE Day of Reckoning 2 (USA)",
+      "fullpath": "nintendo_gamecube-WWE Day of Reckoning 2 (USA)",
+      "name": "WWE Day of Reckoning 2",
+      "year": "2005",
+      "publisher": "THQ",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "WWE Wrestlemania X8 (USA)",
+      "fullpath": "nintendo_gamecube-WWE Wrestlemania X8 (USA)",
+      "name": "WWE Wrestlemania X8",
+      "year": "2002",
+      "publisher": "THQ",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "WWE Wrestlemania XIX (USA)",
+      "fullpath": "nintendo_gamecube-WWE Wrestlemania XIX (USA)",
+      "name": "WWE Wrestlemania XIX",
+      "year": "2003",
+      "publisher": "THQ",
+      "genre": "Sports/Wrestling",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "X-Men - Next Dimension (USA)",
+      "fullpath": "nintendo_gamecube-X-Men - Next Dimension (USA)",
+      "name": "X-Men: Next Dimension",
+      "year": "2002",
+      "publisher": "Activision",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "X-Men - The Official Game (USA)",
+      "fullpath": "nintendo_gamecube-X-Men - The Official Game (USA)",
+      "name": "X-Men: The Official Game",
+      "year": "2006",
+      "publisher": "Activision",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "X-Men Legends (USA)",
+      "fullpath": "nintendo_gamecube-X-Men Legends (USA)",
+      "name": "X-Men Legends",
+      "year": "2004",
+      "publisher": "Activision",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "X-Men Legends II - Rise of Apocalypse (USA)",
+      "fullpath": "nintendo_gamecube-X-Men Legends II - Rise of Apocalypse (USA)",
+      "name": "X-Men Legends II: Rise of Apocalypse",
+      "year": "2005",
+      "publisher": "Activision",
+      "genre": "Role-Playing",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "X2 - Wolverine's Revenge (USA)",
+      "fullpath": "nintendo_gamecube-X2 - Wolverine's Revenge (USA)",
+      "name": "X2: Wolverine's Revenge",
+      "year": "2003",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "XGIII - Extreme G Racing (USA)",
+      "fullpath": "nintendo_gamecube-XGIII - Extreme G Racing (USA)",
+      "name": "XGIII: Extreme G Racing",
+      "year": "2001",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "XGRA - Extreme G Racing Association (USA)",
+      "fullpath": "nintendo_gamecube-XGRA - Extreme G Racing Association (USA)",
+      "name": "XGRA: Extreme G Racing Association",
+      "year": "2003",
+      "publisher": "Acclaim",
+      "genre": "Driving",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "XIII (USA)",
+      "fullpath": "nintendo_gamecube-XIII (USA)",
+      "name": "XIII",
+      "year": "2003",
+      "publisher": "Ubisoft",
+      "genre": "Shooter",
+      "rating": "ESRB - M (Mature)"
+    },
+    {
+      "id": "Yu-Gi-Oh! - The Falsebound Kingdom (USA)",
+      "fullpath": "nintendo_gamecube-Yu-Gi-Oh! - The Falsebound Kingdom (USA)",
+      "name": "Yu-Gi-Oh!: The Falsebound Kingdom",
+      "year": "2003",
+      "publisher": "Konami",
+      "genre": "Strategy",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Zapper - One Wicked Cricket! (USA)",
+      "fullpath": "nintendo_gamecube-Zapper - One Wicked Cricket! (USA)",
+      "name": "Zapper: One Wicked Cricket!",
+      "year": "2002",
+      "publisher": "Infogrames",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Zatch Bell! - Mamodo Battles (USA)",
+      "fullpath": "nintendo_gamecube-Zatch Bell! - Mamodo Battles (USA)",
+      "name": "Zatch Bell!: Mamodo Battles",
+      "year": "2004",
+      "publisher": "Bandai",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Zatch Bell! - Mamodo Fury (USA)",
+      "fullpath": "nintendo_gamecube-Zatch Bell! - Mamodo Fury (USA)",
+      "name": "Zatch Bell!: Mamodo Fury",
+      "year": "2006",
+      "publisher": "Bandai Namco Games",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Zoids - Battle Legends (USA)",
+      "fullpath": "nintendo_gamecube-Zoids - Battle Legends (USA)",
+      "name": "Zoids: Battle Legends",
+      "year": "2004",
+      "publisher": "Atari",
+      "genre": "Beat-'Em-Up",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Zoids - Full Metal Crash (Japan)",
+      "fullpath": "nintendo_gamecube-Zoids - Full Metal Crash (Japan)",
+      "name": "Zoids: Full Metal Crash",
+      "year": "2005",
+      "publisher": "Tomy",
+      "genre": "Fighter",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Zoids Vs. (Japan)",
+      "fullpath": "nintendo_gamecube-Zoids Vs. (Japan)",
+      "name": "Zoids Vs.",
+      "year": "2002",
+      "publisher": "Tomy",
+      "genre": "Action",
+      "rating": "ESRB - T (Teen)"
+    },
+    {
+      "id": "Zoids Vs. III (Japan)",
+      "fullpath": "nintendo_gamecube-Zoids Vs. III (Japan)",
+      "name": "Zoids Vs. III",
+      "year": "2004",
+      "publisher": "Tomy",
+      "genre": "Shooter",
+      "rating": "ESRB - E10+ (Everyone 10+)"
+    },
+    {
+      "id": "ZooCube (USA)",
+      "fullpath": "nintendo_gamecube-ZooCube (USA)",
+      "name": "ZooCube",
+      "year": "2002",
+      "publisher": "Acclaim",
+      "genre": "Puzzle",
+      "rating": "ESRB - E (Everyone)"
+    }
+  ]
+}

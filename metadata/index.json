@@ -1,0 +1,493 @@
+{
+  "index": {
+    "totalPlatforms": 77,
+    "totalGames": 40282,
+    "lastUpdated": "2025-06-08",
+    "description": "Master index of all gaming platform databases",
+    "structure": "Individual JSON files per platform",
+    "generatedBy": "CSV to JSON Converter"
+  },
+  "platforms": {
+    "3do": {
+      "name": "3do",
+      "totalGames": 65,
+      "file": "3do.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "4-player_games": {
+      "name": "4-player_games",
+      "totalGames": 260,
+      "file": "4-player_games.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "amiga": {
+      "name": "amiga",
+      "totalGames": 1949,
+      "file": "amiga.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "apple2": {
+      "name": "apple2",
+      "totalGames": 2687,
+      "file": "apple2.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "atari2600": {
+      "name": "atari2600",
+      "totalGames": 289,
+      "file": "atari2600.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "atari5200": {
+      "name": "atari5200",
+      "totalGames": 93,
+      "file": "atari5200.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "atari7800": {
+      "name": "atari7800",
+      "totalGames": 60,
+      "file": "atari7800.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "atarijaguar": {
+      "name": "atarijaguar",
+      "totalGames": 56,
+      "file": "atarijaguar.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "atarijaguarcd": {
+      "name": "atarijaguarcd",
+      "totalGames": 15,
+      "file": "atarijaguarcd.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "atarilynx": {
+      "name": "atarilynx",
+      "totalGames": 83,
+      "file": "atarilynx.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "c64": {
+      "name": "c64",
+      "totalGames": 948,
+      "file": "c64.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "cave": {
+      "name": "cave",
+      "totalGames": 30,
+      "file": "cave.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "coleco": {
+      "name": "coleco",
+      "totalGames": 140,
+      "file": "coleco.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "consolemetadata": {
+      "name": "consolemetadata",
+      "totalGames": 94,
+      "file": "consolemetadata.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "daphne": {
+      "name": "daphne",
+      "totalGames": 64,
+      "file": "daphne.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "daphne_singe": {
+      "name": "daphne_singe",
+      "totalGames": 20,
+      "file": "daphne_singe.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "default": {
+      "name": "default",
+      "totalGames": 182,
+      "file": "default.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "dos": {
+      "name": "dos",
+      "totalGames": 1805,
+      "file": "dos.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "dreamcast": {
+      "name": "dreamcast",
+      "totalGames": 387,
+      "file": "dreamcast.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "driving_games": {
+      "name": "driving_games",
+      "totalGames": 139,
+      "file": "driving_games.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "futurepinball": {
+      "name": "futurepinball",
+      "totalGames": 700,
+      "file": "futurepinball.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "gamegear": {
+      "name": "gamegear",
+      "totalGames": 335,
+      "file": "gamegear.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "gb": {
+      "name": "gb",
+      "totalGames": 844,
+      "file": "gb.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "gba": {
+      "name": "gba",
+      "totalGames": 1129,
+      "file": "gba.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "gbc": {
+      "name": "gbc",
+      "totalGames": 561,
+      "file": "gbc.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "genesis": {
+      "name": "genesis",
+      "totalGames": 752,
+      "file": "genesis.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "gun_games": {
+      "name": "gun_games",
+      "totalGames": 272,
+      "file": "gun_games.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "intellivision": {
+      "name": "intellivision",
+      "totalGames": 164,
+      "file": "intellivision.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "magnavox_odyssey_2": {
+      "name": "magnavox_odyssey_2",
+      "totalGames": 71,
+      "file": "magnavox_odyssey_2.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "mame": {
+      "name": "mame",
+      "totalGames": 8386,
+      "file": "mame.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "mastersystem": {
+      "name": "mastersystem",
+      "totalGames": 409,
+      "file": "mastersystem.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "megadrive": {
+      "name": "megadrive",
+      "totalGames": 1997,
+      "file": "megadrive.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "microsoft_xbox": {
+      "name": "microsoft_xbox",
+      "totalGames": 878,
+      "file": "microsoft_xbox.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "mugen": {
+      "name": "mugen",
+      "totalGames": 131,
+      "file": "mugen.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "n64": {
+      "name": "n64",
+      "totalGames": 329,
+      "file": "n64.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "n64dd": {
+      "name": "n64dd",
+      "totalGames": 17,
+      "file": "n64dd.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "nec_turbografx_16": {
+      "name": "nec_turbografx_16",
+      "totalGames": 95,
+      "file": "nec_turbografx_16.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "nec_turbografx_cd": {
+      "name": "nec_turbografx_cd",
+      "totalGames": 46,
+      "file": "nec_turbografx_cd.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "nes": {
+      "name": "nes",
+      "totalGames": 791,
+      "file": "nes.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "nesicaxlive": {
+      "name": "nesicaxlive",
+      "totalGames": 41,
+      "file": "nesicaxlive.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "nintendo_entertainment_system_3d": {
+      "name": "nintendo_entertainment_system_3d",
+      "totalGames": 66,
+      "file": "nintendo_entertainment_system_3d.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "nintendo_famicom": {
+      "name": "nintendo_famicom",
+      "totalGames": 886,
+      "file": "nintendo_famicom.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "nintendo_game_and_watch": {
+      "name": "nintendo_game_and_watch",
+      "totalGames": 56,
+      "file": "nintendo_game_and_watch.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "nintendo_gamecube": {
+      "name": "nintendo_gamecube",
+      "totalGames": 638,
+      "file": "nintendo_gamecube.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "nintendo_switch": {
+      "name": "nintendo_switch",
+      "totalGames": 179,
+      "file": "nintendo_switch.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "nintendo_wii": {
+      "name": "nintendo_wii",
+      "totalGames": 1537,
+      "file": "nintendo_wii.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "pc": {
+      "name": "pc",
+      "totalGames": 163,
+      "file": "pc.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "pcengine": {
+      "name": "pcengine",
+      "totalGames": 192,
+      "file": "pcengine.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "pinball_arcade": {
+      "name": "pinball_arcade",
+      "totalGames": 87,
+      "file": "pinball_arcade.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "pinball_fx2": {
+      "name": "pinball_fx2",
+      "totalGames": 76,
+      "file": "pinball_fx2.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "pinball_fx3": {
+      "name": "pinball_fx3",
+      "totalGames": 91,
+      "file": "pinball_fx3.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "platformcategories": {
+      "name": "platformcategories",
+      "totalGames": 55,
+      "file": "platformcategories.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "ps2": {
+      "name": "ps2",
+      "totalGames": 2224,
+      "file": "ps2.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "ps3": {
+      "name": "ps3",
+      "totalGames": 25,
+      "file": "ps3.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "psp": {
+      "name": "psp",
+      "totalGames": 1081,
+      "file": "psp.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "psx": {
+      "name": "psx",
+      "totalGames": 1807,
+      "file": "psx.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "sammy_atomiswave": {
+      "name": "sammy_atomiswave",
+      "totalGames": 19,
+      "file": "sammy_atomiswave.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "sega32x": {
+      "name": "sega32x",
+      "totalGames": 33,
+      "file": "sega32x.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "sega_cd_32x": {
+      "name": "sega_cd_32x",
+      "totalGames": 22,
+      "file": "sega_cd_32x.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "sega_naomi": {
+      "name": "sega_naomi",
+      "totalGames": 82,
+      "file": "sega_naomi.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "sega_ring": {
+      "name": "sega_ring",
+      "totalGames": 100,
+      "file": "sega_ring.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "sega_saturn": {
+      "name": "sega_saturn",
+      "totalGames": 327,
+      "file": "sega_saturn.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "sega_sg-1000": {
+      "name": "sega_sg-1000",
+      "totalGames": 127,
+      "file": "sega_sg-1000.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "segacd": {
+      "name": "segacd",
+      "totalGames": 171,
+      "file": "segacd.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "snes": {
+      "name": "snes",
+      "totalGames": 809,
+      "file": "snes.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "snk_neo_geo_aes": {
+      "name": "snk_neo_geo_aes",
+      "totalGames": 55,
+      "file": "snk_neo_geo_aes.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "snk_neo_geo_cd": {
+      "name": "snk_neo_geo_cd",
+      "totalGames": 364,
+      "file": "snk_neo_geo_cd.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "snk_neo_geo_mvs": {
+      "name": "snk_neo_geo_mvs",
+      "totalGames": 161,
+      "file": "snk_neo_geo_mvs.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "sony_playstation_5": {
+      "name": "sony_playstation_5",
+      "totalGames": 11,
+      "file": "sony_playstation_5.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "taito_type_x": {
+      "name": "taito_type_x",
+      "totalGames": 32,
+      "file": "taito_type_x.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "tiger_handheld_electronics": {
+      "name": "tiger_handheld_electronics",
+      "totalGames": 50,
+      "file": "tiger_handheld_electronics.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "vectrex": {
+      "name": "vectrex",
+      "totalGames": 69,
+      "file": "vectrex.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "virtualboy": {
+      "name": "virtualboy",
+      "totalGames": 26,
+      "file": "virtualboy.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "visualpinball": {
+      "name": "visualpinball",
+      "totalGames": 1032,
+      "file": "visualpinball.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "windows": {
+      "name": "windows",
+      "totalGames": 156,
+      "file": "windows.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "zaccaria_pinball": {
+      "name": "zaccaria_pinball",
+      "totalGames": 119,
+      "file": "zaccaria_pinball.json",
+      "lastUpdated": "2025-06-08"
+    },
+    "zinc": {
+      "name": "zinc",
+      "totalGames": 40,
+      "file": "zinc.json",
+      "lastUpdated": "2025-06-08"
+    }
+  },
+  "statistics": {
+    "largestPlatforms": [
+      "mame (8386 games)",
+      "apple2 (2687 games)",
+      "ps2 (2224 games)",
+      "megadrive (1997 games)",
+      "amiga (1949 games)",
+      "psx (1807 games)",
+      "dos (1805 games)",
+      "nintendo_wii (1537 games)",
+      "gba (1129 games)",
+      "psp (1081 games)"
+    ],
+    "bySize": {
+      "large": 11,
+      "medium": 33,
+      "small": 33
+    }
+  }
+}

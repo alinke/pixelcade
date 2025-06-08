@@ -1,0 +1,167 @@
+{
+  "platform": "n64dd",
+  "totalGames": 17,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "n64dd game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "n64dd.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Dezaemon DD (Japan) (Proto)",
+      "fullpath": "n64dd-Dezaemon DD (Japan) (Proto)",
+      "name": "Dezaemon DD",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Doshin the Giant (Japan) (Demo)",
+      "fullpath": "n64dd-Doshin the Giant (Japan) (Demo)",
+      "name": "Doshin the Giant",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Doshin the Giant (Japan)",
+      "fullpath": "n64dd-Doshin the Giant (Japan)",
+      "name": "Doshin the Giant",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Doshin the Giant Tinkling Toddler Liberation Front! Assemble (Japan)",
+      "fullpath": "n64dd-Doshin the Giant Tinkling Toddler Liberation Front! Assemble (Japan)",
+      "name": "Doshin the Giant Tinkling Toddler Liberation Front! Assemble",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "F-Zero X Expansion Kit (Japan) (Translated En)",
+      "fullpath": "n64dd-F-Zero X Expansion Kit (Japan) (Translated En)",
+      "name": "F-Zero X Expansion Kit",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "F-Zero X Expansion Kit (Japan)",
+      "fullpath": "n64dd-F-Zero X Expansion Kit (Japan)",
+      "name": "F-Zero X Expansion Kit",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Japan Pro Golf Tour 64 (Japan)",
+      "fullpath": "n64dd-Japan Pro Golf Tour 64 (Japan)",
+      "name": "Japan Pro Golf Tour 64",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Artist Communication Kit (Japan) (Translated En)",
+      "fullpath": "n64dd-Mario Artist Communication Kit (Japan) (Translated En)",
+      "name": "Mario Artist Communication Kit",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Artist Communication Kit (Japan)",
+      "fullpath": "n64dd-Mario Artist Communication Kit (Japan)",
+      "name": "Mario Artist Communication Kit",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Artist Paint Studio (Japan) (Translated En)",
+      "fullpath": "n64dd-Mario Artist Paint Studio (Japan) (Translated En)",
+      "name": "Mario Artist Paint Studio",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Artist Paint Studio (Japan)",
+      "fullpath": "n64dd-Mario Artist Paint Studio (Japan)",
+      "name": "Mario Artist Paint Studio",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Artist Polygon Studio (Japan) (Translated En)",
+      "fullpath": "n64dd-Mario Artist Polygon Studio (Japan) (Translated En)",
+      "name": "Mario Artist Polygon Studio",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Artist Polygon Studio (Japan)",
+      "fullpath": "n64dd-Mario Artist Polygon Studio (Japan)",
+      "name": "Mario Artist Polygon Studio",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Artist Talent Studio (Japan) (Translated En)",
+      "fullpath": "n64dd-Mario Artist Talent Studio (Japan) (Translated En)",
+      "name": "Mario Artist Talent Studio",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario Artist Talent Studio (Japan)",
+      "fullpath": "n64dd-Mario Artist Talent Studio (Japan)",
+      "name": "Mario Artist Talent Studio",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sim City 64 (Japan)",
+      "fullpath": "n64dd-Sim City 64 (Japan)",
+      "name": "Sim City 64",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Mario 64 (Japan) (Proto)",
+      "fullpath": "n64dd-Super Mario 64 (Japan) (Proto)",
+      "name": "Super Mario 64",
+      "year": "1999",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

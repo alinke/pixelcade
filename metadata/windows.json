@@ -1,0 +1,1418 @@
+{
+  "platform": "windows",
+  "totalGames": 156,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "windows game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "windows.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "AVGN",
+      "fullpath": "windows-AVGN",
+      "name": "AVGN",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aliens vs. Predator",
+      "fullpath": "windows-Aliens vs. Predator",
+      "name": "Aliens vs. Predator",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Angry Birds Space",
+      "fullpath": "windows-Angry Birds Space",
+      "name": "Angry Birds Space",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Angry Birds Star Wars",
+      "fullpath": "windows-Angry Birds Star Wars",
+      "name": "Angry Birds Star Wars",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Angry Birds",
+      "fullpath": "windows-Angry Birds",
+      "name": "Angry Birds",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ant Queen",
+      "fullpath": "windows-Ant Queen",
+      "name": "Ant Queen",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Assault Suit Leynos",
+      "fullpath": "windows-Assault Suit Leynos",
+      "name": "Assault Suit Leynos",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Asteroids Recharged",
+      "fullpath": "windows-Asteroids Recharged",
+      "name": "Asteroids Recharged",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Attack on Titan Wings of Freedom",
+      "fullpath": "windows-Attack on Titan Wings of Freedom",
+      "name": "Attack on Titan Wings of Freedom",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Back to the Future Ep 1 - It's About Time",
+      "fullpath": "windows-Back to the Future Ep 1 - It's About Time",
+      "name": "Back to the Future Ep 1 - It's About Time",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bastion",
+      "fullpath": "windows-Bastion",
+      "name": "Bastion",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Batman Arkham Origins",
+      "fullpath": "windows-Batman Arkham Origins",
+      "name": "Batman Arkham Origins",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battletoads",
+      "fullpath": "windows-Battletoads",
+      "name": "Battletoads",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Big Buck Hunter - Arcade",
+      "fullpath": "windows-Big Buck Hunter - Arcade",
+      "name": "Big Buck Hunter - Arcade",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bionic Commando Rearmed",
+      "fullpath": "windows-Bionic Commando Rearmed",
+      "name": "Bionic Commando Rearmed",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bishi Bashi Channel",
+      "fullpath": "windows-Bishi Bashi Channel",
+      "name": "Bishi Bashi Channel",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bishi Bashi, The",
+      "fullpath": "windows-Bishi Bashi, The",
+      "name": "Bishi Bashi, The",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Black Widow Recharged",
+      "fullpath": "windows-Black Widow Recharged",
+      "name": "Black Widow Recharged",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blue Estate",
+      "fullpath": "windows-Blue Estate",
+      "name": "Blue Estate",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bot Vice",
+      "fullpath": "windows-Bot Vice",
+      "name": "Bot Vice",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Breakout Recharged",
+      "fullpath": "windows-Breakout Recharged",
+      "name": "Breakout Recharged",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Brutal Doom 2",
+      "fullpath": "windows-Brutal Doom 2",
+      "name": "Brutal Doom 2",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Brutal Doom",
+      "fullpath": "windows-Brutal Doom",
+      "name": "Brutal Doom",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Burn Zombie Burn",
+      "fullpath": "windows-Burn Zombie Burn",
+      "name": "Burn Zombie Burn",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Castle Crashers",
+      "fullpath": "windows-Castle Crashers",
+      "name": "Castle Crashers",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cave Story",
+      "fullpath": "windows-Cave Story",
+      "name": "Cave Story",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Centipede Recharged",
+      "fullpath": "windows-Centipede Recharged",
+      "name": "Centipede Recharged",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cossacks 3",
+      "fullpath": "windows-Cossacks 3",
+      "name": "Cossacks 3",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crazy Taxi 3",
+      "fullpath": "windows-Crazy Taxi 3",
+      "name": "Crazy Taxi 3",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crazy Taxi",
+      "fullpath": "windows-Crazy Taxi",
+      "name": "Crazy Taxi",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cuphead",
+      "fullpath": "windows-Cuphead",
+      "name": "Cuphead",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Darkest Dungeon",
+      "fullpath": "windows-Darkest Dungeon",
+      "name": "Darkest Dungeon",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Darksiders - Warmastered Edition",
+      "fullpath": "windows-Darksiders - Warmastered Edition",
+      "name": "Darksiders - Warmastered Edition",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Darksiders II Deathinitive Edition",
+      "fullpath": "windows-Darksiders II Deathinitive Edition",
+      "name": "Darksiders II Deathinitive Edition",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Darwinia",
+      "fullpath": "windows-Darwinia",
+      "name": "Darwinia",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dead Effect",
+      "fullpath": "windows-Dead Effect",
+      "name": "Dead Effect",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Demons Tilt",
+      "fullpath": "windows-Demons Tilt",
+      "name": "Demons Tilt",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Devil's Dare",
+      "fullpath": "windows-Devil's Dare",
+      "name": "Devil's Dare",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Divekick",
+      "fullpath": "windows-Divekick",
+      "name": "Divekick",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Donkey Me",
+      "fullpath": "windows-Donkey Me",
+      "name": "Donkey Me",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Doom 2016",
+      "fullpath": "windows-Doom 2016",
+      "name": "Doom 2016",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Doom 3 BFG Edition",
+      "fullpath": "windows-Doom 3 BFG Edition",
+      "name": "Doom 3 BFG Edition",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Double Dragon Neon",
+      "fullpath": "windows-Double Dragon Neon",
+      "name": "Double Dragon Neon",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dragon Ball - Xenoverse 2",
+      "fullpath": "windows-Dragon Ball - Xenoverse 2",
+      "name": "Dragon Ball - Xenoverse 2",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dream Pinball 3D",
+      "fullpath": "windows-Dream Pinball 3D",
+      "name": "Dream Pinball 3D",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "DuckTales Remastered",
+      "fullpath": "windows-DuckTales Remastered",
+      "name": "DuckTales Remastered",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Duke Nukem - Manhattan Project",
+      "fullpath": "windows-Duke Nukem - Manhattan Project",
+      "name": "Duke Nukem - Manhattan Project",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "F1 Race Stars",
+      "fullpath": "windows-F1 Race Stars",
+      "name": "F1 Race Stars",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Final Vendetta",
+      "fullpath": "windows-Final Vendetta",
+      "name": "Final Vendetta",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fix-It Felix Jr",
+      "fullpath": "windows-Fix-It Felix Jr",
+      "name": "Fix-It Felix Jr",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fleet Command",
+      "fullpath": "windows-Fleet Command",
+      "name": "Fleet Command",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fly O'Clock",
+      "fullpath": "windows-Fly O'Clock",
+      "name": "Fly O'Clock",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fruit Ninja VR",
+      "fullpath": "windows-Fruit Ninja VR",
+      "name": "Fruit Ninja VR",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "GUILTY GEAR Xrd SIGN",
+      "fullpath": "windows-GUILTY GEAR Xrd SIGN",
+      "name": "GUILTY GEAR Xrd SIGN",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Golden Tee 2020",
+      "fullpath": "windows-Golden Tee 2020",
+      "name": "Golden Tee 2020",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Golden Tee Golf",
+      "fullpath": "windows-Golden Tee Golf",
+      "name": "Golden Tee Golf",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "GoldenEye 007 XBLA",
+      "fullpath": "windows-GoldenEye 007 XBLA",
+      "name": "GoldenEye 007 XBLA",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Grand Theft Auto V",
+      "fullpath": "windows-Grand Theft Auto V",
+      "name": "Grand Theft Auto V",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Guacamelee! Gold Edition",
+      "fullpath": "windows-Guacamelee! Gold Edition",
+      "name": "Guacamelee! Gold Edition",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Guns Gore and Cannoli 2",
+      "fullpath": "windows-Guns Gore and Cannoli 2",
+      "name": "Guns Gore and Cannoli 2",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hades",
+      "fullpath": "windows-Hades",
+      "name": "Hades",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hand of Fate",
+      "fullpath": "windows-Hand of Fate",
+      "name": "Hand of Fate",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hurrican",
+      "fullpath": "windows-Hurrican",
+      "name": "Hurrican",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "IS Defense",
+      "fullpath": "windows-IS Defense",
+      "name": "IS Defense",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ice Cold Beer",
+      "fullpath": "windows-Ice Cold Beer",
+      "name": "Ice Cold Beer",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Injustice 2 Legendary Edition",
+      "fullpath": "windows-Injustice 2 Legendary Edition",
+      "name": "Injustice 2 Legendary Edition",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Injustice Gods Among Us Ultimate Edition",
+      "fullpath": "windows-Injustice Gods Among Us Ultimate Edition",
+      "name": "Injustice Gods Among Us Ultimate Edition",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Intake",
+      "fullpath": "windows-Intake",
+      "name": "Intake",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "JUJU",
+      "fullpath": "windows-JUJU",
+      "name": "JUJU",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Jagged Alliance 2",
+      "fullpath": "windows-Jagged Alliance 2",
+      "name": "Jagged Alliance 2",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Killer Instinct",
+      "fullpath": "windows-Killer Instinct",
+      "name": "Killer Instinct",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kings of Kung Fu",
+      "fullpath": "windows-Kings of Kung Fu",
+      "name": "Kings of Kung Fu",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kung Fu Strike",
+      "fullpath": "windows-Kung Fu Strike",
+      "name": "Kung Fu Strike",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lara Croft GO",
+      "fullpath": "windows-Lara Croft GO",
+      "name": "Lara Croft GO",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Left 4 Dead 2",
+      "fullpath": "windows-Left 4 Dead 2",
+      "name": "Left 4 Dead 2",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Left 4 Dead",
+      "fullpath": "windows-Left 4 Dead",
+      "name": "Left 4 Dead",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mad Bullets",
+      "fullpath": "windows-Mad Bullets",
+      "name": "Mad Bullets",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mafia III",
+      "fullpath": "windows-Mafia III",
+      "name": "Mafia III",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mario FPS",
+      "fullpath": "windows-Mario FPS",
+      "name": "Mario FPS",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Marvel vs. Capcom Infinite Deluxe Edition",
+      "fullpath": "windows-Marvel vs. Capcom Infinite Deluxe Edition",
+      "name": "Marvel vs. Capcom Infinite Deluxe Edition",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Master of Orion",
+      "fullpath": "windows-Master of Orion",
+      "name": "Master of Orion",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mega Man Unlimited",
+      "fullpath": "windows-Mega Man Unlimited",
+      "name": "Mega Man Unlimited",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mega Man X8",
+      "fullpath": "windows-Mega Man X8",
+      "name": "Mega Man X8",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Metal Slug Complete",
+      "fullpath": "windows-Metal Slug Complete",
+      "name": "Metal Slug Complete",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Middle Earth Shadow of Mordor",
+      "fullpath": "windows-Middle Earth Shadow of Mordor",
+      "name": "Middle Earth Shadow of Mordor",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Minecraft Story Mode",
+      "fullpath": "windows-Minecraft Story Mode",
+      "name": "Minecraft Story Mode",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "MiniDOOM",
+      "fullpath": "windows-MiniDOOM",
+      "name": "MiniDOOM",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "MiniDoom 2",
+      "fullpath": "windows-MiniDoom 2",
+      "name": "MiniDoom 2",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Missile Command Recharged",
+      "fullpath": "windows-Missile Command Recharged",
+      "name": "Missile Command Recharged",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mortal Kombat 11",
+      "fullpath": "windows-Mortal Kombat 11",
+      "name": "Mortal Kombat 11",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mortal Kombat Komplete Edition",
+      "fullpath": "windows-Mortal Kombat Komplete Edition",
+      "name": "Mortal Kombat Komplete Edition",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mortal Kombat X",
+      "fullpath": "windows-Mortal Kombat X",
+      "name": "Mortal Kombat X",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mortal Kombat XL",
+      "fullpath": "windows-Mortal Kombat XL",
+      "name": "Mortal Kombat XL",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NBA 2K12",
+      "fullpath": "windows-NBA 2K12",
+      "name": "NBA 2K12",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NBA 2K21",
+      "fullpath": "windows-NBA 2K21",
+      "name": "NBA 2K21",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Oddworld - New 'n' Tasty",
+      "fullpath": "windows-Oddworld - New 'n' Tasty",
+      "name": "Oddworld - New 'n' Tasty",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "OutRun 2006",
+      "fullpath": "windows-OutRun 2006",
+      "name": "OutRun 2006",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "POLYBIUS",
+      "fullpath": "windows-POLYBIUS",
+      "name": "POLYBIUS",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pac-Man 256",
+      "fullpath": "windows-Pac-Man 256",
+      "name": "Pac-Man 256",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pac-Man Battle Royale",
+      "fullpath": "windows-Pac-Man Battle Royale",
+      "name": "Pac-Man Battle Royale",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pac-Man Championship Edition DX+",
+      "fullpath": "windows-Pac-Man Championship Edition DX+",
+      "name": "Pac-Man Championship Edition DX+",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pinball FX3",
+      "fullpath": "windows-Pinball FX3",
+      "name": "Pinball FX3",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Portal 2",
+      "fullpath": "windows-Portal 2",
+      "name": "Portal 2",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Project Cars",
+      "fullpath": "windows-Project Cars",
+      "name": "Project Cars",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Raiden III",
+      "fullpath": "windows-Raiden III",
+      "name": "Raiden III",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Raiders - Deleted Scene - Sneaking into the Theater",
+      "fullpath": "windows-Raiders - Deleted Scene - Sneaking into the Theater",
+      "name": "Raiders - Deleted Scene - Sneaking into the Theater",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Resident Evil 7 - Biohazard",
+      "fullpath": "windows-Resident Evil 7 - Biohazard",
+      "name": "Resident Evil 7 - Biohazard",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Resident Evil Zero - HD Remaster",
+      "fullpath": "windows-Resident Evil Zero - HD Remaster",
+      "name": "Resident Evil Zero - HD Remaster",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rise of the Argonauts",
+      "fullpath": "windows-Rise of the Argonauts",
+      "name": "Rise of the Argonauts",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Robot Legions Reborn",
+      "fullpath": "windows-Robot Legions Reborn",
+      "name": "Robot Legions Reborn",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rocket Knight",
+      "fullpath": "windows-Rocket Knight",
+      "name": "Rocket Knight",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SONIC THE HEDGEHOG 4 Episode I",
+      "fullpath": "windows-SONIC THE HEDGEHOG 4 Episode I",
+      "name": "SONIC THE HEDGEHOG 4 Episode I",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SONIC THE HEDGEHOG 4 Episode II",
+      "fullpath": "windows-SONIC THE HEDGEHOG 4 Episode II",
+      "name": "SONIC THE HEDGEHOG 4 Episode II",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Saint Seiya Soldiers Soul",
+      "fullpath": "windows-Saint Seiya Soldiers Soul",
+      "name": "Saint Seiya Soldiers Soul",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shank 2",
+      "fullpath": "windows-Shank 2",
+      "name": "Shank 2",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shank",
+      "fullpath": "windows-Shank",
+      "name": "Shank",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shovel Knight Plague of Shadows",
+      "fullpath": "windows-Shovel Knight Plague of Shadows",
+      "name": "Shovel Knight Plague of Shadows",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shovel Knight",
+      "fullpath": "windows-Shovel Knight",
+      "name": "Shovel Knight",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sid Meiers Civilization VI",
+      "fullpath": "windows-Sid Meiers Civilization VI",
+      "name": "Sid Meiers Civilization VI",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Skullgirls",
+      "fullpath": "windows-Skullgirls",
+      "name": "Skullgirls",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic 1 Forever",
+      "fullpath": "windows-Sonic 1 Forever",
+      "name": "Sonic 1 Forever",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic 2 Absolute",
+      "fullpath": "windows-Sonic 2 Absolute",
+      "name": "Sonic 2 Absolute",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic 3 AIR",
+      "fullpath": "windows-Sonic 3 AIR",
+      "name": "Sonic 3 AIR",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic CD Restored",
+      "fullpath": "windows-Sonic CD Restored",
+      "name": "Sonic CD Restored",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic Generations",
+      "fullpath": "windows-Sonic Generations",
+      "name": "Sonic Generations",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic and Sega Allstars Racing",
+      "fullpath": "windows-Sonic and Sega Allstars Racing",
+      "name": "Sonic and Sega Allstars Racing",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "South Park(tm) The Stick of Truth(tm)",
+      "fullpath": "windows-South Park(tm) The Stick of Truth(tm)",
+      "name": "South Park(tm) The Stick of Truth(tm)",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Street Fighter IV KORYU",
+      "fullpath": "windows-Street Fighter IV KORYU",
+      "name": "Street Fighter IV KORYU",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Street Fighter V Champion Edition",
+      "fullpath": "windows-Street Fighter V Champion Edition",
+      "name": "Street Fighter V Champion Edition",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Street Fighter V",
+      "fullpath": "windows-Street Fighter V",
+      "name": "Street Fighter V",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Street Fighter X Megaman",
+      "fullpath": "windows-Street Fighter X Megaman",
+      "name": "Street Fighter X Megaman",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Street Fighter X Tekken",
+      "fullpath": "windows-Street Fighter X Tekken",
+      "name": "Street Fighter X Tekken",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Streets of Rage 4",
+      "fullpath": "windows-Streets of Rage 4",
+      "name": "Streets of Rage 4",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Comboman",
+      "fullpath": "windows-Super Comboman",
+      "name": "Super Comboman",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Crate Box",
+      "fullpath": "windows-Super Crate Box",
+      "name": "Super Crate Box",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Strip Fighter IV",
+      "fullpath": "windows-Super Strip Fighter IV",
+      "name": "Super Strip Fighter IV",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TMNT Shredders Revenge",
+      "fullpath": "windows-TMNT Shredders Revenge",
+      "name": "TMNT Shredders Revenge",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "TMNT",
+      "fullpath": "windows-TMNT",
+      "name": "TMNT",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tekken 7",
+      "fullpath": "windows-Tekken 7",
+      "name": "Tekken 7",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Terrordrome",
+      "fullpath": "windows-Terrordrome",
+      "name": "Terrordrome",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Elder Scrolls - Skyrim - Special Edition",
+      "fullpath": "windows-The Elder Scrolls - Skyrim - Special Edition",
+      "name": "The Elder Scrolls - Skyrim - Special Edition",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Lords of the Earth Flame",
+      "fullpath": "windows-The Lords of the Earth Flame",
+      "name": "The Lords of the Earth Flame",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Witcher 3 - Wild Hunt",
+      "fullpath": "windows-The Witcher 3 - Wild Hunt",
+      "name": "The Witcher 3 - Wild Hunt",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "This War of Mine",
+      "fullpath": "windows-This War of Mine",
+      "name": "This War of Mine",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Total War ROME II",
+      "fullpath": "windows-Total War ROME II",
+      "name": "Total War ROME II",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Trine",
+      "fullpath": "windows-Trine",
+      "name": "Trine",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ultimate Marvel vs. Capcom 3",
+      "fullpath": "windows-Ultimate Marvel vs. Capcom 3",
+      "name": "Ultimate Marvel vs. Capcom 3",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ultra Street Fighter IV",
+      "fullpath": "windows-Ultra Street Fighter IV",
+      "name": "Ultra Street Fighter IV",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "UltraStar Deluxe",
+      "fullpath": "windows-UltraStar Deluxe",
+      "name": "UltraStar Deluxe",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Volgarr The Viking",
+      "fullpath": "windows-Volgarr The Viking",
+      "name": "Volgarr The Viking",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Worms Reloaded",
+      "fullpath": "windows-Worms Reloaded",
+      "name": "Worms Reloaded",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Worms W.M.D",
+      "fullpath": "windows-Worms W.M.D",
+      "name": "Worms W.M.D",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "XMen Legends",
+      "fullpath": "windows-XMen Legends",
+      "name": "XMen Legends",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Xeno Crisis",
+      "fullpath": "windows-Xeno Crisis",
+      "name": "Xeno Crisis",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zaccaria Pinball",
+      "fullpath": "windows-Zaccaria Pinball",
+      "name": "Zaccaria Pinball",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zeit 2",
+      "fullpath": "windows-Zeit 2",
+      "name": "Zeit 2",
+      "year": "2015",
+      "publisher": "Windows",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

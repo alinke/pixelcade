@@ -1,0 +1,383 @@
+{
+  "platform": "nesicaxlive",
+  "totalGames": 41,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "nesicaxlive game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "nesicaxlive.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "3D Cosplay Mahjong",
+      "fullpath": "nesicaxlive-3D Cosplay Mahjong",
+      "name": "3D Cosplay Mahjong",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Akai Katana Shin",
+      "fullpath": "nesicaxlive-Akai Katana Shin",
+      "name": "Akai Katana Shin",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Aquapazza - Aquaplus Dream Match",
+      "fullpath": "nesicaxlive-Aquapazza - Aquaplus Dream Match",
+      "name": "Aquapazza - Aquaplus Dream Match",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Arcana Heart 2 v2.1",
+      "fullpath": "nesicaxlive-Arcana Heart 2 v2.1",
+      "name": "Arcana Heart 2 v2.1",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Arcana Heart 3 LOVE MAX SIX STARS",
+      "fullpath": "nesicaxlive-Arcana Heart 3 LOVE MAX SIX STARS",
+      "name": "Arcana Heart 3 LOVE MAX SIX STARS",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Battle Fantasia",
+      "fullpath": "nesicaxlive-Battle Fantasia",
+      "name": "Battle Fantasia",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "BlazBlue Central Fiction",
+      "fullpath": "nesicaxlive-BlazBlue Central Fiction",
+      "name": "BlazBlue Central Fiction",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "BlazBlue ChronoPhantasma",
+      "fullpath": "nesicaxlive-BlazBlue ChronoPhantasma",
+      "name": "BlazBlue ChronoPhantasma",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chaos Breaker",
+      "fullpath": "nesicaxlive-Chaos Breaker",
+      "name": "Chaos Breaker",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chaos Code - New Sign of Catastrophe",
+      "fullpath": "nesicaxlive-Chaos Code - New Sign of Catastrophe",
+      "name": "Chaos Code - New Sign of Catastrophe",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Crimzon Clover",
+      "fullpath": "nesicaxlive-Crimzon Clover",
+      "name": "Crimzon Clover",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Daemon Bride Additional Gain",
+      "fullpath": "nesicaxlive-Daemon Bride Additional Gain",
+      "name": "Daemon Bride Additional Gain",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Do Not Fall - Run For Your Drink",
+      "fullpath": "nesicaxlive-Do Not Fall - Run For Your Drink",
+      "name": "Do Not Fall - Run For Your Drink",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Elevator Action",
+      "fullpath": "nesicaxlive-Elevator Action",
+      "name": "Elevator Action",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "En-Eins Perfektewelt",
+      "fullpath": "nesicaxlive-En-Eins Perfektewelt",
+      "name": "En-Eins Perfektewelt",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Exception",
+      "fullpath": "nesicaxlive-Exception",
+      "name": "Exception",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Homura",
+      "fullpath": "nesicaxlive-Homura",
+      "name": "Homura",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ikaruga",
+      "fullpath": "nesicaxlive-Ikaruga",
+      "name": "Ikaruga",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "King of Fighters 2002 Unlimited Match",
+      "fullpath": "nesicaxlive-King of Fighters 2002 Unlimited Match",
+      "name": "King of Fighters 2002 Unlimited Match",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "King of Fighters 98 The Ultimate Match",
+      "fullpath": "nesicaxlive-King of Fighters 98 The Ultimate Match",
+      "name": "King of Fighters 98 The Ultimate Match",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "King of Fighters XIII Climax",
+      "fullpath": "nesicaxlive-King of Fighters XIII Climax",
+      "name": "King of Fighters XIII Climax",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Magical Beat",
+      "fullpath": "nesicaxlive-Magical Beat",
+      "name": "Magical Beat",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Nitroplus Blasterz",
+      "fullpath": "nesicaxlive-Nitroplus Blasterz",
+      "name": "Nitroplus Blasterz",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Persona 4 The Ultimate in Mayonaka Arena",
+      "fullpath": "nesicaxlive-Persona 4 The Ultimate in Mayonaka Arena",
+      "name": "Persona 4 The Ultimate in Mayonaka Arena",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Persona 4 The Ultimax Ultra Suplex Hold",
+      "fullpath": "nesicaxlive-Persona 4 The Ultimax Ultra Suplex Hold",
+      "name": "Persona 4 The Ultimax Ultra Suplex Hold",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Psychic Force 2012",
+      "fullpath": "nesicaxlive-Psychic Force 2012",
+      "name": "Psychic Force 2012",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Puzzle Bobble",
+      "fullpath": "nesicaxlive-Puzzle Bobble",
+      "name": "Puzzle Bobble",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Raiden III",
+      "fullpath": "nesicaxlive-Raiden III",
+      "name": "Raiden III",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Raiden IV",
+      "fullpath": "nesicaxlive-Raiden IV",
+      "name": "Raiden IV",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rastan Saga",
+      "fullpath": "nesicaxlive-Rastan Saga",
+      "name": "Rastan Saga",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rumble Fish 2",
+      "fullpath": "nesicaxlive-Rumble Fish 2",
+      "name": "Rumble Fish 2",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Samurai Shodown SEN",
+      "fullpath": "nesicaxlive-Samurai Shodown SEN",
+      "name": "Samurai Shodown SEN",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Senko no Ronde DUO",
+      "fullpath": "nesicaxlive-Senko no Ronde DUO",
+      "name": "Senko no Ronde DUO",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Skullgirls",
+      "fullpath": "nesicaxlive-Skullgirls",
+      "name": "Skullgirls",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Strania - The Stella Machina",
+      "fullpath": "nesicaxlive-Strania - The Stella Machina",
+      "name": "Strania - The Stella Machina",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Suggoi! Arcana Heart 2 v2.6",
+      "fullpath": "nesicaxlive-Suggoi! Arcana Heart 2 v2.6",
+      "name": "Suggoi! Arcana Heart 2 v2.6",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tottemo E Mahjong",
+      "fullpath": "nesicaxlive-Tottemo E Mahjong",
+      "name": "Tottemo E Mahjong",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Trouble Witches AC Amalgam no Joutachi",
+      "fullpath": "nesicaxlive-Trouble Witches AC Amalgam no Joutachi",
+      "name": "Trouble Witches AC Amalgam no Joutachi",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Yatagarasu Attack on Cataclysm",
+      "fullpath": "nesicaxlive-Yatagarasu Attack on Cataclysm",
+      "name": "Yatagarasu Attack on Cataclysm",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "hsf2",
+      "fullpath": "nesicaxlive-hsf2",
+      "name": "hsf2",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "invaders",
+      "fullpath": "nesicaxlive-invaders",
+      "name": "invaders",
+      "year": "2010",
+      "publisher": "Unknown",
+      "genre": "Intellivision",
+      "rating": "HSRS - GA (General Audience)"
+    }
+  ]
+}

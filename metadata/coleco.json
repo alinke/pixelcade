@@ -1,0 +1,1274 @@
+{
+  "platform": "coleco",
+  "totalGames": 140,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "coleco game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "coleco.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "2010 - The Graphic Action Game (USA, Europe)",
+      "fullpath": "coleco-2010 - The Graphic Action Game (USA, Europe)",
+      "name": "2010 - The Graphic Action Game",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Alcazar - The Forgotten Fortress (USA)",
+      "fullpath": "coleco-Alcazar - The Forgotten Fortress (USA)",
+      "name": "Alcazar - The Forgotten Fortress",
+      "year": "1985",
+      "publisher": "Telegames, Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Alphabet Zoo (USA)",
+      "fullpath": "coleco-Alphabet Zoo (USA)",
+      "name": "Alphabet Zoo",
+      "year": "1983",
+      "publisher": "Spinnaker Software",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Amazing Bumpman (USA)",
+      "fullpath": "coleco-Amazing Bumpman (USA)",
+      "name": "Amazing Bumpman",
+      "year": "1984",
+      "publisher": "Telegames, Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Antarctic Adventure (USA, Europe)",
+      "fullpath": "coleco-Antarctic Adventure (USA, Europe)",
+      "name": "Antarctic Adventure",
+      "year": "1984",
+      "publisher": "Konami",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Aquattack (USA)",
+      "fullpath": "coleco-Aquattack (USA)",
+      "name": "Aquattack",
+      "year": "1984",
+      "publisher": "Toshiba EMI",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Artillery Duel (USA)",
+      "fullpath": "coleco-Artillery Duel (USA)",
+      "name": "Artillery Duel",
+      "year": "1983",
+      "publisher": "Xonox",
+      "genre": "Strategy",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "BC's Quest for Tires (USA, Europe)",
+      "fullpath": "coleco-BC's Quest for Tires (USA, Europe)",
+      "name": "BC's Quest for Tires",
+      "year": "1983",
+      "publisher": "Artech Studios",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "BC's Quest for Tires II - Grog's Revenge (USA, Europe)",
+      "fullpath": "coleco-BC's Quest for Tires II - Grog's Revenge (USA, Europe)",
+      "name": "BC's Quest for Tires II - Grog's Revenge",
+      "year": "1984",
+      "publisher": "Sierra Entertainment",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Beamrider (USA)",
+      "fullpath": "coleco-Beamrider (USA)",
+      "name": "Beamrider",
+      "year": "1983",
+      "publisher": "Activision",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Blockade Runner (USA)",
+      "fullpath": "coleco-Blockade Runner (USA)",
+      "name": "Blockade Runner",
+      "year": "1984",
+      "publisher": "Interphase",
+      "genre": "Simulation",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Boulder Dash (USA)",
+      "fullpath": "coleco-Boulder Dash (USA)",
+      "name": "Boulder Dash",
+      "year": "1984",
+      "publisher": "Micro Fun",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Brain Strainers (USA, Europe)",
+      "fullpath": "coleco-Brain Strainers (USA, Europe)",
+      "name": "Brain Strainers",
+      "year": "1984",
+      "publisher": "Carousel Software Inc.",
+      "genre": "Puzzle",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Buck Rogers - Planet Of Zoom (USA, Europe)",
+      "fullpath": "coleco-Buck Rogers - Planet Of Zoom (USA, Europe)",
+      "name": "Buck Rogers - Planet Of Zoom",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Bump 'N' Jump (USA, Europe)",
+      "fullpath": "coleco-Bump 'N' Jump (USA, Europe)",
+      "name": "Bump 'N' Jump",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "BurgerTime (USA, Europe)",
+      "fullpath": "coleco-BurgerTime (USA, Europe)",
+      "name": "BurgerTime",
+      "year": "1984",
+      "publisher": "Interceptor",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cabbage Patch Kids - Adventures in the Park (USA, Europe)",
+      "fullpath": "coleco-Cabbage Patch Kids - Adventures in the Park (USA, Europe)",
+      "name": "Cabbage Patch Kids - Adventures in the Park",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cabbage Patch Kids Picture Show (USA, Europe)",
+      "fullpath": "coleco-Cabbage Patch Kids Picture Show (USA, Europe)",
+      "name": "Cabbage Patch Kids Picture Show",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Campaign '84 (USA)",
+      "fullpath": "coleco-Campaign '84 (USA)",
+      "name": "Campaign '84",
+      "year": "1983",
+      "publisher": "Sunrise Software Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Carnival (USA, Europe)",
+      "fullpath": "coleco-Carnival (USA, Europe)",
+      "name": "Carnival",
+      "year": "1982",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Centipede (USA)",
+      "fullpath": "coleco-Centipede (USA)",
+      "name": "Centipede",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Choplifter (USA, Europe)",
+      "fullpath": "coleco-Choplifter (USA, Europe)",
+      "name": "Choplifter",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Chuck Norris - Super Kicks (USA)",
+      "fullpath": "coleco-Chuck Norris - Super Kicks (USA)",
+      "name": "Chuck Norris - Super Kicks",
+      "year": "1983",
+      "publisher": "Xonox",
+      "genre": "Beat-'Em-Up",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Congo Bongo (USA, Europe)",
+      "fullpath": "coleco-Congo Bongo (USA, Europe)",
+      "name": "Congo Bongo",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cosmic Avenger (USA, Europe)",
+      "fullpath": "coleco-Cosmic Avenger (USA, Europe)",
+      "name": "Cosmic Avenger",
+      "year": "1982",
+      "publisher": "Universal",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Cosmic Crisis (USA)",
+      "fullpath": "coleco-Cosmic Crisis (USA)",
+      "name": "Cosmic Crisis",
+      "year": "1984",
+      "publisher": "Telegames, Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dam Busters, The (USA, Europe)",
+      "fullpath": "coleco-Dam Busters, The (USA, Europe)",
+      "name": "Dam Busters, The",
+      "year": "1984",
+      "publisher": "Sydney Development Corp.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dance Fantasy (USA)",
+      "fullpath": "coleco-Dance Fantasy (USA)",
+      "name": "Dance Fantasy",
+      "year": "1984",
+      "publisher": "Fisher-Price",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Decathlon (USA)",
+      "fullpath": "coleco-Decathlon (USA)",
+      "name": "Decathlon",
+      "year": "1984",
+      "publisher": "Activision, Inc.",
+      "genre": "Sports/Olympic",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Defender (USA)",
+      "fullpath": "coleco-Defender (USA)",
+      "name": "Defender",
+      "year": "1983",
+      "publisher": "Williams Electronics Inc.",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Destructor (USA, Europe)",
+      "fullpath": "coleco-Destructor (USA, Europe)",
+      "name": "Destructor",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Donkey Kong (USA, Europe)",
+      "fullpath": "coleco-Donkey Kong (USA, Europe)",
+      "name": "Donkey Kong",
+      "year": "1983",
+      "publisher": "Nintendo Co., Ltd.",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Donkey Kong Jr (USA, Europe)",
+      "fullpath": "coleco-Donkey Kong Jr (USA, Europe)",
+      "name": "Donkey Kong Jr",
+      "year": "1983",
+      "publisher": "Nintendo Co., Ltd.",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dr. Seuss's Fix-Up The Mix-Up Puzzler (USA, Europe)",
+      "fullpath": "coleco-Dr. Seuss's Fix-Up The Mix-Up Puzzler (USA, Europe)",
+      "name": "Dr. Seuss's Fix-Up The Mix-Up Puzzler",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "DragonFire (USA)",
+      "fullpath": "coleco-DragonFire (USA)",
+      "name": "DragonFire",
+      "year": "1984",
+      "publisher": "Imagic",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Dukes of Hazzard, The (USA, Europe)",
+      "fullpath": "coleco-Dukes of Hazzard, The (USA, Europe)",
+      "name": "Dukes of Hazzard, The",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Evolution (USA)",
+      "fullpath": "coleco-Evolution (USA)",
+      "name": "Evolution",
+      "year": "1983",
+      "publisher": "Coleco (Canada) Limited",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Facemaker (USA)",
+      "fullpath": "coleco-Facemaker (USA)",
+      "name": "Facemaker",
+      "year": "1983",
+      "publisher": "Spinnaker Software Corporation",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fathom (USA)",
+      "fullpath": "coleco-Fathom (USA)",
+      "name": "Fathom",
+      "year": "1983",
+      "publisher": "Imagic",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Flipper Slipper (USA)",
+      "fullpath": "coleco-Flipper Slipper (USA)",
+      "name": "Flipper Slipper",
+      "year": "1983",
+      "publisher": "Spectravision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fortune Builder (USA, Europe)",
+      "fullpath": "coleco-Fortune Builder (USA, Europe)",
+      "name": "Fortune Builder",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Fraction Fever (USA)",
+      "fullpath": "coleco-Fraction Fever (USA)",
+      "name": "Fraction Fever",
+      "year": "1983",
+      "publisher": "Spinnaker Software",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Frantic Freddy (USA)",
+      "fullpath": "coleco-Frantic Freddy (USA)",
+      "name": "Frantic Freddy",
+      "year": "1983",
+      "publisher": "Spectravision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Frenzy! (USA, Europe)",
+      "fullpath": "coleco-Frenzy! (USA, Europe)",
+      "name": "Frenzy!",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Frogger (USA)",
+      "fullpath": "coleco-Frogger (USA)",
+      "name": "Frogger",
+      "year": "1983",
+      "publisher": "Konami Industry Co. Ltd.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Frogger II - ThreeDeep! (USA)",
+      "fullpath": "coleco-Frogger II - ThreeDeep! (USA)",
+      "name": "Frogger II - ThreeDeep!",
+      "year": "1984",
+      "publisher": "Parker Brothers",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "From Out Of The Jungle - Tarzan (USA)",
+      "fullpath": "coleco-From Out Of The Jungle - Tarzan (USA)",
+      "name": "From Out Of The Jungle - Tarzan",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Frontline (USA, Europe)",
+      "fullpath": "coleco-Frontline (USA, Europe)",
+      "name": "Frontline",
+      "year": "1983",
+      "publisher": "Taito Corporation",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Galaxian (USA)",
+      "fullpath": "coleco-Galaxian (USA)",
+      "name": "Galaxian",
+      "year": "1983",
+      "publisher": "Namco Limited",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Gateway to Apshai (USA)",
+      "fullpath": "coleco-Gateway to Apshai (USA)",
+      "name": "Gateway to Apshai",
+      "year": "1984",
+      "publisher": "Epyx, Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Gorf (USA, Europe)",
+      "fullpath": "coleco-Gorf (USA, Europe)",
+      "name": "Gorf",
+      "year": "1983",
+      "publisher": "Bally Midway Manufacturing Co.",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Gust Buster (USA)",
+      "fullpath": "coleco-Gust Buster (USA)",
+      "name": "Gust Buster",
+      "year": "1983",
+      "publisher": "Sunrise Software Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Gyruss (USA)",
+      "fullpath": "coleco-Gyruss (USA)",
+      "name": "Gyruss",
+      "year": "1984",
+      "publisher": "Konami Industry Co. Ltd.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "H.E.R.O (USA)",
+      "fullpath": "coleco-H.E.R.O (USA)",
+      "name": "H.E.R.O",
+      "year": "1984",
+      "publisher": "Activision, Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Heist, The (USA)",
+      "fullpath": "coleco-Heist, The (USA)",
+      "name": "Heist, The",
+      "year": "1984",
+      "publisher": "Livesay Computer Games, Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Illusions (USA, Europe)",
+      "fullpath": "coleco-Illusions (USA, Europe)",
+      "name": "Illusions",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Its Only Rock 'N' Roll (USA)",
+      "fullpath": "coleco-Its Only Rock 'N' Roll (USA)",
+      "name": "Its Only Rock 'N' Roll",
+      "year": "1984",
+      "publisher": "K-Tel International Ltd.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "James Bond (USA)",
+      "fullpath": "coleco-James Bond (USA)",
+      "name": "James Bond",
+      "year": "1984",
+      "publisher": "Parker Brothers",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Juke Box (USA)",
+      "fullpath": "coleco-Juke Box (USA)",
+      "name": "Juke Box",
+      "year": "1984",
+      "publisher": "Spinnaker Software",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jumpman Junior (USA)",
+      "fullpath": "coleco-Jumpman Junior (USA)",
+      "name": "Jumpman Junior",
+      "year": "1983",
+      "publisher": "Epyx",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Jungle Hunt (USA)",
+      "fullpath": "coleco-Jungle Hunt (USA)",
+      "name": "Jungle Hunt",
+      "year": "1983",
+      "publisher": "Taito Corporation",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Ken Uston's Blackjack-Poker (USA, Europe)",
+      "fullpath": "coleco-Ken Uston's Blackjack-Poker (USA, Europe)",
+      "name": "Ken Uston's Blackjack-Poker",
+      "year": "1982",
+      "publisher": "Coleco",
+      "genre": "Casino",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Keystone Kapers (USA)",
+      "fullpath": "coleco-Keystone Kapers (USA)",
+      "name": "Keystone Kapers",
+      "year": "1984",
+      "publisher": "Activision, Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Lady Bug (USA, Europe)",
+      "fullpath": "coleco-Lady Bug (USA, Europe)",
+      "name": "Lady Bug",
+      "year": "1982",
+      "publisher": "Universal Co., Ltd.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Learning With Leeper (USA)",
+      "fullpath": "coleco-Learning With Leeper (USA)",
+      "name": "Learning With Leeper",
+      "year": "1984",
+      "publisher": "Sierra Entertainment",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Linking Logic (USA)",
+      "fullpath": "coleco-Linking Logic (USA)",
+      "name": "Linking Logic",
+      "year": "1984",
+      "publisher": "Fisher Price",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Logic Levels (USA)",
+      "fullpath": "coleco-Logic Levels (USA)",
+      "name": "Logic Levels",
+      "year": "1984",
+      "publisher": "Fisher-Price",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Looping (USA, Europe)",
+      "fullpath": "coleco-Looping (USA, Europe)",
+      "name": "Looping",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "M.A.S.H (Europe)",
+      "fullpath": "coleco-M.A.S.H (Europe)",
+      "name": "M.A.S.H",
+      "year": "1983",
+      "publisher": "Fox Interactive",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Memory Manor (USA)",
+      "fullpath": "coleco-Memory Manor (USA)",
+      "name": "Memory Manor",
+      "year": "1984",
+      "publisher": "Fisher-Price",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Meteoric Shower (USA)",
+      "fullpath": "coleco-Meteoric Shower (USA)",
+      "name": "Meteoric Shower",
+      "year": "1986",
+      "publisher": "Bit Corp.",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Miner 2049er (USA)",
+      "fullpath": "coleco-Miner 2049er (USA)",
+      "name": "Miner 2049er",
+      "year": "1982",
+      "publisher": "Big Five Software",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Monkey Academy (USA, Europe)",
+      "fullpath": "coleco-Monkey Academy (USA, Europe)",
+      "name": "Monkey Academy",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Montezuma's Revenge (USA)",
+      "fullpath": "coleco-Montezuma's Revenge (USA)",
+      "name": "Montezuma's Revenge",
+      "year": "1984",
+      "publisher": "Parker Bros",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Moonsweeper (USA)",
+      "fullpath": "coleco-Moonsweeper (USA)",
+      "name": "Moonsweeper",
+      "year": "1983",
+      "publisher": "Imagic",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Motocross Racer (USA)",
+      "fullpath": "coleco-Motocross Racer (USA)",
+      "name": "Motocross Racer",
+      "year": "1983",
+      "publisher": "Xonox",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mountain King (USA)",
+      "fullpath": "coleco-Mountain King (USA)",
+      "name": "Mountain King",
+      "year": "1984",
+      "publisher": "Sunrise Software Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mousetrap (USA, Europe)",
+      "fullpath": "coleco-Mousetrap (USA, Europe)",
+      "name": "Mousetrap",
+      "year": "1982",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mr Do!'s Castle (USA)",
+      "fullpath": "coleco-Mr Do!'s Castle (USA)",
+      "name": "Mr Do!'s Castle",
+      "year": "1984",
+      "publisher": "Parker Bros",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Mr. Do! (USA, Europe)",
+      "fullpath": "coleco-Mr. Do! (USA, Europe)",
+      "name": "Mr. Do!",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Nova Blast (USA)",
+      "fullpath": "coleco-Nova Blast (USA)",
+      "name": "Nova Blast",
+      "year": "1983",
+      "publisher": "Imagic",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Oil's Well (USA)",
+      "fullpath": "coleco-Oil's Well (USA)",
+      "name": "Oil's Well",
+      "year": "1984",
+      "publisher": "Sierra Entertainment",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Omega Race (USA, Europe)",
+      "fullpath": "coleco-Omega Race (USA, Europe)",
+      "name": "Omega Race",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "One on One (USA)",
+      "fullpath": "coleco-One on One (USA)",
+      "name": "One on One",
+      "year": "1984",
+      "publisher": "Micro Fun",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pepper II (USA, Europe)",
+      "fullpath": "coleco-Pepper II (USA, Europe)",
+      "name": "Pepper II",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pitfall II - Lost Caverns (USA)",
+      "fullpath": "coleco-Pitfall II - Lost Caverns (USA)",
+      "name": "Pitfall II - Lost Caverns",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pitfall! (USA)",
+      "fullpath": "coleco-Pitfall! (USA)",
+      "name": "Pitfall!",
+      "year": "1983",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Pitstop (USA)",
+      "fullpath": "coleco-Pitstop (USA)",
+      "name": "Pitstop",
+      "year": "1983",
+      "publisher": "Epyx",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Popeye (USA)",
+      "fullpath": "coleco-Popeye (USA)",
+      "name": "Popeye",
+      "year": "1983",
+      "publisher": "Parker Bros",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Q-bert (USA)",
+      "fullpath": "coleco-Q-bert (USA)",
+      "name": "Q-bert",
+      "year": "1983",
+      "publisher": "D. Gottlieb & Co.",
+      "genre": "Platform",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Q-bert II (USA)",
+      "fullpath": "coleco-Q-bert II (USA)",
+      "name": "Q-bert II",
+      "year": "1984",
+      "publisher": "D. Gottlieb & Co",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Quest for Quintana Roo (USA)",
+      "fullpath": "coleco-Quest for Quintana Roo (USA)",
+      "name": "Quest for Quintana Roo",
+      "year": "1983",
+      "publisher": "Sunrise Software Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "River Raid (USA)",
+      "fullpath": "coleco-River Raid (USA)",
+      "name": "River Raid",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Robin Hood (USA)",
+      "fullpath": "coleco-Robin Hood (USA)",
+      "name": "Robin Hood",
+      "year": "1983",
+      "publisher": "Xonox",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Roc 'N Rope (USA, Europe)",
+      "fullpath": "coleco-Roc 'N Rope (USA, Europe)",
+      "name": "Roc 'N Rope",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rock 'N' Bolt (USA)",
+      "fullpath": "coleco-Rock 'N' Bolt (USA)",
+      "name": "Rock 'N' Bolt",
+      "year": "1984",
+      "publisher": "Telegames, Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rocky Super-Action Boxing (USA, Europe)",
+      "fullpath": "coleco-Rocky Super-Action Boxing (USA, Europe)",
+      "name": "Rocky Super-Action Boxing",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Sports/Boxing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Rolloverture (USA)",
+      "fullpath": "coleco-Rolloverture (USA)",
+      "name": "Rolloverture",
+      "year": "1983",
+      "publisher": "Sunrise Software Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sammy Lightfoot (USA)",
+      "fullpath": "coleco-Sammy Lightfoot (USA)",
+      "name": "Sammy Lightfoot",
+      "year": "1984",
+      "publisher": "Sierra Entertainment",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sector Alpha (USA)",
+      "fullpath": "coleco-Sector Alpha (USA)",
+      "name": "Sector Alpha",
+      "year": "1983",
+      "publisher": "Spectravision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sewer Sam (USA)",
+      "fullpath": "coleco-Sewer Sam (USA)",
+      "name": "Sewer Sam",
+      "year": "1984",
+      "publisher": "Interphase",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Sir Lancelot (USA)",
+      "fullpath": "coleco-Sir Lancelot (USA)",
+      "name": "Sir Lancelot",
+      "year": "1983",
+      "publisher": "Xonox",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Skiing (USA)",
+      "fullpath": "coleco-Skiing (USA)",
+      "name": "Skiing",
+      "year": "1986",
+      "publisher": "Telegames, Inc.",
+      "genre": "Sports/Skiing",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Slither (USA)",
+      "fullpath": "coleco-Slither (USA)",
+      "name": "Slither",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Slurpy (USA)",
+      "fullpath": "coleco-Slurpy (USA)",
+      "name": "Slurpy",
+      "year": "1984",
+      "publisher": "Xonox",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Smurf Paint 'n Play Workshop (USA, Europe)",
+      "fullpath": "coleco-Smurf Paint 'n Play Workshop (USA, Europe)",
+      "name": "Smurf Paint 'n Play Workshop",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Smurf Rescue (USA, Europe)",
+      "fullpath": "coleco-Smurf Rescue (USA, Europe)",
+      "name": "Smurf Rescue",
+      "year": "1982",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Space Fury (USA, Europe)",
+      "fullpath": "coleco-Space Fury (USA, Europe)",
+      "name": "Space Fury",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Space Panic (USA, Europe)",
+      "fullpath": "coleco-Space Panic (USA, Europe)",
+      "name": "Space Panic",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Spectron (USA)",
+      "fullpath": "coleco-Spectron (USA)",
+      "name": "Spectron",
+      "year": "1983",
+      "publisher": "Spectravision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Spy Hunter (USA, Europe)",
+      "fullpath": "coleco-Spy Hunter (USA, Europe)",
+      "name": "Spy Hunter",
+      "year": "1984",
+      "publisher": "Bally/Midway",
+      "genre": "Driving",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Squish 'Em Sam! (USA)",
+      "fullpath": "coleco-Squish 'Em Sam! (USA)",
+      "name": "Squish 'Em Sam!",
+      "year": "1984",
+      "publisher": "Interphase",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Star Trek (USA, Europe)",
+      "fullpath": "coleco-Star Trek (USA, Europe)",
+      "name": "Star Trek",
+      "year": "1984",
+      "publisher": "SEGA Enterprises Ltd.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Star Wars (USA)",
+      "fullpath": "coleco-Star Wars (USA)",
+      "name": "Star Wars",
+      "year": "1984",
+      "publisher": "Atari Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Strike It! (USA)",
+      "fullpath": "coleco-Strike It! (USA)",
+      "name": "Strike It!",
+      "year": "1986",
+      "publisher": "Telegames, Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Subroc (USA, Europe)",
+      "fullpath": "coleco-Subroc (USA, Europe)",
+      "name": "Subroc",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Action Baseball (USA, Europe)",
+      "fullpath": "coleco-Super Action Baseball (USA, Europe)",
+      "name": "Super Action Baseball",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Sports/Baseball",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Action Football (USA, Europe)",
+      "fullpath": "coleco-Super Action Football (USA, Europe)",
+      "name": "Super Action Football",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Sports/Football",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Action Soccer (USA, Europe)",
+      "fullpath": "coleco-Super Action Soccer (USA, Europe)",
+      "name": "Super Action Soccer",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Sports/Soccer",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Cobra (USA)",
+      "fullpath": "coleco-Super Cobra (USA)",
+      "name": "Super Cobra",
+      "year": "1983",
+      "publisher": "Parker Bros",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Super Cross Force (USA)",
+      "fullpath": "coleco-Super Cross Force (USA)",
+      "name": "Super Cross Force",
+      "year": "1986",
+      "publisher": "Spectravision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tank Wars (USA)",
+      "fullpath": "coleco-Tank Wars (USA)",
+      "name": "Tank Wars",
+      "year": "1986",
+      "publisher": "Telegames, Inc.",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tapper (USA, Europe)",
+      "fullpath": "coleco-Tapper (USA, Europe)",
+      "name": "Tapper",
+      "year": "1984",
+      "publisher": "Bally/Midway",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Telly Turtle (USA, Europe)",
+      "fullpath": "coleco-Telly Turtle (USA, Europe)",
+      "name": "Telly Turtle",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Threshold (USA)",
+      "fullpath": "coleco-Threshold (USA)",
+      "name": "Threshold",
+      "year": "1983",
+      "publisher": "Sierra Entertainment",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Time Pilot (USA, Europe)",
+      "fullpath": "coleco-Time Pilot (USA, Europe)",
+      "name": "Time Pilot",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tomarc the Barbarian (USA)",
+      "fullpath": "coleco-Tomarc the Barbarian (USA)",
+      "name": "Tomarc the Barbarian",
+      "year": "1984",
+      "publisher": "Xonox",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tournament Tennis (USA)",
+      "fullpath": "coleco-Tournament Tennis (USA)",
+      "name": "Tournament Tennis",
+      "year": "1984",
+      "publisher": "Imagic",
+      "genre": "Sports/Tennis",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Turbo (USA, Europe)",
+      "fullpath": "coleco-Turbo (USA, Europe)",
+      "name": "Turbo",
+      "year": "1982",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Tutankham (USA)",
+      "fullpath": "coleco-Tutankham (USA)",
+      "name": "Tutankham",
+      "year": "1983",
+      "publisher": "Parker Bros",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Up 'N Down (USA)",
+      "fullpath": "coleco-Up 'N Down (USA)",
+      "name": "Up 'N Down",
+      "year": "1984",
+      "publisher": "Sega",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Venture (USA, Europe)",
+      "fullpath": "coleco-Venture (USA, Europe)",
+      "name": "Venture",
+      "year": "1982",
+      "publisher": "Exidy",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Victory (USA, Europe)",
+      "fullpath": "coleco-Victory (USA, Europe)",
+      "name": "Victory",
+      "year": "1983",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "War Games (USA, Europe)",
+      "fullpath": "coleco-War Games (USA, Europe)",
+      "name": "War Games",
+      "year": "1984",
+      "publisher": "Coleco",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "War Room (USA)",
+      "fullpath": "coleco-War Room (USA)",
+      "name": "War Room",
+      "year": "1983",
+      "publisher": "Probe 2000",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wing War (USA)",
+      "fullpath": "coleco-Wing War (USA)",
+      "name": "Wing War",
+      "year": "1983",
+      "publisher": "Imagic",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Wizard of Id's Wizmath (USA)",
+      "fullpath": "coleco-Wizard of Id's Wizmath (USA)",
+      "name": "Wizard of Id's Wizmath",
+      "year": "1983",
+      "publisher": "Sierravision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Word Feud (USA)",
+      "fullpath": "coleco-Word Feud (USA)",
+      "name": "Word Feud",
+      "year": "1984",
+      "publisher": "Xonox",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Zaxxon (USA, Europe)",
+      "fullpath": "coleco-Zaxxon (USA, Europe)",
+      "name": "Zaxxon",
+      "year": "1982",
+      "publisher": "Coleco",
+      "genre": "Shooter",
+      "rating": "HSRS - GA (General Audience)"
+    },
+    {
+      "id": "Zenji (USA)",
+      "fullpath": "coleco-Zenji (USA)",
+      "name": "Zenji",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "HSRS - GA (General Audience)"
+    }
+  ]
+}

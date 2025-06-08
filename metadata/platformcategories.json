@@ -1,0 +1,509 @@
+{
+  "platform": "platformcategories",
+  "totalGames": 55,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "platformcategories game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "platformcategories.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "2-Player_Games",
+      "fullpath": "platformcategories-2-Player_Games",
+      "name": "2-Player_Games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "3d_fighting_games",
+      "fullpath": "platformcategories-3d_fighting_games",
+      "name": "3d_fighting_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "4-player_games",
+      "fullpath": "platformcategories-4-player_games",
+      "name": "4-player_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aae",
+      "fullpath": "platformcategories-aae",
+      "name": "aae",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "american_laser_games",
+      "fullpath": "platformcategories-american_laser_games",
+      "name": "american_laser_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "arcade",
+      "fullpath": "platformcategories-arcade",
+      "name": "arcade",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "atari_classics",
+      "fullpath": "platformcategories-atari_classics",
+      "name": "atari_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ball_&_paddle_games",
+      "fullpath": "platformcategories-ball_&_paddle_games",
+      "name": "ball_&_paddle_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "beat_em_ups",
+      "fullpath": "platformcategories-beat_em_ups",
+      "name": "beat_em_ups",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "board_&_card_games",
+      "fullpath": "platformcategories-board_&_card_games",
+      "name": "board_&_card_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "capcom_classics",
+      "fullpath": "platformcategories-capcom_classics",
+      "name": "capcom_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "capcom_play_system",
+      "fullpath": "platformcategories-capcom_play_system",
+      "name": "capcom_play_system",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "capcom_play_system_ii",
+      "fullpath": "platformcategories-capcom_play_system_ii",
+      "name": "capcom_play_system_ii",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "capcom_play_system_iii",
+      "fullpath": "platformcategories-capcom_play_system_iii",
+      "name": "capcom_play_system_iii",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "casino_games",
+      "fullpath": "platformcategories-casino_games",
+      "name": "casino_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "cave",
+      "fullpath": "platformcategories-cave",
+      "name": "cave",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "chd_required",
+      "fullpath": "platformcategories-chd_required",
+      "name": "chd_required",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "daphne",
+      "fullpath": "platformcategories-daphne",
+      "name": "daphne",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "data_east_classics",
+      "fullpath": "platformcategories-data_east_classics",
+      "name": "data_east_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fighting_games",
+      "fullpath": "platformcategories-fighting_games",
+      "name": "fighting_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "final_burn_alpha",
+      "fullpath": "platformcategories-final_burn_alpha",
+      "name": "final_burn_alpha",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "flying_games",
+      "fullpath": "platformcategories-flying_games",
+      "name": "flying_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "irem_classics",
+      "fullpath": "platformcategories-irem_classics",
+      "name": "irem_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "jaleco_classics",
+      "fullpath": "platformcategories-jaleco_classics",
+      "name": "jaleco_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "konami_classics",
+      "fullpath": "platformcategories-konami_classics",
+      "name": "konami_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "light_gun_games",
+      "fullpath": "platformcategories-light_gun_games",
+      "name": "light_gun_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "mame",
+      "fullpath": "platformcategories-mame",
+      "name": "mame",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "maze_games",
+      "fullpath": "platformcategories-maze_games",
+      "name": "maze_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "midway_classics",
+      "fullpath": "platformcategories-midway_classics",
+      "name": "midway_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "multigames",
+      "fullpath": "platformcategories-multigames",
+      "name": "multigames",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "namco_classics",
+      "fullpath": "platformcategories-namco_classics",
+      "name": "namco_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "namco_system_22",
+      "fullpath": "platformcategories-namco_system_22",
+      "name": "namco_system_22",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "nintendo_classics",
+      "fullpath": "platformcategories-nintendo_classics",
+      "name": "nintendo_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pinball",
+      "fullpath": "platformcategories-pinball",
+      "name": "pinball",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pinball_arcade",
+      "fullpath": "platformcategories-pinball_arcade",
+      "name": "pinball_arcade",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "platform_games",
+      "fullpath": "platformcategories-platform_games",
+      "name": "platform_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "puzzle_games",
+      "fullpath": "platformcategories-puzzle_games",
+      "name": "puzzle_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "racing_games",
+      "fullpath": "platformcategories-racing_games",
+      "name": "racing_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rhythm_games",
+      "fullpath": "platformcategories-rhythm_games",
+      "name": "rhythm_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "run_&_gun_games",
+      "fullpath": "platformcategories-run_&_gun_games",
+      "name": "run_&_gun_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sega_ages",
+      "fullpath": "platformcategories-sega_ages",
+      "name": "sega_ages",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sega_classics",
+      "fullpath": "platformcategories-sega_classics",
+      "name": "sega_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "shoot_em_ups",
+      "fullpath": "platformcategories-shoot_em_ups",
+      "name": "shoot_em_ups",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "shooter_games",
+      "fullpath": "platformcategories-shooter_games",
+      "name": "shooter_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "singe",
+      "fullpath": "platformcategories-singe",
+      "name": "singe",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "snk_classics",
+      "fullpath": "platformcategories-snk_classics",
+      "name": "snk_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "spinner_games",
+      "fullpath": "platformcategories-spinner_games",
+      "name": "spinner_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sports_games",
+      "fullpath": "platformcategories-sports_games",
+      "name": "sports_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "survival-horror_games",
+      "fullpath": "platformcategories-survival-horror_games",
+      "name": "survival-horror_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "taito_classics",
+      "fullpath": "platformcategories-taito_classics",
+      "name": "taito_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "teknoparrot",
+      "fullpath": "platformcategories-teknoparrot",
+      "name": "teknoparrot",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "trackball_games",
+      "fullpath": "platformcategories-trackball_games",
+      "name": "trackball_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "vector_games",
+      "fullpath": "platformcategories-vector_games",
+      "name": "vector_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "vertically_oriented_games",
+      "fullpath": "platformcategories-vertically_oriented_games",
+      "name": "vertically_oriented_games",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "williams_classics",
+      "fullpath": "platformcategories-williams_classics",
+      "name": "williams_classics",
+      "year": "2022",
+      "publisher": "Pixelcade",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

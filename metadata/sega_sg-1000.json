@@ -1,0 +1,1157 @@
+{
+  "platform": "sega_sg-1000",
+  "totalGames": 127,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "sega_sg-1000 game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "sega_sg-1000.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "1000-007 James Bond (Japan) (v2.7) (Othello Multivision)",
+      "fullpath": "sega_sg-1000-007 James Bond (Japan) (v2.7) (Othello Multivision)",
+      "name": "007 James Bond",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Bank Panic (Japan)",
+      "fullpath": "sega_sg-1000-Bank Panic (Japan)",
+      "name": "Bank Panic",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Black Onyx, The (Japan)",
+      "fullpath": "sega_sg-1000-Black Onyx, The (Japan)",
+      "name": "Black Onyx, The",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Bomb Jack (Japan)",
+      "fullpath": "sega_sg-1000-Bomb Jack (Japan)",
+      "name": "Bomb Jack",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Bomberman Special (Japan)",
+      "fullpath": "sega_sg-1000-Bomberman Special (Japan)",
+      "name": "Bomberman Special",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Borderline (Japan, Europe)",
+      "fullpath": "sega_sg-1000-Borderline (Japan, Europe)",
+      "name": "Borderline",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-C_So! (Japan)",
+      "fullpath": "sega_sg-1000-C_So! (Japan)",
+      "name": "C_So!",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Castle, The (Japan)",
+      "fullpath": "sega_sg-1000-Castle, The (Japan)",
+      "name": "Castle, The",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Chack'n Pop (Japan)",
+      "fullpath": "sega_sg-1000-Chack'n Pop (Japan)",
+      "name": "Chack'n Pop",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Challenge Derby (Japan) (16kB) (Othello Multivision)",
+      "fullpath": "sega_sg-1000-Challenge Derby (Japan) (16kB) (Othello Multivision)",
+      "name": "Challenge Derby",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Challenge Derby (Japan) (40kB) (Othello Multivision)",
+      "fullpath": "sega_sg-1000-Challenge Derby (Japan) (40kB) (Othello Multivision)",
+      "name": "Challenge Derby",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Challenge Derby (Japan) (vB) (Othello Multivision)",
+      "fullpath": "sega_sg-1000-Challenge Derby (Japan) (vB) (Othello Multivision)",
+      "name": "Challenge Derby",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Baseball (Japan) (16kB)",
+      "fullpath": "sega_sg-1000-Champion Baseball (Japan) (16kB)",
+      "name": "Champion Baseball",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Baseball (Japan) (40kB)",
+      "fullpath": "sega_sg-1000-Champion Baseball (Japan) (40kB)",
+      "name": "Champion Baseball",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Baseball (Japan)",
+      "fullpath": "sega_sg-1000-Champion Baseball (Japan)",
+      "name": "Champion Baseball",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Billiards (Japan)",
+      "fullpath": "sega_sg-1000-Champion Billiards (Japan)",
+      "name": "Champion Billiards",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Boxing (Japan) (MyCard)",
+      "fullpath": "sega_sg-1000-Champion Boxing (Japan) (MyCard)",
+      "name": "Champion Boxing",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Boxing (Japan)",
+      "fullpath": "sega_sg-1000-Champion Boxing (Japan)",
+      "name": "Champion Boxing",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Golf (Japan) (MyCard)",
+      "fullpath": "sega_sg-1000-Champion Golf (Japan) (MyCard)",
+      "name": "Champion Golf",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Golf (Japan)",
+      "fullpath": "sega_sg-1000-Champion Golf (Japan)",
+      "name": "Champion Golf",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Ice Hockey (Japan)",
+      "fullpath": "sega_sg-1000-Champion Ice Hockey (Japan)",
+      "name": "Champion Ice Hockey",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Kendou (Japan)",
+      "fullpath": "sega_sg-1000-Champion Kendou (Japan)",
+      "name": "Champion Kendou",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Pro Wrestling (Japan)",
+      "fullpath": "sega_sg-1000-Champion Pro Wrestling (Japan)",
+      "name": "Champion Pro Wrestling",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Soccer (Japan)",
+      "fullpath": "sega_sg-1000-Champion Soccer (Japan)",
+      "name": "Champion Soccer",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Champion Tennis (Japan)",
+      "fullpath": "sega_sg-1000-Champion Tennis (Japan)",
+      "name": "Champion Tennis",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Championship Lode Runner (Japan)",
+      "fullpath": "sega_sg-1000-Championship Lode Runner (Japan)",
+      "name": "Championship Lode Runner",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Choplifter (Japan) (Beta)",
+      "fullpath": "sega_sg-1000-Choplifter (Japan) (Beta)",
+      "name": "Choplifter",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Choplifter (Japan)",
+      "fullpath": "sega_sg-1000-Choplifter (Japan)",
+      "name": "Choplifter",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen) (Japan) (SC-3000)",
+      "fullpath": "sega_sg-1000-Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen) (Japan) (SC-3000)",
+      "name": "Chuugaku Hisshuu Eisakubun",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Congo Bongo (Japan, Europe) (Alt)",
+      "fullpath": "sega_sg-1000-Congo Bongo (Japan, Europe) (Alt)",
+      "name": "Congo Bongo",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Congo Bongo (Japan, Europe)",
+      "fullpath": "sega_sg-1000-Congo Bongo (Japan, Europe)",
+      "name": "Congo Bongo",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Congo Bongo (Japan) (Rev 1) (40kB)",
+      "fullpath": "sega_sg-1000-Congo Bongo (Japan) (Rev 1) (40kB)",
+      "name": "Congo Bongo",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Dokidoki Penguin Land (Japan)",
+      "fullpath": "sega_sg-1000-Dokidoki Penguin Land (Japan)",
+      "name": "Dokidoki Penguin Land",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Dragon Wang (Japan) (Alt 1)",
+      "fullpath": "sega_sg-1000-Dragon Wang (Japan) (Alt 1)",
+      "name": "Dragon Wang",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Dragon Wang (Japan) (Alt)",
+      "fullpath": "sega_sg-1000-Dragon Wang (Japan) (Alt)",
+      "name": "Dragon Wang",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Dragon Wang (Japan)",
+      "fullpath": "sega_sg-1000-Dragon Wang (Japan)",
+      "name": "Dragon Wang",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Drol (Japan)",
+      "fullpath": "sega_sg-1000-Drol (Japan)",
+      "name": "Drol",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Elevator Action (Japan)",
+      "fullpath": "sega_sg-1000-Elevator Action (Japan)",
+      "name": "Elevator Action",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Exerion (Japan, Europe)",
+      "fullpath": "sega_sg-1000-Exerion (Japan, Europe)",
+      "name": "Exerion",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Flicky (Japan) (Rev 1)",
+      "fullpath": "sega_sg-1000-Flicky (Japan) (Rev 1)",
+      "name": "Flicky",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Flicky (Japan)",
+      "fullpath": "sega_sg-1000-Flicky (Japan)",
+      "name": "Flicky",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Girl's Garden (Japan)",
+      "fullpath": "sega_sg-1000-Girl's Garden (Japan)",
+      "name": "Girl's Garden",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Golgo 13 (Japan)",
+      "fullpath": "sega_sg-1000-Golgo 13 (Japan)",
+      "name": "Golgo 13",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-GP World (Japan) (Rev 1)",
+      "fullpath": "sega_sg-1000-GP World (Japan) (Rev 1)",
+      "name": "GP World",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-GP World (Japan)",
+      "fullpath": "sega_sg-1000-GP World (Japan)",
+      "name": "GP World",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Gulkave (Japan)",
+      "fullpath": "sega_sg-1000-Gulkave (Japan)",
+      "name": "Gulkave",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Guzzler (Japan) (OM)",
+      "fullpath": "sega_sg-1000-Guzzler (Japan) (OM)",
+      "name": "Guzzler",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Guzzler (Japan) (Othello Multivision)",
+      "fullpath": "sega_sg-1000-Guzzler (Japan) (Othello Multivision)",
+      "name": "Guzzler",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-H.E.R.O. (Japan)",
+      "fullpath": "sega_sg-1000-H.E.R.O. (Japan)",
+      "name": "H.E.R.O.",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Hang-On II (Japan)",
+      "fullpath": "sega_sg-1000-Hang-On II (Japan)",
+      "name": "Hang-On II",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Home Mahjong (Japan) (Rev 1)",
+      "fullpath": "sega_sg-1000-Home Mahjong (Japan) (Rev 1)",
+      "name": "Home Mahjong",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Home Mahjong (Japan) (v1.1)",
+      "fullpath": "sega_sg-1000-Home Mahjong (Japan) (v1.1)",
+      "name": "Home Mahjong",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Home Mahjong (Japan)",
+      "fullpath": "sega_sg-1000-Home Mahjong (Japan)",
+      "name": "Home Mahjong",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Hustle Chumy (Japan)",
+      "fullpath": "sega_sg-1000-Hustle Chumy (Japan)",
+      "name": "Hustle Chumy",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Hyper Sports (Japan)",
+      "fullpath": "sega_sg-1000-Hyper Sports (Japan)",
+      "name": "Hyper Sports",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-James Bond 007 (Japan) (Othello Multivision)",
+      "fullpath": "sega_sg-1000-James Bond 007 (Japan) (Othello Multivision)",
+      "name": "James Bond 007",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-James Bond 007 (Japan) (v2.7) (OM)",
+      "fullpath": "sega_sg-1000-James Bond 007 (Japan) (v2.7) (OM)",
+      "name": "James Bond 007",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-James Bond 007 (Japan)",
+      "fullpath": "sega_sg-1000-James Bond 007 (Japan)",
+      "name": "James Bond 007",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Kings Valley (Japan)",
+      "fullpath": "sega_sg-1000-Kings Valley (Japan)",
+      "name": "Kings Valley",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Knightmare (Japan)",
+      "fullpath": "sega_sg-1000-Knightmare (Japan)",
+      "name": "Knightmare",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Legend of Kage The (Japan)",
+      "fullpath": "sega_sg-1000-Legend of Kage The (Japan)",
+      "name": "Legend of Kage The",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Lode Runner (Japan, Europe)",
+      "fullpath": "sega_sg-1000-Lode Runner (Japan, Europe)",
+      "name": "Lode Runner",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Magical Kid Wiz (Japan)",
+      "fullpath": "sega_sg-1000-Magical Kid Wiz (Japan)",
+      "name": "Magical Kid Wiz",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Mahjong (Japan) (English Title)",
+      "fullpath": "sega_sg-1000-Mahjong (Japan) (English Title)",
+      "name": "Mahjong",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Mahjong (Japan)",
+      "fullpath": "sega_sg-1000-Mahjong (Japan)",
+      "name": "Mahjong",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Monaco GP (Japan) (Rev 1)",
+      "fullpath": "sega_sg-1000-Monaco GP (Japan) (Rev 1)",
+      "name": "Monaco GP",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Monaco GP (Japan) (Rev 2)",
+      "fullpath": "sega_sg-1000-Monaco GP (Japan) (Rev 2)",
+      "name": "Monaco GP",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Monaco GP (Japan)",
+      "fullpath": "sega_sg-1000-Monaco GP (Japan)",
+      "name": "Monaco GP",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-N-Sub (Europe) (1988)",
+      "fullpath": "sega_sg-1000-N-Sub (Europe) (1988)",
+      "name": "N-Sub",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-N-Sub (Europe)",
+      "fullpath": "sega_sg-1000-N-Sub (Europe)",
+      "name": "N-Sub",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-N-Sub (Japan) (16kB)",
+      "fullpath": "sega_sg-1000-N-Sub (Japan) (16kB)",
+      "name": "N-Sub",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-N-Sub (Japan) (40kB)",
+      "fullpath": "sega_sg-1000-N-Sub (Japan) (40kB)",
+      "name": "N-Sub",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Ninja Princess (Japan)",
+      "fullpath": "sega_sg-1000-Ninja Princess (Japan)",
+      "name": "Ninja Princess",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)",
+      "fullpath": "sega_sg-1000-Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)",
+      "name": "Okamoto Ayako no Match Play Golf",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)",
+      "fullpath": "sega_sg-1000-Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)",
+      "name": "Okamoto Ayako no Match Play Golf",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Orguss (Japan, Europe)",
+      "fullpath": "sega_sg-1000-Orguss (Japan, Europe)",
+      "name": "Orguss",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Othello (Japan)",
+      "fullpath": "sega_sg-1000-Othello (Japan)",
+      "name": "Othello",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Pacar (Japan, Europe)",
+      "fullpath": "sega_sg-1000-Pacar (Japan, Europe)",
+      "name": "Pacar",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Pacar (Japan) (40kB)",
+      "fullpath": "sega_sg-1000-Pacar (Japan) (40kB)",
+      "name": "Pacar",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Pachinko (Japan)",
+      "fullpath": "sega_sg-1000-Pachinko (Japan)",
+      "name": "Pachinko",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Pachinko II (Japan)",
+      "fullpath": "sega_sg-1000-Pachinko II (Japan)",
+      "name": "Pachinko II",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Pippols (Taiwan)",
+      "fullpath": "sega_sg-1000-Pippols (Taiwan)",
+      "name": "Pippols",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Pitfall II - The Lost Caverns (Japan) (Alt)",
+      "fullpath": "sega_sg-1000-Pitfall II - The Lost Caverns (Japan) (Alt)",
+      "name": "Pitfall II - The Lost Caverns",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Pitfall II - The Lost Caverns (Japan) (Rev 1)",
+      "fullpath": "sega_sg-1000-Pitfall II - The Lost Caverns (Japan) (Rev 1)",
+      "name": "Pitfall II - The Lost Caverns",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Pitfall II - The Lost Caverns (Japan)",
+      "fullpath": "sega_sg-1000-Pitfall II - The Lost Caverns (Japan)",
+      "name": "Pitfall II - The Lost Caverns",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Pop Flamer (Japan, Europe)",
+      "fullpath": "sega_sg-1000-Pop Flamer (Japan, Europe)",
+      "name": "Pop Flamer",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Q-bert (Japan) (OM)",
+      "fullpath": "sega_sg-1000-Q-bert (Japan) (OM)",
+      "name": "Q-bert",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Q-bert (Japan) (Othello Multivision)",
+      "fullpath": "sega_sg-1000-Q-bert (Japan) (Othello Multivision)",
+      "name": "Q-bert",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Rally-X (Japan)",
+      "fullpath": "sega_sg-1000-Rally-X (Japan)",
+      "name": "Rally-X",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Road Fighter (Japan)",
+      "fullpath": "sega_sg-1000-Road Fighter (Japan)",
+      "name": "Road Fighter",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Rock n' Bolt (Japan)",
+      "fullpath": "sega_sg-1000-Rock n' Bolt (Japan)",
+      "name": "Rock n' Bolt",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Safari Hunting (Japan)",
+      "fullpath": "sega_sg-1000-Safari Hunting (Japan)",
+      "name": "Safari Hunting",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Safari Race (Japan)",
+      "fullpath": "sega_sg-1000-Safari Race (Japan)",
+      "name": "Safari Race",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-San-nin Mahjong (Japan)",
+      "fullpath": "sega_sg-1000-San-nin Mahjong (Japan)",
+      "name": "San-nin Mahjong",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Sega Flipper (Japan, Europe)",
+      "fullpath": "sega_sg-1000-Sega Flipper (Japan, Europe)",
+      "name": "Sega Flipper",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Sega Flipper (Japan) (40kB)",
+      "fullpath": "sega_sg-1000-Sega Flipper (Japan) (40kB)",
+      "name": "Sega Flipper",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Sega-Galaga (Japan) (40kB)",
+      "fullpath": "sega_sg-1000-Sega-Galaga (Japan) (40kB)",
+      "name": "Sega-Galaga",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Sega-Galaga (Japan)",
+      "fullpath": "sega_sg-1000-Sega-Galaga (Japan)",
+      "name": "Sega-Galaga",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Serizawa Hachidan no Tsumeshogi (Japan)",
+      "fullpath": "sega_sg-1000-Serizawa Hachidan no Tsumeshogi (Japan)",
+      "name": "Serizawa Hachidan no Tsumeshogi",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Serizawa Hachidan no Tsumeshougi (Japan)",
+      "fullpath": "sega_sg-1000-Serizawa Hachidan no Tsumeshougi (Japan)",
+      "name": "Serizawa Hachidan no Tsumeshougi",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Shinnyushain Tooru Kun (Japan)",
+      "fullpath": "sega_sg-1000-Shinnyushain Tooru Kun (Japan)",
+      "name": "Shinnyushain Tooru Kun",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Sindbad Mystery (Japan, Europe)",
+      "fullpath": "sega_sg-1000-Sindbad Mystery (Japan, Europe)",
+      "name": "Sindbad Mystery",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Soukoban (Japan)",
+      "fullpath": "sega_sg-1000-Soukoban (Japan)",
+      "name": "Soukoban",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Space Armor (Japan) (v2.0) (Newer) (Othello Multivision)",
+      "fullpath": "sega_sg-1000-Space Armor (Japan) (v2.0) (Newer) (Othello Multivision)",
+      "name": "Space Armor",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Space Invaders (Japan)",
+      "fullpath": "sega_sg-1000-Space Invaders (Japan)",
+      "name": "Space Invaders",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Space Mountain (Japan) (OM)",
+      "fullpath": "sega_sg-1000-Space Mountain (Japan) (OM)",
+      "name": "Space Mountain",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Space Mountain (Japan) (Othello Multivision)",
+      "fullpath": "sega_sg-1000-Space Mountain (Japan) (Othello Multivision)",
+      "name": "Space Mountain",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Space Slalom (Japan)",
+      "fullpath": "sega_sg-1000-Space Slalom (Japan)",
+      "name": "Space Slalom",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Star Force (Japan)",
+      "fullpath": "sega_sg-1000-Star Force (Japan)",
+      "name": "Star Force",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Star Jacker (Japan, Europe) (Rev 1)",
+      "fullpath": "sega_sg-1000-Star Jacker (Japan, Europe) (Rev 1)",
+      "name": "Star Jacker",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Star Jacker (Japan, Europe) (Rev 2)",
+      "fullpath": "sega_sg-1000-Star Jacker (Japan, Europe) (Rev 2)",
+      "name": "Star Jacker",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Star Jacker (Japan, Europe) (v1.2)",
+      "fullpath": "sega_sg-1000-Star Jacker (Japan, Europe) (v1.2)",
+      "name": "Star Jacker",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Star Jacker (Japan)",
+      "fullpath": "sega_sg-1000-Star Jacker (Japan)",
+      "name": "Star Jacker",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Star Soldier (Taiwan)",
+      "fullpath": "sega_sg-1000-Star Soldier (Taiwan)",
+      "name": "Star Soldier",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Super Tank (Japan)",
+      "fullpath": "sega_sg-1000-Super Tank (Japan)",
+      "name": "Super Tank",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Tank Battalion (Japan)",
+      "fullpath": "sega_sg-1000-Tank Battalion (Japan)",
+      "name": "Tank Battalion",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Tanoshii Sansuu (Shougaku 4-Nen Ge) (Japan) (SC-3000)",
+      "fullpath": "sega_sg-1000-Tanoshii Sansuu (Shougaku 4-Nen Ge) (Japan) (SC-3000)",
+      "name": "Tanoshii Sansuu",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Tanoshii Sansuu (Shougaku 4-Nen Jou) (Japan) (SC-3000)",
+      "fullpath": "sega_sg-1000-Tanoshii Sansuu (Shougaku 4-Nen Jou) (Japan) (SC-3000)",
+      "name": "Tanoshii Sansuu",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Terebi Oekaki (Japan)",
+      "fullpath": "sega_sg-1000-Terebi Oekaki (Japan)",
+      "name": "Terebi Oekaki",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-TwinBee (Japan)",
+      "fullpath": "sega_sg-1000-TwinBee (Japan)",
+      "name": "TwinBee",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Wonder Boy (Japan) (Rev 1)",
+      "fullpath": "sega_sg-1000-Wonder Boy (Japan) (Rev 1)",
+      "name": "Wonder Boy",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Wonder Boy (Japan)",
+      "fullpath": "sega_sg-1000-Wonder Boy (Japan)",
+      "name": "Wonder Boy",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Yamato (Japan, Europe)",
+      "fullpath": "sega_sg-1000-Yamato (Japan, Europe)",
+      "name": "Yamato",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Yie Ar Kung-Fu II (Japan)",
+      "fullpath": "sega_sg-1000-Yie Ar Kung-Fu II (Japan)",
+      "name": "Yie Ar Kung-Fu II",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Zaxxon (Japan)",
+      "fullpath": "sega_sg-1000-Zaxxon (Japan)",
+      "name": "Zaxxon",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Zippy Race (Japan)",
+      "fullpath": "sega_sg-1000-Zippy Race (Japan)",
+      "name": "Zippy Race",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "1000-Zoom 909 (Japan)",
+      "fullpath": "sega_sg-1000-Zoom 909 (Japan)",
+      "name": "Zoom 909",
+      "year": "1983",
+      "publisher": "Sega",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

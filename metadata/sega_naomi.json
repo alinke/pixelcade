@@ -1,0 +1,752 @@
+{
+  "platform": "sega_naomi",
+  "totalGames": 82,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "sega_naomi game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "sega_naomi.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "18wheelr",
+      "fullpath": "sega_naomi-18wheelr",
+      "name": "18wheelr",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "ausfache",
+      "fullpath": "sega_naomi-ausfache",
+      "name": "ausfache",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "azumanga",
+      "fullpath": "sega_naomi-azumanga",
+      "name": "azumanga",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "bdrdown",
+      "fullpath": "sega_naomi-bdrdown",
+      "name": "bdrdown",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "beachspi",
+      "fullpath": "sega_naomi-beachspi",
+      "name": "beachspi",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "brickppl",
+      "fullpath": "sega_naomi-brickppl",
+      "name": "brickppl",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "capsnk",
+      "fullpath": "sega_naomi-capsnk",
+      "name": "capsnk",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "chocomk",
+      "fullpath": "sega_naomi-chocomk",
+      "name": "chocomk",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "cleoftp",
+      "fullpath": "sega_naomi-cleoftp",
+      "name": "cleoftp",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "crzytaxi",
+      "fullpath": "sega_naomi-crzytaxi",
+      "name": "crzytaxi",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "csmash",
+      "fullpath": "sega_naomi-csmash",
+      "name": "csmash",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "cspike",
+      "fullpath": "sega_naomi-cspike",
+      "name": "cspike",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "cvs2",
+      "fullpath": "sega_naomi-cvs2",
+      "name": "cvs2",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "cvsgd",
+      "fullpath": "sega_naomi-cvsgd",
+      "name": "cvsgd",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "doa2",
+      "fullpath": "sega_naomi-doa2",
+      "name": "doa2",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "ggram2",
+      "fullpath": "sega_naomi-ggram2",
+      "name": "ggram2",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "ggx",
+      "fullpath": "sega_naomi-ggx",
+      "name": "ggx",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "ggxx",
+      "fullpath": "sega_naomi-ggxx",
+      "name": "ggxx",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "ggxxac",
+      "fullpath": "sega_naomi-ggxxac",
+      "name": "ggxxac",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "ggxxrl",
+      "fullpath": "sega_naomi-ggxxrl",
+      "name": "ggxxrl",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "ggxxsla",
+      "fullpath": "sega_naomi-ggxxsla",
+      "name": "ggxxsla",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "gram2000",
+      "fullpath": "sega_naomi-gram2000",
+      "name": "gram2000",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "gundmct",
+      "fullpath": "sega_naomi-gundmct",
+      "name": "gundmct",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "gundmgd",
+      "fullpath": "sega_naomi-gundmgd",
+      "name": "gundmgd",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "gundmxgd",
+      "fullpath": "sega_naomi-gundmxgd",
+      "name": "gundmxgd",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "gwing2",
+      "fullpath": "sega_naomi-gwing2",
+      "name": "gwing2",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "hmgeo",
+      "fullpath": "sega_naomi-hmgeo",
+      "name": "hmgeo",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "illvelo.png",
+      "fullpath": "sega_naomi-illvelo.png",
+      "name": "illvelo.png",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "initd",
+      "fullpath": "sega_naomi-initd",
+      "name": "initd",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "initdexp",
+      "fullpath": "sega_naomi-initdexp",
+      "name": "initdexp",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "initdv2j",
+      "fullpath": "sega_naomi-initdv2j",
+      "name": "initdv2j",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "inunoos",
+      "fullpath": "sega_naomi-inunoos",
+      "name": "inunoos",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "jambo",
+      "fullpath": "sega_naomi-jambo",
+      "name": "jambo",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "jingystm",
+      "fullpath": "sega_naomi-jingystm",
+      "name": "jingystm",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "kingrt66",
+      "fullpath": "sega_naomi-kingrt66",
+      "name": "kingrt66",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "mamonoro",
+      "fullpath": "sega_naomi-mamonoro",
+      "name": "mamonoro",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "marstv",
+      "fullpath": "sega_naomi-marstv",
+      "name": "marstv",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "meltyb",
+      "fullpath": "sega_naomi-meltyb",
+      "name": "meltyb",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "monkeyba",
+      "fullpath": "sega_naomi-monkeyba",
+      "name": "monkeyba",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "mushi2k5",
+      "fullpath": "sega_naomi-mushi2k5",
+      "name": "mushi2k5",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "mushik2e",
+      "fullpath": "sega_naomi-mushik2e",
+      "name": "mushik2e",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "mvsc2u",
+      "fullpath": "sega_naomi-mvsc2u",
+      "name": "mvsc2u",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "otrigger",
+      "fullpath": "sega_naomi-otrigger",
+      "name": "otrigger",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "pjustic",
+      "fullpath": "sega_naomi-pjustic",
+      "name": "pjustic",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "pstone",
+      "fullpath": "sega_naomi-pstone",
+      "name": "pstone",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "pstone2",
+      "fullpath": "sega_naomi-pstone2",
+      "name": "pstone2",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "psyvar2",
+      "fullpath": "sega_naomi-psyvar2",
+      "name": "psyvar2",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "qmegamis",
+      "fullpath": "sega_naomi-qmegamis",
+      "name": "qmegamis",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "radirgy",
+      "fullpath": "sega_naomi-radirgy",
+      "name": "radirgy",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "radirgyn",
+      "fullpath": "sega_naomi-radirgyn",
+      "name": "radirgyn",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "rhytngk",
+      "fullpath": "sega_naomi-rhytngk",
+      "name": "rhytngk",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "ringout",
+      "fullpath": "sega_naomi-ringout",
+      "name": "ringout",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "senko",
+      "fullpath": "sega_naomi-senko",
+      "name": "senko",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "senkosp",
+      "fullpath": "sega_naomi-senkosp",
+      "name": "senkosp",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "sfz3ugd",
+      "fullpath": "sega_naomi-sfz3ugd",
+      "name": "sfz3ugd",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "slashout",
+      "fullpath": "sega_naomi-slashout",
+      "name": "slashout",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "soulsurf",
+      "fullpath": "sega_naomi-soulsurf",
+      "name": "soulsurf",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "spawn",
+      "fullpath": "sega_naomi-spawn",
+      "name": "spawn",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "spkrbtl",
+      "fullpath": "sega_naomi-spkrbtl",
+      "name": "spkrbtl",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "sprtjam",
+      "fullpath": "sega_naomi-sprtjam",
+      "name": "sprtjam",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "starseek",
+      "fullpath": "sega_naomi-starseek",
+      "name": "starseek",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "takoron",
+      "fullpath": "sega_naomi-takoron",
+      "name": "takoron",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "toyfight",
+      "fullpath": "sega_naomi-toyfight",
+      "name": "toyfight",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "undefeat",
+      "fullpath": "sega_naomi-undefeat",
+      "name": "undefeat",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "vathlete",
+      "fullpath": "sega_naomi-vathlete",
+      "name": "vathlete",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "vf4cart",
+      "fullpath": "sega_naomi-vf4cart",
+      "name": "vf4cart",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "vf4evoct",
+      "fullpath": "sega_naomi-vf4evoct",
+      "name": "vf4evoct",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "vf4tuned",
+      "fullpath": "sega_naomi-vf4tuned",
+      "name": "vf4tuned",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "virnba",
+      "fullpath": "sega_naomi-virnba",
+      "name": "virnba",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "vonot",
+      "fullpath": "sega_naomi-vonot",
+      "name": "vonot",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "vs2_2k",
+      "fullpath": "sega_naomi-vs2_2k",
+      "name": "vs2_2k",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "vstrik3",
+      "fullpath": "sega_naomi-vstrik3",
+      "name": "vstrik3",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "vstrik3c",
+      "fullpath": "sega_naomi-vstrik3c",
+      "name": "vstrik3c",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "vtennis",
+      "fullpath": "sega_naomi-vtennis",
+      "name": "vtennis",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "vtennis2",
+      "fullpath": "sega_naomi-vtennis2",
+      "name": "vtennis2",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "vtennis3",
+      "fullpath": "sega_naomi-vtennis3",
+      "name": "vtennis3",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "vtennisg",
+      "fullpath": "sega_naomi-vtennisg",
+      "name": "vtennisg",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "wldkicks",
+      "fullpath": "sega_naomi-wldkicks",
+      "name": "wldkicks",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "wldrider",
+      "fullpath": "sega_naomi-wldrider",
+      "name": "wldrider",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "wwfroyal",
+      "fullpath": "sega_naomi-wwfroyal",
+      "name": "wwfroyal",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "zerogu2",
+      "fullpath": "sega_naomi-zerogu2",
+      "name": "zerogu2",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    },
+    {
+      "id": "zombrvn",
+      "fullpath": "sega_naomi-zombrvn",
+      "name": "zombrvn",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Sega",
+      "rating": "Misc"
+    }
+  ]
+}

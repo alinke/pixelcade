@@ -1,0 +1,212 @@
+{
+  "platform": "sega_cd_32x",
+  "totalGames": 22,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "sega_cd_32x game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "sega_cd_32x.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Corpse Killer (32X) (USA)",
+      "fullpath": "sega_cd_32x-Corpse Killer (32X) (USA)",
+      "name": "Corpse Killer  ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Corpse Killer (USA) (Sega CD 32X)",
+      "fullpath": "sega_cd_32x-Corpse Killer (USA) (Sega CD 32X)",
+      "name": "Corpse Killer  ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fahrenheit (32X) (USA)",
+      "fullpath": "sega_cd_32x-Fahrenheit (32X) (USA)",
+      "name": "Fahrenheit  ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fahrenheit (USA) (Disc 2) (32X CD)",
+      "fullpath": "sega_cd_32x-Fahrenheit (USA) (Disc 2) (32X CD)",
+      "name": "Fahrenheit   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Night Trap (32X) (USA) (Disc 1)",
+      "fullpath": "sega_cd_32x-Night Trap (32X) (USA) (Disc 1)",
+      "name": "Night Trap   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Night Trap (32X) (USA) (Disc 2)",
+      "fullpath": "sega_cd_32x-Night Trap (32X) (USA) (Disc 2)",
+      "name": "Night Trap   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Night Trap (USA) (Disc 1) (Sega CD 32X) (RE-1)",
+      "fullpath": "sega_cd_32x-Night Trap (USA) (Disc 1) (Sega CD 32X) (RE-1)",
+      "name": "Night Trap    ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Night Trap (USA) (Disc 2) (Sega CD 32X) (RE-1)",
+      "fullpath": "sega_cd_32x-Night Trap (USA) (Disc 2) (Sega CD 32X) (RE-1)",
+      "name": "Night Trap    ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (32X) (USA) (Disc 1)",
+      "fullpath": "sega_cd_32x-Slam City with Scottie Pippen (32X) (USA) (Disc 1)",
+      "name": "Slam City with Scottie Pippen   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (32X) (USA) (Disc 2)",
+      "fullpath": "sega_cd_32x-Slam City with Scottie Pippen (32X) (USA) (Disc 2)",
+      "name": "Slam City with Scottie Pippen   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (32X) (USA) (Disc 3)",
+      "fullpath": "sega_cd_32x-Slam City with Scottie Pippen (32X) (USA) (Disc 3)",
+      "name": "Slam City with Scottie Pippen   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (32X) (USA) (Disc 4)",
+      "fullpath": "sega_cd_32x-Slam City with Scottie Pippen (32X) (USA) (Disc 4)",
+      "name": "Slam City with Scottie Pippen   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (USA) (Disc 1) (Fingers) (Sega CD 32X)",
+      "fullpath": "sega_cd_32x-Slam City with Scottie Pippen (USA) (Disc 1) (Fingers) (Sega CD 32X)",
+      "name": "Slam City with Scottie Pippen   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (USA) (Disc 2) (Juice) (Sega CD 32X)",
+      "fullpath": "sega_cd_32x-Slam City with Scottie Pippen (USA) (Disc 2) (Juice) (Sega CD 32X)",
+      "name": "Slam City with Scottie Pippen   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog) (Sega CD 32X)",
+      "fullpath": "sega_cd_32x-Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog) (Sega CD 32X)",
+      "name": "Slam City with Scottie Pippen   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (Sega CD 32X)",
+      "fullpath": "sega_cd_32x-Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (Sega CD 32X)",
+      "name": "Slam City with Scottie Pippen   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Supreme Warrior (32X) (USA) (Disc 1)",
+      "fullpath": "sega_cd_32x-Supreme Warrior (32X) (USA) (Disc 1)",
+      "name": "Supreme Warrior   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Supreme Warrior (32X) (USA) (Disc 2)",
+      "fullpath": "sega_cd_32x-Supreme Warrior (32X) (USA) (Disc 2)",
+      "name": "Supreme Warrior   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Supreme Warrior (USA) (Disc 1) (Fire & Earth) (Sega CD 32X)",
+      "fullpath": "sega_cd_32x-Supreme Warrior (USA) (Disc 1) (Fire & Earth) (Sega CD 32X)",
+      "name": "Supreme Warrior   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu) (Sega CD 32X)",
+      "fullpath": "sega_cd_32x-Supreme Warrior (USA) (Disc 2) (Wind & Fang Tu) (Sega CD 32X)",
+      "name": "Supreme Warrior   ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Surgical Strike (32X) (USA)",
+      "fullpath": "sega_cd_32x-Surgical Strike (32X) (USA)",
+      "name": "Surgical Strike  ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Surgical Strike (Brazil) (Sega CD 32X)",
+      "fullpath": "sega_cd_32x-Surgical Strike (Brazil) (Sega CD 32X)",
+      "name": "Surgical Strike ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

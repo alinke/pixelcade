@@ -1,0 +1,2462 @@
+{
+  "platform": "gun_games",
+  "totalGames": 272,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "gun_games game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "gun_games.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "38AmbushAlley",
+      "fullpath": "gun_games-38AmbushAlley",
+      "name": "38AmbushAlley",
+      "year": "2000",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "a51mxr3k",
+      "fullpath": "gun_games-a51mxr3k",
+      "name": "a51mxr3k",
+      "year": "2009",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "alien3_",
+      "fullpath": "gun_games-alien3_",
+      "name": "alien3_",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "alien3",
+      "fullpath": "gun_games-alien3",
+      "name": "alien3",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aliens Armageddon",
+      "fullpath": "gun_games-Aliens Armageddon",
+      "name": "Aliens Armageddon",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aliens dehasped",
+      "fullpath": "gun_games-aliens dehasped",
+      "name": "aliens dehasped",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aliens3",
+      "fullpath": "gun_games-aliens3",
+      "name": "aliens3",
+      "year": "2010",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "America's Army",
+      "fullpath": "gun_games-America's Army",
+      "name": "America's Army",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Arcade Shooting Gallery (USA)",
+      "fullpath": "gun_games-Arcade Shooting Gallery (USA)",
+      "name": "Arcade Shooting Gallery (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "area51",
+      "fullpath": "gun_games-area51",
+      "name": "area51",
+      "year": "2011",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "area51a",
+      "fullpath": "gun_games-area51a",
+      "name": "area51a",
+      "year": "2012",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "area51mx",
+      "fullpath": "gun_games-area51mx",
+      "name": "area51mx",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "area51t",
+      "fullpath": "gun_games-area51t",
+      "name": "area51t",
+      "year": "2013",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Attack of the Movies 3D (USA)",
+      "fullpath": "gun_games-Attack of the Movies 3D (USA)",
+      "name": "Attack of the Movies 3D (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bang",
+      "fullpath": "gun_games-bang",
+      "name": "bang",
+      "year": "2014",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Barker Bill's Trick Shooting (USA)",
+      "fullpath": "gun_games-Barker Bill's Trick Shooting (USA)",
+      "name": "Barker Bill's Trick Shooting (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bbh",
+      "fullpath": "gun_games-bbh",
+      "name": "bbh",
+      "year": "2015",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bbh2sp",
+      "fullpath": "gun_games-bbh2sp",
+      "name": "bbh2sp",
+      "year": "2016",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bbhcotw",
+      "fullpath": "gun_games-bbhcotw",
+      "name": "bbhcotw",
+      "year": "2017",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bbhsc",
+      "fullpath": "gun_games-bbhsc",
+      "name": "bbhsc",
+      "year": "2018",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bbusters",
+      "fullpath": "gun_games-bbusters",
+      "name": "bbusters",
+      "year": "2019",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bbustersj",
+      "fullpath": "gun_games-bbustersj",
+      "name": "bbustersj",
+      "year": "2020",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bbustersu",
+      "fullpath": "gun_games-bbustersu",
+      "name": "bbustersu",
+      "year": "2021",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Big Buck Hunter - Arcade",
+      "fullpath": "gun_games-Big Buck Hunter - Arcade",
+      "name": "Big Buck Hunter - Arcade",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Big Buck Hunter Pro (USA)",
+      "fullpath": "gun_games-Big Buck Hunter Pro (USA)",
+      "name": "Big Buck Hunter Pro (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blue Estate",
+      "fullpath": "gun_games-Blue Estate",
+      "name": "Blue Estate",
+      "year": "2001",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "BlueThunder",
+      "fullpath": "gun_games-BlueThunder",
+      "name": "BlueThunder",
+      "year": "2002",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "borntofi",
+      "fullpath": "gun_games-borntofi",
+      "name": "borntofi",
+      "year": "2022",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "braveff",
+      "fullpath": "gun_games-braveff",
+      "name": "braveff",
+      "year": "2023",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bronx",
+      "fullpath": "gun_games-bronx",
+      "name": "bronx",
+      "year": "2024",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bubbletr",
+      "fullpath": "gun_games-bubbletr",
+      "name": "bubbletr",
+      "year": "2025",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "carnevil",
+      "fullpath": "gun_games-carnevil",
+      "name": "carnevil",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "carnevil",
+      "fullpath": "gun_games-carnevil",
+      "name": "carnevil",
+      "year": "2026",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "carnevil1",
+      "fullpath": "gun_games-carnevil1",
+      "name": "carnevil1",
+      "year": "2027",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "carnking",
+      "fullpath": "gun_games-carnking",
+      "name": "carnking",
+      "year": "2028",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Castlevania The Arcade",
+      "fullpath": "gun_games-Castlevania The Arcade",
+      "name": "Castlevania The Arcade",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "catch22",
+      "fullpath": "gun_games-catch22",
+      "name": "catch22",
+      "year": "2029",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chaos Control (Europe)",
+      "fullpath": "gun_games-Chaos Control (Europe)",
+      "name": "Chaos Control (Europe)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "cheyenne",
+      "fullpath": "gun_games-cheyenne",
+      "name": "cheyenne",
+      "year": "2030",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chicken Blaster (USA)",
+      "fullpath": "gun_games-Chicken Blaster (USA)",
+      "name": "Chicken Blaster (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Chiller (UNL)",
+      "fullpath": "gun_games-Chiller (UNL)",
+      "name": "Chiller (UNL)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "chiller",
+      "fullpath": "gun_games-chiller",
+      "name": "chiller",
+      "year": "2031",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "claychal",
+      "fullpath": "gun_games-claychal",
+      "name": "claychal",
+      "year": "2032",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "claypign",
+      "fullpath": "gun_games-claypign",
+      "name": "claypign",
+      "year": "2033",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cocoto Magic Circus (USA)",
+      "fullpath": "gun_games-Cocoto Magic Circus (USA)",
+      "name": "Cocoto Magic Circus (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "combat",
+      "fullpath": "gun_games-combat",
+      "name": "combat",
+      "year": "2034",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "confmiss",
+      "fullpath": "gun_games-confmiss",
+      "name": "confmiss",
+      "year": "2035",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "cracksht",
+      "fullpath": "gun_games-cracksht",
+      "name": "cracksht",
+      "year": "2036",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "crimepatrol",
+      "fullpath": "gun_games-crimepatrol",
+      "name": "crimepatrol",
+      "year": "2037",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "crossbow",
+      "fullpath": "gun_games-crossbow",
+      "name": "crossbow",
+      "year": "2038",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "cryptklr",
+      "fullpath": "gun_games-cryptklr",
+      "name": "cryptklr",
+      "year": "2039",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dark Escape 4D",
+      "fullpath": "gun_games-Dark Escape 4D",
+      "name": "Dark Escape 4D",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Deadstorm Pirates Special Edition",
+      "fullpath": "gun_games-Deadstorm Pirates Special Edition",
+      "name": "Deadstorm Pirates Special Edition",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Deadstorm Pirates",
+      "fullpath": "gun_games-Deadstorm Pirates",
+      "name": "Deadstorm Pirates",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "deathcox",
+      "fullpath": "gun_games-deathcox",
+      "name": "deathcox",
+      "year": "2040",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Deer Drive Legends (USA)",
+      "fullpath": "gun_games-Deer Drive Legends (USA)",
+      "name": "Deer Drive Legends (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "deerhunt",
+      "fullpath": "gun_games-deerhunt",
+      "name": "deerhunt",
+      "year": "2041",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "deerhunta",
+      "fullpath": "gun_games-deerhunta",
+      "name": "deerhunta",
+      "year": "2042",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "deerhuntb",
+      "fullpath": "gun_games-deerhuntb",
+      "name": "deerhuntb",
+      "year": "2043",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "deerhuntc",
+      "fullpath": "gun_games-deerhuntc",
+      "name": "deerhuntc",
+      "year": "2044",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "deerhuntd",
+      "fullpath": "gun_games-deerhuntd",
+      "name": "deerhuntd",
+      "year": "2045",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "deerhunte",
+      "fullpath": "gun_games-deerhunte",
+      "name": "deerhunte",
+      "year": "2046",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "desertgu",
+      "fullpath": "gun_games-desertgu",
+      "name": "desertgu",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "desertgu",
+      "fullpath": "gun_games-desertgu",
+      "name": "desertgu",
+      "year": "2047",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Die Hard Trilogy (USA)",
+      "fullpath": "gun_games-Die Hard Trilogy (USA)",
+      "name": "Die Hard Trilogy (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dino Stalker (USA)",
+      "fullpath": "gun_games-Dino Stalker (USA)",
+      "name": "Dino Stalker (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dino Strike (USA)",
+      "fullpath": "gun_games-Dino Strike (USA)",
+      "name": "Dino Strike (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "dragngun",
+      "fullpath": "gun_games-dragngun",
+      "name": "dragngun",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "dragngun",
+      "fullpath": "gun_games-dragngun",
+      "name": "dragngun",
+      "year": "2048",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "drugwars",
+      "fullpath": "gun_games-drugwars",
+      "name": "drugwars",
+      "year": "2049",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Duck Hunt (World)",
+      "fullpath": "gun_games-Duck Hunt (World)",
+      "name": "Duck Hunt (World)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "duckhunt",
+      "fullpath": "gun_games-duckhunt",
+      "name": "duckhunt",
+      "year": "2050",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ed Hunter",
+      "fullpath": "gun_games-Ed Hunter",
+      "name": "Ed Hunter",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "eggventr",
+      "fullpath": "gun_games-eggventr",
+      "name": "eggventr",
+      "year": "2051",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "eggventr7",
+      "fullpath": "gun_games-eggventr7",
+      "name": "eggventr7",
+      "year": "2052",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "eggventr8",
+      "fullpath": "gun_games-eggventr8",
+      "name": "eggventr8",
+      "year": "2053",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "eggventra",
+      "fullpath": "gun_games-eggventra",
+      "name": "eggventra",
+      "year": "2054",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Elemental Gearbolt (USA)",
+      "fullpath": "gun_games-Elemental Gearbolt (USA)",
+      "name": "Elemental Gearbolt (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ElevatorActionInvasion",
+      "fullpath": "gun_games-ElevatorActionInvasion",
+      "name": "ElevatorActionInvasion",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Endgame (USA)",
+      "fullpath": "gun_games-Endgame (USA)",
+      "name": "Endgame (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "evilngt",
+      "fullpath": "gun_games-evilngt",
+      "name": "evilngt",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Extreme Ghostbusters - The Ultimate Invasion (Europe)",
+      "fullpath": "gun_games-Extreme Ghostbusters - The Ultimate Invasion (Europe)",
+      "name": "Extreme Ghostbusters - The Ultimate Invasion (Europe)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Farcry Paradise Lost",
+      "fullpath": "gun_games-Farcry Paradise Lost",
+      "name": "Farcry Paradise Lost",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Freedom Force (USA)",
+      "fullpath": "gun_games-Freedom Force (USA)",
+      "name": "Freedom Force (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Friction",
+      "fullpath": "gun_games-Friction",
+      "name": "Friction",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fruit Ninja HD",
+      "fullpath": "gun_games-Fruit Ninja HD",
+      "name": "Fruit Ninja HD",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "g13knd",
+      "fullpath": "gun_games-g13knd",
+      "name": "g13knd",
+      "year": "2055",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gaia Attack 4",
+      "fullpath": "gun_games-Gaia Attack 4",
+      "name": "Gaia Attack 4",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gdfs",
+      "fullpath": "gun_games-gdfs",
+      "name": "gdfs",
+      "year": "2056",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ghlpanic",
+      "fullpath": "gun_games-ghlpanic",
+      "name": "ghlpanic",
+      "year": "2057",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ghoshunt",
+      "fullpath": "gun_games-ghoshunt",
+      "name": "ghoshunt",
+      "year": "2058",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ghost Squad (USA)",
+      "fullpath": "gun_games-Ghost Squad (USA)",
+      "name": "Ghost Squad (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "golgo13",
+      "fullpath": "gun_games-golgo13",
+      "name": "golgo13",
+      "year": "2059",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gollygho",
+      "fullpath": "gun_games-gollygho",
+      "name": "gollygho",
+      "year": "2060",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gotcha! - The Sport! (USA)",
+      "fullpath": "gun_games-Gotcha! - The Sport! (USA)",
+      "name": "Gotcha! - The Sport! (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "greatgun",
+      "fullpath": "gun_games-greatgun",
+      "name": "greatgun",
+      "year": "2061",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gumshoe (USA)",
+      "fullpath": "gun_games-Gumshoe (USA)",
+      "name": "Gumshoe (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gunblade",
+      "fullpath": "gun_games-gunblade",
+      "name": "gunblade",
+      "year": "2062",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gunbustr",
+      "fullpath": "gun_games-gunbustr",
+      "name": "gunbustr",
+      "year": "2063",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gunbustrj",
+      "fullpath": "gun_games-gunbustrj",
+      "name": "gunbustrj",
+      "year": "2064",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gunbustru",
+      "fullpath": "gun_games-gunbustru",
+      "name": "gunbustru",
+      "year": "2065",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gunfighter - The Legend of Jesse James (USA)",
+      "fullpath": "gun_games-Gunfighter - The Legend of Jesse James (USA)",
+      "name": "Gunfighter - The Legend of Jesse James (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gunfighter II - Revenge of Jesse James (Europe)",
+      "fullpath": "gun_games-Gunfighter II - Revenge of Jesse James (Europe)",
+      "name": "Gunfighter II - Revenge of Jesse James (Europe)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gunslingers (USA)",
+      "fullpath": "gun_games-Gunslingers (USA)",
+      "name": "Gunslingers (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hammer",
+      "fullpath": "gun_games-hammer",
+      "name": "hammer",
+      "year": "2066",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hitnmiss",
+      "fullpath": "gun_games-hitnmiss",
+      "name": "hitnmiss",
+      "year": "2067",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hitnmiss2",
+      "fullpath": "gun_games-hitnmiss2",
+      "name": "hitnmiss2",
+      "year": "2068",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hogalley",
+      "fullpath": "gun_games-hogalley",
+      "name": "hogalley",
+      "year": "2069",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hogan's Alley (World)",
+      "fullpath": "gun_games-Hogan's Alley (World)",
+      "name": "Hogan's Alley (World)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hotd",
+      "fullpath": "gun_games-hotd",
+      "name": "hotd",
+      "year": "2070",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hotd2",
+      "fullpath": "gun_games-hotd2",
+      "name": "hotd2",
+      "year": "2071",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hotd2d",
+      "fullpath": "gun_games-hotd2d",
+      "name": "hotd2d",
+      "year": "2072",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hotd2dpc",
+      "fullpath": "gun_games-hotd2dpc",
+      "name": "hotd2dpc",
+      "year": "2073",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hotd2pc",
+      "fullpath": "gun_games-hotd2pc",
+      "name": "hotd2pc",
+      "year": "2074",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hotd3",
+      "fullpath": "gun_games-hotd3",
+      "name": "hotd3",
+      "year": "2075",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "hotd3d",
+      "fullpath": "gun_games-hotd3d",
+      "name": "hotd3d",
+      "year": "2076",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "House of the Dead - Remake",
+      "fullpath": "gun_games-House of the Dead - Remake",
+      "name": "House of the Dead - Remake",
+      "year": "2003",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "House of the Dead - Scarlet Dawn",
+      "fullpath": "gun_games-House of the Dead - Scarlet Dawn",
+      "name": "House of the Dead - Scarlet Dawn",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "House of the Dead 4 Special",
+      "fullpath": "gun_games-House of the Dead 4 Special",
+      "name": "House of the Dead 4 Special",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "House of the Dead 4_alt",
+      "fullpath": "gun_games-House of the Dead 4_alt",
+      "name": "House of the Dead 4_alt",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "House of the Dead 4",
+      "fullpath": "gun_games-House of the Dead 4",
+      "name": "House of the Dead 4",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "House of the Dead EX",
+      "fullpath": "gun_games-House of the Dead EX",
+      "name": "House of the Dead EX",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "House-of-the-Dead---Scarlet-Dawn",
+      "fullpath": "gun_games-House-of-the-Dead---Scarlet-Dawn",
+      "name": "House-of-the-Dead---Scarlet-Dawn",
+      "year": "2006",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "House-of-the-Dead-4",
+      "fullpath": "gun_games-House-of-the-Dead-4",
+      "name": "House-of-the-Dead-4",
+      "year": "2007",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hydrosub2021",
+      "fullpath": "gun_games-Hydrosub2021",
+      "name": "Hydrosub2021",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Intake",
+      "fullpath": "gun_games-Intake",
+      "name": "Intake",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "invasnab",
+      "fullpath": "gun_games-invasnab",
+      "name": "invasnab",
+      "year": "2077",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "invasnab4",
+      "fullpath": "gun_games-invasnab4",
+      "name": "invasnab4",
+      "year": "2078",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "jdredd",
+      "fullpath": "gun_games-jdredd",
+      "name": "jdredd",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "jdreddb",
+      "fullpath": "gun_games-jdreddb",
+      "name": "jdreddb",
+      "year": "2079",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "jdreddp",
+      "fullpath": "gun_games-jdreddp",
+      "name": "jdreddp",
+      "year": "2080",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "johnnyrock",
+      "fullpath": "gun_games-johnnyrock",
+      "name": "johnnyrock",
+      "year": "2081",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "jpark",
+      "fullpath": "gun_games-jpark",
+      "name": "jpark",
+      "year": "2082",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "jparkja",
+      "fullpath": "gun_games-jparkja",
+      "name": "jparkja",
+      "year": "2083",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lamachin",
+      "fullpath": "gun_games-lamachin",
+      "name": "lamachin",
+      "year": "2084",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lbh",
+      "fullpath": "gun_games-lbh",
+      "name": "lbh",
+      "year": "2085",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "le2",
+      "fullpath": "gun_games-le2",
+      "name": "le2",
+      "year": "2086",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "le2j",
+      "fullpath": "gun_games-le2j",
+      "name": "le2j",
+      "year": "2087",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "le2u",
+      "fullpath": "gun_games-le2u",
+      "name": "le2u",
+      "year": "2088",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Let's Go Island",
+      "fullpath": "gun_games-Let's Go Island",
+      "name": "Let's Go Island",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Let's Go Jungle",
+      "fullpath": "gun_games-Let's Go Jungle",
+      "name": "Let's Go Jungle",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lethal Enforcers 3",
+      "fullpath": "gun_games-Lethal Enforcers 3",
+      "name": "Lethal Enforcers 3",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lethalen",
+      "fullpath": "gun_games-lethalen",
+      "name": "lethalen",
+      "year": "2089",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lethaleneab",
+      "fullpath": "gun_games-lethaleneab",
+      "name": "lethaleneab",
+      "year": "2090",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lethalj",
+      "fullpath": "gun_games-lethalj",
+      "name": "lethalj",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lethalj",
+      "fullpath": "gun_games-lethalj",
+      "name": "lethalj",
+      "year": "2091",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lghost",
+      "fullpath": "gun_games-lghost",
+      "name": "lghost",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lghost",
+      "fullpath": "gun_games-lghost",
+      "name": "lghost",
+      "year": "2092",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lighthouse of the Dead",
+      "fullpath": "gun_games-Lighthouse of the Dead",
+      "name": "Lighthouse of the Dead",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Link's Crossbow Training (USA)",
+      "fullpath": "gun_games-Link's Crossbow Training (USA)",
+      "name": "Link's Crossbow Training (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "loffire",
+      "fullpath": "gun_games-loffire",
+      "name": "loffire",
+      "year": "2093",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lordgun",
+      "fullpath": "gun_games-lordgun",
+      "name": "lordgun",
+      "year": "2094",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lostwsga",
+      "fullpath": "gun_games-lostwsga",
+      "name": "lostwsga",
+      "year": "2095",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Luigi's Mansion Arcade",
+      "fullpath": "gun_games-Luigi's Mansion Arcade",
+      "name": "Luigi's Mansion Arcade",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lupinsho",
+      "fullpath": "gun_games-lupinsho",
+      "name": "lupinsho",
+      "year": "2096",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mad Bullets",
+      "fullpath": "gun_games-Mad Bullets",
+      "name": "Mad Bullets",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "maddog",
+      "fullpath": "gun_games-maddog",
+      "name": "maddog",
+      "year": "2097",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "maddog2",
+      "fullpath": "gun_games-maddog2",
+      "name": "maddog2",
+      "year": "2098",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "maletmad",
+      "fullpath": "gun_games-maletmad",
+      "name": "maletmad",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Martian Panic (USA)",
+      "fullpath": "gun_games-Martian Panic (USA)",
+      "name": "Martian Panic (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "maxf_ng",
+      "fullpath": "gun_games-maxf_ng",
+      "name": "maxf_ng",
+      "year": "2099",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "maxforce",
+      "fullpath": "gun_games-maxforce",
+      "name": "maxforce",
+      "year": "2100",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mechanized Attack (USA)",
+      "fullpath": "gun_games-Mechanized Attack (USA)",
+      "name": "Mechanized Attack (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "mechatt",
+      "fullpath": "gun_games-mechatt",
+      "name": "mechatt",
+      "year": "2101",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mighty Hits (Europe)",
+      "fullpath": "gun_games-Mighty Hits (Europe)",
+      "name": "Mighty Hits (Europe)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mighty Hits Special (Europe)",
+      "fullpath": "gun_games-Mighty Hits Special (Europe)",
+      "name": "Mighty Hits Special (Europe)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "mogura",
+      "fullpath": "gun_games-mogura",
+      "name": "mogura",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "mok",
+      "fullpath": "gun_games-mok",
+      "name": "mok",
+      "year": "2102",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Moorhen 3 - Chicken Chase (Europe)",
+      "fullpath": "gun_games-Moorhen 3 - Chicken Chase (Europe)",
+      "name": "Moorhen 3 - Chicken Chase (Europe)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Moorhuhn 2 - Die Jagd geht weiter (Germany)",
+      "fullpath": "gun_games-Moorhuhn 2 - Die Jagd geht weiter (Germany)",
+      "name": "Moorhuhn 2 - Die Jagd geht weiter (Germany)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Moorhuhn X (Germany)",
+      "fullpath": "gun_games-Moorhuhn X (Germany)",
+      "name": "Moorhuhn X (Germany)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Moorhuhn X PC",
+      "fullpath": "gun_games-Moorhuhn X PC",
+      "name": "Moorhuhn X PC",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Assault (JPN)_",
+      "fullpath": "gun_games-Ninja Assault (JPN)_",
+      "name": "Ninja Assault (JPN)_",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Assault (JPN)",
+      "fullpath": "gun_games-Ninja Assault (JPN)",
+      "name": "Ninja Assault (JPN)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ninjasltu",
+      "fullpath": "gun_games-ninjasltu",
+      "name": "ninjasltu",
+      "year": "2103",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "nycaptor",
+      "fullpath": "gun_games-nycaptor",
+      "name": "nycaptor",
+      "year": "2104",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "oceanhun",
+      "fullpath": "gun_games-oceanhun",
+      "name": "oceanhun",
+      "year": "2105",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "oneshot",
+      "fullpath": "gun_games-oneshot",
+      "name": "oneshot",
+      "year": "2106",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Operation Wolf (USA)",
+      "fullpath": "gun_games-Operation Wolf (USA)",
+      "name": "Operation Wolf (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Operation Wolf Returns - First Mission",
+      "fullpath": "gun_games-Operation Wolf Returns - First Mission",
+      "name": "Operation Wolf Returns - First Mission",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "opwolf",
+      "fullpath": "gun_games-opwolf",
+      "name": "opwolf",
+      "year": "2107",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "opwolf3",
+      "fullpath": "gun_games-opwolf3",
+      "name": "opwolf3",
+      "year": "2108",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "othunder",
+      "fullpath": "gun_games-othunder",
+      "name": "othunder",
+      "year": "2109",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pc_duckh",
+      "fullpath": "gun_games-pc_duckh",
+      "name": "pc_duckh",
+      "year": "2110",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pc_hgaly",
+      "fullpath": "gun_games-pc_hgaly",
+      "name": "pc_hgaly",
+      "year": "2111",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pc_wgnmn",
+      "fullpath": "gun_games-pc_wgnmn",
+      "name": "pc_wgnmn",
+      "year": "2112",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pirate Blast (USA)",
+      "fullpath": "gun_games-Pirate Blast (USA)",
+      "name": "Pirate Blast (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Point Blank 3 (USA)",
+      "fullpath": "gun_games-Point Blank 3 (USA)",
+      "name": "Point Blank 3 (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "policetr",
+      "fullpath": "gun_games-policetr",
+      "name": "policetr",
+      "year": "2113",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "PopsGhostly",
+      "fullpath": "gun_games-PopsGhostly",
+      "name": "PopsGhostly",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Primeval Hunt",
+      "fullpath": "gun_games-Primeval Hunt",
+      "name": "Primeval Hunt",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Project - Horned Owl (USA)",
+      "fullpath": "gun_games-Project - Horned Owl (USA)",
+      "name": "Project - Horned Owl (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Project Corpse",
+      "fullpath": "gun_games-Project Corpse",
+      "name": "Project Corpse",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ptblank",
+      "fullpath": "gun_games-ptblank",
+      "name": "ptblank",
+      "year": "2114",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ptblank2",
+      "fullpath": "gun_games-ptblank2",
+      "name": "ptblank2",
+      "year": "2115",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rabbids Hollywood Arcade",
+      "fullpath": "gun_games-Rabbids Hollywood Arcade",
+      "name": "Rabbids Hollywood Arcade",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rambo",
+      "fullpath": "gun_games-Rambo",
+      "name": "Rambo",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rangrmsn",
+      "fullpath": "gun_games-rangrmsn",
+      "name": "rangrmsn",
+      "year": "2116",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rapidfir",
+      "fullpath": "gun_games-rapidfir",
+      "name": "rapidfir",
+      "year": "2117",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rchase",
+      "fullpath": "gun_games-rchase",
+      "name": "rchase",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rchase",
+      "fullpath": "gun_games-rchase",
+      "name": "rchase",
+      "year": "2118",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rchase2",
+      "fullpath": "gun_games-rchase2",
+      "name": "rchase2",
+      "year": "2119",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Reload (USA)",
+      "fullpath": "gun_games-Reload (USA)",
+      "name": "Reload (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Remington Super Slam Hunting - Africa (USA)",
+      "fullpath": "gun_games-Remington Super Slam Hunting - Africa (USA)",
+      "name": "Remington Super Slam Hunting - Africa (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Remington Super Slam Hunting - Alaska (USA)",
+      "fullpath": "gun_games-Remington Super Slam Hunting - Alaska (USA)",
+      "name": "Remington Super Slam Hunting - Alaska (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Resident Evil - Dead Aim (USA)",
+      "fullpath": "gun_games-Resident Evil - Dead Aim (USA)",
+      "name": "Resident Evil - Dead Aim (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Resident Evil - Survivor (Europe)",
+      "fullpath": "gun_games-Resident Evil - Survivor (Europe)",
+      "name": "Resident Evil - Survivor (Europe)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Resident Evil - The Darkside Chronicles (USA)",
+      "fullpath": "gun_games-Resident Evil - The Darkside Chronicles (USA)",
+      "name": "Resident Evil - The Darkside Chronicles (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Resident Evil - The Umbrella Chronicles (USA)",
+      "fullpath": "gun_games-Resident Evil - The Umbrella Chronicles (USA)",
+      "name": "Resident Evil - The Umbrella Chronicles (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "revx",
+      "fullpath": "gun_games-revx",
+      "name": "revx",
+      "year": "2120",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sailor Zombie AKB48 Arcade Edition",
+      "fullpath": "gun_games-Sailor Zombie AKB48 Arcade Edition",
+      "name": "Sailor Zombie AKB48 Arcade Edition",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Scud - The Disposable Assassin (USA)",
+      "fullpath": "gun_games-Scud - The Disposable Assassin (USA)",
+      "name": "Scud - The Disposable Assassin (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sega Golden Gun",
+      "fullpath": "gun_games-Sega Golden Gun",
+      "name": "Sega Golden Gun",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sgunner",
+      "fullpath": "gun_games-sgunner",
+      "name": "sgunner",
+      "year": "2121",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sgunner2",
+      "fullpath": "gun_games-sgunner2",
+      "name": "sgunner2",
+      "year": "2122",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "shootgal",
+      "fullpath": "gun_games-shootgal",
+      "name": "shootgal",
+      "year": "2123",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shooting Range (USA)",
+      "fullpath": "gun_games-Shooting Range (USA)",
+      "name": "Shooting Range (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "shtngmst",
+      "fullpath": "gun_games-shtngmst",
+      "name": "shtngmst",
+      "year": "2124",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Silent Hill - The Arcade",
+      "fullpath": "gun_games-Silent Hill - The Arcade",
+      "name": "Silent Hill - The Arcade",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SonicFury",
+      "fullpath": "gun_games-SonicFury",
+      "name": "SonicFury",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "spacegun",
+      "fullpath": "gun_games-spacegun",
+      "name": "spacegun",
+      "year": "2125",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "spacepirates",
+      "fullpath": "gun_games-spacepirates",
+      "name": "spacepirates",
+      "year": "2126",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sprtshot",
+      "fullpath": "gun_games-sprtshot",
+      "name": "sprtshot",
+      "year": "2127",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sshooter",
+      "fullpath": "gun_games-sshooter",
+      "name": "sshooter",
+      "year": "2128",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Star Trek Voyager",
+      "fullpath": "gun_games-Star Trek Voyager",
+      "name": "Star Trek Voyager",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "swtrilgy",
+      "fullpath": "gun_games-swtrilgy",
+      "name": "swtrilgy",
+      "year": "2129",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Target Terror Gold",
+      "fullpath": "gun_games-Target Terror Gold",
+      "name": "Target Terror Gold",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "targeth",
+      "fullpath": "gun_games-targeth",
+      "name": "targeth",
+      "year": "2130",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "term2",
+      "fullpath": "gun_games-term2",
+      "name": "term2",
+      "year": "2131",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Terminator Salvation",
+      "fullpath": "gun_games-Terminator Salvation",
+      "name": "Terminator Salvation",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tickee",
+      "fullpath": "gun_games-tickee",
+      "name": "tickee",
+      "year": "2132",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Crisis - Project Titan (USA)",
+      "fullpath": "gun_games-Time Crisis - Project Titan (USA)",
+      "name": "Time Crisis - Project Titan (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Crisis - Razing Storm",
+      "fullpath": "gun_games-Time Crisis - Razing Storm",
+      "name": "Time Crisis - Razing Storm",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Crisis (USA)",
+      "fullpath": "gun_games-Time Crisis (USA)",
+      "name": "Time Crisis (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Crisis 3 (USA)_",
+      "fullpath": "gun_games-Time Crisis 3 (USA)_",
+      "name": "Time Crisis 3 (USA)_",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Crisis 3 (USA)",
+      "fullpath": "gun_games-Time Crisis 3 (USA)",
+      "name": "Time Crisis 3 (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Crisis 4",
+      "fullpath": "gun_games-Time Crisis 4",
+      "name": "Time Crisis 4",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Crisis 5",
+      "fullpath": "gun_games-Time Crisis 5",
+      "name": "Time Crisis 5",
+      "year": "2008",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Crisis II (USA)_alt",
+      "fullpath": "gun_games-Time Crisis II (USA)_alt",
+      "name": "Time Crisis II (USA)_alt",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Time Crisis II (USA)",
+      "fullpath": "gun_games-Time Crisis II (USA)",
+      "name": "Time Crisis II (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "timecris",
+      "fullpath": "gun_games-timecris",
+      "name": "timecris",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "timecris",
+      "fullpath": "gun_games-timecris",
+      "name": "timecris",
+      "year": "2133",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "To the Earth (USA)",
+      "fullpath": "gun_games-To the Earth (USA)",
+      "name": "To the Earth (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tomb Raider",
+      "fullpath": "gun_games-Tomb Raider",
+      "name": "Tomb Raider",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Too Spicy",
+      "fullpath": "gun_games-Too Spicy",
+      "name": "Too Spicy",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Top Shot Arcade (USA)",
+      "fullpath": "gun_games-Top Shot Arcade (USA)",
+      "name": "Top Shot Arcade (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "totlvice",
+      "fullpath": "gun_games-totlvice",
+      "name": "totlvice",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "triplhnt",
+      "fullpath": "gun_games-triplhnt",
+      "name": "triplhnt",
+      "year": "2134",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "trophyh",
+      "fullpath": "gun_games-trophyh",
+      "name": "trophyh",
+      "year": "2135",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tshoot",
+      "fullpath": "gun_games-tshoot",
+      "name": "tshoot",
+      "year": "2136",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "turkhunt",
+      "fullpath": "gun_games-turkhunt",
+      "name": "turkhunt",
+      "year": "2137",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tutstomb",
+      "fullpath": "gun_games-tutstomb",
+      "name": "tutstomb",
+      "year": "2138",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "undrfire",
+      "fullpath": "gun_games-undrfire",
+      "name": "undrfire",
+      "year": "2139",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Vampire Night (USA)",
+      "fullpath": "gun_games-Vampire Night (USA)",
+      "name": "Vampire Night (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "vcop",
+      "fullpath": "gun_games-vcop",
+      "name": "vcop",
+      "year": "2140",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "vcop2",
+      "fullpath": "gun_games-vcop2",
+      "name": "vcop2",
+      "year": "2141",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "vcop3",
+      "fullpath": "gun_games-vcop3",
+      "name": "vcop3",
+      "year": "2142",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Virtua Cop - Elite Edition (Europe)",
+      "fullpath": "gun_games-Virtua Cop - Elite Edition (Europe)",
+      "name": "Virtua Cop - Elite Edition (Europe)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "vsfdf",
+      "fullpath": "gun_games-vsfdf",
+      "name": "vsfdf",
+      "year": "2143",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wartran Troopers",
+      "fullpath": "gun_games-Wartran Troopers",
+      "name": "Wartran Troopers",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "whodunit",
+      "fullpath": "gun_games-whodunit",
+      "name": "whodunit",
+      "year": "2144",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "whodunit8",
+      "fullpath": "gun_games-whodunit8",
+      "name": "whodunit8",
+      "year": "2145",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wii Play (USA)",
+      "fullpath": "gun_games-Wii Play (USA)",
+      "name": "Wii Play (USA)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wild Gunman (World)",
+      "fullpath": "gun_games-Wild Gunman (World)",
+      "name": "Wild Gunman (World)",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Wild West Shootout",
+      "fullpath": "gun_games-Wild West Shootout",
+      "name": "Wild West Shootout",
+      "year": "1980",
+      "publisher": "Misc",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "wildplt",
+      "fullpath": "gun_games-wildplt",
+      "name": "wildplt",
+      "year": "2146",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "wschamp",
+      "fullpath": "gun_games-wschamp",
+      "name": "wschamp",
+      "year": "2147",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "xtrmhnt2",
+      "fullpath": "gun_games-xtrmhnt2",
+      "name": "xtrmhnt2",
+      "year": "2148",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "xtrmhunt",
+      "fullpath": "gun_games-xtrmhunt",
+      "name": "xtrmhunt",
+      "year": "2149",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "zeropnt",
+      "fullpath": "gun_games-zeropnt",
+      "name": "zeropnt",
+      "year": "2150",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "zeropnt2",
+      "fullpath": "gun_games-zeropnt2",
+      "name": "zeropnt2",
+      "year": "2151",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "zombraid",
+      "fullpath": "gun_games-zombraid",
+      "name": "zombraid",
+      "year": "2152",
+      "publisher": "Gun Games",
+      "genre": "Gun Games",
+      "rating": "Not Rated"
+    }
+  ]
+}

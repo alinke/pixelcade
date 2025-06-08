@@ -1,0 +1,608 @@
+{
+  "platform": "nintendo_entertainment_system_3d",
+  "totalGames": 66,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "nintendo_entertainment_system_3d game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "nintendo_entertainment_system_3d.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Adventure Island (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Adventure Island (USA)",
+      "name": "Adventure Island ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Adventures of Lolo (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Adventures of Lolo (USA)",
+      "name": "Adventures of Lolo ",
+      "year": "1991",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Adventures of Lolo 2 (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Adventures of Lolo 2 (USA)",
+      "name": "Adventures of Lolo 2 ",
+      "year": "1992",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Adventures of Lolo 3 (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Adventures of Lolo 3 (USA)",
+      "name": "Adventures of Lolo 3 ",
+      "year": "1993",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Antarctic Adventure (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Antarctic Adventure (USA)",
+      "name": "Antarctic Adventure ",
+      "year": "1994",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Arkanoid (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Arkanoid (USA)",
+      "name": "Arkanoid ",
+      "year": "1995",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Balloon Fight (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Balloon Fight (USA)",
+      "name": "Balloon Fight ",
+      "year": "1996",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Batman - The Video Game (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Batman - The Video Game (USA)",
+      "name": "Batman - The Video Game ",
+      "year": "1997",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Battle Kid - Fortress of Peril (USA) (Unl)",
+      "fullpath": "nintendo_entertainment_system_3d-Battle Kid - Fortress of Peril (USA) (Unl)",
+      "name": "Battle Kid - Fortress of Peril  (Unl)",
+      "year": "1998",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Bomberman (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Bomberman (USA)",
+      "name": "Bomberman ",
+      "year": "1999",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Bubble Bobble (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Bubble Bobble (USA)",
+      "name": "Bubble Bobble ",
+      "year": "2000",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "BurgerTime (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-BurgerTime (USA)",
+      "name": "BurgerTime ",
+      "year": "2001",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Castlevania (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Castlevania (USA)",
+      "name": "Castlevania ",
+      "year": "2002",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Castlevania II - Simon's Quest (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Castlevania II - Simon's Quest (USA)",
+      "name": "Castlevania II - Simon's Quest ",
+      "year": "2003",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Chip 'n Dale - Rescue Rangers (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Chip 'n Dale - Rescue Rangers (USA)",
+      "name": "Chip 'n Dale - Rescue Rangers ",
+      "year": "2004",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Circus Charlie (Japan)",
+      "fullpath": "nintendo_entertainment_system_3d-Circus Charlie (Japan)",
+      "name": "Circus Charlie (Japan)",
+      "year": "2005",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "City Connection (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-City Connection (USA)",
+      "name": "City Connection ",
+      "year": "2006",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Clu Clu Land (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Clu Clu Land (World)",
+      "name": "Clu Clu Land (World)",
+      "year": "2007",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Contra (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Contra (USA)",
+      "name": "Contra ",
+      "year": "2008",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Donkey Kong (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Donkey Kong (World)",
+      "name": "Donkey Kong (World)",
+      "year": "2009",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Donkey Kong 3 (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Donkey Kong 3 (World)",
+      "name": "Donkey Kong 3 (World)",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Donkey Kong Jr. (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Donkey Kong Jr. (World)",
+      "name": "Donkey Kong Jr. (World)",
+      "year": "2011",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Dragon Warrior (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Dragon Warrior (USA)",
+      "name": "Dragon Warrior ",
+      "year": "2012",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Dragon Warrior II (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Dragon Warrior II (USA)",
+      "name": "Dragon Warrior II ",
+      "year": "2013",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Duck Hunt (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Duck Hunt (World)",
+      "name": "Duck Hunt (World)",
+      "year": "2014",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "DuckTales (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-DuckTales (USA)",
+      "name": "DuckTales ",
+      "year": "2015",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "DuckTales 2 (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-DuckTales 2 (USA)",
+      "name": "DuckTales 2 ",
+      "year": "2016",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Elevator Action (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Elevator Action (USA)",
+      "name": "Elevator Action ",
+      "year": "2017",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Felix the Cat (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Felix the Cat (USA)",
+      "name": "Felix the Cat ",
+      "year": "2018",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Final Fantasy (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Final Fantasy (USA)",
+      "name": "Final Fantasy ",
+      "year": "2019",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Fire 'n Ice (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Fire 'n Ice (USA)",
+      "name": "Fire 'n Ice ",
+      "year": "2020",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Galaga - Demons of Death (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Galaga - Demons of Death (USA)",
+      "name": "Galaga - Demons of Death ",
+      "year": "2021",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Ghosts'n Goblins (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Ghosts'n Goblins (USA)",
+      "name": "Ghosts'n Goblins ",
+      "year": "2022",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Gradius (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Gradius (USA)",
+      "name": "Gradius ",
+      "year": "2023",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Gyromite (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Gyromite (World)",
+      "name": "Gyromite (World)",
+      "year": "2024",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Hogan's Alley (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Hogan's Alley (World)",
+      "name": "Hogan's Alley (World)",
+      "year": "2025",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Jackie Chan's Action Kung Fu (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Jackie Chan's Action Kung Fu (USA)",
+      "name": "Jackie Chan's Action Kung Fu ",
+      "year": "2026",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Journey to Silius (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Journey to Silius (USA)",
+      "name": "Journey to Silius ",
+      "year": "2027",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Legacy of the Wizard (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Legacy of the Wizard (USA)",
+      "name": "Legacy of the Wizard ",
+      "year": "2028",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Life Force (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Life Force (USA)",
+      "name": "Life Force ",
+      "year": "2029",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Lode Runner (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Lode Runner (USA)",
+      "name": "Lode Runner ",
+      "year": "2030",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mappy-Land (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Mappy-Land (USA)",
+      "name": "Mappy-Land ",
+      "year": "2031",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mario Bros. (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Mario Bros. (World)",
+      "name": "Mario Bros. (World)",
+      "year": "2032",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mega Man (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Mega Man (USA)",
+      "name": "Mega Man ",
+      "year": "2033",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mega Man 2 (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Mega Man 2 (USA)",
+      "name": "Mega Man 2 ",
+      "year": "2034",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mega Man 3 (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Mega Man 3 (USA)",
+      "name": "Mega Man 3 ",
+      "year": "2035",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Metroid (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Metroid (USA)",
+      "name": "Metroid ",
+      "year": "2036",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Ninja Gaiden III - The Ancient Ship of Doom (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Ninja Gaiden III - The Ancient Ship of Doom (USA)",
+      "name": "Ninja Gaiden III - The Ancient Ship of Doom ",
+      "year": "2037",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Pac-Man (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Pac-Man (USA)",
+      "name": "Pac-Man ",
+      "year": "2038",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Pinball (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Pinball (World)",
+      "name": "Pinball (World)",
+      "year": "2039",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Popeye (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Popeye (World)",
+      "name": "Popeye (World)",
+      "year": "2040",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Road Fighter (Europe)",
+      "fullpath": "nintendo_entertainment_system_3d-Road Fighter (Europe)",
+      "name": "Road Fighter (Europe)",
+      "year": "2041",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Shadow of the Ninja (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Shadow of the Ninja (USA)",
+      "name": "Shadow of the Ninja ",
+      "year": "2042",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Shatterhand (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Shatterhand (USA)",
+      "name": "Shatterhand ",
+      "year": "2043",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Snow Brothers (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Snow Brothers (USA)",
+      "name": "Snow Brothers ",
+      "year": "2044",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Solomon's Key (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Solomon's Key (USA)",
+      "name": "Solomon's Key ",
+      "year": "2045",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Spy Hunter (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Spy Hunter (USA)",
+      "name": "Spy Hunter ",
+      "year": "2046",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Super Mario Bros. (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Super Mario Bros. (World)",
+      "name": "Super Mario Bros. (World)",
+      "year": "2047",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Super Mario Bros. 3 (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Super Mario Bros. 3 (USA)",
+      "name": "Super Mario Bros. 3 ",
+      "year": "2048",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Tetris (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Tetris (USA)",
+      "name": "Tetris ",
+      "year": "2049",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Tetris - The Soviet Mind Game",
+      "fullpath": "nintendo_entertainment_system_3d-Tetris - The Soviet Mind Game",
+      "name": "Tetris - The Soviet Mind Game",
+      "year": "2050",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Urban Champion (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Urban Champion (World)",
+      "name": "Urban Champion (World)",
+      "year": "2051",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Wild Gunman (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Wild Gunman (World)",
+      "name": "Wild Gunman (World)",
+      "year": "2052",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Wrecking Crew (World)",
+      "fullpath": "nintendo_entertainment_system_3d-Wrecking Crew (World)",
+      "name": "Wrecking Crew (World)",
+      "year": "2053",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Zelda II - The Adventure of Link (USA)",
+      "fullpath": "nintendo_entertainment_system_3d-Zelda II - The Adventure of Link (USA)",
+      "name": "Zelda II - The Adventure of Link ",
+      "year": "2054",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    },
+    {
+      "id": "Zooming Secretary (World) (Unl)",
+      "fullpath": "nintendo_entertainment_system_3d-Zooming Secretary (World) (Unl)",
+      "name": "Zooming Secretary (World) (Unl)",
+      "year": "2055",
+      "publisher": "Misc",
+      "genre": "Nintendo",
+      "rating": "Misc"
+    }
+  ]
+}

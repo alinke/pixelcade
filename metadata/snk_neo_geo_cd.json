@@ -1,0 +1,3290 @@
+{
+  "platform": "snk_neo_geo_cd",
+  "totalGames": 364,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "snk_neo_geo_cd game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "snk_neo_geo_cd.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "2020 Super Baseball (World)",
+      "fullpath": "snk_neo_geo_cd-2020 Super Baseball (World)",
+      "name": "2020 Super Baseball ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "2020bb",
+      "fullpath": "snk_neo_geo_cd-2020bb",
+      "name": "2020bb",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "3 Count Bout (World)",
+      "fullpath": "snk_neo_geo_cd-3 Count Bout (World)",
+      "name": "3 Count Bout ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "3 Count Bout",
+      "fullpath": "snk_neo_geo_cd-3 Count Bout",
+      "name": "3 Count Bout",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "3countb (World)",
+      "fullpath": "snk_neo_geo_cd-3countb (World)",
+      "name": "3countb ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "3countb",
+      "fullpath": "snk_neo_geo_cd-3countb",
+      "name": "3countb",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ADK World (Japan)",
+      "fullpath": "snk_neo_geo_cd-ADK World (Japan)",
+      "name": "ADK World ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ADK World",
+      "fullpath": "snk_neo_geo_cd-ADK World",
+      "name": "ADK World",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "adkworld (World)",
+      "fullpath": "snk_neo_geo_cd-adkworld (World)",
+      "name": "adkworld ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "adkworld",
+      "fullpath": "snk_neo_geo_cd-adkworld",
+      "name": "adkworld",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aero Fighters 2 (alt) (World)",
+      "fullpath": "snk_neo_geo_cd-Aero Fighters 2 (alt) (World)",
+      "name": "Aero Fighters 2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aero Fighters 2 (alt)",
+      "fullpath": "snk_neo_geo_cd-Aero Fighters 2 (alt)",
+      "name": "Aero Fighters 2 (alt)",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aero Fighters 2 (World)",
+      "fullpath": "snk_neo_geo_cd-Aero Fighters 2 (World)",
+      "name": "Aero Fighters 2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aero Fighters 2",
+      "fullpath": "snk_neo_geo_cd-Aero Fighters 2",
+      "name": "Aero Fighters 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aero Fighters 3 (alt) (World)",
+      "fullpath": "snk_neo_geo_cd-Aero Fighters 3 (alt) (World)",
+      "name": "Aero Fighters 3 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aero Fighters 3 (alt)",
+      "fullpath": "snk_neo_geo_cd-Aero Fighters 3 (alt)",
+      "name": "Aero Fighters 3 (alt)",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aero Fighters 3 (World)",
+      "fullpath": "snk_neo_geo_cd-Aero Fighters 3 (World)",
+      "name": "Aero Fighters 3 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aero Fighters 3",
+      "fullpath": "snk_neo_geo_cd-Aero Fighters 3",
+      "name": "Aero Fighters 3",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aggressors Of Dark Kombat (World)",
+      "fullpath": "snk_neo_geo_cd-Aggressors Of Dark Kombat (World)",
+      "name": "Aggressors Of Dark Kombat ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Aggressors Of Dark Kombat",
+      "fullpath": "snk_neo_geo_cd-Aggressors Of Dark Kombat",
+      "name": "Aggressors Of Dark Kombat",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alpha Mission 2",
+      "fullpath": "snk_neo_geo_cd-Alpha Mission 2",
+      "name": "Alpha Mission 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alpha Mission II (World)",
+      "fullpath": "snk_neo_geo_cd-Alpha Mission II (World)",
+      "name": "Alpha Mission II ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "alpham2 (World)",
+      "fullpath": "snk_neo_geo_cd-alpham2 (World)",
+      "name": "alpham2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "alpham2",
+      "fullpath": "snk_neo_geo_cd-alpham2",
+      "name": "alpham2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aodk (World)",
+      "fullpath": "snk_neo_geo_cd-aodk (World)",
+      "name": "aodk ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aodk",
+      "fullpath": "snk_neo_geo_cd-aodk",
+      "name": "aodk",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aof (World)",
+      "fullpath": "snk_neo_geo_cd-aof (World)",
+      "name": "aof ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aof",
+      "fullpath": "snk_neo_geo_cd-aof",
+      "name": "aof",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aof2 (World)",
+      "fullpath": "snk_neo_geo_cd-aof2 (World)",
+      "name": "aof2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aof2",
+      "fullpath": "snk_neo_geo_cd-aof2",
+      "name": "aof2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aof3 (World)",
+      "fullpath": "snk_neo_geo_cd-aof3 (World)",
+      "name": "aof3 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "aof3",
+      "fullpath": "snk_neo_geo_cd-aof3",
+      "name": "aof3",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Art Of Fighting (World)",
+      "fullpath": "snk_neo_geo_cd-Art Of Fighting (World)",
+      "name": "Art Of Fighting ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Art Of Fighting 2 (World)",
+      "fullpath": "snk_neo_geo_cd-Art Of Fighting 2 (World)",
+      "name": "Art Of Fighting 2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Art Of Fighting 2",
+      "fullpath": "snk_neo_geo_cd-Art Of Fighting 2",
+      "name": "Art Of Fighting 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Art of Fighting 3 - The Path of the Warrior (World)",
+      "fullpath": "snk_neo_geo_cd-Art of Fighting 3 - The Path of the Warrior (World)",
+      "name": "Art of Fighting 3 - The Path of the Warrior ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Art Of Fighting 3",
+      "fullpath": "snk_neo_geo_cd-Art Of Fighting 3",
+      "name": "Art Of Fighting 3",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Art Of Fighting",
+      "fullpath": "snk_neo_geo_cd-Art Of Fighting",
+      "name": "Art Of Fighting",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Baseball Stars 2 (World)",
+      "fullpath": "snk_neo_geo_cd-Baseball Stars 2 (World)",
+      "name": "Baseball Stars 2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Baseball Stars 2",
+      "fullpath": "snk_neo_geo_cd-Baseball Stars 2",
+      "name": "Baseball Stars 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Baseball Stars Professional (World)",
+      "fullpath": "snk_neo_geo_cd-Baseball Stars Professional (World)",
+      "name": "Baseball Stars Professional ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Baseball Stars Professional",
+      "fullpath": "snk_neo_geo_cd-Baseball Stars Professional",
+      "name": "Baseball Stars Professional",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bjourney (World)",
+      "fullpath": "snk_neo_geo_cd-bjourney (World)",
+      "name": "bjourney ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bjourney",
+      "fullpath": "snk_neo_geo_cd-bjourney",
+      "name": "bjourney",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blue's Journey (World)",
+      "fullpath": "snk_neo_geo_cd-Blue's Journey (World)",
+      "name": "Blue's Journey ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blues Journey",
+      "fullpath": "snk_neo_geo_cd-Blues Journey",
+      "name": "Blues Journey",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Breakers (World)",
+      "fullpath": "snk_neo_geo_cd-Breakers (World)",
+      "name": "Breakers ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Breakers",
+      "fullpath": "snk_neo_geo_cd-Breakers",
+      "name": "Breakers",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bstars (World)",
+      "fullpath": "snk_neo_geo_cd-bstars (World)",
+      "name": "bstars ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bstars",
+      "fullpath": "snk_neo_geo_cd-bstars",
+      "name": "bstars",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bstars2 (World)",
+      "fullpath": "snk_neo_geo_cd-bstars2 (World)",
+      "name": "bstars2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "bstars2",
+      "fullpath": "snk_neo_geo_cd-bstars2",
+      "name": "bstars2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Burning Fight (World)",
+      "fullpath": "snk_neo_geo_cd-Burning Fight (World)",
+      "name": "Burning Fight ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Burning Fight",
+      "fullpath": "snk_neo_geo_cd-Burning Fight",
+      "name": "Burning Fight",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "burningf (World)",
+      "fullpath": "snk_neo_geo_cd-burningf (World)",
+      "name": "burningf ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "burningf",
+      "fullpath": "snk_neo_geo_cd-burningf",
+      "name": "burningf",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bust A Move (alt) (World)",
+      "fullpath": "snk_neo_geo_cd-Bust A Move (alt) (World)",
+      "name": "Bust A Move ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bust A Move (alt)",
+      "fullpath": "snk_neo_geo_cd-Bust A Move (alt)",
+      "name": "Bust A Move (alt)",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bust A Move (World)",
+      "fullpath": "snk_neo_geo_cd-Bust A Move (World)",
+      "name": "Bust A Move ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bust A Move",
+      "fullpath": "snk_neo_geo_cd-Bust A Move",
+      "name": "Bust A Move",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crossed Swords (World)",
+      "fullpath": "snk_neo_geo_cd-Crossed Swords (World)",
+      "name": "Crossed Swords ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crossed Swords 2",
+      "fullpath": "snk_neo_geo_cd-Crossed Swords 2",
+      "name": "Crossed Swords 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crossed Swords II (World)",
+      "fullpath": "snk_neo_geo_cd-Crossed Swords II (World)",
+      "name": "Crossed Swords II ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crossed Swords",
+      "fullpath": "snk_neo_geo_cd-Crossed Swords",
+      "name": "Crossed Swords",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "crsword (World)",
+      "fullpath": "snk_neo_geo_cd-crsword (World)",
+      "name": "crsword ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "crsword",
+      "fullpath": "snk_neo_geo_cd-crsword",
+      "name": "crsword",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "crsword2 (World)",
+      "fullpath": "snk_neo_geo_cd-crsword2 (World)",
+      "name": "crsword2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "crsword2",
+      "fullpath": "snk_neo_geo_cd-crsword2",
+      "name": "crsword2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cyber-Lip (World)",
+      "fullpath": "snk_neo_geo_cd-Cyber-Lip (World)",
+      "name": "Cyber-Lip ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cyber-Lip",
+      "fullpath": "snk_neo_geo_cd-Cyber-Lip",
+      "name": "Cyber-Lip",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "cyberlip (World)",
+      "fullpath": "snk_neo_geo_cd-cyberlip (World)",
+      "name": "cyberlip ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "cyberlip",
+      "fullpath": "snk_neo_geo_cd-cyberlip",
+      "name": "cyberlip",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Double Dragon (World)",
+      "fullpath": "snk_neo_geo_cd-Double Dragon (World)",
+      "name": "Double Dragon ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Double Dragon",
+      "fullpath": "snk_neo_geo_cd-Double Dragon",
+      "name": "Double Dragon",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "doubledr (World)",
+      "fullpath": "snk_neo_geo_cd-doubledr (World)",
+      "name": "doubledr ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "doubledr",
+      "fullpath": "snk_neo_geo_cd-doubledr",
+      "name": "doubledr",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fatal Fury - The Battle of Fury (World)",
+      "fullpath": "snk_neo_geo_cd-Fatal Fury - The Battle of Fury (World)",
+      "name": "Fatal Fury - The Battle of Fury ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fatal Fury (World)",
+      "fullpath": "snk_neo_geo_cd-Fatal Fury (World)",
+      "name": "Fatal Fury ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fatal Fury 2 (World)",
+      "fullpath": "snk_neo_geo_cd-Fatal Fury 2 (World)",
+      "name": "Fatal Fury 2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fatal Fury 2",
+      "fullpath": "snk_neo_geo_cd-Fatal Fury 2",
+      "name": "Fatal Fury 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fatal Fury 3 - Road to the Final Victory (World)",
+      "fullpath": "snk_neo_geo_cd-Fatal Fury 3 - Road to the Final Victory (World)",
+      "name": "Fatal Fury 3 - Road to the Final Victory ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fatal Fury 3 (World)",
+      "fullpath": "snk_neo_geo_cd-Fatal Fury 3 (World)",
+      "name": "Fatal Fury 3 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fatal Fury 3",
+      "fullpath": "snk_neo_geo_cd-Fatal Fury 3",
+      "name": "Fatal Fury 3",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fatal Fury Special (World)",
+      "fullpath": "snk_neo_geo_cd-Fatal Fury Special (World)",
+      "name": "Fatal Fury Special ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fatal Fury Special",
+      "fullpath": "snk_neo_geo_cd-Fatal Fury Special",
+      "name": "Fatal Fury Special",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fatal Fury",
+      "fullpath": "snk_neo_geo_cd-Fatal Fury",
+      "name": "Fatal Fury",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fatfursp (World)",
+      "fullpath": "snk_neo_geo_cd-fatfursp (World)",
+      "name": "fatfursp ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fatfursp",
+      "fullpath": "snk_neo_geo_cd-fatfursp",
+      "name": "fatfursp",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fatfury1",
+      "fullpath": "snk_neo_geo_cd-fatfury1",
+      "name": "fatfury1",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fatfury2 (World)",
+      "fullpath": "snk_neo_geo_cd-fatfury2 (World)",
+      "name": "fatfury2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fatfury2",
+      "fullpath": "snk_neo_geo_cd-fatfury2",
+      "name": "fatfury2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fatfury3",
+      "fullpath": "snk_neo_geo_cd-fatfury3",
+      "name": "fatfury3",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fbfrenzy (World)",
+      "fullpath": "snk_neo_geo_cd-fbfrenzy (World)",
+      "name": "fbfrenzy ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "fbfrenzy",
+      "fullpath": "snk_neo_geo_cd-fbfrenzy",
+      "name": "fbfrenzy",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fighter's History Dynamite (alt) (World)",
+      "fullpath": "snk_neo_geo_cd-Fighter's History Dynamite (alt) (World)",
+      "name": "Fighter's History Dynamite ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fighter's History Dynamite (alt)",
+      "fullpath": "snk_neo_geo_cd-Fighter's History Dynamite (alt)",
+      "name": "Fighter's History Dynamite (alt)",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fighter's History Dynamite (World)",
+      "fullpath": "snk_neo_geo_cd-Fighter's History Dynamite (World)",
+      "name": "Fighter's History Dynamite ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fighter's History Dynamite",
+      "fullpath": "snk_neo_geo_cd-Fighter's History Dynamite",
+      "name": "Fighter's History Dynamite",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Football Frenzy (World)",
+      "fullpath": "snk_neo_geo_cd-Football Frenzy (World)",
+      "name": "Football Frenzy ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Football Frenzy",
+      "fullpath": "snk_neo_geo_cd-Football Frenzy",
+      "name": "Football Frenzy",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Galaxy Fight - Universal Warriors (World)",
+      "fullpath": "snk_neo_geo_cd-Galaxy Fight - Universal Warriors (World)",
+      "name": "Galaxy Fight - Universal Warriors ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Galaxy Fight",
+      "fullpath": "snk_neo_geo_cd-Galaxy Fight",
+      "name": "Galaxy Fight",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "galaxyfg (World)",
+      "fullpath": "snk_neo_geo_cd-galaxyfg (World)",
+      "name": "galaxyfg ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "galaxyfg",
+      "fullpath": "snk_neo_geo_cd-galaxyfg",
+      "name": "galaxyfg",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ghost Pilots (World)",
+      "fullpath": "snk_neo_geo_cd-Ghost Pilots (World)",
+      "name": "Ghost Pilots ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ghost Pilots",
+      "fullpath": "snk_neo_geo_cd-Ghost Pilots",
+      "name": "Ghost Pilots",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gowcaizr (World)",
+      "fullpath": "snk_neo_geo_cd-gowcaizr (World)",
+      "name": "gowcaizr ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gowcaizr",
+      "fullpath": "snk_neo_geo_cd-gowcaizr",
+      "name": "gowcaizr",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gpilots (World)",
+      "fullpath": "snk_neo_geo_cd-gpilots (World)",
+      "name": "gpilots ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "gpilots",
+      "fullpath": "snk_neo_geo_cd-gpilots",
+      "name": "gpilots",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "IronClad (World)",
+      "fullpath": "snk_neo_geo_cd-IronClad (World)",
+      "name": "IronClad ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "IronClad",
+      "fullpath": "snk_neo_geo_cd-IronClad",
+      "name": "IronClad",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Joy Joy Kid (World)",
+      "fullpath": "snk_neo_geo_cd-Joy Joy Kid (World)",
+      "name": "Joy Joy Kid ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Joy Joy Kid",
+      "fullpath": "snk_neo_geo_cd-Joy Joy Kid",
+      "name": "Joy Joy Kid",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "joyjoy (World)",
+      "fullpath": "snk_neo_geo_cd-joyjoy (World)",
+      "name": "joyjoy ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "joyjoy",
+      "fullpath": "snk_neo_geo_cd-joyjoy",
+      "name": "joyjoy",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kabuki Klash (World)",
+      "fullpath": "snk_neo_geo_cd-Kabuki Klash (World)",
+      "name": "Kabuki Klash ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kabuki Klash",
+      "fullpath": "snk_neo_geo_cd-Kabuki Klash",
+      "name": "Kabuki Klash",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kabukikl (World)",
+      "fullpath": "snk_neo_geo_cd-kabukikl (World)",
+      "name": "kabukikl ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kabukikl",
+      "fullpath": "snk_neo_geo_cd-kabukikl",
+      "name": "kabukikl",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Karnov's Revenge (World)",
+      "fullpath": "snk_neo_geo_cd-Karnov's Revenge (World)",
+      "name": "Karnov's Revenge ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "karnovr",
+      "fullpath": "snk_neo_geo_cd-karnovr",
+      "name": "karnovr",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 94 (World)",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 94 (World)",
+      "name": "King Of Fighters 94 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 94",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 94",
+      "name": "King Of Fighters 94",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 95 (World)",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 95 (World)",
+      "name": "King Of Fighters 95 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 95",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 95",
+      "name": "King Of Fighters 95",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 96 - Neo Geo Collection (World)",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 96 - Neo Geo Collection (World)",
+      "name": "King Of Fighters 96 - Neo Geo Collection ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 96 - Neo Geo Collection",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 96 - Neo Geo Collection",
+      "name": "King Of Fighters 96 - Neo Geo Collection",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 96 (World)",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 96 (World)",
+      "name": "King Of Fighters 96 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 96",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 96",
+      "name": "King Of Fighters 96",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 97 (World)",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 97 (World)",
+      "name": "King Of Fighters 97 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 97",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 97",
+      "name": "King Of Fighters 97",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 98 (World)",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 98 (World)",
+      "name": "King Of Fighters 98 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 98",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 98",
+      "name": "King Of Fighters 98",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 99 (World)",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 99 (World)",
+      "name": "King Of Fighters 99 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of Fighters 99",
+      "fullpath": "snk_neo_geo_cd-King Of Fighters 99",
+      "name": "King Of Fighters 99",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King of the Monsters 2 - The Next Thing (World)",
+      "fullpath": "snk_neo_geo_cd-King of the Monsters 2 - The Next Thing (World)",
+      "name": "King of the Monsters 2 - The Next Thing ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of The Monsters 2 (World)",
+      "fullpath": "snk_neo_geo_cd-King Of The Monsters 2 (World)",
+      "name": "King Of The Monsters 2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "King Of The Monsters 2",
+      "fullpath": "snk_neo_geo_cd-King Of The Monsters 2",
+      "name": "King Of The Monsters 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof94",
+      "fullpath": "snk_neo_geo_cd-kof94",
+      "name": "kof94",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof95",
+      "fullpath": "snk_neo_geo_cd-kof95",
+      "name": "kof95",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof96",
+      "fullpath": "snk_neo_geo_cd-kof96",
+      "name": "kof96",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof96ngc (World)",
+      "fullpath": "snk_neo_geo_cd-kof96ngc (World)",
+      "name": "kof96ngc ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof96ngc",
+      "fullpath": "snk_neo_geo_cd-kof96ngc",
+      "name": "kof96ngc",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof97",
+      "fullpath": "snk_neo_geo_cd-kof97",
+      "name": "kof97",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof98",
+      "fullpath": "snk_neo_geo_cd-kof98",
+      "name": "kof98",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kof99",
+      "fullpath": "snk_neo_geo_cd-kof99",
+      "name": "kof99",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "kotm2",
+      "fullpath": "snk_neo_geo_cd-kotm2",
+      "name": "kotm2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Last Blade 2",
+      "fullpath": "snk_neo_geo_cd-Last Blade 2",
+      "name": "Last Blade 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Last Blade",
+      "fullpath": "snk_neo_geo_cd-Last Blade",
+      "name": "Last Blade",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Last Resort (World)",
+      "fullpath": "snk_neo_geo_cd-Last Resort (World)",
+      "name": "Last Resort ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Last Resort",
+      "fullpath": "snk_neo_geo_cd-Last Resort",
+      "name": "Last Resort",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lastblad (World)",
+      "fullpath": "snk_neo_geo_cd-lastblad (World)",
+      "name": "lastblad ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lastblad",
+      "fullpath": "snk_neo_geo_cd-lastblad",
+      "name": "lastblad",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lastbld2 (World)",
+      "fullpath": "snk_neo_geo_cd-lastbld2 (World)",
+      "name": "lastbld2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lastbld2",
+      "fullpath": "snk_neo_geo_cd-lastbld2",
+      "name": "lastbld2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lbowling (World)",
+      "fullpath": "snk_neo_geo_cd-lbowling (World)",
+      "name": "lbowling ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lbowling",
+      "fullpath": "snk_neo_geo_cd-lbowling",
+      "name": "lbowling",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "League Bowling (World)",
+      "fullpath": "snk_neo_geo_cd-League Bowling (World)",
+      "name": "League Bowling ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "League Bowling",
+      "fullpath": "snk_neo_geo_cd-League Bowling",
+      "name": "League Bowling",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lresort (World)",
+      "fullpath": "snk_neo_geo_cd-lresort (World)",
+      "name": "lresort ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "lresort",
+      "fullpath": "snk_neo_geo_cd-lresort",
+      "name": "lresort",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "magdrop2 (World)",
+      "fullpath": "snk_neo_geo_cd-magdrop2 (World)",
+      "name": "magdrop2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "magdrop2",
+      "fullpath": "snk_neo_geo_cd-magdrop2",
+      "name": "magdrop2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Magical Drop 2 (World)",
+      "fullpath": "snk_neo_geo_cd-Magical Drop 2 (World)",
+      "name": "Magical Drop 2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Magical Drop 2",
+      "fullpath": "snk_neo_geo_cd-Magical Drop 2",
+      "name": "Magical Drop 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Magician Lord (World)",
+      "fullpath": "snk_neo_geo_cd-Magician Lord (World)",
+      "name": "Magician Lord ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Magician Lord",
+      "fullpath": "snk_neo_geo_cd-Magician Lord",
+      "name": "Magician Lord",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "maglord (World)",
+      "fullpath": "snk_neo_geo_cd-maglord (World)",
+      "name": "maglord ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "maglord",
+      "fullpath": "snk_neo_geo_cd-maglord",
+      "name": "maglord",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mahjong Final Romance 2 (World)",
+      "fullpath": "snk_neo_geo_cd-Mahjong Final Romance 2 (World)",
+      "name": "Mahjong Final Romance 2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mahjong Final Romance 2",
+      "fullpath": "snk_neo_geo_cd-Mahjong Final Romance 2",
+      "name": "Mahjong Final Romance 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mahjong Kyo Retsuden (World)",
+      "fullpath": "snk_neo_geo_cd-Mahjong Kyo Retsuden (World)",
+      "name": "Mahjong Kyo Retsuden ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mahjong Kyo Retsuden",
+      "fullpath": "snk_neo_geo_cd-Mahjong Kyo Retsuden",
+      "name": "Mahjong Kyo Retsuden",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Master Of Syougi (World)",
+      "fullpath": "snk_neo_geo_cd-Master Of Syougi (World)",
+      "name": "Master Of Syougi ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Master Of Syougi",
+      "fullpath": "snk_neo_geo_cd-Master Of Syougi",
+      "name": "Master Of Syougi",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Metal Slug (World)",
+      "fullpath": "snk_neo_geo_cd-Metal Slug (World)",
+      "name": "Metal Slug ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Metal Slug 2 (World)",
+      "fullpath": "snk_neo_geo_cd-Metal Slug 2 (World)",
+      "name": "Metal Slug 2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Metal Slug 2",
+      "fullpath": "snk_neo_geo_cd-Metal Slug 2",
+      "name": "Metal Slug 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Metal Slug",
+      "fullpath": "snk_neo_geo_cd-Metal Slug",
+      "name": "Metal Slug",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "mslug (World)",
+      "fullpath": "snk_neo_geo_cd-mslug (World)",
+      "name": "mslug ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "mslug",
+      "fullpath": "snk_neo_geo_cd-mslug",
+      "name": "mslug",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "mslug2 (World)",
+      "fullpath": "snk_neo_geo_cd-mslug2 (World)",
+      "name": "mslug2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "mslug2",
+      "fullpath": "snk_neo_geo_cd-mslug2",
+      "name": "mslug2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mutation Nation (World)",
+      "fullpath": "snk_neo_geo_cd-Mutation Nation (World)",
+      "name": "Mutation Nation ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mutation Nation",
+      "fullpath": "snk_neo_geo_cd-Mutation Nation",
+      "name": "Mutation Nation",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "mutnat (World)",
+      "fullpath": "snk_neo_geo_cd-mutnat (World)",
+      "name": "mutnat ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "mutnat",
+      "fullpath": "snk_neo_geo_cd-mutnat",
+      "name": "mutnat",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Nam 1975",
+      "fullpath": "snk_neo_geo_cd-Nam 1975",
+      "name": "Nam 1975",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NAM-1975 (World)",
+      "fullpath": "snk_neo_geo_cd-NAM-1975 (World)",
+      "name": "NAM-1975 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "nam1975 (World)",
+      "fullpath": "snk_neo_geo_cd-nam1975 (World)",
+      "name": "nam1975 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "nam1975",
+      "fullpath": "snk_neo_geo_cd-nam1975",
+      "name": "nam1975",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ncombat (World)",
+      "fullpath": "snk_neo_geo_cd-ncombat (World)",
+      "name": "ncombat ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ncombat",
+      "fullpath": "snk_neo_geo_cd-ncombat",
+      "name": "ncombat",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ncommand (World)",
+      "fullpath": "snk_neo_geo_cd-ncommand (World)",
+      "name": "ncommand ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ncommand",
+      "fullpath": "snk_neo_geo_cd-ncommand",
+      "name": "ncommand",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neo Drift Out (World)",
+      "fullpath": "snk_neo_geo_cd-Neo Drift Out (World)",
+      "name": "Neo Drift Out ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neo Drift Out",
+      "fullpath": "snk_neo_geo_cd-Neo Drift Out",
+      "name": "Neo Drift Out",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neo DriftOut (World)",
+      "fullpath": "snk_neo_geo_cd-Neo DriftOut (World)",
+      "name": "Neo DriftOut ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neo Geo CD Special (World)",
+      "fullpath": "snk_neo_geo_cd-Neo Geo CD Special (World)",
+      "name": "Neo Geo CD Special ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neo Geo CD Special",
+      "fullpath": "snk_neo_geo_cd-Neo Geo CD Special",
+      "name": "Neo Geo CD Special",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neo Turf Masters (World)",
+      "fullpath": "snk_neo_geo_cd-Neo Turf Masters (World)",
+      "name": "Neo Turf Masters ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neo Turf Masters",
+      "fullpath": "snk_neo_geo_cd-Neo Turf Masters",
+      "name": "Neo Turf Masters",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "neodrift",
+      "fullpath": "snk_neo_geo_cd-neodrift",
+      "name": "neodrift",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Combat (World)",
+      "fullpath": "snk_neo_geo_cd-Ninja Combat (World)",
+      "name": "Ninja Combat ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Combat",
+      "fullpath": "snk_neo_geo_cd-Ninja Combat",
+      "name": "Ninja Combat",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Commando (World)",
+      "fullpath": "snk_neo_geo_cd-Ninja Commando (World)",
+      "name": "Ninja Commando ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Commando",
+      "fullpath": "snk_neo_geo_cd-Ninja Commando",
+      "name": "Ninja Commando",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Master's - Haou Ninpou-Chou (World)",
+      "fullpath": "snk_neo_geo_cd-Ninja Master's - Haou Ninpou-Chou (World)",
+      "name": "Ninja Master's - Haou Ninpou-Chou ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Master's",
+      "fullpath": "snk_neo_geo_cd-Ninja Master's",
+      "name": "Ninja Master's",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ninjamas (World)",
+      "fullpath": "snk_neo_geo_cd-ninjamas (World)",
+      "name": "ninjamas ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ninjamas",
+      "fullpath": "snk_neo_geo_cd-ninjamas",
+      "name": "ninjamas",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Over Top (World)",
+      "fullpath": "snk_neo_geo_cd-Over Top (World)",
+      "name": "Over Top ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Over Top",
+      "fullpath": "snk_neo_geo_cd-Over Top",
+      "name": "Over Top",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "overtop (World)",
+      "fullpath": "snk_neo_geo_cd-overtop (World)",
+      "name": "overtop ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "overtop",
+      "fullpath": "snk_neo_geo_cd-overtop",
+      "name": "overtop",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pbobblen",
+      "fullpath": "snk_neo_geo_cd-pbobblen",
+      "name": "pbobblen",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pbobblenb (World)",
+      "fullpath": "snk_neo_geo_cd-pbobblenb (World)",
+      "name": "pbobblenb ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pbobblenb",
+      "fullpath": "snk_neo_geo_cd-pbobblenb",
+      "name": "pbobblenb",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pgoal (World)",
+      "fullpath": "snk_neo_geo_cd-pgoal (World)",
+      "name": "pgoal ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pgoal",
+      "fullpath": "snk_neo_geo_cd-pgoal",
+      "name": "pgoal",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pleasuregoal - 5 on 5 Mini Soccer (World)",
+      "fullpath": "snk_neo_geo_cd-Pleasuregoal - 5 on 5 Mini Soccer (World)",
+      "name": "Pleasuregoal - 5 on 5 Mini Soccer ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pleasuregoal - 5on5 Mini Soccer",
+      "fullpath": "snk_neo_geo_cd-Pleasuregoal - 5on5 Mini Soccer",
+      "name": "Pleasuregoal - 5on5 Mini Soccer",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Power Spikes 2",
+      "fullpath": "snk_neo_geo_cd-Power Spikes 2",
+      "name": "Power Spikes 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Power Spikes II (World)",
+      "fullpath": "snk_neo_geo_cd-Power Spikes II (World)",
+      "name": "Power Spikes II ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pspikes2 (World)",
+      "fullpath": "snk_neo_geo_cd-pspikes2 (World)",
+      "name": "pspikes2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "pspikes2",
+      "fullpath": "snk_neo_geo_cd-pspikes2",
+      "name": "pspikes2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pulstar (World)",
+      "fullpath": "snk_neo_geo_cd-Pulstar (World)",
+      "name": "Pulstar ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pulstar",
+      "fullpath": "snk_neo_geo_cd-Pulstar",
+      "name": "Pulstar",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Puzzle Bobble (World)",
+      "fullpath": "snk_neo_geo_cd-Puzzle Bobble (World)",
+      "name": "Puzzle Bobble ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Quest Of Jong Master (World)",
+      "fullpath": "snk_neo_geo_cd-Quest Of Jong Master (World)",
+      "name": "Quest Of Jong Master ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Quest Of Jong Master",
+      "fullpath": "snk_neo_geo_cd-Quest Of Jong Master",
+      "name": "Quest Of Jong Master",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Quiz King Of Fighters (World)",
+      "fullpath": "snk_neo_geo_cd-Quiz King Of Fighters (World)",
+      "name": "Quiz King Of Fighters ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Quiz King Of Fighters",
+      "fullpath": "snk_neo_geo_cd-Quiz King Of Fighters",
+      "name": "Quiz King Of Fighters",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ragnagard (World)",
+      "fullpath": "snk_neo_geo_cd-Ragnagard (World)",
+      "name": "Ragnagard ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ragnagard",
+      "fullpath": "snk_neo_geo_cd-Ragnagard",
+      "name": "Ragnagard",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ragnagrd (World)",
+      "fullpath": "snk_neo_geo_cd-ragnagrd (World)",
+      "name": "ragnagrd ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ragnagrd",
+      "fullpath": "snk_neo_geo_cd-ragnagrd",
+      "name": "ragnagrd",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rally Chase (World)",
+      "fullpath": "snk_neo_geo_cd-Rally Chase (World)",
+      "name": "Rally Chase ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rally Chase",
+      "fullpath": "snk_neo_geo_cd-Rally Chase",
+      "name": "Rally Chase",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rbff1 (World)",
+      "fullpath": "snk_neo_geo_cd-rbff1 (World)",
+      "name": "rbff1 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rbff1",
+      "fullpath": "snk_neo_geo_cd-rbff1",
+      "name": "rbff1",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rbff2 (World)",
+      "fullpath": "snk_neo_geo_cd-rbff2 (World)",
+      "name": "rbff2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rbff2",
+      "fullpath": "snk_neo_geo_cd-rbff2",
+      "name": "rbff2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rbffspec (World)",
+      "fullpath": "snk_neo_geo_cd-rbffspec (World)",
+      "name": "rbffspec ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "rbffspec",
+      "fullpath": "snk_neo_geo_cd-rbffspec",
+      "name": "rbffspec",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Real Bout Fatal Fury (World)",
+      "fullpath": "snk_neo_geo_cd-Real Bout Fatal Fury (World)",
+      "name": "Real Bout Fatal Fury ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Real Bout Fatal Fury 2 - The Newcomers (World)",
+      "fullpath": "snk_neo_geo_cd-Real Bout Fatal Fury 2 - The Newcomers (World)",
+      "name": "Real Bout Fatal Fury 2 - The Newcomers ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Real Bout Fatal Fury 2",
+      "fullpath": "snk_neo_geo_cd-Real Bout Fatal Fury 2",
+      "name": "Real Bout Fatal Fury 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Real Bout Fatal Fury Special (World)",
+      "fullpath": "snk_neo_geo_cd-Real Bout Fatal Fury Special (World)",
+      "name": "Real Bout Fatal Fury Special ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Real Bout Fatal Fury Special",
+      "fullpath": "snk_neo_geo_cd-Real Bout Fatal Fury Special",
+      "name": "Real Bout Fatal Fury Special",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Real Bout Fatal Fury",
+      "fullpath": "snk_neo_geo_cd-Real Bout Fatal Fury",
+      "name": "Real Bout Fatal Fury",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ridhero (World)",
+      "fullpath": "snk_neo_geo_cd-ridhero (World)",
+      "name": "ridhero ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ridhero",
+      "fullpath": "snk_neo_geo_cd-ridhero",
+      "name": "ridhero",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Riding Hero (World)",
+      "fullpath": "snk_neo_geo_cd-Riding Hero (World)",
+      "name": "Riding Hero ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Riding Hero",
+      "fullpath": "snk_neo_geo_cd-Riding Hero",
+      "name": "Riding Hero",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Robo Army (World)",
+      "fullpath": "snk_neo_geo_cd-Robo Army (World)",
+      "name": "Robo Army ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Robo Army",
+      "fullpath": "snk_neo_geo_cd-Robo Army",
+      "name": "Robo Army",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "roboarmy (World)",
+      "fullpath": "snk_neo_geo_cd-roboarmy (World)",
+      "name": "roboarmy ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "roboarmy",
+      "fullpath": "snk_neo_geo_cd-roboarmy",
+      "name": "roboarmy",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "samsho (World)",
+      "fullpath": "snk_neo_geo_cd-samsho (World)",
+      "name": "samsho ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "samsho",
+      "fullpath": "snk_neo_geo_cd-samsho",
+      "name": "samsho",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "samsho2 (World)",
+      "fullpath": "snk_neo_geo_cd-samsho2 (World)",
+      "name": "samsho2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "samsho2",
+      "fullpath": "snk_neo_geo_cd-samsho2",
+      "name": "samsho2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "samsho3 (World)",
+      "fullpath": "snk_neo_geo_cd-samsho3 (World)",
+      "name": "samsho3 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "samsho3",
+      "fullpath": "snk_neo_geo_cd-samsho3",
+      "name": "samsho3",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "samsho4 (World)",
+      "fullpath": "snk_neo_geo_cd-samsho4 (World)",
+      "name": "samsho4 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "samsho4",
+      "fullpath": "snk_neo_geo_cd-samsho4",
+      "name": "samsho4",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown (World)",
+      "fullpath": "snk_neo_geo_cd-Samurai Shodown (World)",
+      "name": "Samurai Shodown ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown 2",
+      "fullpath": "snk_neo_geo_cd-Samurai Shodown 2",
+      "name": "Samurai Shodown 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown 3",
+      "fullpath": "snk_neo_geo_cd-Samurai Shodown 3",
+      "name": "Samurai Shodown 3",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown 4",
+      "fullpath": "snk_neo_geo_cd-Samurai Shodown 4",
+      "name": "Samurai Shodown 4",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown II (World)",
+      "fullpath": "snk_neo_geo_cd-Samurai Shodown II (World)",
+      "name": "Samurai Shodown II ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown III (World)",
+      "fullpath": "snk_neo_geo_cd-Samurai Shodown III (World)",
+      "name": "Samurai Shodown III ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown IV - Amakusa's Revenge (World)",
+      "fullpath": "snk_neo_geo_cd-Samurai Shodown IV - Amakusa's Revenge (World)",
+      "name": "Samurai Shodown IV - Amakusa's Revenge ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown",
+      "fullpath": "snk_neo_geo_cd-Samurai Shodown",
+      "name": "Samurai Shodown",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Spirits RPG (World)",
+      "fullpath": "snk_neo_geo_cd-Samurai Spirits RPG (World)",
+      "name": "Samurai Spirits RPG ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Spirits RPG",
+      "fullpath": "snk_neo_geo_cd-Samurai Spirits RPG",
+      "name": "Samurai Spirits RPG",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Savage Reign (World)",
+      "fullpath": "snk_neo_geo_cd-Savage Reign (World)",
+      "name": "Savage Reign ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Savage Reign",
+      "fullpath": "snk_neo_geo_cd-Savage Reign",
+      "name": "Savage Reign",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "savagere (World)",
+      "fullpath": "snk_neo_geo_cd-savagere (World)",
+      "name": "savagere ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "savagere",
+      "fullpath": "snk_neo_geo_cd-savagere",
+      "name": "savagere",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sengoku (World)",
+      "fullpath": "snk_neo_geo_cd-Sengoku (World)",
+      "name": "Sengoku ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sengoku 2 (World)",
+      "fullpath": "snk_neo_geo_cd-Sengoku 2 (World)",
+      "name": "Sengoku 2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sengoku 2",
+      "fullpath": "snk_neo_geo_cd-Sengoku 2",
+      "name": "Sengoku 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sengoku",
+      "fullpath": "snk_neo_geo_cd-Sengoku",
+      "name": "Sengoku",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sengoku2 (World)",
+      "fullpath": "snk_neo_geo_cd-sengoku2 (World)",
+      "name": "sengoku2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sengoku2",
+      "fullpath": "snk_neo_geo_cd-sengoku2",
+      "name": "sengoku2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "socbrawl (World)",
+      "fullpath": "snk_neo_geo_cd-socbrawl (World)",
+      "name": "socbrawl ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "socbrawl",
+      "fullpath": "snk_neo_geo_cd-socbrawl",
+      "name": "socbrawl",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Soccer Brawl (World)",
+      "fullpath": "snk_neo_geo_cd-Soccer Brawl (World)",
+      "name": "Soccer Brawl ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Soccer Brawl",
+      "fullpath": "snk_neo_geo_cd-Soccer Brawl",
+      "name": "Soccer Brawl",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sonicwi2 (alt) (World)",
+      "fullpath": "snk_neo_geo_cd-sonicwi2 (alt) (World)",
+      "name": "sonicwi2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sonicwi2 (alt)",
+      "fullpath": "snk_neo_geo_cd-sonicwi2 (alt)",
+      "name": "sonicwi2 (alt)",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sonicwi2 (World)",
+      "fullpath": "snk_neo_geo_cd-sonicwi2 (World)",
+      "name": "sonicwi2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sonicwi2",
+      "fullpath": "snk_neo_geo_cd-sonicwi2",
+      "name": "sonicwi2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sonicwi3 (alt) (World)",
+      "fullpath": "snk_neo_geo_cd-sonicwi3 (alt) (World)",
+      "name": "sonicwi3 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sonicwi3 (alt)",
+      "fullpath": "snk_neo_geo_cd-sonicwi3 (alt)",
+      "name": "sonicwi3 (alt)",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sonicwi3 (World)",
+      "fullpath": "snk_neo_geo_cd-sonicwi3 (World)",
+      "name": "sonicwi3 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "sonicwi3",
+      "fullpath": "snk_neo_geo_cd-sonicwi3",
+      "name": "sonicwi3",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ssideki (World)",
+      "fullpath": "snk_neo_geo_cd-ssideki (World)",
+      "name": "ssideki ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ssideki",
+      "fullpath": "snk_neo_geo_cd-ssideki",
+      "name": "ssideki",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ssideki2 (World)",
+      "fullpath": "snk_neo_geo_cd-ssideki2 (World)",
+      "name": "ssideki2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ssideki2",
+      "fullpath": "snk_neo_geo_cd-ssideki2",
+      "name": "ssideki2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ssideki3 (World)",
+      "fullpath": "snk_neo_geo_cd-ssideki3 (World)",
+      "name": "ssideki3 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ssideki3",
+      "fullpath": "snk_neo_geo_cd-ssideki3",
+      "name": "ssideki3",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Stakes Winner - GI Kanzen Seiha Heno Machi (Japan)",
+      "fullpath": "snk_neo_geo_cd-Stakes Winner - GI Kanzen Seiha Heno Machi (Japan)",
+      "name": "Stakes Winner - GI Kanzen Seiha Heno Machi ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Stakes Winner",
+      "fullpath": "snk_neo_geo_cd-Stakes Winner",
+      "name": "Stakes Winner",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "stakwin (World)",
+      "fullpath": "snk_neo_geo_cd-stakwin (World)",
+      "name": "stakwin ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "stakwin",
+      "fullpath": "snk_neo_geo_cd-stakwin",
+      "name": "stakwin",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Street Hoop (World)",
+      "fullpath": "snk_neo_geo_cd-Street Hoop (World)",
+      "name": "Street Hoop ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Street Slam",
+      "fullpath": "snk_neo_geo_cd-Street Slam",
+      "name": "Street Slam",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "strhoop (World)",
+      "fullpath": "snk_neo_geo_cd-strhoop (World)",
+      "name": "strhoop ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "strhoop",
+      "fullpath": "snk_neo_geo_cd-strhoop",
+      "name": "strhoop",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Baseball 2020 (World)",
+      "fullpath": "snk_neo_geo_cd-Super Baseball 2020 (World)",
+      "name": "Super Baseball 2020 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Baseball 2020",
+      "fullpath": "snk_neo_geo_cd-Super Baseball 2020",
+      "name": "Super Baseball 2020",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Sidekicks (World)",
+      "fullpath": "snk_neo_geo_cd-Super Sidekicks (World)",
+      "name": "Super Sidekicks ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Sidekicks 2 (World)",
+      "fullpath": "snk_neo_geo_cd-Super Sidekicks 2 (World)",
+      "name": "Super Sidekicks 2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Sidekicks 2",
+      "fullpath": "snk_neo_geo_cd-Super Sidekicks 2",
+      "name": "Super Sidekicks 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Sidekicks 3 - The Next Glory (World)",
+      "fullpath": "snk_neo_geo_cd-Super Sidekicks 3 - The Next Glory (World)",
+      "name": "Super Sidekicks 3 - The Next Glory ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Sidekicks 3",
+      "fullpath": "snk_neo_geo_cd-Super Sidekicks 3",
+      "name": "Super Sidekicks 3",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Sidekicks",
+      "fullpath": "snk_neo_geo_cd-Super Sidekicks",
+      "name": "Super Sidekicks",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Spy",
+      "fullpath": "snk_neo_geo_cd-Super Spy",
+      "name": "Super Spy",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "superspy (World)",
+      "fullpath": "snk_neo_geo_cd-superspy (World)",
+      "name": "superspy ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "superspy",
+      "fullpath": "snk_neo_geo_cd-superspy",
+      "name": "superspy",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Top Hunter - Roddy & Cathy (World)",
+      "fullpath": "snk_neo_geo_cd-Top Hunter - Roddy & Cathy (World)",
+      "name": "Top Hunter - Roddy & Cathy ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Top Hunter",
+      "fullpath": "snk_neo_geo_cd-Top Hunter",
+      "name": "Top Hunter",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Top Player's Golf (World)",
+      "fullpath": "snk_neo_geo_cd-Top Player's Golf (World)",
+      "name": "Top Player's Golf ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Top Player's Golf",
+      "fullpath": "snk_neo_geo_cd-Top Player's Golf",
+      "name": "Top Player's Golf",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tophuntr (World)",
+      "fullpath": "snk_neo_geo_cd-tophuntr (World)",
+      "name": "tophuntr ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tophuntr",
+      "fullpath": "snk_neo_geo_cd-tophuntr",
+      "name": "tophuntr",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tpgolf (World)",
+      "fullpath": "snk_neo_geo_cd-tpgolf (World)",
+      "name": "tpgolf ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "tpgolf",
+      "fullpath": "snk_neo_geo_cd-tpgolf",
+      "name": "tpgolf",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "trally (World)",
+      "fullpath": "snk_neo_geo_cd-trally (World)",
+      "name": "trally ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "trally",
+      "fullpath": "snk_neo_geo_cd-trally",
+      "name": "trally",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "turfmast (World)",
+      "fullpath": "snk_neo_geo_cd-turfmast (World)",
+      "name": "turfmast ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "turfmast",
+      "fullpath": "snk_neo_geo_cd-turfmast",
+      "name": "turfmast",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Twinkle Star Sprites (World)",
+      "fullpath": "snk_neo_geo_cd-Twinkle Star Sprites (World)",
+      "name": "Twinkle Star Sprites ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Twinklestar Sprites",
+      "fullpath": "snk_neo_geo_cd-Twinklestar Sprites",
+      "name": "Twinklestar Sprites",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "twinspri (World)",
+      "fullpath": "snk_neo_geo_cd-twinspri (World)",
+      "name": "twinspri ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "twinspri",
+      "fullpath": "snk_neo_geo_cd-twinspri",
+      "name": "twinspri",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "viewpoin (World)",
+      "fullpath": "snk_neo_geo_cd-viewpoin (World)",
+      "name": "viewpoin ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "viewpoin",
+      "fullpath": "snk_neo_geo_cd-viewpoin",
+      "name": "viewpoin",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Viewpoint (World)",
+      "fullpath": "snk_neo_geo_cd-Viewpoint (World)",
+      "name": "Viewpoint ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Viewpoint",
+      "fullpath": "snk_neo_geo_cd-Viewpoint",
+      "name": "Viewpoint",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Voltage Fighter Gowcaizer (World)",
+      "fullpath": "snk_neo_geo_cd-Voltage Fighter Gowcaizer (World)",
+      "name": "Voltage Fighter Gowcaizer ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Voltage Fighter Gowcaizer",
+      "fullpath": "snk_neo_geo_cd-Voltage Fighter Gowcaizer",
+      "name": "Voltage Fighter Gowcaizer",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "wh1",
+      "fullpath": "snk_neo_geo_cd-wh1",
+      "name": "wh1",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "wh2",
+      "fullpath": "snk_neo_geo_cd-wh2",
+      "name": "wh2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "wh2j",
+      "fullpath": "snk_neo_geo_cd-wh2j",
+      "name": "wh2j",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "whp",
+      "fullpath": "snk_neo_geo_cd-whp",
+      "name": "whp",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Windjammers (World)",
+      "fullpath": "snk_neo_geo_cd-Windjammers (World)",
+      "name": "Windjammers ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Windjammers",
+      "fullpath": "snk_neo_geo_cd-Windjammers",
+      "name": "Windjammers",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "wjammers",
+      "fullpath": "snk_neo_geo_cd-wjammers",
+      "name": "wjammers",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Heroes (World)",
+      "fullpath": "snk_neo_geo_cd-World Heroes (World)",
+      "name": "World Heroes ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Heroes 2 (World)",
+      "fullpath": "snk_neo_geo_cd-World Heroes 2 (World)",
+      "name": "World Heroes 2 ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Heroes 2 Jet (World)",
+      "fullpath": "snk_neo_geo_cd-World Heroes 2 Jet (World)",
+      "name": "World Heroes 2 Jet ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Heroes 2 Jet",
+      "fullpath": "snk_neo_geo_cd-World Heroes 2 Jet",
+      "name": "World Heroes 2 Jet",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Heroes 2",
+      "fullpath": "snk_neo_geo_cd-World Heroes 2",
+      "name": "World Heroes 2",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Heroes Perfect (World)",
+      "fullpath": "snk_neo_geo_cd-World Heroes Perfect (World)",
+      "name": "World Heroes Perfect ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Heroes Perfect",
+      "fullpath": "snk_neo_geo_cd-World Heroes Perfect",
+      "name": "World Heroes Perfect",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "World Heroes",
+      "fullpath": "snk_neo_geo_cd-World Heroes",
+      "name": "World Heroes",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zintrick (World)",
+      "fullpath": "snk_neo_geo_cd-Zintrick (World)",
+      "name": "Zintrick ",
+      "year": "1990",
+      "publisher": "Misc",
+      "genre": "SNK",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Zintrick",
+      "fullpath": "snk_neo_geo_cd-Zintrick",
+      "name": "Zintrick",
+      "year": "1994",
+      "publisher": "SNK",
+      "genre": "General",
+      "rating": "Not Rated"
+    }
+  ]
+}

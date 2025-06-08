@@ -1,0 +1,1481 @@
+{
+  "platform": "pc",
+  "totalGames": 163,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "pc game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "pc.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "80s Overdrive",
+      "fullpath": "pc-80s Overdrive",
+      "name": "80s Overdrive",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "A Blast From The Past",
+      "fullpath": "pc-A Blast From The Past",
+      "name": "A Blast From The Past",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "AEW Fight Forever",
+      "fullpath": "pc-AEW Fight Forever",
+      "name": "AEW Fight Forever",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "AVGN",
+      "fullpath": "pc-AVGN",
+      "name": "AVGN",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Aliens vs. Predator",
+      "fullpath": "pc-Aliens vs. Predator",
+      "name": "Aliens vs. Predator",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Angry Birds Space",
+      "fullpath": "pc-Angry Birds Space",
+      "name": "Angry Birds Space",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Angry Birds Star Wars",
+      "fullpath": "pc-Angry Birds Star Wars",
+      "name": "Angry Birds Star Wars",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Angry Birds",
+      "fullpath": "pc-Angry Birds",
+      "name": "Angry Birds",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Assault Suit Leynos",
+      "fullpath": "pc-Assault Suit Leynos",
+      "name": "Assault Suit Leynos",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Asteroids Recharged",
+      "fullpath": "pc-Asteroids Recharged",
+      "name": "Asteroids Recharged",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Attack on Titan Wings of Freedom",
+      "fullpath": "pc-Attack on Titan Wings of Freedom",
+      "name": "Attack on Titan Wings of Freedom",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Bastion",
+      "fullpath": "pc-Bastion",
+      "name": "Bastion",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Batman Arkham Origins",
+      "fullpath": "pc-Batman Arkham Origins",
+      "name": "Batman Arkham Origins",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Battletoads",
+      "fullpath": "pc-Battletoads",
+      "name": "Battletoads",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Big Buck Hunter - Arcade",
+      "fullpath": "pc-Big Buck Hunter - Arcade",
+      "name": "Big Buck Hunter - Arcade",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Bionic Commando Rearmed",
+      "fullpath": "pc-Bionic Commando Rearmed",
+      "name": "Bionic Commando Rearmed",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Bishi Bashi Channel",
+      "fullpath": "pc-Bishi Bashi Channel",
+      "name": "Bishi Bashi Channel",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Black Widow Recharged",
+      "fullpath": "pc-Black Widow Recharged",
+      "name": "Black Widow Recharged",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Blazing Chrome",
+      "fullpath": "pc-Blazing Chrome",
+      "name": "Blazing Chrome",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Bomb Rush Cyberfunk",
+      "fullpath": "pc-Bomb Rush Cyberfunk",
+      "name": "Bomb Rush Cyberfunk",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Breakout Recharged",
+      "fullpath": "pc-Breakout Recharged",
+      "name": "Breakout Recharged",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Brutal Doom 2",
+      "fullpath": "pc-Brutal Doom 2",
+      "name": "Brutal Doom 2",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Brutal Doom",
+      "fullpath": "pc-Brutal Doom",
+      "name": "Brutal Doom",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Burn Zombie Burn",
+      "fullpath": "pc-Burn Zombie Burn",
+      "name": "Burn Zombie Burn",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "CASINO",
+      "fullpath": "pc-CASINO",
+      "name": "CASINO",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Castle Crashers",
+      "fullpath": "pc-Castle Crashers",
+      "name": "Castle Crashers",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Cave Story",
+      "fullpath": "pc-Cave Story",
+      "name": "Cave Story",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Centipede Recharged",
+      "fullpath": "pc-Centipede Recharged",
+      "name": "Centipede Recharged",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Cossacks 3",
+      "fullpath": "pc-Cossacks 3",
+      "name": "Cossacks 3",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Crazy Taxi",
+      "fullpath": "pc-Crazy Taxi",
+      "name": "Crazy Taxi",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Cuphead",
+      "fullpath": "pc-Cuphead",
+      "name": "Cuphead",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "DEAD OR ALIVE 5 Last Round",
+      "fullpath": "pc-DEAD OR ALIVE 5 Last Round",
+      "name": "DEAD OR ALIVE 5 Last Round",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Dariusburst Chronicle Saviours",
+      "fullpath": "pc-Dariusburst Chronicle Saviours",
+      "name": "Dariusburst Chronicle Saviours",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Darksiders - Warmastered Edition",
+      "fullpath": "pc-Darksiders - Warmastered Edition",
+      "name": "Darksiders - Warmastered Edition",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Darksiders II Deathinitive Edition",
+      "fullpath": "pc-Darksiders II Deathinitive Edition",
+      "name": "Darksiders II Deathinitive Edition",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Dead Effect",
+      "fullpath": "pc-Dead Effect",
+      "name": "Dead Effect",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Death or Treat",
+      "fullpath": "pc-Death or Treat",
+      "name": "Death or Treat",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Demons Tilt",
+      "fullpath": "pc-Demons Tilt",
+      "name": "Demons Tilt",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Devil's Dare",
+      "fullpath": "pc-Devil's Dare",
+      "name": "Devil's Dare",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Divekick",
+      "fullpath": "pc-Divekick",
+      "name": "Divekick",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Dodo Peak",
+      "fullpath": "pc-Dodo Peak",
+      "name": "Dodo Peak",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Dogfight 1942",
+      "fullpath": "pc-Dogfight 1942",
+      "name": "Dogfight 1942",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Donkey Me",
+      "fullpath": "pc-Donkey Me",
+      "name": "Donkey Me",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Doom 2016",
+      "fullpath": "pc-Doom 2016",
+      "name": "Doom 2016",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Doom 3 BFG Edition",
+      "fullpath": "pc-Doom 3 BFG Edition",
+      "name": "Doom 3 BFG Edition",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Double Dragon Gaiden - Rise of the Dragons",
+      "fullpath": "pc-Double Dragon Gaiden - Rise of the Dragons",
+      "name": "Double Dragon Gaiden - Rise of the Dragons",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Double Dragon Neon",
+      "fullpath": "pc-Double Dragon Neon",
+      "name": "Double Dragon Neon",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Dragon Ball - Xenoverse 2",
+      "fullpath": "pc-Dragon Ball - Xenoverse 2",
+      "name": "Dragon Ball - Xenoverse 2",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Dream Pinball 3D",
+      "fullpath": "pc-Dream Pinball 3D",
+      "name": "Dream Pinball 3D",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "DuckTales Remastered",
+      "fullpath": "pc-DuckTales Remastered",
+      "name": "DuckTales Remastered",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Duke Nukem - Manhattan Project",
+      "fullpath": "pc-Duke Nukem - Manhattan Project",
+      "name": "Duke Nukem - Manhattan Project",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "F1 Race Stars",
+      "fullpath": "pc-F1 Race Stars",
+      "name": "F1 Race Stars",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Fix-It Felix Jr",
+      "fullpath": "pc-Fix-It Felix Jr",
+      "name": "Fix-It Felix Jr",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "GUILTY GEAR Xrd SIGN",
+      "fullpath": "pc-GUILTY GEAR Xrd SIGN",
+      "name": "GUILTY GEAR Xrd SIGN",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Ghosts n Goblins Resurrection",
+      "fullpath": "pc-Ghosts n Goblins Resurrection",
+      "name": "Ghosts n Goblins Resurrection",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Golden Tee 2020",
+      "fullpath": "pc-Golden Tee 2020",
+      "name": "Golden Tee 2020",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Golden Tee Golf",
+      "fullpath": "pc-Golden Tee Golf",
+      "name": "Golden Tee Golf",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "GoldenEye 007 XBLA",
+      "fullpath": "pc-GoldenEye 007 XBLA",
+      "name": "GoldenEye 007 XBLA",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Grand Theft Auto V",
+      "fullpath": "pc-Grand Theft Auto V",
+      "name": "Grand Theft Auto V",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Guacamelee! Gold Edition",
+      "fullpath": "pc-Guacamelee! Gold Edition",
+      "name": "Guacamelee! Gold Edition",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Guns Gore and Cannoli 2",
+      "fullpath": "pc-Guns Gore and Cannoli 2",
+      "name": "Guns Gore and Cannoli 2",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Gunvein",
+      "fullpath": "pc-Gunvein",
+      "name": "Gunvein",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Hades",
+      "fullpath": "pc-Hades",
+      "name": "Hades",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Haunted House",
+      "fullpath": "pc-Haunted House",
+      "name": "Haunted House",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "HoloCure",
+      "fullpath": "pc-HoloCure",
+      "name": "HoloCure",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "House of the Dead - Remake",
+      "fullpath": "pc-House of the Dead - Remake",
+      "name": "House of the Dead - Remake",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Hurrican",
+      "fullpath": "pc-Hurrican",
+      "name": "Hurrican",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Ice Cold Beer",
+      "fullpath": "pc-Ice Cold Beer",
+      "name": "Ice Cold Beer",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Ice Cold Beer__",
+      "fullpath": "pc-Ice Cold Beer__",
+      "name": "Ice Cold Beer__",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Injustice 2 Legendary Edition alt",
+      "fullpath": "pc-Injustice 2 Legendary Edition alt",
+      "name": "Injustice 2 Legendary Edition alt",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Injustice 2 Legendary Edition",
+      "fullpath": "pc-Injustice 2 Legendary Edition",
+      "name": "Injustice 2 Legendary Edition",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Injustice Gods Among Us Ultimate Edition",
+      "fullpath": "pc-Injustice Gods Among Us Ultimate Edition",
+      "name": "Injustice Gods Among Us Ultimate Edition",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Intake",
+      "fullpath": "pc-Intake",
+      "name": "Intake",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Killer Instinct",
+      "fullpath": "pc-Killer Instinct",
+      "name": "Killer Instinct",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "King of Fighters XV",
+      "fullpath": "pc-King of Fighters XV",
+      "name": "King of Fighters XV",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Kingdom Hearts HD 1 5 and 2 5 ReMIX",
+      "fullpath": "pc-Kingdom Hearts HD 1 5 and 2 5 ReMIX",
+      "name": "Kingdom Hearts HD 1 5 and 2 5 ReMIX",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Kings of Kung Fu",
+      "fullpath": "pc-Kings of Kung Fu",
+      "name": "Kings of Kung Fu",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Kung Fu Strike",
+      "fullpath": "pc-Kung Fu Strike",
+      "name": "Kung Fu Strike",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Lara Croft GO",
+      "fullpath": "pc-Lara Croft GO",
+      "name": "Lara Croft GO",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Left 4 Dead 2",
+      "fullpath": "pc-Left 4 Dead 2",
+      "name": "Left 4 Dead 2",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Left 4 Dead",
+      "fullpath": "pc-Left 4 Dead",
+      "name": "Left 4 Dead",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mad Bullets",
+      "fullpath": "pc-Mad Bullets",
+      "name": "Mad Bullets",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mafia III",
+      "fullpath": "pc-Mafia III",
+      "name": "Mafia III",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mario FPS",
+      "fullpath": "pc-Mario FPS",
+      "name": "Mario FPS",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Marvel vs. Capcom Infinite Deluxe Edition",
+      "fullpath": "pc-Marvel vs. Capcom Infinite Deluxe Edition",
+      "name": "Marvel vs. Capcom Infinite Deluxe Edition",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Master of Orion",
+      "fullpath": "pc-Master of Orion",
+      "name": "Master of Orion",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mega Man Unlimited",
+      "fullpath": "pc-Mega Man Unlimited",
+      "name": "Mega Man Unlimited",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mega Man X8",
+      "fullpath": "pc-Mega Man X8",
+      "name": "Mega Man X8",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Metal Slug Complete",
+      "fullpath": "pc-Metal Slug Complete",
+      "name": "Metal Slug Complete",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Middle Earth Shadow of Mordor",
+      "fullpath": "pc-Middle Earth Shadow of Mordor",
+      "name": "Middle Earth Shadow of Mordor",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Minecraft Story Mode",
+      "fullpath": "pc-Minecraft Story Mode",
+      "name": "Minecraft Story Mode",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "MiniDOOM",
+      "fullpath": "pc-MiniDOOM",
+      "name": "MiniDOOM",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "MiniDoom 2",
+      "fullpath": "pc-MiniDoom 2",
+      "name": "MiniDoom 2",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Missile Command Recharged",
+      "fullpath": "pc-Missile Command Recharged",
+      "name": "Missile Command Recharged",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mortal Kombat 11",
+      "fullpath": "pc-Mortal Kombat 11",
+      "name": "Mortal Kombat 11",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mortal Kombat Komplete Edition",
+      "fullpath": "pc-Mortal Kombat Komplete Edition",
+      "name": "Mortal Kombat Komplete Edition",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Mortal Kombat XL",
+      "fullpath": "pc-Mortal Kombat XL",
+      "name": "Mortal Kombat XL",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "NBA 2K12",
+      "fullpath": "pc-NBA 2K12",
+      "name": "NBA 2K12",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "NBA 2K21",
+      "fullpath": "pc-NBA 2K21",
+      "name": "NBA 2K21",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Oddworld - New 'n' Tasty",
+      "fullpath": "pc-Oddworld - New 'n' Tasty",
+      "name": "Oddworld - New 'n' Tasty",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Oh Deer",
+      "fullpath": "pc-Oh Deer",
+      "name": "Oh Deer",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Outrun 2006",
+      "fullpath": "pc-Outrun 2006",
+      "name": "Outrun 2006",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "PGA TOUR 2K21",
+      "fullpath": "pc-PGA TOUR 2K21",
+      "name": "PGA TOUR 2K21",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "POLYBIUS alt",
+      "fullpath": "pc-POLYBIUS alt",
+      "name": "POLYBIUS alt",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "POLYBIUS",
+      "fullpath": "pc-POLYBIUS",
+      "name": "POLYBIUS",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Pac-Man 256",
+      "fullpath": "pc-Pac-Man 256",
+      "name": "Pac-Man 256",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Pac-Man Battle Royale",
+      "fullpath": "pc-Pac-Man Battle Royale",
+      "name": "Pac-Man Battle Royale",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Pac-Man Championship Edition DX+",
+      "fullpath": "pc-Pac-Man Championship Edition DX+",
+      "name": "Pac-Man Championship Edition DX+",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Prison City",
+      "fullpath": "pc-Prison City",
+      "name": "Prison City",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Project Cars",
+      "fullpath": "pc-Project Cars",
+      "name": "Project Cars",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Quantum Recharged",
+      "fullpath": "pc-Quantum Recharged",
+      "name": "Quantum Recharged",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Raiden III",
+      "fullpath": "pc-Raiden III",
+      "name": "Raiden III",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Raimodula",
+      "fullpath": "pc-Raimodula",
+      "name": "Raimodula",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Resident Evil 7 - Biohazard",
+      "fullpath": "pc-Resident Evil 7 - Biohazard",
+      "name": "Resident Evil 7 - Biohazard",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Resident Evil Zero - HD Remaster",
+      "fullpath": "pc-Resident Evil Zero - HD Remaster",
+      "name": "Resident Evil Zero - HD Remaster",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Rocket Knight",
+      "fullpath": "pc-Rocket Knight",
+      "name": "Rocket Knight",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "SIFU",
+      "fullpath": "pc-SIFU",
+      "name": "SIFU",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Saint Seiya Soldiers Soul",
+      "fullpath": "pc-Saint Seiya Soldiers Soul",
+      "name": "Saint Seiya Soldiers Soul",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Samurai Showdown 2020",
+      "fullpath": "pc-Samurai Showdown 2020",
+      "name": "Samurai Showdown 2020",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Shank 2",
+      "fullpath": "pc-Shank 2",
+      "name": "Shank 2",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Shank",
+      "fullpath": "pc-Shank",
+      "name": "Shank",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Shovel Knight Plague of Shadows",
+      "fullpath": "pc-Shovel Knight Plague of Shadows",
+      "name": "Shovel Knight Plague of Shadows",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Shovel Knight",
+      "fullpath": "pc-Shovel Knight",
+      "name": "Shovel Knight",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sid Meiers Civilization VI",
+      "fullpath": "pc-Sid Meiers Civilization VI",
+      "name": "Sid Meiers Civilization VI",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Skinny & Franko - Fists of Violence",
+      "fullpath": "pc-Skinny & Franko - Fists of Violence",
+      "name": "Skinny & Franko - Fists of Violence",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Skullgirls",
+      "fullpath": "pc-Skullgirls",
+      "name": "Skullgirls",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sonic 1 Forever",
+      "fullpath": "pc-Sonic 1 Forever",
+      "name": "Sonic 1 Forever",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sonic 2 Absolute",
+      "fullpath": "pc-Sonic 2 Absolute",
+      "name": "Sonic 2 Absolute",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sonic 3 AIR",
+      "fullpath": "pc-Sonic 3 AIR",
+      "name": "Sonic 3 AIR",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sonic CD Restored",
+      "fullpath": "pc-Sonic CD Restored",
+      "name": "Sonic CD Restored",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sonic Generations",
+      "fullpath": "pc-Sonic Generations",
+      "name": "Sonic Generations",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sonic and Sega Allstars Racing",
+      "fullpath": "pc-Sonic and Sega Allstars Racing",
+      "name": "Sonic and Sega Allstars Racing",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sonic and the Fallen Star",
+      "fullpath": "pc-Sonic and the Fallen Star",
+      "name": "Sonic and the Fallen Star",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Spin Rhythm XD",
+      "fullpath": "pc-Spin Rhythm XD",
+      "name": "Spin Rhythm XD",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Street Fighter IV KORYU",
+      "fullpath": "pc-Street Fighter IV KORYU",
+      "name": "Street Fighter IV KORYU",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Street Fighter V Champion Edition",
+      "fullpath": "pc-Street Fighter V Champion Edition",
+      "name": "Street Fighter V Champion Edition",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Street Fighter X Megaman",
+      "fullpath": "pc-Street Fighter X Megaman",
+      "name": "Street Fighter X Megaman",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Street Fighter X Tekken",
+      "fullpath": "pc-Street Fighter X Tekken",
+      "name": "Street Fighter X Tekken",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Streets of Rage 4",
+      "fullpath": "pc-Streets of Rage 4",
+      "name": "Streets of Rage 4",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Super Comboman",
+      "fullpath": "pc-Super Comboman",
+      "name": "Super Comboman",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Super Crate Box",
+      "fullpath": "pc-Super Crate Box",
+      "name": "Super Crate Box",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Super Strip Fighter IV",
+      "fullpath": "pc-Super Strip Fighter IV",
+      "name": "Super Strip Fighter IV",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "TMNT Shredders Revenge",
+      "fullpath": "pc-TMNT Shredders Revenge",
+      "name": "TMNT Shredders Revenge",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "TMNT",
+      "fullpath": "pc-TMNT",
+      "name": "TMNT",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Tekken 7",
+      "fullpath": "pc-Tekken 7",
+      "name": "Tekken 7",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Terrordrome",
+      "fullpath": "pc-Terrordrome",
+      "name": "Terrordrome",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "The Elder Scrolls - Skyrim - Special Edition",
+      "fullpath": "pc-The Elder Scrolls - Skyrim - Special Edition",
+      "name": "The Elder Scrolls - Skyrim - Special Edition",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "The Sims - Complete Collection",
+      "fullpath": "pc-The Sims - Complete Collection",
+      "name": "The Sims - Complete Collection",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "The Witcher 3 - Wild Hunt",
+      "fullpath": "pc-The Witcher 3 - Wild Hunt",
+      "name": "The Witcher 3 - Wild Hunt",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "This War of Mine",
+      "fullpath": "pc-This War of Mine",
+      "name": "This War of Mine",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Total War ROME II",
+      "fullpath": "pc-Total War ROME II",
+      "name": "Total War ROME II",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Trine",
+      "fullpath": "pc-Trine",
+      "name": "Trine",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Ultimate Marvel vs. Capcom 3",
+      "fullpath": "pc-Ultimate Marvel vs. Capcom 3",
+      "name": "Ultimate Marvel vs. Capcom 3",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Ultra Street Fighter IV",
+      "fullpath": "pc-Ultra Street Fighter IV",
+      "name": "Ultra Street Fighter IV",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "UltraStar Deluxe",
+      "fullpath": "pc-UltraStar Deluxe",
+      "name": "UltraStar Deluxe",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "UltraStar Deluxe_",
+      "fullpath": "pc-UltraStar Deluxe_",
+      "name": "UltraStar Deluxe_",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Volgarr The Viking",
+      "fullpath": "pc-Volgarr The Viking",
+      "name": "Volgarr The Viking",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Worms Reloaded",
+      "fullpath": "pc-Worms Reloaded",
+      "name": "Worms Reloaded",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Worms W.M.D",
+      "fullpath": "pc-Worms W.M.D",
+      "name": "Worms W.M.D",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "WrestleQuest",
+      "fullpath": "pc-WrestleQuest",
+      "name": "WrestleQuest",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "XMen Legends",
+      "fullpath": "pc-XMen Legends",
+      "name": "XMen Legends",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Yars Recharged",
+      "fullpath": "pc-Yars Recharged",
+      "name": "Yars Recharged",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    },
+    {
+      "id": "Zeit 2",
+      "fullpath": "pc-Zeit 2",
+      "name": "Zeit 2",
+      "year": "2010",
+      "publisher": "Misc",
+      "genre": "Misc",
+      "rating": "Misc"
+    }
+  ]
+}

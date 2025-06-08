@@ -1,0 +1,113 @@
+{
+  "platform": "sony_playstation_5",
+  "totalGames": 11,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "sony_playstation_5 game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "sony_playstation_5.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "Days Gone",
+      "fullpath": "sony_playstation_5-Days Gone",
+      "name": "Days Gone",
+      "year": "2020",
+      "publisher": "Misc",
+      "genre": "Sony",
+      "rating": "Misc"
+    },
+    {
+      "id": "Death Stranding",
+      "fullpath": "sony_playstation_5-Death Stranding",
+      "name": "Death Stranding",
+      "year": "2021",
+      "publisher": "Misc",
+      "genre": "Sony",
+      "rating": "Misc"
+    },
+    {
+      "id": "Deathloop",
+      "fullpath": "sony_playstation_5-Deathloop",
+      "name": "Deathloop",
+      "year": "2022",
+      "publisher": "Misc",
+      "genre": "Sony",
+      "rating": "Misc"
+    },
+    {
+      "id": "God of War ragnorok",
+      "fullpath": "sony_playstation_5-God of War ragnorok",
+      "name": "God of War ragnorok",
+      "year": "2023",
+      "publisher": "Misc",
+      "genre": "Sony",
+      "rating": "Misc"
+    },
+    {
+      "id": "God of War",
+      "fullpath": "sony_playstation_5-God of War",
+      "name": "God of War",
+      "year": "2024",
+      "publisher": "Misc",
+      "genre": "Sony",
+      "rating": "Misc"
+    },
+    {
+      "id": "Horizon - Zero Dawn CE",
+      "fullpath": "sony_playstation_5-Horizon - Zero Dawn CE",
+      "name": "Horizon - Zero Dawn CE",
+      "year": "2025",
+      "publisher": "Misc",
+      "genre": "Sony",
+      "rating": "Misc"
+    },
+    {
+      "id": "Nioh - Complete Edition",
+      "fullpath": "sony_playstation_5-Nioh - Complete Edition",
+      "name": "Nioh - Complete Edition",
+      "year": "2026",
+      "publisher": "Misc",
+      "genre": "Sony",
+      "rating": "Misc"
+    },
+    {
+      "id": "Nioh 2 - Complete Edition",
+      "fullpath": "sony_playstation_5-Nioh 2 - Complete Edition",
+      "name": "Nioh 2 - Complete Edition",
+      "year": "2027",
+      "publisher": "Misc",
+      "genre": "Sony",
+      "rating": "Misc"
+    },
+    {
+      "id": "Ratchet & Clank - Rift Apart",
+      "fullpath": "sony_playstation_5-Ratchet & Clank - Rift Apart",
+      "name": "Ratchet & Clank - Rift Apart",
+      "year": "2028",
+      "publisher": "Misc",
+      "genre": "Sony",
+      "rating": "Misc"
+    },
+    {
+      "id": "Sackboy - A Big Adventure",
+      "fullpath": "sony_playstation_5-Sackboy - A Big Adventure",
+      "name": "Sackboy - A Big Adventure",
+      "year": "2029",
+      "publisher": "Misc",
+      "genre": "Sony",
+      "rating": "Misc"
+    },
+    {
+      "id": "UNCHARTED - Legacy of Thieves Collection",
+      "fullpath": "sony_playstation_5-UNCHARTED - Legacy of Thieves Collection",
+      "name": "UNCHARTED - Legacy of Thieves Collection",
+      "year": "2030",
+      "publisher": "Misc",
+      "genre": "Sony",
+      "rating": "Misc"
+    }
+  ]
+}

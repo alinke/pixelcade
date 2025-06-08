@@ -1,0 +1,635 @@
+{
+  "platform": "vectrex",
+  "totalGames": 69,
+  "lastUpdated": "2025-06-08",
+  "metadata": {
+    "description": "vectrex game database",
+    "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
+    "source": "Converted from CSV format",
+    "originalFile": "vectrex.csv",
+    "idFormat": "ID field contains only the romname (e.g., 'pacman' instead of 'mame-pacman'), fullpath contains complete identifier"
+  },
+  "games": [
+    {
+      "id": "2D Narrow Escape (USA) (Hack)",
+      "fullpath": "vectrex-2D Narrow Escape (USA) (Hack)",
+      "name": "2D Narrow Escape",
+      "year": "1983",
+      "publisher": "Fred Taft",
+      "genre": "Maze",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "3D Crazy Coaster (USA)",
+      "fullpath": "vectrex-3D Crazy Coaster (USA)",
+      "name": "3D Crazy Coaster",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Platform",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "3D Mine Storm (USA)",
+      "fullpath": "vectrex-3D Mine Storm (USA)",
+      "name": "3D Mine Storm",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "3D Narrow Escape (USA)",
+      "fullpath": "vectrex-3D Narrow Escape (USA)",
+      "name": "3D Narrow Escape",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "All Good Things (World) (Unl)",
+      "fullpath": "vectrex-All Good Things (World) (Unl)",
+      "name": "All Good Things",
+      "year": "1996",
+      "publisher": "John Dondzila",
+      "genre": "Compilation",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "AnimAction (USA)",
+      "fullpath": "vectrex-AnimAction (USA)",
+      "name": "AnimAction",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Armor..Attack (World)",
+      "fullpath": "vectrex-Armor..Attack (World)",
+      "name": "Armor..Attack",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Art Master (USA)",
+      "fullpath": "vectrex-Art Master (USA)",
+      "name": "Art Master",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Becky's Message (World) (Unl)",
+      "fullpath": "vectrex-Becky's Message (World) (Unl)",
+      "name": "Becky's Message",
+      "year": "2003",
+      "publisher": "Dan Siewers",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Bedlam (USA, Europe)",
+      "fullpath": "vectrex-Bedlam (USA, Europe)",
+      "name": "Bedlam",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Berzerk (World)",
+      "fullpath": "vectrex-Berzerk (World)",
+      "name": "Berzerk",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Blitz! - Action Football (USA, Europe)",
+      "fullpath": "vectrex-Blitz! - Action Football (USA, Europe)",
+      "name": "Blitz! - Action Football",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Sports/Football",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Clean Sweep (World)",
+      "fullpath": "vectrex-Clean Sweep (World)",
+      "name": "Clean Sweep",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Continuum (World) (Unl)",
+      "fullpath": "vectrex-Continuum (World) (Unl)",
+      "name": "Continuum",
+      "year": "2010",
+      "publisher": "George Pelonis",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Cosmic Chasm (World)",
+      "fullpath": "vectrex-Cosmic Chasm (World)",
+      "name": "Cosmic Chasm",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Dark Tower (World) (Proto)",
+      "fullpath": "vectrex-Dark Tower (World) (Proto)",
+      "name": "Dark Tower",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Adventure",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Fortress of Narzod (USA, Europe)",
+      "fullpath": "vectrex-Fortress of Narzod (USA, Europe)",
+      "name": "Fortress of Narzod",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Gravitrex (World) (Unl)",
+      "fullpath": "vectrex-Gravitrex (World) (Unl)",
+      "name": "Gravitrex",
+      "year": "2002",
+      "publisher": "John Dondzila",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Heads-Up - Action Soccer (USA)",
+      "fullpath": "vectrex-Heads-Up - Action Soccer (USA)",
+      "name": "Heads-Up - Action Soccer",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Hexed! (World) (Unl)",
+      "fullpath": "vectrex-Hexed! (World) (Unl)",
+      "name": "Hexed!",
+      "year": "1983",
+      "publisher": "Tabletop",
+      "genre": "Sports/Soccer",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "HyperChase - Auto Race (World)",
+      "fullpath": "vectrex-HyperChase - Auto Race (World)",
+      "name": "HyperChase - Auto Race",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Koko's Retribution (World) (Unl)",
+      "fullpath": "vectrex-Koko's Retribution (World) (Unl)",
+      "name": "Koko's Retribution",
+      "year": "2004",
+      "publisher": "Dan Siewers",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Mail Plane (USA) (Proto)",
+      "fullpath": "vectrex-Mail Plane (USA) (Proto)",
+      "name": "Mail Plane",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Flying",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Melody Master (World)",
+      "fullpath": "vectrex-Melody Master (World)",
+      "name": "Melody Master",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Miscellaneous",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mine Storm (World)",
+      "fullpath": "vectrex-Mine Storm (World)",
+      "name": "Mine Storm",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mine Storm II (USA)",
+      "fullpath": "vectrex-Mine Storm II (USA)",
+      "name": "Mine Storm II",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Mr. Boston - Clean Sweep (USA) (Unl)",
+      "fullpath": "vectrex-Mr. Boston - Clean Sweep (USA) (Unl)",
+      "name": "Mr. Boston - Clean Sweep",
+      "year": "1982",
+      "publisher": "Mr. Boston",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Nebula Commander (World) (Unl)",
+      "fullpath": "vectrex-Nebula Commander (World) (Unl)",
+      "name": "Nebula Commander",
+      "year": "2005",
+      "publisher": "Craig Aker",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Omega Chase (World) (Unl)",
+      "fullpath": "vectrex-Omega Chase (World) (Unl)",
+      "name": "Omega Chase",
+      "year": "2000",
+      "publisher": "Christopher Tumber",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Patriots (World) (Unl)",
+      "fullpath": "vectrex-Patriots (World) (Unl)",
+      "name": "Patriots",
+      "year": "1996",
+      "publisher": "John Donzila",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Patriots III - BALListics Busters (World) (Unl)",
+      "fullpath": "vectrex-Patriots III - BALListics Busters (World) (Unl)",
+      "name": "Patriots III - BALListics Busters",
+      "year": "2002",
+      "publisher": "John Donzila",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Pitcher's Duel (USA) (Proto)",
+      "fullpath": "vectrex-Pitcher's Duel (USA) (Proto)",
+      "name": "Pitcher's Duel",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Sports/Baseball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Polar Rescue (USA)",
+      "fullpath": "vectrex-Polar Rescue (USA)",
+      "name": "Polar Rescue",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Pole Position (USA)",
+      "fullpath": "vectrex-Pole Position (USA)",
+      "name": "Pole Position",
+      "year": "1983",
+      "publisher": "Namco",
+      "genre": "Driving",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Protector (World) (Unl)",
+      "fullpath": "vectrex-Protector (World) (Unl)",
+      "name": "Protector",
+      "year": "2003",
+      "publisher": "Alex Herbert",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Royal 21 (World) (Unl)",
+      "fullpath": "vectrex-Royal 21 (World) (Unl)",
+      "name": "Royal 21",
+      "year": "2009",
+      "publisher": "George Pelonis",
+      "genre": "Tabletop",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Revector (World) (Unl)",
+      "fullpath": "vectrex-Revector (World) (Unl)",
+      "name": "Revector",
+      "year": "2004",
+      "publisher": "Graig Aker",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Rip Off (World)",
+      "fullpath": "vectrex-Rip Off (World)",
+      "name": "Rip Off",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Scramble (USA, Europe)",
+      "fullpath": "vectrex-Scramble (USA, Europe)",
+      "name": "Scramble",
+      "year": "1982",
+      "publisher": "Konami",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Sectis (World) (Unl)",
+      "fullpath": "vectrex-Sectis (World) (Unl)",
+      "name": "Sectis",
+      "year": "2010",
+      "publisher": "George Pelonis",
+      "genre": "Puzzle",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Space Frenzy (World) (Unl)",
+      "fullpath": "vectrex-Space Frenzy (World) (Unl)",
+      "name": "Space Frenzy",
+      "year": "2006",
+      "publisher": "John Dondzila",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Solar Quest (World)",
+      "fullpath": "vectrex-Solar Quest (World)",
+      "name": "Solar Quest",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Space Wars (World)",
+      "fullpath": "vectrex-Space Wars (World)",
+      "name": "Space Wars",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spike (USA, Europe)",
+      "fullpath": "vectrex-Spike (USA, Europe)",
+      "name": "Spike",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Spike Hoppin' (World) (Unl)",
+      "fullpath": "vectrex-Spike Hoppin' (World) (Unl)",
+      "name": "Spike Hoppin'",
+      "year": "2006",
+      "publisher": "John Dondzila",
+      "genre": "Platform",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Spinball (USA)",
+      "fullpath": "vectrex-Spinball (USA)",
+      "name": "Spinball",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Pinball",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Star Castle (USA)",
+      "fullpath": "vectrex-Star Castle (USA)",
+      "name": "Star Castle",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Star Sling (World) (Unl)",
+      "fullpath": "vectrex-Star Sling (World) (Unl)",
+      "name": "Star Sling",
+      "year": "2006",
+      "publisher": "Alex Nicholson",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Star Trek - The Motion Picture (USA)",
+      "fullpath": "vectrex-Star Trek - The Motion Picture (USA)",
+      "name": "Star Trek - The Motion Picture",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Star Hawk (World)",
+      "fullpath": "vectrex-Star Hawk (World)",
+      "name": "Star Hawk",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Thrust (World) (Unl)",
+      "fullpath": "vectrex-Thrust (World) (Unl)",
+      "name": "Thrust",
+      "year": "2004",
+      "publisher": "Ville Krumlinde",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Tour De France (USA) (Proto)",
+      "fullpath": "vectrex-Tour De France (USA) (Proto)",
+      "name": "Tour De France",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Sports/Biking",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Vaboom! (World) (Unl)",
+      "fullpath": "vectrex-Vaboom! (World) (Unl)",
+      "name": "Vaboom!",
+      "year": "2000",
+      "publisher": "Ronen Habot",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vectrexians (World) (Unl)",
+      "fullpath": "vectrex-Vectrexians (World) (Unl)",
+      "name": "Vectrexians",
+      "year": "2008",
+      "publisher": "Kristof Tuts",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vectrex Frogger (World) (Unl)",
+      "fullpath": "vectrex-Vectrex Frogger (World) (Unl)",
+      "name": "Vectrex Frogger",
+      "year": "2000",
+      "publisher": "Chris Salomons",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vec Fu (World) (Unl)",
+      "fullpath": "vectrex-Vec Fu (World) (Unl)",
+      "name": "Vec Fu",
+      "year": "2000",
+      "publisher": "Michael Borrmann",
+      "genre": "Fighter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vecmania (World) (Unl)",
+      "fullpath": "vectrex-Vecmania (World) (Unl)",
+      "name": "Vecmania",
+      "year": "1998",
+      "publisher": "John Dondzila",
+      "genre": "Compilation",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vec Sports Boxing (World) (Unl)",
+      "fullpath": "vectrex-Vec Sports Boxing (World) (Unl)",
+      "name": "Vec Sports Boxing",
+      "year": "2002",
+      "publisher": "Manu Parssinen",
+      "genre": "Sports/Boxing",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vectopia (World) (Unl)",
+      "fullpath": "vectrex-Vectopia (World) (Unl)",
+      "name": "Vectopia",
+      "year": "2001",
+      "publisher": "John Dondzila",
+      "genre": "Compilation",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vector 21 (World) (Unl)",
+      "fullpath": "vectrex-Vector 21 (World) (Unl)",
+      "name": "Vector 21",
+      "year": "2006",
+      "publisher": "Fury Unlimited",
+      "genre": "Tabletop",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vector Pong (World) (Unl)",
+      "fullpath": "vectrex-Vector Pong (World) (Unl)",
+      "name": "Vector Pong",
+      "year": "2014",
+      "publisher": "BinaryStar",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vector Vaders (World) (Unl)",
+      "fullpath": "vectrex-Vector Vaders (World) (Unl)",
+      "name": "Vector Vaders",
+      "year": "1996",
+      "publisher": "John Dondzila",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Vectrace (World) (Unl)",
+      "fullpath": "vectrex-Vectrace (World) (Unl)",
+      "name": "Vectrace",
+      "year": "2000",
+      "publisher": "Ronen Habot",
+      "genre": "Driving",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "War of the Robots - Bow to the Queen (World) (Unl)",
+      "fullpath": "vectrex-War of the Robots - Bow to the Queen (World) (Unl)",
+      "name": "War of the Robots - Bow to the Queen",
+      "year": "2003",
+      "publisher": "Fury Unlimited",
+      "genre": "Action",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Web Wars (USA)",
+      "fullpath": "vectrex-Web Wars (USA)",
+      "name": "Web Wars",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Action",
+      "rating": "ESRB - E (Everyone)"
+    },
+    {
+      "id": "Xmas Cart 2014 (World) (Unl)",
+      "fullpath": "vectrex-Xmas Cart 2014 (World) (Unl)",
+      "name": "Xmas Cart 2014",
+      "year": "2014",
+      "publisher": "BinaryStar",
+      "genre": "Compilation",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Xmas Cart 2015 (World) (Unl)",
+      "fullpath": "vectrex-Xmas Cart 2015 (World) (Unl)",
+      "name": "Xmas Cart 2015",
+      "year": "2015",
+      "publisher": "BinaryStar",
+      "genre": "Compilation",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Yasi (World) (Unl)",
+      "fullpath": "vectrex-Yasi (World) (Unl)",
+      "name": "Yasi",
+      "year": "2003",
+      "publisher": "Alex Herbert",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    },
+    {
+      "id": "Zantis (World) (Unl)",
+      "fullpath": "vectrex-Zantis (World) (Unl)",
+      "name": "Zantis",
+      "year": "2011",
+      "publisher": "George Pelonis",
+      "genre": "Shooter",
+      "rating": "Other - NR (Not Rated)"
+    }
+  ]
+}
