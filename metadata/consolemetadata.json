@@ -1,6 +1,6 @@
 {
   "platform": "consolemetadata",
-  "totalGames": 94,
+  "totalGames": 162,
   "lastUpdated": "2025-06-08",
   "metadata": {
     "description": "consolemetadata game database",
@@ -16,7 +16,7 @@
       "name": "3DO",
       "year": "1993",
       "publisher": "The 3DO Company",
-      "genre": "Units Sold: 2 Million",
+      "genre": "Units Sold: 2M",
       "rating": "CPU: 32-bit custom ARM CPU (ARM60)"
     },
     {
@@ -34,7 +34,7 @@
       "name": "Armstrad CPC",
       "year": "1984",
       "publisher": "Amstrad",
-      "genre": "Units Sold: 3 Million",
+      "genre": "Units Sold: 3M",
       "rating": "CPU: Zilog Z80A"
     },
     {
@@ -52,7 +52,7 @@
       "name": "Apple ][",
       "year": "1977",
       "publisher": "Apple Corporation",
-      "genre": "Units Sold: 6 Million",
+      "genre": "Units Sold: 6M",
       "rating": "CPU: MOS Technology 6502"
     },
     {
@@ -61,8 +61,8 @@
       "name": "Atari 2600",
       "year": "1977",
       "publisher": "Atari Corporation",
-      "genre": "Units Sold: 30 Million",
-      "rating": "CPU: 8-bit MOS Technology 6507"
+      "genre": "Units Sold: 30M",
+      "rating": "CPU: 8-bit MOS 6507"
     },
     {
       "id": "atari5200",
@@ -70,8 +70,8 @@
       "name": "Atari 5200",
       "year": "1982",
       "publisher": "Atari Corporation",
-      "genre": "Units Sold: X",
-      "rating": "CPU: CPU\tMOS 6502C"
+      "genre": "Units Sold: 1M",
+      "rating": "CPU: MOS 6502C"
     },
     {
       "id": "atari7800",
@@ -79,8 +79,8 @@
       "name": "Atari 7800",
       "year": "1986",
       "publisher": "Atari Corporation",
-      "genre": "Units Sold: X",
-      "rating": "CPU: MARIA custom chip"
+      "genre": "Units Sold: 3M",
+      "rating": "CPU: MARIA"
     },
     {
       "id": "atarijaguar",
@@ -88,7 +88,7 @@
       "name": "Atari Jaguar",
       "year": "1993",
       "publisher": "Atari Corporation",
-      "genre": "Units Sold: 250000",
+      "genre": "Units Sold: 250K",
       "rating": "CPU: Motorola 68000"
     },
     {
@@ -97,7 +97,7 @@
       "name": "Atari Jaguar",
       "year": "1996",
       "publisher": "Atari Corporation",
-      "genre": "Units Sold: 150,000",
+      "genre": "Units Sold: 150K",
       "rating": "CPU: Motorola 68000"
     },
     {
@@ -106,7 +106,7 @@
       "name": "Bandai WonderSwan",
       "year": "1998",
       "publisher": "Bandai",
-      "genre": "Units Sold: 1.55 Million",
+      "genre": "Units Sold: 1.55M",
       "rating": "CPU: NEC V30 MZ"
     },
     {
@@ -115,8 +115,8 @@
       "name": "Atari Lynx",
       "year": "1989",
       "publisher": "Atari Corporation",
-      "genre": "Units Sold: 3 Million",
-      "rating": "CPU: WDC 65SC02 8-bit CPU"
+      "genre": "Units Sold: 3M",
+      "rating": "CPU: WDC 65SC02 8-bit CPU"
     },
     {
       "id": "capcom_play_system",
@@ -124,7 +124,7 @@
       "name": "Capcom Play System",
       "year": "1988",
       "publisher": "Capcom",
-      "genre": "Units Sold: ?",
+      "genre": "Units Sold: 100K",
       "rating": "CPU: Motorola 68000"
     },
     {
@@ -133,7 +133,7 @@
       "name": "Capcom Play System II",
       "year": "1993",
       "publisher": "Capcom",
-      "genre": "Units Sold: ?",
+      "genre": "Units Sold: 50K",
       "rating": "CPU: Motorola 68000"
     },
     {
@@ -142,8 +142,8 @@
       "name": "Capcom Play System III",
       "year": "1996",
       "publisher": "Capcom",
-      "genre": "Units Sold: ?",
-      "rating": "CPU: Hitachi HD6417099 25 MHz"
+      "genre": "Units Sold: 10K",
+      "rating": "CPU: Hitachi HD6417099"
     },
     {
       "id": "cave",
@@ -168,36 +168,45 @@
       "fullpath": "coleco",
       "name": "ColecoVision",
       "year": "1982",
-      "publisher": "Coleco Industries, Inc",
-      "genre": "Units Sold: 2 Million",
+      "publisher": "Coleco Industries",
+      "genre": "Units Sold: 2M",
       "rating": "CPU: Zilog Z80"
     },
     {
       "id": "daphne",
       "fullpath": "daphne",
       "name": "Daphne",
-      "year": "NA",
+      "year": "1994",
       "publisher": "Multiple Arcade Laserdisc Emulator",
-      "genre": "???",
+      "genre": "Laserdisc",
       "rating": "CPU: x86"
     },
     {
       "id": "daphne_singe",
       "fullpath": "daphne_singe",
       "name": "Daphne Singe",
-      "year": "NA",
+      "year": "Somewhat Interactive Nostalgic",
       "publisher": "Multiple Arcade Laserdisc Emulator",
-      "genre": "???",
+      "genre": "Laserdisc",
       "rating": "CPU: x86"
     },
     {
       "id": "default",
       "fullpath": "default",
       "name": "Default Console Marquees",
-      "year": "NA",
+      "year": " ",
       "publisher": "Default Console Marquees",
       "genre": "Default Console Marquees",
       "rating": "Default Console Marquees"
+    },
+    {
+      "id": "doflinx",
+      "fullpath": "doflinx",
+      "name": "DOFLinx",
+      "year": "2025",
+      "publisher": "DDH69",
+      "genre": "Pinball and Arcade FX",
+      "rating": "Pinball and Arcade FX"
     },
     {
       "id": "dos",
@@ -205,7 +214,7 @@
       "name": "DOS",
       "year": "1981",
       "publisher": "Microsoft Corporation",
-      "genre": "Units Sold: X",
+      "genre": "Disk Operating System",
       "rating": "CPU: x86"
     },
     {
@@ -223,7 +232,7 @@
       "name": "Dreamcast",
       "year": "1998",
       "publisher": "Sega Corporation",
-      "genre": "Units Sold: 9 Million",
+      "genre": "Units Sold: 9M",
       "rating": "CPU: Hitachi SH-4 32-bit RISC"
     },
     {
@@ -232,7 +241,7 @@
       "name": "Future Pinball",
       "year": "2010",
       "publisher": "Freeware Software",
-      "genre": "Units Sold: NA ",
+      "genre": "Pinball Emulator",
       "rating": "CPU: Windows"
     },
     {
@@ -241,7 +250,7 @@
       "name": "Game Gear",
       "year": "1990",
       "publisher": "Sega Corporation",
-      "genre": "Units Sold: 10 Million",
+      "genre": "Units Sold: 10M",
       "rating": "CPU: Zilog Z80"
     },
     {
@@ -249,17 +258,17 @@
       "fullpath": "gb",
       "name": "Game Boy",
       "year": "1989",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 119 Million",
-      "rating": "CPU: Sharp LR35902 core"
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 119M",
+      "rating": "CPU: Sharp LR35902"
     },
     {
       "id": "gba",
       "fullpath": "gba",
       "name": "Game Boy Advanced",
       "year": "2001",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 81 Million",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 81M",
       "rating": "CPU: ARM7TDMI"
     },
     {
@@ -267,8 +276,8 @@
       "fullpath": "gbc",
       "name": "Game Boy Color",
       "year": "1998",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 118 Million",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 118M",
       "rating": "CPU: Sharp LR35902 core"
     },
     {
@@ -277,7 +286,7 @@
       "name": "Genesis",
       "year": "1988",
       "publisher": "Sega Corporation",
-      "genre": "Units Sold: 30 Million",
+      "genre": "Units Sold: 30M",
       "rating": "CPU: Motorola 68000"
     },
     {
@@ -295,7 +304,7 @@
       "name": "Intellivision",
       "year": "1979",
       "publisher": "Mattel Electronics Corporation",
-      "genre": "Units Sold: 3 Million",
+      "genre": "Units Sold: 3M",
       "rating": "CPU: GI CP1610"
     },
     {
@@ -304,7 +313,7 @@
       "name": "Master System",
       "year": "1986",
       "publisher": "Sega Corporation",
-      "genre": "Units Sold: 13 Million",
+      "genre": "Units Sold: 13M",
       "rating": "CPU: Zilog Z80A"
     },
     {
@@ -313,7 +322,7 @@
       "name": "Mega Drive",
       "year": "1988",
       "publisher": "Sega Corporation",
-      "genre": "Units Sold: 30 Million",
+      "genre": "Units Sold: 30M",
       "rating": "CPU: Motorola 68000"
     },
     {
@@ -322,7 +331,7 @@
       "name": "Microsoft Xbox",
       "year": "2001",
       "publisher": "Microsoft Corporation",
-      "genre": "Units Sold: 24 MillionX",
+      "genre": "Units Sold: 24M",
       "rating": "CPU: x86"
     },
     {
@@ -340,8 +349,8 @@
       "name": "Sony MSX",
       "year": "1983",
       "publisher": "Sony Electronics",
-      "genre": "Units Sold: ?",
-      "rating": "CPU: Zilog Z80 Hitachi HD64180 R800"
+      "genre": "Units Sold: 5M",
+      "rating": "CPU: Zilog Z80A"
     },
     {
       "id": "nesicaxlive",
@@ -349,7 +358,7 @@
       "name": "Taito NESiCAxLive",
       "year": "2010",
       "publisher": "Taito Corporation",
-      "genre": "Units Sold: X",
+      "genre": "Video Game Distribution System",
       "rating": "Video Game Distribution System"
     },
     {
@@ -357,8 +366,8 @@
       "fullpath": "n64",
       "name": "Nintendo 64",
       "year": "1996",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 33 Million",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 33M",
       "rating": "CPU: 64-bit NEC VR4300"
     },
     {
@@ -366,8 +375,8 @@
       "fullpath": "n64dd",
       "name": "Nintendo 64 DD",
       "year": "1999",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 15,000",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 15K",
       "rating": "CPU: 64-bit NEC VR4300"
     },
     {
@@ -375,8 +384,8 @@
       "fullpath": "nes",
       "name": "Nintendo Entertainment System",
       "year": "1983",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 62 Million",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 62M",
       "rating": "CPU: Ricoh 2A03 8-bit"
     },
     {
@@ -384,8 +393,8 @@
       "fullpath": "nintendo_famicom",
       "name": "Nintendo Family Computer",
       "year": "1983",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 62 Million",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 62M",
       "rating": "CPU: Ricoh 2A03 8-bit"
     },
     {
@@ -393,8 +402,8 @@
       "fullpath": "nintendo_famicon_disk_system",
       "name": "Nintendo Family Computer Disk System",
       "year": "1986",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 5 Million",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 5M",
       "rating": "CPU: Ricoh 2C33"
     },
     {
@@ -402,8 +411,8 @@
       "fullpath": "nintendo_game_and_watch",
       "name": "Nintendo Game and Watch",
       "year": "1980",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 43 Million",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 43M",
       "rating": "CPU: Sharp SM5xx family"
     },
     {
@@ -411,8 +420,8 @@
       "fullpath": "nintendo_gamecube",
       "name": "Nintendo GameCube",
       "year": "2001",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 22 Million",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 22M",
       "rating": "CPU: 32-bit IBM PowerPC 750CXe Gekko"
     },
     {
@@ -420,26 +429,26 @@
       "fullpath": "nintendo_wii",
       "name": "Nintendo Wii",
       "year": "2006",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 102 Million",
-      "rating": "CPU: IBM PowerPC Broadway"
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 102M",
+      "rating": "CPU: IBM PowerPC"
     },
     {
       "id": "nintendo_switch",
       "fullpath": "nintendo_switch",
       "name": "Nintendo Switch",
       "year": "2017",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 107 Million",
-      "rating": "CPU: ARM 4 Cortex-A57 cores"
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 107M",
+      "rating": "CPU: ARM 4 Cortex-A57"
     },
     {
       "id": "nintendo_entertainment_system_3d",
       "fullpath": "nintendo_entertainment_system_3d",
       "name": "Nintendo Entertainment System 3D",
       "year": "1983",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 62 Million",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 62M",
       "rating": "CPU: Ricoh 2A03 8-bit"
     },
     {
@@ -454,10 +463,10 @@
     {
       "id": "psp",
       "fullpath": "psp",
-      "name": "Sony PlayStation Portable",
+      "name": "PlayStation Portable",
       "year": "2004",
       "publisher": "Sony Electronics",
-      "genre": "Units Sold: 82 Million",
+      "genre": "Units Sold: 82M",
       "rating": "CPU: 20-333 MHz MIPS R4000"
     },
     {
@@ -466,7 +475,7 @@
       "name": "Sony PlayStation",
       "year": "1994",
       "publisher": "Sony Electronics",
-      "genre": "Units Sold: 100 Million",
+      "genre": "Units Sold: 100M",
       "rating": "CPU: 20-333 MHz MIPS R4000"
     },
     {
@@ -475,7 +484,7 @@
       "name": "Sony PlayStation 2",
       "year": "2000",
       "publisher": "Sony Electronics",
-      "genre": "Units Sold: 155 Million",
+      "genre": "Units Sold: 155M",
       "rating": "CPU: MIPS R5900 Emotion Engine"
     },
     {
@@ -484,7 +493,7 @@
       "name": "Sony PlayStation 3",
       "year": "2006",
       "publisher": "Sony Electronics",
-      "genre": "Units Sold: 87.4 Million",
+      "genre": "Units Sold: 87.4M",
       "rating": "CPU: 3.2 GHz Cell Broadband Engine"
     },
     {
@@ -493,7 +502,7 @@
       "name": "Sony PlayStation 5",
       "year": "2020",
       "publisher": "Sony Electronics",
-      "genre": "Units Sold: 87.4 Million",
+      "genre": "Units Sold: 87.4M",
       "rating": "CPU: AMD Zen 2"
     },
     {
@@ -502,7 +511,7 @@
       "name": "NEC PC Engine",
       "year": "1987",
       "publisher": "NEC Home Electronics",
-      "genre": "Units Sold: 6 Million",
+      "genre": "Units Sold: 6M",
       "rating": "CPU: Hudson Soft HuC6280"
     },
     {
@@ -511,7 +520,7 @@
       "name": "NEC TurboGrafx-16",
       "year": "1987",
       "publisher": "NEC Home Electronics",
-      "genre": "Units Sold: 6 Million",
+      "genre": "Units Sold: 6M",
       "rating": "CPU: Hudson Soft HuC6280"
     },
     {
@@ -520,7 +529,7 @@
       "name": "NEC TurboGrafx-CD",
       "year": "1987",
       "publisher": "NEC Home Electronics",
-      "genre": "Units Sold: 6 Million",
+      "genre": "Units Sold: 6M",
       "rating": "CPU: Hudson Soft HuC6280"
     },
     {
@@ -529,7 +538,7 @@
       "name": "Pinball FX2",
       "year": "2010",
       "publisher": "Zen Studios",
-      "genre": "Virtual Pinball Software",
+      "genre": "Virtual Pinball",
       "rating": "PC"
     },
     {
@@ -538,7 +547,7 @@
       "name": "Pinball FX3",
       "year": "2017",
       "publisher": "Zen Studios",
-      "genre": "Virtual Pinball Software",
+      "genre": "Virtual Pinball",
       "rating": "PC"
     },
     {
@@ -547,7 +556,7 @@
       "name": "Pinball Arcade",
       "year": "2013",
       "publisher": "Farsight Studios",
-      "genre": "Virtual Pinball Software",
+      "genre": "Virtual Pinball",
       "rating": "PC"
     },
     {
@@ -556,7 +565,7 @@
       "name": "Armstrad GX4000",
       "year": "1990",
       "publisher": "Amstrad",
-      "genre": "Units Sold: 15000",
+      "genre": "Units Sold: 15K",
       "rating": "CPU: Zilog Z80"
     },
     {
@@ -565,34 +574,43 @@
       "name": "Neo Geo",
       "year": "1990",
       "publisher": "SNK Corporation",
-      "genre": "Units Sold: 1 Million",
+      "genre": "Units Sold: 1M",
       "rating": "CPU: Motorola 68000"
     },
     {
       "id": "commodore_128",
       "fullpath": "commodore_128",
-      "name": "commodore_128",
-      "year": "",
-      "publisher": "",
-      "genre": "Units Sold: ",
-      "rating": "CPU:"
+      "name": "Commodore 128",
+      "year": "1985",
+      "publisher": "Commodore",
+      "genre": "Units Sold: 5M",
+      "rating": "CPU: MOS 8502"
     },
     {
       "id": "20",
       "fullpath": "commodore_vic-20",
-      "name": "commodore_vic-20",
-      "year": "",
-      "publisher": "",
-      "genre": "Units Sold: ",
-      "rating": "CPU:"
+      "name": "Commodore VIC-20",
+      "year": "1980",
+      "publisher": "Commodore",
+      "genre": "Units Sold: 2.5M",
+      "rating": "CPU: MOS 6502"
     },
     {
       "id": "final_burn_alpha",
       "fullpath": "final_burn_alpha",
-      "name": "final_burn_alpha",
-      "year": "",
-      "publisher": "",
-      "genre": "Units Sold: ",
+      "name": "FinalBurn Alpha",
+      "year": "2000",
+      "publisher": "Open Source",
+      "genre": "2D Arcade Games",
+      "rating": "CPU:"
+    },
+    {
+      "id": "fba",
+      "fullpath": "final_burn_alpha",
+      "name": "FinalBurn Alpha",
+      "year": "2000",
+      "publisher": "Open Source",
+      "genre": "2D Arcade Games",
       "rating": "CPU:"
     },
     {
@@ -600,9 +618,9 @@
       "fullpath": "vectrex",
       "name": "Vectrex",
       "year": "1982",
-      "publisher": "Milton Bradley Company",
-      "genre": "Units Sold: 600,000",
-      "rating": "CPU:\tMotorola MC68A09"
+      "publisher": "Milton Bradley Co",
+      "genre": "Units Sold: 600K",
+      "rating": "CPU: Motorola MC68A09"
     },
     {
       "id": "magnavox_odyssey",
@@ -610,7 +628,7 @@
       "name": "Magnavox Odyssey",
       "year": "1972",
       "publisher": "Magnavox",
-      "genre": "Units Sold: 350,000",
+      "genre": "Units Sold: 350K",
       "rating": "CPU:"
     },
     {
@@ -619,7 +637,7 @@
       "name": "Magnavox Odyssey",
       "year": "1978",
       "publisher": "Magnavox",
-      "genre": "Units Sold: 2 Million",
+      "genre": "Units Sold: 2M",
       "rating": "CPU: Intel 8048"
     },
     {
@@ -628,8 +646,8 @@
       "name": "Mattel Intellivision",
       "year": "1979",
       "publisher": "Mattel Electronics Corporation",
-      "genre": "Units Sold: ",
-      "rating": "CPU: 3 Million"
+      "genre": "Units Sold: 3M",
+      "rating": "CPU: CPI1610"
     },
     {
       "id": "microsoft_windows_3.x",
@@ -641,12 +659,30 @@
       "rating": "CPU: x86"
     },
     {
+      "id": "sega_model_2",
+      "fullpath": "sega_model_2",
+      "name": "Sega Model 2",
+      "year": "1993",
+      "publisher": "Sega Corp",
+      "genre": "Units Sold: 130K ",
+      "rating": "CPU: Intel i960"
+    },
+    {
+      "id": "sega_model_3",
+      "fullpath": "sega_model_3",
+      "name": "Sega Model 3",
+      "year": "1996",
+      "publisher": "Sega Corp",
+      "genre": "Units Sold: 70K",
+      "rating": "CPU: PowerPC 603"
+    },
+    {
       "id": "nec_supergrafx",
       "fullpath": "nec_supergrafx",
       "name": "NEC SuperGrafx",
       "year": "1989",
       "publisher": "NEC Home Electronics",
-      "genre": "Units Sold: ?",
+      "genre": "Units Sold: 75K",
       "rating": "CPU: Hudson Soft HuC6280"
     },
     {
@@ -654,17 +690,17 @@
       "fullpath": "nintendo_64dd",
       "name": "Nintendo 64dd",
       "year": "1996",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 33 Million",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 33M",
       "rating": "CPU: 64-bit NEC VR4300"
     },
     {
       "id": "nintendo_super_game_boy",
       "fullpath": "nintendo_super_game_boy",
       "name": "Super Game Boy",
-      "year": "",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: ",
+      "year": "1994",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 2M",
       "rating": "CPU:"
     },
     {
@@ -672,8 +708,8 @@
       "fullpath": "nintendo_virtual_boy",
       "name": "Nintendo Virtual Boy",
       "year": "1995",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 770,000 ",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 770K",
       "rating": "CPU: NEC V810"
     },
     {
@@ -682,7 +718,7 @@
       "name": "Panasonic 3DO Interactive Multiplayer",
       "year": "1993",
       "publisher": "Panasonic",
-      "genre": "Units Sold: 2 Million",
+      "genre": "Units Sold: 2M",
       "rating": "CPU: 32-bit custom ARM CPU"
     },
     {
@@ -691,7 +727,7 @@
       "name": "Sammy Atomiswave",
       "year": "2003",
       "publisher": "Sammy Corporation",
-      "genre": "Units Sold: ? ",
+      "genre": "Units Sold: 20K",
       "rating": "CPU: SH-4 @ 200 Mhz"
     },
     {
@@ -700,8 +736,8 @@
       "name": "Sega Naomi",
       "year": "1998",
       "publisher": "Sega Corporation",
-      "genre": "Units Sold: ? ",
-      "rating": "CPU: ?"
+      "genre": "Units Sold: 15K",
+      "rating": "CPU: Hitachi SH-4"
     },
     {
       "id": "segacd",
@@ -709,7 +745,7 @@
       "name": "Sega CD",
       "year": "1991",
       "publisher": "Sega Corporation",
-      "genre": "Units Sold: 2 Million",
+      "genre": "Units Sold: 2M",
       "rating": "CPU: Motorola 68000"
     },
     {
@@ -718,7 +754,7 @@
       "name": "Sega CD 32X",
       "year": "1994",
       "publisher": "Sega Corporation",
-      "genre": "Units Sold: 800,000",
+      "genre": "Units Sold: 800K",
       "rating": "CPU: 2× SH-2 32-bit RISC"
     },
     {
@@ -727,7 +763,7 @@
       "name": "Sega 32X",
       "year": "1994",
       "publisher": "Sega Corporation",
-      "genre": "Units Sold: 800,000",
+      "genre": "Units Sold: 800K",
       "rating": "CPU: 2× SH-2 32-bit RISC"
     },
     {
@@ -736,7 +772,7 @@
       "name": "Sega Saturn",
       "year": "1994",
       "publisher": "Sega Corporation",
-      "genre": "Units Sold: 9 Million",
+      "genre": "Units Sold: 9M",
       "rating": "CPU: 2× Hitachi SH-2"
     },
     {
@@ -745,7 +781,7 @@
       "name": "Sega SG 1000",
       "year": "1983",
       "publisher": "Sega Corporation",
-      "genre": "Units Sold: 400,000",
+      "genre": "Units Sold: 400K",
       "rating": "CPU: 8-bit Zilog Z80"
     },
     {
@@ -762,8 +798,8 @@
       "fullpath": "snes",
       "name": "Super Nintendo Entertainment System",
       "year": "1990",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 49 Million",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 49M",
       "rating": "CPU: Ricoh 5A22"
     },
     {
@@ -772,7 +808,7 @@
       "name": "SNK Neo Geo AES",
       "year": "1990",
       "publisher": "SNK",
-      "genre": "Units Sold: 1.18 Million",
+      "genre": "Units Sold: 1.2M",
       "rating": "CPU: Motorola 68000"
     },
     {
@@ -781,7 +817,7 @@
       "name": "SNK Neo Geo CD",
       "year": "1994",
       "publisher": "SNK",
-      "genre": "Units Sold: 570,000",
+      "genre": "Units Sold: 570K",
       "rating": "CPU: Motorola 68000"
     },
     {
@@ -790,17 +826,17 @@
       "name": "SNK Neo Geo MVS",
       "year": "1990",
       "publisher": "SNK",
-      "genre": "Units Sold: 570,000",
+      "genre": "Units Sold: 570K",
       "rating": "CPU: Motorola 68000"
     },
     {
       "id": "taito_type_x",
       "fullpath": "taito_type_x",
       "name": "Taito Type X",
-      "year": "2004",
+      "year": "2002",
       "publisher": "Taito Corporation",
-      "genre": "Units Sold: ?",
-      "rating": "CPU: Intel Celeron 2.5 GHz"
+      "genre": "Units Sold: 20K",
+      "rating": "CPU: x86"
     },
     {
       "id": "tiger_handheld_electronics",
@@ -808,16 +844,16 @@
       "name": "Tiger Electronics Handheld",
       "year": "1994",
       "publisher": "Tiger Electronics",
-      "genre": "Units Sold: ?",
-      "rating": "CPU: ?"
+      "genre": "Units Sold: 300K",
+      "rating": "CPU: Sharp SM8521"
     },
     {
       "id": "scummvm",
       "fullpath": "scummvm",
-      "name": "Script Creation Utility for Maniac Mansion Virtual Machine ",
+      "name": "SCUMM",
       "year": "2001",
       "publisher": "Ludvig Strigeus",
-      "genre": "Units Sold: ?",
+      "genre": "Open Source",
       "rating": "CPU: PC"
     },
     {
@@ -825,8 +861,8 @@
       "fullpath": "virtualboy",
       "name": "Nintendo Virtual Boy",
       "year": "1995",
-      "publisher": "Nintendo Co., Ltd",
-      "genre": "Units Sold: 770,000 ",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 770K ",
       "rating": "CPU: NEC V810"
     },
     {
@@ -834,7 +870,7 @@
       "fullpath": "visualpinball",
       "name": "Visual Pinball",
       "year": "2000",
-      "publisher": "Open Source Software",
+      "publisher": "Open Source",
       "genre": "Virtual Pinball",
       "rating": "CPU: x86"
     },
@@ -846,6 +882,591 @@
       "publisher": "Zaccaria",
       "genre": "Virtual Pinball",
       "rating": "CPU: x86"
+    },
+    {
+      "id": "hbmame",
+      "fullpath": "hbmame",
+      "name": "HBMame",
+      "year": "2011",
+      "publisher": "Open Source Community",
+      "genre": "Homebrew Arcade Emulator",
+      "rating": "CPU: Multiple Platforms"
+    },
+    {
+      "id": "aae",
+      "fullpath": "aae",
+      "name": "Another Arcade Emulator",
+      "year": "2020",
+      "publisher": "Arcade Collection",
+      "genre": "Arcade Game Collection",
+      "rating": "CPU: Multiple Platforms"
+    },
+    {
+      "id": "pacmame",
+      "fullpath": "pacmame",
+      "name": "PacMAME",
+      "year": "2018",
+      "publisher": "PacMAME Team",
+      "genre": "Pac-Man Focused MAME",
+      "rating": "CPU: Multiple Platforms"
+    },
+    {
+      "id": "fightcade",
+      "fullpath": "fightcade",
+      "name": "Fightcade",
+      "year": "2014",
+      "publisher": "Fightcade Team",
+      "genre": "Fighting Game Platform",
+      "rating": "CPU: x86"
+    },
+    {
+      "id": "sega_model_2",
+      "fullpath": "sega_model_2",
+      "name": "Sega Model 2",
+      "year": "1993",
+      "publisher": "Sega Corporation",
+      "genre": "Arcade System Board",
+      "rating": "CPU: i960 KB/KA20"
+    },
+    {
+      "id": "sega_hikaru",
+      "fullpath": "sega_hikaru",
+      "name": "Sega Hikaru",
+      "year": "1999",
+      "publisher": "Sega Corporation",
+      "genre": "Arcade System Board",
+      "rating": "CPU: SH-4 200 MHz"
+    },
+    {
+      "id": "nintendo_3ds_eshop",
+      "fullpath": "nintendo_3ds_eshop",
+      "name": "Nintendo 3DS eShop",
+      "year": "2011",
+      "publisher": "Nintendo",
+      "genre": "Digital Distribution Service",
+      "rating": "CPU: ARM11 MPCore"
+    },
+    {
+      "id": "super_nintendo_entertainment_system_hacks",
+      "fullpath": "super_nintendo_entertainment_system_hacks",
+      "name": "Super Nintendo Entertainment System Hacks",
+      "year": "1990",
+      "publisher": "Community ROM Hacks",
+      "genre": "ROM Hacks Collection",
+      "rating": "CPU: Ricoh 5A22"
+    },
+    {
+      "id": "nintendo_famicom_disk_system",
+      "fullpath": "nintendo_famicom_disk_system",
+      "name": "Nintendo Famicom Disk System",
+      "year": "1986",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 4.4M",
+      "rating": "CPU: Ricoh 2C33"
+    },
+    {
+      "id": "nintendo_wii_u",
+      "fullpath": "nintendo_wii_u",
+      "name": "Nintendo Wii U",
+      "year": "2012",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 13.6M",
+      "rating": "CPU: IBM Espresso"
+    },
+    {
+      "id": "sega_dreamcast_import",
+      "fullpath": "sega_dreamcast_import",
+      "name": "Sega Dreamcast Import",
+      "year": "1998",
+      "publisher": "Sega Corporation",
+      "genre": "Import Games Collection",
+      "rating": "CPU: Hitachi SH-4 32-bit RISC"
+    },
+    {
+      "id": "sony_playstation_3",
+      "fullpath": "sony_playstation_3",
+      "name": "Sony PlayStation 3",
+      "year": "2006",
+      "publisher": "Sony Electronics",
+      "genre": "Units Sold: 87.4M",
+      "rating": "CPU: Cell Broadband Engine"
+    },
+    {
+      "id": "microsoft_msx_turbo-r",
+      "fullpath": "microsoft_msx_turbo-r",
+      "name": "Microsoft MSX Turbo-R",
+      "year": "1990",
+      "publisher": "Microsoft/ASCII",
+      "genre": "Units Sold: 100K",
+      "rating": "CPU: R800 16 MHz"
+    },
+    {
+      "id": "nintendo_arcade_systems",
+      "fullpath": "nintendo_arcade_systems",
+      "name": "Nintendo Arcade Systems",
+      "year": "1975",
+      "publisher": "Nintendo",
+      "genre": "Arcade System Collection",
+      "rating": "CPU: Various"
+    },
+    {
+      "id": "iptv",
+      "fullpath": "iptv",
+      "name": "IPTV",
+      "year": "1995",
+      "publisher": "Various Providers",
+      "genre": "Internet Protocol Television",
+      "rating": "CPU: Set-Top Box"
+    },
+    {
+      "id": "magazines",
+      "fullpath": "magazines",
+      "name": "Digital Magazines",
+      "year": "2000",
+      "publisher": "Various Publishers",
+      "genre": "Digital Publications",
+      "rating": "CPU: Reader Device"
+    },
+    {
+      "id": "game_&_watch",
+      "fullpath": "game_&_watch",
+      "name": "Nintendo Game & Watch",
+      "year": "1980",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 43.4M",
+      "rating": "CPU: Sharp SM5xx family"
+    },
+    {
+      "id": "sony_playstation_vita",
+      "fullpath": "sony_playstation_vita",
+      "name": "Sony PlayStation Vita",
+      "year": "2011",
+      "publisher": "Sony Electronics",
+      "genre": "Units Sold: 16M",
+      "rating": "CPU: ARM Cortex-A9 quad-core"
+    },
+    {
+      "id": "nintendo_wiiware",
+      "fullpath": "nintendo_wiiware",
+      "name": "Nintendo WiiWare",
+      "year": "2008",
+      "publisher": "Nintendo",
+      "genre": "Digital Distribution Service",
+      "rating": "CPU: IBM PowerPC Broadway"
+    },
+    {
+      "id": "hartung_game_master",
+      "fullpath": "hartung_game_master",
+      "name": "Hartung Game Master",
+      "year": "1990",
+      "publisher": "Hartung",
+      "genre": "Units Sold: 50K",
+      "rating": "CPU: Zilog Z80A"
+    },
+    {
+      "id": "flash_games",
+      "fullpath": "flash_games",
+      "name": "Adobe Flash Games",
+      "year": "1996",
+      "publisher": "Various Developers",
+      "genre": "Browser-based Games",
+      "rating": "CPU: Flash Player"
+    },
+    {
+      "id": "favorites",
+      "fullpath": "favorites",
+      "name": "User Favorites",
+      "year": " ",
+      "publisher": "User Collection",
+      "genre": "Personal Game Collection",
+      "rating": "CPU: Various"
+    },
+    {
+      "id": "nintendo_pokemon_mini",
+      "fullpath": "nintendo_pokemon_mini",
+      "name": "Nintendo Pokemon Mini",
+      "year": "2001",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 1M",
+      "rating": "CPU: Nintendo PRC"
+    },
+    {
+      "id": "atari_st",
+      "fullpath": "atari_st",
+      "name": "Atari ST",
+      "year": "1985",
+      "publisher": "Atari Corporation",
+      "genre": "Units Sold: 6M",
+      "rating": "CPU: Motorola 68000"
+    },
+    {
+      "id": "apple_iigs",
+      "fullpath": "apple_iigs",
+      "name": "Apple IIGS",
+      "year": "1986",
+      "publisher": "Apple Computer",
+      "genre": "Units Sold: 1.25M",
+      "rating": "CPU: WDC 65C816"
+    },
+    {
+      "id": "run_n_gun",
+      "fullpath": "run_n_gun",
+      "name": "Run N Gun Games",
+      "year": "1980",
+      "publisher": "Various Developers",
+      "genre": "Run and Gun",
+      "rating": "CPU: Multiple Platforms"
+    },
+    {
+      "id": "sega_st-v",
+      "fullpath": "sega_st-v",
+      "name": "Sega ST-V",
+      "year": "1994",
+      "publisher": "Sega Corporation",
+      "genre": "Arcade System Board",
+      "rating": "CPU: 2× Hitachi SH-2"
+    },
+    {
+      "id": "wonderswancolor",
+      "fullpath": "wonderswancolor",
+      "name": "Bandai WonderSwan Color",
+      "year": "2000",
+      "publisher": "Bandai",
+      "genre": "Units Sold: 1.55M",
+      "rating": "CPU: NEC V30 MZ"
+    },
+    {
+      "id": "mugen",
+      "fullpath": "mugen",
+      "name": "M.U.G.E.N",
+      "year": "1999",
+      "publisher": "Elecbyte",
+      "genre": "Fighting Game Engine",
+      "rating": "CPU: x86"
+    },
+    {
+      "id": "nec_pc_engine-cd",
+      "fullpath": "nec_pc_engine-cd",
+      "name": "NEC PC Engine-CD",
+      "year": "1988",
+      "publisher": "NEC Home Electronics",
+      "genre": "Units Sold: 1.92M",
+      "rating": "CPU: Hudson Soft HuC6280"
+    },
+    {
+      "id": "american_laser_games",
+      "fullpath": "american_laser_games",
+      "name": "American Laser Games",
+      "year": "1990",
+      "publisher": "American Laser Games",
+      "genre": "Laserdisc Games",
+      "rating": "CPU: Laserdisc Player"
+    },
+    {
+      "id": "camputers_lynx",
+      "fullpath": "camputers_lynx",
+      "name": "Camputers Lynx",
+      "year": "1983",
+      "publisher": "Camputers",
+      "genre": "Units Sold: 15K (UK)",
+      "rating": "CPU: Zilog Z80A"
+    },
+    {
+      "id": "emerson_arcadia_2001",
+      "fullpath": "emerson_arcadia_2001",
+      "name": "Emerson Arcadia 2001",
+      "year": "1982",
+      "publisher": "Emerson Radio Corp",
+      "genre": "Units Sold: 100K",
+      "rating": "CPU: Signetics 2650"
+    },
+    {
+      "id": "jukebox",
+      "fullpath": "jukebox",
+      "name": "Digital Jukebox",
+      "year": "2000",
+      "publisher": "Various Manufacturers",
+      "genre": "Music Player System",
+      "rating": "CPU: Embedded System"
+    },
+    {
+      "id": "nintendo_3ds_import",
+      "fullpath": "nintendo_3ds_import",
+      "name": "Nintendo 3DS Import",
+      "year": "2011",
+      "publisher": "Nintendo",
+      "genre": "Import Games Collection",
+      "rating": "CPU: ARM11 MPCore"
+    },
+    {
+      "id": "teknoparrot_patreon",
+      "fullpath": "teknoparrot_patreon",
+      "name": "TeknoParrot Patreon",
+      "year": "2016",
+      "publisher": "TeknoParrot Team",
+      "genre": "PC Arcade Emulator",
+      "rating": "CPU: x86_64"
+    },
+    {
+      "id": "nintendo_satellaview",
+      "fullpath": "nintendo_satellaview",
+      "name": "Nintendo Satellaview",
+      "year": "1995",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 116K",
+      "rating": "CPU: Ricoh 5A22"
+    },
+    {
+      "id": "epoch_super_cassette_vision",
+      "fullpath": "epoch_super_cassette_vision",
+      "name": "Epoch Super Cassette Vision",
+      "year": "1984",
+      "publisher": "Epoch Co.",
+      "genre": "Units Sold: 400K",
+      "rating": "CPU: NEC uPD7801G"
+    },
+    {
+      "id": "ngp",
+      "fullpath": "ngp",
+      "name": "SNK Neo Geo Pocket",
+      "year": "1998",
+      "publisher": "SNK Corporation",
+      "genre": "Units Sold: 1.6M",
+      "rating": "CPU: Toshiba TLCS-900/H"
+    },
+    {
+      "id": "hacked_games",
+      "fullpath": "hacked_games",
+      "name": "ROM Hacks Collection",
+      "year": "1980",
+      "publisher": "Community Developers",
+      "genre": "Modified Games Collection",
+      "rating": "CPU: Various Platforms"
+    },
+    {
+      "id": "sony_playstation_minis",
+      "fullpath": "sony_playstation_minis",
+      "name": "Sony PlayStation Minis",
+      "year": "2009",
+      "publisher": "Sony Electronics",
+      "genre": "Digital Download Games",
+      "rating": "CPU: PSP/PS3 Hardware"
+    },
+    {
+      "id": "nintendo_entertainment_system_hacks",
+      "fullpath": "nintendo_entertainment_system_hacks",
+      "name": "Nintendo Entertainment System Hacks",
+      "year": "1983",
+      "publisher": "Community ROM Hacks",
+      "genre": "ROM Hacks Collection",
+      "rating": "CPU: Ricoh 2A03 8-bit"
+    },
+    {
+      "id": "bally_astrocade",
+      "fullpath": "bally_astrocade",
+      "name": "Bally Astrocade",
+      "year": "1977",
+      "publisher": "Bally Manufacturing",
+      "genre": "Units Sold: 300K",
+      "rating": "CPU: Zilog Z80"
+    },
+    {
+      "id": "big_fish_games",
+      "fullpath": "big_fish_games",
+      "name": "Big Fish Games",
+      "year": "2002",
+      "publisher": "Big Fish Games",
+      "genre": "Casual Game Platform",
+      "rating": "CPU: PC Platform"
+    },
+    {
+      "id": "microsoft_ms-dos",
+      "fullpath": "microsoft_ms-dos",
+      "name": "Microsoft MS-DOS",
+      "year": "1981",
+      "publisher": "Microsoft Corporation",
+      "genre": "Operating System",
+      "rating": "CPU: x86"
+    },
+    {
+      "id": "wow_action_max",
+      "fullpath": "wow_action_max",
+      "name": "WOW Action Max",
+      "year": "1987",
+      "publisher": "Worlds of Wonder",
+      "genre": "Units Sold: 100K",
+      "rating": "CPU: VHS Based System"
+    },
+    {
+      "id": "sord_m5",
+      "fullpath": "sord_m5",
+      "name": "Sord M5",
+      "year": "1982",
+      "publisher": "Sord Computer Corporation",
+      "genre": "Units Sold: 100K",
+      "rating": "CPU: Zilog Z80A"
+    },
+    {
+      "id": "philips_cd-i",
+      "fullpath": "philips_cd-i",
+      "name": "Philips CD-i",
+      "year": "1991",
+      "publisher": "Philips",
+      "genre": "Units Sold: 570K",
+      "rating": "CPU: Motorola 68070"
+    },
+    {
+      "id": "nintendo_3ds_eshop_import",
+      "fullpath": "nintendo_3ds_eshop_import",
+      "name": "Nintendo 3DS eShop",
+      "year": "2011",
+      "publisher": "Nintendo",
+      "genre": "Digital Import Games",
+      "rating": "CPU: ARM11 MPCore"
+    },
+    {
+      "id": "system_357",
+      "fullpath": "system_357",
+      "name": "Namco System 357",
+      "year": "2007",
+      "publisher": "Namco",
+      "genre": "Arcade System Board",
+      "rating": "CPU: Cell Processor"
+    },
+    {
+      "id": "sega_dreamcast_indies",
+      "fullpath": "sega_dreamcast_indies",
+      "name": "Sega Dreamcast Indies",
+      "year": "1998",
+      "publisher": "Independent Developers",
+      "genre": "Independent Games Collection",
+      "rating": "CPU: Hitachi SH-4 32-bit RISC"
+    },
+    {
+      "id": "clone_hero",
+      "fullpath": "clone_hero",
+      "name": "Clone Hero",
+      "year": "2017",
+      "publisher": "srylain",
+      "genre": "Rhythm Game",
+      "rating": "CPU: PC Platform"
+    },
+    {
+      "id": "ngpc",
+      "fullpath": "ngpc",
+      "name": "SNK Neo Geo Pocket Color",
+      "year": "1999",
+      "publisher": "SNK Corporation",
+      "genre": "Units Sold: 2M",
+      "rating": "CPU: Toshiba TLCS-900/H"
+    },
+    {
+      "id": "konami_handheld",
+      "fullpath": "konami_handheld",
+      "name": "Konami Handheld Games",
+      "year": "1978",
+      "publisher": "Konami",
+      "genre": "Handheld Game Collection",
+      "rating": "CPU: Various"
+    },
+    {
+      "id": "sega_saturn_japan",
+      "fullpath": "sega_saturn_japan",
+      "name": "Sega Saturn Japan",
+      "year": "1994",
+      "publisher": "Sega Corporation",
+      "genre": "Japan Exclusive Games",
+      "rating": "CPU: 2× Hitachi SH-2"
+    },
+    {
+      "id": "slots",
+      "fullpath": "slots",
+      "name": "Slot Machine Games",
+      "year": "1980",
+      "publisher": "Various Developers",
+      "genre": "Casino Game Collection",
+      "rating": "CPU: Various Platforms"
+    },
+    {
+      "id": "search",
+      "fullpath": "search",
+      "name": "Search Interface",
+      "year": " ",
+      "publisher": "System Interface",
+      "genre": "Search Functionality",
+      "rating": "CPU: System Interface"
+    },
+    {
+      "id": "nintendo_ds",
+      "fullpath": "nintendo_ds",
+      "name": "Nintendo DS",
+      "year": "2004",
+      "publisher": "Nintendo",
+      "genre": "Units Sold: 154M",
+      "rating": "CPU: ARM946E-S"
+    },
+    {
+      "id": "atari_8-bit",
+      "fullpath": "atari_8-bit",
+      "name": "Atari 8-bit Computers",
+      "year": "1979",
+      "publisher": "Atari Corporation",
+      "genre": "Units Sold: 4M",
+      "rating": "CPU: MOS Technology 6502C"
+    },
+    {
+      "id": "locomalito_games",
+      "fullpath": "locomalito_games",
+      "name": "Locomalito Games",
+      "year": "2010",
+      "publisher": "Locomalito",
+      "genre": "Independent Game Collection",
+      "rating": "CPU: PC Platform"
+    },
+    {
+      "id": "mgt_sam_coupe",
+      "fullpath": "mgt_sam_coupe",
+      "name": "MGT SAM Coupé",
+      "year": "1989",
+      "publisher": "Miles Gordon Technology",
+      "genre": "Units Sold: 12M",
+      "rating": "CPU: Zilog Z80B"
+    },
+    {
+      "id": "psikyo",
+      "fullpath": "psikyo",
+      "name": "Psikyo",
+      "year": "1992",
+      "publisher": "Psikyo",
+      "genre": "Shoot 'em Up Collection",
+      "rating": "CPU: Motorola 68000"
+    },
+    {
+      "id": "sega_triforce",
+      "fullpath": "sega_triforce",
+      "name": "Sega Triforce",
+      "year": "2002",
+      "publisher": "Sega/Nintendo/Namco",
+      "genre": "Arcade System Board",
+      "rating": "CPU: IBM PowerPC 750CXe"
+    },
+    {
+      "id": "entex_adventure_vision",
+      "fullpath": "entex_adventure_vision",
+      "name": "Entex Adventure Vision",
+      "year": "1982",
+      "publisher": "Entex Industries",
+      "genre": "Units Sold: 10K",
+      "rating": "CPU: Intel 8048"
+    },
+    {
+      "id": "nintendo_wii_u_eshop",
+      "fullpath": "nintendo_wii_u_eshop",
+      "name": "Nintendo Wii U eShop",
+      "year": "2012",
+      "publisher": "Nintendo",
+      "genre": "Digital Distribution Service",
+      "rating": "CPU: IBM Espresso"
     },
     {
       "id": "zinc",
