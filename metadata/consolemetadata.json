@@ -1469,6 +1469,15 @@
       "rating": "CPU: IBM Espresso"
     },
     {
+      "id": "steam",
+      "fullpath": "steam",
+      "name": "Valve Corporation",
+      "year": "2003",
+      "publisher": "Valve Corporation",
+      "genre": "Online Game Distribution",
+      "rating": "CPU: PC Platform"
+    },
+    {
       "id": "zinc",
       "fullpath": "zinc",
       "name": "ZiNc",
