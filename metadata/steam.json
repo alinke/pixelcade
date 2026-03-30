@@ -1,7 +1,7 @@
 {
   "platform": "steam",
-  "totalGames": 566,
-  "lastUpdated": "2025-11-11",
+  "totalGames": 967,
+  "lastUpdated": "2026-03-27",
   "metadata": {
     "description": "steam game database",
     "format": "Each game contains: id (romname only), fullpath (platform-romname), name, year, publisher, genre, rating",
@@ -56,9 +56,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "ACE COMBAT™ 7: SKIES UNKNOWN",
-      "fullpath": "ACE COMBAT™ 7: SKIES UNKNOWN",
-      "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
+      "id": "ACE COMBAT 7: SKIES UNKNOWN",
+      "fullpath": "ACE COMBAT 7: SKIES UNKNOWN",
+      "name": "ACE COMBAT 7: SKIES UNKNOWN",
       "year": "2019",
       "publisher": "Bandai Namco Entertainment",
       "genre": "Action; Simulation",
@@ -194,7 +194,7 @@
       "id": "Angry Birds Seasons",
       "fullpath": "Angry Birds Seasons",
       "name": "Angry Birds Seasons",
-      "year": "1900",
+      "year": "2010",
       "publisher": "Windows",
       "genre": "General",
       "rating": "Not Rated"
@@ -227,9 +227,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Arizona Sunshine® 2",
-      "fullpath": "Arizona Sunshine® 2",
-      "name": "Arizona Sunshine® 2",
+      "id": "Arizona Sunshine 2",
+      "fullpath": "Arizona Sunshine 2",
+      "name": "Arizona Sunshine 2",
       "year": "2023",
       "publisher": "Vertigo Games",
       "genre": "Action; Adventure",
@@ -245,9 +245,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "ARMORED CORE™ VI FIRES OF RUBICON™",
-      "fullpath": "ARMORED CORE™ VI FIRES OF RUBICON™",
-      "name": "ARMORED CORE™ VI FIRES OF RUBICON™",
+      "id": "ARMORED CORE VI FIRES OF RUBICON",
+      "fullpath": "ARMORED CORE VI FIRES OF RUBICON",
+      "name": "ARMORED CORE VI FIRES OF RUBICON",
       "year": "2023",
       "publisher": "FromSoftware, Inc.",
       "genre": "Action",
@@ -272,90 +272,90 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Assassin's Creed® III Remastered",
-      "fullpath": "Assassin's Creed® III Remastered",
-      "name": "Assassin's Creed® III Remastered",
+      "id": "Assassin's Creed III Remastered",
+      "fullpath": "Assassin's Creed III Remastered",
+      "name": "Assassin's Creed III Remastered",
       "year": "2019",
       "publisher": "Ubisoft Entertainment",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "Assassin's Creed® Odyssey",
-      "fullpath": "Assassin's Creed® Odyssey",
-      "name": "Assassin's Creed® Odyssey",
+      "id": "Assassin's Creed Odyssey",
+      "fullpath": "Assassin's Creed Odyssey",
+      "name": "Assassin's Creed Odyssey",
       "year": "2018",
       "publisher": "Ubisoft",
       "genre": "Action; Adventure; RPG",
       "rating": "Not Rated"
     },
     {
-      "id": "Assassin's Creed® Origins",
-      "fullpath": "Assassin's Creed® Origins",
-      "name": "Assassin's Creed® Origins",
+      "id": "Assassin's Creed Origins",
+      "fullpath": "Assassin's Creed Origins",
+      "name": "Assassin's Creed Origins",
       "year": "2017",
       "publisher": "Ubisoft",
       "genre": "Action; Adventure; RPG",
       "rating": "Not Rated"
     },
     {
-      "id": "Assassin's Creed® Syndicate",
-      "fullpath": "Assassin's Creed® Syndicate",
-      "name": "Assassin's Creed® Syndicate",
+      "id": "Assassin's Creed Syndicate",
+      "fullpath": "Assassin's Creed Syndicate",
+      "name": "Assassin's Creed Syndicate",
       "year": "2015",
       "publisher": "Ubisoft",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "Assassin's Creed® Unity",
-      "fullpath": "Assassin's Creed® Unity",
-      "name": "Assassin's Creed® Unity",
+      "id": "Assassin's Creed Unity",
+      "fullpath": "Assassin's Creed Unity",
+      "name": "Assassin's Creed Unity",
       "year": "2014",
       "publisher": "Ubisoft",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "Assassin’s Creed® Chronicles: China",
-      "fullpath": "Assassin’s Creed® Chronicles: China",
-      "name": "Assassin’s Creed® Chronicles: China",
+      "id": "Assassin’s Creed Chronicles China",
+      "fullpath": "Assassin’s Creed Chronicles China",
+      "name": "Assassin’s Creed Chronicles China",
       "year": "2015",
       "publisher": "Ubisoft Entertainment",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "Assassin’s Creed® Chronicles: India",
-      "fullpath": "Assassin’s Creed® Chronicles: India",
-      "name": "Assassin’s Creed® Chronicles: India",
+      "id": "Assassin’s Creed Chronicles: India",
+      "fullpath": "Assassin’s Creed Chronicles: India",
+      "name": "Assassin’s Creed Chronicles: India",
       "year": "2016",
       "publisher": "Ubisoft Entertainment",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "Assassin’s Creed® Chronicles: Russia",
-      "fullpath": "Assassin’s Creed® Chronicles: Russia",
-      "name": "Assassin’s Creed® Chronicles: Russia",
+      "id": "Assassin’s Creed Chronicles Russia",
+      "fullpath": "Assassin’s Creed Chronicles Russia",
+      "name": "Assassin’s Creed Chronicles Russia",
       "year": "2016",
       "publisher": "Ubisoft Entertainment",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "Assassin’s Creed® IV Black Flag™",
-      "fullpath": "Assassin’s Creed® IV Black Flag™",
-      "name": "Assassin’s Creed® IV Black Flag™",
-      "year": "1900",
+      "id": "Assassin’s Creed IV Black Flag",
+      "fullpath": "Assassin’s Creed IV Black Flag",
+      "name": "Assassin’s Creed IV Black Flag",
+      "year": "2013",
       "publisher": "Ubisoft",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "Assassin’s Creed® Rogue",
-      "fullpath": "Assassin’s Creed® Rogue",
-      "name": "Assassin’s Creed® Rogue",
+      "id": "Assassin’s Creed Rogue",
+      "fullpath": "Assassin’s Creed Rogue",
+      "name": "Assassin’s Creed Rogue",
       "year": "2015",
       "publisher": "Ubisoft",
       "genre": "Action; Adventure",
@@ -434,9 +434,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Attack on Titan / A.O.T. Wings of Freedom",
-      "fullpath": "Attack on Titan / A.O.T. Wings of Freedom",
-      "name": "Attack on Titan / A.O.T. Wings of Freedom",
+      "id": "Attack on Titan - A.O.T. Wings of Freedom",
+      "fullpath": "Attack on Titan - A.O.T. Wings of Freedom",
+      "name": "Attack on Titan - A.O.T. Wings of Freedom",
       "year": "2016",
       "publisher": "KOEI TECMO GAMES CO., LTD.",
       "genre": "Action",
@@ -533,18 +533,18 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Batman™: Arkham Knight",
-      "fullpath": "Batman™: Arkham Knight",
-      "name": "Batman™: Arkham Knight",
+      "id": "Batman: Arkham Knight",
+      "fullpath": "Batman: Arkham Knight",
+      "name": "Batman: Arkham Knight",
       "year": "2015",
       "publisher": "WB Games",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "Batman™: Arkham Origins",
-      "fullpath": "Batman™: Arkham Origins",
-      "name": "Batman™: Arkham Origins",
+      "id": "Batman: Arkham Origins",
+      "fullpath": "Batman: Arkham Origins",
+      "name": "Batman: Arkham Origins",
       "year": "2013",
       "publisher": "Warner Bros. Interactive Entertainment",
       "genre": "Action; Adventure",
@@ -560,36 +560,36 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Battlefield 4™",
-      "fullpath": "Battlefield 4™",
-      "name": "Battlefield 4™",
+      "id": "Battlefield 4",
+      "fullpath": "Battlefield 4",
+      "name": "Battlefield 4",
       "year": "2020",
       "publisher": "Electronic Arts",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Battlefield™ 1",
-      "fullpath": "Battlefield™ 1",
-      "name": "Battlefield™ 1",
+      "id": "Battlefield 1",
+      "fullpath": "Battlefield 1",
+      "name": "Battlefield 1",
       "year": "2020",
       "publisher": "Electronic Arts",
       "genre": "Action; Massively Multiplayer",
       "rating": "Not Rated"
     },
     {
-      "id": "Battlefield™ Hardline",
-      "fullpath": "Battlefield™ Hardline",
-      "name": "Battlefield™ Hardline",
+      "id": "Battlefield Hardline",
+      "fullpath": "Battlefield Hardline",
+      "name": "Battlefield Hardline",
       "year": "2020",
       "publisher": "Electronic Arts",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Battlefield™ V",
-      "fullpath": "Battlefield™ V",
-      "name": "Battlefield™ V",
+      "id": "Battlefield V",
+      "fullpath": "Battlefield V",
+      "name": "Battlefield V",
       "year": "2020",
       "publisher": "Electronic Arts",
       "genre": "Action",
@@ -740,9 +740,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Burnout™ Paradise Remastered",
-      "fullpath": "Burnout™ Paradise Remastered",
-      "name": "Burnout™ Paradise Remastered",
+      "id": "Burnout Paradise Remastered",
+      "fullpath": "Burnout Paradise Remastered",
+      "name": "Burnout Paradise Remastered",
       "year": "2020",
       "publisher": "Electronic Arts",
       "genre": "Action; Adventure; Racing",
@@ -758,108 +758,108 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Call of Duty® (2003)",
-      "fullpath": "Call of Duty® (2003)",
-      "name": "Call of Duty® (2003)",
+      "id": "Call of Duty (2003)",
+      "fullpath": "Call of Duty (2003)",
+      "name": "Call of Duty (2003)",
       "year": "2006",
       "publisher": "Activision",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Call of Duty® 2",
-      "fullpath": "Call of Duty® 2",
-      "name": "Call of Duty® 2",
+      "id": "Call of Duty 2",
+      "fullpath": "Call of Duty 2",
+      "name": "Call of Duty 2",
       "year": "2006",
       "publisher": "Activision",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Call of Duty®: Advanced Warfare - Gold Edition",
-      "fullpath": "Call of Duty®: Advanced Warfare - Gold Edition",
-      "name": "Call of Duty®: Advanced Warfare - Gold Edition",
+      "id": "Call of Duty: Advanced Warfare - Gold Edition",
+      "fullpath": "Call of Duty: Advanced Warfare - Gold Edition",
+      "name": "Call of Duty: Advanced Warfare - Gold Edition",
       "year": "2014",
       "publisher": "Activision",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Call of Duty®: Black Ops",
-      "fullpath": "Call of Duty®: Black Ops",
-      "name": "Call of Duty®: Black Ops",
+      "id": "Call of Duty: Black Ops",
+      "fullpath": "Call of Duty: Black Ops",
+      "name": "Call of Duty: Black Ops",
       "year": "2010",
       "publisher": "Activision",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Call of Duty®: Black Ops 6",
-      "fullpath": "Call of Duty®: Black Ops 6",
-      "name": "Call of Duty®: Black Ops 6",
+      "id": "Call of Duty: Black Ops 6",
+      "fullpath": "Call of Duty: Black Ops 6",
+      "name": "Call of Duty: Black Ops 6",
       "year": "2024",
       "publisher": "Activision",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Call of Duty®: Black Ops II",
-      "fullpath": "Call of Duty®: Black Ops II",
-      "name": "Call of Duty®: Black Ops II",
+      "id": "Call of Duty: Black Ops II",
+      "fullpath": "Call of Duty: Black Ops II",
+      "name": "Call of Duty: Black Ops II",
       "year": "2012",
       "publisher": "Activision",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Call of Duty®: Ghosts",
-      "fullpath": "Call of Duty®: Ghosts",
-      "name": "Call of Duty®: Ghosts",
+      "id": "Call of Duty: Ghosts",
+      "fullpath": "Call of Duty: Ghosts",
+      "name": "Call of Duty: Ghosts",
       "year": "2014",
       "publisher": "Activision",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Call of Duty®: Infinite Warfare",
-      "fullpath": "Call of Duty®: Infinite Warfare",
-      "name": "Call of Duty®: Infinite Warfare",
+      "id": "Call of Duty: Infinite Warfare",
+      "fullpath": "Call of Duty: Infinite Warfare",
+      "name": "Call of Duty: Infinite Warfare",
       "year": "2016",
       "publisher": "Activision",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "Call of Duty®: Modern Warfare®",
-      "fullpath": "Call of Duty®: Modern Warfare®",
-      "name": "Call of Duty®: Modern Warfare®",
+      "id": "Call of Duty: Modern Warfare",
+      "fullpath": "Call of Duty: Modern Warfare",
+      "name": "Call of Duty: Modern Warfare",
       "year": "2023",
       "publisher": "Activision",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Call of Duty®: Modern Warfare® 2 (2009)",
-      "fullpath": "Call of Duty®: Modern Warfare® 2 (2009)",
-      "name": "Call of Duty®: Modern Warfare® 2 (2009)",
+      "id": "Call of Duty: Modern Warfare 2 (2009)",
+      "fullpath": "Call of Duty: Modern Warfare 2 (2009)",
+      "name": "Call of Duty: Modern Warfare 2 (2009)",
       "year": "2009",
       "publisher": "Activision",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Call of Duty®: Vanguard",
-      "fullpath": "Call of Duty®: Vanguard",
-      "name": "Call of Duty®: Vanguard",
+      "id": "Call of Duty: Vanguard",
+      "fullpath": "Call of Duty: Vanguard",
+      "name": "Call of Duty: Vanguard",
       "year": "2023",
       "publisher": "Activision",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Call of Duty®: WWII",
-      "fullpath": "Call of Duty®: WWII",
-      "name": "Call of Duty®: WWII",
+      "id": "Call of Duty: WWII",
+      "fullpath": "Call of Duty: WWII",
+      "name": "Call of Duty: WWII",
       "year": "2017",
       "publisher": "Activision",
       "genre": "Action",
@@ -893,9 +893,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Castle Crashers®",
-      "fullpath": "Castle Crashers®",
-      "name": "Castle Crashers®",
+      "id": "Castle Crashers",
+      "fullpath": "Castle Crashers",
+      "name": "Castle Crashers",
       "year": "2012",
       "publisher": "The Behemoth",
       "genre": "Action; Adventure; Casual; Indie; RPG",
@@ -1010,18 +1010,18 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Crash Bandicoot™ 4: It’s About Time",
-      "fullpath": "Crash Bandicoot™ 4: It’s About Time",
-      "name": "Crash Bandicoot™ 4: It’s About Time",
+      "id": "Crash Bandicoot 4: It’s About Time",
+      "fullpath": "Crash Bandicoot 4: It’s About Time",
+      "name": "Crash Bandicoot 4: It’s About Time",
       "year": "2022",
       "publisher": "Activision",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Crash Bandicoot™ N. Sane Trilogy",
-      "fullpath": "Crash Bandicoot™ N. Sane Trilogy",
-      "name": "Crash Bandicoot™ N. Sane Trilogy",
+      "id": "Crash Bandicoot N. Sane Trilogy",
+      "fullpath": "Crash Bandicoot N. Sane Trilogy",
+      "name": "Crash Bandicoot N. Sane Trilogy",
       "year": "2018",
       "publisher": "Activision",
       "genre": "Action",
@@ -1217,18 +1217,18 @@
       "rating": "Not Rated"
     },
     {
-      "id": "DEAD RISING®",
-      "fullpath": "DEAD RISING®",
-      "name": "DEAD RISING®",
+      "id": "DEAD RISING",
+      "fullpath": "DEAD RISING",
+      "name": "DEAD RISING",
       "year": "2016",
       "publisher": "Capcom",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "Dead Rising® 2",
-      "fullpath": "Dead Rising® 2",
-      "name": "Dead Rising® 2",
+      "id": "Dead Rising 2",
+      "fullpath": "Dead Rising 2",
+      "name": "Dead Rising 2",
       "year": "2010",
       "publisher": "Capcom",
       "genre": "Action; Adventure",
@@ -1244,18 +1244,18 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Dead Space™ 2",
-      "fullpath": "Dead Space™ 2",
-      "name": "Dead Space™ 2",
+      "id": "Dead Space 2",
+      "fullpath": "Dead Space 2",
+      "name": "Dead Space 2",
       "year": "2011",
       "publisher": "Electronic Arts",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "Dead Space™ 3",
-      "fullpath": "Dead Space™ 3",
-      "name": "Dead Space™ 3",
+      "id": "Dead Space 3",
+      "fullpath": "Dead Space 3",
+      "name": "Dead Space 3",
       "year": "2020",
       "publisher": "Electronic Arts",
       "genre": "Action",
@@ -1487,9 +1487,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Dragon Age™: The Veilguard",
-      "fullpath": "Dragon Age™: The Veilguard",
-      "name": "Dragon Age™: The Veilguard",
+      "id": "Dragon Age: The Veilguard",
+      "fullpath": "Dragon Age: The Veilguard",
+      "name": "Dragon Age: The Veilguard",
       "year": "2024",
       "publisher": "Electronic Arts",
       "genre": "Action; Adventure; RPG; Strategy",
@@ -1622,9 +1622,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "EVERSPACE™ 2",
-      "fullpath": "EVERSPACE™ 2",
-      "name": "EVERSPACE™ 2",
+      "id": "EVERSPACE 2",
+      "fullpath": "EVERSPACE 2",
+      "name": "EVERSPACE 2",
       "year": "2023",
       "publisher": "ROCKFISH Games",
       "genre": "Action; Adventure; RPG; Simulation",
@@ -1694,27 +1694,27 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Far Cry®",
-      "fullpath": "Far Cry®",
-      "name": "Far Cry®",
+      "id": "Far Cry",
+      "fullpath": "Far Cry",
+      "name": "Far Cry",
       "year": "2008",
       "publisher": "Ubisoft",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Far Cry® 2",
-      "fullpath": "Far Cry® 2",
-      "name": "Far Cry® 2",
+      "id": "Far Cry 2",
+      "fullpath": "Far Cry 2",
+      "name": "Far Cry 2",
       "year": "2008",
       "publisher": "Ubisoft",
       "genre": "Action",
       "rating": "Not Rated"
     },
     {
-      "id": "Far Cry® Primal",
-      "fullpath": "Far Cry® Primal",
-      "name": "Far Cry® Primal",
+      "id": "Far Cry Primal",
+      "fullpath": "Far Cry Primal",
+      "name": "Far Cry Primal",
       "year": "2016",
       "publisher": "Ubisoft",
       "genre": "Action; Adventure",
@@ -2369,45 +2369,45 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Horizon Forbidden West™ Complete Edition",
-      "fullpath": "Horizon Forbidden West™ Complete Edition",
-      "name": "Horizon Forbidden West™ Complete Edition",
+      "id": "Horizon Forbidden West Complete Edition",
+      "fullpath": "Horizon Forbidden West Complete Edition",
+      "name": "Horizon Forbidden West Complete Edition",
       "year": "2024",
       "publisher": "PlayStation Publishing LLC",
       "genre": "Action; RPG",
       "rating": "Not Rated"
     },
     {
-      "id": "Horizon Zero Dawn™ Remastered",
-      "fullpath": "Horizon Zero Dawn™ Remastered",
-      "name": "Horizon Zero Dawn™ Remastered",
+      "id": "Horizon Zero Dawn Remastered",
+      "fullpath": "Horizon Zero Dawn Remastered",
+      "name": "Horizon Zero Dawn Remastered",
       "year": "2024",
       "publisher": "PlayStation Publishing LLC",
       "genre": "Action; Adventure; RPG",
       "rating": "Not Rated"
     },
     {
-      "id": "Hot Wheels Monster Trucks: Stunt Mayhem™",
-      "fullpath": "Hot Wheels Monster Trucks: Stunt Mayhem™",
-      "name": "Hot Wheels Monster Trucks: Stunt Mayhem™",
+      "id": "Hot Wheels Monster Trucks: Stunt Mayhem",
+      "fullpath": "Hot Wheels Monster Trucks: Stunt Mayhem",
+      "name": "Hot Wheels Monster Trucks: Stunt Mayhem",
       "year": "2024",
       "publisher": "GameMill Entertainment",
       "genre": "Action; Racing",
       "rating": "Not Rated"
     },
     {
-      "id": "HOT WHEELS UNLEASHED™",
-      "fullpath": "HOT WHEELS UNLEASHED™",
-      "name": "HOT WHEELS UNLEASHED™",
+      "id": "HOT WHEELS UNLEASHED",
+      "fullpath": "HOT WHEELS UNLEASHED",
+      "name": "HOT WHEELS UNLEASHED",
       "year": "2021",
       "publisher": "Milestone S.r.l.",
       "genre": "Racing",
       "rating": "Not Rated"
     },
     {
-      "id": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
-      "fullpath": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
-      "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+      "id": "HOT WHEELS UNLEASHED 2 - Turbocharged",
+      "fullpath": "HOT WHEELS UNLEASHED 2 - Turbocharged",
+      "name": "HOT WHEELS UNLEASHED 2 - Turbocharged",
       "year": "2023",
       "publisher": "Milestone S.r.l.",
       "genre": "Action; Adventure; Racing; Simulation; Sports",
@@ -2657,54 +2657,54 @@
       "rating": "Not Rated"
     },
     {
-      "id": "LEGO® 2K Drive",
-      "fullpath": "LEGO® 2K Drive",
-      "name": "LEGO® 2K Drive",
+      "id": "LEGO 2K Drive",
+      "fullpath": "LEGO 2K Drive",
+      "name": "LEGO 2K Drive",
       "year": "2023",
       "publisher": "2K",
       "genre": "Racing",
       "rating": "Not Rated"
     },
     {
-      "id": "LEGO® Harry Potter: Years 1-4",
-      "fullpath": "LEGO® Harry Potter: Years 1-4",
-      "name": "LEGO® Harry Potter: Years 1-4",
+      "id": "LEGO Harry Potter: Years 1-4",
+      "fullpath": "LEGO Harry Potter: Years 1-4",
+      "name": "LEGO Harry Potter: Years 1-4",
       "year": "2010",
       "publisher": "Warner Bros. Interactive Entertainment",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "LEGO® Harry Potter: Years 5-7",
-      "fullpath": "LEGO® Harry Potter: Years 5-7",
-      "name": "LEGO® Harry Potter: Years 5-7",
+      "id": "LEGO Harry Potter: Years 5-7",
+      "fullpath": "LEGO Harry Potter: Years 5-7",
+      "name": "LEGO Harry Potter: Years 5-7",
       "year": "2012",
       "publisher": "Warner Bros. Interactive Entertainment",
       "genre": "Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "LEGO® Horizon Adventures™",
-      "fullpath": "LEGO® Horizon Adventures™",
-      "name": "LEGO® Horizon Adventures™",
+      "id": "LEGO Horizon Adventures",
+      "fullpath": "LEGO Horizon Adventures",
+      "name": "LEGO Horizon Adventures",
       "year": "2024",
       "publisher": "PlayStation Publishing LLC",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "LEGO® Party!",
-      "fullpath": "LEGO® Party!",
-      "name": "LEGO® Party!",
+      "id": "LEGO Party!",
+      "fullpath": "LEGO Party!",
+      "name": "LEGO Party!",
       "year": "2025",
       "publisher": "Fictions",
       "genre": "Action; Casual",
       "rating": "Not Rated"
     },
     {
-      "id": "LEGO® Star Wars™: The Skywalker Saga",
-      "fullpath": "LEGO® Star Wars™: The Skywalker Saga",
-      "name": "LEGO® Star Wars™: The Skywalker Saga",
+      "id": "LEGO Star Wars: The Skywalker Saga",
+      "fullpath": "LEGO Star Wars: The Skywalker Saga",
+      "name": "LEGO Star Wars: The Skywalker Saga",
       "year": "2022",
       "publisher": "Warner Bros. Games",
       "genre": "Action; Adventure",
@@ -2855,9 +2855,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Matchbox™ Driving Adventures",
-      "fullpath": "Matchbox™ Driving Adventures",
-      "name": "Matchbox™ Driving Adventures",
+      "id": "Matchbox Driving Adventures",
+      "fullpath": "Matchbox Driving Adventures",
+      "name": "Matchbox Driving Adventures",
       "year": "2024",
       "publisher": "Outright Games Ltd.",
       "genre": "Action; Adventure; Racing",
@@ -3071,9 +3071,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "MotoGP™25",
-      "fullpath": "MotoGP™25",
-      "name": "MotoGP™25",
+      "id": "MotoGP25",
+      "fullpath": "MotoGP25",
+      "name": "MotoGP25",
       "year": "2025",
       "publisher": "Milestone S.r.l.",
       "genre": "Racing; Simulation; Sports",
@@ -3278,9 +3278,9 @@
       "rating": "E10+ - Everyone 10+"
     },
     {
-      "id": "Need for Speed™ Payback",
-      "fullpath": "Need for Speed™ Payback",
-      "name": "Need for Speed™ Payback",
+      "id": "Need for Speed Payback",
+      "fullpath": "Need for Speed Payback",
+      "name": "Need for Speed Payback",
       "year": "2020",
       "publisher": "Electronic Arts",
       "genre": "Action; Adventure; Racing; Sports; Strategy",
@@ -3458,9 +3458,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "OCTOPATH TRAVELER™",
-      "fullpath": "OCTOPATH TRAVELER™",
-      "name": "OCTOPATH TRAVELER™",
+      "id": "OCTOPATH TRAVELER",
+      "fullpath": "OCTOPATH TRAVELER",
+      "name": "OCTOPATH TRAVELER",
       "year": "2019",
       "publisher": "Square Enix",
       "genre": "RPG",
@@ -3557,9 +3557,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Plants vs. Zombies™: Replanted",
-      "fullpath": "Plants vs. Zombies™: Replanted",
-      "name": "Plants vs. Zombies™: Replanted",
+      "id": "Plants vs. Zombies: Replanted",
+      "fullpath": "Plants vs. Zombies: Replanted",
+      "name": "Plants vs. Zombies: Replanted",
       "year": "2025",
       "publisher": "Electronic Arts",
       "genre": "Strategy",
@@ -3719,9 +3719,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "REMNANT II®",
-      "fullpath": "REMNANT II®",
-      "name": "REMNANT II®",
+      "id": "REMNANT II",
+      "fullpath": "REMNANT II",
+      "name": "REMNANT II",
       "year": "2023",
       "publisher": "Arc Games",
       "genre": "Action; Adventure; RPG",
@@ -3836,18 +3836,18 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Ridge Racer™ Unbounded",
-      "fullpath": "Ridge Racer™ Unbounded",
-      "name": "Ridge Racer™ Unbounded",
+      "id": "Ridge Racer Unbounded",
+      "fullpath": "Ridge Racer Unbounded",
+      "name": "Ridge Racer Unbounded",
       "year": "2012",
       "publisher": "BANDAI NAMCO Entertainment",
       "genre": "Racing",
       "rating": "Not Rated"
     },
     {
-      "id": "Rise of the Tomb Raider™",
-      "fullpath": "Rise of the Tomb Raider™",
-      "name": "Rise of the Tomb Raider™",
+      "id": "Rise of the Tomb Raider",
+      "fullpath": "Rise of the Tomb Raider",
+      "name": "Rise of the Tomb Raider",
       "year": "2016",
       "publisher": "Crystal Dynamics",
       "genre": "Action; Adventure",
@@ -3899,9 +3899,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Rocket League®",
-      "fullpath": "Rocket League®",
-      "name": "Rocket League®",
+      "id": "Rocket League",
+      "fullpath": "Rocket League",
+      "name": "Rocket League",
       "year": "2015",
       "publisher": "Psyonix LLC",
       "genre": "Action; Indie; Racing; Sports",
@@ -3926,9 +3926,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Sackboy™: A Big Adventure",
-      "fullpath": "Sackboy™: A Big Adventure",
-      "name": "Sackboy™: A Big Adventure",
+      "id": "Sackboy: A Big Adventure",
+      "fullpath": "Sackboy: A Big Adventure",
+      "name": "Sackboy: A Big Adventure",
       "year": "2022",
       "publisher": "PlayStation Publishing LLC",
       "genre": "Adventure",
@@ -3962,9 +3962,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Sekiro™: Shadows Die Twice - GOTY Edition",
-      "fullpath": "Sekiro™: Shadows Die Twice - GOTY Edition",
-      "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "id": "Sekiro: Shadows Die Twice - GOTY Edition",
+      "fullpath": "Sekiro: Shadows Die Twice - GOTY Edition",
+      "name": "Sekiro: Shadows Die Twice - GOTY Edition",
       "year": "2019",
       "publisher": "Activision (Excluding Japan and Asia)",
       "genre": "Action; Adventure",
@@ -4097,18 +4097,18 @@
       "rating": "Not Rated"
     },
     {
-      "id": "South Park™: The Fractured But Whole™",
-      "fullpath": "South Park™: The Fractured But Whole™",
-      "name": "South Park™: The Fractured But Whole™",
+      "id": "South Park: The Fractured But Whole",
+      "fullpath": "South Park: The Fractured But Whole",
+      "name": "South Park: The Fractured But Whole",
       "year": "2017",
       "publisher": "Ubisoft",
       "genre": "RPG",
       "rating": "Not Rated"
     },
     {
-      "id": "South Park™: The Stick of Truth™",
-      "fullpath": "South Park™: The Stick of Truth™",
-      "name": "South Park™: The Stick of Truth™",
+      "id": "South Park: The Stick of Truth",
+      "fullpath": "South Park: The Stick of Truth",
+      "name": "South Park: The Stick of Truth",
       "year": "2014",
       "publisher": "Ubisoft",
       "genre": "Action; Adventure; RPG",
@@ -4160,6 +4160,15 @@
       "rating": "Not Rated"
     },
     {
+      "id": "SpongeBob SquarePants: Titans of the Tide",
+      "fullpath": "SpongeBob SquarePants: Titans of the Tide",
+      "name": "SpongeBob SquarePants: Titans of the Tide",
+      "year": "2025",
+      "publisher": "THQ Nordic",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
       "id": "SpongeBob SquarePants: The Cosmic Shake",
       "fullpath": "SpongeBob SquarePants: The Cosmic Shake",
       "name": "SpongeBob SquarePants: The Cosmic Shake",
@@ -4169,36 +4178,36 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Spyro™ Reignited Trilogy",
-      "fullpath": "Spyro™ Reignited Trilogy",
-      "name": "Spyro™ Reignited Trilogy",
+      "id": "Spyro Reignited Trilogy",
+      "fullpath": "Spyro Reignited Trilogy",
+      "name": "Spyro Reignited Trilogy",
       "year": "2019",
       "publisher": "Activision",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "STAR WARS Jedi: Survivor™",
-      "fullpath": "STAR WARS Jedi: Survivor™",
-      "name": "STAR WARS Jedi: Survivor™",
+      "id": "STAR WARS Jedi: Survivor",
+      "fullpath": "STAR WARS Jedi: Survivor",
+      "name": "STAR WARS Jedi: Survivor",
       "year": "2023",
       "publisher": "Electronic Arts",
       "genre": "Action; Adventure",
       "rating": "Not Rated"
     },
     {
-      "id": "STAR WARS™ Battlefront",
-      "fullpath": "STAR WARS™ Battlefront",
-      "name": "STAR WARS™ Battlefront",
+      "id": "STAR WARS Battlefront",
+      "fullpath": "STAR WARS Battlefront",
+      "name": "STAR WARS Battlefront",
       "year": "2020",
       "publisher": "Electronic Arts",
       "genre": "Action; Adventure; Strategy",
       "rating": "Not Rated"
     },
     {
-      "id": "STAR WARS™: Dark Forces Remaster",
-      "fullpath": "STAR WARS™: Dark Forces Remaster",
-      "name": "STAR WARS™: Dark Forces Remaster",
+      "id": "STAR WARS: Dark Forces Remaster",
+      "fullpath": "STAR WARS: Dark Forces Remaster",
+      "name": "STAR WARS: Dark Forces Remaster",
       "year": "2024",
       "publisher": "Nightdive Studios",
       "genre": "Action",
@@ -4223,9 +4232,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Street Fighter® IV",
-      "fullpath": "Street Fighter® IV",
-      "name": "Street Fighter® IV",
+      "id": "Street Fighter IV",
+      "fullpath": "Street Fighter IV",
+      "name": "Street Fighter IV",
       "year": "2009",
       "publisher": "Capcom",
       "genre": "Action",
@@ -4385,18 +4394,18 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Tetris® Effect: Connected",
-      "fullpath": "Tetris® Effect: Connected",
-      "name": "Tetris® Effect: Connected",
+      "id": "Tetris Effect: Connected",
+      "fullpath": "Tetris Effect: Connected",
+      "name": "Tetris Effect: Connected",
       "year": "2021",
       "publisher": "Enhance",
       "genre": "Casual; Indie",
       "rating": "Not Rated"
     },
     {
-      "id": "The Callisto Protocol™",
-      "fullpath": "The Callisto Protocol™",
-      "name": "The Callisto Protocol™",
+      "id": "The Callisto Protocol",
+      "fullpath": "The Callisto Protocol",
+      "name": "The Callisto Protocol",
       "year": "2022",
       "publisher": "KRAFTON, Inc.",
       "genre": "Action; Adventure",
@@ -4412,9 +4421,9 @@
       "rating": "T - Teen"
     },
     {
-      "id": "The Crew™ 2",
-      "fullpath": "The Crew™ 2",
-      "name": "The Crew™ 2",
+      "id": "The Crew 2",
+      "fullpath": "The Crew 2",
+      "name": "The Crew 2",
       "year": "2018",
       "publisher": "Ubisoft",
       "genre": "Action; Massively Multiplayer; Racing",
@@ -4484,9 +4493,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "The Last of Us™ Part I",
-      "fullpath": "The Last of Us™ Part I",
-      "name": "The Last of Us™ Part I",
+      "id": "The Last of Us Part I",
+      "fullpath": "The Last of Us Part I",
+      "name": "The Last of Us Part I",
       "year": "2023",
       "publisher": "PlayStation Publishing LLC",
       "genre": "Action; Adventure",
@@ -4610,9 +4619,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Titanfall® 2",
-      "fullpath": "Titanfall® 2",
-      "name": "Titanfall® 2",
+      "id": "Titanfall 2",
+      "fullpath": "Titanfall 2",
+      "name": "Titanfall 2",
       "year": "2020",
       "publisher": "Electronic Arts",
       "genre": "Action",
@@ -4637,27 +4646,27 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Tom Clancy's Splinter Cell Chaos Theory®",
-      "fullpath": "Tom Clancy's Splinter Cell Chaos Theory®",
-      "name": "Tom Clancy's Splinter Cell Chaos Theory®",
+      "id": "Tom Clancy's Splinter Cell Chaos Theory",
+      "fullpath": "Tom Clancy's Splinter Cell Chaos Theory",
+      "name": "Tom Clancy's Splinter Cell Chaos Theory",
       "year": "2005",
       "publisher": "Ubisoft",
       "genre": "Action",
       "rating": "M - Mature"
     },
     {
-      "id": "Tom Clancy's Splinter Cell Conviction™",
-      "fullpath": "Tom Clancy's Splinter Cell Conviction™",
-      "name": "Tom Clancy's Splinter Cell Conviction™",
+      "id": "Tom Clancy's Splinter Cell Conviction",
+      "fullpath": "Tom Clancy's Splinter Cell Conviction",
+      "name": "Tom Clancy's Splinter Cell Conviction",
       "year": "2010",
       "publisher": "Ubisoft",
       "genre": "Action",
       "rating": "M - Mature"
     },
     {
-      "id": "Tom Clancy's Splinter Cell Double Agent®",
-      "fullpath": "Tom Clancy's Splinter Cell Double Agent®",
-      "name": "Tom Clancy's Splinter Cell Double Agent®",
+      "id": "Tom Clancy's Splinter Cell Double Agent",
+      "fullpath": "Tom Clancy's Splinter Cell Double Agent",
+      "name": "Tom Clancy's Splinter Cell Double Agent",
       "year": "2006",
       "publisher": "Ubisoft",
       "genre": "Action; Stealth",
@@ -4673,9 +4682,9 @@
       "rating": "T - Teen"
     },
     {
-      "id": "Tom Clancy's Splinter Cell®",
-      "fullpath": "Tom Clancy's Splinter Cell®",
-      "name": "Tom Clancy's Splinter Cell®",
+      "id": "Tom Clancy's Splinter Cell",
+      "fullpath": "Tom Clancy's Splinter Cell",
+      "name": "Tom Clancy's Splinter Cell",
       "year": "2008",
       "publisher": "Ubisoft",
       "genre": "Action",
@@ -4709,18 +4718,18 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Tony Hawk's™ Pro Skater™ 1 + 2",
-      "fullpath": "Tony Hawk's™ Pro Skater™ 1 + 2",
-      "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
+      "id": "Tony Hawk's Pro Skater 1 + 2",
+      "fullpath": "Tony Hawk's Pro Skater 1 + 2",
+      "name": "Tony Hawk's Pro Skater 1 + 2",
       "year": "2023",
       "publisher": "Activision",
       "genre": "Sports",
       "rating": "Not Rated"
     },
     {
-      "id": "Tony Hawk's™ Pro Skater™ 3 + 4",
-      "fullpath": "Tony Hawk's™ Pro Skater™ 3 + 4",
-      "name": "Tony Hawk's™ Pro Skater™ 3 + 4",
+      "id": "Tony Hawk's Pro Skater 3 + 4",
+      "fullpath": "Tony Hawk's Pro Skater 3 + 4",
+      "name": "Tony Hawk's Pro Skater 3 + 4",
       "year": "2025",
       "publisher": "Activision",
       "genre": "Sports",
@@ -4817,9 +4826,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "UNCHARTED™: Legacy of Thieves Collection",
-      "fullpath": "UNCHARTED™: Legacy of Thieves Collection",
-      "name": "UNCHARTED™: Legacy of Thieves Collection",
+      "id": "UNCHARTED: Legacy of Thieves Collection",
+      "fullpath": "UNCHARTED: Legacy of Thieves Collection",
+      "name": "UNCHARTED: Legacy of Thieves Collection",
       "year": "2022",
       "publisher": "PlayStation Publishing LLC",
       "genre": "Adventure",
@@ -4862,9 +4871,9 @@
       "rating": "Not Rated"
     },
     {
-      "id": "Vampire: The Masquerade® - Bloodlines™ 2",
-      "fullpath": "Vampire: The Masquerade® - Bloodlines™ 2",
-      "name": "Vampire: The Masquerade® - Bloodlines™ 2",
+      "id": "Vampire: The Masquerade - Bloodlines 2",
+      "fullpath": "Vampire: The Masquerade - Bloodlines 2",
+      "name": "Vampire: The Masquerade - Bloodlines 2",
       "year": "2025",
       "publisher": "Paradox Interactive",
       "genre": "Action; RPG",
@@ -5102,6 +5111,3606 @@
       "year": "2019",
       "publisher": "Akaoni Studio",
       "genre": "Action; Adventure; Casual; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "10 Second Ninja X",
+      "fullpath": "10 Second Ninja X",
+      "name": "10 Second Ninja X",
+      "year": "2016",
+      "publisher": "Curve Games",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ori and the Blind Forest",
+      "fullpath": "Ori and the Blind Forest",
+      "name": "Ori and the Blind Forest",
+      "year": "2015",
+      "publisher": "Xbox Game Studios",
+      "genre": "Action",
+      "rating": "5"
+    },
+    {
+      "id": "REANIMAL",
+      "fullpath": "REANIMAL",
+      "name": "REANIMAL",
+      "year": "2026",
+      "publisher": "THQ Nordic, Amplifier Studios",
+      "genre": "Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "Mutant Football League Dynasty Edition Snuffalo Thrills",
+      "fullpath": "Mutant Football League Dynasty Edition Snuffalo Thrills",
+      "name": "Mutant Football League Dynasty Edition Snuffalo Thrills",
+      "year": "2017",
+      "publisher": "Digital Dreams Entertainment",
+      "genre": "Action; Indie; Sports",
+      "rating": "5"
+    },
+    {
+      "id": "Far Cry 4",
+      "fullpath": "Far Cry 4",
+      "name": "Far Cry 4",
+      "year": "2014",
+      "publisher": "Ubisoft",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "Dead Cells: Fatal Falls",
+      "fullpath": "Dead Cells: Fatal Falls",
+      "name": "Dead Cells: Fatal Falls",
+      "year": "2021",
+      "publisher": "Motion Twin",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Poppy Playtime Chapter 3",
+      "fullpath": "Poppy Playtime Chapter 3",
+      "name": "Poppy Playtime Chapter 3",
+      "year": "2024",
+      "publisher": "Mob Entertainment",
+      "genre": "",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Assetto Corsa EVO",
+      "fullpath": "Assetto Corsa EVO",
+      "name": "Assetto Corsa EVO",
+      "year": "2025",
+      "publisher": "505 Games",
+      "genre": "Racing; Simulation; Sports; Early Access",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mika and The Witch's Mountain",
+      "fullpath": "Mika and The Witch's Mountain",
+      "name": "Mika and The Witch's Mountain",
+      "year": "2025",
+      "publisher": "Chibig",
+      "genre": "Action/ Adventure, Casual, Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blasphemous",
+      "fullpath": "Blasphemous",
+      "name": "Blasphemous",
+      "year": "2019",
+      "publisher": "Team17",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sundered Eldritch Edition",
+      "fullpath": "Sundered Eldritch Edition",
+      "name": "Sundered Eldritch Edition",
+      "year": "2017",
+      "publisher": "Thunder Lotus",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Kung Fury: Street Rage: Ultimate Edition",
+      "fullpath": "Kung Fury: Street Rage: Ultimate Edition",
+      "name": "Kung Fury: Street Rage: Ultimate Edition",
+      "year": "2015",
+      "publisher": "Hello There Games",
+      "genre": "Beat 'em Up",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Oniken",
+      "fullpath": "Oniken",
+      "name": "Oniken",
+      "year": "2014",
+      "publisher": "JoyMasher",
+      "genre": "Action; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Yakuza 2 Kiwami",
+      "fullpath": "Yakuza 2 Kiwami",
+      "name": "Yakuza 2 Kiwami",
+      "year": "2025",
+      "publisher": "SEGA",
+      "genre": "Action; Adventure; RPG",
+      "rating": "3"
+    },
+    {
+      "id": "Tom Clancy's Ghost Recon: Future Soldier",
+      "fullpath": "Tom Clancy's Ghost Recon: Future Soldier",
+      "name": "Tom Clancy's Ghost Recon: Future Soldier",
+      "year": "2012",
+      "publisher": "Ubisoft",
+      "genre": "Shooter",
+      "rating": "4"
+    },
+    {
+      "id": "Lara Croft and the Guardian of Light",
+      "fullpath": "Lara Croft and the Guardian of Light",
+      "name": "Lara Croft and the Guardian of Light",
+      "year": "2010",
+      "publisher": "Crystal Dynamics",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Minecraft: Bedrock Edition",
+      "fullpath": "Minecraft: Bedrock Edition",
+      "name": "Minecraft: Bedrock Edition",
+      "year": "2015",
+      "publisher": "Microsoft Studios",
+      "genre": "Adventure; Platform; Sandbox",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pac-Man: Championship Edition 2",
+      "fullpath": "Pac-Man: Championship Edition 2",
+      "name": "Pac-Man: Championship Edition 2",
+      "year": "2016",
+      "publisher": "BANDAI NAMCO Entertainment America",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Journey",
+      "fullpath": "Journey",
+      "name": "Journey",
+      "year": "2020",
+      "publisher": "Annapurna Interactive",
+      "genre": "Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "8-bit Adventure Anthology: Volume I",
+      "fullpath": "8-bit Adventure Anthology: Volume I",
+      "name": "8-bit Adventure Anthology: Volume I",
+      "year": "2017",
+      "publisher": "Abstraction Games",
+      "genre": "Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "BDSM: Big Drunk Satanic Massacre",
+      "fullpath": "BDSM: Big Drunk Satanic Massacre",
+      "name": "BDSM: Big Drunk Satanic Massacre",
+      "year": "2019",
+      "publisher": "Big Way Games",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Halo: Spartan Assault",
+      "fullpath": "Halo: Spartan Assault",
+      "name": "Halo: Spartan Assault",
+      "year": "2014",
+      "publisher": "Xbox Game Studios",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Pixel Cup Soccer Ultimate Edition",
+      "fullpath": "Pixel Cup Soccer Ultimate Edition",
+      "name": "Pixel Cup Soccer Ultimate Edition",
+      "year": "2022",
+      "publisher": "BATOVI Games",
+      "genre": "Action; Casual; Indie; Simulation; Sports",
+      "rating": "4"
+    },
+    {
+      "id": "Orcs Must Die! Deathtrap",
+      "fullpath": "Orcs Must Die! Deathtrap",
+      "name": "Orcs Must Die! Deathtrap",
+      "year": "2025",
+      "publisher": "Robot Entertainment",
+      "genre": "Action; Indie; Strategy",
+      "rating": "4"
+    },
+    {
+      "id": "Giana Sisters: Dream Runners",
+      "fullpath": "Giana Sisters: Dream Runners",
+      "name": "Giana Sisters: Dream Runners",
+      "year": "2015",
+      "publisher": "EuroVideo Medien",
+      "genre": "Action; Platform",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Bomberman R",
+      "fullpath": "Super Bomberman R",
+      "name": "Super Bomberman R",
+      "year": "2018",
+      "publisher": "Konami",
+      "genre": "Action; Puzzle",
+      "rating": "3"
+    },
+    {
+      "id": "ALLTYNEX Second",
+      "fullpath": "ALLTYNEX Second",
+      "name": "ALLTYNEX Second",
+      "year": "2014",
+      "publisher": "Henteko Doujin",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Volgarr The Viking II",
+      "fullpath": "Volgarr The Viking II",
+      "name": "Volgarr The Viking II",
+      "year": "2024",
+      "publisher": "Digital Eclipse",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Narita Boy",
+      "fullpath": "Narita Boy",
+      "name": "Narita Boy",
+      "year": "2021",
+      "publisher": "Team17",
+      "genre": "Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Endless Memories",
+      "fullpath": "Endless Memories",
+      "name": "Endless Memories",
+      "year": "2022",
+      "publisher": "Clickteam",
+      "genre": "Action; Role-Playing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Rad Rodgers World One",
+      "fullpath": "Rad Rodgers World One",
+      "name": "Rad Rodgers World One",
+      "year": "2016",
+      "publisher": "HandyGames, 3D Realms",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "World of Final Fantasy",
+      "fullpath": "World of Final Fantasy",
+      "name": "World of Final Fantasy",
+      "year": "2017",
+      "publisher": "Square Enix",
+      "genre": "RPG",
+      "rating": "4"
+    },
+    {
+      "id": "Alien Breed 2: Assault",
+      "fullpath": "Alien Breed 2: Assault",
+      "name": "Alien Breed 2: Assault",
+      "year": "2010",
+      "publisher": "Team17 Digital Ltd",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cake Bash",
+      "fullpath": "Cake Bash",
+      "name": "Cake Bash",
+      "year": "2020",
+      "publisher": "Coatsink",
+      "genre": "Action; Casual; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dust: An Elysian Tail",
+      "fullpath": "Dust: An Elysian Tail",
+      "name": "Dust: An Elysian Tail",
+      "year": "2013",
+      "publisher": "Xbox Game Studios",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Poppy Playtime Chapter 2",
+      "fullpath": "Poppy Playtime Chapter 2",
+      "name": "Poppy Playtime Chapter 2",
+      "year": "2022",
+      "publisher": "Mob Entertainment",
+      "genre": "Action, Adventure, Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dog Man: Mission Impawsible",
+      "fullpath": "Dog Man: Mission Impawsible",
+      "name": "Dog Man: Mission Impawsible",
+      "year": "2024",
+      "publisher": "Mindscape",
+      "genre": "Action; Adventure; Casual",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Slipstream",
+      "fullpath": "Slipstream",
+      "name": "Slipstream",
+      "year": "2018",
+      "publisher": "ansdor",
+      "genre": "Casual; Indie; Racing",
+      "rating": "5"
+    },
+    {
+      "id": "Nine Parchments",
+      "fullpath": "Nine Parchments",
+      "name": "Nine Parchments",
+      "year": "2017",
+      "publisher": "Frozenbyte",
+      "genre": "Action; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "Jitsu Squad",
+      "fullpath": "Jitsu Squad",
+      "name": "Jitsu Squad",
+      "year": "2022",
+      "publisher": "Tanuki Creative Studio",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Worms W.M.D",
+      "fullpath": "Worms W.M.D",
+      "name": "Worms W.M.D",
+      "year": "2016",
+      "publisher": "Team17",
+      "genre": "Action; Strategy",
+      "rating": "4"
+    },
+    {
+      "id": "Space Invaders Deck Commander",
+      "fullpath": "Space Invaders Deck Commander",
+      "name": "Space Invaders Deck Commander",
+      "year": "2024",
+      "publisher": "Rock It Games",
+      "genre": "Action, Indie, Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Tomba! 2: The Evil Swine Return Special Edition",
+      "fullpath": "Tomba! 2: The Evil Swine Return Special Edition",
+      "name": "Tomba! 2: The Evil Swine Return Special Edition",
+      "year": "2025",
+      "publisher": "Limited Run Games",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Child of Light",
+      "fullpath": "Child of Light",
+      "name": "Child of Light",
+      "year": "2014",
+      "publisher": "Ubisoft",
+      "genre": "Platform; Role-Playing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "JYDGE",
+      "fullpath": "JYDGE",
+      "name": "JYDGE",
+      "year": "2017",
+      "publisher": "10tons",
+      "genre": "Action; Shooter; Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Guntech 2",
+      "fullpath": "Guntech 2",
+      "name": "Guntech 2",
+      "year": "2022",
+      "publisher": "Utopos Games",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Retro Endurance",
+      "fullpath": "Retro Endurance",
+      "name": "Retro Endurance",
+      "year": "2025",
+      "publisher": "zsKnight",
+      "genre": "Action; Adventure; Casual; Indie; Racing; RPG; Strategy; Early Access",
+      "rating": "5"
+    },
+    {
+      "id": "Ninja Gaiden Sigma",
+      "fullpath": "Ninja Gaiden Sigma",
+      "name": "Ninja Gaiden Sigma",
+      "year": "2021",
+      "publisher": "Koei Tecmo Games",
+      "genre": "Action; Adventure; Beat 'em Up",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Yakuza: Like A Dragon",
+      "fullpath": "Yakuza: Like A Dragon",
+      "name": "Yakuza: Like A Dragon",
+      "year": "2020",
+      "publisher": "SEGA",
+      "genre": "Action; Adventure; RPG",
+      "rating": "5"
+    },
+    {
+      "id": "Bamerang",
+      "fullpath": "Bamerang",
+      "name": "Bamerang",
+      "year": "2021",
+      "publisher": "Lululu Entertainment",
+      "genre": "Action; Casual; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "INAYAH - Life after Gods",
+      "fullpath": "INAYAH - Life after Gods",
+      "name": "INAYAH - Life after Gods",
+      "year": "2025",
+      "publisher": "Headup",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Duke Nukem 3D: 20th Anniversary World Tour",
+      "fullpath": "Duke Nukem 3D: 20th Anniversary World Tour",
+      "name": "Duke Nukem 3D: 20th Anniversary World Tour",
+      "year": "2016",
+      "publisher": "Gearbox Publishing",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Brutal Legend",
+      "fullpath": "Brutal Legend",
+      "name": "Brutal Legend",
+      "year": "2013",
+      "publisher": "Double Fine Productions",
+      "genre": "Action; Adventure; Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Killing Floor 3",
+      "fullpath": "Killing Floor 3",
+      "name": "Killing Floor 3",
+      "year": "2025",
+      "publisher": "Tripwire Interactive",
+      "genre": "Action; Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mafia Definitive Edition",
+      "fullpath": "Mafia Definitive Edition",
+      "name": "Mafia Definitive Edition",
+      "year": "2020",
+      "publisher": "2K",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "Screamer",
+      "fullpath": "Screamer",
+      "name": "Screamer",
+      "year": "2026",
+      "publisher": "Milestone S.r.l.",
+      "genre": "Racing",
+      "rating": "4"
+    },
+    {
+      "id": "Giana Sisters: Twisted Dreams - Rise of the Owlverlord",
+      "fullpath": "Giana Sisters: Twisted Dreams - Rise of the Owlverlord",
+      "name": "Giana Sisters: Twisted Dreams - Rise of the Owlverlord",
+      "year": "2013",
+      "publisher": "HandyGames",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Power Sink",
+      "fullpath": "Power Sink",
+      "name": "Power Sink",
+      "year": "2025",
+      "publisher": "Winterwire Games",
+      "genre": "Adventure; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "Street Fighter 30th Anniversary Collection",
+      "fullpath": "Street Fighter 30th Anniversary Collection",
+      "name": "Street Fighter 30th Anniversary Collection",
+      "year": "2018",
+      "publisher": "Capcom U.S.A, Inc.",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Borderlands 2",
+      "fullpath": "Borderlands 2",
+      "name": "Borderlands 2",
+      "year": "2012",
+      "publisher": "2K",
+      "genre": "Action; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Stranger Things 3: The Game",
+      "fullpath": "Stranger Things 3: The Game",
+      "name": "Stranger Things 3: The Game",
+      "year": "2019",
+      "publisher": "BonusXP",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Legend of Korra",
+      "fullpath": "The Legend of Korra",
+      "name": "The Legend of Korra",
+      "year": "2014",
+      "publisher": "Activision",
+      "genre": "Beat 'em Up",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Trackmania Turbo",
+      "fullpath": "Trackmania Turbo",
+      "name": "Trackmania Turbo",
+      "year": "2016",
+      "publisher": "Ubisoft",
+      "genre": "Massively Multiplayer; Racing",
+      "rating": "3"
+    },
+    {
+      "id": "Grim Fandango Remastered",
+      "fullpath": "Grim Fandango Remastered",
+      "name": "Grim Fandango Remastered",
+      "year": "2015",
+      "publisher": "Double Fine Productions",
+      "genre": "Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Joe Danger",
+      "fullpath": "Joe Danger",
+      "name": "Joe Danger",
+      "year": "2013",
+      "publisher": "Hello Games",
+      "genre": "Action; Casual; Indie; Racing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dungeon Defenders",
+      "fullpath": "Dungeon Defenders",
+      "name": "Dungeon Defenders",
+      "year": "2011",
+      "publisher": "Chromatic Games",
+      "genre": "Action; Indie; RPG; Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "UnderMine",
+      "fullpath": "UnderMine",
+      "name": "UnderMine",
+      "year": "2020",
+      "publisher": "Thorium",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "5"
+    },
+    {
+      "id": "New Tales from the Borderlands",
+      "fullpath": "New Tales from the Borderlands",
+      "name": "New Tales from the Borderlands",
+      "year": "2022",
+      "publisher": "2K",
+      "genre": "Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "COTTON REBOOT!",
+      "fullpath": "COTTON REBOOT!",
+      "name": "COTTON REBOOT!",
+      "year": "2021",
+      "publisher": "BEEP",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bubble Bobble Sugar Dungeons",
+      "fullpath": "Bubble Bobble Sugar Dungeons",
+      "name": "Bubble Bobble Sugar Dungeons",
+      "year": "2025",
+      "publisher": "TAITO CORP., Arc System Works",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neon Chrome",
+      "fullpath": "Neon Chrome",
+      "name": "Neon Chrome",
+      "year": "2016",
+      "publisher": "10tons Ltd",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "5"
+    },
+    {
+      "id": "Fallout 4",
+      "fullpath": "Fallout 4",
+      "name": "Fallout 4",
+      "year": "2015",
+      "publisher": "Bethesda Softworks",
+      "genre": "Action; Role-Playing; Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Warp Drive",
+      "fullpath": "Warp Drive",
+      "name": "Warp Drive",
+      "year": "2020",
+      "publisher": "Supergonk",
+      "genre": "Indie; Racing; Sports",
+      "rating": "3"
+    },
+    {
+      "id": "Ray's The Dead",
+      "fullpath": "Ray's The Dead",
+      "name": "Ray's The Dead",
+      "year": "2020",
+      "publisher": "Ragtag Studio",
+      "genre": "Action; Adventure; Indie; Strategy",
+      "rating": "3"
+    },
+    {
+      "id": "Battletoads",
+      "fullpath": "Battletoads",
+      "name": "Battletoads",
+      "year": "2020",
+      "publisher": "Microsoft Studios",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sonic Unleashed",
+      "fullpath": "Sonic Unleashed",
+      "name": "Sonic Unleashed",
+      "year": "2025",
+      "publisher": "",
+      "genre": "Action; Platform",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mega Man Legacy Collection",
+      "fullpath": "Mega Man Legacy Collection",
+      "name": "Mega Man Legacy Collection",
+      "year": "2015",
+      "publisher": "Capcom",
+      "genre": "Compilation",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Poppy Playtime Chapter 5",
+      "fullpath": "Poppy Playtime Chapter 5",
+      "name": "Poppy Playtime Chapter 5",
+      "year": "2026",
+      "publisher": "Mob Entertainment",
+      "genre": "Action, Adventure, Indie",
+      "rating": "3"
+    },
+    {
+      "id": "Streets of Rage 4",
+      "fullpath": "Streets of Rage 4",
+      "name": "Streets of Rage 4",
+      "year": "2020",
+      "publisher": "Dotemu",
+      "genre": "Action; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "Morbid: The Seven Acolytes",
+      "fullpath": "Morbid: The Seven Acolytes",
+      "name": "Morbid: The Seven Acolytes",
+      "year": "2020",
+      "publisher": "Silver Lining Interactive",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "Circuit Superstars",
+      "fullpath": "Circuit Superstars",
+      "name": "Circuit Superstars",
+      "year": "2021",
+      "publisher": "Square Enix",
+      "genre": "Racing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Atari Vault",
+      "fullpath": "Atari Vault",
+      "name": "Atari Vault",
+      "year": "2016",
+      "publisher": "Atari",
+      "genre": "Action; Adventure; Casual; Racing; RPG; Sports; Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dark Quest 2",
+      "fullpath": "Dark Quest 2",
+      "name": "Dark Quest 2",
+      "year": "2018",
+      "publisher": "Brain Seal Ltd",
+      "genre": "Indie; RPG; Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Corridor Z",
+      "fullpath": "Corridor Z",
+      "name": "Corridor Z",
+      "year": "2018",
+      "publisher": "We Dig Games",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "GODS Remastered",
+      "fullpath": "GODS Remastered",
+      "name": "GODS Remastered",
+      "year": "2018",
+      "publisher": "Robot Riot UG (haftungsbeschränkt)",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Intrusion 2",
+      "fullpath": "Intrusion 2",
+      "name": "Intrusion 2",
+      "year": "2012",
+      "publisher": "Aleksey Abramenko",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neuro Voider",
+      "fullpath": "Neuro Voider",
+      "name": "Neuro Voider",
+      "year": "2016",
+      "publisher": "Dear Villagers",
+      "genre": "Action; Indie; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "Battlefield 6",
+      "fullpath": "Battlefield 6",
+      "name": "Battlefield 6",
+      "year": "2025",
+      "publisher": "Electronic Arts",
+      "genre": "Action; Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "VirtuaVerse",
+      "fullpath": "VirtuaVerse",
+      "name": "VirtuaVerse",
+      "year": "2020",
+      "publisher": "Blood Music",
+      "genre": "Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Curse of the Dead Gods",
+      "fullpath": "Curse of the Dead Gods",
+      "name": "Curse of the Dead Gods",
+      "year": "2021",
+      "publisher": "Focus Entertainment",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alwa's Legacy",
+      "fullpath": "Alwa's Legacy",
+      "name": "Alwa's Legacy",
+      "year": "2020",
+      "publisher": "Elden Pixels",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Iridium",
+      "fullpath": "Iridium",
+      "name": "Iridium",
+      "year": "2020",
+      "publisher": "Nebula-Design",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Turok: Dinosaur Hunter",
+      "fullpath": "Turok: Dinosaur Hunter",
+      "name": "Turok: Dinosaur Hunter",
+      "year": "1997",
+      "publisher": "Acclaim Entertainment",
+      "genre": "Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Demoniaca: Everlasting Night",
+      "fullpath": "Demoniaca: Everlasting Night",
+      "name": "Demoniaca: Everlasting Night",
+      "year": "2019",
+      "publisher": "Demon Girl",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Doodle Jump",
+      "fullpath": "Doodle Jump",
+      "name": "Doodle Jump",
+      "year": "2010",
+      "publisher": "Lima Sky",
+      "genre": "Platform",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "PAC-MAN Museum",
+      "fullpath": "PAC-MAN Museum",
+      "name": "PAC-MAN Museum",
+      "year": "2022",
+      "publisher": "Bandai Namco Entertainment",
+      "genre": "Action; Casual",
+      "rating": "5"
+    },
+    {
+      "id": "Cairn",
+      "fullpath": "Cairn",
+      "name": "Cairn",
+      "year": "2026",
+      "publisher": "The Game Bakers",
+      "genre": "Action; Adventure; Indie; Simulation; Sports",
+      "rating": "5"
+    },
+    {
+      "id": "Big Rumble Boxing: Creed Champions",
+      "fullpath": "Big Rumble Boxing: Creed Champions",
+      "name": "Big Rumble Boxing: Creed Champions",
+      "year": "2021",
+      "publisher": "Survios",
+      "genre": "Action; Sports",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Skul",
+      "fullpath": "Skul",
+      "name": "Skul",
+      "year": "2021",
+      "publisher": "NEOWIZ",
+      "genre": "Action; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "Capcom Arcade Stadium",
+      "fullpath": "Capcom Arcade Stadium",
+      "name": "Capcom Arcade Stadium",
+      "year": "2021",
+      "publisher": "CAPCOM Co., Ltd.",
+      "genre": "Action; Free To Play",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Okinawa Rush",
+      "fullpath": "Okinawa Rush",
+      "name": "Okinawa Rush",
+      "year": "2021",
+      "publisher": "Sokaikan ltd",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Tunic",
+      "fullpath": "Tunic",
+      "name": "Tunic",
+      "year": "2022",
+      "publisher": "Finji",
+      "genre": "Action; Adventure; RPG",
+      "rating": "5"
+    },
+    {
+      "id": "Asteroids: Recharged",
+      "fullpath": "Asteroids: Recharged",
+      "name": "Asteroids: Recharged",
+      "year": "2021",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Guns, Gore & Cannoli",
+      "fullpath": "Guns, Gore & Cannoli",
+      "name": "Guns, Gore & Cannoli",
+      "year": "2015",
+      "publisher": "Rogueside",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "198X",
+      "fullpath": "198X",
+      "name": "198X",
+      "year": "2019",
+      "publisher": "Hi-Bit Studios",
+      "genre": "Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Akane",
+      "fullpath": "Akane",
+      "name": "Akane",
+      "year": "2018",
+      "publisher": "Ludic Studios",
+      "genre": "Action; Casual; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Unruly Heroes",
+      "fullpath": "Unruly Heroes",
+      "name": "Unruly Heroes",
+      "year": "2019",
+      "publisher": "Magic Design Studios",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Rival Megagun",
+      "fullpath": "Rival Megagun",
+      "name": "Rival Megagun",
+      "year": "2018",
+      "publisher": "KOMODO",
+      "genre": "Indie",
+      "rating": "5"
+    },
+    {
+      "id": "Chasm",
+      "fullpath": "Chasm",
+      "name": "Chasm",
+      "year": "2018",
+      "publisher": "Bit Kid, Inc.",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shovel Knight",
+      "fullpath": "Shovel Knight",
+      "name": "Shovel Knight",
+      "year": "2014",
+      "publisher": "Yacht Club Games",
+      "genre": "Action; Adventure; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "Major Mayhem",
+      "fullpath": "Major Mayhem",
+      "name": "Major Mayhem",
+      "year": "2014",
+      "publisher": "Rocket Jump",
+      "genre": "Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alien Breed 3: Descent",
+      "fullpath": "Alien Breed 3: Descent",
+      "name": "Alien Breed 3: Descent",
+      "year": "2010",
+      "publisher": "Team17 Digital Ltd",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "New Super Lucky's Tale",
+      "fullpath": "New Super Lucky's Tale",
+      "name": "New Super Lucky's Tale",
+      "year": "2020",
+      "publisher": "Playful Corp.",
+      "genre": "Action; Adventure",
+      "rating": "5"
+    },
+    {
+      "id": "PAC-MAN 256",
+      "fullpath": "PAC-MAN 256",
+      "name": "PAC-MAN 256",
+      "year": "2016",
+      "publisher": "Bandai Namco Entertainment",
+      "genre": "Action",
+      "rating": "5"
+    },
+    {
+      "id": "NINJA HAYATE HD Remaster",
+      "fullpath": "NINJA HAYATE HD Remaster",
+      "name": "NINJA HAYATE HD Remaster",
+      "year": "2025",
+      "publisher": "TAITO CORP.",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Fallout: New Vegas",
+      "fullpath": "Fallout: New Vegas",
+      "name": "Fallout: New Vegas",
+      "year": "2010",
+      "publisher": "Bethesda Softworks",
+      "genre": "Action; Adventure; Role-Playing; Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Batbarian: Testament of the Primordials",
+      "fullpath": "Batbarian: Testament of the Primordials",
+      "name": "Batbarian: Testament of the Primordials",
+      "year": "2020",
+      "publisher": "DANGEN Entertainment",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SNK 40th Collection",
+      "fullpath": "SNK 40th Collection",
+      "name": "SNK 40th Collection",
+      "year": "2019",
+      "publisher": "SNK CORPORATION",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Tomba! Special Edition",
+      "fullpath": "Tomba! Special Edition",
+      "name": "Tomba! Special Edition",
+      "year": "2024",
+      "publisher": "Limited Run Games",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Oceanhorn: Monster of Uncharted Seas",
+      "fullpath": "Oceanhorn: Monster of Uncharted Seas",
+      "name": "Oceanhorn: Monster of Uncharted Seas",
+      "year": "2015",
+      "publisher": "Cornfox & Bros",
+      "genre": "Action; Adventure; Role-Playing",
+      "rating": "4"
+    },
+    {
+      "id": "Blizzard Arcade Collection",
+      "fullpath": "Blizzard Arcade Collection",
+      "name": "Blizzard Arcade Collection",
+      "year": "2021",
+      "publisher": "Blizzard Entertainment",
+      "genre": "Compilation",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shank 2",
+      "fullpath": "Shank 2",
+      "name": "Shank 2",
+      "year": "2012",
+      "publisher": "Klei Entertainment",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "DriftOn",
+      "fullpath": "DriftOn",
+      "name": "DriftOn",
+      "year": "2020",
+      "publisher": "SPokDev",
+      "genre": "Racing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Berzerk: Recharged",
+      "fullpath": "Berzerk: Recharged",
+      "name": "Berzerk: Recharged",
+      "year": "2023",
+      "publisher": "Atari",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Black Widow: Recharged",
+      "fullpath": "Black Widow: Recharged",
+      "name": "Black Widow: Recharged",
+      "year": "2021",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Giana Sisters 2D",
+      "fullpath": "Giana Sisters 2D",
+      "name": "Giana Sisters 2D",
+      "year": "2015",
+      "publisher": "HandyGames",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Namco Museum Archives Volume 1",
+      "fullpath": "Namco Museum Archives Volume 1",
+      "name": "Namco Museum Archives Volume 1",
+      "year": "2020",
+      "publisher": "BANDAI NAMCO Entertainment",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "AeternoBlade",
+      "fullpath": "AeternoBlade",
+      "name": "AeternoBlade",
+      "year": "2020",
+      "publisher": "Corecell Technology Co.,Ltd",
+      "genre": "Action; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ocean's Heart",
+      "fullpath": "Ocean's Heart",
+      "name": "Ocean's Heart",
+      "year": "2021",
+      "publisher": "Nordcurrent Labs",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "DRAGON BALL FighterZ",
+      "fullpath": "DRAGON BALL FighterZ",
+      "name": "DRAGON BALL FighterZ",
+      "year": "2018",
+      "publisher": "Bandai Namco Entertainment",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mortal Kombat: Komplete Edition",
+      "fullpath": "Mortal Kombat: Komplete Edition",
+      "name": "Mortal Kombat: Komplete Edition",
+      "year": "2013",
+      "publisher": "Warner Bros. Interactive Entertainment",
+      "genre": "Fighting",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cyber Hook",
+      "fullpath": "Cyber Hook",
+      "name": "Cyber Hook",
+      "year": "2020",
+      "publisher": "Graffiti Games",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Brigador: Up-Armored Edition",
+      "fullpath": "Brigador: Up-Armored Edition",
+      "name": "Brigador: Up-Armored Edition",
+      "year": "2016",
+      "publisher": "Stellar Jockeys",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shank",
+      "fullpath": "Shank",
+      "name": "Shank",
+      "year": "2010",
+      "publisher": "Klei Entertainment",
+      "genre": "Action; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "SteamWorld Dig 2",
+      "fullpath": "SteamWorld Dig 2",
+      "name": "SteamWorld Dig 2",
+      "year": "2017",
+      "publisher": "Image & Form Games",
+      "genre": "Action; Adventure; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "Nioh Complete Edition",
+      "fullpath": "Nioh Complete Edition",
+      "name": "Nioh Complete Edition",
+      "year": "2017",
+      "publisher": "KOEI TECMO GAMES CO., LTD.",
+      "genre": "Action; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "Breakout: Recharged",
+      "fullpath": "Breakout: Recharged",
+      "name": "Breakout: Recharged",
+      "year": "2022",
+      "publisher": "Atari",
+      "genre": "Action; Casual",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alien Breed: Impact",
+      "fullpath": "Alien Breed: Impact",
+      "name": "Alien Breed: Impact",
+      "year": "2010",
+      "publisher": "Team17 Digital Ltd",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Eldest Souls",
+      "fullpath": "Eldest Souls",
+      "name": "Eldest Souls",
+      "year": "2021",
+      "publisher": "United Label",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "Tomb Raider Anniversary",
+      "fullpath": "Tomb Raider Anniversary",
+      "name": "Tomb Raider Anniversary",
+      "year": "2007",
+      "publisher": "Crystal Dynamics",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "GUILTY GEAR -STRIVE-",
+      "fullpath": "GUILTY GEAR -STRIVE-",
+      "name": "GUILTY GEAR -STRIVE-",
+      "year": "2021",
+      "publisher": "Arc System Works",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Guns of Fury",
+      "fullpath": "Guns of Fury",
+      "name": "Guns of Fury",
+      "year": "2025",
+      "publisher": "Gelato Games Ltd",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hotshot Racing",
+      "fullpath": "Hotshot Racing",
+      "name": "Hotshot Racing",
+      "year": "2020",
+      "publisher": "Curve Games",
+      "genre": "Action; Indie; Racing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Natsuki Chronicles",
+      "fullpath": "Natsuki Chronicles",
+      "name": "Natsuki Chronicles",
+      "year": "2021",
+      "publisher": "Rising Star Games",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Mighty Switch Force! Collection",
+      "fullpath": "Mighty Switch Force! Collection",
+      "name": "Mighty Switch Force! Collection",
+      "year": "2019",
+      "publisher": "WayForward Technologies",
+      "genre": "Action; Platform; Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "God of War",
+      "fullpath": "God of War",
+      "name": "God of War",
+      "year": "2022",
+      "publisher": "PlayStation Publishing LLC",
+      "genre": "Action; Adventure; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Call of Duty Black Ops Cold War",
+      "fullpath": "Call of Duty Black Ops Cold War",
+      "name": "Call of Duty Black Ops Cold War",
+      "year": "2023",
+      "publisher": "Activision",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Neon Inferno",
+      "fullpath": "Neon Inferno",
+      "name": "Neon Inferno",
+      "year": "2025",
+      "publisher": "Retroware",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "High On Life 2",
+      "fullpath": "High On Life 2",
+      "name": "High On Life 2",
+      "year": "2026",
+      "publisher": "Squanch Games, Inc.",
+      "genre": "Action; Adventure",
+      "rating": "3"
+    },
+    {
+      "id": "Sonic Wings Reunion",
+      "fullpath": "Sonic Wings Reunion",
+      "name": "Sonic Wings Reunion",
+      "year": "2025",
+      "publisher": "SUCCESS Corp.",
+      "genre": "Action",
+      "rating": "3"
+    },
+    {
+      "id": "The Spirit of the Samurai",
+      "fullpath": "The Spirit of the Samurai",
+      "name": "The Spirit of the Samurai",
+      "year": "2024",
+      "publisher": "Kwalee",
+      "genre": "Action; Adventure; Indie",
+      "rating": "3"
+    },
+    {
+      "id": "Axiom Verge",
+      "fullpath": "Axiom Verge",
+      "name": "Axiom Verge",
+      "year": "2015",
+      "publisher": "Thomas Happ Games LLC",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ninja Kamui C",
+      "fullpath": "Ninja Kamui C",
+      "name": "Ninja Kamui C",
+      "year": "2024",
+      "publisher": "Rainmaker Productions",
+      "genre": "Action",
+      "rating": "5"
+    },
+    {
+      "id": "Bastion",
+      "fullpath": "Bastion",
+      "name": "Bastion",
+      "year": "2011",
+      "publisher": "Supergiant Games",
+      "genre": "Action; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Moon Dancer",
+      "fullpath": "Moon Dancer",
+      "name": "Moon Dancer",
+      "year": "2022",
+      "publisher": "TERARIN GAMES",
+      "genre": "Action; Casual; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "ELDEN RING NIGHTREIGN",
+      "fullpath": "ELDEN RING NIGHTREIGN",
+      "name": "ELDEN RING NIGHTREIGN",
+      "year": "2025",
+      "publisher": "FromSoftware, Inc.",
+      "genre": "Action; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shadow Complex: Remastered",
+      "fullpath": "Shadow Complex: Remastered",
+      "name": "Shadow Complex: Remastered",
+      "year": "2015",
+      "publisher": "Epic Games",
+      "genre": "Action; Adventure; Platform",
+      "rating": "4"
+    },
+    {
+      "id": "Super Blood Hockey",
+      "fullpath": "Super Blood Hockey",
+      "name": "Super Blood Hockey",
+      "year": "2017",
+      "publisher": "Loren Lemcke",
+      "genre": "Indie; Sports",
+      "rating": "5"
+    },
+    {
+      "id": "The Fall",
+      "fullpath": "The Fall",
+      "name": "The Fall",
+      "year": "2014",
+      "publisher": "Over The Moon",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Ultra Street Fighter IV",
+      "fullpath": "Ultra Street Fighter IV",
+      "name": "Ultra Street Fighter IV",
+      "year": "2014",
+      "publisher": "Capcom",
+      "genre": "Action",
+      "rating": "5"
+    },
+    {
+      "id": "Super Monkey Ball Banana Blitz HD",
+      "fullpath": "Super Monkey Ball Banana Blitz HD",
+      "name": "Super Monkey Ball Banana Blitz HD",
+      "year": "2019",
+      "publisher": "SEGA",
+      "genre": "Action",
+      "rating": "3"
+    },
+    {
+      "id": "Poppy Playtime",
+      "fullpath": "Poppy Playtime",
+      "name": "Poppy Playtime",
+      "year": "2021",
+      "publisher": "Mob Entertainment",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "KungFu Kickball",
+      "fullpath": "KungFu Kickball",
+      "name": "KungFu Kickball",
+      "year": "1900",
+      "publisher": "",
+      "genre": "",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Dirt 5",
+      "fullpath": "Dirt 5",
+      "name": "Dirt 5",
+      "year": "2020",
+      "publisher": "Codemasters, Electronic Arts",
+      "genre": "Action; Adventure; Casual; Racing; Sports",
+      "rating": "3"
+    },
+    {
+      "id": "Joe Danger 2: The Movie",
+      "fullpath": "Joe Danger 2: The Movie",
+      "name": "Joe Danger 2: The Movie",
+      "year": "2013",
+      "publisher": "Hello Games",
+      "genre": "Action; Casual; Indie; Racing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "My Hero Academia All's Justice",
+      "fullpath": "My Hero Academia All's Justice",
+      "name": "My Hero Academia All's Justice",
+      "year": "2026",
+      "publisher": "Bandai Namco Entertainment Inc.",
+      "genre": "Action",
+      "rating": "3"
+    },
+    {
+      "id": "Danger Scavenger",
+      "fullpath": "Danger Scavenger",
+      "name": "Danger Scavenger",
+      "year": "2021",
+      "publisher": "Star Drifters",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cyberpunk 2077",
+      "fullpath": "Cyberpunk 2077",
+      "name": "Cyberpunk 2077",
+      "year": "2020",
+      "publisher": "CD PROJEKT RED",
+      "genre": "RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Heaven Dust",
+      "fullpath": "Heaven Dust",
+      "name": "Heaven Dust",
+      "year": "2020",
+      "publisher": "indienova",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Metaphor: ReFantazio",
+      "fullpath": "Metaphor: ReFantazio",
+      "name": "Metaphor: ReFantazio",
+      "year": "2024",
+      "publisher": "SEGA",
+      "genre": "",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Trine 2: Complete Story",
+      "fullpath": "Trine 2: Complete Story",
+      "name": "Trine 2: Complete Story",
+      "year": "2013",
+      "publisher": "Frozenbyte",
+      "genre": "Action; Adventure; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "Nioh 3",
+      "fullpath": "Nioh 3",
+      "name": "Nioh 3",
+      "year": "2026",
+      "publisher": "KOEI TECMO GAMES CO., LTD.",
+      "genre": "Action; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "OutRun 2006: Coast 2 Coast",
+      "fullpath": "OutRun 2006: Coast 2 Coast",
+      "name": "OutRun 2006: Coast 2 Coast",
+      "year": "2006",
+      "publisher": "Sega",
+      "genre": "Racing",
+      "rating": "4"
+    },
+    {
+      "id": "Assault Android Cactus+",
+      "fullpath": "Assault Android Cactus+",
+      "name": "Assault Android Cactus+",
+      "year": "2015",
+      "publisher": "Witch Beam",
+      "genre": "Action; Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Disney Illusion Island Starring Mickey and Friends",
+      "fullpath": "Disney Illusion Island Starring Mickey and Friends",
+      "name": "Disney Illusion Island Starring Mickey and Friends",
+      "year": "2025",
+      "publisher": "Disney",
+      "genre": "Adventure; Casual",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Project AETHER",
+      "fullpath": "Project AETHER",
+      "name": "Project AETHER",
+      "year": "2020",
+      "publisher": "Sleepy Spider Studios",
+      "genre": "Action; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "Bloodstained: Ritual of the Night",
+      "fullpath": "Bloodstained: Ritual of the Night",
+      "name": "Bloodstained: Ritual of the Night",
+      "year": "2019",
+      "publisher": "505 Games",
+      "genre": "Action; Adventure; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Scott Pilgrim vs. The World: The Game: Complete Edition",
+      "fullpath": "Scott Pilgrim vs. The World: The Game: Complete Edition",
+      "name": "Scott Pilgrim vs. The World: The Game: Complete Edition",
+      "year": "2021",
+      "publisher": "Ubisoft Entertainment",
+      "genre": "Beat 'em Up",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Iconoclasts",
+      "fullpath": "Iconoclasts",
+      "name": "Iconoclasts",
+      "year": "2018",
+      "publisher": "Bifrost Entertainment",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NINJA GAIDEN 3 Razor's Edge",
+      "fullpath": "NINJA GAIDEN 3 Razor's Edge",
+      "name": "NINJA GAIDEN 3 Razor's Edge",
+      "year": "2021",
+      "publisher": "KOEI TECMO GAMES CO., LTD.",
+      "genre": "Action; Adventure",
+      "rating": "3"
+    },
+    {
+      "id": "Terminator 2D: No Fate",
+      "fullpath": "Terminator 2D: No Fate",
+      "name": "Terminator 2D: No Fate",
+      "year": "2025",
+      "publisher": "Reef Entertainment",
+      "genre": "Action; Platform; Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Critadel",
+      "fullpath": "Critadel",
+      "name": "Critadel",
+      "year": "2021",
+      "publisher": "Nicalis, Inc.",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Bards Tale Trilogy",
+      "fullpath": "The Bards Tale Trilogy",
+      "name": "The Bards Tale Trilogy",
+      "year": "2018",
+      "publisher": "inXile Entertainment",
+      "genre": "RPG",
+      "rating": "5"
+    },
+    {
+      "id": "Nioh 2",
+      "fullpath": "Nioh 2",
+      "name": "Nioh 2",
+      "year": "2021",
+      "publisher": "KOEI TECMO GAMES CO., LTD.",
+      "genre": "Action; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "Cyber Shadow",
+      "fullpath": "Cyber Shadow",
+      "name": "Cyber Shadow",
+      "year": "2021",
+      "publisher": "Yacht Club Games",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blaster Master Zero 2",
+      "fullpath": "Blaster Master Zero 2",
+      "name": "Blaster Master Zero 2",
+      "year": "2019",
+      "publisher": "INTI CREATES CO., LTD.",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Just Cause 3 XXL Edition",
+      "fullpath": "Just Cause 3 XXL Edition",
+      "name": "Just Cause 3 XXL Edition",
+      "year": "2015",
+      "publisher": "Square Enix",
+      "genre": "Action; Adventure; Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Max Payne 3",
+      "fullpath": "Max Payne 3",
+      "name": "Max Payne 3",
+      "year": "2012",
+      "publisher": "Rockstar Games",
+      "genre": "Action; Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fallout 3",
+      "fullpath": "Fallout 3",
+      "name": "Fallout 3",
+      "year": "2008",
+      "publisher": "Bethesda Softworks",
+      "genre": "RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Retrowave Build",
+      "fullpath": "Retrowave Build",
+      "name": "Retrowave Build",
+      "year": "2024",
+      "publisher": "RewindApp",
+      "genre": "Action; Adventure; Indie; Massively Multiplayer; Racing; Simulation; Early Access",
+      "rating": "4"
+    },
+    {
+      "id": "Pac-Man Championship Edition DX+",
+      "fullpath": "Pac-Man Championship Edition DX+",
+      "name": "Pac-Man Championship Edition DX+",
+      "year": "2013",
+      "publisher": "Bandai",
+      "genre": "Action",
+      "rating": "5"
+    },
+    {
+      "id": "Lethal League Blaze",
+      "fullpath": "Lethal League Blaze",
+      "name": "Lethal League Blaze",
+      "year": "2019",
+      "publisher": "Team Reptile",
+      "genre": "Action; Fighting",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Timespinner",
+      "fullpath": "Timespinner",
+      "name": "Timespinner",
+      "year": "2018",
+      "publisher": "Chucklefish",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "DuckTales: Remastered",
+      "fullpath": "DuckTales: Remastered",
+      "name": "DuckTales: Remastered",
+      "year": "2013",
+      "publisher": "Capcom",
+      "genre": "Action; Adventure; Casual",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fallout Tactics: Brotherhood of Steel",
+      "fullpath": "Fallout Tactics: Brotherhood of Steel",
+      "name": "Fallout Tactics: Brotherhood of Steel",
+      "year": "2009",
+      "publisher": "Bethesda Softworks",
+      "genre": "Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hollow Knight",
+      "fullpath": "Hollow Knight",
+      "name": "Hollow Knight",
+      "year": "2017",
+      "publisher": "Team Cherry",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ori and the Will of the Wisps",
+      "fullpath": "Ori and the Will of the Wisps",
+      "name": "Ori and the Will of the Wisps",
+      "year": "2020",
+      "publisher": "Xbox Game Studios",
+      "genre": "Action",
+      "rating": "5"
+    },
+    {
+      "id": "The Thing: Remastered",
+      "fullpath": "The Thing: Remastered",
+      "name": "The Thing: Remastered",
+      "year": "2024",
+      "publisher": "Nightdive Studios",
+      "genre": "Action",
+      "rating": "5"
+    },
+    {
+      "id": "Legacy of Kain: Soul Reaver 1 & 2 Remastered",
+      "fullpath": "Legacy of Kain: Soul Reaver 1 & 2 Remastered",
+      "name": "Legacy of Kain: Soul Reaver 1 & 2 Remastered",
+      "year": "2024",
+      "publisher": "Aspyr",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Borderlands 3",
+      "fullpath": "Borderlands 3",
+      "name": "Borderlands 3",
+      "year": "2020",
+      "publisher": "2K",
+      "genre": "Action; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Neon Abyss",
+      "fullpath": "Neon Abyss",
+      "name": "Neon Abyss",
+      "year": "2020",
+      "publisher": "Team17, Veewo Games",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "Raiden IV: OverKill",
+      "fullpath": "Raiden IV: OverKill",
+      "name": "Raiden IV: OverKill",
+      "year": "2023",
+      "publisher": "NIS America, Inc.",
+      "genre": "Action; Adventure",
+      "rating": "3"
+    },
+    {
+      "id": "Yakuza 3 Remastered",
+      "fullpath": "Yakuza 3 Remastered",
+      "name": "Yakuza 3 Remastered",
+      "year": "2021",
+      "publisher": "SEGA",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "Blazing Chrome",
+      "fullpath": "Blazing Chrome",
+      "name": "Blazing Chrome",
+      "year": "2019",
+      "publisher": "The Arcade Crew",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Borderlands: The Pre-Sequel",
+      "fullpath": "Borderlands: The Pre-Sequel",
+      "name": "Borderlands: The Pre-Sequel",
+      "year": "2014",
+      "publisher": "2K",
+      "genre": "Action; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Onimusha 2: Samurai's Destiny",
+      "fullpath": "Onimusha 2: Samurai's Destiny",
+      "name": "Onimusha 2: Samurai's Destiny",
+      "year": "2025",
+      "publisher": "CAPCOM Co., Ltd.",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "KIZUNA ENCOUNTER: SUPER TAG BATTLE",
+      "fullpath": "KIZUNA ENCOUNTER: SUPER TAG BATTLE",
+      "name": "KIZUNA ENCOUNTER: SUPER TAG BATTLE",
+      "year": "2024",
+      "publisher": "SNK",
+      "genre": "Fighting",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "DOOM 64",
+      "fullpath": "DOOM 64",
+      "name": "DOOM 64",
+      "year": "2020",
+      "publisher": "Bethesda Softworks",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sky Rogue",
+      "fullpath": "Sky Rogue",
+      "name": "Sky Rogue",
+      "year": "2017",
+      "publisher": "Fractal Phase",
+      "genre": "Action; Indie; Simulation",
+      "rating": "5"
+    },
+    {
+      "id": "DISORDER",
+      "fullpath": "DISORDER",
+      "name": "DISORDER",
+      "year": "2025",
+      "publisher": "GRUMPY",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Resident Evil 4 Gold Edition",
+      "fullpath": "Resident Evil 4 Gold Edition",
+      "name": "Resident Evil 4 Gold Edition",
+      "year": "2023",
+      "publisher": "CAPCOM Co., Ltd.",
+      "genre": "Action; Adventure",
+      "rating": "5"
+    },
+    {
+      "id": "R-Type Dimensions EX",
+      "fullpath": "R-Type Dimensions EX",
+      "name": "R-Type Dimensions EX",
+      "year": "2018",
+      "publisher": "Tozai Games, Inc.",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Praetorians",
+      "fullpath": "Praetorians",
+      "name": "Praetorians",
+      "year": "2014",
+      "publisher": "Kalypso Media Digital",
+      "genre": "Indie; Strategy",
+      "rating": "4"
+    },
+    {
+      "id": "Garfield Kart Furious Racing",
+      "fullpath": "Garfield Kart Furious Racing",
+      "name": "Garfield Kart Furious Racing",
+      "year": "2019",
+      "publisher": "Microids",
+      "genre": "Racing",
+      "rating": "4"
+    },
+    {
+      "id": "Mighty Goose",
+      "fullpath": "Mighty Goose",
+      "name": "Mighty Goose",
+      "year": "2021",
+      "publisher": "PLAYISM",
+      "genre": "",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Agent Intercept",
+      "fullpath": "Agent Intercept",
+      "name": "Agent Intercept",
+      "year": "2021",
+      "publisher": "PikPok",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Shakedown Hawaii",
+      "fullpath": "Shakedown Hawaii",
+      "name": "Shakedown Hawaii",
+      "year": "2020",
+      "publisher": "Vblank Entertainment, Inc.",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Ion Fury",
+      "fullpath": "Ion Fury",
+      "name": "Ion Fury",
+      "year": "2019",
+      "publisher": "3D Realms",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Suicide Squad: Kill the Justice League",
+      "fullpath": "Suicide Squad: Kill the Justice League",
+      "name": "Suicide Squad: Kill the Justice League",
+      "year": "2024",
+      "publisher": "Warner Bros. Games",
+      "genre": "Action",
+      "rating": "3"
+    },
+    {
+      "id": "Wonder Boy The Dragons Trap",
+      "fullpath": "Wonder Boy The Dragons Trap",
+      "name": "Wonder Boy The Dragons Trap",
+      "year": "2017",
+      "publisher": "Dotemu",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "River City Rival Showdown",
+      "fullpath": "River City Rival Showdown",
+      "name": "River City Rival Showdown",
+      "year": "2023",
+      "publisher": "Arc System Works",
+      "genre": "Action; Adventure; RPG",
+      "rating": "3"
+    },
+    {
+      "id": "Half-Life",
+      "fullpath": "Half-Life",
+      "name": "Half-Life",
+      "year": "1998",
+      "publisher": "Valve",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Typing of the Dead",
+      "fullpath": "The Typing of the Dead",
+      "name": "The Typing of the Dead",
+      "year": "2001",
+      "publisher": "Sega",
+      "genre": "Horror; Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "DARIUSBURST Chronicle Saviours",
+      "fullpath": "DARIUSBURST Chronicle Saviours",
+      "name": "DARIUSBURST Chronicle Saviours",
+      "year": "2015",
+      "publisher": "KOMODO",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Streets of Rogue",
+      "fullpath": "Streets of Rogue",
+      "name": "Streets of Rogue",
+      "year": "2019",
+      "publisher": "tinyBuild",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "5"
+    },
+    {
+      "id": "The Messenger",
+      "fullpath": "The Messenger",
+      "name": "The Messenger",
+      "year": "2018",
+      "publisher": "Devolver Digital",
+      "genre": "Action; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "Aluna: Sentinel of the Shards",
+      "fullpath": "Aluna: Sentinel of the Shards",
+      "name": "Aluna: Sentinel of the Shards",
+      "year": "2021",
+      "publisher": "Digiart Interactive",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mega Man Legacy Collection 2",
+      "fullpath": "Mega Man Legacy Collection 2",
+      "name": "Mega Man Legacy Collection 2",
+      "year": "2017",
+      "publisher": "Capcom",
+      "genre": "Action; Compilation; Platform; Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Halo: Spartan Strike",
+      "fullpath": "Halo: Spartan Strike",
+      "name": "Halo: Spartan Strike",
+      "year": "2015",
+      "publisher": "Xbox Game Studios",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "F1 RACE STARS",
+      "fullpath": "F1 RACE STARS",
+      "name": "F1 RACE STARS",
+      "year": "1900",
+      "publisher": "Codemasters",
+      "genre": "Racing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sam and Max Save the World Remastered",
+      "fullpath": "Sam and Max Save the World Remastered",
+      "name": "Sam and Max Save the World Remastered",
+      "year": "2020",
+      "publisher": "Skunkape Games",
+      "genre": "Adventure; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "TIMEGAL HD Remaster",
+      "fullpath": "TIMEGAL HD Remaster",
+      "name": "TIMEGAL HD Remaster",
+      "year": "2025",
+      "publisher": "TAITO CORP.",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Warhammer: Chaosbane",
+      "fullpath": "Warhammer: Chaosbane",
+      "name": "Warhammer: Chaosbane",
+      "year": "2019",
+      "publisher": "Nacon",
+      "genre": "Action; Adventure; RPG",
+      "rating": "3"
+    },
+    {
+      "id": "Taxi Chaos 2",
+      "fullpath": "Taxi Chaos 2",
+      "name": "Taxi Chaos 2",
+      "year": "2025",
+      "publisher": "Current Games",
+      "genre": "Driving; Racing; Arcade",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Deep Rock Galactic",
+      "fullpath": "Deep Rock Galactic",
+      "name": "Deep Rock Galactic",
+      "year": "2020",
+      "publisher": "Coffee Stain Publishing",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ride 6",
+      "fullpath": "Ride 6",
+      "name": "Ride 6",
+      "year": "2026",
+      "publisher": "Milestone S.r.l.",
+      "genre": "Racing; Simulation; Sports",
+      "rating": "3"
+    },
+    {
+      "id": "Songs for a Hero Definitive Edition",
+      "fullpath": "Songs for a Hero Definitive Edition",
+      "name": "Songs for a Hero Definitive Edition",
+      "year": "2016",
+      "publisher": "Dumativa, CriticalLeap",
+      "genre": "Adventure; Casual; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "Age of Barbarian Extended Cut",
+      "fullpath": "Age of Barbarian Extended Cut",
+      "name": "Age of Barbarian Extended Cut",
+      "year": "2016",
+      "publisher": "Crian Soft",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Cloud Cutter",
+      "fullpath": "Cloud Cutter",
+      "name": "Cloud Cutter",
+      "year": "2021",
+      "publisher": "Just Two ltd.",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Scott Pilgrim Ex",
+      "fullpath": "Scott Pilgrim Ex",
+      "name": "Scott Pilgrim Ex",
+      "year": "2026",
+      "publisher": "Tribute Games Inc.",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "Lara Croft GO",
+      "fullpath": "Lara Croft GO",
+      "name": "Lara Croft GO",
+      "year": "2016",
+      "publisher": "Crystal Dynamics",
+      "genre": "Adventure; Puzzle",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hyper Echelon",
+      "fullpath": "Hyper Echelon",
+      "name": "Hyper Echelon",
+      "year": "2021",
+      "publisher": "GangoGames LLC",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Toren",
+      "fullpath": "Toren",
+      "name": "Toren",
+      "year": "2015",
+      "publisher": "Versus Evil",
+      "genre": "Adventure; Indie",
+      "rating": "3"
+    },
+    {
+      "id": "Toki Remastered",
+      "fullpath": "Toki Remastered",
+      "name": "Toki Remastered",
+      "year": "2019",
+      "publisher": "Microids",
+      "genre": "Action; Adventure; Platform",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "WUCHANG Fallen Feathers",
+      "fullpath": "WUCHANG Fallen Feathers",
+      "name": "WUCHANG Fallen Feathers",
+      "year": "2025",
+      "publisher": "505 Games",
+      "genre": "Action; Adventure; RPG",
+      "rating": "3"
+    },
+    {
+      "id": "Wild Guns Reloaded",
+      "fullpath": "Wild Guns Reloaded",
+      "name": "Wild Guns Reloaded",
+      "year": "2017",
+      "publisher": "Natsume Inc.",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Anima : The Reign of Darkness",
+      "fullpath": "Anima : The Reign of Darkness",
+      "name": "Anima : The Reign of Darkness",
+      "year": "2021",
+      "publisher": "Redeev",
+      "genre": "Action; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Azure Striker Gunvolt",
+      "fullpath": "Azure Striker Gunvolt",
+      "name": "Azure Striker Gunvolt",
+      "year": "2015",
+      "publisher": "INTI CREATES CO., LTD.",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Ruiner",
+      "fullpath": "Ruiner",
+      "name": "Ruiner",
+      "year": "2017",
+      "publisher": "Devolver Digital",
+      "genre": "Action; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "New Retro Arcade: Neon",
+      "fullpath": "New Retro Arcade: Neon",
+      "name": "New Retro Arcade: Neon",
+      "year": "2016",
+      "publisher": "Digital Cybercherries",
+      "genre": "Action; Adventure; Casual; Indie; Racing; Simulation; Sports",
+      "rating": "4"
+    },
+    {
+      "id": "Yakuza 4 Remastered",
+      "fullpath": "Yakuza 4 Remastered",
+      "name": "Yakuza 4 Remastered",
+      "year": "2021",
+      "publisher": "SEGA",
+      "genre": "Action; Adventure",
+      "rating": "5"
+    },
+    {
+      "id": "Crazy Taxi 3: High Roller",
+      "fullpath": "Crazy Taxi 3: High Roller",
+      "name": "Crazy Taxi 3: High Roller",
+      "year": "2004",
+      "publisher": "Sega",
+      "genre": "Racing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Voodoo Vince Remastered",
+      "fullpath": "Voodoo Vince Remastered",
+      "name": "Voodoo Vince Remastered",
+      "year": "2017",
+      "publisher": "Beep Games, Inc.",
+      "genre": "Action; Adventure",
+      "rating": "5"
+    },
+    {
+      "id": "Ghostrunner",
+      "fullpath": "Ghostrunner",
+      "name": "Ghostrunner",
+      "year": "2020",
+      "publisher": "505 Games",
+      "genre": "Action",
+      "rating": "5"
+    },
+    {
+      "id": "Street Fighter X Tekken",
+      "fullpath": "Street Fighter X Tekken",
+      "name": "Street Fighter X Tekken",
+      "year": "2012",
+      "publisher": "Capcom U.S.A., Inc.",
+      "genre": "Action",
+      "rating": "3"
+    },
+    {
+      "id": "Injustice 2",
+      "fullpath": "Injustice 2",
+      "name": "Injustice 2",
+      "year": "2017",
+      "publisher": "Warner Bros. Interactive Entertainment",
+      "genre": "Fighting",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Palworld",
+      "fullpath": "Palworld",
+      "name": "Palworld",
+      "year": "2024",
+      "publisher": "Pocketpair",
+      "genre": "Action; Adventure; Indie; RPG; Early Access",
+      "rating": "5"
+    },
+    {
+      "id": "Sonic Frontiers",
+      "fullpath": "Sonic Frontiers",
+      "name": "Sonic Frontiers",
+      "year": "2022",
+      "publisher": "SEGA",
+      "genre": "Action; Adventure",
+      "rating": "5"
+    },
+    {
+      "id": "Panzer Dragoon Remake",
+      "fullpath": "Panzer Dragoon Remake",
+      "name": "Panzer Dragoon Remake",
+      "year": "2020",
+      "publisher": "Forever Entertainment S. A.",
+      "genre": "Action; Adventure; Casual",
+      "rating": "4"
+    },
+    {
+      "id": "Ride 5",
+      "fullpath": "Ride 5",
+      "name": "Ride 5",
+      "year": "2023",
+      "publisher": "Milestone S.r.l.",
+      "genre": "Racing; Simulation; Sports",
+      "rating": "4"
+    },
+    {
+      "id": "Yakuza 6: The Song of Life",
+      "fullpath": "Yakuza 6: The Song of Life",
+      "name": "Yakuza 6: The Song of Life",
+      "year": "2021",
+      "publisher": "SEGA",
+      "genre": "Action; Adventure",
+      "rating": "5"
+    },
+    {
+      "id": "Volgarr the Viking",
+      "fullpath": "Volgarr the Viking",
+      "name": "Volgarr the Viking",
+      "year": "2013",
+      "publisher": "Crazy Viking Studios",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Boulder Dash - 30th Anniversary",
+      "fullpath": "Boulder Dash - 30th Anniversary",
+      "name": "Boulder Dash - 30th Anniversary",
+      "year": "2016",
+      "publisher": "BBG Entertainment GmbH",
+      "genre": "Action; Casual; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Back to the Future: The Game",
+      "fullpath": "Back to the Future: The Game",
+      "name": "Back to the Future: The Game",
+      "year": "2010",
+      "publisher": "Telltale Games",
+      "genre": "Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Grandia II: HD Remaster",
+      "fullpath": "Grandia II: HD Remaster",
+      "name": "Grandia II: HD Remaster",
+      "year": "2019",
+      "publisher": "GungHo Online Entertainment America",
+      "genre": "Role-Playing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mighty Morphin Power Rangers: Rita's Rewind",
+      "fullpath": "Mighty Morphin Power Rangers: Rita's Rewind",
+      "name": "Mighty Morphin Power Rangers: Rita's Rewind",
+      "year": "2024",
+      "publisher": "Digital Eclipse",
+      "genre": "Beat 'em Up",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Poppy Playtime Chapter 4",
+      "fullpath": "Poppy Playtime Chapter 4",
+      "name": "Poppy Playtime Chapter 4",
+      "year": "2025",
+      "publisher": "Mob Entertainment",
+      "genre": "",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Katana ZERO",
+      "fullpath": "Katana ZERO",
+      "name": "Katana ZERO",
+      "year": "2019",
+      "publisher": "Devolver Digital",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Ascent",
+      "fullpath": "The Ascent",
+      "name": "The Ascent",
+      "year": "2021",
+      "publisher": "Curve Games",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "Sonic Colors Ultimate",
+      "fullpath": "Sonic Colors Ultimate",
+      "name": "Sonic Colors Ultimate",
+      "year": "2023",
+      "publisher": "SEGA",
+      "genre": "Action; Casual",
+      "rating": "3"
+    },
+    {
+      "id": "Halo: The Master Chief Collection",
+      "fullpath": "Halo: The Master Chief Collection",
+      "name": "Halo: The Master Chief Collection",
+      "year": "2019",
+      "publisher": "Xbox Game Studios",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Carmageddon Rogue Shift",
+      "fullpath": "Carmageddon Rogue Shift",
+      "name": "Carmageddon Rogue Shift",
+      "year": "2026",
+      "publisher": "34BigThings srl",
+      "genre": "Action; Racing",
+      "rating": "3"
+    },
+    {
+      "id": "Team Sonic Racing",
+      "fullpath": "Team Sonic Racing",
+      "name": "Team Sonic Racing",
+      "year": "2019",
+      "publisher": "SEGA",
+      "genre": "Racing",
+      "rating": "4"
+    },
+    {
+      "id": "Yoku's Island Express",
+      "fullpath": "Yoku's Island Express",
+      "name": "Yoku's Island Express",
+      "year": "2018",
+      "publisher": "Team17 Digital Ltd",
+      "genre": "Adventure; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "Blaster Master Zero 3",
+      "fullpath": "Blaster Master Zero 3",
+      "name": "Blaster Master Zero 3",
+      "year": "2021",
+      "publisher": "INTI CREATES CO., LTD.",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Actraiser Renaissance",
+      "fullpath": "Actraiser Renaissance",
+      "name": "Actraiser Renaissance",
+      "year": "2021",
+      "publisher": "Square Enix",
+      "genre": "Action; Simulation; Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Transistor",
+      "fullpath": "Transistor",
+      "name": "Transistor",
+      "year": "2014",
+      "publisher": "Supergiant Games",
+      "genre": "Action; Indie; RPG",
+      "rating": "5"
+    },
+    {
+      "id": "World War Z: Aftermath",
+      "fullpath": "World War Z: Aftermath",
+      "name": "World War Z: Aftermath",
+      "year": "2021",
+      "publisher": "Saber Interactive Inc",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Disney's Chicken Little: Ace in Action",
+      "fullpath": "Disney's Chicken Little: Ace in Action",
+      "name": "Disney's Chicken Little: Ace in Action",
+      "year": "2015",
+      "publisher": "Disney",
+      "genre": "Action; Adventure; Platform",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Black Future '88",
+      "fullpath": "Black Future '88",
+      "name": "Black Future '88",
+      "year": "2019",
+      "publisher": "Good Shepherd Entertainment",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "STURMWIND EX",
+      "fullpath": "STURMWIND EX",
+      "name": "STURMWIND EX",
+      "year": "2019",
+      "publisher": "b-alive",
+      "genre": "Action; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Broforce",
+      "fullpath": "Broforce",
+      "name": "Broforce",
+      "year": "2015",
+      "publisher": "Devolver Digital",
+      "genre": "Action; Adventure; Casual; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bubsy: Paws on Fire!",
+      "fullpath": "Bubsy: Paws on Fire!",
+      "name": "Bubsy: Paws on Fire!",
+      "year": "2019",
+      "publisher": "Atari",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bendy and the Ink Machine",
+      "fullpath": "Bendy and the Ink Machine",
+      "name": "Bendy and the Ink Machine",
+      "year": "2017",
+      "publisher": "Joey Drew Studios",
+      "genre": "Action; Adventure; Indie; Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sega Rally",
+      "fullpath": "Sega Rally",
+      "name": "Sega Rally",
+      "year": "2007",
+      "publisher": "Sega",
+      "genre": "Racing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "NINJA GAIDEN SIGMA2",
+      "fullpath": "NINJA GAIDEN SIGMA2",
+      "name": "NINJA GAIDEN SIGMA2",
+      "year": "2021",
+      "publisher": "KOEI TECMO GAMES CO., LTD.",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "Renegade Ops",
+      "fullpath": "Renegade Ops",
+      "name": "Renegade Ops",
+      "year": "2011",
+      "publisher": "SEGA",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Drifting Lands",
+      "fullpath": "Drifting Lands",
+      "name": "Drifting Lands",
+      "year": "2017",
+      "publisher": "Alkemi",
+      "genre": "Action; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Arcade Classics Anniversary Collection",
+      "fullpath": "Arcade Classics Anniversary Collection",
+      "name": "Arcade Classics Anniversary Collection",
+      "year": "2019",
+      "publisher": "KONAMI",
+      "genre": "Action; Casual",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mafia 2",
+      "fullpath": "Mafia 2",
+      "name": "Mafia 2",
+      "year": "2020",
+      "publisher": "2K",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "Bombshell",
+      "fullpath": "Bombshell",
+      "name": "Bombshell",
+      "year": "2016",
+      "publisher": "3D Realms",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Escape from Ever After",
+      "fullpath": "Escape from Ever After",
+      "name": "Escape from Ever After",
+      "year": "2026",
+      "publisher": "HypeTrain Digital",
+      "genre": "Adventure; Indie; RPG",
+      "rating": "5"
+    },
+    {
+      "id": "Far Cry 3",
+      "fullpath": "Far Cry 3",
+      "name": "Far Cry 3",
+      "year": "2012",
+      "publisher": "Ubisoft",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "INSIDE",
+      "fullpath": "INSIDE",
+      "name": "INSIDE",
+      "year": "2016",
+      "publisher": "Playdead",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Marvel's Avengers - The Definitive Edition",
+      "fullpath": "Marvel's Avengers - The Definitive Edition",
+      "name": "Marvel's Avengers - The Definitive Edition",
+      "year": "2020",
+      "publisher": "Crystal Dynamics",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Atari 50: The Anniversary Celebration",
+      "fullpath": "Atari 50: The Anniversary Celebration",
+      "name": "Atari 50: The Anniversary Celebration",
+      "year": "2022",
+      "publisher": "Atari",
+      "genre": "Action; Adventure; Casual",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Battle Planet - Judgement Day",
+      "fullpath": "Battle Planet - Judgement Day",
+      "name": "Battle Planet - Judgement Day",
+      "year": "2019",
+      "publisher": "Threaks",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Death Stranding 2 On The Beach",
+      "fullpath": "Death Stranding 2 On The Beach",
+      "name": "Death Stranding 2 On The Beach",
+      "year": "2026",
+      "publisher": "PlayStation Publishing LLC, KOJIMA PRODUCTIONS",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Puyo Puyo Tetris 2",
+      "fullpath": "Puyo Puyo Tetris 2",
+      "name": "Puyo Puyo Tetris 2",
+      "year": "2021",
+      "publisher": "SEGA",
+      "genre": "Action; Casual",
+      "rating": "4"
+    },
+    {
+      "id": "GRANDIA: HD Remaster",
+      "fullpath": "GRANDIA: HD Remaster",
+      "name": "GRANDIA: HD Remaster",
+      "year": "2019",
+      "publisher": "GungHo Online Entertainment America, Inc.",
+      "genre": "Adventure; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown",
+      "fullpath": "Samurai Shodown",
+      "name": "Samurai Shodown",
+      "year": "2021",
+      "publisher": "SNK CORPORATION",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "HARDCORE MECHA",
+      "fullpath": "HARDCORE MECHA",
+      "name": "HARDCORE MECHA",
+      "year": "2019",
+      "publisher": "RocketPunch Games",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fallout 2: A Post Nuclear Role Playing Game",
+      "fullpath": "Fallout 2: A Post Nuclear Role Playing Game",
+      "name": "Fallout 2: A Post Nuclear Role Playing Game",
+      "year": "1998",
+      "publisher": "Bethesda Softworks",
+      "genre": "Role-Playing; Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Bloo Kid 2",
+      "fullpath": "Bloo Kid 2",
+      "name": "Bloo Kid 2",
+      "year": "2014",
+      "publisher": "winterworks",
+      "genre": "Platform",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Alan Wake Remastered",
+      "fullpath": "Alan Wake Remastered",
+      "name": "Alan Wake Remastered",
+      "year": "2012",
+      "publisher": "Remedy Entertainment",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "Street Fighter V Champion Edition",
+      "fullpath": "Street Fighter V Champion Edition",
+      "name": "Street Fighter V Champion Edition",
+      "year": "2016",
+      "publisher": "CAPCOM Co., Ltd.",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "CONTRA: ROGUE CORPS",
+      "fullpath": "CONTRA: ROGUE CORPS",
+      "name": "CONTRA: ROGUE CORPS",
+      "year": "2019",
+      "publisher": "KONAMI",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "DCOP",
+      "fullpath": "DCOP",
+      "name": "DCOP",
+      "year": "2023",
+      "publisher": "Klockworks",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Brotato",
+      "fullpath": "Brotato",
+      "name": "Brotato",
+      "year": "2023",
+      "publisher": "Blobfish",
+      "genre": "Action; Casual; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Legend of Kay Anniversary",
+      "fullpath": "Legend of Kay Anniversary",
+      "name": "Legend of Kay Anniversary",
+      "year": "2015",
+      "publisher": "THQ Nordic GmbH",
+      "genre": "Action; Fighting; Platform; Role-Playing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Samurai Shodown Collection",
+      "fullpath": "Samurai Shodown Collection",
+      "name": "Samurai Shodown Collection",
+      "year": "2020",
+      "publisher": "SNK CORPORATION",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Need for Speed Hot Pursuit Remastered",
+      "fullpath": "Need for Speed Hot Pursuit Remastered",
+      "name": "Need for Speed Hot Pursuit Remastered",
+      "year": "2020",
+      "publisher": "Electronic Arts",
+      "genre": "Action; Racing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Lode Runner Legacy",
+      "fullpath": "Lode Runner Legacy",
+      "name": "Lode Runner Legacy",
+      "year": "2017",
+      "publisher": "Tozai Games",
+      "genre": "Action; Platform; Puzzle",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Children of Morta",
+      "fullpath": "Children of Morta",
+      "name": "Children of Morta",
+      "year": "2019",
+      "publisher": "11 bit studios",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Yooka-Laylee and the Impossible Lair",
+      "fullpath": "Yooka-Laylee and the Impossible Lair",
+      "name": "Yooka-Laylee and the Impossible Lair",
+      "year": "2019",
+      "publisher": "Team17 Digital Ltd",
+      "genre": "Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Capcom Beat 'Em Up Bundle",
+      "fullpath": "Capcom Beat 'Em Up Bundle",
+      "name": "Capcom Beat 'Em Up Bundle",
+      "year": "2018",
+      "publisher": "CAPCOM Co., Ltd.",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "A Little Golf Journey",
+      "fullpath": "A Little Golf Journey",
+      "name": "A Little Golf Journey",
+      "year": "2021",
+      "publisher": "Playtonic Friends",
+      "genre": "Adventure; Casual; Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Day of the Tentacle Remastered",
+      "fullpath": "Day of the Tentacle Remastered",
+      "name": "Day of the Tentacle Remastered",
+      "year": "2016",
+      "publisher": "Double Fine Productions",
+      "genre": "Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Oddworld Abes Oddysee New N Tasty",
+      "fullpath": "Oddworld Abes Oddysee New N Tasty",
+      "name": "Oddworld Abes Oddysee New N Tasty",
+      "year": "2015",
+      "publisher": "Oddworld Inhabitants, Inc.",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Stubbs the Zombie",
+      "fullpath": "Stubbs the Zombie",
+      "name": "Stubbs the Zombie",
+      "year": "2021",
+      "publisher": "Aspyr",
+      "genre": "Action",
+      "rating": "5"
+    },
+    {
+      "id": "SteamWorld Heist",
+      "fullpath": "SteamWorld Heist",
+      "name": "SteamWorld Heist",
+      "year": "2016",
+      "publisher": "Image & Form Games",
+      "genre": "RPG; Strategy",
+      "rating": "5"
+    },
+    {
+      "id": "Megamagic: Wizards Of The Neon Age",
+      "fullpath": "Megamagic: Wizards Of The Neon Age",
+      "name": "Megamagic: Wizards Of The Neon Age",
+      "year": "2016",
+      "publisher": "Beautifun Games",
+      "genre": "Action; Role-Playing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Borderlands Game of the Year Enhanced",
+      "fullpath": "Borderlands Game of the Year Enhanced",
+      "name": "Borderlands Game of the Year Enhanced",
+      "year": "2023",
+      "publisher": "2K",
+      "genre": "Action; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Snow Bros. 2 Special",
+      "fullpath": "Snow Bros. 2 Special",
+      "name": "Snow Bros. 2 Special",
+      "year": "2025",
+      "publisher": "GRAVITY",
+      "genre": "Action; Casual",
+      "rating": "3"
+    },
+    {
+      "id": "Sniper Elite 4",
+      "fullpath": "Sniper Elite 4",
+      "name": "Sniper Elite 4",
+      "year": "2017",
+      "publisher": "Rebellion",
+      "genre": "Action; Adventure",
+      "rating": "5"
+    },
+    {
+      "id": "Cobra Kai: The Karate Kid Saga Continues",
+      "fullpath": "Cobra Kai: The Karate Kid Saga Continues",
+      "name": "Cobra Kai: The Karate Kid Saga Continues",
+      "year": "2021",
+      "publisher": "GameMill Entertainment",
+      "genre": "Action; Adventure; Casual",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "RAD",
+      "fullpath": "RAD",
+      "name": "RAD",
+      "year": "2019",
+      "publisher": "BANDAI NAMCO Entertainment America",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "Rogue Stormers",
+      "fullpath": "Rogue Stormers",
+      "name": "Rogue Stormers",
+      "year": "2016",
+      "publisher": "HandyGames, Black Forest Games",
+      "genre": "Action; Indie",
+      "rating": "3"
+    },
+    {
+      "id": "The Wonderful 101",
+      "fullpath": "The Wonderful 101",
+      "name": "The Wonderful 101",
+      "year": "2020",
+      "publisher": "PlatinumGames Inc.",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "Colin McRae Rally",
+      "fullpath": "Colin McRae Rally",
+      "name": "Colin McRae Rally",
+      "year": "2014",
+      "publisher": "Codemasters",
+      "genre": "Racing; Sports",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sky Force Reloaded",
+      "fullpath": "Sky Force Reloaded",
+      "name": "Sky Force Reloaded",
+      "year": "2017",
+      "publisher": "Infinite Dreams",
+      "genre": "Action; Indie",
+      "rating": "5"
+    },
+    {
+      "id": "Cloudpunk",
+      "fullpath": "Cloudpunk",
+      "name": "Cloudpunk",
+      "year": "2020",
+      "publisher": "ION LANDS",
+      "genre": "Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "DOOM The Dark Ages",
+      "fullpath": "DOOM The Dark Ages",
+      "name": "DOOM The Dark Ages",
+      "year": "2025",
+      "publisher": "Bethesda Softworks",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Torchlight 2",
+      "fullpath": "Torchlight 2",
+      "name": "Torchlight 2",
+      "year": "2012",
+      "publisher": "XD",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "5"
+    },
+    {
+      "id": "Disney Classic Games: Aladdin and The Lion King",
+      "fullpath": "Disney Classic Games: Aladdin and The Lion King",
+      "name": "Disney Classic Games: Aladdin and The Lion King",
+      "year": "2019",
+      "publisher": "Disney",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Boomerang Fu",
+      "fullpath": "Boomerang Fu",
+      "name": "Boomerang Fu",
+      "year": "2020",
+      "publisher": "Cranky Watermelon",
+      "genre": "Action; Casual; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Buck Up And Drive!",
+      "fullpath": "Buck Up And Drive!",
+      "name": "Buck Up And Drive!",
+      "year": "2022",
+      "publisher": "Fábio Fontes",
+      "genre": "Action; Indie; Racing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "ESCHATOS",
+      "fullpath": "ESCHATOS",
+      "name": "ESCHATOS",
+      "year": "2015",
+      "publisher": "KOMODO",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SkullGirls",
+      "fullpath": "SkullGirls",
+      "name": "SkullGirls",
+      "year": "2013",
+      "publisher": "Autumn Games",
+      "genre": "Action; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Gravitar: Recharged",
+      "fullpath": "Gravitar: Recharged",
+      "name": "Gravitar: Recharged",
+      "year": "2022",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Marvel Cosmic Invasion",
+      "fullpath": "Marvel Cosmic Invasion",
+      "name": "Marvel Cosmic Invasion",
+      "year": "2025",
+      "publisher": "DotEmu",
+      "genre": "Action; Beat 'em Up",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Big Helmet Heroes",
+      "fullpath": "Big Helmet Heroes",
+      "name": "Big Helmet Heroes",
+      "year": "2025",
+      "publisher": "Dear Villagers",
+      "genre": "Action; Adventure; Casual; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Crimzon Clover",
+      "fullpath": "Crimzon Clover",
+      "name": "Crimzon Clover",
+      "year": "2013",
+      "publisher": "",
+      "genre": "Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mekkablood: Quarry Assault",
+      "fullpath": "Mekkablood: Quarry Assault",
+      "name": "Mekkablood: Quarry Assault",
+      "year": "2025",
+      "publisher": "Judatone Studios",
+      "genre": "",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Clan N",
+      "fullpath": "Clan N",
+      "name": "Clan N",
+      "year": "2020",
+      "publisher": "Creamative",
+      "genre": "Action; Adventure; Casual; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Namco Museum Archives Volume 2",
+      "fullpath": "Namco Museum Archives Volume 2",
+      "name": "Namco Museum Archives Volume 2",
+      "year": "2020",
+      "publisher": "BANDAI NAMCO Entertainment",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Tales from the Borderlands",
+      "fullpath": "Tales from the Borderlands",
+      "name": "Tales from the Borderlands",
+      "year": "2021",
+      "publisher": "2K",
+      "genre": "Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Monster Boy and the Cursed Kingdom",
+      "fullpath": "Monster Boy and the Cursed Kingdom",
+      "name": "Monster Boy and the Cursed Kingdom",
+      "year": "2019",
+      "publisher": "FDG Entertainment",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "MX vs ATV Legends 2025 Monster Energy Supercross Championship",
+      "fullpath": "MX vs ATV Legends 2025 Monster Energy Supercross Championship",
+      "name": "MX vs ATV Legends 2025 Monster Energy Supercross Championship",
+      "year": "2022",
+      "publisher": "THQ Nordic",
+      "genre": "Racing; Sports",
+      "rating": "4"
+    },
+    {
+      "id": "Trailmakers",
+      "fullpath": "Trailmakers",
+      "name": "Trailmakers",
+      "year": "2019",
+      "publisher": "Flashbulb",
+      "genre": "Action; Adventure; Indie; Racing; Simulation",
+      "rating": "5"
+    },
+    {
+      "id": "Monkey Island: Special Edition Collection",
+      "fullpath": "Monkey Island: Special Edition Collection",
+      "name": "Monkey Island: Special Edition Collection",
+      "year": "2011",
+      "publisher": "LucasArts",
+      "genre": "Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "One Piece: Pirate Warriors 4",
+      "fullpath": "One Piece: Pirate Warriors 4",
+      "name": "One Piece: Pirate Warriors 4",
+      "year": "2023",
+      "publisher": "BANDAI NAMCO Entertainment",
+      "genre": "Action",
+      "rating": "5"
+    },
+    {
+      "id": "Guns, Gore and Cannoli 2",
+      "fullpath": "Guns, Gore and Cannoli 2",
+      "name": "Guns, Gore and Cannoli 2",
+      "year": "2018",
+      "publisher": "Rogueside",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mantis Burn Racing",
+      "fullpath": "Mantis Burn Racing",
+      "name": "Mantis Burn Racing",
+      "year": "2016",
+      "publisher": "VooFoo Studios",
+      "genre": "Racing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "HUNTDOWN",
+      "fullpath": "HUNTDOWN",
+      "name": "HUNTDOWN",
+      "year": "2021",
+      "publisher": "Coffee Stain Publishing",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mad Streets",
+      "fullpath": "Mad Streets",
+      "name": "Mad Streets",
+      "year": "2022",
+      "publisher": "Craftshop Arts Inc.",
+      "genre": "Beat 'em Up; Party",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gunman Tales",
+      "fullpath": "Gunman Tales",
+      "name": "Gunman Tales",
+      "year": "2018",
+      "publisher": "FobTi interactive",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Riders Republic",
+      "fullpath": "Riders Republic",
+      "name": "Riders Republic",
+      "year": "2023",
+      "publisher": "Ubisoft Entertainment",
+      "genre": "Massively Multiplayer; Sports",
+      "rating": "4"
+    },
+    {
+      "id": "Monkey Barrels",
+      "fullpath": "Monkey Barrels",
+      "name": "Monkey Barrels",
+      "year": "2022",
+      "publisher": "Nicalis, Inc.",
+      "genre": "Action, Adventure, Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mega Man Zero/ZX Legacy Collection",
+      "fullpath": "Mega Man Zero/ZX Legacy Collection",
+      "name": "Mega Man Zero/ZX Legacy Collection",
+      "year": "2020",
+      "publisher": "Capcom",
+      "genre": "Platform; Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Blaster Master Zero",
+      "fullpath": "Blaster Master Zero",
+      "name": "Blaster Master Zero",
+      "year": "2019",
+      "publisher": "INTI CREATES CO., LTD.",
+      "genre": "Action",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Infernax",
+      "fullpath": "Infernax",
+      "name": "Infernax",
+      "year": "2022",
+      "publisher": "The Arcade Crew",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Breath of Fire IV",
+      "fullpath": "Breath of Fire IV",
+      "name": "Breath of Fire IV",
+      "year": "2003",
+      "publisher": "Capcom",
+      "genre": "Role-Playing",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Celeste",
+      "fullpath": "Celeste",
+      "name": "Celeste",
+      "year": "2018",
+      "publisher": "Maddy Makes Games Inc.",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Fallout: A Post Nuclear Role Playing Game",
+      "fullpath": "Fallout: A Post Nuclear Role Playing Game",
+      "name": "Fallout: A Post Nuclear Role Playing Game",
+      "year": "1997",
+      "publisher": "Bethesda Softworks",
+      "genre": "Role-Playing; Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Mark of the Ninja: Remastered",
+      "fullpath": "Mark of the Ninja: Remastered",
+      "name": "Mark of the Ninja: Remastered",
+      "year": "2018",
+      "publisher": "Klei Entertainment",
+      "genre": "Action; Adventure; Platform; Stealth",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Axiom Verge 2",
+      "fullpath": "Axiom Verge 2",
+      "name": "Axiom Verge 2",
+      "year": "2022",
+      "publisher": "Thomas Happ Games LLC",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The TakeOver",
+      "fullpath": "The TakeOver",
+      "name": "The TakeOver",
+      "year": "2019",
+      "publisher": "Pelikan13",
+      "genre": "Action; Casual; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Alwa's Awakening",
+      "fullpath": "Alwa's Awakening",
+      "name": "Alwa's Awakening",
+      "year": "2017",
+      "publisher": "Elden Pixels",
+      "genre": "Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "MADNESS: Project Nexus",
+      "fullpath": "MADNESS: Project Nexus",
+      "name": "MADNESS: Project Nexus",
+      "year": "2021",
+      "publisher": "GIBBING TREE",
+      "genre": "Beat 'em Up; Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Curved Space",
+      "fullpath": "Curved Space",
+      "name": "Curved Space",
+      "year": "2021",
+      "publisher": "Maximum Games",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "SEGA Mega Drive and Genesis Classics",
+      "fullpath": "SEGA Mega Drive and Genesis Classics",
+      "name": "SEGA Mega Drive and Genesis Classics",
+      "year": "2010",
+      "publisher": "Sega",
+      "genre": "Compilation",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Mummy Demastered",
+      "fullpath": "The Mummy Demastered",
+      "name": "The Mummy Demastered",
+      "year": "2017",
+      "publisher": "WayForward",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "Diablo II Resurrected Infernal Edition",
+      "fullpath": "Diablo II Resurrected Infernal Edition",
+      "name": "Diablo II Resurrected Infernal Edition",
+      "year": "2026",
+      "publisher": "Blizzard Entertainment, Inc.",
+      "genre": "Action; RPG; Strategy",
+      "rating": "4"
+    },
+    {
+      "id": "99Vidas",
+      "fullpath": "99Vidas",
+      "name": "99Vidas",
+      "year": "2016",
+      "publisher": "QUByte Interactive",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Double Dragon: Neon",
+      "fullpath": "Double Dragon: Neon",
+      "name": "Double Dragon: Neon",
+      "year": "2014",
+      "publisher": "Midnight City",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Sword of the Necromancer",
+      "fullpath": "Sword of the Necromancer",
+      "name": "Sword of the Necromancer",
+      "year": "2021",
+      "publisher": "Grimorio of Games, JanduSoft",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "3"
+    },
+    {
+      "id": "Zombie Driver HD",
+      "fullpath": "Zombie Driver HD",
+      "name": "Zombie Driver HD",
+      "year": "2012",
+      "publisher": "Exor Studios",
+      "genre": "Action; Indie; Racing",
+      "rating": "4"
+    },
+    {
+      "id": "Door Kickers: Action Squad",
+      "fullpath": "Door Kickers: Action Squad",
+      "name": "Door Kickers: Action Squad",
+      "year": "2018",
+      "publisher": "KillHouse Games",
+      "genre": "Action; Casual; Indie; Simulation; Strategy",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Woden Rally Edge",
+      "fullpath": "Super Woden Rally Edge",
+      "name": "Super Woden Rally Edge",
+      "year": "2026",
+      "publisher": "ViJuDa",
+      "genre": "Indie; Racing; Sports",
+      "rating": "5"
+    },
+    {
+      "id": "Astalon: Tears of the Earth",
+      "fullpath": "Astalon: Tears of the Earth",
+      "name": "Astalon: Tears of the Earth",
+      "year": "2021",
+      "publisher": "DANGEN Entertainment",
+      "genre": "Action; Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Missile Command: Recharged",
+      "fullpath": "Missile Command: Recharged",
+      "name": "Missile Command: Recharged",
+      "year": "2022",
+      "publisher": "Atari Interactive",
+      "genre": "Shooter",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "The Devil Within Satgat",
+      "fullpath": "The Devil Within Satgat",
+      "name": "The Devil Within Satgat",
+      "year": "2024",
+      "publisher": "Newcore Games, Astrolabe Games",
+      "genre": "Action; Adventure; Indie; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "Sonic Mania",
+      "fullpath": "Sonic Mania",
+      "name": "Sonic Mania",
+      "year": "2017",
+      "publisher": "SEGA",
+      "genre": "Action; Adventure; Casual",
+      "rating": "5"
+    },
+    {
+      "id": "Wonder Boy: Asha in Monster World",
+      "fullpath": "Wonder Boy: Asha in Monster World",
+      "name": "Wonder Boy: Asha in Monster World",
+      "year": "2021",
+      "publisher": "Bliss Brain",
+      "genre": "Action; RPG",
+      "rating": "4"
+    },
+    {
+      "id": "Yakuza 5 Remastered",
+      "fullpath": "Yakuza 5 Remastered",
+      "name": "Yakuza 5 Remastered",
+      "year": "2021",
+      "publisher": "SEGA",
+      "genre": "Action; Adventure",
+      "rating": "4"
+    },
+    {
+      "id": "Town of Machine",
+      "fullpath": "Town of Machine",
+      "name": "Town of Machine",
+      "year": "2021",
+      "publisher": "Paul Schneider",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Aeterna Noctis",
+      "fullpath": "Aeterna Noctis",
+      "name": "Aeterna Noctis",
+      "year": "2021",
+      "publisher": "Aeternum Game Studios S.L",
+      "genre": "Action; Adventure; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super Catboy",
+      "fullpath": "Super Catboy",
+      "name": "Super Catboy",
+      "year": "2023",
+      "publisher": "Assemble Entertainment",
+      "genre": "Action; Adventure; Indie",
+      "rating": "4"
+    },
+    {
+      "id": "Super Pixel Racers",
+      "fullpath": "Super Pixel Racers",
+      "name": "Super Pixel Racers",
+      "year": "2019",
+      "publisher": "H2 Interactive Co., Ltd.",
+      "genre": "Action; Indie; Racing",
+      "rating": "3"
+    },
+    {
+      "id": "Quantum Recharged",
+      "fullpath": "Quantum Recharged",
+      "name": "Quantum Recharged",
+      "year": "2023",
+      "publisher": "Atari",
+      "genre": "Action",
+      "rating": "4"
+    },
+    {
+      "id": "Hextech Mayhem: A League of Legends Story",
+      "fullpath": "Hextech Mayhem: A League of Legends Story",
+      "name": "Hextech Mayhem: A League of Legends Story",
+      "year": "2021",
+      "publisher": "Riot Forge",
+      "genre": "Action; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Kaze and the Wild Masks",
+      "fullpath": "Kaze and the Wild Masks",
+      "name": "Kaze and the Wild Masks",
+      "year": "2021",
+      "publisher": "SOEDESCO",
+      "genre": "Action; Adventure; Casual; Indie",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Hi-Fi Rush",
+      "fullpath": "Hi-Fi Rush",
+      "name": "Hi-Fi Rush",
+      "year": "2023",
+      "publisher": "Bethesda Softworks",
+      "genre": "Action; Music",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Project Motor Racing",
+      "fullpath": "Project Motor Racing",
+      "name": "Project Motor Racing",
+      "year": "2025",
+      "publisher": "GIANTS Software",
+      "genre": "Racing; Simulation",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Gabriel Knight: Sins of the Fathers 20th Anniversary Edition",
+      "fullpath": "Gabriel Knight: Sins of the Fathers 20th Anniversary Edition",
+      "name": "Gabriel Knight: Sins of the Fathers 20th Anniversary Edition",
+      "year": "2014",
+      "publisher": "Pinkerton Road Studio",
+      "genre": "Adventure",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Onimusha Warlords",
+      "fullpath": "Onimusha Warlords",
+      "name": "Onimusha Warlords",
+      "year": "2019",
+      "publisher": "CAPCOM CO., LTD",
+      "genre": "Action",
+      "rating": "5"
+    },
+    {
+      "id": "Choplifter HD",
+      "fullpath": "Choplifter HD",
+      "name": "Choplifter HD",
+      "year": "2012",
+      "publisher": "InXile Entertainment",
+      "genre": "Action; Flight Simulator",
+      "rating": "Not Rated"
+    },
+    {
+      "id": "Super High Ball",
+      "fullpath": "Super High Ball",
+      "name": "Super High Ball",
+      "year": "2021",
+      "publisher": "Emberstone Interactive",
+      "genre": "Racing",
+      "rating": "5"
+    },
+    {
+      "id": "Capcom Arcade 2nd Stadium",
+      "fullpath": "Capcom Arcade 2nd Stadium",
+      "name": "Capcom Arcade 2nd Stadium",
+      "year": "2022",
+      "publisher": "CAPCOM Co., Ltd.",
+      "genre": "Action; Free To Play",
       "rating": "Not Rated"
     }
   ]
