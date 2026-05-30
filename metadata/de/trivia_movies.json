@@ -1,0 +1,3485 @@
+{
+  "category": "movies",
+  "facts": [
+    {
+      "id": "mov_001",
+      "text": "E.T. the Extra-Terrestrial (1982) überholte Star Wars und wurde zum erfolgreichsten Film aller Zeiten",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_002",
+      "text": "Steven Spielberg drehte E.T. vollständig aus der Augenhöhe eines Kindes",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_003",
+      "text": "Die Stimme von E.T. entstand durch Mischung von Aufnahmen eines Rülpskünstlers, eines Seeotters, Waschbären und Pferden",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_004",
+      "text": "Melissa Mathison schrieb das Drehbuch zu E.T. in acht Wochen, während Spielberg Raiders drehte",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_005",
+      "text": "Harrison Ford erhielt die Rolle in Raiders of the Lost Ark fast durch Zufall",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_006",
+      "text": "Die ikonische Szene, in der Indiana Jones den Schwertkämpfer erschießt, war improvisiert",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_007",
+      "text": "Raiders of the Lost Ark wurde von allen großen Studios abgelehnt, bevor Paramount ihn aufnahm",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_008",
+      "text": "Tom Selleck war ursprünglich als Indiana Jones besetzt, musste jedoch wegen Magnum P.I ablehnen",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_009",
+      "text": "Back to the Future wurde von allen großen Studios abgelehnt",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_010",
+      "text": "Eric Stoltz war als Marty McFly besetzt und drehte mehrere Wochen, bevor Robert Zemeckis entschied, dass er nicht passte",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_011",
+      "text": "Der DeLorean wurde als Zeitmaschine gewählt, weil seine Edelstahlkarosserie etwas Futuristisches hatte",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_012",
+      "text": "Back to the Future war der erfolgreichste Film von 1985 und hatte zwei direkt aufeinanderfolgende Fortsetzungen 1990",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_013",
+      "text": "Die Enthüllung 'Ich bin dein Vater' in The Empire Strikes Back wurde vor fast dem gesamten Cast geheim gehalten",
+      "system": "movies",
+      "rom": "empire_strikes_back"
+    },
+    {
+      "id": "mov_014",
+      "text": "Yoda in The Empire Strikes Back wurde hauptsächlich von Frank Oz gespielt, der auch Miss Piggy und Fozzie Bear seine Stimme lieh",
+      "system": "movies",
+      "rom": "empire_strikes_back"
+    },
+    {
+      "id": "mov_015",
+      "text": "Die Sequenzen auf dem Eisplaneten Hoth in The Empire Strikes Back wurden in Finse, Norwegen, gedreht",
+      "system": "movies",
+      "rom": "empire_strikes_back"
+    },
+    {
+      "id": "mov_016",
+      "text": "Empire Strikes Back war der erste Star-Wars-Film, der von jemand anderem als George Lucas inszeniert wurde",
+      "system": "movies",
+      "rom": "empire_strikes_back"
+    },
+    {
+      "id": "mov_017",
+      "text": "Die Ewoks in Return of the Jedi sollten ursprünglich Wookiees sein",
+      "system": "movies",
+      "rom": "return_of_the_jedi"
+    },
+    {
+      "id": "mov_018",
+      "text": "Der Titel von Return of the Jedi wurde während der Produktion unter dem Tarnname 'Blue Harvest' geheim gehalten",
+      "system": "movies",
+      "rom": "return_of_the_jedi"
+    },
+    {
+      "id": "mov_019",
+      "text": "John Belushi sollte ursprünglich in Ghostbusters mitspielen, doch sein Tod 1982 führte zu einer vollständigen Neubesetzung",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_020",
+      "text": "Die Protonenpack-Effekte in Ghostbusters wurden durch Rotoskopie animierter Linien über den Bewegungen der Schauspieler erzeugt",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_021",
+      "text": "Bill Murray improvisierte einen Großteil seiner Dialoge in Ghostbusters",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_022",
+      "text": "Ghostbusters (1984) war zum Zeitpunkt seiner Veröffentlichung der finanziell erfolgreichste Komödienfilm aller Zeiten",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_023",
+      "text": "Temple of Doom wurde als Prequel zu Raiders of the Lost Ark gedreht — er spielt ein Jahr früher, im Jahr 1935",
+      "system": "movies",
+      "rom": "temple_of_doom"
+    },
+    {
+      "id": "mov_024",
+      "text": "Der umstrittene Inhalt von Temple of Doom trug direkt zur Einführung der PG-13-Klassifizierung durch die MPAA bei",
+      "system": "movies",
+      "rom": "temple_of_doom"
+    },
+    {
+      "id": "mov_025",
+      "text": "Beverly Hills Cop war ursprünglich als Actionfilm für Sylvester Stallone konzipiert, bevor er ausstieg",
+      "system": "movies",
+      "rom": "beverly_hills_cop"
+    },
+    {
+      "id": "mov_026",
+      "text": "Das Beverly Hills Cop-Thema 'Axel F' von Harold Faltermeyer wurde an einem einzigen Wochenende komponiert",
+      "system": "movies",
+      "rom": "beverly_hills_cop"
+    },
+    {
+      "id": "mov_027",
+      "text": "Beverly Hills Cop war der erfolgreichste Film von 1984 und machte Eddie Murphy zum Filmstar",
+      "system": "movies",
+      "rom": "beverly_hills_cop"
+    },
+    {
+      "id": "mov_028",
+      "text": "Top Gun basierte auf einem Magazinartikel mit dem Titel 'Top Guns' des Journalisten Ehud Yonay über die echte US-Marine-Kampffliegerakademie",
+      "system": "movies",
+      "rom": "top_gun"
+    },
+    {
+      "id": "mov_029",
+      "text": "Die US-Marine verzeichnete nach dem Start von Top Gun 1986 einen Anstieg der Bewerbungen um 500 Prozent",
+      "system": "movies",
+      "rom": "top_gun"
+    },
+    {
+      "id": "mov_030",
+      "text": "Tom Cruise lernte während der Produktion von Top Gun das Fliegen und sammelte genug Stunden für einen Pilotenschein",
+      "system": "movies",
+      "rom": "top_gun"
+    },
+    {
+      "id": "mov_031",
+      "text": "Val Kilmer soll Tom Cruise während der Dreharbeiten nicht ausstehen gekonnt haben, und ihre echte Spannung übertrug sich auf die Leinwand",
+      "system": "movies",
+      "rom": "top_gun"
+    },
+    {
+      "id": "mov_032",
+      "text": "The Breakfast Club wurde in einer echten High School in Des Plaines, Illinois, in nur 45 Tagen gedreht",
+      "system": "movies",
+      "rom": "the_breakfast_club"
+    },
+    {
+      "id": "mov_033",
+      "text": "John Hughes schrieb das Drehbuch zu The Breakfast Club angeblich in zwei Tagen",
+      "system": "movies",
+      "rom": "the_breakfast_club"
+    },
+    {
+      "id": "mov_034",
+      "text": "Die berühmte Schlussszene, in der Judd Nelson die Faust in die Luft reckt, war am letzten Drehtag improvisiert",
+      "system": "movies",
+      "rom": "the_breakfast_club"
+    },
+    {
+      "id": "mov_035",
+      "text": "'Don't You (Forget About Me)' von Simple Minds wurde von mehreren Künstlern abgelehnt, bevor Simple Minds es widerwillig aufnahmen",
+      "system": "movies",
+      "rom": "the_breakfast_club"
+    },
+    {
+      "id": "mov_036",
+      "text": "Ferris Bueller's Day Off wurde fast ausschließlich an Originalschauplätzen in Chicago gedreht",
+      "system": "movies",
+      "rom": "ferris_buellers_day_off"
+    },
+    {
+      "id": "mov_037",
+      "text": "John Hughes schrieb das Drehbuch zu Ferris Bueller in weniger als einer Woche",
+      "system": "movies",
+      "rom": "ferris_buellers_day_off"
+    },
+    {
+      "id": "mov_038",
+      "text": "Matthew Brodericks wiederholtes Durchbrechen der vierten Wand in Ferris Bueller war von Zaz inspiriert",
+      "system": "movies",
+      "rom": "ferris_buellers_day_off"
+    },
+    {
+      "id": "mov_039",
+      "text": "Sixteen Candles war John Hughes' Regiedebüt und wurde in nur 30 Tagen mit einem bescheidenen Budget gedreht",
+      "system": "movies",
+      "rom": "sixteen_candles"
+    },
+    {
+      "id": "mov_040",
+      "text": "Das ursprüngliche Ende von Pretty in Pink sah vor, dass Andie mit Duckie zusammenkommt",
+      "system": "movies",
+      "rom": "pretty_in_pink"
+    },
+    {
+      "id": "mov_041",
+      "text": "Jon Cryers Figur Duckie in Pretty in Pink war beim Publikum so beliebt, dass seine Zurückweisung im Ende für Aufruhr sorgte",
+      "system": "movies",
+      "rom": "pretty_in_pink"
+    },
+    {
+      "id": "mov_042",
+      "text": "Footloose basierte auf einer echten Kontroverse in Elmore City, Oklahoma, wo Tanzen bis 1980 verboten war",
+      "system": "movies",
+      "rom": "footloose"
+    },
+    {
+      "id": "mov_043",
+      "text": "Kevin Bacon führte in Footloose viele seiner eigenen Tanzschritte aus",
+      "system": "movies",
+      "rom": "footloose"
+    },
+    {
+      "id": "mov_044",
+      "text": "Dirty Dancing wurde in nur 43 Tagen für 6 Millionen Dollar gedreht und spielte weltweit über 214 Millionen Dollar ein",
+      "system": "movies",
+      "rom": "dirty_dancing"
+    },
+    {
+      "id": "mov_045",
+      "text": "Patrick Swayze und Jennifer Grey sollen während der Produktion echte persönliche Spannungen gehabt haben",
+      "system": "movies",
+      "rom": "dirty_dancing"
+    },
+    {
+      "id": "mov_046",
+      "text": "'(I've Had) the Time of My Life' aus Dirty Dancing gewann 1988 den Oscar für den besten Originalsong",
+      "system": "movies",
+      "rom": "dirty_dancing"
+    },
+    {
+      "id": "mov_047",
+      "text": "Tom Cruises ikonische Szene mit dem Sockenrutschen in Risky Business war bei einer Probe improvisiert",
+      "system": "movies",
+      "rom": "risky_business"
+    },
+    {
+      "id": "mov_048",
+      "text": "Risky Business machte Tom Cruise zum Star",
+      "system": "movies",
+      "rom": "risky_business"
+    },
+    {
+      "id": "mov_049",
+      "text": "Die Terminator-Rolle wurde von Mel Gibson abgelehnt",
+      "system": "movies",
+      "rom": "the_terminator"
+    },
+    {
+      "id": "mov_050",
+      "text": "James Cameron hatte die Idee zu The Terminator während eines Fiebertraums, als er krank in Rom lag",
+      "system": "movies",
+      "rom": "the_terminator"
+    },
+    {
+      "id": "mov_051",
+      "text": "Arnold Schwarzeneggers Satz 'I'll be back' in The Terminator wäre fast geändert worden",
+      "system": "movies",
+      "rom": "the_terminator"
+    },
+    {
+      "id": "mov_052",
+      "text": "The Terminator wurde für nur 6,4 Millionen Dollar gedreht und spielte weltweit über 78 Millionen Dollar ein",
+      "system": "movies",
+      "rom": "the_terminator"
+    },
+    {
+      "id": "mov_053",
+      "text": "James Cameron schrieb das Drehbuch zu Aliens in wenigen Wochen und inszenierte ihn als Nachfolger von The Terminator",
+      "system": "movies",
+      "rom": "aliens"
+    },
+    {
+      "id": "mov_054",
+      "text": "Sigourney Weaver wurde für Aliens für den Oscar als beste Hauptdarstellerin nominiert",
+      "system": "movies",
+      "rom": "aliens"
+    },
+    {
+      "id": "mov_055",
+      "text": "Das Arsenal der Marines in Aliens war so detailliert, dass Militärberater hinzugezogen wurden, um es zu gestalten",
+      "system": "movies",
+      "rom": "aliens"
+    },
+    {
+      "id": "mov_056",
+      "text": "In Predator spielten zwei spätere US-Gouverneure mit — Arnold Schwarzenegger und Jesse Ventura",
+      "system": "movies",
+      "rom": "predator"
+    },
+    {
+      "id": "mov_057",
+      "text": "Das ursprüngliche Design des Predators sah ganz anders aus",
+      "system": "movies",
+      "rom": "predator"
+    },
+    {
+      "id": "mov_058",
+      "text": "RoboCop erhielt viermal die X-Bewertung, bevor Regisseur Paul Verhoeven Schnitte vornahm, um eine R-Bewertung zu erreichen",
+      "system": "movies",
+      "rom": "robocop"
+    },
+    {
+      "id": "mov_059",
+      "text": "Peter Weller verbrachte Monate im Training mit dem Mime Moni Yakim, um RoboCops markante mechanische Bewegungen zu entwickeln",
+      "system": "movies",
+      "rom": "robocop"
+    },
+    {
+      "id": "mov_060",
+      "text": "Die satirischen Nachrichten- und Werbesegmente in RoboCop wurden von Verhoevens europäischem Blick auf die amerikanische Kultur inspiriert",
+      "system": "movies",
+      "rom": "robocop"
+    },
+    {
+      "id": "mov_061",
+      "text": "Die Hard basierte auf dem Roman 'Nothing Lasts Forever', der selbst eine Fortsetzung war",
+      "system": "movies",
+      "rom": "die_hard"
+    },
+    {
+      "id": "mov_062",
+      "text": "Frank Sinatra hatte aufgrund seines früheren Films, der auf demselben Quellroman basierte, ein erstes Ablehnungsrecht bei Die Hard",
+      "system": "movies",
+      "rom": "die_hard"
+    },
+    {
+      "id": "mov_063",
+      "text": "Bruce Willis wurde für Die Hard mit 5 Millionen Dollar entlohnt",
+      "system": "movies",
+      "rom": "die_hard"
+    },
+    {
+      "id": "mov_064",
+      "text": "Alan Rickmans entsetzter Gesichtsausdruck beim Sturz von Hans Gruber vom Nakatomi Plaza war echt",
+      "system": "movies",
+      "rom": "die_hard"
+    },
+    {
+      "id": "mov_065",
+      "text": "Oliver Stone schrieb Platoon auf Basis seiner eigenen Erfahrungen als US-Infanteriesoldat in Vietnam 1967-68",
+      "system": "movies",
+      "rom": "platoon"
+    },
+    {
+      "id": "mov_066",
+      "text": "Platoon gewann vier Oscars, darunter Bester Film und Beste Regie",
+      "system": "movies",
+      "rom": "platoon"
+    },
+    {
+      "id": "mov_067",
+      "text": "Charlie Sheen, Willem Dafoe und Tom Berenger trainierten alle mit echten Militärveteranen im Dschungel der Philippinen",
+      "system": "movies",
+      "rom": "platoon"
+    },
+    {
+      "id": "mov_068",
+      "text": "Full Metal Jacket wurde vollständig in England gedreht",
+      "system": "movies",
+      "rom": "full_metal_jacket"
+    },
+    {
+      "id": "mov_069",
+      "text": "R. Lee Ermey spielte Drill Sergeant Hartman in Full Metal Jacket",
+      "system": "movies",
+      "rom": "full_metal_jacket"
+    },
+    {
+      "id": "mov_070",
+      "text": "Stanley Kubrick benötigte über drei Jahre für die Fertigstellung von Full Metal Jacket",
+      "system": "movies",
+      "rom": "full_metal_jacket"
+    },
+    {
+      "id": "mov_071",
+      "text": "Rain Man war vier Jahre lang in Entwicklung und durchlief zahlreiche Regisseur- und Besetzungswechsel",
+      "system": "movies",
+      "rom": "rain_man"
+    },
+    {
+      "id": "mov_072",
+      "text": "Dustin Hoffman bereitete sich auf Rain Man vor, indem er Zeit mit mehreren autistischen Savants verbrachte",
+      "system": "movies",
+      "rom": "rain_man"
+    },
+    {
+      "id": "mov_073",
+      "text": "Rain Man gewann 1989 den Oscar für den besten Film und war der erfolgreichste Film dieses Jahres",
+      "system": "movies",
+      "rom": "rain_man"
+    },
+    {
+      "id": "mov_074",
+      "text": "Die Besetzung von Michael Keaton als Batman 1989 löste unter Fans Empörung aus",
+      "system": "movies",
+      "rom": "batman_1989"
+    },
+    {
+      "id": "mov_075",
+      "text": "Jack Nicholson handelte für Batman einen Vertrag heraus, der eine Beteiligung an den Merchandising-Einnahmen beinhaltete",
+      "system": "movies",
+      "rom": "batman_1989"
+    },
+    {
+      "id": "mov_076",
+      "text": "Die Marketingkampagne des Batman-Films von 1989 wurde zu einem Kulturphänomen",
+      "system": "movies",
+      "rom": "batman_1989"
+    },
+    {
+      "id": "mov_077",
+      "text": "Gremlins und Indiana Jones and the Temple of Doom trugen beide zur Einführung der PG-13-Klassifizierung durch die MPAA bei",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_078",
+      "text": "Die Gremlins waren ursprünglich als weitaus groteskere Kreaturen skizziert worden",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_079",
+      "text": "Gizmo war während der Produktion so beliebt, dass die Entscheidung, ihn in einen Gremlin zu verwandeln, rückgängig gemacht wurde",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_080",
+      "text": "Steven Spielberg schrieb die Geschichte zu The Goonies",
+      "system": "movies",
+      "rom": "the_goonies"
+    },
+    {
+      "id": "mov_081",
+      "text": "Die jugendlichen Darsteller von The Goonies wurden vor den Dreharbeiten von den aufwendigen Kulissen ferngehalten",
+      "system": "movies",
+      "rom": "the_goonies"
+    },
+    {
+      "id": "mov_082",
+      "text": "The Goonies verwendete ein echtes Piratenschiff, das eigens im Studio gebaut wurde",
+      "system": "movies",
+      "rom": "the_goonies"
+    },
+    {
+      "id": "mov_083",
+      "text": "Stand by Me basierte auf Stephen Kings Novelle 'The Body' aus seiner Sammlung Different Seasons",
+      "system": "movies",
+      "rom": "stand_by_me"
+    },
+    {
+      "id": "mov_084",
+      "text": "River Phoenixs Leistung in Stand by Me gilt weithin als eine der besten Kinderdarstellungen der Filmgeschichte",
+      "system": "movies",
+      "rom": "stand_by_me"
+    },
+    {
+      "id": "mov_085",
+      "text": "Beetlejuice war Tim Burtons zweiter Spielfilm und begründete seine charakteristische makabre Ästhetik",
+      "system": "movies",
+      "rom": "beetlejuice"
+    },
+    {
+      "id": "mov_086",
+      "text": "Michael Keaton ist in Beetlejuice trotz Titelrolle nur etwa 17 Minuten auf der Leinwand zu sehen",
+      "system": "movies",
+      "rom": "beetlejuice"
+    },
+    {
+      "id": "mov_087",
+      "text": "Der Name 'Beetlejuice' wurde im Filmtitel absichtlich falsch geschrieben",
+      "system": "movies",
+      "rom": "beetlejuice"
+    },
+    {
+      "id": "mov_088",
+      "text": "Pee-wee's Big Adventure war Tim Burtons Spielfilmdebüt, für 8 Millionen Dollar gedreht und mit über 40 Millionen eingespielt",
+      "system": "movies",
+      "rom": "peewees_big_adventure"
+    },
+    {
+      "id": "mov_089",
+      "text": "Poltergeist wurde von Steven Spielberg produziert und von Tobe Hooper inszeniert",
+      "system": "movies",
+      "rom": "poltergeist"
+    },
+    {
+      "id": "mov_090",
+      "text": "In der Schwimmbadszene von Poltergeist wurden echte menschliche Skelette als Requisiten verwendet, weil sie günstiger waren",
+      "system": "movies",
+      "rom": "poltergeist"
+    },
+    {
+      "id": "mov_091",
+      "text": "Stanley Kubrick hielt die Besetzung während der Dreharbeiten zu The Shining absichtlich in einem Zustand der Unsicherheit",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_092",
+      "text": "Das Heckenlabyrinth in The Shining existierte am Außendrehort des Overlook Hotels nicht",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_093",
+      "text": "The Shining erforderte bei manchen Szenen die meisten Wiederholungsaufnahmen in der Filmgeschichte",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_094",
+      "text": "Al Pacinos kubanischer Akzent in Scarface wurde von einem Dialektcoach trainiert, aber vom kubanischen Publikum dennoch kritisiert",
+      "system": "movies",
+      "rom": "scarface"
+    },
+    {
+      "id": "mov_095",
+      "text": "Scarface erhielt von der MPAA die X-Bewertung, bevor Schnitte vorgenommen wurden",
+      "system": "movies",
+      "rom": "scarface"
+    },
+    {
+      "id": "mov_096",
+      "text": "Scarface wurde hauptsächlich in Los Angeles und Miami gedreht, obwohl der Film ausschließlich in Miami spielt",
+      "system": "movies",
+      "rom": "scarface"
+    },
+    {
+      "id": "mov_097",
+      "text": "Blade Runner floppte 1982 an der Kinokasse, gewann aber nach und nach eine Kultanhängerschaft",
+      "system": "movies",
+      "rom": "blade_runner"
+    },
+    {
+      "id": "mov_098",
+      "text": "Ridley Scott und Harrison Ford gerieten während der Produktion von Blade Runner bekanntermaßen in Konflikt",
+      "system": "movies",
+      "rom": "blade_runner"
+    },
+    {
+      "id": "mov_099",
+      "text": "Rutger Hauer improvisierte den Monolog 'Tränen im Regen' am Tag der Aufnahme",
+      "system": "movies",
+      "rom": "blade_runner"
+    },
+    {
+      "id": "mov_100",
+      "text": "Es existieren sieben verschiedene Versionen von Blade Runner",
+      "system": "movies",
+      "rom": "blade_runner"
+    },
+    {
+      "id": "mov_101",
+      "text": "Tron (1982) wurde für den Oscar für visuelle Effekte disqualifiziert",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_102",
+      "text": "Tron kombinierte hinterleuchtete Animation, Computergrafik und praktische Effekte",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_103",
+      "text": "WarGames (1983) beeinflusste Präsident Reagan direkt",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_104",
+      "text": "WarGames half dabei, das Konzept des Hackens im öffentlichen Bewusstsein zu verankern",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_105",
+      "text": "Die berühmte Duschszene in Flashdance entstand einfach dadurch, dass ein Eimer Wasser ausgegossen wurde",
+      "system": "movies",
+      "rom": "flashdance"
+    },
+    {
+      "id": "mov_106",
+      "text": "Die meisten Tanzsequenzen von Jennifer Beals in Flashdance wurden von einem französischen männlichen Tänzer ausgeführt",
+      "system": "movies",
+      "rom": "flashdance"
+    },
+    {
+      "id": "mov_107",
+      "text": "Für Tootsie musste Dustin Hoffman täglich ein vollständiges weibliches Prothesen-Gesicht und eine Perücke tragen",
+      "system": "movies",
+      "rom": "tootsie"
+    },
+    {
+      "id": "mov_108",
+      "text": "Dustin Hoffman konzipierte Tootsie als ernsthafte schauspielerische Herausforderung, nachdem er festgestellt hatte, dass er wie eine Frau aussehen konnte",
+      "system": "movies",
+      "rom": "tootsie"
+    },
+    {
+      "id": "mov_109",
+      "text": "48 Hrs. machte Nick Nolte und Eddie Murphy als Duo bekannt und begründete die Vorlage des Buddy-Cop-Genres",
+      "system": "movies",
+      "rom": "48_hrs"
+    },
+    {
+      "id": "mov_110",
+      "text": "Eddie Murphys Auftritt in 48 Hrs. war größtenteils improvisiert",
+      "system": "movies",
+      "rom": "48_hrs"
+    },
+    {
+      "id": "mov_111",
+      "text": "The Color Purple erhielt 1986 elf Oscar-Nominierungen, gewann aber keine einzige",
+      "system": "movies",
+      "rom": "the_color_purple"
+    },
+    {
+      "id": "mov_112",
+      "text": "Oprah Winfrey wurde von Steven Spielberg für The Color Purple besetzt, nachdem er sie in ihrer Chicagoer Morgensendung gesehen hatte",
+      "system": "movies",
+      "rom": "the_color_purple"
+    },
+    {
+      "id": "mov_113",
+      "text": "Sean Connery wurde als Indiana Jones' Vater in The Last Crusade zum Teil als Scherz besetzt",
+      "system": "movies",
+      "rom": "last_crusade"
+    },
+    {
+      "id": "mov_114",
+      "text": "Die Panzerszene in The Last Crusade wurde in der Tabernas-Wüste in Spanien gedreht",
+      "system": "movies",
+      "rom": "last_crusade"
+    },
+    {
+      "id": "mov_115",
+      "text": "Crocodile Dundee war 1986 der weltweit zweiterfolgreichste Film",
+      "system": "movies",
+      "rom": "crocodile_dundee"
+    },
+    {
+      "id": "mov_116",
+      "text": "Paul Hogan schrieb Crocodile Dundee mit und basierte die Figur teilweise auf einem australischen Buschmann, den er Jahre zuvor kennengelernt hatte",
+      "system": "movies",
+      "rom": "crocodile_dundee"
+    },
+    {
+      "id": "mov_117",
+      "text": "Ivan Reitmans Twins paarte Arnold Schwarzenegger und Danny DeVito als Geschwister",
+      "system": "movies",
+      "rom": "twins"
+    },
+    {
+      "id": "mov_118",
+      "text": "Eddie Murphy trat in Coming to America mithilfe von Prothesenmasken in mehreren Rollen auf",
+      "system": "movies",
+      "rom": "coming_to_america"
+    },
+    {
+      "id": "mov_119",
+      "text": "Art Buchwald verklagte Paramount Pictures mit der Behauptung, Coming to America basiere auf seinem eigenen Exposé",
+      "system": "movies",
+      "rom": "coming_to_america"
+    },
+    {
+      "id": "mov_120",
+      "text": "Robin Williams improvisierte den Großteil seiner On-Air-Sequenzen in Good Morning",
+      "system": "movies",
+      "rom": "good_morning_vietnam"
+    },
+    {
+      "id": "mov_121",
+      "text": "Die berühmte Restaurantszene in When Harry Met Sally wurde im Katz's Delicatessen in New York City gedreht",
+      "system": "movies",
+      "rom": "when_harry_met_sally"
+    },
+    {
+      "id": "mov_122",
+      "text": "Estelle Reiner, die die ikonische Zeile 'I'll have what she's having' spricht, war die Mutter von Regisseur Rob Reiner",
+      "system": "movies",
+      "rom": "when_harry_met_sally"
+    },
+    {
+      "id": "mov_123",
+      "text": "Der Baseballdiamond aus Field of Dreams in Dyersville",
+      "system": "movies",
+      "rom": "field_of_dreams"
+    },
+    {
+      "id": "mov_124",
+      "text": "Kevin Costner kämpfte dafür, dass Field of Dreams als ernstes Drama umgesetzt wird statt als Komödie, wie Universal es ursprünglich plante",
+      "system": "movies",
+      "rom": "field_of_dreams"
+    },
+    {
+      "id": "mov_125",
+      "text": "Driving Miss Daisy gewann den Oscar für den besten Film, obwohl Regisseur Bruce Beresford nicht nominiert worden war",
+      "system": "movies",
+      "rom": "driving_miss_daisy"
+    },
+    {
+      "id": "mov_126",
+      "text": "Bull Durham gilt durchgehend als der beste Baseballfilm aller Zeiten und begründete Kevin Costners Karriere als Sportfilmstar",
+      "system": "movies",
+      "rom": "bull_durham"
+    },
+    {
+      "id": "mov_127",
+      "text": "Die Chemie zwischen Robert De Niro und Charles Grodin in Midnight Run war so natürlich, dass improvisierte Szenen in den Film aufgenommen wurden",
+      "system": "movies",
+      "rom": "midnight_run"
+    },
+    {
+      "id": "mov_128",
+      "text": "Three Men and a Baby war 1987 der erfolgreichste Film in den Vereinigten Staaten",
+      "system": "movies",
+      "rom": "three_men_and_a_baby"
+    },
+    {
+      "id": "mov_129",
+      "text": "Three Men and a Baby war ein Remake des französischen Films Trois hommes et un couffin, der selbst auf einem Theaterstück basierte",
+      "system": "movies",
+      "rom": "three_men_and_a_baby"
+    },
+    {
+      "id": "mov_130",
+      "text": "John Hughes schrieb Planes, Trains and Automobiles in einer Woche, nachdem er selbst in einem verspäteten Flugzeug gestrandet war",
+      "system": "movies",
+      "rom": "planes_trains_automobiles"
+    },
+    {
+      "id": "mov_131",
+      "text": "Steve Martin und John Candy schlossen während der Dreharbeiten zu Planes eine so tiefe Freundschaft, die auch abseits des Sets anhielt",
+      "system": "movies",
+      "rom": "planes_trains_automobiles"
+    },
+    {
+      "id": "mov_132",
+      "text": "Weird Science war lose an der gleichnamigen Comicserie der 1950er Jahre angelehnt",
+      "system": "movies",
+      "rom": "weird_science"
+    },
+    {
+      "id": "mov_133",
+      "text": "John Cusacks Ghettoblaster-Szene in Say Anything wurde zu einem der romantischsten Momente der Filmgeschichte",
+      "system": "movies",
+      "rom": "say_anything"
+    },
+    {
+      "id": "mov_134",
+      "text": "Heathers wurde von allen großen Studios abgelehnt und schließlich von einem kleinen Verleiher herausgebracht",
+      "system": "movies",
+      "rom": "heathers"
+    },
+    {
+      "id": "mov_135",
+      "text": "Winona Ryder war erst 15 Jahre alt, als sie Heathers drehte, und benötigte während der gesamten Produktion einen Tutor am Set",
+      "system": "movies",
+      "rom": "heathers"
+    },
+    {
+      "id": "mov_136",
+      "text": "The Lost Boys vereinte zwei Coreys — Corey Haim und Corey Feldman — die zu Hollywoods berühmtestem Jungstar-Duo wurden",
+      "system": "movies",
+      "rom": "the_lost_boys"
+    },
+    {
+      "id": "mov_137",
+      "text": "Joel Schumacher hatte sich The Lost Boys ursprünglich als einen deutlich jüngeren, kindgerechteren Film vorgestellt",
+      "system": "movies",
+      "rom": "the_lost_boys"
+    },
+    {
+      "id": "mov_138",
+      "text": "A Nightmare on Elm Street war Wes Cravens erster großer Studiofilm und wurde für nur 1,8 Millionen Dollar gedreht",
+      "system": "movies",
+      "rom": "nightmare_on_elm_street"
+    },
+    {
+      "id": "mov_139",
+      "text": "Johnny Depp gab 1984 in A Nightmare on Elm Street sein Filmdebüt in der kleinen Rolle des Glen Lantz",
+      "system": "movies",
+      "rom": "nightmare_on_elm_street"
+    },
+    {
+      "id": "mov_140",
+      "text": "Das Freddy-Krueger-Make-up von Robert Englund erforderte jeden Drehtag drei Stunden für das Auftragen",
+      "system": "movies",
+      "rom": "nightmare_on_elm_street"
+    },
+    {
+      "id": "mov_141",
+      "text": "Kevin Bacon trat früh in seiner Karriere in Friday the 13th (1980) auf",
+      "system": "movies",
+      "rom": "friday_the_13th"
+    },
+    {
+      "id": "mov_142",
+      "text": "Der ikonische Sound 'ki ki ki, ma ma ma' von Friday the 13th wurde vom Komponisten Harry Manfredini durch das Singen von 'kill' erzeugt",
+      "system": "movies",
+      "rom": "friday_the_13th"
+    },
+    {
+      "id": "mov_143",
+      "text": "Michael Myers' Maske in Halloween war eine weiß angemalte William-Shatner-Captain-Kirk-Maske",
+      "system": "movies",
+      "rom": "halloween"
+    },
+    {
+      "id": "mov_144",
+      "text": "Halloween II (1981) wurde von John Carpenter mitgeschrieben",
+      "system": "movies",
+      "rom": "halloween"
+    },
+    {
+      "id": "mov_145",
+      "text": "John Carpenters The Thing floppte an der Kinokasse, da er im selben Sommer wie E.T. startete",
+      "system": "movies",
+      "rom": "the_thing"
+    },
+    {
+      "id": "mov_146",
+      "text": "Rob Bottins praktische Kreatureneffekte in The Thing erforderten schätzungsweise 40 oder mehr Crew-Mitglieder",
+      "system": "movies",
+      "rom": "the_thing"
+    },
+    {
+      "id": "mov_147",
+      "text": "Der Kranich-Tritt in The Karate Kid galt nach echten Turnierregeln als illegaler Zug",
+      "system": "movies",
+      "rom": "the_karate_kid"
+    },
+    {
+      "id": "mov_148",
+      "text": "Pat Morita wurde für seine Rolle als Mr Miyagi für den Oscar als bester Nebendarsteller nominiert",
+      "system": "movies",
+      "rom": "the_karate_kid"
+    },
+    {
+      "id": "mov_149",
+      "text": "Die Turnierszenen in The Karate Kid wurden bei einem echten Karateturnier in Kalifornien gedreht",
+      "system": "movies",
+      "rom": "the_karate_kid"
+    },
+    {
+      "id": "mov_150",
+      "text": "Mr. T bereitete sich auf seine Rolle als Clubber Lang in Rocky III vor, indem er täglich mit professionellen Boxern trainierte",
+      "system": "movies",
+      "rom": "rocky_iii"
+    },
+    {
+      "id": "mov_151",
+      "text": "Dolph Lundgren, der in Rocky IV Ivan Drago spielte, war vor seiner Schauspielkarriere echter Kampfsportler und Student der Chemieingenieurwissenschaften",
+      "system": "movies",
+      "rom": "rocky_iv"
+    },
+    {
+      "id": "mov_152",
+      "text": "Die Trainingssequenz in Rocky IV — Rocky im Schnee gegen Dragos High-Tech-Gym — wurde eine der ikonischsten Sportfilmszenen der 1980er",
+      "system": "movies",
+      "rom": "rocky_iv"
+    },
+    {
+      "id": "mov_153",
+      "text": "Michael Douglas gewann den Oscar als bester Hauptdarsteller für Wall Street dank seiner legendären Verkörperung von Gordon Gekko",
+      "system": "movies",
+      "rom": "wall_street"
+    },
+    {
+      "id": "mov_154",
+      "text": "Gordon Gekkos Rede 'Gier ist gut' wurde von einer echten Abschlussrede des Junk-Bond-Königs Ivan Boesky aus dem Jahr 1986 inspiriert",
+      "system": "movies",
+      "rom": "wall_street"
+    },
+    {
+      "id": "mov_155",
+      "text": "Melanie Griffith wurde für Working Girl für den Oscar als beste Hauptdarstellerin nominiert",
+      "system": "movies",
+      "rom": "working_girl"
+    },
+    {
+      "id": "mov_156",
+      "text": "Who Framed Roger Rabbit brachte erstmals Disney- und Warner-Bros.-Zeichentrickfiguren gemeinsam auf die Leinwand",
+      "system": "movies",
+      "rom": "who_framed_roger_rabbit"
+    },
+    {
+      "id": "mov_157",
+      "text": "Jede Animation in Who Framed Roger Rabbit wurde von Hand gezeichnet, um präzise mit dem Realfilm zu interagieren",
+      "system": "movies",
+      "rom": "who_framed_roger_rabbit"
+    },
+    {
+      "id": "mov_158",
+      "text": "Bob Hoskins reagierte am Set so intensiv auf unsichtbare Zeichentrickfiguren, dass er angeblich Halluzinationen hatte",
+      "system": "movies",
+      "rom": "who_framed_roger_rabbit"
+    },
+    {
+      "id": "mov_159",
+      "text": "'Weird Al' Yankovics UHF floppte an den Kinokassen, wurde aber zum Kultfilm",
+      "system": "movies",
+      "rom": "uhf"
+    },
+    {
+      "id": "mov_160",
+      "text": "Tom Hanks war nicht die erste Wahl für Big",
+      "system": "movies",
+      "rom": "big"
+    },
+    {
+      "id": "mov_161",
+      "text": "Die Szene mit dem Klavierboden bei FAO Schwarz in Big wurde wochenlang choreografiert und geprobt, bevor gedreht wurde",
+      "system": "movies",
+      "rom": "big"
+    },
+    {
+      "id": "mov_162",
+      "text": "Tom Cruise trainierte für Cocktail (1988) intensiv mit echten Bartendern",
+      "system": "movies",
+      "rom": "cocktail"
+    },
+    {
+      "id": "mov_163",
+      "text": "The Princess Bride war über ein Jahrzehnt lang in der Entwicklung",
+      "system": "movies",
+      "rom": "the_princess_bride"
+    },
+    {
+      "id": "mov_164",
+      "text": "Cary Elwes brach sich beim Dreh von The Princess Bride den Zeh, als Andre the Giant versehentlich darauftrat",
+      "system": "movies",
+      "rom": "the_princess_bride"
+    },
+    {
+      "id": "mov_165",
+      "text": "Andre the Giant, der in The Princess Bride Fezzik spielte, führte viele seiner eigenen Stunts durch",
+      "system": "movies",
+      "rom": "the_princess_bride"
+    },
+    {
+      "id": "mov_166",
+      "text": "Willow war einer der ersten großen Filme, der digitale Morphing-Effekte einsetzte",
+      "system": "movies",
+      "rom": "willow"
+    },
+    {
+      "id": "mov_167",
+      "text": "David Bowie schrieb und sang alle fünf Originalsongs in Labyrinth und half dabei, den Look seiner Figur zu gestalten",
+      "system": "movies",
+      "rom": "labyrinth"
+    },
+    {
+      "id": "mov_168",
+      "text": "Jim Henson drehte Labyrinth als persönliches Herzensprojekt",
+      "system": "movies",
+      "rom": "labyrinth"
+    },
+    {
+      "id": "mov_169",
+      "text": "The Dark Crystal (1982) zeigte keinen einzigen menschlichen Schauspieler auf der Leinwand",
+      "system": "movies",
+      "rom": "the_dark_crystal"
+    },
+    {
+      "id": "mov_170",
+      "text": "Johnny 5, der Roboter in Short Circuit, wurde von mehreren Puppenspielern und Fernbedienungen gesteuert",
+      "system": "movies",
+      "rom": "short_circuit"
+    },
+    {
+      "id": "mov_171",
+      "text": "Der Soundtrack von Mannequin enthielt Starships 'Nothing's Gonna Stop Us Now'",
+      "system": "movies",
+      "rom": "mannequin"
+    },
+    {
+      "id": "mov_172",
+      "text": "Goldie Hawn und Kurt Russell, die in Overboard ein romantisches Paar spielten, waren auch im echten Leben ein Paar",
+      "system": "movies",
+      "rom": "overboard"
+    },
+    {
+      "id": "mov_173",
+      "text": "Broadcast News wurde von James L. Brooks geschrieben, produziert und inszeniert",
+      "system": "movies",
+      "rom": "broadcast_news"
+    },
+    {
+      "id": "mov_174",
+      "text": "Trading Places (1983) mit Dan Aykroyd und Eddie Murphy ließ sich von der Debatte 'Natur versus Erziehung' inspirieren",
+      "system": "movies",
+      "rom": "trading_places"
+    },
+    {
+      "id": "mov_175",
+      "text": "Trading Places war eines der ersten Male, dass ein schwarzer Schauspieler gleichberechtigt neben einem großen weißen Filmstar auf dem Plakat stand",
+      "system": "movies",
+      "rom": "trading_places"
+    },
+    {
+      "id": "mov_176",
+      "text": "Chevy Chase improvisierte beim Dreh von Fletch fast alle Verkleidungsnamen und Hintergrundgeschichten seiner Figur",
+      "system": "movies",
+      "rom": "fletch"
+    },
+    {
+      "id": "mov_177",
+      "text": "National Lampoon's Vacation basierte auf John Hughes' eigener autobiografischer Kurzgeschichte, die im National Lampoon veröffentlicht wurde",
+      "system": "movies",
+      "rom": "vacation"
+    },
+    {
+      "id": "mov_178",
+      "text": "Chevy Chase weigerte sich, die Walley-World-Fahrszene ohne Stuntdouble zu drehen",
+      "system": "movies",
+      "rom": "vacation"
+    },
+    {
+      "id": "mov_179",
+      "text": "Mel Brooks erhielt George Lucas' Segen für Spaceballs unter der Bedingung, dass kein Spaceballs-Merchandise verkauft werden würde",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_180",
+      "text": "Rick Moranis führte bei seinen eigenen Szenen in Spaceballs selbst Regie, während Mel Brooks mit anderen Szenen beschäftigt war",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_181",
+      "text": "Die Erdhörnchen-Szenen in Caddyshack waren so schwierig zu drehen, dass Regisseur Harold Ramis erwog, sie herauszuschneiden",
+      "system": "movies",
+      "rom": "caddyshack"
+    },
+    {
+      "id": "mov_182",
+      "text": "Bill Murray improvisierte die gesamte 'Cinderella Story'-Erdhörnchen-Szene in Caddyshack",
+      "system": "movies",
+      "rom": "caddyshack"
+    },
+    {
+      "id": "mov_183",
+      "text": "Stripes nutzte das echte Fort Knox als Drehort — das Ergebnis diplomatischer Verhandlungen zwischen den Produzenten und der US-Regierung",
+      "system": "movies",
+      "rom": "stripes"
+    },
+    {
+      "id": "mov_184",
+      "text": "Police Academy brachte zwischen 1984 und 1994 sieben Filme hervor und machte Michael Winslow als den 'Mann der 10.000 Geräusche' bekannt",
+      "system": "movies",
+      "rom": "police_academy"
+    },
+    {
+      "id": "mov_185",
+      "text": "Porky's war viele Jahre lang der kommerziell erfolgreichste kanadische Film und half dabei, das Teenie-Sexkomödien-Genre zu etablieren",
+      "system": "movies",
+      "rom": "porkys"
+    },
+    {
+      "id": "mov_186",
+      "text": "Revenge of the Nerds wurde an der University of Arizona gedreht, nachdem die University of Georgia ihre Genehmigung zurückgezogen hatte",
+      "system": "movies",
+      "rom": "revenge_of_the_nerds"
+    },
+    {
+      "id": "mov_187",
+      "text": "Fast Times at Ridgemont High war Cameron Crowes Adaption seines eigenen Buches",
+      "system": "movies",
+      "rom": "fast_times"
+    },
+    {
+      "id": "mov_188",
+      "text": "Sean Penns Jeff Spicoli in Fast Times at Ridgemont High basiert auf einem echten Schüler, dem Cameron Crowe begegnete",
+      "system": "movies",
+      "rom": "fast_times"
+    },
+    {
+      "id": "mov_189",
+      "text": "Some Kind of Wonderful war John Hughes' persönlicher Lieblingsfilm unter allen Drehbüchern, die er geschrieben hatte",
+      "system": "movies",
+      "rom": "some_kind_of_wonderful"
+    },
+    {
+      "id": "mov_190",
+      "text": "Can't Buy Me Love war Patrick Dempseys Film vor seinem Ruhm durch Grey's Anatomy und erkundete die soziale Hierarchie in der High School",
+      "system": "movies",
+      "rom": "cant_buy_me_love"
+    },
+    {
+      "id": "mov_191",
+      "text": "Girls Just Want to Have Fun war ein Frühwerk von Sarah Jessica Parker",
+      "system": "movies",
+      "rom": "girls_just_want_to_have_fun"
+    },
+    {
+      "id": "mov_192",
+      "text": "The Sure Thing war Rob Reiners Aufwärmfilm vor Stand by Me",
+      "system": "movies",
+      "rom": "the_sure_thing"
+    },
+    {
+      "id": "mov_193",
+      "text": "License to Drive vereinte die beiden Coreys erneut auf der Leinwand",
+      "system": "movies",
+      "rom": "license_to_drive"
+    },
+    {
+      "id": "mov_194",
+      "text": "Clue (1985) wurde mit drei verschiedenen Enden in verschiedenen Kinos gezeigt",
+      "system": "movies",
+      "rom": "clue"
+    },
+    {
+      "id": "mov_195",
+      "text": "Tim Currys Auftritt in Clue wurde für die verschiedenen Enden mehrfach gedreht",
+      "system": "movies",
+      "rom": "clue"
+    },
+    {
+      "id": "mov_196",
+      "text": "Purple Rain war Princes erster Kinofilm und gewann den Oscar für die beste Originalmusik",
+      "system": "movies",
+      "rom": "purple_rain"
+    },
+    {
+      "id": "mov_197",
+      "text": "Die Konzertaufnahmen in Purple Rain wurden über zwei Nächte im First Avenue in Minneapolis vor echtem Publikum gedreht",
+      "system": "movies",
+      "rom": "purple_rain"
+    },
+    {
+      "id": "mov_198",
+      "text": "This Is Spinal Tap war größtenteils improvisiert",
+      "system": "movies",
+      "rom": "this_is_spinal_tap"
+    },
+    {
+      "id": "mov_199",
+      "text": "This Is Spinal Tap prägte den Begriff 'Mockumentary' und beeinflusste ein ganzes Komödiengenre",
+      "system": "movies",
+      "rom": "this_is_spinal_tap"
+    },
+    {
+      "id": "mov_200",
+      "text": "Amadeus gewann 1985 acht Oscars, darunter den für den besten Film",
+      "system": "movies",
+      "rom": "amadeus"
+    },
+    {
+      "id": "mov_201",
+      "text": "Dead Poets Society (1989) wurde an der St Andrew's School in Delaware gedreht",
+      "system": "movies",
+      "rom": "dead_poets_society"
+    },
+    {
+      "id": "mov_202",
+      "text": "Robin Williams improvisierte viele seiner Englischstunden-Vorträge in Dead Poets Society",
+      "system": "movies",
+      "rom": "dead_poets_society"
+    },
+    {
+      "id": "mov_203",
+      "text": "Bill & Ted's Excellent Adventure (1989) verwendete eine echte, außer Betrieb gestellte britische Telefonzelle als Zeitmaschine",
+      "system": "movies",
+      "rom": "bill_and_ted"
+    },
+    {
+      "id": "mov_204",
+      "text": "Keanu Reeves hatte anfangs Mühe, sich von seinen düsteren früheren Rollen zu lösen, um Bill & Ted zu verkörpern",
+      "system": "movies",
+      "rom": "bill_and_ted"
+    },
+    {
+      "id": "mov_205",
+      "text": "Back to the Future Part II sagte Hoverboards voraus",
+      "system": "movies",
+      "rom": "back_to_the_future_2"
+    },
+    {
+      "id": "mov_206",
+      "text": "Robert Zemeckis und Bob Gale drehten Back to the Future Parts II und III gleichzeitig, um den Aufbau der Kulissen nur einmal zu bewältigen",
+      "system": "movies",
+      "rom": "back_to_the_future_2"
+    },
+    {
+      "id": "mov_207",
+      "text": "Jeff Goldblum stützte seine Darstellung in The Fly (1986) auf das Konzept der Metamorphose",
+      "system": "movies",
+      "rom": "the_fly"
+    },
+    {
+      "id": "mov_208",
+      "text": "Die Kreatureneffekte in The Fly wurden von Chris Walas entworfen, der dafür den Oscar für bestes Make-up gewann",
+      "system": "movies",
+      "rom": "the_fly"
+    },
+    {
+      "id": "mov_209",
+      "text": "Im ursprünglichen Ende von Fatal Attraction begeht Alex Selbstmord und beschuldigt Dan des Mordes",
+      "system": "movies",
+      "rom": "fatal_attraction"
+    },
+    {
+      "id": "mov_210",
+      "text": "Glenn Close recherchierte für Fatal Attraction ausführlich über die Borderline-Persönlichkeitsstörung",
+      "system": "movies",
+      "rom": "fatal_attraction"
+    },
+    {
+      "id": "mov_211",
+      "text": "Brian De Palmas Kinderwagen-Treppensequenz in The Untouchables war eine direkte Hommage an Eisensteins Panzerkreuzer Potemkin",
+      "system": "movies",
+      "rom": "the_untouchables"
+    },
+    {
+      "id": "mov_212",
+      "text": "Robert De Niro verbrachte sechs Wochen damit, Capones Auftreten und Stimme für The Untouchables zu studieren, und trug zeitechte Seidenunterwäsche",
+      "system": "movies",
+      "rom": "the_untouchables"
+    },
+    {
+      "id": "mov_213",
+      "text": "Big Trouble in Little China (1986) kehrte die Formel des Actionhelden bewusst um",
+      "system": "movies",
+      "rom": "big_trouble_in_little_china"
+    },
+    {
+      "id": "mov_214",
+      "text": "Big Trouble in Little China floppte an den Kinokassen, wurde aber zum Kultfilm",
+      "system": "movies",
+      "rom": "big_trouble_in_little_china"
+    },
+    {
+      "id": "mov_215",
+      "text": "In David Morrells Roman First Blood stirbt Rambo am Ende",
+      "system": "movies",
+      "rom": "first_blood"
+    },
+    {
+      "id": "mov_216",
+      "text": "Die Szene in First Blood, in der Rambo sich den Arm zunäht, wurde ohne Stuntdouble gedreht",
+      "system": "movies",
+      "rom": "first_blood"
+    },
+    {
+      "id": "mov_217",
+      "text": "Rambo: First Blood Part II (1985) spielte weltweit 300 Millionen Dollar bei einem Budget von 25 Millionen ein",
+      "system": "movies",
+      "rom": "rambo"
+    },
+    {
+      "id": "mov_218",
+      "text": "In Commando (1985) eliminiert Schwarzenegger 81 bestätigte Gegner auf der Leinwand",
+      "system": "movies",
+      "rom": "commando"
+    },
+    {
+      "id": "mov_219",
+      "text": "Total Recall (1990) basierte auf Philip K. Dicks Roman 'Do Androids Dream of Electric Sheep?'",
+      "system": "movies",
+      "rom": "total_recall"
+    },
+    {
+      "id": "mov_220",
+      "text": "Paul Verhoeven erhielt für das Make-up und die praktischen Effekte von Total Recall einen Ehren-Oscar",
+      "system": "movies",
+      "rom": "total_recall"
+    },
+    {
+      "id": "mov_221",
+      "text": "Shane Black war 22 Jahre alt, als er das Drehbuch zu Lethal Weapon für 250 Dollar verkaufte",
+      "system": "movies",
+      "rom": "lethal_weapon"
+    },
+    {
+      "id": "mov_222",
+      "text": "Richard Donner organisierte echte Polizeieinsätze für den Lethal-Weapon-Cast, um authentische Chemie zu entwickeln",
+      "system": "movies",
+      "rom": "lethal_weapon"
+    },
+    {
+      "id": "mov_223",
+      "text": "Die berühmte dreiminütige Kamerafahrt durch das Copacabana in Goodfellas wurde in einer einzigen ununterbrochenen Einstellung gedreht",
+      "system": "movies",
+      "rom": "goodfellas"
+    },
+    {
+      "id": "mov_224",
+      "text": "Martin Scorsese schnitt die Freeze-Frame-Sequenz über das Layla-Klavieroutro in Goodfellas bei seiner ersten vollständigen Sichtung zusammen",
+      "system": "movies",
+      "rom": "goodfellas"
+    },
+    {
+      "id": "mov_225",
+      "text": "The Silence of the Lambs ist einer von nur drei Filmen, die alle fünf wichtigen Oscar-Kategorien abgeräumt haben",
+      "system": "movies",
+      "rom": "silence_of_the_lambs"
+    },
+    {
+      "id": "mov_226",
+      "text": "Jodie Foster verbrachte drei Monate damit, FBI-Profiler zu befragen und Fallakten zu lesen, bevor The Silence of the Lambs gedreht wurde",
+      "system": "movies",
+      "rom": "silence_of_the_lambs"
+    },
+    {
+      "id": "mov_227",
+      "text": "Anthony Hopkins stützte Hannibal Lecters Reglosigkeit und flachen Tonfall auf HAL 9000 aus 2001 und Katharine Hepburns Darstellung in The African Queen",
+      "system": "movies",
+      "rom": "silence_of_the_lambs"
+    },
+    {
+      "id": "mov_228",
+      "text": "Die Töpferei-Szene in Ghost mit 'Unchained Melody' war ursprünglich als kurze Establishing-Shot gedacht",
+      "system": "movies",
+      "rom": "ghost"
+    },
+    {
+      "id": "mov_229",
+      "text": "Whoopi Goldberg gewann den Oscar als beste Nebendarstellerin für Ghost, nachdem sie für The Color Purple übergangen worden war",
+      "system": "movies",
+      "rom": "ghost"
+    },
+    {
+      "id": "mov_230",
+      "text": "Pretty Woman begann als düsteres Drehbuch mit dem Titel '$3,000', das Drogensucht und das Leben auf der Straße untersuchte",
+      "system": "movies",
+      "rom": "pretty_woman"
+    },
+    {
+      "id": "mov_231",
+      "text": "Julia Roberts' Lachen in der Schmuckkästchen-Szene in Pretty Woman war echt und spontan",
+      "system": "movies",
+      "rom": "pretty_woman"
+    },
+    {
+      "id": "mov_232",
+      "text": "Tim Burton besetzte Johnny Depp in Edward Scissorhands, weil er in ihm eine zerbrechliche Unschuld sah",
+      "system": "movies",
+      "rom": "edward_scissorhands"
+    },
+    {
+      "id": "mov_233",
+      "text": "Die Eisskulpturen in Edward Scissorhands erforderten ein Team professioneller Eisschnitzer in Bereitschaft am Set",
+      "system": "movies",
+      "rom": "edward_scissorhands"
+    },
+    {
+      "id": "mov_234",
+      "text": "Der Aftershave-Schrei in Home Alone war nicht im Drehbuch vorgesehen",
+      "system": "movies",
+      "rom": "home_alone"
+    },
+    {
+      "id": "mov_235",
+      "text": "Home Alone war zum Zeitpunkt seiner Veröffentlichung der dritterfolgreichste Film aller Zeiten",
+      "system": "movies",
+      "rom": "home_alone"
+    },
+    {
+      "id": "mov_236",
+      "text": "Kevin Costner verbrachte drei Jahre mit Dances with Wolves",
+      "system": "movies",
+      "rom": "dances_with_wolves"
+    },
+    {
+      "id": "mov_237",
+      "text": "Dances with Wolves war der erste Western, der seit Cimarron 1931 den Oscar für den besten Film gewann, und weckte breites Interesse am Genre",
+      "system": "movies",
+      "rom": "dances_with_wolves"
+    },
+    {
+      "id": "mov_238",
+      "text": "Stephen King sagte, Annie Wilkes in Misery repräsentiere seine eigene Beziehung zum Alkoholismus",
+      "system": "movies",
+      "rom": "misery"
+    },
+    {
+      "id": "mov_239",
+      "text": "Die Verstümmelungsszene in Misery wurde gegenüber dem Roman verändert, in dem Annie einen Rasenmäher benutzt",
+      "system": "movies",
+      "rom": "misery"
+    },
+    {
+      "id": "mov_240",
+      "text": "Kathryn Bigelow bestand darauf, dass Keanu Reeves und Patrick Swayze für Point Break wirklich Fallschirmspringen und Surfen lernten",
+      "system": "movies",
+      "rom": "point_break"
+    },
+    {
+      "id": "mov_241",
+      "text": "Die Bankräuber-Sequenzen in Point Break wurden in echten, in Betrieb befindlichen Banken in Los Angeles außerhalb der Geschäftszeiten gedreht",
+      "system": "movies",
+      "rom": "point_break"
+    },
+    {
+      "id": "mov_242",
+      "text": "Thelma & Louise wurde von Callie Khouri geschrieben, die dafür den Oscar für das beste Originaldrehbuch gewann",
+      "system": "movies",
+      "rom": "thelma_and_louise"
+    },
+    {
+      "id": "mov_243",
+      "text": "Brad Pitt hatte als J.D. in Thelma & Louise nur acht Minuten Leinwandzeit, doch die Rolle veränderte seine Karriere",
+      "system": "movies",
+      "rom": "thelma_and_louise"
+    },
+    {
+      "id": "mov_244",
+      "text": "John Singleton war 23 Jahre alt, als er Boyz n the Hood schrieb und inszenierte",
+      "system": "movies",
+      "rom": "boyz_n_the_hood"
+    },
+    {
+      "id": "mov_245",
+      "text": "Während der Dreharbeiten zu Boyz n the Hood brachen in der Nähe des Sets mehrmals echte Bandengewalttaten aus",
+      "system": "movies",
+      "rom": "boyz_n_the_hood"
+    },
+    {
+      "id": "mov_246",
+      "text": "Oliver Stones JFK mischte 35mm, 16mm und Super 8, um ein dokumentarisches Gefühl zu erzeugen",
+      "system": "movies",
+      "rom": "jfk"
+    },
+    {
+      "id": "mov_247",
+      "text": "JFK war so politisch aufgeladen, dass der Kongress 1992 den JFK Records Collection Act verabschiedete",
+      "system": "movies",
+      "rom": "jfk"
+    },
+    {
+      "id": "mov_248",
+      "text": "Robert De Niro nahm für Cape Fear (1991) 27 Kilo zu und ließ sich die Zähne professionell abrichten",
+      "system": "movies",
+      "rom": "cape_fear"
+    },
+    {
+      "id": "mov_249",
+      "text": "Terminator 2 war der erste Film, der CGI für eine wichtige Hauptrolle einsetzte",
+      "system": "movies",
+      "rom": "terminator_2"
+    },
+    {
+      "id": "mov_250",
+      "text": "James Cameron gab allein 15 Millionen Dollar für die T-1000-Effekte in Terminator 2 aus",
+      "system": "movies",
+      "rom": "terminator_2"
+    },
+    {
+      "id": "mov_251",
+      "text": "Batman Returns war so düster, dass McDonald's seine Happy-Meal-Promotion mitten in der Kampagne nach Elternprotesten zurückzog",
+      "system": "movies",
+      "rom": "batman_returns"
+    },
+    {
+      "id": "mov_252",
+      "text": "Michelle Pfeiffers Catwoman-Anzug in Batman Returns war so eng, dass sie darin nur 90 Sekunden lang atmen konnte",
+      "system": "movies",
+      "rom": "batman_returns"
+    },
+    {
+      "id": "mov_253",
+      "text": "Wayne's World wurde in 35 Tagen für 20 Millionen Dollar gedreht und war der kommerziell erfolgreichste Sketch aus Saturday Night Live",
+      "system": "movies",
+      "rom": "waynes_world"
+    },
+    {
+      "id": "mov_254",
+      "text": "Die Bohemian-Rhapsody-Autofahrszene in Wayne's World war Queens eigener Vorschlag",
+      "system": "movies",
+      "rom": "waynes_world"
+    },
+    {
+      "id": "mov_255",
+      "text": "Clint Eastwood hatte das Drehbuch von Unforgiven über ein Jahrzehnt lang aufbewahrt",
+      "system": "movies",
+      "rom": "unforgiven"
+    },
+    {
+      "id": "mov_256",
+      "text": "Unforgiven inszenierte seine Gewalt bewusst langsam, damit sie sich schlimm und bedeutsam anfühlte",
+      "system": "movies",
+      "rom": "unforgiven"
+    },
+    {
+      "id": "mov_257",
+      "text": "A League of Their Own (1992) basierte auf der echten All-American Girls Professional Baseball League",
+      "system": "movies",
+      "rom": "a_league_of_their_own"
+    },
+    {
+      "id": "mov_258",
+      "text": "Der Flaschengeist in Aladdin wurde anhand von Robin Williams' tatsächlicher Darstellung neu entworfen, nicht nach einer Drehbuchbeschreibung",
+      "system": "movies",
+      "rom": "aladdin"
+    },
+    {
+      "id": "mov_259",
+      "text": "Disney und Robin Williams überwarfen sich öffentlich nach Aladdin, als das Studio ohne sein Einverständnis seine Stimme nutzte",
+      "system": "movies",
+      "rom": "aladdin"
+    },
+    {
+      "id": "mov_260",
+      "text": "Die Gnusstampede in Der König der Löwen wurde mithilfe eines Programms namens STAMPEDE erstellt",
+      "system": "movies",
+      "rom": "the_lion_king"
+    },
+    {
+      "id": "mov_261",
+      "text": "Hans Zimmers Musik zu Der König der Löwen gewann den Oscar für die beste Filmmusik",
+      "system": "movies",
+      "rom": "the_lion_king"
+    },
+    {
+      "id": "mov_262",
+      "text": "Spielberg drehte Jurassic Park mit Spannungsmechaniken ähnlich wie in Der weiße Hai",
+      "system": "movies",
+      "rom": "jurassic_park"
+    },
+    {
+      "id": "mov_263",
+      "text": "Das vibrierende Wasserglas in Jurassic Park wurde inspiriert, als Spielberg die Basslautsprecher in seinem Auto spürte",
+      "system": "movies",
+      "rom": "jurassic_park"
+    },
+    {
+      "id": "mov_264",
+      "text": "Schindlers Liste wurde fast vollständig mit der Handkamera in Schwarzweiß gedreht",
+      "system": "movies",
+      "rom": "schindlers_list"
+    },
+    {
+      "id": "mov_265",
+      "text": "Steven Spielberg spendete sein gesamtes Regiehonorar für Schindlers Liste an die USC Shoah Foundation",
+      "system": "movies",
+      "rom": "schindlers_list"
+    },
+    {
+      "id": "mov_266",
+      "text": "Tom Hanks nahm für Philadelphia (1993) 12 Kilo ab und besuchte monatelang AIDS-Kranke und ihre Familien",
+      "system": "movies",
+      "rom": "philadelphia"
+    },
+    {
+      "id": "mov_267",
+      "text": "Bruce Springsteen komponierte 'Streets of Philadelphia', nachdem ihm Regisseur Jonathan Demme einen frühen Schnitt gezeigt hatte",
+      "system": "movies",
+      "rom": "philadelphia"
+    },
+    {
+      "id": "mov_268",
+      "text": "The Shawshank Redemption war bei seiner Veröffentlichung eine der kommerziell schwächsten Stephen-King-Verfilmungen",
+      "system": "movies",
+      "rom": "shawshank_redemption"
+    },
+    {
+      "id": "mov_269",
+      "text": "Frank Darabont lehnte ein Angebot von 2,5 Millionen Dollar von Rob Reiner ab, der Shawshank Redemption selbst inszenieren wollte",
+      "system": "movies",
+      "rom": "shawshank_redemption"
+    },
+    {
+      "id": "mov_270",
+      "text": "Tom Hanks und Robert Zemeckis planten jede historische Integrationsszene in Forrest Gump jahrelang im Voraus",
+      "system": "movies",
+      "rom": "forrest_gump"
+    },
+    {
+      "id": "mov_271",
+      "text": "Die Laufsequenz in Forrest Gump wurde über 18 Monate hinweg in verschiedenen Jahreszeiten und an verschiedenen Orten gedreht",
+      "system": "movies",
+      "rom": "forrest_gump"
+    },
+    {
+      "id": "mov_272",
+      "text": "Quentin Tarantino schrieb Pulp Fiction auf einer mechanischen Schreibmaschine während eines Aufenthalts in einem Amsterdamer Hotel",
+      "system": "movies",
+      "rom": "pulp_fiction"
+    },
+    {
+      "id": "mov_273",
+      "text": "Die Besetzung von John Travolta in Pulp Fiction war allein Tarantinos persönliche Entscheidung",
+      "system": "movies",
+      "rom": "pulp_fiction"
+    },
+    {
+      "id": "mov_274",
+      "text": "Für die Busszenen in Speed mussten große Abschnitte der noch nicht fertiggestellten Century Freeway in Los Angeles gesperrt werden",
+      "system": "movies",
+      "rom": "speed"
+    },
+    {
+      "id": "mov_275",
+      "text": "Jan de Bont, der Regisseur von Speed, war zuvor Kameramann bei Die Hard und Basic Instinct",
+      "system": "movies",
+      "rom": "speed"
+    },
+    {
+      "id": "mov_276",
+      "text": "David Fincher kämpfte acht Monate lang dafür, das Ende 'Was ist in der Schachtel?' von Se7en zu behalten",
+      "system": "movies",
+      "rom": "seven"
+    },
+    {
+      "id": "mov_277",
+      "text": "Die Schachtel in Se7en wird auf der Leinwand niemals geöffnet",
+      "system": "movies",
+      "rom": "seven"
+    },
+    {
+      "id": "mov_278",
+      "text": "Bryan Singer schützte die Wendung in The Usual Suspects, indem er Kevin Spacey Seiten mit dem Namen einer anderen Figur gab",
+      "system": "movies",
+      "rom": "the_usual_suspects"
+    },
+    {
+      "id": "mov_279",
+      "text": "Kevin Spacey stützte Verbal Kints Hinken und stockende Sprache auf die Vorstellung von Keyser Söze als jemanden mit einer verletzten Wirbelsäule",
+      "system": "movies",
+      "rom": "the_usual_suspects"
+    },
+    {
+      "id": "mov_280",
+      "text": "Mel Gibson führte bei Braveheart Regie und spielte gleichzeitig William Wallace",
+      "system": "movies",
+      "rom": "braveheart"
+    },
+    {
+      "id": "mov_281",
+      "text": "Die Schlachtszenen in Braveheart verwendeten Hunderte von Soldaten der irischen Armeereserve als Statisten",
+      "system": "movies",
+      "rom": "braveheart"
+    },
+    {
+      "id": "mov_282",
+      "text": "James Cameron drehte The Abyss (1989) in einem leergepumpten Kühlbecken eines Kernkraftwerks in South Carolina",
+      "system": "movies",
+      "rom": "the_abyss"
+    },
+    {
+      "id": "mov_283",
+      "text": "Mary Elizabeth Mastrantonio brach mitten in einer Einstellung in Tränen aus, verließ das Set von The Abyss und weigerte sich zurückzukommen",
+      "system": "movies",
+      "rom": "the_abyss"
+    },
+    {
+      "id": "mov_284",
+      "text": "Empire of the Sun (1987) begründete Christian Bales Karriere im Alter von 13 Jahren",
+      "system": "movies",
+      "rom": "empire_of_the_sun"
+    },
+    {
+      "id": "mov_285",
+      "text": "Spielberg entschied sich, J.G. Ballards Empire of the Sun als persönlichen Film über die Unschuld der Kindheit im Krieg zu verfilmen",
+      "system": "movies",
+      "rom": "empire_of_the_sun"
+    },
+    {
+      "id": "mov_286",
+      "text": "The Color of Money (1986) war Paul Newmans erste Fortsetzung seit 25 Jahren, in der er Fast Eddie Felson aus The Hustler wieder aufnahm",
+      "system": "movies",
+      "rom": "the_color_of_money"
+    },
+    {
+      "id": "mov_287",
+      "text": "Tom Cruise verbrachte Monate damit, Trickschüsse beim Billard von professionellen Spielern für The Color of Money zu lernen",
+      "system": "movies",
+      "rom": "the_color_of_money"
+    },
+    {
+      "id": "mov_288",
+      "text": "Witness (1985) war Peter Weirs erster amerikanischer Film",
+      "system": "movies",
+      "rom": "witness"
+    },
+    {
+      "id": "mov_289",
+      "text": "Harrison Ford erforschte die Amish-Gemeinschaft in Lancaster County monatelang vor den Dreharbeiten zu Witness",
+      "system": "movies",
+      "rom": "witness"
+    },
+    {
+      "id": "mov_290",
+      "text": "Meryl Streep lernte polnische Phonetik und studierte Berichte von Holocaust-Überlebenden für Sophie's Choice",
+      "system": "movies",
+      "rom": "sophies_choice"
+    },
+    {
+      "id": "mov_291",
+      "text": "Sophie's-Choice-Regisseur Alan Pakula sagte, Streeps Darstellung in der Rückblende 'die Wahl' sei einzigartig in ihrer Karriere gewesen",
+      "system": "movies",
+      "rom": "sophies_choice"
+    },
+    {
+      "id": "mov_292",
+      "text": "Gandhi (1982) versammelte über 300.000 Komparsen für die Beerdigungssequenz",
+      "system": "movies",
+      "rom": "gandhi"
+    },
+    {
+      "id": "mov_293",
+      "text": "Romancing the Stone (1984) rettete Robert Zemeckis' Karriere",
+      "system": "movies",
+      "rom": "romancing_the_stone"
+    },
+    {
+      "id": "mov_294",
+      "text": "Cocoon (1985) brachte Don Ameche im Alter von 77 Jahren den Oscar als bester Nebendarsteller",
+      "system": "movies",
+      "rom": "cocoon"
+    },
+    {
+      "id": "mov_295",
+      "text": "Robert Redfords The Natural (1984) wandelte das dunkle, tragische Ende von Bernard Malamud Roman in einen triumphalen Heroismus um",
+      "system": "movies",
+      "rom": "the_natural"
+    },
+    {
+      "id": "mov_296",
+      "text": "The Running Man (1987) basierte auf einem Stephen-King-Roman, der unter dem Pseudonym Richard Bachman erschienen war",
+      "system": "movies",
+      "rom": "the_running_man"
+    },
+    {
+      "id": "mov_297",
+      "text": "Arnold Schwarzenegger führte den Berichten zufolge die meisten seiner eigenen Stunts in The Running Man durch",
+      "system": "movies",
+      "rom": "the_running_man"
+    },
+    {
+      "id": "mov_298",
+      "text": "Road House (1989) wurde nach seinem bescheidenen Kinostart zu einem Dauerbrenner im Kabelfernsehen",
+      "system": "movies",
+      "rom": "road_house"
+    },
+    {
+      "id": "mov_299",
+      "text": "David Lynchs Blue Velvet (1986) verstörte Dennis Hopper beim Vorsprechen so sehr, dass er Lynch angeblich sagte: 'Ich muss in diesem Film mitspielen'",
+      "system": "movies",
+      "rom": "blue_velvet"
+    },
+    {
+      "id": "mov_300",
+      "text": "Die In-Dreams-Lippensynchron-Szene in Blue Velvet zeigt Dennis Hoppers Figur, die Roy Orbisons Song bedrohlich vorführt",
+      "system": "movies",
+      "rom": "blue_velvet"
+    },
+    {
+      "id": "mov_301",
+      "text": "Joel und Ethan Coen schrieben Blood Simple (1984), während sie bei einem anderen Projekt unter einer Schreibblockade litten",
+      "system": "movies",
+      "rom": "blood_simple"
+    },
+    {
+      "id": "mov_302",
+      "text": "Raising Arizona (1987) enthielt eine Nachbarschaftsverfolgungsjagd, die in einer einzigen Einstellung gedreht wurde",
+      "system": "movies",
+      "rom": "raising_arizona"
+    },
+    {
+      "id": "mov_303",
+      "text": "Spike Lees Do the Right Thing (1989) wurde vollständig in einem einzigen Häuserblock in Brooklyn während der heißesten Woche des Jahres gedreht",
+      "system": "movies",
+      "rom": "do_the_right_thing"
+    },
+    {
+      "id": "mov_304",
+      "text": "Do the Right Thing wurde bei den Oscars 1990 umstritten von einer Nominierung als Bester Film ausgeschlossen",
+      "system": "movies",
+      "rom": "do_the_right_thing"
+    },
+    {
+      "id": "mov_305",
+      "text": "Daniel Day-Lewis weigerte sich, zwischen den Aufnahmen zu My Left Foot (1989) seinen Rollstuhl zu verlassen",
+      "system": "movies",
+      "rom": "my_left_foot"
+    },
+    {
+      "id": "mov_306",
+      "text": "Oliver Stones Born on the Fourth of July (1989) verlangte von Tom Cruise, sicher im Rollstuhl zu fahren",
+      "system": "movies",
+      "rom": "born_on_the_fourth_of_july"
+    },
+    {
+      "id": "mov_307",
+      "text": "Steven Soderberghs sex, lies, and videotape (1989) wurde für 1,2 Millionen Dollar gedreht und gewann die Palme d'Or in Cannes",
+      "system": "movies",
+      "rom": "sex_lies_and_videotape"
+    },
+    {
+      "id": "mov_308",
+      "text": "Conan the Barbarian (1982) war Arnold Schwarzeneggers eigentlicher Durchbruch",
+      "system": "movies",
+      "rom": "conan_the_barbarian"
+    },
+    {
+      "id": "mov_309",
+      "text": "Oliver Stone hat das Drehbuch zu Conan the Barbarian erheblich umgeschrieben",
+      "system": "movies",
+      "rom": "conan_the_barbarian"
+    },
+    {
+      "id": "mov_310",
+      "text": "Den gesamten Soundtrack von Flash Gordon (1980) hat Queen komponiert",
+      "system": "movies",
+      "rom": "flash_gordon"
+    },
+    {
+      "id": "mov_311",
+      "text": "Pale Rider (1985) war Clint Eastwoods erster Western seit High Plains Drifter, bei dem er sich selbst Regie führte",
+      "system": "movies",
+      "rom": "pale_rider"
+    },
+    {
+      "id": "mov_312",
+      "text": "Francis Ford Coppolas The Outsiders (1983) zeigte Tom Cruise in einer frühen Rolle",
+      "system": "movies",
+      "rom": "the_outsiders"
+    },
+    {
+      "id": "mov_313",
+      "text": "Spike Lees Malcolm X (1992) dauerte drei Stunden und zwanzig Minuten und wurde auf drei Kontinenten gedreht",
+      "system": "movies",
+      "rom": "malcolm_x"
+    },
+    {
+      "id": "mov_314",
+      "text": "Ron Howards Backdraft (1991) setzte echte Feuerwehrleute als Stuntmen und technische Berater ein",
+      "system": "movies",
+      "rom": "backdraft"
+    },
+    {
+      "id": "mov_315",
+      "text": "Jack Palance machte bei der Oscarverleihung 1992 einarmige Liegestütze, als er den Preis als Bester Nebendarsteller für City Slickers entgegennahm",
+      "system": "movies",
+      "rom": "city_slickers"
+    },
+    {
+      "id": "mov_316",
+      "text": "Die Essensschlacht in Hook und viele Konfrontationen zwischen Robin Williams und Dustin Hoffman waren weitgehend improvisiert",
+      "system": "movies",
+      "rom": "hook"
+    },
+    {
+      "id": "mov_317",
+      "text": "Dustin Hoffmans Captain Hook basierte auf einer stutzerischen Interpretation der Figur",
+      "system": "movies",
+      "rom": "hook"
+    },
+    {
+      "id": "mov_318",
+      "text": "Joel und Ethan Coen schrieben Barton Fink (1991) in drei Wochen, während sie bei Miller's Crossing feststeckten",
+      "system": "movies",
+      "rom": "barton_fink"
+    },
+    {
+      "id": "mov_319",
+      "text": "Die Verhörszene in Basic Instinct wurde mehrfach mit unterschiedlich viel sichtbaren Details gedreht",
+      "system": "movies",
+      "rom": "basic_instinct"
+    },
+    {
+      "id": "mov_320",
+      "text": "Fright Night (1985) war einer der wenigen Horrorfilme der 80er Jahre, der die Vampirmythologie in sich schlüssig behandelte",
+      "system": "movies",
+      "rom": "fright_night"
+    },
+    {
+      "id": "mov_321",
+      "text": "Near Dark (1987) besetzte das Ensemble aus Aliens",
+      "system": "movies",
+      "rom": "near_dark"
+    },
+    {
+      "id": "mov_322",
+      "text": "Kindergarten Cop (1990) verlangte von Schwarzenegger, mit über 50 Kindern zu arbeiten",
+      "system": "movies",
+      "rom": "kindergarten_cop"
+    },
+    {
+      "id": "mov_323",
+      "text": "Stallones Cobra (1986) wurde ursprünglich als Fortsetzung von Beverly Hills Cop entwickelt, bevor das Drehbuch eine andere Richtung einschlug",
+      "system": "movies",
+      "rom": "cobra"
+    },
+    {
+      "id": "mov_324",
+      "text": "Lethal Weapon 2 hat den Begriff 'diplomatische Immunität' in das allgemeine Kulturbewusstsein eingeführt",
+      "system": "movies",
+      "rom": "lethal_weapon_2"
+    },
+    {
+      "id": "mov_325",
+      "text": "Anne Rice schaltete ganzseitige Zeitungsanzeigen, um Tom Cruises Besetzung in Interview with the Vampire zu verurteilen",
+      "system": "movies",
+      "rom": "interview_with_the_vampire"
+    },
+    {
+      "id": "mov_326",
+      "text": "Brad Pitt und Tom Cruise verbrachten sechs Monate in Vampir-Make-up-Testsitzungen, bevor die Dreharbeiten zu Interview begannen",
+      "system": "movies",
+      "rom": "interview_with_the_vampire"
+    },
+    {
+      "id": "mov_327",
+      "text": "Die CGI-Effekte in The Mask zwangen ILM zur Entwicklung neuer Software für den digitalen Gesichtsersatz",
+      "system": "movies",
+      "rom": "the_mask"
+    },
+    {
+      "id": "mov_328",
+      "text": "Jim Carrey improvisierte 'wie angegossen' und die Strafzettel-Szene in Ace Ventura: Pet Detective (1994)",
+      "system": "movies",
+      "rom": "ace_ventura"
+    },
+    {
+      "id": "mov_329",
+      "text": "Jeff Daniels' Lloyd Christmas in Dumb and Dumber (1994) war Jim Carreys persönliche Wahl",
+      "system": "movies",
+      "rom": "dumb_and_dumber"
+    },
+    {
+      "id": "mov_330",
+      "text": "True Lies (1994) nutzte echte Harrier-Jets des US Marine Corps für die Stadtsequenzen",
+      "system": "movies",
+      "rom": "true_lies"
+    },
+    {
+      "id": "mov_331",
+      "text": "The Hunt for Red October (1990) war der erste Jack-Ryan-Film und machte Alec Baldwin in der Rolle vor Harrison Ford bekannt",
+      "system": "movies",
+      "rom": "hunt_for_red_october"
+    },
+    {
+      "id": "mov_332",
+      "text": "Tom Clancys Recherchen für The Hunt for Red October sollen so präzise gewesen sein, dass CIA-Analysten das Buch als Referenz nutzten",
+      "system": "movies",
+      "rom": "hunt_for_red_october"
+    },
+    {
+      "id": "mov_333",
+      "text": "Dick Tracy (1990) wurde mit nur sieben Farben gestaltet, um die Palette des Originalcomics zu entsprechen",
+      "system": "movies",
+      "rom": "dick_tracy"
+    },
+    {
+      "id": "mov_334",
+      "text": "Al Pacinos aufwändiges Prothesen-Make-up als Schurke in Dick Tracy war so transformativ, dass ihn selbst Familienmitglieder nicht erkannten",
+      "system": "movies",
+      "rom": "dick_tracy"
+    },
+    {
+      "id": "mov_335",
+      "text": "The Fugitive (1993) inszenierte eine echte Zugentgleisung mit einer tatsächlichen ausgemusterten Lokomotive",
+      "system": "movies",
+      "rom": "the_fugitive"
+    },
+    {
+      "id": "mov_336",
+      "text": "Tommy Lee Jones gewann für The Fugitive den Oscar als Bester Nebendarsteller, obwohl er weniger als 30 Minuten auf der Leinwand zu sehen war",
+      "system": "movies",
+      "rom": "the_fugitive"
+    },
+    {
+      "id": "mov_337",
+      "text": "Das ursprüngliche Konzept von Groundhog Day sah eine Zeitschleife von 10.000 Jahren Wiederholung vor",
+      "system": "movies",
+      "rom": "groundhog_day"
+    },
+    {
+      "id": "mov_338",
+      "text": "Bill Murray und Harold Ramis beendeten ihre jahrzehntelange Freundschaft während Groundhog Day, nachdem Murray Ramis' Regieanweisungen in Frage gestellt hatte",
+      "system": "movies",
+      "rom": "groundhog_day"
+    },
+    {
+      "id": "mov_339",
+      "text": "Mrs. Doubtfire erforderte, dass Robin Williams täglich vier Stunden im Make-up verbrachte",
+      "system": "movies",
+      "rom": "mrs_doubtfire"
+    },
+    {
+      "id": "mov_340",
+      "text": "Holly Hunter verbrachte Monate damit, für The Piano (1993) tatsächlich Klavier spielen zu lernen",
+      "system": "movies",
+      "rom": "the_piano"
+    },
+    {
+      "id": "mov_341",
+      "text": "Jane Campion wurde mit The Piano erst als zweite Frau mit der Palme d'Or in Cannes ausgezeichnet",
+      "system": "movies",
+      "rom": "the_piano"
+    },
+    {
+      "id": "mov_342",
+      "text": "Daniel Day-Lewis' Vorbereitung auf The Last of the Mohicans (1992) umfasste wochenlange Überlebenstrainings in der Wildnis",
+      "system": "movies",
+      "rom": "last_of_the_mohicans"
+    },
+    {
+      "id": "mov_343",
+      "text": "Die abschließende Verfolgungssequenz von The Last of the Mohicans wurde in den Blue Ridge Mountains in North Carolina gedreht",
+      "system": "movies",
+      "rom": "last_of_the_mohicans"
+    },
+    {
+      "id": "mov_344",
+      "text": "In the Name of the Father (1993) dramatisierte die unrechtmäßige Verurteilung der Guildford Four",
+      "system": "movies",
+      "rom": "in_the_name_of_the_father"
+    },
+    {
+      "id": "mov_345",
+      "text": "Daniel Day-Lewis verbrachte zwei Wochen in einer Gefängniszelle, um sich auf In the Name of the Father vorzubereiten",
+      "system": "movies",
+      "rom": "in_the_name_of_the_father"
+    },
+    {
+      "id": "mov_346",
+      "text": "Ed Wood (1994) war Tim Burtons Hommage an den 'schlechtesten Regisseur, der je gelebt hat'",
+      "system": "movies",
+      "rom": "ed_wood"
+    },
+    {
+      "id": "mov_347",
+      "text": "Johnny Depp hat Ed Wood als seine Lieblingsrolle in seiner gesamten Karriere bezeichnet",
+      "system": "movies",
+      "rom": "ed_wood"
+    },
+    {
+      "id": "mov_348",
+      "text": "The Crow (1994) wurde nach Brandon Lees Tod am Set durch digitale Kompositierung seines Gesichts in verbleibende Szenen fertiggestellt",
+      "system": "movies",
+      "rom": "the_crow"
+    },
+    {
+      "id": "mov_349",
+      "text": "Brandon Lee wurde getötet, als eine in einem Requisitengewehr steckende Kugel aus einer früheren Platzpatrone abgefeuert wurde",
+      "system": "movies",
+      "rom": "the_crow"
+    },
+    {
+      "id": "mov_350",
+      "text": "Kevin Smith drehte Clerks (1994) vollständig in dem echten Quick-Stop-Laden, in dem er arbeitete",
+      "system": "movies",
+      "rom": "clerks"
+    },
+    {
+      "id": "mov_351",
+      "text": "Clerks wurde in Schwarzweiß gedreht, weil Smith sich die für Farbaufnahmen nötige Beleuchtungsanlage nicht leisten konnte",
+      "system": "movies",
+      "rom": "clerks"
+    },
+    {
+      "id": "mov_352",
+      "text": "Hoop Dreams (1994) begleitete zwei Basketballspieler aus Chicago fünf Jahre lang",
+      "system": "movies",
+      "rom": "hoop_dreams"
+    },
+    {
+      "id": "mov_353",
+      "text": "Die Vogelperspektive auf Andy mit erhobenen Armen im Regen in The Shawshank Redemption war ein ungeschriebener Moment von Tim Robbins",
+      "system": "movies",
+      "rom": "shawshank_redemption"
+    },
+    {
+      "id": "mov_354",
+      "text": "Die schwebende Feder in Forrest Gump erforderte drei Monate ILM-Arbeit allein für ihre Eröffnungs- und Schlusseinstellungen",
+      "system": "movies",
+      "rom": "forrest_gump"
+    },
+    {
+      "id": "mov_355",
+      "text": "Pulp Fictions Handlung, chronologisch rekonstruiert, platziert Butchs Geschichte vor dem Diner-Überfall",
+      "system": "movies",
+      "rom": "pulp_fiction"
+    },
+    {
+      "id": "mov_356",
+      "text": "Für die Produktion von Speed wurden drei identische maßgefertigte Busse für eventuelle Unfälle bei der Autobahnsequenz bereitgestellt",
+      "system": "movies",
+      "rom": "speed"
+    },
+    {
+      "id": "mov_357",
+      "text": "Der Regen in Se7en war ungeplant — echter Regen durchnässte das Set bei einem Nachtdreh",
+      "system": "movies",
+      "rom": "seven"
+    },
+    {
+      "id": "mov_358",
+      "text": "The Usual Suspects wurde in 35 Tagen mit einem Budget von 6 Millionen Dollar gedreht",
+      "system": "movies",
+      "rom": "the_usual_suspects"
+    },
+    {
+      "id": "mov_359",
+      "text": "Natural Born Killers (1994) verwendete 36 verschiedene Filmformate und Filmmaterialien",
+      "system": "movies",
+      "rom": "natural_born_killers"
+    },
+    {
+      "id": "mov_360",
+      "text": "Four Weddings and a Funeral (1994) wurde für 3 Millionen Pfund gedreht und spielte weltweit 250 Millionen Dollar ein",
+      "system": "movies",
+      "rom": "four_weddings_and_a_funeral"
+    },
+    {
+      "id": "mov_361",
+      "text": "Sleepless in Seattle (1993) war Nora Ephrons bewusstes Tribut an die klassische Hollywood-Romanze",
+      "system": "movies",
+      "rom": "sleepless_in_seattle"
+    },
+    {
+      "id": "mov_362",
+      "text": "Casino (1995) verwendete drei separate Erzähler",
+      "system": "movies",
+      "rom": "casino"
+    },
+    {
+      "id": "mov_363",
+      "text": "Heat (1995) bot Al Pacino und Robert De Niro ihre erste gemeinsame Szene, obwohl beide zuvor zusammen aufgetreten waren",
+      "system": "movies",
+      "rom": "heat"
+    },
+    {
+      "id": "mov_364",
+      "text": "Michael Mann choreografierte das Feuergefecht in der Innenstadt von Los Angeles in Heat mit echten SWAT-Beratern",
+      "system": "movies",
+      "rom": "heat"
+    },
+    {
+      "id": "mov_365",
+      "text": "Heavenly Creatures (1994) war Peter Jacksons dramatischer Durchbruch vor Lord of the Rings",
+      "system": "movies",
+      "rom": "heavenly_creatures"
+    },
+    {
+      "id": "mov_366",
+      "text": "GoldenEye (1995) war Pierce Brosnans Bond-Debüt nach einer sechsjährigen Pause der Filmreihe",
+      "system": "movies",
+      "rom": "goldeneye"
+    },
+    {
+      "id": "mov_367",
+      "text": "Reality Bites (1994) traf die Ernüchterung der Generation X nach dem College so präzise",
+      "system": "movies",
+      "rom": "reality_bites"
+    },
+    {
+      "id": "mov_368",
+      "text": "Splash (1984) war Tom Hanks' erste große Hauptrolle in einem Studiofilm und Ron Howards Durchbruch als kommerzieller Regisseur",
+      "system": "movies",
+      "rom": "splash"
+    },
+    {
+      "id": "mov_369",
+      "text": "Young Guns (1988) versammelte Emilio Estevez und eine Gruppe aufstrebender 80er-Schauspieler, als die 'Brat Pack'-Ära in Western-Ensemblefilme überging",
+      "system": "movies",
+      "rom": "young_guns"
+    },
+    {
+      "id": "mov_370",
+      "text": "Conan the Destroyer (1984) wurde bewusst abgemildert, um eine PG-Freigabe zu erhalten, nachdem Eltern Einwände erhoben hatten",
+      "system": "movies",
+      "rom": "conan_the_destroyer"
+    },
+    {
+      "id": "mov_371",
+      "text": "Die Kontroverse um The Color Purple — 11 Oscar-Nominierungen und kein einziger Gewinn — löste eine anhaltende Debatte über die vermeintliche Voreingenommenheit der Academy aus",
+      "system": "movies",
+      "rom": "the_color_purple"
+    },
+    {
+      "id": "mov_372",
+      "text": "My Cousin Vinny (1992) wird an amerikanischen Jurafakultäten als Lehrmittel eingesetzt",
+      "system": "movies",
+      "rom": "my_cousin_vinny"
+    },
+    {
+      "id": "mov_373",
+      "text": "Marisa Tomei gewann für My Cousin Vinny den Oscar als Beste Nebendarstellerin, was als große Überraschung galt",
+      "system": "movies",
+      "rom": "my_cousin_vinny"
+    },
+    {
+      "id": "mov_374",
+      "text": "Philadelphia war der erste große Hollywood-Studiofilm, der AIDS und Homophobie direkt thematisierte",
+      "system": "movies",
+      "rom": "philadelphia"
+    },
+    {
+      "id": "mov_375",
+      "text": "Die Produzenten von The Lion King waren überzeugt, dass Pocahontas, das gleichzeitig entstand, der größere Erfolg werden würde",
+      "system": "movies",
+      "rom": "the_lion_king"
+    },
+    {
+      "id": "mov_376",
+      "text": "Schindler's List wurde von mehreren Regisseuren abgelehnt, darunter Roman Polanski",
+      "system": "movies",
+      "rom": "schindlers_list"
+    },
+    {
+      "id": "mov_377",
+      "text": "Die Zeile 'Das Leben ist wie eine Pralinenschachtel' in Forrest Gump wurde gegenüber dem Roman leicht abgeändert",
+      "system": "movies",
+      "rom": "forrest_gump"
+    },
+    {
+      "id": "mov_378",
+      "text": "Die 'Royale with Cheese'-Szene in Pulp Fiction stammte wörtlich aus einem echten Gespräch zwischen Tarantino und John Travolta",
+      "system": "movies",
+      "rom": "pulp_fiction"
+    },
+    {
+      "id": "mov_379",
+      "text": "Das ursprüngliche Ende von Jurassic Park zeigte Lex und Tim, wie sie an einem UNIX-System tippten",
+      "system": "movies",
+      "rom": "jurassic_park"
+    },
+    {
+      "id": "mov_380",
+      "text": "Tim Robbins wollte fast aus The Shawshank Redemption aussteigen, als er erfuhr, dass Morgan Freeman besetzt worden war",
+      "system": "movies",
+      "rom": "shawshank_redemption"
+    },
+    {
+      "id": "mov_381",
+      "text": "Für die Produktion von Terminator 2 wurden allein für die Stop-Motion-Tests des T-1000 50.000 Gallonen Flüssiglatex benötigt",
+      "system": "movies",
+      "rom": "terminator_2"
+    },
+    {
+      "id": "mov_382",
+      "text": "Good Will Hunting (1997) brachte Matt Damon und Ben Affleck den Oscar für das Beste Originaldrehbuch ein",
+      "system": "movies",
+      "rom": "good_will_hunting"
+    },
+    {
+      "id": "mov_383",
+      "text": "Robin Williams gewann für Good Will Hunting den Oscar als Bester Nebendarsteller und soll die Geschichte über die Gewohnheiten seiner verstorbenen Frau improvisiert haben",
+      "system": "movies",
+      "rom": "good_will_hunting"
+    },
+    {
+      "id": "mov_384",
+      "text": "L.A. Confidential (1997) basierte auf James Ellroys Roman und verlangte von den Schauspielern, die Polizei von Los Angeles der 1950er Jahre zu studieren",
+      "system": "movies",
+      "rom": "la_confidential"
+    },
+    {
+      "id": "mov_385",
+      "text": "L.A. Confidential galt bei den Oscars 1998 als Außenseiter gegen Titanic, gewann aber das Beste adaptierte Drehbuch",
+      "system": "movies",
+      "rom": "la_confidential"
+    },
+    {
+      "id": "mov_386",
+      "text": "Boogie Nights (1997) war Paul Thomas Andersons Durchbruchsfilm im Alter von 27 Jahren",
+      "system": "movies",
+      "rom": "boogie_nights"
+    },
+    {
+      "id": "mov_387",
+      "text": "Men in Black (1997) war als ernsthafte Science-Fiction-Reihe konzipiert, doch Will Smiths improvisierte Energie veränderte den Ton des Films",
+      "system": "movies",
+      "rom": "men_in_black"
+    },
+    {
+      "id": "mov_388",
+      "text": "Titanic (1997) war mit 200 Millionen Dollar der teuerste Film aller Zeiten, und James Cameron weigerte sich, die Laufzeit zu kürzen",
+      "system": "movies",
+      "rom": "titanic"
+    },
+    {
+      "id": "mov_389",
+      "text": "Cameron gestaltete Titanics Untergangssequenz anhand des echten Wracks, das er mit von ihm gedrehten Tiefseeaufnahmen studiert hatte",
+      "system": "movies",
+      "rom": "titanic"
+    },
+    {
+      "id": "mov_390",
+      "text": "As Good as It Gets (1997) verlangte von Jack Nicholson, Zwangsstörungen authentisch zu verstehen",
+      "system": "movies",
+      "rom": "as_good_as_it_gets"
+    },
+    {
+      "id": "mov_391",
+      "text": "Fargo (1996) beginnt mit dem Hinweis, auf einer wahren Geschichte zu basieren",
+      "system": "movies",
+      "rom": "fargo"
+    },
+    {
+      "id": "mov_392",
+      "text": "Frances McDormands Marge Gunderson in Fargo ist die einzige schwangere Polizistin, die den Oscar als Beste Hauptdarstellerin gewann",
+      "system": "movies",
+      "rom": "fargo"
+    },
+    {
+      "id": "mov_393",
+      "text": "Jerry Maguire (1996) startete gleichzeitig die Karrieren von Renée Zellweger und Cuba Gooding Jr.",
+      "system": "movies",
+      "rom": "jerry_maguire"
+    },
+    {
+      "id": "mov_394",
+      "text": "The English Patient (1996) gewann neun Oscars und war der letzte Film vor Titanic, der über 200 Millionen Dollar einspielte",
+      "system": "movies",
+      "rom": "the_english_patient"
+    },
+    {
+      "id": "mov_395",
+      "text": "Secrets & Lies (1996) von Mike Leigh wurde vollständig ohne Drehbuch gespielt",
+      "system": "movies",
+      "rom": "secrets_and_lies"
+    },
+    {
+      "id": "mov_396",
+      "text": "The Full Monty (1997) wurde von Channel 4 Films für 2,4 Millionen Pfund produziert und wurde zum erfolgreichsten britischen Film",
+      "system": "movies",
+      "rom": "the_full_monty"
+    },
+    {
+      "id": "mov_397",
+      "text": "Air Force One (1997) besetzte Harrison Ford als Präsidenten, der sich gegen Terroristen zur Wehr setzt",
+      "system": "movies",
+      "rom": "air_force_one"
+    },
+    {
+      "id": "mov_398",
+      "text": "Con Air (1997) versammelte bewusst das unwahrscheinlichste Ensemble für einen Actionfilm",
+      "system": "movies",
+      "rom": "con_air"
+    },
+    {
+      "id": "mov_399",
+      "text": "Face/Off (1997) verlangte von John Travolta und Nicolas Cage, gegenseitig ihre Manierismen und Körperlichkeit zu studieren",
+      "system": "movies",
+      "rom": "face_off"
+    },
+    {
+      "id": "mov_400",
+      "text": "Trainspotting (1996) wurde für 1,5 Millionen Pfund gedreht und spielte weltweit 72 Millionen Dollar ein",
+      "system": "movies",
+      "rom": "trainspotting"
+    },
+    {
+      "id": "mov_401",
+      "text": "Star Wars (1977) wurde von jedem großen Studio außer der 20th Century Fox abgelehnt",
+      "system": "movies",
+      "rom": "star_wars"
+    },
+    {
+      "id": "mov_402",
+      "text": "Die originale Star-Wars-Produktion war von Problemen geprägt",
+      "system": "movies",
+      "rom": "star_wars"
+    },
+    {
+      "id": "mov_403",
+      "text": "Alec Guinness handelte einen Vertrag über 2,25 % der Nettogewinne aus Star Wars aus",
+      "system": "movies",
+      "rom": "star_wars"
+    },
+    {
+      "id": "mov_404",
+      "text": "In Star Wars spielte David Prowse in der gesamten Originaltrilogie den Körper von Darth Vader, der von James Earl Jones synchronisiert wurde",
+      "system": "movies",
+      "rom": "star_wars"
+    },
+    {
+      "id": "mov_405",
+      "text": "The Empire Strikes Back (1980) gilt oft als die beste Fortsetzung aller Zeiten",
+      "system": "movies",
+      "rom": "empire_strikes_back"
+    },
+    {
+      "id": "mov_406",
+      "text": "Harrison Ford improvisierte berühmt seine Antwort auf Princess Leias 'I love you' in The Empire Strikes Back",
+      "system": "movies",
+      "rom": "empire_strikes_back"
+    },
+    {
+      "id": "mov_407",
+      "text": "Return of the Jedi (1983) sollte ursprünglich 'Revenge of the Jedi' heißen",
+      "system": "movies",
+      "rom": "return_of_the_jedi"
+    },
+    {
+      "id": "mov_408",
+      "text": "Die Ewoks in Return of the Jedi wurden teilweise nach einem Traum von George Lucas über einen Bären entworfen",
+      "system": "movies",
+      "rom": "return_of_the_jedi"
+    },
+    {
+      "id": "mov_409",
+      "text": "Das Star Wars Holiday Special lief im November 1978 einmalig auf CBS und war so schlecht aufgenommen, dass George Lucas alles tat, um seine Verbreitung zu verhindern",
+      "system": "movies",
+      "rom": "star_wars"
+    },
+    {
+      "id": "mov_410",
+      "text": "Der Lichtschwert-Soundeffekt in Star Wars entstand durch die Kombination des Summens eines alten Filmprojektors mit Störungen eines Fernsehers",
+      "system": "movies",
+      "rom": "star_wars"
+    },
+    {
+      "id": "mov_411",
+      "text": "E.T. the Extra-Terrestrial (1982) war Steven Spielbergs persönlichster Film",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_412",
+      "text": "E.T. löste Star Wars als erfolgreichsten Film aller Zeiten ab",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_413",
+      "text": "Der Außerirdische E.T. wurde von Carlo Rambaldi entworfen",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_414",
+      "text": "Um E.T.s Bewegungen natürlich wirken zu lassen, engagierte Spielberg Menschen ohne Beine, um den Unterkörper der Puppe zu bedienen",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_415",
+      "text": "John Williams' Filmmusik für E.T. gilt als eine seiner größten Leistungen",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_416",
+      "text": "In E.T. the Extra-Terrestrial spielte Dee Wallace Elliots Mutter Mary",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_417",
+      "text": "Das Produktplacement in E.T. soll Reese's Pieces gerettet haben: Die Verkäufe des Bonbons stiegen nach dem Kinostart um 65 %",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_418",
+      "text": "E.T. gewann 1983 vier Oscars, darunter die Beste Originalmusik",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_419",
+      "text": "Für die Wiederveröffentlichung zum 20. Jubiläum von E.T. the Extra-Terrestrial im Jahr 2002 wurden einige Szenen digital überarbeitet",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_420",
+      "text": "Das auf E.T. basierende Atari-2600-Spiel wurde überstürzt entwickelt und wurde berüchtigt als das schlechteste Videospiel aller Zeiten",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_421",
+      "text": "Raiders of the Lost Ark (1981) entstand aus einem Gespräch zwischen George Lucas und Steven Spielberg an einem Strand",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_422",
+      "text": "Tom Selleck war ursprünglich als Indiana Jones in Raiders of the Lost Ark besetzt, musste aber wegen seines Magnum-Pi-Vertrags absagen",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_423",
+      "text": "In Raiders of the Lost Ark wurde die berühmte Szene, in der Indy einen Schwertkämpfer erschießt, improvisiert",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_424",
+      "text": "Raiders of the Lost Ark wurde in nur 73 Tagen gedreht und blieb unter seinem Budget von 20 Millionen Dollar",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_425",
+      "text": "Der rollende Felsbrocken, der Indiana Jones in der Eröffnungssequenz von Raiders of the Lost Ark verfolgt, bestand aus Fiberglas und Gips",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_426",
+      "text": "John Williams komponierte den ikonischen Indiana-Jones-Marsch, 'The Raiders March', in einer einzigen Sitzung",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_427",
+      "text": "Die Schlangengrubenszene in Raiders of the Lost Ark erforderte über 7.000 Schlangen, darunter Kobras",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_428",
+      "text": "Raiders of the Lost Ark spielte weltweit 389 Millionen Dollar ein und gewann fünf Oscars, darunter den Besten Schnitt",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_429",
+      "text": "In Raiders of the Lost Ark wurde das finale Gesichtsschmelzen der Bundeslade mit praktischen Effekten realisiert",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_430",
+      "text": "Indiana Jones' charakteristisches Kostüm in Raiders of the Lost Ark wurde auf Funktionalität und Robustheit ausgelegt",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_431",
+      "text": "The Breakfast Club (1985) wurde von John Hughes geschrieben und inszeniert, der das gesamte Drehbuch in nur zwei Tagen verfasste",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_432",
+      "text": "The Breakfast Club wurde fast vollständig in einer echten Schulsporthalle gedreht, die zu einer Bibliothekskulisse umgebaut worden war",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_433",
+      "text": "Die fünf Schauspieler in The Breakfast Club waren Emilio Estevez, Anthony Michael Hall, Judd Nelson, Molly Ringwald und Ally Sheedy",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_434",
+      "text": "In The Breakfast Club blieb Judd Nelson während des gesamten Drehs in seiner Rolle und soll Molly Ringwald drangsaliert haben",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_435",
+      "text": "The Breakfast Club wurde für ein bescheidenes Budget von rund 1 Million Dollar gedreht und spielte weltweit über 51 Millionen Dollar ein",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_436",
+      "text": "Simple Minds nahmen 'Don't You (Forget About Me)' für den Soundtrack von The Breakfast Club auf, nachdem sie es zunächst abgelehnt hatten",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_437",
+      "text": "Die ikonische Schlusseinstellung von The Breakfast Club war improvisiert",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_438",
+      "text": "Der ursprüngliche Schnitt von The Breakfast Club war über zwei Stunden lang",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_439",
+      "text": "John Hughes überreichte jedem der fünf Hauptdarsteller von The Breakfast Club ein persönliches Exemplar des Drehbuchs",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_440",
+      "text": "The Breakfast Club ist im National Film Registry der USA durch die Library of Congress erhalten",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_441",
+      "text": "The Shining (1980) wurde von Stanley Kubrick inszeniert und basiert auf Stephen Kings Roman von 1977",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_442",
+      "text": "Bei The Shining hielt Stanley Kubrick den Weltrekord für die meisten Aufnahmen einer einzigen Szene",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_443",
+      "text": "Das Innere des Overlook Hotel in The Shining wurde vollständig auf Bühnen der Elstree Studios in England erbaut",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_444",
+      "text": "In The Shining ließ Kubrick Shelley Duvalls Drehbedingungen absichtlich miserabel werden",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_445",
+      "text": "Die Steadicam-Arbeit in The Shining, bedient von Erfinder Garrett Brown, schuf die sanften, gleitenden Einstellungen",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_446",
+      "text": "Kubrick belichtete für The Shining über eine Million Fuß Film",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_447",
+      "text": "In The Shining erforderte die Manuskriptsequenz 'All work and no play makes Jack a dull boy' verschiedene Versionen für unterschiedliche Märkte",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_448",
+      "text": "The Shining wurde bei seiner Veröffentlichung von Kritikern zunächst abgetan, wuchs aber stetig zu einem der meistanalysierten Filme heran",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_449",
+      "text": "Für The Shining verwendete Kubrick ein neues Filmmaterial, um bei schwachem Licht ein saubereres und kontrolliertes Bild zu erzielen",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_450",
+      "text": "Stephen King schrieb und produzierte 1997 eine TV-Miniserie als Neuverfilmung von The Shining, die seinem Roman weit treuer war",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_451",
+      "text": "They Live (1988) wurde von John Carpenter inszeniert und basiert auf der Kurzgeschichte 'Eight O'Clock in the Morning' von 1963",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_452",
+      "text": "In They Live verbergen sich in Medien und Werbung Botschaften, die eine alien-gesteuerte Kontrolle über die Gesellschaft enthüllen",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_453",
+      "text": "Roddy Piper, ein Profi-Wrestler, wurde für die Hauptrolle in They Live besetzt, nachdem John Carpenter ihn entdeckte",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_454",
+      "text": "Roddy Piper improvisierte They Lives berühmteste Filmzeile",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_455",
+      "text": "Die Alley-Kampfszene zwischen Roddy Piper und Keith David in They Live dauert fast sechs Minuten ohne Schnitt",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_456",
+      "text": "They Live wurde mit einem Budget von rund 3 Millionen Dollar gedreht und spielte 13 Millionen Dollar in Nordamerika ein",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_457",
+      "text": "Das Alien-Make-up in They Live wurde mit praktischen Prothesen und Animatronik umgesetzt, um die wahre Gestalt der Wesen zu zeigen",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_458",
+      "text": "John Carpenter komponierte den minimalistischen Gitarren-Soundtrack von They Live selbst",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_459",
+      "text": "Die 'OBEY'-Bildwelt aus They Live wurde zum Markenzeichen von Street-Art-Künstler Shepard Fairey",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_460",
+      "text": "South Park zollte der berühmten Alley-Kampfszene aus They Live in der 2006er Episode 'Cripple Fight' Tribut",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_461",
+      "text": "Gremlins (1984) wurde von Steven Spielberg produziert und von Joe Dante inszeniert",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_462",
+      "text": "Gremlins und Indiana Jones and the Temple of Doom wurden beide 1984 von Steven Spielberg produziert",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_463",
+      "text": "In Gremlins benötigte das Mogwai Gizmo ein Team aus sechs Puppenspielern und hatte über 40 separate Mechanismen",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_464",
+      "text": "Für Gremlins wurden über 200 Gremlin-Puppen gebaut, verschiedene Versionen für verschiedene Aktionen",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_465",
+      "text": "Die drei Regeln für Mogwai in Gremlins lauten: kein grelles Licht, kein Wasser und kein Füttern nach Mitternacht",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_466",
+      "text": "Gremlins wurde in der fiktiven Stadt Kingston Falls gedreht",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_467",
+      "text": "Gremlins spielte weltweit über 153 Millionen Dollar ein bei einem Budget von 11 Millionen",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_468",
+      "text": "Jerry Goldsmith komponierte die Filmmusik zu Gremlins",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_469",
+      "text": "In Gremlins erklärt Phoebe Cates, warum sie Weihnachten hasst: ihr Vater starb als Weihnachtsmann verkleidet",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_470",
+      "text": "Gremlins 2 : The New Batch (1990) gab Joe Dante volle kreative Kontrolle und wurde zur Parodie des Originals",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_471",
+      "text": "The Princess Bride (1987) basierte auf William Goldmans Roman von 1973",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_472",
+      "text": "Rob Reiner führte bei The Princess Bride Regie, nachdem Goldman nach dem Erfolg von Stand By Me auf ihn bestand",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_473",
+      "text": "In The Princess Bride wurden Cary Elwes und Robin Wright als Westley und Buttercup nach einer aufwendigen Suche besetzt",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_474",
+      "text": "Mandy Patinkin hat gesagt, die Rolle des Inigo Montoya in The Princess Bride sei die persönlich bedeutsamste seines Lebens",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_475",
+      "text": "André the Giant als Fezzik in The Princess Bride war bekannt für seine Körperkraft und sanfte Präsenz auf der Leinwand",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_476",
+      "text": "Die Kletterszene an den Cliffs of Insanity in The Princess Bride wurde an den Cliffs of Moher in Irland gedreht",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_477",
+      "text": "The Princess Bride galt bei seinem Kinostart als Flop an der Kinokasse",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_478",
+      "text": "Mark Knopfler von Dire Straits komponierte die Filmmusik zu The Princess Bride",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_479",
+      "text": "Billy Crystals Rolle als Miracle Max in The Princess Bride war ursprünglich nur als kleiner Cameo-Auftritt geplant",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_480",
+      "text": "'My name is Inigo Montoya. You killed my father. Prepare to die.' ist die ikonische Rachezeile aus The Princess Bride",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_481",
+      "text": "The Rocky Horror Picture Show (1975) basierte auf Richard O'Briens Bühnenmusical 'The Rocky Horror Show' von 1973",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_482",
+      "text": "The Rocky Horror Picture Show floppte beim breiten Start, wurde 1976 aber als Midnight Movie neu aufgelegt",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_483",
+      "text": "Tim Currys Dr. Frank-N-Furter in The Rocky Horror Picture Show gilt als eine der größten Cult-Film-Performances aller Zeiten",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_484",
+      "text": "Die Publikumsbeteiligung bei The Rocky Horror Picture Show umfasst das Mitrufen von Antworten und das Erscheinen in Kostümen",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_485",
+      "text": "Susan Sarandon und Barry Bostwick waren kaum bekannt, als sie für The Rocky Horror Picture Show besetzt wurden",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_486",
+      "text": "The Rocky Horror Picture Show wurde in nur 45 Tagen auf Oakley Court gedreht",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_487",
+      "text": "Meat Loaf trat in The Rocky Horror Picture Show als Eddie auf und performte 'Hot Patootie'",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_488",
+      "text": "Richard O'Brien, der Autor von The Rocky Horror Picture Show, ist im Film selbst als der bucklige Riff Raff zu sehen",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_489",
+      "text": "The Rocky Horror Picture Show spielte durch Jahrzehnte von Midnight-Screenings rund 140 Millionen Dollar weltweit ein",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_490",
+      "text": "'The Time Warp' ist eines der am häufigsten mitgesungenen Lieder der Unterhaltungsgeschichte",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_491",
+      "text": "Jake Taylors Rede in Major League war eine improvisierte Inspiration im Stil von 'Win one for the Gipper'",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_492",
+      "text": "Tom Berenger, Charlie Sheen und Wesley Snipes bildeten das Starensemble in Major League",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_493",
+      "text": "Obwohl Major League in Cleveland spielt, wurde der Film hauptsächlich im Milwaukee County Stadium gedreht",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_494",
+      "text": "Bob Uecker spielte Radioreporter Harry Doyle in Major League und improvisierte viele seiner besten Zeilen",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_495",
+      "text": "Ricky Vaughns markante Dickrand-Brille in Major League wurde von Charlie Sheen selbst vorgeschlagen",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_496",
+      "text": "Major League wurde mit einem Budget von rund 11 Millionen Dollar gedreht und spielte über 49 Millionen ein",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_497",
+      "text": "Die Cleveland Indians übernahmen mit großer Begeisterung das fiktive Logo aus dem Film Major League",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_498",
+      "text": "Wesley Snipes als Willie Mays Hayes in Major League brillierte in einer komödiantischen Durchbruchsrolle voller Tempo",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_499",
+      "text": "Major League brachte zwei Fortsetzungen hervor — Major League II (1994) und Major League : Back to the Minors (1998)",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_500",
+      "text": "Das entscheidende Finalspiel in Major League wurde über mehrere Tage mit echten Komparsen als Zuschauer gedreht",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_501",
+      "text": "Back to the Future (1985) wurde von jedem großen Studio abgelehnt",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_502",
+      "text": "Eric Stoltz spielte Marty McFly sechs Wochen lang, bevor Robert Zemeckis ihn in Back to the Future durch Michael J. Fox ersetzte",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_503",
+      "text": "Die DeLorean DMC-12 wurde als Zeitmaschine für Back to the Future gewählt — Edelstahl und Flügeltüren wirkten futuristisch",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_504",
+      "text": "Michael J. Fox drehte die meisten seiner Back to the Future-Szenen nachts, nach den Aufnahmen seiner Serie Family Ties",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_505",
+      "text": "In Back to the Future wird das Twin Pines Mall zum Lone Pine Mall, nachdem Marty 1955 versehentlich einen Baum überfährt",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_506",
+      "text": "Huey Lewis and the News steuerten 'The Power of Love' und 'Back in Time' zum Soundtrack von Back to the Future bei",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_507",
+      "text": "Die Johnny B. Goode-Szene in Back to the Future erforderte intensives Gitarrentraining von Michael J. Fox",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_508",
+      "text": "Back to the Future war der erfolgreichste Film des Jahres 1985",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_509",
+      "text": "Back to the Future Parts II und III wurden 1989 hintereinander gedreht, um Konsistenz zu gewährleisten",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_510",
+      "text": "Christopher Lloyd orientierte sich für Doc Browns aufgerissenen Blick in Back to the Future am Dirigenten Leopold Stokowski",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_511",
+      "text": "The Secret of NIMH (1982) debütierte Don Bluths Studio, das er nach dem Abgang von Disney mit elf Animatoren gegründet hatte",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_512",
+      "text": "Der Film basierte auf Robert C. O'Briens Newbery-Medaillen-Roman Mrs. Frisby and the Rats of NIMH von 1971",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_513",
+      "text": "Don Bluth und sein Team verwendeten in The Secret of NIMH Animationstechniken, die Disney weitgehend aufgegeben hatte",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_514",
+      "text": "The Secret of NIMH wurde mit einem Budget von rund 7 Millionen Dollar realisiert",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_515",
+      "text": "Dom DeLuise lieh Jeremy der Krähe in The Secret of NIMH seine Stimme und improvisierte einen Großteil seiner Dialoge",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_516",
+      "text": "Derek Jacobi sprach Nicodemus, den weisen Anführer der Ratten in The Secret of NIMH",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_517",
+      "text": "Die Amulettsequenzen in The Secret of NIMH erforderten einige der aufwendigsten handgezeichneten Spezialeffekte der Animationsgeschichte",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_518",
+      "text": "Jerry Goldsmith komponierte den Soundtrack zu The Secret of NIMH",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_519",
+      "text": "The Secret of NIMH spielte an den Kinokassen rund 14 Millionen Dollar ein bei einem Budget von 7 Millionen",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_520",
+      "text": "The Secret of NIMH bewies, dass auch düstere Animationsfilme jenseits der Disney-Formel erfolgreich sein können",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_521",
+      "text": "The Dark Crystal (1982) wurde von Jim Henson und Frank Oz ko-inszeniert und ist als erster abendfüllender Spielfilm bemerkenswert, der vollständig mit Puppen gedreht wurde",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_522",
+      "text": "Die Entwicklung von The Dark Crystal dauerte über fünf Jahre",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_523",
+      "text": "In The Dark Crystal wurden die Skeksis von einigen der weltbesten Puppenspielern verkörpert",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_524",
+      "text": "In The Dark Crystal wurden die Gelfling-Protagonisten Jen und Kira von Puppenspielern geführt, die unter dem Filmset versteckt waren",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_525",
+      "text": "Jim Henson hatte die Dialoge von The Dark Crystal ursprünglich mit den echten Stimmen der Puppenspieler aufgenommen",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_526",
+      "text": "The Dark Crystal wurde mit einem Budget von rund 25 Millionen Dollar produziert",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_527",
+      "text": "Trevor Jones komponierte den orchestralen Soundtrack zu The Dark Crystal, eingespielt mit dem London Symphony Orchestra",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_528",
+      "text": "Die Kulissen von The Dark Crystal wurden in den Elstree Studios in England in enormem Maßstab errichtet",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_529",
+      "text": "Die Kritiker waren bei der Veröffentlichung von The Dark Crystal gespalten",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_530",
+      "text": "The Dark Crystal hat eine ganze Generation von Kreaturendesignern und Praktische-Effekte-Künstlern beeinflusst",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_531",
+      "text": "Tron (1982) war einer der ersten Filme, der ausgiebig computergenerierte Bilder einsetzte",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_532",
+      "text": "Disneys eigene Animatoren drohten zu streiken, falls das Studio Computeranimation einsetzen würde",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_533",
+      "text": "Die Akademie der Filmkünste und -wissenschaften disqualifizierte Tron aus der Kategorie 'Beste visuelle Effekte'",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_534",
+      "text": "Jeff Bridges, Bruce Boxleitner und David Warner spielten die Hauptrollen in Tron",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_535",
+      "text": "Die ikonischen Light-Cycle-Sequenzen in Tron waren die aufwendigsten CGI-Effekte des Films",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_536",
+      "text": "Trons Kostümdesignerin Rosanna Norton entwarf über 200 Kostüme",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_537",
+      "text": "Das Tron-Arcade-Spiel von Bally Midway kam im selben Jahr wie der Film heraus und wurde eines der umsatzstärksten Spielgeräte seiner Zeit",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_538",
+      "text": "Tron wurde mit einem Budget von 17 Millionen Dollar produziert und spielte 33 Millionen Dollar weltweit ein",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_539",
+      "text": "Drehbuchautor und Regisseur Steven Lisberger entwickelte die Idee zu Tron, nachdem ihn das frühe Videospiel Pong fasziniert hatte",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_540",
+      "text": "Tron war einer der ersten Filme, der ein zugehöriges Videospiel als zentrales Element seiner Marketingstrategie nutzte",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_541",
+      "text": "Ghostbusters wurde von Dan Aykroyd und Harold Ramis geschrieben",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_542",
+      "text": "Die als Ghostbusters-Hauptquartier genutzte Feuerwache ist die Hook & Ladder Company 8 in Tribeca, Manhattan — eine echte, aktive Feuerwache",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_543",
+      "text": "Sigourney Weaver spielte ihr Vorsprechen für Dana Barrett in Ghostbusters mit Knurren und Über-den-Tisch-Krabbeln",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_544",
+      "text": "Das Stay Puft Marshmallow Man-Kostüm in Ghostbusters wog etwa 55 kg und war extrem schwer zu tragen",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_545",
+      "text": "Ray Parker Jr. schrieb und nahm den Ghostbusters-Titelsong in weniger als zwei Tagen auf",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_546",
+      "text": "Der Schleim für Slimer und die Bibliotheksszenen in Ghostbusters bestand aus einem Methylcellulose-Gemisch",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_547",
+      "text": "Ghostbusters wurde mit 30 Millionen Dollar Budget gedreht und spielte bei der Erstveröffentlichung 295 Millionen Dollar weltweit ein",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_548",
+      "text": "Rick Moranis war nicht die ursprüngliche Wahl für die Rolle des Louis Tully in Ghostbusters",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_549",
+      "text": "Das Ghostbusters-Logo wurde von Michael C Gross entworfen",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_550",
+      "text": "Ghostbusters II (1989) versammelte das komplette Originalensemble fünf Jahre später erneut",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_551",
+      "text": "WarGames (1983) zeigte Matthew Broderick als jugendlichen Hacker, der beinahe den Dritten Weltkrieg auslöst",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_552",
+      "text": "Das WarGames-Drehbuch wurde durch einen echten Sicherheitsbericht von 1983 über Jugendliche inspiriert, die auf Regierungscomputer zugriffen",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_553",
+      "text": "Nachdem Präsident Reagan WarGames in Camp David sah, soll der Film Diskussionen über Sicherheitsprotokolle bei Atomwaffenstarts beeinflusst haben",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_554",
+      "text": "WarGames popularisierte den Begriff 'War Dialing'",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_555",
+      "text": "Der Film WarGames beeinflusste direkt die Verabschiedung des Computer Fraud and Abuse Act von 1984",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_556",
+      "text": "WarGames spielte 79 Millionen Dollar bei einem Budget von 12 Millionen ein und erhielt drei Oscar-Nominierungen",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_557",
+      "text": "Das WOPR-Supercomputer-Set in WarGames wurde aus echten Rechenanlagen und umfunktioniertem Militärmaterial gebaut",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_558",
+      "text": "Ally Sheedy spielte in WarGames an der Seite von Matthew Broderick die Rolle der Jennifer",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_559",
+      "text": "Das Fazit des Computers Joshua in WarGames lautet: 'Der einzige Gewinnerzug ist, nicht zu spielen'",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_560",
+      "text": "WarGames war der kommerziell erfolgreichste Film von Regisseur John Badham, der sich gegen mehrere andere Kandidaten durchsetzte",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_561",
+      "text": "The Last Starfighter folgt einem Teenager aus einem Wohnwagenpark, der entdeckt, dass das Arcade-Spiel Starfighter ein echter Rekrutierungstest für einen Weltraumkrieg ist",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_562",
+      "text": "The Last Starfighter war der erste große Hollywoodfilm, der physische Modelle vollständig durch computererzeugte Bilder ersetzte",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_563",
+      "text": "Jedes Bild der CGI-Effekte in The Last Starfighter benötigte auf dem Cray X-MP rund zwei Stunden Rechenzeit",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_564",
+      "text": "Die CGI-Raumschiffe in The Last Starfighter hatten über 300.000 Polygone pro Modell",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_565",
+      "text": "Ein echtes Arcade-Spiel zu The Last Starfighter wurde von Atari entwickelt, kam aber nie auf den Markt",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_566",
+      "text": "The Last Starfighter spielte 28 Millionen Dollar bei einem Budget von 15 Millionen ein",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_567",
+      "text": "Regisseur Nick Castle besetzte Lance Guest als Alex Rogan gezielt wegen seines Jedermann-Auftretens",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_568",
+      "text": "Das Konzept von The Last Starfighter — ein Videospiel als echtes militärisches Rekrutierungswerkzeug — wurde zu einem frühen Pionierbeispiel des SF-Tropes 'Simulation als Realität'",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_569",
+      "text": "Robert Prestons Darstellung des Alien-Recruiters Centauri in The Last Starfighter war eine seiner letzten Filmrollen",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_570",
+      "text": "The Last Starfighter ist zu einem der beliebtesten Kult-Science-Fiction-Filme der 1980er Jahre geworden",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_571",
+      "text": "Spaceballs (1987) wurde von Mel Brooks geschrieben, inszeniert und mitgespielt — als Parodie auf Star Wars und das Science-Fiction-Genre",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_572",
+      "text": "George Lucas gab Mel Brooks seinen Segen für Spaceballs",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_573",
+      "text": "Bill Pullman spielte Lone Starr in Spaceballs in seiner ersten großen Filmrolle",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_574",
+      "text": "Yogurts 'Merchandising'-Szene war eine direkte Parodie auf die Star Wars-Vermarktung und wurde eine der meistzitierten des Films",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_575",
+      "text": "Pizza the Hutt in Spaceballs ist eine Parodie auf Jabba the Hutt und wurde mit einem praktischen, schleimbedeckten Kostüm umgesetzt",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_576",
+      "text": "Dark Helmets Rüstung übertrieb Darth Vaders Panzerung mit überdimensionierten Proportionen, um ihn komisch kindlich wirken zu lassen",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_577",
+      "text": "Das Spaceballs-Raumschiff Winnebago — die Eagle 5 — war ein echter Winnebago, der mit Heckflossen und Raketentriebwerken umgebaut wurde",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_578",
+      "text": "Spaceballs wurde mit einem Budget von 22,7 Millionen Dollar produziert und spielte 38,1 Millionen Dollar weltweit ein",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_579",
+      "text": "Mel Brooks besetzte sich in Spaceballs selbst in den Rollen von Präsident Skroob und Yogurt",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_580",
+      "text": "Spaceballs' Slogan 'May the Schwartz Be With You' und seine vielen Star Wars-Parodie-Zeilen sind ins kollektive Popkultur-Gedächtnis eingegangen",
+      "system": "movies",
+      "rom": "spaceballs"
+    }
+  ]
+}

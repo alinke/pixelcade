@@ -1,0 +1,3814 @@
+{
+  "category": "hardware",
+  "facts": [
+    {
+      "id": "hw_001",
+      "text": "Le processeur MOS 6502 a équipé des systèmes comme la NES, la Commodore 64 et l'Atari 2600",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_002",
+      "text": "Le processeur Zilog Z80 était largement utilisé dans les bornes d'arcade et les ordinateurs personnels",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_003",
+      "text": "Le CPU Motorola 68000 a équipé la Sega Genesis et de nombreux systèmes d'arcade",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_004",
+      "text": "La PlayStation utilisait un CPU MIPS R3000A personnalisé en son cœur",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_005",
+      "text": "La Nintendo 64 utilisait un processeur 64 bits NEC VR4300",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_006",
+      "text": "La SNES utilisait un CPU Ricoh 5A22 basé sur l'architecture 65C816",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_007",
+      "text": "L'Atari 2600 utilisait le MOS 6507, une version allégée du 6502",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_008",
+      "text": "La Sega Saturn utilisait deux processeurs Hitachi SH-2 en parallèle",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_009",
+      "text": "La Dreamcast utilisait un CPU Hitachi SH-4 couplé à un GPU PowerVR",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_010",
+      "text": "La Xbox utilisait un processeur Intel Pentium III personnalisé",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_011",
+      "text": "La PlayStation 2 utilisait l'Emotion Engine, un CPU personnalisé basé sur MIPS",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_012",
+      "text": "La GameCube utilisait un processeur IBM PowerPC Gekko",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_013",
+      "text": "La Wii réutilisait un CPU PowerPC modifié baptisé Broadway",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_014",
+      "text": "La Wii U utilisait un CPU IBM PowerPC Espresso à trois cœurs",
+      "system": "nintendo_wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "hw_015",
+      "text": "La Switch utilise un système sur puce NVIDIA Tegra X1 personnalisé",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_016",
+      "text": "La PPU de la NES gérait le rendu des sprites et le défilement de l'écran",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_017",
+      "text": "Le Mode 7 de la SNES permettait la mise à l'échelle et la rotation des arrière-plans",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_018",
+      "text": "L'Atari 2600 n'avait pas de tampon d'image et affichait les graphismes ligne par ligne",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_019",
+      "text": "Le GPU de la PS1 prenait en charge les polygones texturés et les transformations affines",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_020",
+      "text": "La N64 utilisait un Reality Coprocessor pour l'accélération graphique 3D",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_021",
+      "text": "Le matériel Neo Geo était essentiellement un système d'arcade en version console de salon",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_022",
+      "text": "La Neo Geo AES et la MVS partageaient une architecture matérielle identique",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_023",
+      "text": "La carte arcade Sega Model 2 a propulsé des jeux comme Daytona USA",
+      "system": "sega_model_2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_024",
+      "text": "La carte Sega Model 3 était l'un des systèmes d'arcade les plus puissants de son époque",
+      "system": "sega_model_3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_025",
+      "text": "Le système arcade Naomi était basé sur l'architecture de la Dreamcast",
+      "system": "sega_naomi",
+      "rom": "default"
+    },
+    {
+      "id": "hw_026",
+      "text": "La carte arcade CPS-1 a propulsé les grands classiques de Capcom comme Street Fighter II",
+      "system": "capcom_play_system",
+      "rom": "default"
+    },
+    {
+      "id": "hw_027",
+      "text": "La carte CPS-2 introduisait un chiffrement renforcé pour lutter contre le piratage des jeux d'arcade",
+      "system": "capcom_play_system_ii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_028",
+      "text": "Le système CPS-3 a propulsé des jeux comme Street Fighter III",
+      "system": "capcom_play_system_iii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_029",
+      "text": "Le Zilog Z80 était souvent utilisé comme processeur son dans les systèmes d'arcade",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_030",
+      "text": "Les bornes d'arcade utilisaient souvent plusieurs CPU pour les graphismes, le son et la logique de jeu",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_031",
+      "text": "La Game Boy utilisait un CPU Sharp LR35902 personnalisé",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_032",
+      "text": "La Game Boy Color utilisait une version améliorée du CPU Sharp avec prise en charge des couleurs",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_033",
+      "text": "La Game Boy Advance utilisait un processeur ARM7TDMI 32 bits",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_034",
+      "text": "La PSP utilisait une architecture CPU basée sur le MIPS R4000",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_035",
+      "text": "La PS Vita utilisait un CPU ARM Cortex-A9 à quatre cœurs",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_036",
+      "text": "L'Atari Jaguar utilisait une architecture multi-puces avec les processeurs Tom et Jerry",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_037",
+      "text": "L'Atari Lynx a été co-développée par Epyx et les ingénieurs d'Atari",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_038",
+      "text": "La WonderSwan utilisait un CPU NEC V30MZ basse consommation",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_039",
+      "text": "La WonderSwan Color améliorait le matériel d'affichage par rapport au modèle original",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_040",
+      "text": "La Neo Geo Pocket utilisait un CPU Toshiba TLCS-900H",
+      "system": "ngp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_041",
+      "text": "La Neo Geo Pocket Color améliorait l'original avec un écran LCD couleur",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_042",
+      "text": "La Game Gear utilisait un CPU Zilog Z80, similaire à celui de la Master System",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_043",
+      "text": "La Sega Master System utilisait également un CPU Zilog Z80",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "hw_044",
+      "text": "La puce sonore de la NES était le Ricoh 2A03, qui intégrait la synthèse audio",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_045",
+      "text": "La SNES utilisait un DSP audio dédié pour les effets sonores avancés",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_046",
+      "text": "Le processeur Cell de la PS3 utilisait une architecture multi-cœur unique avec des unités SPE",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_047",
+      "text": "La Xbox 360 utilisait un CPU Xenon à trois cœurs basé sur IBM PowerPC",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_048",
+      "text": "La PS4 utilisait un CPU AMD Jaguar semi-personnalisé et un GPU Radeon",
+      "system": "ps4",
+      "rom": "default"
+    },
+    {
+      "id": "hw_049",
+      "text": "La PS5 utilise un CPU AMD Zen 2 personnalisé et un GPU RDNA 2",
+      "system": "ps5",
+      "rom": "default"
+    },
+    {
+      "id": "hw_050",
+      "text": "Les consoles modernes utilisent des architectures à mémoire unifiée pour plus d'efficacité CPU/GPU",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_051",
+      "text": "Le GPU de la PS2, le Graphics Synthesizer, avait un taux de remplissage extrêmement élevé pour son époque",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_052",
+      "text": "L'Emotion Engine de la PS2 intégrait des unités vectorielles pour les calculs physiques et géométriques",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_053",
+      "text": "Le Reality Coprocessor de la Nintendo 64 gérait à la fois les graphismes et les tâches audio",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_054",
+      "text": "Le GPU PowerVR de la Dreamcast utilisait un rendu par tuiles pour optimiser les performances",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_055",
+      "text": "La Sega Saturn utilisait deux processeurs d'affichage vidéo pour le rendu 2D et 3D",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_056",
+      "text": "L'Atari Jaguar comprenait un GPU appelé Tom et un DSP appelé Jerry",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_057",
+      "text": "La Neo Geo disposait de matériel sprite dédié capable de gérer de grands objets à l'écran",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_058",
+      "text": "Les cartes arcade utilisaient souvent des puces séparées pour le son, la vidéo et la logique de jeu",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_059",
+      "text": "La carte CPS-2 utilisait des puces de chiffrement pour empêcher la copie et le piratage des jeux",
+      "system": "capcom_play_system_ii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_060",
+      "text": "Le système CPS-3 nécessitait une cartouche de sécurité pour déchiffrer les jeux au démarrage",
+      "system": "capcom_play_system_iii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_061",
+      "text": "La carte arcade Sega Model 3 était capable d'un rendu 3D quasi temps réel dans les années 1990",
+      "system": "sega_model_3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_062",
+      "text": "Le système Sega Naomi utilisait des cartes ROM interchangeables, similaires aux GD-ROM de la Dreamcast",
+      "system": "sega_naomi",
+      "rom": "default"
+    },
+    {
+      "id": "hw_063",
+      "text": "Le système arcade Taito Type X était basé sur une architecture matérielle PC",
+      "system": "taito_type_x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_064",
+      "text": "La carte arcade CPS-1 a contribué à définir l'âge d'or de Capcom dans les salles d'arcade",
+      "system": "capcom_play_system",
+      "rom": "default"
+    },
+    {
+      "id": "hw_065",
+      "text": "De nombreuses cartes arcade utilisaient des CPU Motorola 68000 pour le traitement principal",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_066",
+      "text": "La PPU de la NES ne pouvait afficher que 64 sprites simultanément",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_067",
+      "text": "Le Mode 7 de la SNES permettait aux arrière-plans plats de simuler une rotation 3D",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_068",
+      "text": "La résolution d'écran de la Game Boy n'était que de 160x144 pixels",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_069",
+      "text": "La Game Boy Advance avait une résolution de 240x160 pixels",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_070",
+      "text": "La résolution d'écran de la PSP était de 480x272 pixels",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_071",
+      "text": "La PS Vita disposait d'un écran OLED de 960x544 pixels sur les premiers modèles",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_072",
+      "text": "La Nintendo DS utilisait deux écrans séparés de 256x192 pixels",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_073",
+      "text": "L'écran supérieur de la 3DS pouvait afficher de la 3D stéréoscopique sans lunettes",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_074",
+      "text": "Le GPU de la Wii était basé sur un chipset ATI Hollywood",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_075",
+      "text": "Le GPU de la GameCube s'appelait 'Flipper' et avait été co-développé avec ATI",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_076",
+      "text": "Le GPU de la PS3 était basé sur l'architecture RSX de NVIDIA",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_077",
+      "text": "Le GPU de la Xbox 360 a introduit l'architecture de shaders unifiés",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_078",
+      "text": "La PS4 et la Xbox One ont toutes deux adopté des architectures GPU basées sur AMD",
+      "system": "ps4",
+      "rom": "default"
+    },
+    {
+      "id": "hw_079",
+      "text": "Le GPU de la PS5 prend en charge l'accélération du ray tracing en matériel",
+      "system": "ps5",
+      "rom": "default"
+    },
+    {
+      "id": "hw_080",
+      "text": "Les consoles modernes utilisent de la mémoire GDDR partagée entre le CPU et le GPU",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_081",
+      "text": "L'Atari 2600 utilisait un Television Interface Adapter pour la sortie vidéo",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_082",
+      "text": "L'Atari 2600 obligeait les développeurs à gérer les lignes de balayage manuellement",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_083",
+      "text": "La Sega Genesis prenait en charge le défilement matériel pour un mouvement plus fluide",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_084",
+      "text": "La Neo Geo pouvait afficher 380 sprites simultanément à l'écran",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_085",
+      "text": "La VMU de la Dreamcast utilisait un LCD basse consommation pour des fonctions d'affichage secondaires",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_086",
+      "text": "La Game Boy utilisait un LCD personnalisé sans rétroéclairage",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_087",
+      "text": "La Game Boy Color ajoutait un écran LCD couleur réfléchissant",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_088",
+      "text": "L'écran de la Game Gear était rétroéclairé, mais très gourmand en énergie",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_089",
+      "text": "Le Lynx disposait d'un écran LCD grand angle offrant de meilleurs angles de vision",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_090",
+      "text": "La WonderSwan utilisait une conception LCD très efficace et basse consommation",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_091",
+      "text": "Le système audio de la NES utilisait 5 canaux pour la synthèse sonore",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_092",
+      "text": "La SNES prenait en charge l'audio basé sur des échantillons via sa puce SPC700",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_093",
+      "text": "La Genesis disposait d'une synthèse FM via la puce Yamaha YM2612",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_094",
+      "text": "La PS1 intégrait une SPU dédiée au traitement du son",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_095",
+      "text": "La N64 disposait d'un traitement audio avancé pour les effets sonores 3D en temps réel",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_096",
+      "text": "Les bornes d'arcade utilisaient souvent des moniteurs CRT réglés pour des fréquences de rafraîchissement spécifiques",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_097",
+      "text": "De nombreuses cartes arcade étaient conçues pour résister aux pièces et à la chaleur en exploitation continue",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_098",
+      "text": "Le système CPS-2 utilisait des clés de chiffrement sauvegardées par pile qui pouvaient expirer",
+      "system": "capcom_play_system_ii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_099",
+      "text": "La carte Sega Model 2 découlait d'un partenariat entre Sega et Lockheed Martin",
+      "system": "sega_model_2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_100",
+      "text": "L'évolution du matériel arcade a été un moteur d'innovation dans la 3D des jeux vidéo",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_101",
+      "text": "La Sega Saturn utilisait un processeur son séparé appelé Yamaha FH1",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_102",
+      "text": "Le GPU de la PlayStation utilisait 1 Mo fixe de VRAM pour les textures et les tampons d'image",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_103",
+      "text": "La Nintendo 64 ne disposait que de 4 Ko de cache de textures sur son RCP",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_104",
+      "text": "La Dreamcast prenait en charge les disques GD-ROM, d'une capacité supérieure aux CD",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_105",
+      "text": "La Xbox originale utilisait un noyau Windows NT modifié en interne",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_106",
+      "text": "La PS2 disposait de seulement 32 Mo de RAM système, très limité même pour son époque",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_107",
+      "text": "La GameCube utilisait des mini-disques propriétaires plutôt que des DVD standard",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_108",
+      "text": "La Wii Remote utilisait des LED infrarouges détectées par une barre de capteurs pour le pointage",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_109",
+      "text": "Le GamePad de la Wii U intégrait un écran tactile comme contrôleur secondaire",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "hw_110",
+      "text": "La Nintendo Switch prend en charge les modes GPU portable et docké",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_111",
+      "text": "Le port joystick de l'Atari 2600 est devenu un standard de fait pour les manettes ultérieures",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_112",
+      "text": "L'Atari 800 partageait des concepts d'architecture avec les systèmes d'arcade",
+      "system": "atari800",
+      "rom": "default"
+    },
+    {
+      "id": "hw_113",
+      "text": "La Commodore 64 utilisait la puce SID pour une synthèse sonore avancée",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_114",
+      "text": "La puce SID est encore considérée comme l'une des puces sonores les plus emblématiques jamais créées",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_115",
+      "text": "L'Amiga utilisait la puce Paula pour l'audio et le transfert de données par DMA",
+      "system": "amiga",
+      "rom": "default"
+    },
+    {
+      "id": "hw_116",
+      "text": "Le chipset graphique de l'Amiga prenait en charge plusieurs modes d'affichage simultanément",
+      "system": "amiga",
+      "rom": "default"
+    },
+    {
+      "id": "hw_117",
+      "text": "Le ZX Spectrum utilisait un simple tampon d'image avec des limitations de couleur basées sur les attributs",
+      "system": "zxspectrum",
+      "rom": "default"
+    },
+    {
+      "id": "hw_118",
+      "text": "La norme MSX a unifié le matériel de plusieurs fabricants dans les années 1980",
+      "system": "msx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_119",
+      "text": "La PC Engine utilisait des HuCards à la place des cartouches traditionnelles",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "hw_120",
+      "text": "Les cartouches Neo Geo AES pouvaient coûter plusieurs centaines de dollars à leur sortie",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_121",
+      "text": "Le système CPS-2 stockait les clés de chiffrement dans une mémoire sauvegardée par pile suicidaire",
+      "system": "capcom_play_system_ii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_122",
+      "text": "Le système CPS-3 nécessitait le chargement des jeux par CD-ROM avec des vérifications de sécurité",
+      "system": "capcom_play_system_iii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_123",
+      "text": "La Sega Naomi 2 améliorait le traitement géométrique par rapport à la Naomi 1",
+      "system": "sega_naomi",
+      "rom": "default"
+    },
+    {
+      "id": "hw_124",
+      "text": "Les systèmes Taito Type X utilisaient des GPU PC standard pour plus de souplesse en arcade",
+      "system": "taito_type_x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_125",
+      "text": "Le système Atomiswave était basé sur l'architecture de la Sega Dreamcast",
+      "system": "sammy_atomiswave",
+      "rom": "default"
+    },
+    {
+      "id": "hw_126",
+      "text": "La Nintendo DS utilisait des processeurs ARM9 et ARM7 en tandem pour répartir les tâches",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_127",
+      "text": "La 3DS ajoutait un GPU dédié pour le rendu stéréoscopique",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_128",
+      "text": "La PSP utilisait un coprocesseur Media Engine pour le décodage multimédia",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_129",
+      "text": "La PS Vita intégrait un GPU dédié aux côtés de son CPU ARM",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_130",
+      "text": "La Game Boy Advance SP a ajouté un rétroéclairage dans ses révisions ultérieures",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_131",
+      "text": "Le CPU de la Game Boy Color tournait à environ deux fois la vitesse de la Game Boy originale",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_132",
+      "text": "Le LCD couleur de la Game Gear la rendait plus avancée mais moins efficace en énergie que la Game Boy",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_133",
+      "text": "Le Lynx prenait en charge la mise à l'échelle matérielle et le zoom des sprites en temps réel",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_134",
+      "text": "La conception de la WonderSwan mettait l'accent sur une consommation d'énergie ultra-faible",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_135",
+      "text": "La Neo Geo Pocket Color utilisait un CPU 16 bits optimisé pour les jeux de combat",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_136",
+      "text": "La manette de la Sega Dreamcast intégrait un emplacement VMU intégré",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_137",
+      "text": "La VMU pouvait fonctionner de manière autonome comme une mini-console portable",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_138",
+      "text": "Le Zapper de la NES utilisait un capteur de lumière pour détecter les flashs de l'écran CRT",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_139",
+      "text": "La puce Super FX de la SNES permettait un rendu 3D précoce dans des jeux comme Star Fox",
+      "system": "snes"
+    },
+    {
+      "id": "hw_140",
+      "text": "La Sega Genesis disposait d'un module Sega CD optionnel pour étendre le stockage",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "hw_141",
+      "text": "Le module Sega 32X tentait de faire le pont entre la Genesis et la génération 32 bits",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_142",
+      "text": "La Philips CD-i était une console multimédia pionnière utilisant des logiciels sur CD-ROM",
+      "system": "philips_cd-i",
+      "rom": "default"
+    },
+    {
+      "id": "hw_143",
+      "text": "La Virtual Boy utilisait des affichages LED rouges pour des effets 3D stéréoscopiques",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_144",
+      "text": "La Vectrex utilisait un affichage vectoriel au lieu de graphismes tramés",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "hw_145",
+      "text": "L'Intellivision était un concurrent de l'Atari 2600 avec des graphismes supérieurs",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "hw_146",
+      "text": "La ColecoVision apportait des graphismes de qualité arcade dans les salons dans les années 1980",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "hw_147",
+      "text": "La Magnavox Odyssey était la première console de jeux vidéo commerciale pour la maison",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "hw_148",
+      "text": "La Fairchild Channel F a été la première console à utiliser des cartouches programmables",
+      "system": "fairchild_channel_f",
+      "rom": "default"
+    },
+    {
+      "id": "hw_149",
+      "text": "La Bally Astrocade proposait des graphismes couleur avancés pour son époque",
+      "system": "bally_astrocade",
+      "rom": "default"
+    },
+    {
+      "id": "hw_150",
+      "text": "Les premières consoles reposaient souvent sur du matériel personnalisé plutôt que sur des CPU standardisés",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_151",
+      "text": "La PlayStation 2 prenait en charge la lecture de DVD sans matériel supplémentaire",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_152",
+      "text": "Les Vector Units du PS2 étaient largement utilisées pour les animations et les calculs physiques",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_153",
+      "text": "La Nintendo GameCube utilisait un format de disque optique personnalisé pour décourager le piratage",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_154",
+      "text": "Le CPU Broadway de la Wii était dérivé de l'architecture de la GameCube",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_155",
+      "text": "La Wii U a souffert d'une optimisation matérielle limitée par les éditeurs tiers",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "hw_156",
+      "text": "Les Joy-Cons de la Nintendo Switch intègrent la vibration HD pour un retour haptique avancé",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_157",
+      "text": "La Switch utilise une architecture hybride permettant une adaptation des performances en mode docké ou portable",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_158",
+      "text": "La Xbox originale intégrait un disque dur, ce qui était rare à l'époque",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_159",
+      "text": "La Xbox 360 a introduit des disques durs amovibles pour étendre le stockage",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_160",
+      "text": "Le processeur Cell du PS3 était extrêmement puissant mais difficile à programmer",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_161",
+      "text": "Le format UMD du PSP était propre aux portables Sony et n'a jamais été largement adopté ailleurs",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_162",
+      "text": "La PS Vita prenait en charge les cartouches physiques et les téléchargements numériques",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_163",
+      "text": "La Nintendo DS Lite améliorait considérablement la luminosité de l'écran par rapport à la DS originale",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_164",
+      "text": "L'effet 3D autostéréoscopique de la 3DS nécessitait un angle de vision précis",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_165",
+      "text": "La Game Boy Advance SP fut la première console portable Nintendo avec une batterie rechargeable intégrée",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_166",
+      "text": "La gamme Game Boy utilisait des câbles de liaison pour la connectivité multijoueur",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_167",
+      "text": "La Game Boy Color permettait de modifier la palette de couleurs des jeux Game Boy originaux",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_168",
+      "text": "Le tuner TV du Game Gear permettait de regarder la télévision analogique sur l'appareil",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_169",
+      "text": "L'Atari Lynx permettait de relier jusqu'à 17 appareils lors de sessions multijoueur",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_170",
+      "text": "La WonderSwan avait une autonomie de batterie exceptionnelle grâce à une conception matérielle efficace",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_171",
+      "text": "La Neo Geo Pocket Color disposait d'un joystick à micro-switch pour une saisie précise",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_172",
+      "text": "La Neo Geo AES utilisait un matériel identique aux systèmes d'arcade MVS",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_173",
+      "text": "La Sega Genesis disposait de ports d'extension pour des accessoires comme le Sega CD",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_174",
+      "text": "Le Sega CD ajoutait la lecture vidéo plein mouvement aux jeux Genesis",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "hw_175",
+      "text": "La Sega 32X était conçue pour prolonger la vie de la Genesis dans le jeu 32 bits",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_176",
+      "text": "Le joystick de l'Atari 2600 est devenu l'un des designs de manette les plus emblématiques",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_177",
+      "text": "La manette de l'Atari 5200 utilisait une entrée analogique mais était notoirement peu fiable",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "hw_178",
+      "text": "La manette Intellivision utilisait un pavé numérique au lieu d'un joystick",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "hw_179",
+      "text": "Le module d'extension ColecoVision permettait la compatibilité avec les jeux Atari 2600",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "hw_180",
+      "text": "La Vectrex intégrait un moniteur vectoriel, éliminant le besoin d'une télévision",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "hw_181",
+      "text": "La Philips CD-i prenait en charge des applications multimédia au-delà du jeu vidéo",
+      "system": "philips_cd-i",
+      "rom": "default"
+    },
+    {
+      "id": "hw_182",
+      "text": "La Virtual Boy nécessitait un support et affichait les jeux via deux miroirs",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_183",
+      "text": "La Sega Dreamcast prenait en charge des accessoires modem haut débit dans certaines régions",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_184",
+      "text": "La carte mémoire du PS1 ne stockait qu'1 Mo de données de sauvegarde",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_185",
+      "text": "La manette Nintendo 64 a introduit un stick analogique central",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_186",
+      "text": "Le Super Game Boy du SNES permettait de jouer aux jeux Game Boy sur la télévision",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_187",
+      "text": "La manette NES Advantage était conçue pour un gameplay de style arcade",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_188",
+      "text": "La Sega Master System avait un pistolet lumineux appelé le Light Phaser",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "hw_189",
+      "text": "L'extension CD de l'Atari Jaguar augmentait la capacité de stockage pour les jeux volumineux",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_190",
+      "text": "La carte mémoire Neo Geo permettait de sauvegarder sa progression arcade à la maison",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_191",
+      "text": "La Game Boy Camera incluait des mini-jeux intégrés et des outils d'édition",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_192",
+      "text": "La PSP Go a supprimé le lecteur UMD au profit des téléchargements numériques",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_193",
+      "text": "La PS Vita Slim améliorait l'ergonomie et réduisait le poids",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_194",
+      "text": "La Nintendo DS pouvait télécharger des démos via Nintendo Wi-Fi Connection",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_195",
+      "text": "Le 3DS eShop permettait la distribution numérique de jeux indépendants et rétro",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_196",
+      "text": "La Xbox Kinect utilisait la détection infrarouge de profondeur pour le suivi des mouvements",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_197",
+      "text": "La PlayStation Move utilisait des manettes à orbe colorée pour le suivi de mouvement",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_198",
+      "text": "La Wii Balance Board mesurait la répartition du poids pour les jeux de fitness",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_199",
+      "text": "Les bornes d'arcade incluaient souvent des interrupteurs DIP pour configurer la difficulté",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_200",
+      "text": "L'évolution du matériel dans le jeu vidéo a constamment repoussé les limites graphiques et mémoire",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_201",
+      "text": "Pac-Man s'appelait à l'origine 'Puck-Man' au Japon avant d'être renommé pour le marché occidental",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "hw_202",
+      "text": "Donkey Kong fut l'un des premiers jeux à intégrer le saut comme mécanique principale et introduisit Mario sous le nom 'Jumpman'",
+      "system": "mame",
+      "rom": "dkong"
+    },
+    {
+      "id": "hw_203",
+      "text": "Le Street Fighter original avait des pavés de frappe sensibles à la pression dans la borne d'arcade",
+      "system": "mame",
+      "rom": "sf"
+    },
+    {
+      "id": "hw_204",
+      "text": "Galaga était la suite de Galaxian et introduisait la possibilité de capturer son propre vaisseau",
+      "system": "mame",
+      "rom": "galaga"
+    },
+    {
+      "id": "hw_205",
+      "text": "Space Invaders était si populaire qu'il a provoqué une pénurie de pièces de 100 yens au Japon",
+      "system": "mame",
+      "rom": "invaders"
+    },
+    {
+      "id": "hw_206",
+      "text": "Le NES s'appelait Famicom au Japon, abréviation de Family Computer",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_207",
+      "text": "La Nintendo Entertainment System a contribué à relancer l'industrie du jeu vidéo après le crash de 1983",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_208",
+      "text": "Super Mario Bros. a contribué à définir les jeux de plateforme à défilement latéral",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_209",
+      "text": "La manette NES a contribué à populariser le design de la croix directionnelle",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_210",
+      "text": "The Legend of Zelda a introduit la sauvegarde sur batterie dans les cartouches",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_211",
+      "text": "La Sega Genesis était connue sous le nom Mega Drive en dehors de l'Amérique du Nord",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_212",
+      "text": "Sonic the Hedgehog a été conçu pour concurrencer directement la popularité de Mario",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_213",
+      "text": "La Genesis utilisait un CPU Motorola 68000 similaire aux premiers ordinateurs personnels",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_214",
+      "text": "Le slogan marketing de la Sega Genesis était 'Genesis does what Nintendon't'",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_215",
+      "text": "Mortal Kombat sur Genesis était célèbre pour son sang non censuré activé via un code de triche",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_216",
+      "text": "L'Atari 2600 a contribué à établir les cartouches de jeux interchangeables comme standard",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_217",
+      "text": "Pitfall! fut l'un des premiers jeux de plateforme et d'aventure sur consoles de salon",
+      "system": "atari2600",
+      "rom": "pitfall"
+    },
+    {
+      "id": "hw_218",
+      "text": "Le joystick de l'Atari 2600 avait un seul bouton et un stick directionnel numérique",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_219",
+      "text": "E.T. sur Atari 2600 est souvent cité comme l'une des causes du crash du jeu vidéo de 1983",
+      "system": "atari2600",
+      "rom": "et"
+    },
+    {
+      "id": "hw_220",
+      "text": "L'Atari 2600 n'avait que 128 octets de RAM",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_221",
+      "text": "La PlayStation était à l'origine un projet de collaboration raté avec Nintendo",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_222",
+      "text": "Final Fantasy VII a contribué à établir la narration cinématographique dans les RPG",
+      "system": "psx",
+      "rom": "ff7"
+    },
+    {
+      "id": "hw_223",
+      "text": "Metal Gear Solid a été un pionnier du jeu d'infiltration sur consoles",
+      "system": "psx",
+      "rom": "mgs"
+    },
+    {
+      "id": "hw_224",
+      "text": "La PlayStation utilisait des CD-ROM au lieu de cartouches pour réduire les coûts de production",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_225",
+      "text": "La PlayStation originale s'est vendue à plus de 100 millions d'unités dans le monde",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_226",
+      "text": "La Nintendo 64 a introduit le contrôle analogique avec son design de manette unique",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_227",
+      "text": "Super Mario 64 fut l'un des premiers jeux de plateforme entièrement en 3D",
+      "system": "n64",
+      "rom": "sm64"
+    },
+    {
+      "id": "hw_228",
+      "text": "La Nintendo 64 utilisait des cartouches plutôt que des CD, limitant le stockage mais améliorant les temps de chargement",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_229",
+      "text": "GoldenEye 007 a contribué à définir le FPS multijoueur sur console",
+      "system": "n64",
+      "rom": "goldeneye"
+    },
+    {
+      "id": "hw_230",
+      "text": "La Nintendo 64 doit son nom à son architecture de processeur 64 bits",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_231",
+      "text": "La Game Boy a contribué à établir le jeu portable comme marché grand public",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_232",
+      "text": "Pokémon Rouge et Bleu sont devenus des phénomènes culturels sur la Game Boy",
+      "system": "gb",
+      "rom": "pokemon"
+    },
+    {
+      "id": "hw_233",
+      "text": "La Game Boy avait une autonomie de batterie remarquablement longue comparée à ses concurrentes",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_234",
+      "text": "L'écran monochrome de la Game Boy a été choisi pour maximiser l'autonomie",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_235",
+      "text": "Tetris est devenu l'un des jeux inclus dans la boîte les plus emblématiques de l'histoire",
+      "system": "gb",
+      "rom": "tetris"
+    },
+    {
+      "id": "hw_236",
+      "text": "La SNES a introduit les graphismes Mode 7 pour des effets pseudo-3D",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_237",
+      "text": "Super Metroid est considéré comme l'un des meilleurs jeux d'action-aventure jamais créés",
+      "system": "snes",
+      "rom": "metroid"
+    },
+    {
+      "id": "hw_238",
+      "text": "La manette SNES a introduit les boutons de face X et Y",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_239",
+      "text": "Chrono Trigger proposait plusieurs fins selon les choix du joueur",
+      "system": "snes",
+      "rom": "ct"
+    },
+    {
+      "id": "hw_240",
+      "text": "La SNES est largement considérée comme l'une des plus grandes consoles de Nintendo",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_241",
+      "text": "La Dreamcast fut la première console avec un jeu en ligne intégré",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_242",
+      "text": "Sonic Adventure était le titre phare au lancement de la Dreamcast",
+      "system": "dreamcast",
+      "rom": "sonic"
+    },
+    {
+      "id": "hw_243",
+      "text": "La VMU de la Dreamcast avait un écran intégré pour les mini-jeux et les statistiques",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_244",
+      "text": "La Dreamcast fut la dernière console de salon de Sega",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_245",
+      "text": "Crazy Taxi est devenu l'un des jeux de style arcade les plus emblématiques de la Dreamcast",
+      "system": "dreamcast",
+      "rom": "crazytaxi"
+    },
+    {
+      "id": "hw_246",
+      "text": "La PS2 pouvait lire des DVD, ce qui en faisait un appareil de divertissement populaire",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_247",
+      "text": "Grand Theft Auto: San Andreas est devenu l'un des jeux PS2 les plus vendus",
+      "system": "ps2",
+      "rom": "gtasa"
+    },
+    {
+      "id": "hw_248",
+      "text": "La PS2 disposait d'une immense bibliothèque de plus de 3 800 jeux",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_249",
+      "text": "Shadow of the Colossus a été salué pour son design artistique minimaliste",
+      "system": "ps2",
+      "rom": "sotc"
+    },
+    {
+      "id": "hw_250",
+      "text": "La PS2 reste la console la plus vendue de tous les temps",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_251",
+      "text": "Pac-Man visait un public plus large, y compris les femmes, ce qui était rare pour les jeux d'arcade de l'époque",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "hw_252",
+      "text": "Donkey Kong fut l'un des premiers grands succès d'arcade de Nintendo et introduisit Mario sous le nom 'Jumpman'",
+      "system": "mame",
+      "rom": "dkong"
+    },
+    {
+      "id": "hw_253",
+      "text": "Space Invaders a introduit le concept de difficulté croissante quand les ennemis accélèrent",
+      "system": "mame",
+      "rom": "invaders"
+    },
+    {
+      "id": "hw_254",
+      "text": "Asteroids utilisait des graphismes vectoriels au lieu d'un rendu par sprites",
+      "system": "mame",
+      "rom": "asteroids"
+    },
+    {
+      "id": "hw_255",
+      "text": "Ms. Pac-Man a été créé à l'origine comme un kit d'amélioration non officiel pour Pac-Man",
+      "system": "mame",
+      "rom": "mspacman"
+    },
+    {
+      "id": "hw_256",
+      "text": "Street Fighter II a popularisé le genre des jeux de combat dans le monde entier",
+      "system": "mame",
+      "rom": "sf2"
+    },
+    {
+      "id": "hw_257",
+      "text": "Mortal Kombat utilisait des acteurs numérisés pour les sprites de ses personnages",
+      "system": "mame",
+      "rom": "mk"
+    },
+    {
+      "id": "hw_258",
+      "text": "Final Fight a contribué à définir le genre du beat-em-up à défilement latéral",
+      "system": "mame",
+      "rom": "ffight"
+    },
+    {
+      "id": "hw_259",
+      "text": "NBA Jam est devenu célèbre pour son gameplay de basket-ball de style arcade exagéré",
+      "system": "mame",
+      "rom": "nbajam"
+    },
+    {
+      "id": "hw_260",
+      "text": "Pac-Land fut l'un des premiers jeux d'arcade à intégrer un défilement latéral",
+      "system": "mame",
+      "rom": "pacland"
+    },
+    {
+      "id": "hw_261",
+      "text": "La Sega Saturn avait de solides capacités 2D qui la rendaient populaire pour les portages arcade",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_262",
+      "text": "Nights into Dreams mettait en valeur les capacités graphiques de la Saturn",
+      "system": "saturn",
+      "rom": "nights"
+    },
+    {
+      "id": "hw_263",
+      "text": "Le design à double CPU de la Saturn rendait l'optimisation des jeux difficile pour les développeurs",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_264",
+      "text": "La Saturn est sortie plus tôt que la PlayStation en Amérique du Nord, ce qui a nui à ses performances commerciales",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_265",
+      "text": "Virtua Fighter a contribué à établir les jeux de combat 3D sur consoles",
+      "system": "saturn",
+      "rom": "vf"
+    },
+    {
+      "id": "hw_266",
+      "text": "L'Atari Jaguar était commercialisé comme un système 64 bits malgré des débats sur son architecture",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_267",
+      "text": "Alien vs Predator est l'un des jeux les plus notables de l'Atari Jaguar",
+      "system": "atarijaguar",
+      "rom": "avp"
+    },
+    {
+      "id": "hw_268",
+      "text": "La manette Jaguar intégrait un pavé numérique pour des options de saisie étendues",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_269",
+      "text": "L'Atari Jaguar a souffert d'une bibliothèque de jeux réduite",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_270",
+      "text": "Tempest 2000 était un titre remarquable mettant en valeur les capacités du Jaguar",
+      "system": "atarijaguar",
+      "rom": "tempest"
+    },
+    {
+      "id": "hw_271",
+      "text": "La Neo Geo AES était considérée comme une console de luxe en raison de ses cartouches extrêmement coûteuses",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_272",
+      "text": "La série The King of Fighters est devenue l'une des franchises les plus emblématiques de SNK",
+      "system": "neogeo",
+      "rom": "kof"
+    },
+    {
+      "id": "hw_273",
+      "text": "Metal Slug est célèbre pour ses pixel art et animations détaillés",
+      "system": "neogeo",
+      "rom": "mslug"
+    },
+    {
+      "id": "hw_274",
+      "text": "Le matériel Neo Geo était pratiquement identique à la version arcade à domicile",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_275",
+      "text": "Samurai Shodown a contribué à définir les jeux de combat à l'arme blanche",
+      "system": "neogeo",
+      "rom": "samsho"
+    },
+    {
+      "id": "hw_276",
+      "text": "La Game Boy Camera permettait de prendre et d'éditer des photos en noir et blanc",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_277",
+      "text": "La Game Boy Printer permettait d'imprimer les images prises avec la Game Boy Camera",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_278",
+      "text": "La Game Boy Pocket était une révision plus petite et plus légère de la Game Boy originale",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_279",
+      "text": "L'écran de la Game Boy originale n'avait pas de rétroéclairage et dépendait de la lumière ambiante",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_280",
+      "text": "La Game Boy a contribué à établir le jeu portable comme phénomène mondial",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_281",
+      "text": "La PSP fut l'une des premières consoles portables à prendre en charge la lecture de vidéo plein mouvement",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_282",
+      "text": "God of War: Chains of Olympus était un titre exclusif majeur de la PSP",
+      "system": "psp",
+      "rom": "gow"
+    },
+    {
+      "id": "hw_283",
+      "text": "La PSP disposait d'une connectivité Wi-Fi pour le jeu multijoueur en ligne",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_284",
+      "text": "La PSP Go fut la première grande console portable Sony à passer entièrement au numérique",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_285",
+      "text": "Monster Hunter est devenu extrêmement populaire sur PSP au Japon",
+      "system": "psp",
+      "rom": "mh"
+    },
+    {
+      "id": "hw_286",
+      "text": "La PlayStation Vita disposait de deux sticks analogiques, une première pour les portables Sony",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_287",
+      "text": "Uncharted: Golden Abyss était le titre phare au lancement de la PS Vita",
+      "system": "psvita",
+      "rom": "uncharted"
+    },
+    {
+      "id": "hw_288",
+      "text": "La PS Vita avait un pavé tactile arrière pour des schémas de contrôle inédits",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_289",
+      "text": "La PS Vita pouvait se connecter à la PS3 et PS4 pour le jeu à distance",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_290",
+      "text": "Persona 4 Golden est largement considéré comme l'un des meilleurs jeux PS Vita",
+      "system": "psvita",
+      "rom": "p4g"
+    },
+    {
+      "id": "hw_291",
+      "text": "La Nintendo DS a introduit PictoChat pour la messagerie locale entre appareils",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_292",
+      "text": "Mario Kart DS a contribué à populariser les jeux de course en ligne sur portable",
+      "system": "nintendo_ds",
+      "rom": "mkds"
+    },
+    {
+      "id": "hw_293",
+      "text": "La DS avait deux écrans séparés permettant des mécaniques de jeu uniques",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_294",
+      "text": "Brain Age fut un succès surprise qui a élargi le public de la DS",
+      "system": "nintendo_ds",
+      "rom": "brainage"
+    },
+    {
+      "id": "hw_295",
+      "text": "La Nintendo DS a contribué à intégrer le jeu casual dans le grand public",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_296",
+      "text": "La Nintendo 3DS s'est lancée à un prix élevé avant une baisse rapide du prix",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_297",
+      "text": "Animal Crossing: New Leaf est devenu un titre emblématique de la 3DS",
+      "system": "nintendo_3ds",
+      "rom": "acnl"
+    },
+    {
+      "id": "hw_298",
+      "text": "La 3DS a introduit des cartes de réalité augmentée pour un gameplay interactif",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_299",
+      "text": "La New Nintendo 3DS améliorait les performances pour les jeux plus exigeants",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_300",
+      "text": "La Nintendo 3DS a réussi malgré la concurrence des smartphones",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_301",
+      "text": "La Xbox originale utilisait un processeur Intel Pentium III cadencé à 733 MHz et 64 Mo de RAM",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_302",
+      "text": "La Xbox originale incluait un disque dur de 8 Go intégré, première console à en proposer un en standard",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_303",
+      "text": "La Xbox 360 a été lancée en deux configurations différentes",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_304",
+      "text": "Le processeur IBM Xenon à trois cœurs de la Xbox 360 tournait à 3,2 GHz avec une architecture de shaders unifiés en avance sur son temps",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_305",
+      "text": "Le taux de panne 'Anneau rouge de la mort' de la Xbox 360 était estimé à 54 % par certains analystes",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_306",
+      "text": "La Xbox One X en 2017 offrait 6 téraflops de performances GPU et 12 Go de RAM GDDR5",
+      "system": "xboxone",
+      "rom": "default"
+    },
+    {
+      "id": "hw_307",
+      "text": "La Xbox Series X utilise un CPU AMD Zen 2 personnalisé à 8 cœurs cadencé à 3,8 GHz et un GPU RDNA 2 délivrant 12 téraflops",
+      "system": "xboxseriesx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_308",
+      "text": "Le GPU de la Xbox 360 était une puce ATI Xenos conçue spécialement pour la console, avec 48 shaders unifiés",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_309",
+      "text": "Le Cell Broadband Engine de la PS3 comprenait un élément de traitement principal et sept éléments de traitement synergiques",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_310",
+      "text": "La PS3 a été lancée à 499 $ pour le modèle 20 Go et 599 $ pour le modèle 60 Go en 2006",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_311",
+      "text": "La PS3 60 Go originale intégrait une compatibilité matérielle PS2 grâce à une puce Emotion Engine secondaire",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_312",
+      "text": "La PS4 Pro ajoutait un second cluster GPU pour atteindre 4,2 téraflops de puissance de calcul",
+      "system": "ps4",
+      "rom": "default"
+    },
+    {
+      "id": "hw_313",
+      "text": "La PS5 utilise un CPU AMD Zen 2 personnalisé à 3,5 GHz et un GPU RDNA 2 à 10,28 téraflops",
+      "system": "ps5",
+      "rom": "default"
+    },
+    {
+      "id": "hw_314",
+      "text": "La manette DualSense de la PS5 a introduit des moteurs à retour haptique remplaçant les vibrations traditionnelles",
+      "system": "ps5",
+      "rom": "default"
+    },
+    {
+      "id": "hw_315",
+      "text": "La PS Vita de Sony utilisait un CPU ARM Cortex-A9 quad-core et un GPU PowerVR SGX543MP4+ quad-core",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_316",
+      "text": "La PS Vita utilisait des cartes mémoire propriétaires bien plus chères que les cartes SD standard",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_317",
+      "text": "La Nintendo 64 utilisait un CPU NEC VR4300 64 bits cadencé à 93,75 MHz",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_318",
+      "text": "Le Reality Co-Processor (RCP) de la N64 combinait le processeur graphique et le processeur audio en un seul chip",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_319",
+      "text": "Le CPU IBM PowerPC Gekko personnalisé de la GameCube tournait à 485 MHz et était couplé à un GPU ATI Flipper",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_320",
+      "text": "Les disques optiques propriétaires de 8 cm de la GameCube contenaient 1,5 Go et avaient été choisis pour limiter le piratage",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_321",
+      "text": "Le processeur principal de la Wii était une puce IBM Broadway cadencée à 729 MHz",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_322",
+      "text": "La Wii Remote utilisait une puce Bluetooth Broadcom et un capteur optique PixArt pour détecter les LED infrarouge de la barre de capteur",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_323",
+      "text": "Le GamePad de la Wii U disposait d'un écran tactile de 6,2 pouces et utilisait une bande 802.11n 5 GHz pour diffuser la vidéo",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "hw_324",
+      "text": "Le SoC NVIDIA Tegra X1 de la Nintendo Switch tourne à des fréquences réduites en mode TV (1 GHz CPU / 768 MHz GPU)",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_325",
+      "text": "Les cartouches Nintendo Switch ont un revêtement amer pour décourager les enfants de les mettre dans la bouche",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_326",
+      "text": "La Nintendo 3DS utilise deux processeurs ARM distincts",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_327",
+      "text": "La New Nintendo 3DS a amélioré le CPU vers un ARM11 quad-core à 804 MHz contre un seul cœur à 268 MHz sur le modèle original",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_328",
+      "text": "La Game Boy Advance SP introduisait un design à clapet et un écran éclairé par l'avant (puis rétroéclairé)",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_329",
+      "text": "La Game Boy Micro, sortie en 2005, était la plus petite Game Boy jamais fabriquée à 50 mm × 101 mm et ne pesait que 80 grammes",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_330",
+      "text": "La Nintendo DS utilise deux processeurs ARM distincts",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_331",
+      "text": "La Sega Genesis utilisait un CPU Motorola 68000 à 7,6 MHz comme processeur principal et un Zilog Z80 à 3,58 MHz",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_332",
+      "text": "La Sega Mega Drive (Genesis) disposait d'une palette de 512 couleurs mais ne pouvait en afficher que 61 simultanément",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_333",
+      "text": "La Sega Saturn utilisait deux CPU Hitachi SH-2 fonctionnant en parallèle à 28,6 MHz chacun",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_334",
+      "text": "La puce VDP1 de la Saturn calculait des polygones quadrilatéraux plutôt que des triangles",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_335",
+      "text": "La Dreamcast utilisait un CPU Hitachi SH-4 à 200 MHz et un GPU NEC PowerVR2 CLX2 capable d'afficher 3 millions de polygones",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_336",
+      "text": "La Dreamcast fut la première console livrée de série avec un modem 56K intégré pour jouer en ligne",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_337",
+      "text": "La Sega Game Gear utilisait le même processeur que la Master System",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_338",
+      "text": "L'écran LCD couleur rétroéclairé de la Game Gear consommait les piles très rapidement",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_339",
+      "text": "La Sega CD (Mega-CD) ajoutait un Motorola 68000 à 12,5 MHz comme coprocesseur à la Genesis",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "hw_340",
+      "text": "La Sega 32X contenait deux CPU Hitachi SH-2 à 23 MHz et pouvait afficher jusqu'à 32 768 couleurs",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_341",
+      "text": "L'Atari 2600 utilisait un CPU MOS 6507 cadencé à 1,19 MHz",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_342",
+      "text": "La puce TIA de l'Atari 2600 n'avait pas de tampon d'image",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_343",
+      "text": "L'Atari 5200 utilisait l'architecture des ordinateurs Atari 400/800 avec un CPU MOS 6502C à 1,79 MHz et la puce graphique GTIA",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "hw_344",
+      "text": "L'emballage de l'Atari Jaguar revendiquait des performances 64 bits, mais son CPU (Motorola 68000) était en réalité 32 bits",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_345",
+      "text": "L'Atari Jaguar incluait deux processeurs personnalisés nommés 'Tom' (graphismes) et 'Jerry' (audio/DSP)",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_346",
+      "text": "L'Atari Lynx fut la première console de jeu portable couleur au monde",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_347",
+      "text": "L'écran de l'Atari Lynx pouvait être retourné à 180 degrés pour que les joueurs gauchers puissent la tenir confortablement",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_348",
+      "text": "La NES utilisait un CPU Ricoh 2A03 cadencé à 1,79 MHz",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_349",
+      "text": "Le PPU de la NES gérait 64 sprites au total mais ne pouvait en afficher que 8 par ligne de balayage",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_350",
+      "text": "La puce de verrouillage 10NES des cartouches NES fonctionnait à 1 MHz et nécessitait une puce correspondante dans la console",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_351",
+      "text": "La SNES utilisait un CPU Ricoh 5A22 16 bits (basé sur le 65C816) cadencé jusqu'à 3,58 MHz",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_352",
+      "text": "Le mode graphique Mode 7 de la SNES permettait au PPU de faire pivoter et zoomer un plan d'arrière-plan",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_353",
+      "text": "La SNES pouvait afficher jusqu'à 256 couleurs simultanément depuis une palette de 32 768",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_354",
+      "text": "La puce Super FX, un processeur RISC personnalisé à 10,5 MHz intégré dans certaines cartouches SNES",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_355",
+      "text": "La Sega Master System utilisait un CPU Z80 à 3,58 MHz et un VDP dérivé du TMS9918 capable d'afficher 64 couleurs simultanées",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "hw_356",
+      "text": "La version japonaise de la Sega Master System (Mark III) utilisait un connecteur de cartouche différent des versions occidentales",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "hw_357",
+      "text": "La PC Engine (TurboGrafx-16) utilisait un CPU HuC6280 personnalisé basé sur le 65C02 à 7,16 MHz",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "hw_358",
+      "text": "Les HuCards de la PC Engine étaient plus petites qu'une carte de crédit, en faisant le plus petit support de jeu de son époque",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "hw_359",
+      "text": "Le PC Engine CD-ROM², sorti en 1988, fut le premier module CD-ROM commercialement réussi pour une console de jeu",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "hw_360",
+      "text": "La Neo Geo AES utilisait exactement le même CPU 68000 à 12 MHz et la même puce audio Z80 que le hardware d'arcade MVS",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_361",
+      "text": "La Neo Geo AES supportait jusqu'à 4 joueurs simultanés via un adaptateur multi-tap et disposait de deux ports manettes",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_362",
+      "text": "Les cartes d'arcade Neo Geo MVS pouvaient accueillir jusqu'à 6 cartouches de jeux dans un seul cabinet",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_363",
+      "text": "La Neo Geo CD, sortie en 1994, remplaçait les cartouches par le CD-ROM mais souffrait d'un lecteur CD 1x notoirement lent",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_364",
+      "text": "La Neo Geo Pocket Color utilisait un CPU Toshiba TLCS900H 16 bits à 6 MHz et un Z80 secondaire pour le son",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_365",
+      "text": "La WonderSwan utilisait un CPU NEC V30MZ 16 bits à 3,072 MHz",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_366",
+      "text": "La WonderSwan Color passait à un écran LCD couleur TFT affichant 241 couleurs depuis une palette de 4 096",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_367",
+      "text": "La WonderSwan pouvait s'utiliser à l'horizontale ou à la verticale grâce à ses boutons sur plusieurs côtés",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_368",
+      "text": "Le Commodore 64 utilisait un CPU 6510 à 0,985 MHz (PAL) ou 1,023 MHz (NTSC)",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_369",
+      "text": "La puce graphique VIC-II du Commodore 64 pouvait afficher 16 couleurs en mode texte 40×25",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_370",
+      "text": "Le Commodore Amiga 500 utilisait un Motorola 68000 à 7,16 MHz couplé à trois puces personnalisées",
+      "system": "amiga",
+      "rom": "default"
+    },
+    {
+      "id": "hw_371",
+      "text": "Le jeu de puces personnalisé de l'Amiga permettait le blitting accéléré par le matériel",
+      "system": "amiga",
+      "rom": "default"
+    },
+    {
+      "id": "hw_372",
+      "text": "L'Amiga 1200 adoptait le jeu de puces AGA avec une palette 24 bits (16,7 millions de couleurs) et pouvait afficher davantage",
+      "system": "amiga",
+      "rom": "default"
+    },
+    {
+      "id": "hw_373",
+      "text": "Le ZX Spectrum utilisait un CPU Zilog Z80 à 3,5 MHz et ne disposait que de 16 Ko ou 48 Ko de RAM",
+      "system": "zxspectrum",
+      "rom": "default"
+    },
+    {
+      "id": "hw_374",
+      "text": "La puce ULA (Uncommitted Logic Array) du ZX Spectrum gérait la génération vidéo et le balayage du clavier",
+      "system": "zxspectrum",
+      "rom": "default"
+    },
+    {
+      "id": "hw_375",
+      "text": "Le standard MSX a été défini par Microsoft et ASCII Corporation en 1983 comme spécification matérielle commune",
+      "system": "msx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_376",
+      "text": "Les ordinateurs MSX utilisaient un CPU Zilog Z80 à 3,58 MHz et un VDP Texas Instruments TMS9918",
+      "system": "msx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_377",
+      "text": "Le CPS-1 (Capcom Play System 1) utilisait un CPU principal Motorola 68000 à 10 MHz et un Zilog Z80 pour l'audio",
+      "system": "capcom_play_system",
+      "rom": "default"
+    },
+    {
+      "id": "hw_378",
+      "text": "Le CPS-2 introduisait des ROMs chiffrées pour prévenir les copies pirates",
+      "system": "capcom_play_system_ii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_379",
+      "text": "Le CPS-3 utilisait un CPU personnalisé basé sur le SH-2, des modules mémoire SIMM et le CD-ROM pour la distribution",
+      "system": "capcom_play_system_iii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_380",
+      "text": "La carte d'arcade Sega Model 2 utilisait un CPU i960 à 25 MHz pour le calcul géométrique et le coprocesseur Lockheed Martin Real3D",
+      "system": "sega_model_2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_381",
+      "text": "Le Sega Model 3 utilisait un PowerPC 603e à 66 MHz comme CPU principal et un GPU Sega Real3D Pro-1000 haute performance",
+      "system": "sega_model_3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_382",
+      "text": "Le Sega NAOMI partageait son architecture CPU avec la Dreamcast",
+      "system": "sega_naomi",
+      "rom": "default"
+    },
+    {
+      "id": "hw_383",
+      "text": "Le NAOMI 2 ajoutait deux GPU PowerVR CLX2 fonctionnant en parallèle",
+      "system": "sega_naomi",
+      "rom": "default"
+    },
+    {
+      "id": "hw_384",
+      "text": "La plateforme d'arcade Sammy Atomiswave était basée sur le hardware NAOMI mais utilisait un format de cartouche propriétaire",
+      "system": "sammy_atomiswave",
+      "rom": "default"
+    },
+    {
+      "id": "hw_385",
+      "text": "Le Taito Type X utilisait un hardware PC standard (CPU Intel Pentium 4, GPU ATI Radeon) dans une armoire d'arcade renforcée",
+      "system": "taito_type_x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_386",
+      "text": "Le standard de câblage JAMMA, établi en 1985, rendait les cartes d'arcade interchangeables entre différents designs de cabinets",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_387",
+      "text": "Les moniteurs vectoriels comme ceux d'Asteroids utilisaient des bobines de déflexion pour tracer des lignes directement, sans grille raster",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_388",
+      "text": "Le hardware d'arcade Williams du début des années 80 utilisait un CPU Motorola 6809 et un hardware personnalisé pour les graphismes raster",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_389",
+      "text": "Le hardware d'arcade Y-Unit de Midway (1990) utilisait un processeur graphique TMS34010 et 4 Mo de ROM",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_390",
+      "text": "La carte d'arcade System 16 de Sega utilisait un Motorola 68000 à 10 MHz et un Zilog Z80 pour le son",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_391",
+      "text": "Le hardware d'arcade MVS de SNK utilisait de grandes cartouches à 330 broches contenant jusqu'à 716 Mbit de données ROM",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_392",
+      "text": "La carte système d'arcade GX de Konami des années 90 utilisait un CPU 68EC020 et une puce de tilemap personnalisée",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_393",
+      "text": "Le CPU Sharp LR35902 de la Game Boy originale était un hybride des jeux d'instructions Intel 8080 et Zilog Z80",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_394",
+      "text": "L'écran LCD réfléchissant de la Game Boy n'avait pas de rétroéclairage pour économiser les piles",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_395",
+      "text": "La Game Boy Color ajoutait un port infrarouge au-dessus du slot cartouche pour l'échange de données à courte portée",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_396",
+      "text": "La PSP utilisait un CPU MIPS R4000 à 222 MHz (débloqué ensuite à 333 MHz) couplé à un GPU Sony personnalisé",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_397",
+      "text": "Le format optique UMD (Universal Media Disc) de la PSP pouvait contenir jusqu'à 1,8 Go de données",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_398",
+      "text": "La Game Boy Advance utilisait un CPU ARM7TDMI 32 bits à 16,78 MHz et un Z80 secondaire à 8 MHz pour les jeux Game Boy originaux",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_399",
+      "text": "Le CPU Emotion Engine de la PlayStation 2 fonctionnait à 294 MHz et utilisait un coprocesseur SIMD 128 bits",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_400",
+      "text": "La PS2 utilisait le système DRM propriétaire MagicGate sur les cartes mémoire et les DVD pour prévenir le piratage",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_401",
+      "text": "Le slot de carte mémoire de la Nintendo GameCube utilisait un format de carte propriétaire conçu par Matsushita",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_402",
+      "text": "L'accessoire Wii MotionPlus ajoutait un gyroscope MEMS à la Wii Remote pour mesurer la vitesse de rotation",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_403",
+      "text": "Chaque manette Joy-Con de la Nintendo Switch contient un accéléromètre et un gyroscope",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_404",
+      "text": "La station d'accueil de la Switch ne contient aucun matériel de traitement",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_405",
+      "text": "La Virtual Boy utilisait un CPU NEC V810 32 bits à 20 MHz et produisait son effet 3D via des réseaux de LED rouges balayés",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_406",
+      "text": "L'affichage monochrome rouge de la Virtual Boy avait été choisi car les LED rouges étaient les moins chères et les plus lumineuses disponibles",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_407",
+      "text": "La Philips CD-i utilisait un CPU Motorola 68000 à 15 MHz et était conçue comme un lecteur multimédia CD-ROM",
+      "system": "philips_cd-i",
+      "rom": "default"
+    },
+    {
+      "id": "hw_408",
+      "text": "La Vectrex disposait d'un moniteur vectoriel de 9 pouces intégré, seule console domestique à inclure son propre écran",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "hw_409",
+      "text": "L'Intellivision utilisait un CPU GI CP1610 16 bits à 894 kHz couplé à la puce AY-3-8900 STIC",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "hw_410",
+      "text": "La ColecoVision utilisait un CPU Zilog Z80 à 3,58 MHz et un VDP Texas Instruments TMS9928 capable d'afficher 15 couleurs",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "hw_411",
+      "text": "La Magnavox Odyssey, sortie en 1972, n'utilisait ni CPU ni puces ROM",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "hw_412",
+      "text": "La Fairchild Channel F, sortie en 1976, fut la première console à cartouches, précédant l'Atari 2600 d'un an",
+      "system": "fairchild_channel_f",
+      "rom": "default"
+    },
+    {
+      "id": "hw_413",
+      "text": "La Bally Astrocade utilisait un CPU Z80 et une puce graphique personnalisée basée sur l'UART avec une table de correspondance des couleurs",
+      "system": "bally_astrocade",
+      "rom": "default"
+    },
+    {
+      "id": "hw_414",
+      "text": "L'adaptateur multitap de la Super Nintendo permettait jusqu'à 5 joueurs en se connectant sur un seul port manette",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_415",
+      "text": "Le Sega Activator était un contrôleur de mouvement plein corps sorti pour la Genesis en 1993",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_416",
+      "text": "Le Nintendo Power Glove utilisait des capteurs ultrasoniques sur le téléviseur et des capteurs de flexion des doigts pour détecter la position de la main",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_417",
+      "text": "La Sega 32X nécessitait son propre adaptateur secteur, un câble AV et un connecteur passthrough sur la Genesis",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_418",
+      "text": "L'Expansion Pak de la N64 se branchait dans le port d'extension mémoire et doublait la RAM de 4 Mo à 8 Mo",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_419",
+      "text": "La manette Dual Analog de PlayStation (1997) fut la première manette PlayStation à intégrer deux joysticks analogiques",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_420",
+      "text": "La manette DualShock ajoutait deux moteurs de vibration au design Dual Analog",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_421",
+      "text": "Les manettes sans fil de la Xbox 360 utilisaient un protocole propriétaire à 2,4 GHz plutôt que le Bluetooth",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_422",
+      "text": "La VMU (Visual Memory Unit) de la Dreamcast était une carte mémoire avec son propre écran LCD, un haut-parleur et une croix directionnelle",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_423",
+      "text": "Les cartouches N64 utilisaient des puces ROM masquées bien plus coûteuses à fabriquer que les CD-ROM de la PlayStation",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_424",
+      "text": "Le module Nintendo 64DD utilisait des cartouches à disque magnétique réinscriptibles d'une capacité de 64 Mo",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_425",
+      "text": "Le format GD-ROM utilisé par la Dreamcast contenait environ 1 Go de données",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_426",
+      "text": "Les disques durs propriétaires de la Xbox 360 utilisaient des disques SATA 2,5 pouces standard logés dans des boîtiers personnalisés",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_427",
+      "text": "La PS3 fut la première console livrée de série avec un lecteur Blu-ray",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_428",
+      "text": "Les cartouches Game Boy Advance utilisaient des connecteurs à bord 32 broches et contenaient des puces flash ROM",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_429",
+      "text": "Les premiers modèles de PS3 consommaient jusqu'à 380 watts",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_430",
+      "text": "Le bloc d'alimentation externe de la Xbox 360 pesait environ 1,1 kg",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_431",
+      "text": "La Nintendo Switch consomme environ 18 watts en mode TV sous charge, bien moins que la PS4 ou la Xbox One",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_432",
+      "text": "La Game Boy Color utilisait deux piles AA et consommait si peu que les piles duraient souvent plus de 10 heures",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_433",
+      "text": "La NES existait en deux révisions : le modèle frontal 'toaster' (NES-001) et le modèle à chargement supérieur (NES-101)",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_434",
+      "text": "La révision SNES 1 CHIP, introduite en cours de production, remplaçait trois puces PPU distinctes par une seule",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_435",
+      "text": "La PS2 Slim (série SCPH-70000) réduisait le volume de la console de 75 % et son poids de 2,2 kg à 0,9 kg",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_436",
+      "text": "La PlayStation 3 Super Slim réduisait la hauteur du châssis en supprimant la porte coulissante du lecteur optique",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_437",
+      "text": "La Game Boy Pocket n'utilisait que 2 piles AAA au lieu de 4 AA, la rendant plus fine et plus légère",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_438",
+      "text": "Sega a sorti le Genesis Model 3 (par Majesco) avec un format plus compact mais sans prise casque",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_439",
+      "text": "La Wii Mini, sortie au Canada en 2012, supprimait la compatibilité GameCube, le slot SD et les fonctions en ligne pour réduire les coûts",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_440",
+      "text": "Les moniteurs CRT d'arcade utilisaient généralement des masques shadow mask ou aperture grille à des résolutions de 240p ou 480i",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_441",
+      "text": "L'écran tactile inférieur de la Nintendo DS utilisait un panneau résistif 4 fils nécessitant une pression physique",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_442",
+      "text": "La Game Boy Advance SP (AGS-001) était lancée avec un écran éclairé par l'avant, pas un véritable rétroéclairage",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_443",
+      "text": "L'écran 3D sans lunettes de la 3DS utilisait une couche de barrière de parallaxe",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_444",
+      "text": "La Virtual Boy utilisait des miroirs oscillants à 50 Hz pour balayer une colonne de LED sur l'affichage",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_445",
+      "text": "La puce sonore SNES SPC700, conçue par Sony, offrait à la console une qualité audio supérieure qui la distinguait de ses rivales",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_446",
+      "text": "La puce de synthèse FM YM2612 de la Sega Genesis produisait six canaux FM avec quatre opérateurs par canal",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_447",
+      "text": "Le Yamaha YM2610 de la Neo Geo combinait la synthèse FM avec la lecture d'échantillons ADPCM et des canaux à ondes carrées",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_448",
+      "text": "La PlayStation utilisait une SPU (Sound Processing Unit) personnalisée avec 24 canaux matériels audio ADPCM",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_449",
+      "text": "La puce DSP Macronix de la GameCube gérait 64 canaux audio simultanés et l'encodage matériel Dolby Pro Logic II",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_450",
+      "text": "La puce audio AICA de la Dreamcast combinait un CPU audio ARM7 avec 64 canaux ADPCM et 128 Mo de RAM audio",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_451",
+      "text": "La Nintendo 64 utilisait de la RDRAM Rambus cadencée à 500 MHz sur un bus de 9 bits",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_452",
+      "text": "La PS2 avait une architecture mémoire mixte : 32 Mo de RDRAM en RAM principale et 4 Mo d'eDRAM dans la puce Graphics Synthesizer",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_453",
+      "text": "La Xbox utilisait 64 Mo de DDR SDRAM sur un bus partagé de 128 bits entre le CPU et le GPU",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_454",
+      "text": "Le GPU Hollywood de la Wii intégrait 3 Mo de 1T-SRAM embarquée comme cache de textures",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_455",
+      "text": "La puce sprite VDP1 de la Saturn disposait de 512 Ko de VRAM framebuffer et 512 Ko de VRAM pour les textures",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_456",
+      "text": "La NES originale utilisait un modulateur RF pour la sortie vidéo",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_457",
+      "text": "La Sega Genesis avait un port manette DE-9 à 9 broches, volontairement compatible avec le brochage des joysticks Atari",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_458",
+      "text": "La PS2 disposait de deux ports USB 1.1 et d'un port i.Link (FireWire IEEE 1394) en façade",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_459",
+      "text": "Le Serial Port 1 haute vitesse du GameCube pouvait atteindre 128 Mbit/s et était utilisé par l'adaptateur haut débit",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_460",
+      "text": "Le modem de la Dreamcast utilisait une puce V.90 56K standard, logée dans une baie d'extension pour pouvoir être remplacée",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_461",
+      "text": "La Nintendo DS ne supportait que le WiFi WEP en raison des capacités cryptographiques limitées de sa puce 802.11",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_462",
+      "text": "La PSP intégrait une carte sans fil 802.11b et un port USB 2.0 pour le transfert de données",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_463",
+      "text": "Le port HDMI de la Xbox 360 n'a été ajouté qu'en 2007 avec le modèle Elite",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_464",
+      "text": "Le connecteur cartouche 72 broches de la NES était connu pour développer de mauvais contacts avec le temps",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_465",
+      "text": "Le verrouillage régional des cartouches SNES reposait sur un détrompeur physique",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_466",
+      "text": "Le port manette de la PlayStation utilisait un protocole série bit-bang à environ 250 kHz",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_467",
+      "text": "Les jeux Saturn étaient vulnérables aux attaques par échange de disque, car le lecteur ne revérifiait pas l'authentification après le démarrage",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_468",
+      "text": "La puce TIA de l'Atari 2600 obligeait le CPU à consacrer environ 22 cycles par scanline à la gestion de l'affichage",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_469",
+      "text": "Le Famicom Disk System utilisait des disquettes avec un contrôleur dérivé du RF5C296 et ajoutait une extension RAM",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_470",
+      "text": "La PlayStation 1 utilisait un lecteur CD-ROM double vitesse (2×) avec un format de données personnalisé pour la correction d'erreurs",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_471",
+      "text": "La carte mère de la Sega Saturn a connu plusieurs révisions ; les cartes VA tardives ont réduit le nombre de puces de 28 à 18",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_472",
+      "text": "Le mécanisme GD-ROM de la Dreamcast était fabriqué par Yamaha et était connu pour la dégradation de sa lentille avec le temps",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_473",
+      "text": "Les bornes d'arcade dédiées existaient en format vertical, cocktail (table) ou cockpit",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_474",
+      "text": "Les trackballs des bornes comme Centipede utilisaient des encodeurs optiques",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_475",
+      "text": "Les monnayeurs des machines d'arcade utilisaient des capteurs optiques ou magnétiques pour distinguer les vraies pièces des faux",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_476",
+      "text": "Les panneaux de contrôle des bornes d'arcade étaient généralement montés sur du contreplaqué de 19 mm ou des plaques d'acier",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_477",
+      "text": "Les bornes de volant comme celles des jeux de course Sega utilisaient l'induction magnétique pour le retour de force",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_478",
+      "text": "Les jeux de pistolet optique utilisaient une photodiode qui détectait une impulsion lumineuse d'une image blanche affichée sur le CRT",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_479",
+      "text": "Les cartes de déflexion des moniteurs d'arcade amplifiaient les petits signaux de la PCB de jeu en balayage haute tension",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_480",
+      "text": "Les alimentations JAMMA des bornes d'arcade fournissaient +5 V pour la logique et +12 V pour les moniteurs et moteurs",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_481",
+      "text": "L'écran OLED de la PS Vita offrait un contraste et des couleurs supérieurs à l'écran LCD de la révision slim PCH-2000",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_482",
+      "text": "La PS Vita disposait à la fois d'un écran tactile avant et d'un pavé tactile au dos de l'appareil",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_483",
+      "text": "La PS Vita intégrait un GPS dans le modèle 3G (PCH-1100)",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_484",
+      "text": "La Xbox One originale incluait un capteur Kinect 2.0 obligatoire, nécessitant un câble USB 3.0 de 3 mètres en permanence connecté",
+      "system": "xboxone",
+      "rom": "default"
+    },
+    {
+      "id": "hw_485",
+      "text": "Le SoC de la Xbox One combinait un CPU AMD Jaguar 8 cœurs et un GPU GCN délivrant 1,31 téraflops sur une seule puce AMD",
+      "system": "xboxone",
+      "rom": "default"
+    },
+    {
+      "id": "hw_486",
+      "text": "La Xbox One S a ajouté le HDR et la lecture Blu-ray 4K tout en supprimant le bloc d'alimentation externe",
+      "system": "xboxone",
+      "rom": "default"
+    },
+    {
+      "id": "hw_487",
+      "text": "La DualShock 4 de la PS4 était la première manette PlayStation à intégrer un pavé tactile (résolution 1920×900)",
+      "system": "ps4",
+      "rom": "default"
+    },
+    {
+      "id": "hw_488",
+      "text": "La PS4 utilise un APU AMD semi-custom avec 8 cœurs CPU Jaguar et 18 unités de calcul GCN délivrant 1,84 téraflops",
+      "system": "ps4",
+      "rom": "default"
+    },
+    {
+      "id": "hw_489",
+      "text": "Le bouton 'share' de la PS4 permettait la capture vidéo instantanée et le streaming vers Twitch ou Ustream en déléguant l'encodage",
+      "system": "ps4",
+      "rom": "default"
+    },
+    {
+      "id": "hw_490",
+      "text": "La 3DO Interactive Multiplayer utilisait un CPU RISC et un matériel graphique personnalisé conçu par The 3DO Company",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_491",
+      "text": "La Bandai Playdia utilisait un CPU Hitachi SH-1 et un lecteur CD-ROM simple vitesse",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_492",
+      "text": "La Casio Loopy, sortie au Japon en 1995, était une console avec une imprimante de stickers intégrée destinée aux jeunes filles",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_493",
+      "text": "La Sega Pico utilisait un CPU dérivé du Genesis avec une surface tactile pour dessiner et pointer",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_494",
+      "text": "L'Action Max, sorti en 1987, lisait des cassettes VHS et utilisait un pistolet optique pour viser des cibles à l'écran",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_495",
+      "text": "La RDI Halcyon, sortie en 1985 à 2 500 $, était une console LaserDisc dotée de la reconnaissance vocale",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_496",
+      "text": "Le SSD de la PS5 utilise un contrôleur flash personnalisé atteignant 5,5 Go/s en brut et jusqu'à 9 Go/s avec compression",
+      "system": "ps5",
+      "rom": "default"
+    },
+    {
+      "id": "hw_497",
+      "text": "La Xbox Series X inclut un SSD NVMe personnalisé de 1 To avec l'architecture Velocity et une décompression matérielle",
+      "system": "xboxseriesx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_498",
+      "text": "La Xbox Series S utilise les mêmes cœurs CPU Zen 2 que la Series X mais un GPU RDNA 2 plus petit à seulement 4 téraflops",
+      "system": "xboxseriesx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_499",
+      "text": "Le modèle Switch OLED (2021) a été mis à niveau avec un panneau OLED de 7 pouces aux couleurs plus riches, mais a conservé le même processeur",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_500",
+      "text": "La Nintendo Switch Lite, sortie en 2019, a supprimé les Joy-Con détachables et la compatibilité avec la station d'accueil",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_501",
+      "text": "L'Atari 2600 utilisait un CPU MOS 6507 — un 6502 économique cadencé à 1,19 MHz avec un bus d'adresses plus étroit",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_502",
+      "text": "Le joystick Atari 2600 utilisait un connecteur DE-9 à 9 broches standard, repris plus tard par Sega",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_503",
+      "text": "La PlayStation originale s'appelait 'Play Station' durant son développement en tant qu'extension CD-ROM pour la SNES de Nintendo",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_504",
+      "text": "La manette DualShock PlayStation a introduit le retour de force et les deux sticks analogiques en 1997",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_505",
+      "text": "La PlayStation originale s'est vendue à plus de 102 millions d'unités dans le monde",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_506",
+      "text": "L'Atari Jaguar était commercialisée comme console 64 bits, mais combinait en réalité un processeur 16 bits et deux processeurs 32 bits",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_507",
+      "text": "Seulement environ 67 jeux ont été commercialisés sur Atari Jaguar durant toute sa vie commerciale",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_508",
+      "text": "Le Jaguar CD, lancé en 1995, comptait moins de 15 jeux avant d'être abandonné",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_509",
+      "text": "La manette Atari Jaguar avait 17 boutons dont un pavé numérique, ce qui en faisait l'une des plus complexes de son époque",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_510",
+      "text": "La puce de verrouillage NES (10NES) exigeait que les cartouches agréées passent l'authentification avant de lancer le jeu",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_511",
+      "text": "La vitesse de Sonic the Hedgehog a été conçue expressément pour mettre en valeur la puissance du CPU Sega Genesis face à la SNES",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_512",
+      "text": "La Sega Genesis intégrait une puce de synthèse FM Yamaha",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_513",
+      "text": "La Genesis est sortie en 1989 avec Altered Beast ; une manette six boutons n'a été incluse qu'avec le portage de Street Fighter II en 1993",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_514",
+      "text": "La Nintendo 64 a été la dernière grande console de salon à cartouches avant que l'industrie ne passe au disque optique avec la PS2 et la Xbox",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_515",
+      "text": "La branche centrale de la manette N64 était prévue pour les jeux 3D, tandis que la branche gauche était destinée aux jeux 2D",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_516",
+      "text": "La VMU de la Dreamcast possédait son propre écran, haut-parleur et D-pad, fonctionnant comme une mini-console et carte mémoire autonomes",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_517",
+      "text": "Le CPU Emotion Engine de la PS2 a été examiné par le gouvernement américain pour déterminer s'il relevait des technologies militaires à usage restreint",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_518",
+      "text": "La PS2 est restée en production jusqu'en 2013",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_519",
+      "text": "Le matériel 2D de la Saturn était nettement plus capable que celui de la PlayStation",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_520",
+      "text": "Les cartouches Neo Geo pouvaient contenir jusqu'à 330 Mo de données",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_521",
+      "text": "La console Neo Geo AES utilisait un matériel identique aux bornes d'arcade MVS de SNK",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_522",
+      "text": "La Neo Geo CD est sortie en 1994 pour rendre les jeux Neo Geo plus abordables, mais les longs temps de chargement ont frustré les joueurs",
+      "system": "snk_neo_geo_cd",
+      "rom": "default"
+    },
+    {
+      "id": "hw_523",
+      "text": "La carte arcade Neo Geo MVS pouvait accueillir jusqu'à six cartouches de jeux différentes dans une seule borne",
+      "system": "snk_neo_geo_mvs",
+      "rom": "default"
+    },
+    {
+      "id": "hw_524",
+      "text": "La Sega Game Gear nécessitait six piles AA et ne durait que 3 à 5 heures",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_525",
+      "text": "Sega a commercialisé un tuner TV pour la Game Gear, permettant à la console portable de fonctionner comme un téléviseur portable",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_526",
+      "text": "La Game Gear disposait d'un accessoire Master Gear Converter permettant aux joueurs d'utiliser les cartouches Sega Master System",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_527",
+      "text": "De nombreux jeux Game Gear étaient des portages de jeux Master System en raison des architectures matérielles quasi identiques",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_528",
+      "text": "La Game Gear disposait d'un écran couleur rétroéclairé dès son lancement",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_529",
+      "text": "La Game Boy Advance était entièrement rétrocompatible avec les cartouches Game Boy et Game Boy Color originales",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_530",
+      "text": "La GBA SP a introduit un design clamshell et un écran éclairé par l'avant — les révisions ultérieures ont ajouté un vrai rétroéclairage",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_531",
+      "text": "La Game Boy Advance s'est vendue à plus de 81 millions d'unités dans le monde, ce qui en fait l'une des consoles portables les plus populaires de Nintendo",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_532",
+      "text": "La PSP Go a été la première grande console portable à supprimer totalement les supports physiques au profit du téléchargement numérique",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_533",
+      "text": "La PSP disposait d'un écran 16:9 grand format, inhabituel pour une console portable lors de son lancement en 2005",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_534",
+      "text": "La 3DO est sortie en 1993 à 699 $, ce qui en faisait la console la plus chère au lancement jusqu'alors",
+      "system": "3do",
+      "rom": "default"
+    },
+    {
+      "id": "hw_535",
+      "text": "Le matériel de la 3DO était concédé sous licence à plusieurs fabricants, dont Panasonic, Sanyo et Goldstar, créant des versions concurrentes",
+      "system": "3do",
+      "rom": "default"
+    },
+    {
+      "id": "hw_536",
+      "text": "La 3DO a été la première console de salon à utiliser le CD-ROM comme support principal dès son lancement",
+      "system": "3do",
+      "rom": "default"
+    },
+    {
+      "id": "hw_537",
+      "text": "Malgré son matériel avancé, la 3DO a échoué commercialement en raison de son prix élevé et de la concurrence",
+      "system": "3do",
+      "rom": "default"
+    },
+    {
+      "id": "hw_538",
+      "text": "Le Commodore 64 est le modèle d'ordinateur individuel le plus vendu de tous les temps, avec une estimation de 12 à 17 millions d'unités",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_539",
+      "text": "La puce sonore SID du C64 était si musicalement polyvalente qu'elle a engendré toute une culture chiptune qui produit encore de la musique aujourd'hui",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_540",
+      "text": "De nombreux futurs développeurs de jeux ont fait leurs armes sur le C64, dont des fondateurs de Bullfrog, DMA Design et Rare",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_541",
+      "text": "Le C64 pouvait afficher 16 couleurs avec des sprites matériels",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_542",
+      "text": "La Mattel Intellivision était commercialisée comme la première console de salon 16 bits",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "hw_543",
+      "text": "La manette à pavé numérique de l'Intellivision utilisait des calques spécifiques aux jeux pour étiqueter les boutons différemment",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "hw_544",
+      "text": "L'Intellivision a été le premier système à proposer des jeux téléchargeables via le service câble PlayCable en 1981",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "hw_545",
+      "text": "Les jeux de sport Intellivision étaient utilisés dans des publicités TV face aux versions Atari 2600 pour mettre en avant les graphismes supérieurs",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "hw_546",
+      "text": "L'Intellivision II était un modèle moins cher et redessiné sorti en 1983 qui avait quelques problèmes de compatibilité mineurs",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "hw_547",
+      "text": "Le module d'extension ColecoVision n°1 permettait de jouer aux cartouches Atari 2600, ce qui a conduit à un procès intenté par Atari",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "hw_548",
+      "text": "La ColecoVision utilisait le même processeur Zilog Z80 que la Sega Master System, sortie des années plus tard",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "hw_549",
+      "text": "Coleco avait prévu une extension ordinateur ADAM pour la ColecoVision, mais les problèmes de qualité ont détruit la confiance des consommateurs",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "hw_550",
+      "text": "La Vectrex était la seule console de salon à utiliser des graphismes vectoriels",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "hw_551",
+      "text": "Chaque Vectrex était livrée avec Minestorm intégré, ce qui en fait la seule console à inclure un jeu vectoriel pack-in",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "hw_552",
+      "text": "Les jeux Vectrex utilisaient des calques plastiques colorés placés sur l'écran pour ajouter de la couleur aux graphismes vectoriels en noir et blanc",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "hw_553",
+      "text": "La Vectrex disposait d'un accessoire 3D imager utilisant un disque tournant pour créer une forme primitive de jeu stéréoscopique 3D",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "hw_554",
+      "text": "Après le rachat de GCE par Milton Bradley en 1983, la Vectrex a été abandonnée et n'a jamais eu de successeur",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "hw_555",
+      "text": "La Magnavox Odyssey, sortie en 1972, a été la première console de jeux vidéo domestique jamais vendue commercialement",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "hw_556",
+      "text": "L'Odyssey originale n'utilisait aucun microprocesseur — elle était construite entièrement à partir de transistors, de diodes et de condensateurs",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "hw_557",
+      "text": "Les jeux Odyssey utilisaient des calques plastiques translucides sur l'écran TV car la console ne pouvait pas générer ses propres graphismes en couleur",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "hw_558",
+      "text": "Ralph Baer, l'inventeur de la Magnavox Odyssey, est largement reconnu comme le 'Père du jeu vidéo'",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "hw_559",
+      "text": "Atari a réglé un procès avec Magnavox après que Pong a été jugé comme violant le brevet du jeu de tennis de table de l'Odyssey",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "hw_560",
+      "text": "La TurboGrafx-16 était en réalité un système 8 bits avec un processeur graphique 16 bits",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "hw_561",
+      "text": "Le PC Engine CD-ROM² a été le premier accessoire CD-ROM pour une console de jeux, sorti au Japon en 1988",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "hw_562",
+      "text": "La PC Engine (TurboGrafx-16) était la console la plus vendue au Japon avant le lancement de la Super Famicom",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "hw_563",
+      "text": "La TurboGrafx-16 disposait d'un accessoire TurboTap permettant de connecter jusqu'à cinq joueurs simultanément",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "hw_564",
+      "text": "La Sega Master System s'est mieux vendue que la NES en Europe et au Brésil, où elle est restée active commercialement jusque dans les années 2000",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "hw_565",
+      "text": "La Master System avait à la fois un port cartouche et un port carte pour les jeux Sega MyCard moins chers",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "hw_566",
+      "text": "Le fabricant brésilien Tectoy a produit du matériel et des logiciels Master System pendant des décennies",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "hw_567",
+      "text": "La Sega Master System utilisait un CPU Zilog Z80 — la même puce que dans la ColecoVision et le ZX Spectrum",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "hw_568",
+      "text": "La Sega CD pouvait lire des CD audio standards via la prise casque de la Genesis",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "hw_569",
+      "text": "La Sega CD disposait d'effets matériels de mise à l'échelle et de rotation similaires au Mode 7 de la SNES",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "hw_570",
+      "text": "La 32X a été conçue comme solution d'attente pour prolonger la vie de la Genesis pendant que Sega finissait de développer la Saturn",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_571",
+      "text": "La 32X ajoutait deux processeurs 32 bits Hitachi SH-2 à la Genesis, insérés via le port cartouche",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_572",
+      "text": "Seulement 40 jeux ont été publiés pour la Sega 32X durant sa très courte vie commerciale",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_573",
+      "text": "La 32X connectée à une Sega CD créait le format 32X CD, l'une des configurations Sega les plus rares et obscures",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_574",
+      "text": "Le GameCube utilisait des miniDVD propriétaires de 1,5 Go, principalement pour dissuader le piratage",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_575",
+      "text": "Le GameCube avait une poignée de transport intégrée",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_576",
+      "text": "Le grand bouton A du GameCube a été délibérément conçu comme bouton d'action principal pour les jeux 3D, facilement accessible au pouce",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_577",
+      "text": "La Game Boy Color pouvait afficher 56 couleurs simultanées issues d'une palette de 32 768 teintes possibles",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_578",
+      "text": "La GBC était rétrocompatible avec tous les jeux Game Boy originaux",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_579",
+      "text": "La Game Boy Color intégrait un port infrarouge pour la communication sans fil à courte portée dans certains jeux",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_580",
+      "text": "L'Atari Lynx a été le premier appareil de jeu portable avec un écran LCD couleur rétroéclairé, sorti en 1989",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_581",
+      "text": "La Lynx disposait d'un redimensionnement et d'une distorsion matériels des sprites intégrés dans le silicium",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_582",
+      "text": "La Lynx pouvait être retournée pour les joueurs gauchers",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_583",
+      "text": "Le câble ComLynx permettait de connecter jusqu'à 17 unités Lynx pour le multijoueur",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_584",
+      "text": "L'écran couleur rétroéclairé de la Lynx nécessitait six piles AA et offrait seulement environ 4 heures de jeu par jeu de piles",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_585",
+      "text": "La WonderSwan a été conçue par Gunpei Yokoi",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_586",
+      "text": "La WonderSwan pouvait être tenue aussi bien à la verticale qu'à l'horizontale",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_587",
+      "text": "La WonderSwan Color sortie en 2000 pouvait afficher 241 couleurs simultanées issues d'une palette de 4 096",
+      "system": "wonderswancolor",
+      "rom": "default"
+    },
+    {
+      "id": "hw_588",
+      "text": "La WonderSwan fonctionnait avec une seule pile AA et affichait plus de 30 heures d'autonomie",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_589",
+      "text": "La Neo Geo Pocket était la première console portable de SNK",
+      "system": "ngp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_590",
+      "text": "Le stick microswitché de la Neo Geo Pocket Color avait un clic satisfaisant apprécié des joueurs et de la presse",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_591",
+      "text": "La Neo Geo Pocket Color pouvait se connecter à la Dreamcast pour échanger des sauvegardes et débloquer du contenu bonus dans certains jeux SNK",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_592",
+      "text": "La bibliothèque NGPC était fortement axée sur les franchises de combat de SNK",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_593",
+      "text": "La Virtual Boy était la première console 32 bits de Nintendo et utilisait des réseaux de LEDs rouges pour créer des visuels 3D stéréoscopiques",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_594",
+      "text": "La Virtual Boy obligeait les joueurs à plaquer leur visage contre un viseur fixe",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_595",
+      "text": "Seulement 22 jeux ont été officiellement sortis pour la Virtual Boy en Amérique du Nord avant que Nintendo ne l'abandonne en 1996",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_596",
+      "text": "Gunpei Yokoi n'aurait pas souhaité lancer la Virtual Boy au moment de sa sortie",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_597",
+      "text": "La Nintendo DS portait le nom de code 'Project Nitro' lors de son développement interne chez Nintendo",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_598",
+      "text": "La Nintendo DS s'est vendue à plus de 154 millions d'unités, ce qui en fait le deuxième système de jeu dédié le plus vendu de tous les temps",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_599",
+      "text": "La StreetPass de la 3DS échangeait automatiquement des données avec les 3DS à proximité même en mode veille dans un sac ou une poche",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_600",
+      "text": "La New Nintendo 3DS a ajouté un stick C et des boutons d'épaule ZL/ZR supplémentaires pour les jeux nécessitant plus d'options de saisie",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_601",
+      "text": "La 3DS intégrait un podomètre qui récompensait les joueurs avec des Play Coins utilisables dans divers jeux et activités StreetPass",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_602",
+      "text": "Xenoblade Chronicles 3D était exclusif à la New 3DS, la console standard manquant de puissance pour le faire tourner correctement",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_603",
+      "text": "La Xbox originale fut la première console livrée avec un disque dur intégré, supprimant le besoin de cartes mémoire",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_604",
+      "text": "Xbox Live fut lancé en novembre 2002, établissant le modèle du jeu en ligne par abonnement sur console",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_605",
+      "text": "La manette Xbox originale — surnommée 'The Duke' — fut critiquée pour être trop grande pour les mains de nombreux joueurs",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_606",
+      "text": "La Xbox utilisait un noyau Windows 2000 modifié comme système d'exploitation",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_607",
+      "text": "La Wiimote combinait des accéléromètres et une barre de capteurs infrarouge pour ses entrées gestuelles",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_608",
+      "text": "La Wii s'est vendue bien plus que la PS3 et la Xbox 360, grâce à son attrait auprès des joueurs occasionnels",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_609",
+      "text": "La Wii cachait sous un cache des ports GameCube, lui permettant de faire tourner toute la bibliothèque GameCube",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_610",
+      "text": "Wii Fit et son balance board se sont vendus à plus de 22 millions d'exemplaires",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_611",
+      "text": "Le joystick analogique de l'Atari 5200 ne revenait pas automatiquement au centre",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "hw_612",
+      "text": "L'Atari 5200 était incompatible avec les jeux Atari 2600 sans un adaptateur vendu séparément",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "hw_613",
+      "text": "L'Atari 5200 fut la première console Atari à intégrer un bouton pause sur sa manette",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "hw_614",
+      "text": "Le matériel de l'Atari 5200 était pratiquement identique à celui des ordinateurs Atari 400/800",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "hw_615",
+      "text": "L'Atari 7800 était rétrocompatible avec la bibliothèque de jeux Atari 2600",
+      "system": "atari7800",
+      "rom": "default"
+    },
+    {
+      "id": "hw_616",
+      "text": "La 7800 était prête à sortir en 1984 mais fut mise de côté lorsque Warner Bros. vendit Atari",
+      "system": "atari7800",
+      "rom": "default"
+    },
+    {
+      "id": "hw_617",
+      "text": "L'Atari 7800 utilisait un format de cartouche sans puce de verrouillage propriétaire",
+      "system": "atari7800",
+      "rom": "default"
+    },
+    {
+      "id": "hw_618",
+      "text": "Le joystick ProLine de la 7800 était nettement meilleur que celui de la 5200, avec un recentrage automatique",
+      "system": "atari7800",
+      "rom": "default"
+    },
+    {
+      "id": "hw_619",
+      "text": "Le processeur Cell de la PS3 fut développé conjointement par Sony, Toshiba et IBM avec huit Synergistic Processing Elements",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_620",
+      "text": "Le lecteur Blu-ray de la PS3 a aidé ce format à remporter décisivement la guerre des disques HD face au HD-DVD de Toshiba",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_621",
+      "text": "Le projet Folding@home de Stanford tournait sur PS3, et dès 2007 le réseau PS3 devint la plus puissante ressource de calcul distribué au monde",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_622",
+      "text": "La PS3 fut lancée à 599 $ aux États-Unis, ce qui en fit l'un des lancements de console les plus coûteux de l'histoire du jeu vidéo",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_623",
+      "text": "La Wii U fut la première console Nintendo à prendre en charge la sortie graphique HD",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "hw_624",
+      "text": "L'écran tactile du GamePad de la Wii U permettait de jouer sans télévision grâce au mode off-TV",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "hw_625",
+      "text": "La Wii U souffrit d'une grande confusion chez les consommateurs — beaucoup croyaient que le GamePad était simplement un accessoire Wii",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "hw_626",
+      "text": "La Sega Pico était une console éducative pour jeunes enfants utilisant un pavé tactile et des cartouches-livres interactives",
+      "system": "sega_pico",
+      "rom": "default"
+    },
+    {
+      "id": "hw_627",
+      "text": "L'Atari ST utilisait le CPU Motorola 68000 et rivalisait avec l'Amiga comme plateforme sérieuse pour le jeu et la production musicale",
+      "system": "atari_st",
+      "rom": "default"
+    },
+    {
+      "id": "hw_628",
+      "text": "La Nintendo Switch est la première console qui fonctionne véritablement à la fois comme portable et comme console de salon branchée à un téléviseur",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_629",
+      "text": "La Sega SC-3000 était un ordinateur domestique sorti en même temps que la SG-1000 au Japon en 1983, partageant les mêmes composants internes",
+      "system": "sega_sc_3000",
+      "rom": "default"
+    },
+    {
+      "id": "hw_630",
+      "text": "La NEC PC-FX fut la dernière console 32 bits lancée avant que Sony et Sega ne dominent le marché, sortie uniquement au Japon en décembre 1994",
+      "system": "pcfx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_631",
+      "text": "La Fairchild Channel F fut la première console de jeu à cartouches, précédant l'Atari 2600 d'un an",
+      "system": "fairchild_channel_f",
+      "rom": "default"
+    },
+    {
+      "id": "hw_632",
+      "text": "L'Emerson Arcadia 2001 fut l'une des nombreuses consoles lancées à la hâte pour profiter du succès de l'Atari 2600",
+      "system": "emerson_arcadia_2001",
+      "rom": "default"
+    },
+    {
+      "id": "hw_633",
+      "text": "La Bally Astrocade intégrait une version de Gunfight et utilisait une manette combinant joystick et gâchette de manière unique",
+      "system": "bally_astrocade",
+      "rom": "default"
+    },
+    {
+      "id": "hw_634",
+      "text": "L'Entex Adventure Vision utilisait une seule colonne de LEDs réfléchies par un miroir rotatif pour simuler un écran",
+      "system": "entex_adventure_vision",
+      "rom": "default"
+    },
+    {
+      "id": "hw_635",
+      "text": "La SG-1000 était la première console domestique de Sega, sortie le même jour que la Famicom au Japon le 15 juillet 1983",
+      "system": "sg-1000",
+      "rom": "default"
+    }
+  ]
+}

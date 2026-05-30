@@ -1,0 +1,4807 @@
+{
+  "category": "arcade",
+  "facts": [
+    {
+      "id": "arc_001",
+      "text": "Pac-Man was originally released as 'Puck-Man' in Japan in 1980 before being renamed for Western markets.",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "arc_002",
+      "text": "Space Invaders (1978) helped define the fixed shooter genre and became a global arcade phenomenon.",
+      "system": "mame",
+      "rom": "spaceinvaders"
+    },
+    {
+      "id": "arc_003",
+      "text": "Donkey Kong (1981) introduced Mario under the original name 'Jumpman'.",
+      "system": "mame",
+      "rom": "dkong"
+    },
+    {
+      "id": "arc_004",
+      "text": "Galaga (1981) introduced enemy capture mechanics that doubled player firepower when rescued.",
+      "system": "mame",
+      "rom": "galaga"
+    },
+    {
+      "id": "arc_005",
+      "text": "Asteroids (1979) used vector graphics instead of raster-based sprite rendering.",
+      "system": "mame",
+      "rom": "asteroid",
+      "art": {
+        "system": "mame",
+        "key": "asteroids",
+        "type": "marquee"
+      }
+    },
+    {
+      "id": "arc_006",
+      "text": "Frogger (1981) challenged players to guide frogs across traffic and rivers safely.",
+      "system": "mame",
+      "rom": "frogger",
+      "art": {
+        "system": "mame",
+        "key": "frogger",
+        "type": "marquee"
+      }
+    },
+    {
+      "id": "arc_007",
+      "text": "Centipede (1980) used a trackball control system instead of a joystick.",
+      "system": "mame",
+      "rom": "centiped"
+    },
+    {
+      "id": "arc_008",
+      "text": "Defender (1981) introduced a mini-map radar showing enemy positions.",
+      "system": "mame",
+      "rom": "defender"
+    },
+    {
+      "id": "arc_009",
+      "text": "Ms. Pac-Man began as an unauthorized modification of Pac-Man before becoming official.",
+      "system": "mame",
+      "rom": "mspacman"
+    },
+    {
+      "id": "arc_010",
+      "text": "Pong (1972) is one of the earliest commercially successful arcade games.",
+      "system": "mame",
+      "rom": "pong"
+    },
+    {
+      "id": "arc_011",
+      "text": "Galaxian (1979) was one of the first arcade games to use full-color RGB sprites.",
+      "system": "mame",
+      "rom": "galaxian"
+    },
+    {
+      "id": "arc_012",
+      "text": "Q*bert (1982) used an isometric pyramid perspective and unique jump-based movement.",
+      "system": "mame",
+      "rom": "qbert"
+    },
+    {
+      "id": "arc_013",
+      "text": "Tempest (1981) featured early 3D vector graphics inside a geometric tube.",
+      "system": "mame",
+      "rom": "tempest"
+    },
+    {
+      "id": "arc_014",
+      "text": "Joust (1982) featured flying ostrich-mounted knights battling in mid-air.",
+      "system": "mame",
+      "rom": "joust"
+    },
+    {
+      "id": "arc_015",
+      "text": "Robotron: 2084 pioneered the twin-stick shooter control scheme.",
+      "system": "mame",
+      "rom": "robotron"
+    },
+    {
+      "id": "arc_016",
+      "text": "Dig Dug (1982) allowed players to defeat enemies by inflating them until they popped.",
+      "system": "mame",
+      "rom": "digdug"
+    },
+    {
+      "id": "arc_017",
+      "text": "BurgerTime (1982) involved assembling giant burgers while avoiding enemies.",
+      "system": "mame",
+      "rom": "btime"
+    },
+    {
+      "id": "arc_018",
+      "text": "Tron (1982) was one of the earliest arcade games based on a licensed film.",
+      "system": "mame",
+      "rom": "tron"
+    },
+    {
+      "id": "arc_019",
+      "text": "Battlezone (1980) is considered one of the first true 3D arcade games.",
+      "system": "mame",
+      "rom": "bzone"
+    },
+    {
+      "id": "arc_020",
+      "text": "Missile Command (1980) was inspired by Cold War nuclear defense fears.",
+      "system": "mame",
+      "rom": "missile"
+    },
+    {
+      "id": "arc_021",
+      "text": "Berzerk (1980) featured early digitized speech in arcade gaming.",
+      "system": "mame",
+      "rom": "berzerk"
+    },
+    {
+      "id": "arc_022",
+      "text": "Sinistar (1982) became famous for its AI voice shouting 'I am Sinistar!'",
+      "system": "mame",
+      "rom": "sinistar"
+    },
+    {
+      "id": "arc_023",
+      "text": "Spy Hunter (1983) featured a built-in steering wheel arcade cabinet.",
+      "system": "mame",
+      "rom": "spyhunt"
+    },
+    {
+      "id": "arc_024",
+      "text": "Paperboy (1985) simulated newspaper delivery through suburban streets.",
+      "system": "mame",
+      "rom": "paperboy"
+    },
+    {
+      "id": "arc_025",
+      "text": "Track & Field (1983) popularized competitive button-mashing gameplay.",
+      "system": "mame",
+      "rom": "trackfld"
+    },
+    {
+      "id": "arc_026",
+      "text": "Kung-Fu Master (1984) helped establish the side-scrolling beat-em-up genre.",
+      "system": "mame",
+      "rom": "kungfum"
+    },
+    {
+      "id": "arc_027",
+      "text": "Gauntlet (1985) was one of the first multiplayer dungeon crawler arcade games.",
+      "system": "mame",
+      "rom": "gauntlet"
+    },
+    {
+      "id": "arc_028",
+      "text": "Bubble Bobble (1986) featured cooperative gameplay with two dragon characters.",
+      "system": "mame",
+      "rom": "bublbobl"
+    },
+    {
+      "id": "arc_029",
+      "text": "Out Run (1986) introduced branching paths and a dynamic soundtrack experience.",
+      "system": "mame",
+      "rom": "outrun"
+    },
+    {
+      "id": "arc_030",
+      "text": "Gradius (1985) introduced a selectable power-up system for ship upgrades.",
+      "system": "mame",
+      "rom": "gradius"
+    },
+    {
+      "id": "arc_031",
+      "text": "Dragon's Lair (1983) used laserdisc animation instead of sprite graphics.",
+      "system": "daphne",
+      "rom": "dle11"
+    },
+    {
+      "id": "arc_032",
+      "text": "Pole Position (1982) was one of the first realistic racing arcade games.",
+      "system": "mame",
+      "rom": "polepos"
+    },
+    {
+      "id": "arc_033",
+      "text": "Asteroids became one of Atari’s most commercially successful arcade titles.",
+      "system": "mame",
+      "rom": "asteroid"
+    },
+    {
+      "id": "arc_034",
+      "text": "Space Invaders caused a shortage of 100-yen coins in Japan due to popularity.",
+      "system": "mame",
+      "rom": "invaders"
+    },
+    {
+      "id": "arc_035",
+      "text": "Pac-Man’s ghost AI uses distinct behavioral patterns for each enemy.",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "arc_036",
+      "text": "Donkey Kong Jr. is the only Mario game where Mario appears as the antagonist.",
+      "system": "mame",
+      "rom": "dkongjr"
+    },
+    {
+      "id": "arc_037",
+      "text": "Frogger became iconic for its simple controls and high difficulty curve.",
+      "system": "mame",
+      "rom": "frogger"
+    },
+    {
+      "id": "arc_038",
+      "text": "Galaga is often included in arcade compilation cabinets due to popularity.",
+      "system": "mame",
+      "rom": "galaga"
+    },
+    {
+      "id": "arc_039",
+      "text": "Centipede was one of the first arcade games to use a trackball controller.",
+      "system": "mame",
+      "rom": "centiped"
+    },
+    {
+      "id": "arc_040",
+      "text": "Pac-Man remains one of the most recognizable video game characters ever created.",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "arc_041",
+      "text": "Defender introduced fast-paced scrolling and complex multi-button controls.",
+      "system": "mame",
+      "rom": "defender"
+    },
+    {
+      "id": "arc_042",
+      "text": "Q*bert used audio synthesis techniques to create speech-like sound effects.",
+      "system": "mame"
+    },
+    {
+      "id": "arc_043",
+      "text": "Robotron: 2084 heavily influenced modern twin-stick shooter design.",
+      "system": "mame",
+      "rom": "robotron"
+    },
+    {
+      "id": "arc_044",
+      "text": "Joust featured physics based on flapping movement and momentum control.",
+      "system": "mame",
+      "rom": "joust"
+    },
+    {
+      "id": "arc_045",
+      "text": "Galaga improved upon Galaxian by introducing enemy dive patterns and formations.",
+      "system": "mame",
+      "rom": "galaga"
+    },
+    {
+      "id": "arc_046",
+      "text": "Dig Dug became known for its inflation-based enemy defeat mechanic.",
+      "system": "mame",
+      "rom": "digdug"
+    },
+    {
+      "id": "arc_047",
+      "text": "BurgerTime requires assembling giant burgers while avoiding enemy chefs.",
+      "system": "mame",
+      "rom": "btime",
+      "art": {
+        "system": "mame",
+        "key": "burgertime",
+        "type": "marquee"
+      }
+    },
+    {
+      "id": "arc_048",
+      "text": "Missile Command was inspired by Cold War nuclear anxiety and defense systems.",
+      "system": "mame",
+      "rom": "missile"
+    },
+    {
+      "id": "arc_049",
+      "text": "Berzerk was one of the first arcade games to feature digitized speech.",
+      "system": "mame",
+      "rom": "berzerk"
+    },
+    {
+      "id": "arc_050",
+      "text": "Sinistar became famous for its menacing voice declaring 'I am Sinistar!'",
+      "system": "mame",
+      "rom": "sinistar"
+    },
+    {
+      "id": "arc_051",
+      "text": "Street Fighter II (1991) defined the modern competitive fighting game genre.",
+      "system": "mame",
+      "rom": "sf2"
+    },
+    {
+      "id": "arc_052",
+      "text": "Final Fight (1989) helped establish the side-scrolling beat-em-up formula.",
+      "system": "mame",
+      "rom": "ffight"
+    },
+    {
+      "id": "arc_053",
+      "text": "Mortal Kombat (1992) became famous for its digitized actors and fatalities.",
+      "system": "mame",
+      "rom": "mk"
+    },
+    {
+      "id": "arc_054",
+      "text": "NBA Jam (1993) introduced exaggerated basketball action and catchphrases.",
+      "system": "mame",
+      "rom": "nbajam"
+    },
+    {
+      "id": "arc_055",
+      "text": "The Simpsons arcade game (1991) supported four-player co-op gameplay.",
+      "system": "mame",
+      "rom": "simpsons"
+    },
+    {
+      "id": "arc_056",
+      "text": "X-Men arcade (1992) allowed up to six players simultaneously.",
+      "system": "mame",
+      "rom": "xmen"
+    },
+    {
+      "id": "arc_057",
+      "text": "Teenage Mutant Ninja Turtles (1989) became a major arcade co-op hit.",
+      "system": "mame",
+      "rom": "tmnt"
+    },
+    {
+      "id": "arc_058",
+      "text": "Time Crisis (1995) introduced foot pedal cover mechanics in light gun games.",
+      "system": "mame",
+      "rom": "timecris"
+    },
+    {
+      "id": "arc_059",
+      "text": "House of the Dead (1996) popularized modern zombie light gun shooters.",
+      "system": "mame",
+      "rom": "hotd"
+    },
+    {
+      "id": "arc_060",
+      "text": "Daytona USA (1994) became one of Sega’s most iconic racing arcade games.",
+      "system": "mame",
+      "rom": "daytona"
+    },
+    {
+      "id": "arc_061",
+      "text": "Cruis'n USA (1994) brought arcade racing into mainstream North American arcades.",
+      "system": "mame",
+      "rom": "crusnusa"
+    },
+    {
+      "id": "arc_062",
+      "text": "Dance Dance Revolution (1998) introduced rhythm-based footpad gameplay.",
+      "system": "mame",
+      "rom": "ddr"
+    },
+    {
+      "id": "arc_063",
+      "text": "Guitar Freaks (1999) inspired the later Guitar Hero franchise.",
+      "system": "mame",
+      "rom": "gtfrk"
+    },
+    {
+      "id": "arc_064",
+      "text": "Beatmania (1997) helped define modern rhythm arcade games.",
+      "system": "mame",
+      "rom": "beatmania"
+    },
+    {
+      "id": "arc_065",
+      "text": "Marvel vs Capcom (1998) introduced fast-paced crossover fighting gameplay.",
+      "system": "mame",
+      "rom": "mvsc"
+    },
+    {
+      "id": "arc_066",
+      "text": "The King of Fighters '98 is considered one of the most balanced SNK fighters.",
+      "system": "mame",
+      "rom": "kof98"
+    },
+    {
+      "id": "arc_067",
+      "text": "Metal Slug (1996) became known for its detailed pixel animation and humor.",
+      "system": "mame",
+      "rom": "mslug"
+    },
+    {
+      "id": "arc_068",
+      "text": "Neo Geo arcade systems were known for bringing console-quality games to arcades.",
+      "system": "neogeo",
+      "rom": "neogeo"
+    },
+    {
+      "id": "arc_069",
+      "text": "Capcom vs SNK (2000) was a major crossover fighting game release.",
+      "system": "mame",
+      "rom": "capsnk"
+    },
+    {
+      "id": "arc_070",
+      "text": "Marvel Super Heroes (1995) introduced gem-based power mechanics.",
+      "system": "mame",
+      "rom": "msh"
+    },
+    {
+      "id": "arc_071",
+      "text": "House of the Dead 2 expanded zombie shooter gameplay with cooperative play.",
+      "system": "mame",
+      "rom": "hotd2"
+    },
+    {
+      "id": "arc_072",
+      "text": "Virtua Fighter (1993) was one of the first 3D fighting games.",
+      "system": "sega_model_2",
+      "rom": "vf"
+    },
+    {
+      "id": "arc_073",
+      "text": "Virtua Racing (1992) showcased early real-time 3D polygon racing.",
+      "system": "mame",
+      "rom": "vrracing"
+    },
+    {
+      "id": "arc_074",
+      "text": "After Burner (1987) delivered fast-paced jet combat with motion cabinets.",
+      "system": "mame",
+      "rom": "aburner"
+    },
+    {
+      "id": "arc_075",
+      "text": "Space Harrier (1985) used pseudo-3D scaling sprite technology.",
+      "system": "mame",
+      "rom": "sharrier"
+    },
+    {
+      "id": "arc_076",
+      "text": "OutRun 2 brought drifting mechanics into arcade racing games.",
+      "system": "sega_model_2",
+      "rom": "outrun2"
+    },
+    {
+      "id": "arc_077",
+      "text": "Initial D Arcade Stage popularized drift racing in Japan.",
+      "system": "sega_naomi",
+      "rom": "initiald"
+    },
+    {
+      "id": "arc_078",
+      "text": "Soul Calibur (arcade) was praised for its weapon-based fighting system.",
+      "system": "namco_system_12",
+      "rom": "soulclbr"
+    },
+    {
+      "id": "arc_079",
+      "text": "Tekken 3 refined 3D fighting mechanics and became a massive arcade hit.",
+      "system": "mame",
+      "rom": "tekken3"
+    },
+    {
+      "id": "arc_080",
+      "text": "Pac-Man Championship Edition modernized the classic maze formula.",
+      "system": "steam",
+      "rom": "pacman_ce"
+    },
+    {
+      "id": "arc_081",
+      "text": "Crazy Taxi delivered chaotic arcade driving with time-based objectives.",
+      "system": "sega_naomi",
+      "rom": "crzytaxi"
+    },
+    {
+      "id": "arc_082",
+      "text": "House of the Dead III introduced shotgun mechanics and faster pacing.",
+      "system": "xbox",
+      "rom": "hotd3"
+    },
+    {
+      "id": "arc_083",
+      "text": "Virtua Cop (1994) helped define modern light gun shooters.",
+      "system": "mame",
+      "rom": "vcop"
+    },
+    {
+      "id": "arc_084",
+      "text": "Time Crisis II introduced dual gun cooperative gameplay.",
+      "system": "mame",
+      "rom": "timecris2"
+    },
+    {
+      "id": "arc_085",
+      "text": "The Fast and the Furious arcade series is based on the film franchise.",
+      "system": "teknoparrot",
+      "rom": "fastfurious"
+    },
+    {
+      "id": "arc_086",
+      "text": "Mario Kart Arcade GP combines Nintendo characters with arcade racing.",
+      "system": "nintendo_arcade_systems",
+      "rom": "mkartgp"
+    },
+    {
+      "id": "arc_087",
+      "text": "Luigi’s Mansion arcade version introduced cooperative ghost hunting.",
+      "system": "nintendo_arcade_systems",
+      "rom": "luigisarcade"
+    },
+    {
+      "id": "arc_088",
+      "text": "The Walking Dead arcade shooter uses a cooperative survival horror format.",
+      "system": "teknoparrot",
+      "rom": "walkingdead"
+    },
+    {
+      "id": "arc_089",
+      "text": "Aliens arcade (Konami) is considered one of the best licensed arcade shooters.",
+      "system": "mame",
+      "rom": "aliens"
+    },
+    {
+      "id": "arc_090",
+      "text": "Sunset Riders (1991) is a Wild West themed side-scrolling shooter.",
+      "system": "mame",
+      "rom": "sunsetr"
+    },
+    {
+      "id": "arc_091",
+      "text": "The Simpsons Bowling arcade game turned the series into a sports spinoff.",
+      "system": "mame",
+      "rom": "simpbowl"
+    },
+    {
+      "id": "arc_092",
+      "text": "Cruis'n World expanded arcade racing with global tracks.",
+      "system": "mame",
+      "rom": "crusnwld"
+    },
+    {
+      "id": "arc_093",
+      "text": "Hydro Thunder featured high-speed powerboat racing gameplay.",
+      "system": "mame",
+      "rom": "hyprdriv"
+    },
+    {
+      "id": "arc_094",
+      "text": "Daytona USA 2 improved physics and track variety over the original.",
+      "system": "sega_model_3",
+      "rom": "daytona2"
+    },
+    {
+      "id": "arc_095",
+      "text": "Virtua Tennis became a flagship sports arcade title for Sega.",
+      "system": "sega_naomi",
+      "rom": "vtennis"
+    },
+    {
+      "id": "arc_096",
+      "text": "Dance Dance Revolution Extreme added licensed pop music tracks.",
+      "system": "mame",
+      "rom": "ddrmax"
+    },
+    {
+      "id": "arc_097",
+      "text": "Pump It Up introduced diagonal dance pad layouts for rhythm games.",
+      "system": "mame",
+      "rom": "pumpitup"
+    },
+    {
+      "id": "arc_098",
+      "text": "Beatmania IIDX added DJ turntable controls for rhythm gameplay.",
+      "system": "mame",
+      "rom": "bm2ndmix"
+    },
+    {
+      "id": "arc_099",
+      "text": "Guilty Gear introduced anime-style fighting game visuals and speed.",
+      "system": "mame",
+      "rom": "ggx"
+    },
+    {
+      "id": "arc_100",
+      "text": "Marvel vs Capcom 2 became known for its massive roster and fast gameplay.",
+      "system": "mame",
+      "rom": "mvsc2"
+    },
+    {
+      "id": "arc_101",
+      "text": "The King of Fighters '97 introduced a darker storyline direction for the series.",
+      "system": "neogeo",
+      "rom": "kof97"
+    },
+    {
+      "id": "arc_102",
+      "text": "Samurai Shodown became known for its slower, weapon-based fighting system.",
+      "system": "neogeo",
+      "rom": "samsho"
+    },
+    {
+      "id": "arc_103",
+      "text": "Metal Slug 2 added branching paths and more chaotic gameplay.",
+      "system": "neogeo",
+      "rom": "mslug2"
+    },
+    {
+      "id": "arc_104",
+      "text": "Windjammers combined frisbee mechanics with competitive arcade sports gameplay.",
+      "system": "neogeo",
+      "rom": "wjammers"
+    },
+    {
+      "id": "arc_105",
+      "text": "Puzzle Bobble (Bust-A-Move) became one of the most addictive arcade puzzle games.",
+      "system": "mame",
+      "rom": "pbobble"
+    },
+    {
+      "id": "arc_106",
+      "text": "Marvel vs Capcom 2 featured one of the largest character rosters in arcade fighting games.",
+      "system": "mame",
+      "rom": "mvsc2"
+    },
+    {
+      "id": "arc_107",
+      "text": "Capcom’s Alien vs Predator arcade game supported three-player co-op.",
+      "system": "mame",
+      "rom": "avsp"
+    },
+    {
+      "id": "arc_108",
+      "text": "Dungeons & Dragons: Shadow over Mystara blended RPG mechanics with arcade action.",
+      "system": "mame",
+      "rom": "ddsom"
+    },
+    {
+      "id": "arc_109",
+      "text": "The Punisher arcade game was based on the Marvel comic character.",
+      "system": "mame",
+      "rom": "punisher"
+    },
+    {
+      "id": "arc_110",
+      "text": "Cadillacs and Dinosaurs combined beat-em-up action with prehistoric themes.",
+      "system": "mame",
+      "rom": "dino"
+    },
+    {
+      "id": "arc_111",
+      "text": "Sunset Riders featured cooperative Wild West run-and-gun gameplay.",
+      "system": "mame",
+      "rom": "sunsetr"
+    },
+    {
+      "id": "arc_112",
+      "text": "Alien Storm blended beat-em-up and shooting mechanics.",
+      "system": "mame",
+      "rom": "aliensyn"
+    },
+    {
+      "id": "arc_113",
+      "text": "Golden Axe popularized fantasy-themed arcade beat-em-ups.",
+      "system": "mame",
+      "rom": "goldnaxe"
+    },
+    {
+      "id": "arc_114",
+      "text": "Altered Beast was known for its transformation mechanic gameplay.",
+      "system": "mame",
+      "rom": "altbeast"
+    },
+    {
+      "id": "arc_115",
+      "text": "Double Dragon helped establish the modern beat-em-up genre.",
+      "system": "mame",
+      "rom": "ddragon"
+    },
+    {
+      "id": "arc_116",
+      "text": "Final Fight 2 expanded the original formula with new characters and stages.",
+      "system": "mame",
+      "rom": "ffight2"
+    },
+    {
+      "id": "arc_117",
+      "text": "Teenage Mutant Ninja Turtles: Turtles in Time is considered a classic arcade sequel.",
+      "system": "mame",
+      "rom": "tmnt2"
+    },
+    {
+      "id": "arc_118",
+      "text": "The Simpsons arcade game remains one of the most beloved licensed beat-em-ups.",
+      "system": "mame",
+      "rom": "simpsons"
+    },
+    {
+      "id": "arc_119",
+      "text": "X-Men arcade supported six-player simultaneous gameplay.",
+      "system": "mame",
+      "rom": "xmen"
+    },
+    {
+      "id": "arc_120",
+      "text": "Knights of the Round used Arthurian legend as its setting.",
+      "system": "mame",
+      "rom": "knights"
+    },
+    {
+      "id": "arc_121",
+      "text": "Ridge Racer helped define Namco’s arcade racing style.",
+      "system": "mame",
+      "rom": "ridgerac"
+    },
+    {
+      "id": "arc_122",
+      "text": "Rave Racer improved on Ridge Racer with better drift mechanics.",
+      "system": "mame",
+      "rom": "ravracer"
+    },
+    {
+      "id": "arc_123",
+      "text": "Initial D Arcade Stage popularized drift racing culture in arcades.",
+      "system": "sega_naomi",
+      "rom": "initiald"
+    },
+    {
+      "id": "arc_124",
+      "text": "Crazy Taxi emphasized arcade-style time attack driving gameplay.",
+      "system": "sega_naomi",
+      "rom": "crzytaxi"
+    },
+    {
+      "id": "arc_125",
+      "text": "Hydro Thunder featured exaggerated arcade-style boat racing physics.",
+      "system": "mame",
+      "rom": "hyprdriv"
+    },
+    {
+      "id": "arc_126",
+      "text": "Daytona USA became one of Sega’s most iconic racing arcade titles.",
+      "system": "sega_model_2",
+      "rom": "daytona"
+    },
+    {
+      "id": "arc_127",
+      "text": "Virtua Racing showcased early 3D polygon-based racing graphics.",
+      "system": "mame",
+      "rom": "vrracing"
+    },
+    {
+      "id": "arc_128",
+      "text": "OutRun is known for its branching path system and synth soundtrack.",
+      "system": "mame",
+      "rom": "outrun"
+    },
+    {
+      "id": "arc_129",
+      "text": "After Burner featured fast jet combat and motion cabinet support.",
+      "system": "mame",
+      "rom": "aburner"
+    },
+    {
+      "id": "arc_130",
+      "text": "Space Harrier used pseudo-3D scaling sprite technology.",
+      "system": "mame",
+      "rom": "sharrier"
+    },
+    {
+      "id": "arc_131",
+      "text": "Time Crisis introduced cover-based shooting mechanics using a foot pedal.",
+      "system": "mame",
+      "rom": "timecris"
+    },
+    {
+      "id": "arc_132",
+      "text": "House of the Dead popularized arcade zombie shooter gameplay.",
+      "system": "mame",
+      "rom": "hotd"
+    },
+    {
+      "id": "arc_133",
+      "text": "Virtua Cop helped define the modern light gun shooter genre.",
+      "system": "mame",
+      "rom": "vcop"
+    },
+    {
+      "id": "arc_134",
+      "text": "Silent Scope introduced sniper rifle arcade gameplay mechanics.",
+      "system": "mame",
+      "rom": "sscope"
+    },
+    {
+      "id": "arc_135",
+      "text": "Operation Wolf was one of the earliest military light gun shooters.",
+      "system": "mame",
+      "rom": "opwolf"
+    },
+    {
+      "id": "arc_136",
+      "text": "Dance Dance Revolution introduced rhythm gameplay using foot panels.",
+      "system": "mame",
+      "rom": "ddr"
+    },
+    {
+      "id": "arc_137",
+      "text": "Beatmania IIDX added DJ turntable controls for rhythm input.",
+      "system": "mame",
+      "rom": "bm2ndmix"
+    },
+    {
+      "id": "arc_138",
+      "text": "Guitar Freaks inspired the later Guitar Hero franchise.",
+      "system": "mame",
+      "rom": "gtfrk"
+    },
+    {
+      "id": "arc_139",
+      "text": "Pump It Up uses diagonal arrow panels instead of traditional DDR layout.",
+      "system": "mame",
+      "rom": "pumpitup"
+    },
+    {
+      "id": "arc_140",
+      "text": "Para Para Paradise uses upper-body motion sensors for gameplay.",
+      "system": "mame",
+      "rom": "parapar"
+    },
+    {
+      "id": "arc_141",
+      "text": "Marvel vs Capcom 2 is known for its fast-paced tag-team combat system.",
+      "system": "mame",
+      "rom": "mvsc2"
+    },
+    {
+      "id": "arc_142",
+      "text": "Street Fighter Alpha introduced anime-style visuals to the series.",
+      "system": "mame",
+      "rom": "sfz"
+    },
+    {
+      "id": "arc_143",
+      "text": "Tekken Tag Tournament allowed dual-character team battles.",
+      "system": "mame",
+      "rom": "tekken3"
+    },
+    {
+      "id": "arc_144",
+      "text": "Soul Calibur introduced weapon-based 3D fighting mechanics.",
+      "system": "namco_system_12",
+      "rom": "soulclbr"
+    },
+    {
+      "id": "arc_145",
+      "text": "Guilty Gear is known for its fast anime-style fighting gameplay.",
+      "system": "mame",
+      "rom": "ggx"
+    },
+    {
+      "id": "arc_146",
+      "text": "Neo Geo arcade hardware delivered console-quality graphics in arcades.",
+      "system": "neogeo",
+      "rom": "neogeo"
+    },
+    {
+      "id": "arc_147",
+      "text": "Metal Slug is famous for its detailed pixel animation and humor.",
+      "system": "neogeo",
+      "rom": "mslug"
+    },
+    {
+      "id": "arc_148",
+      "text": "The King of Fighters series became a staple of competitive arcade fighting.",
+      "system": "neogeo",
+      "rom": "kof"
+    },
+    {
+      "id": "arc_149",
+      "text": "Samurai Shodown emphasized weapon-based combat over hand-to-hand fighting.",
+      "system": "neogeo",
+      "rom": "samsho"
+    },
+    {
+      "id": "arc_150",
+      "text": "Windjammers combined frisbee mechanics with competitive arcade sports.",
+      "system": "neogeo",
+      "rom": "wjammers"
+    },
+    {
+      "id": "arc_151",
+      "text": "Pac-Man Championship Edition reimagined the classic maze formula with time-based scoring.",
+      "system": "steam",
+      "rom": "pacman_ce"
+    },
+    {
+      "id": "arc_152",
+      "text": "Pac-Man Battle Royale introduced four-player competitive maze gameplay.",
+      "system": "arcade1up",
+      "rom": "pacman_battle_royale"
+    },
+    {
+      "id": "arc_153",
+      "text": "Tekken 3 became one of the most successful 3D fighting games in arcades.",
+      "system": "mame",
+      "rom": "tekken3"
+    },
+    {
+      "id": "arc_154",
+      "text": "Virtua Fighter 2 advanced polygon animation and realistic martial arts physics.",
+      "system": "sega_model_2",
+      "rom": "vf2"
+    },
+    {
+      "id": "arc_155",
+      "text": "Soul Edge (Soul Blade) introduced weapon-based 3D fighting gameplay.",
+      "system": "namco_system_11",
+      "rom": "souledge"
+    },
+    {
+      "id": "arc_156",
+      "text": "Time Crisis II added simultaneous two-player light gun gameplay.",
+      "system": "mame",
+      "rom": "timecris2"
+    },
+    {
+      "id": "arc_157",
+      "text": "House of the Dead III introduced shotgun mechanics and faster pacing.",
+      "system": "xbox",
+      "rom": "hotd3"
+    },
+    {
+      "id": "arc_158",
+      "text": "The Walking Dead arcade shooter uses cooperative survival mechanics.",
+      "system": "teknoparrot",
+      "rom": "walkingdead"
+    },
+    {
+      "id": "arc_159",
+      "text": "Aliens arcade shooter is widely considered one of Konami’s best licensed games.",
+      "system": "mame",
+      "rom": "aliens"
+    },
+    {
+      "id": "arc_160",
+      "text": "Operation Wolf helped establish the military light gun shooter genre.",
+      "system": "mame",
+      "rom": "opwolf"
+    },
+    {
+      "id": "arc_161",
+      "text": "Dance Dance Revolution Extreme added licensed pop music tracks to arcade rhythm gaming.",
+      "system": "mame",
+      "rom": "ddrmax"
+    },
+    {
+      "id": "arc_162",
+      "text": "Pump It Up uses diagonal arrows instead of the traditional DDR layout.",
+      "system": "mame",
+      "rom": "pumpitup"
+    },
+    {
+      "id": "arc_163",
+      "text": "Beatmania IIDX introduced DJ turntable mechanics for rhythm gameplay.",
+      "system": "mame",
+      "rom": "bm2ndmix"
+    },
+    {
+      "id": "arc_164",
+      "text": "Guitar Freaks inspired the later Guitar Hero console franchise.",
+      "system": "mame",
+      "rom": "gtfrk"
+    },
+    {
+      "id": "arc_165",
+      "text": "Para Para Paradise used motion sensors for upper-body rhythm gameplay.",
+      "system": "mame",
+      "rom": "parapar"
+    },
+    {
+      "id": "arc_166",
+      "text": "Marvel vs Capcom 2 features one of the largest character rosters in fighting games.",
+      "system": "mame",
+      "rom": "mvsc2"
+    },
+    {
+      "id": "arc_167",
+      "text": "X-Men arcade allowed up to six players at once.",
+      "system": "mame",
+      "rom": "xmen"
+    },
+    {
+      "id": "arc_168",
+      "text": "The Simpsons arcade game remains a fan-favorite co-op beat-em-up.",
+      "system": "mame",
+      "rom": "simpsons"
+    },
+    {
+      "id": "arc_169",
+      "text": "Teenage Mutant Ninja Turtles arcade popularized 4-player co-op gameplay.",
+      "system": "mame",
+      "rom": "tmnt"
+    },
+    {
+      "id": "arc_170",
+      "text": "Cadillacs and Dinosaurs mixed dinosaurs with beat-em-up action.",
+      "system": "mame",
+      "rom": "dino"
+    },
+    {
+      "id": "arc_171",
+      "text": "Golden Axe helped define fantasy-themed arcade beat-em-ups.",
+      "system": "mame",
+      "rom": "goldnaxe"
+    },
+    {
+      "id": "arc_172",
+      "text": "Double Dragon is considered one of the first major beat-em-up arcade hits.",
+      "system": "mame",
+      "rom": "ddragon"
+    },
+    {
+      "id": "arc_173",
+      "text": "Final Fight helped establish side-scrolling urban combat games.",
+      "system": "mame",
+      "rom": "ffight"
+    },
+    {
+      "id": "arc_174",
+      "text": "Altered Beast is known for its transformation-based power-ups.",
+      "system": "mame",
+      "rom": "altbeast"
+    },
+    {
+      "id": "arc_175",
+      "text": "Alien Storm combined shooting and beat-em-up mechanics.",
+      "system": "mame",
+      "rom": "aliensyn"
+    },
+    {
+      "id": "arc_176",
+      "text": "Daytona USA became one of Sega’s most iconic racing arcade games.",
+      "system": "sega_model_2",
+      "rom": "daytona"
+    },
+    {
+      "id": "arc_177",
+      "text": "Daytona USA 2 improved track variety and driving physics.",
+      "system": "sega_model_3",
+      "rom": "daytona2"
+    },
+    {
+      "id": "arc_178",
+      "text": "Initial D Arcade Stage popularized drift racing in Japan.",
+      "system": "sega_naomi",
+      "rom": "initiald"
+    },
+    {
+      "id": "arc_179",
+      "text": "Crazy Taxi introduced chaotic arcade driving with time-based objectives.",
+      "system": "sega_naomi",
+      "rom": "crzytaxi"
+    },
+    {
+      "id": "arc_180",
+      "text": "Hydro Thunder featured high-speed arcade boat racing.",
+      "system": "mame",
+      "rom": "hyprdriv"
+    },
+    {
+      "id": "arc_181",
+      "text": "OutRun is known for its branching paths and iconic soundtrack.",
+      "system": "mame",
+      "rom": "outrun"
+    },
+    {
+      "id": "arc_182",
+      "text": "After Burner featured fast-paced jet combat and motion cabinet support.",
+      "system": "mame",
+      "rom": "aburner"
+    },
+    {
+      "id": "arc_183",
+      "text": "Space Harrier used pseudo-3D scaling sprite technology.",
+      "system": "mame",
+      "rom": "sharrier"
+    },
+    {
+      "id": "arc_184",
+      "text": "Virtua Cop helped define modern light gun shooter gameplay.",
+      "system": "mame",
+      "rom": "vcop"
+    },
+    {
+      "id": "arc_185",
+      "text": "Silent Scope introduced sniper rifle-style arcade gameplay.",
+      "system": "mame",
+      "rom": "sscope"
+    },
+    {
+      "id": "arc_186",
+      "text": "Time Crisis introduced cover-based shooting using a foot pedal system.",
+      "system": "mame",
+      "rom": "timecris"
+    },
+    {
+      "id": "arc_187",
+      "text": "House of the Dead popularized arcade zombie shooter gameplay.",
+      "system": "mame",
+      "rom": "hotd"
+    },
+    {
+      "id": "arc_188",
+      "text": "Guilty Gear is known for its fast anime-style fighting gameplay.",
+      "system": "mame",
+      "rom": "ggx"
+    },
+    {
+      "id": "arc_189",
+      "text": "Street Fighter Alpha introduced anime-style visuals to the franchise.",
+      "system": "mame",
+      "rom": "sfz"
+    },
+    {
+      "id": "arc_190",
+      "text": "Tekken Tag Tournament introduced team-based 3D fighting battles.",
+      "system": "mame",
+      "rom": "tekken3"
+    },
+    {
+      "id": "arc_191",
+      "text": "Soul Calibur became famous for its weapon-based 3D combat system.",
+      "system": "namco_system_12",
+      "rom": "soulclbr"
+    },
+    {
+      "id": "arc_192",
+      "text": "Windjammers combined frisbee sports with competitive arcade gameplay.",
+      "system": "neogeo",
+      "rom": "wjammers"
+    },
+    {
+      "id": "arc_193",
+      "text": "Metal Slug is famous for its detailed pixel animation and humor.",
+      "system": "neogeo",
+      "rom": "mslug"
+    },
+    {
+      "id": "arc_194",
+      "text": "The King of Fighters series became a staple of competitive arcade fighting.",
+      "system": "neogeo",
+      "rom": "kof"
+    },
+    {
+      "id": "arc_195",
+      "text": "Samurai Shodown emphasizes weapon-based dueling combat.",
+      "system": "neogeo",
+      "rom": "samsho"
+    },
+    {
+      "id": "arc_196",
+      "text": "Neo Geo arcade systems delivered console-quality graphics in arcades.",
+      "system": "neogeo",
+      "rom": "neogeo"
+    },
+    {
+      "id": "arc_197",
+      "text": "Marvel Super Heroes introduced gem-based power mechanics.",
+      "system": "mame",
+      "rom": "msh"
+    },
+    {
+      "id": "arc_198",
+      "text": "Capcom vs SNK was a major crossover fighting game release.",
+      "system": "mame",
+      "rom": "capsnk"
+    },
+    {
+      "id": "arc_199",
+      "text": "Sunset Riders is a Wild West themed run-and-gun arcade game.",
+      "system": "mame",
+      "rom": "sunsetr"
+    },
+    {
+      "id": "arc_200",
+      "text": "Pac-Man remains one of the most influential arcade games in history.",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "arc_201",
+      "text": "Zaxxon (1982) by Sega was the first arcade game to use an isometric perspective, displaying altitude via the player ship's shadow on the ground.",
+      "system": "mame",
+      "rom": "zaxxon"
+    },
+    {
+      "id": "arc_202",
+      "text": "Xevious (1982) was the first scrolling shooter to feature separate air and ground targets, each requiring a different fire button.",
+      "system": "mame",
+      "rom": "xevious"
+    },
+    {
+      "id": "arc_203",
+      "text": "Scramble (1981) by Konami is considered the first side-scrolling shooter, using forced horizontal scrolling and a fuel management mechanic.",
+      "system": "mame",
+      "rom": "scramble"
+    },
+    {
+      "id": "arc_204",
+      "text": "Darius (1987) by Taito featured three linked CRT monitors arranged side-by-side, creating an ultra-wide panoramic display.",
+      "system": "mame",
+      "rom": "darius"
+    },
+    {
+      "id": "arc_205",
+      "text": "R-Type (1987) introduced the Force ship attachment — a satellite that could absorb enemy bullets and be positioned for tactical offense or defense.",
+      "system": "mame",
+      "rom": "rtype"
+    },
+    {
+      "id": "arc_206",
+      "text": "Raiden (1990) became iconic for its purple plasma lightning weapon and tight vertical shooter design.",
+      "system": "mame",
+      "rom": "raiden"
+    },
+    {
+      "id": "arc_207",
+      "text": "Gyruss (1983) used a tube-shooter perspective and featured a memorable rendition of Bach's Toccata and Fugue in D minor.",
+      "system": "mame",
+      "rom": "gyruss"
+    },
+    {
+      "id": "arc_208",
+      "text": "Arkanoid (1986) modernized Breakout by adding enemy ships, power-up capsules, and the Vaus spacecraft as the player paddle.",
+      "system": "mame",
+      "rom": "arkanoid"
+    },
+    {
+      "id": "arc_209",
+      "text": "Breakout (1976) was co-developed at Atari by Steve Jobs, with Steve Wozniak designing the chip layout in just four nights.",
+      "system": "mame",
+      "rom": "breakout"
+    },
+    {
+      "id": "arc_210",
+      "text": "I, Robot (1984) by Atari was the first commercial arcade game to use solid 3D filled-polygon graphics.",
+      "system": "mame",
+      "rom": "irobot"
+    },
+    {
+      "id": "arc_211",
+      "text": "Crystal Castles (1983) used a trackball controller and featured Bentley Bear navigating isometric gem-collecting castle levels.",
+      "system": "mame",
+      "rom": "ccastle"
+    },
+    {
+      "id": "arc_212",
+      "text": "Marble Madness (1984) used a trackball to navigate a marble through isometric obstacle courses against a tight clock.",
+      "system": "mame",
+      "rom": "marblem"
+    },
+    {
+      "id": "arc_213",
+      "text": "Moon Patrol (1982) introduced parallax scrolling backgrounds — different layers scrolled at different speeds to create depth.",
+      "system": "mame",
+      "rom": "moonpatl"
+    },
+    {
+      "id": "arc_214",
+      "text": "Pengo (1982) by Sega starred a penguin who pushed ice blocks to crush enemies or create barriers in maze stages.",
+      "system": "mame",
+      "rom": "pengo"
+    },
+    {
+      "id": "arc_215",
+      "text": "Lunar Lander (1979) was one of Atari's first vector graphics arcade games, simulating the Apollo lunar descent.",
+      "system": "mame",
+      "rom": "llander"
+    },
+    {
+      "id": "arc_216",
+      "text": "Punch-Out!! (1983) made the player's own boxer semi-transparent so the opponent in front was always fully visible.",
+      "system": "mame",
+      "rom": "punchout"
+    },
+    {
+      "id": "arc_217",
+      "text": "Tetris was designed in 1984 by Soviet programmer Alexey Pajitnov on a government-issued Elektronika 60 computer.",
+      "system": "mame",
+      "rom": "tetris"
+    },
+    {
+      "id": "arc_218",
+      "text": "Pac-Land (1984) was the first side-scrolling Pac-Man spinoff, moving the character through horizontal platforming levels.",
+      "system": "mame",
+      "rom": "pacland"
+    },
+    {
+      "id": "arc_219",
+      "text": "Popeye (1982) was originally being designed as a Donkey Kong sequel before Nintendo secured the Popeye license.",
+      "system": "mame",
+      "rom": "popeye"
+    },
+    {
+      "id": "arc_220",
+      "text": "Donkey Kong 3 (1983) abandoned platforming entirely, casting Stanley the exterminator in a vertical shooter format.",
+      "system": "mame",
+      "rom": "dkong3"
+    },
+    {
+      "id": "arc_221",
+      "text": "Tapper (1983) challenged players to serve drinks down a sliding bar and collect empty mugs before impatient customers arrived.",
+      "system": "mame",
+      "rom": "tapper"
+    },
+    {
+      "id": "arc_222",
+      "text": "Commando (1985) by Capcom pioneered the overhead military run-and-gun genre, inspiring dozens of imitators.",
+      "system": "mame",
+      "rom": "commando"
+    },
+    {
+      "id": "arc_223",
+      "text": "Karate Champ (1984) by Data East is one of the earliest one-on-one martial arts fighting games in arcade history.",
+      "system": "mame",
+      "rom": "kchamp"
+    },
+    {
+      "id": "arc_224",
+      "text": "Ikari Warriors (1986) used twin rotary joysticks — the left stick moved the soldier, the right independently controlled aiming direction.",
+      "system": "mame",
+      "rom": "ikari"
+    },
+    {
+      "id": "arc_225",
+      "text": "Hyper Sports (1984) was Konami's sequel to Track & Field, adding swimming, high jump, and skeet shooting events.",
+      "system": "mame",
+      "rom": "hyperspt"
+    },
+    {
+      "id": "arc_226",
+      "text": "Strider (1989) featured acrobatic ninja combat with a cinematic scrolling style and enemies that filled the screen.",
+      "system": "mame",
+      "rom": "strider"
+    },
+    {
+      "id": "arc_227",
+      "text": "Lode Runner (1983) was one of the first games to ship with a built-in level editor for creating custom stages.",
+      "system": "mame",
+      "rom": "loderun"
+    },
+    {
+      "id": "arc_228",
+      "text": "Elevator Action (1983) cast a spy infiltrating office buildings to retrieve secret documents from marked doorways.",
+      "system": "mame",
+      "rom": "elevator"
+    },
+    {
+      "id": "arc_229",
+      "text": "Hard Drivin' (1989) by Atari was the first arcade game to simulate realistic 3D vehicle physics, including a loop and a stunt jump.",
+      "system": "mame",
+      "rom": "harddriv"
+    },
+    {
+      "id": "arc_230",
+      "text": "Super Sprint (1986) by Atari offered simultaneous three-player racing on overhead track layouts visible on a single screen.",
+      "system": "mame",
+      "rom": "ssprint"
+    },
+    {
+      "id": "arc_231",
+      "text": "Sega Rally Championship (1994) simulated distinct surface handling — the car behaved differently on tarmac, gravel, and muddy track.",
+      "system": "sega_model_2",
+      "rom": "srallyc"
+    },
+    {
+      "id": "arc_232",
+      "text": "Scud Race (1996) supported four linked cabinets for simultaneous multiplayer racing on Sega's Model 3 Step 2 hardware.",
+      "system": "sega_model_3",
+      "rom": "scud"
+    },
+    {
+      "id": "arc_233",
+      "text": "Ferrari F355 Challenge (1999) offered a full enclosed cockpit cabinet with a force-feedback wheel, clutch pedal, and H-gate shifter.",
+      "system": "sega_naomi",
+      "rom": "f355dl"
+    },
+    {
+      "id": "arc_234",
+      "text": "Star Wars Trilogy Arcade (1998) was a first-person rail shooter on Sega Model 3 hardware recreating battle scenes from all three films.",
+      "system": "sega_model_3",
+      "rom": "swtrilgy"
+    },
+    {
+      "id": "arc_235",
+      "text": "The original Virtua Fighter (1993) ran on Sega's Model 1 hardware, while its sequel Virtua Fighter 2 upgraded to the more powerful Model 2.",
+      "system": "sega_model_2",
+      "rom": "vf2"
+    },
+    {
+      "id": "arc_236",
+      "text": "Virtua Fighter 3 (1996) introduced side-stepping and the stagger recovery system, adding a third defensive dimension to 3D combat.",
+      "system": "sega_model_3",
+      "rom": "vf3"
+    },
+    {
+      "id": "arc_237",
+      "text": "Fatal Fury (1991) by SNK introduced a two-plane fighting mechanic, letting fighters dodge into the background to avoid attacks.",
+      "system": "neogeo",
+      "rom": "fatfury1"
+    },
+    {
+      "id": "arc_238",
+      "text": "Art of Fighting (1992) introduced a visible spirit gauge that depleted with each special move, requiring energy management.",
+      "system": "neogeo",
+      "rom": "aof"
+    },
+    {
+      "id": "arc_239",
+      "text": "The Last Blade (1997) featured a precise slash-timing combat system with two distinct weapon stances per character.",
+      "system": "neogeo",
+      "rom": "lastbld"
+    },
+    {
+      "id": "arc_240",
+      "text": "Garou: Mark of the Wolves (1999) is widely regarded as SNK's finest 2D fighting game, praised for balance and visual detail.",
+      "system": "neogeo",
+      "rom": "garou"
+    },
+    {
+      "id": "arc_241",
+      "text": "Mortal Kombat II (1993) added 'Babalities' that turned defeated opponents into crying babies as a humorous counterpart to fatalities.",
+      "system": "mame",
+      "rom": "mk2"
+    },
+    {
+      "id": "arc_242",
+      "text": "Mortal Kombat 3 (1995) introduced a run button and Kombat Kodes entered before matches to unlock hidden modes and characters.",
+      "system": "mame",
+      "rom": "mk3"
+    },
+    {
+      "id": "arc_243",
+      "text": "Killer Instinct (1994) by Rare introduced combo breakers — specific inputs that could interrupt an opponent's combo string mid-sequence.",
+      "system": "mame",
+      "rom": "kinst"
+    },
+    {
+      "id": "arc_244",
+      "text": "Primal Rage (1994) used claymation-style models to create digitized prehistoric monsters battling for control of a ruined Earth.",
+      "system": "mame",
+      "rom": "primrage"
+    },
+    {
+      "id": "arc_245",
+      "text": "Darkstalkers: The Night Warriors (1994) introduced supernatural monster characters — vampires, werewolves, and mummies — to Capcom's fighting genre.",
+      "system": "mame",
+      "rom": "dstlk"
+    },
+    {
+      "id": "arc_246",
+      "text": "Super Street Fighter II Turbo (1994) added the Super Combo gauge, allowing players to store energy for powerful finishing moves.",
+      "system": "mame",
+      "rom": "ssf2t"
+    },
+    {
+      "id": "arc_247",
+      "text": "Street Fighter III: Third Strike (1999) introduced a parry system that deflected any incoming attack with precise forward-input timing.",
+      "system": "mame",
+      "rom": "sfiii3"
+    },
+    {
+      "id": "arc_248",
+      "text": "Street Fighter Alpha 2 (1996) refined the original Alpha's custom combo mechanic and expanded the roster with new fighters.",
+      "system": "mame",
+      "rom": "sfa2"
+    },
+    {
+      "id": "arc_249",
+      "text": "Captain Commando (1991) set its four-player beat-em-up in a futuristic Metro City, decades after the events of Final Fight.",
+      "system": "mame",
+      "rom": "captcomm"
+    },
+    {
+      "id": "arc_250",
+      "text": "Warriors of Fate (1992) was set in ancient China and loosely based on the Romance of the Three Kingdoms saga.",
+      "system": "mame",
+      "rom": "wof"
+    },
+    {
+      "id": "arc_251",
+      "text": "Armored Warriors (1994) by Capcom allowed players to customize mech suits mid-stage by swapping defeated enemy parts.",
+      "system": "mame",
+      "rom": "armwar"
+    },
+    {
+      "id": "arc_252",
+      "text": "Battle Circuit (1997) was Capcom's final arcade beat-em-up, featuring a cyberpunk theme and five playable alien hunters.",
+      "system": "mame",
+      "rom": "batcir"
+    },
+    {
+      "id": "arc_253",
+      "text": "King of Dragons (1991) offered five character classes — fighter, cleric, wizard, elf, and dwarf — each with distinct combat styles.",
+      "system": "mame",
+      "rom": "kod"
+    },
+    {
+      "id": "arc_254",
+      "text": "Dungeons & Dragons: Tower of Doom (1993) was the first of two Capcom D&D arcade games, using the official ruleset for spells and items.",
+      "system": "mame",
+      "rom": "ddtod"
+    },
+    {
+      "id": "arc_255",
+      "text": "Lethal Enforcers (1992) used photorealistic digitized graphics to depict criminals and bystanders, sparking controversy about realism.",
+      "system": "mame",
+      "rom": "lenfor"
+    },
+    {
+      "id": "arc_256",
+      "text": "Area 51 (1995) cast players as secret government agents fighting a full-scale alien invasion at the classified Nevada test site.",
+      "system": "mame",
+      "rom": "area51"
+    },
+    {
+      "id": "arc_257",
+      "text": "Point Blank (1994) was a collection of quirky target-shooting mini-games that became a popular multiplayer arcade party game.",
+      "system": "mame",
+      "rom": "ptblank"
+    },
+    {
+      "id": "arc_258",
+      "text": "Puyo Puyo (1991) challenged players to match color blobs and chain combinations to drop garbage Puyos onto the opponent's field.",
+      "system": "mame",
+      "rom": "puyopuyo"
+    },
+    {
+      "id": "arc_259",
+      "text": "Magical Drop (1995) required players to catch and launch colored bubbles at matching chains in high-speed pattern recognition.",
+      "system": "neogeo",
+      "rom": "mgcdrop"
+    },
+    {
+      "id": "arc_260",
+      "text": "Columns (1990) by Sega was a vertical gem-matching puzzle where sets of three colored jewels fell and needed color alignment.",
+      "system": "mame",
+      "rom": "columns"
+    },
+    {
+      "id": "arc_261",
+      "text": "Smash TV (1990) by Williams used twin joysticks for an arena shooter set inside a violent futuristic game show.",
+      "system": "mame",
+      "rom": "smashtv"
+    },
+    {
+      "id": "arc_262",
+      "text": "Total Carnage (1992) was the spiritual successor to Smash TV, continuing the game-show violence theme with more chaos.",
+      "system": "mame",
+      "rom": "totcarn"
+    },
+    {
+      "id": "arc_263",
+      "text": "NARC (1988) was one of the first arcade games depicting graphic drug-related content, generating controversy in North America.",
+      "system": "mame",
+      "rom": "narc"
+    },
+    {
+      "id": "arc_264",
+      "text": "NBA Jam's commentary line 'He's on fire!' triggered when a player sank three consecutive baskets without the opponent scoring.",
+      "system": "mame",
+      "rom": "nbajam"
+    },
+    {
+      "id": "arc_265",
+      "text": "NFL Blitz (1997) allowed late-hit tackles and pile-ons after the whistle, delivering an exaggerated take on American football.",
+      "system": "mame",
+      "rom": "nflblitz"
+    },
+    {
+      "id": "arc_266",
+      "text": "Arch Rivals (1989) by Midway was a basketball arcade game with no fouls — players could freely punch opponents to steal the ball.",
+      "system": "mame",
+      "rom": "archrivl"
+    },
+    {
+      "id": "arc_267",
+      "text": "Major Havoc (1983) by Atari combined a vector tube shooter with brief platform game sequences aboard enemy space stations.",
+      "system": "mame",
+      "rom": "mjhavoc"
+    },
+    {
+      "id": "arc_268",
+      "text": "Black Widow (1982) was Atari's twin-stick vector shooter where players controlled a spider defending a web from insect invaders.",
+      "system": "mame",
+      "rom": "bwidow"
+    },
+    {
+      "id": "arc_269",
+      "text": "Millipede (1982) was Atari's sequel to Centipede, adding beetles, bees, dragonflies, and earwigs to the insect roster.",
+      "system": "mame",
+      "rom": "milliped"
+    },
+    {
+      "id": "arc_270",
+      "text": "Phoenix (1980) introduced destructible rotating enemy shields and a multi-phase mother ship boss as a finale.",
+      "system": "mame",
+      "rom": "phoenix"
+    },
+    {
+      "id": "arc_271",
+      "text": "Vanguard (1981) was one of the first shooters allowing fire in four directions — up, down, left, and right simultaneously.",
+      "system": "mame",
+      "rom": "vanguard"
+    },
+    {
+      "id": "arc_272",
+      "text": "Gorf (1981) by Midway combined five distinct shooting game modes into a single cabinet, cycling through different challenges.",
+      "system": "mame",
+      "rom": "gorf"
+    },
+    {
+      "id": "arc_273",
+      "text": "Pac-Man designer Toru Iwatani has stated the character's circular shape was inspired by a pizza with one slice removed.",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "arc_274",
+      "text": "Donkey Kong creator Shigeru Miyamoto named the game 'Donkey Kong' believing the word 'donkey' conveyed stubbornness in English.",
+      "system": "mame",
+      "rom": "dkong"
+    },
+    {
+      "id": "arc_275",
+      "text": "Space Invaders designer Tomohiro Nishikado hand-built custom hardware from scratch because no existing chip was fast enough.",
+      "system": "mame",
+      "rom": "invaders"
+    },
+    {
+      "id": "arc_276",
+      "text": "Nintendo's VS. System brought Famicom titles including Super Mario Bros. and Duck Hunt to arcades in the mid-1980s.",
+      "system": "mame",
+      "rom": "vsmarios"
+    },
+    {
+      "id": "arc_277",
+      "text": "The original Street Fighter (1987) was Capcom's first one-on-one fighting game, introducing Ryu and Ken to the world.",
+      "system": "mame",
+      "rom": "sf1"
+    },
+    {
+      "id": "arc_278",
+      "text": "Street Fighter II's combo system was discovered accidentally by competitive players and was retroactively embraced by Capcom.",
+      "system": "mame",
+      "rom": "sf2"
+    },
+    {
+      "id": "arc_279",
+      "text": "Street Fighter II Championship Edition (1992) was the first version allowing players to choose the four boss characters.",
+      "system": "mame",
+      "rom": "sf2ce"
+    },
+    {
+      "id": "arc_280",
+      "text": "Ghosts 'n Goblins (1985) required players to complete the game twice consecutively to reach the true ending.",
+      "system": "mame",
+      "rom": "ghosts"
+    },
+    {
+      "id": "arc_281",
+      "text": "Ghouls 'n Ghosts (1988) was the praised sequel to Ghosts 'n Goblins, improving graphics and adding a double jump mechanic.",
+      "system": "mame",
+      "rom": "ghouls"
+    },
+    {
+      "id": "arc_282",
+      "text": "Forgotten Worlds (1988) used twin rotary joysticks for full 360-degree aiming independent of movement direction.",
+      "system": "mame",
+      "rom": "forgottn"
+    },
+    {
+      "id": "arc_283",
+      "text": "Mercs (1990) was a cooperative sequel to Commando, adding three-player support and hostage rescue missions.",
+      "system": "mame",
+      "rom": "mercs"
+    },
+    {
+      "id": "arc_284",
+      "text": "Gun.Smoke (1985) was Capcom's Wild West overhead shooter where the hero walked north while enemies attacked from all sides.",
+      "system": "mame",
+      "rom": "gunsmoke"
+    },
+    {
+      "id": "arc_285",
+      "text": "The Punisher (1993) let players choose between Frank Castle or Nick Fury as their character in cooperative play.",
+      "system": "mame",
+      "rom": "punisher"
+    },
+    {
+      "id": "arc_286",
+      "text": "Captain America and the Avengers (1991) by Data East was an early four-player Marvel superhero beat-em-up.",
+      "system": "mame",
+      "rom": "captaven"
+    },
+    {
+      "id": "arc_287",
+      "text": "Alien vs. Predator (1994) by Capcom supported three simultaneous players, including the option to play as a Predator.",
+      "system": "mame",
+      "rom": "avp"
+    },
+    {
+      "id": "arc_288",
+      "text": "The King of Fighters '94 established the team-based tournament format, grouping characters from Fatal Fury and Art of Fighting.",
+      "system": "neogeo",
+      "rom": "kof94"
+    },
+    {
+      "id": "arc_289",
+      "text": "Sega's NAOMI hardware shared nearly identical architecture with the Dreamcast home console, enabling near-perfect home ports.",
+      "system": "sega_naomi",
+      "rom": "naomi"
+    },
+    {
+      "id": "arc_290",
+      "text": "The Neo Geo MVS arcade cabinet could hold up to six interchangeable game cartridges simultaneously.",
+      "system": "neogeo",
+      "rom": "neogeo"
+    },
+    {
+      "id": "arc_291",
+      "text": "Metal Slug 3 is widely considered the series' peak, featuring the longest final mission with a UFO abduction sequence.",
+      "system": "neogeo",
+      "rom": "mslug3"
+    },
+    {
+      "id": "arc_292",
+      "text": "Metal Slug X (1999) was an enhanced version of Metal Slug 2, adding new weapons and fixing slowdown from the original.",
+      "system": "neogeo",
+      "rom": "mslugx"
+    },
+    {
+      "id": "arc_293",
+      "text": "Shock Troopers (1997) offered multiple route choices through each stage, providing high replay value on the Neo Geo.",
+      "system": "neogeo",
+      "rom": "shocktro"
+    },
+    {
+      "id": "arc_294",
+      "text": "Crazy Taxi's original arcade version featured licensed music from The Offspring and Bad Religion.",
+      "system": "sega_naomi",
+      "rom": "crzytaxi"
+    },
+    {
+      "id": "arc_295",
+      "text": "Daytona USA's theme song 'Let's Go Away' became one of the most recognized pieces of arcade music ever composed.",
+      "system": "sega_model_2",
+      "rom": "daytona"
+    },
+    {
+      "id": "arc_296",
+      "text": "Initial D Arcade Stage used IC memory cards to save car tuning data and personal lap records between sessions.",
+      "system": "sega_naomi",
+      "rom": "initiald"
+    },
+    {
+      "id": "arc_297",
+      "text": "Pop'n Music (1998) by Konami uses nine large colored buttons arranged in an arc for musical input.",
+      "system": "mame",
+      "rom": "popnmusic"
+    },
+    {
+      "id": "arc_298",
+      "text": "Taiko no Tatsujin (2001) simulates traditional Japanese taiko drumming using a large drum controller with two striking zones.",
+      "system": "mame",
+      "rom": "taiko"
+    },
+    {
+      "id": "arc_299",
+      "text": "DrumMania (1999) by Konami uses a five-pad drum kit plus a hi-hat controller for rhythm performance gameplay.",
+      "system": "mame",
+      "rom": "drummania"
+    },
+    {
+      "id": "arc_300",
+      "text": "Pac-Man's maze contains exactly 240 regular dots and 4 power pellets — every single one must be eaten to clear the level.",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "arc_301",
+      "text": "Space Invaders speeds up as enemies are destroyed, creating mounting tension as the last few aliens race frantically across the screen.",
+      "system": "mame",
+      "rom": "invaders"
+    },
+    {
+      "id": "arc_302",
+      "text": "Asteroids' playing field wraps around all edges — objects exiting one side of the screen reappear from the opposite side.",
+      "system": "mame",
+      "rom": "asteroid"
+    },
+    {
+      "id": "arc_303",
+      "text": "Q*bert's speech bubble insults when he falls off the pyramid display a string of symbols representing colorful expletives.",
+      "system": "mame",
+      "rom": "qbert"
+    },
+    {
+      "id": "arc_304",
+      "text": "Gauntlet's narrator counted down player health aloud with lines like 'Warrior needs food badly!' to encourage coin insertion.",
+      "system": "mame",
+      "rom": "gauntlet"
+    },
+    {
+      "id": "arc_305",
+      "text": "In Galaga, allowing an enemy to capture your ship and then rescuing it creates a dual-fighter that doubles your firepower.",
+      "system": "mame",
+      "rom": "galaga"
+    },
+    {
+      "id": "arc_306",
+      "text": "Battlezone (1980) was adapted into an actual tank training simulator by the US Army, modified to resemble their Bradley IFV.",
+      "system": "mame",
+      "rom": "bzone"
+    },
+    {
+      "id": "arc_307",
+      "text": "Mortal Kombat's graphic fatalities directly contributed to the creation of the ESRB video game rating system in 1994.",
+      "system": "mame",
+      "rom": "mk"
+    },
+    {
+      "id": "arc_308",
+      "text": "Street Fighter II's competitive tournaments are credited with establishing the foundations of modern esports culture.",
+      "system": "mame",
+      "rom": "sf2"
+    },
+    {
+      "id": "arc_309",
+      "text": "Dragon's Lair's laserdisc cabinet cost approximately four times more than a standard arcade game cabinet of its era.",
+      "system": "daphne",
+      "rom": "dle11"
+    },
+    {
+      "id": "arc_310",
+      "text": "Space Ace (1983) was the second laserdisc arcade game by Don Bluth's team, designed as a faster and harder companion to Dragon's Lair.",
+      "system": "daphne",
+      "rom": "ace"
+    },
+    {
+      "id": "arc_311",
+      "text": "Cliff Hanger (1983) was a laserdisc arcade game created from scenes of two Lupin III anime films.",
+      "system": "daphne",
+      "rom": "cliffhgr"
+    },
+    {
+      "id": "arc_312",
+      "text": "The Star Wars (1983) arcade game by Atari used vector graphics to recreate the Death Star trench run in first-person perspective.",
+      "system": "mame",
+      "rom": "starwars"
+    },
+    {
+      "id": "arc_313",
+      "text": "Atari's Star Wars arcade used yoke flight controls, placing the player in the cockpit of Luke Skywalker's X-Wing.",
+      "system": "mame",
+      "rom": "starwars"
+    },
+    {
+      "id": "arc_314",
+      "text": "Mappy (1983) by Namco starred a police mouse riding trampolines through multi-floor houses to recover stolen goods.",
+      "system": "mame",
+      "rom": "mappy"
+    },
+    {
+      "id": "arc_315",
+      "text": "The Tower of Druaga (1984) by Namco was one of the earliest action RPG hybrid arcade games, hiding secrets across 60 floors.",
+      "system": "mame",
+      "rom": "todruaga"
+    },
+    {
+      "id": "arc_316",
+      "text": "Dragon Spirit (1987) by Namco was a dragon-themed vertical shooter where power-ups let the dragon grow additional heads.",
+      "system": "mame",
+      "rom": "dspirit"
+    },
+    {
+      "id": "arc_317",
+      "text": "Pac-Man was designed with female players in mind — Namco's Toru Iwatani deliberately avoided violence to attract a broader audience.",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "arc_318",
+      "text": "Centipede was one of the first arcade games to attract a significant female player base in North American arcades.",
+      "system": "mame",
+      "rom": "centiped"
+    },
+    {
+      "id": "arc_319",
+      "text": "Real Bout Fatal Fury (1995) added ring-out mechanics, allowing fighters to be knocked off stage edges for dramatic finishes.",
+      "system": "neogeo",
+      "rom": "rbff"
+    },
+    {
+      "id": "arc_320",
+      "text": "Puzzle Bobble 2 (1995) expanded the original formula with more complex bubble arrangements and new magical power-up types.",
+      "system": "mame",
+      "rom": "pbobble2"
+    },
+    {
+      "id": "arc_321",
+      "text": "Neo Turf Masters (1996) was widely praised as one of the finest arcade golf games, with realistic swing mechanics on Neo Geo.",
+      "system": "neogeo",
+      "rom": "neotmpl"
+    },
+    {
+      "id": "arc_322",
+      "text": "Hang-On (1985) by Sega was an early sit-astride motorcycle racing game, with the cabinet designed as a real bike to steer.",
+      "system": "mame",
+      "rom": "hangon"
+    },
+    {
+      "id": "arc_323",
+      "text": "Super Hang-On (1987) refined the motorcycle racing formula with smoother speed sensation and multiple race circuits.",
+      "system": "mame",
+      "rom": "shangon"
+    },
+    {
+      "id": "arc_324",
+      "text": "Power Drift (1988) by Sega featured extreme stunt kart racing through dramatically banked and looping track sections.",
+      "system": "mame",
+      "rom": "pdrift"
+    },
+    {
+      "id": "arc_325",
+      "text": "Thunder Blade (1987) by Sega simulated helicopter combat from both a top-down overhead view and a third-person cockpit perspective.",
+      "system": "mame",
+      "rom": "thndrbld"
+    },
+    {
+      "id": "arc_326",
+      "text": "Galaxy Force II (1988) featured a full 360-degree hydraulic rotating cabinet for an immersive tube-shooter experience.",
+      "system": "mame",
+      "rom": "gforce2"
+    },
+    {
+      "id": "arc_327",
+      "text": "Alpine Racer (1994) by Namco used ski-boot-shaped controllers that players physically leaned and shifted to steer.",
+      "system": "mame",
+      "rom": "alpinr"
+    },
+    {
+      "id": "arc_328",
+      "text": "Prop Cycle (1996) by Namco required players to pedal a real bicycle mechanism to fly a hang glider through sky races.",
+      "system": "mame",
+      "rom": "propcycl"
+    },
+    {
+      "id": "arc_329",
+      "text": "Top Skater (1997) by Sega mounted a real skateboard deck as the controller for its street skating arcade gameplay.",
+      "system": "sega_model_2",
+      "rom": "topsktr"
+    },
+    {
+      "id": "arc_330",
+      "text": "Stun Runner (1990) by Atari offered futuristic cockpit tube racing with a full enclosed cabinet for immersion.",
+      "system": "mame",
+      "rom": "stunrun"
+    },
+    {
+      "id": "arc_331",
+      "text": "Pole Position II (1983) by Namco added multiple race circuits to the original's single Fuji Speedway course.",
+      "system": "mame",
+      "rom": "polepos2"
+    },
+    {
+      "id": "arc_332",
+      "text": "Chase H.Q. (1988) by Taito blended high-speed racing with police pursuit, requiring players to ram fleeing criminals off the road.",
+      "system": "mame",
+      "rom": "chasehq"
+    },
+    {
+      "id": "arc_333",
+      "text": "Off Road (1987) by Leland Corporation offered three-player simultaneous off-road truck racing with a top-down view.",
+      "system": "mame",
+      "rom": "offroad"
+    },
+    {
+      "id": "arc_334",
+      "text": "Virtua Tennis (1999) on NAOMI hardware modeled real-world Grand Slam tournament brackets and court surfaces.",
+      "system": "sega_naomi",
+      "rom": "vtennis"
+    },
+    {
+      "id": "arc_335",
+      "text": "NFL Blitz (1997) allowed players to perform exaggerated sack celebrations and trash talk during gameplay via the cabinet controls.",
+      "system": "mame",
+      "rom": "nflblitz"
+    },
+    {
+      "id": "arc_336",
+      "text": "Yie Ar Kung-Fu (1985) by Konami was an early one-on-one fighting game featuring a diverse cast of weapon-carrying opponents.",
+      "system": "mame",
+      "rom": "yiear"
+    },
+    {
+      "id": "arc_337",
+      "text": "P.O.W.: Prisoners of War (1988) by SNK was a gritty beat-em-up about escaping a prison camp while fighting guards.",
+      "system": "mame",
+      "rom": "pow"
+    },
+    {
+      "id": "arc_338",
+      "text": "Karnov (1987) starred a tattooed fire-breathing circus strongman navigating fantasy stages — an unusual hero for its era.",
+      "system": "mame",
+      "rom": "karnov"
+    },
+    {
+      "id": "arc_339",
+      "text": "Mr. Do! (1982) featured a unicorn clown that could roll a ball at enemies or use falling apples as deadly traps.",
+      "system": "mame",
+      "rom": "mrdo"
+    },
+    {
+      "id": "arc_340",
+      "text": "Congo Bongo (1983) by Sega was an isometric platformer set in an African jungle, often compared to a 3D Donkey Kong.",
+      "system": "mame",
+      "rom": "congo"
+    },
+    {
+      "id": "arc_341",
+      "text": "1942 (1984) was Capcom's first major scrolling shooter hit, placing the player in a P-38 Lightning fighter over the Pacific.",
+      "system": "mame",
+      "rom": "1942"
+    },
+    {
+      "id": "arc_342",
+      "text": "1943: The Battle of Midway (1987) added a combined health and fuel meter — not shooting allowed the meter to slowly refill.",
+      "system": "mame",
+      "rom": "1943"
+    },
+    {
+      "id": "arc_343",
+      "text": "Pac-Man at level 256 displays a corrupted split-screen caused by a software counter overflow, ending the game permanently.",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "arc_344",
+      "text": "Galaga's challenging-stage bonus rounds featured no enemies that could fire, making them pure shooting practice opportunities.",
+      "system": "mame",
+      "rom": "galaga"
+    },
+    {
+      "id": "arc_345",
+      "text": "Tempest's tube shape changes every few levels, cycling through circles, squares, stars, and abstract geometric forms.",
+      "system": "mame",
+      "rom": "tempest"
+    },
+    {
+      "id": "arc_346",
+      "text": "Defender's five-button control layout — reverse, thrust, fire, smart bomb, hyperspace — was famously complex for its era.",
+      "system": "mame",
+      "rom": "defender"
+    },
+    {
+      "id": "arc_347",
+      "text": "Street Fighter Alpha 3 (1998) featured the largest playable character roster of any Capcom fighter released in the 1990s.",
+      "system": "mame",
+      "rom": "sfa3"
+    },
+    {
+      "id": "arc_348",
+      "text": "Dead or Alive (1996) by Tecmo introduced a counter-attack system where blocking at the perfect moment could reverse any combo.",
+      "system": "mame",
+      "rom": "doa"
+    },
+    {
+      "id": "arc_349",
+      "text": "Cyber Sled (1993) by Namco was an early 3D tank combat game running on the Namco System 21 hardware.",
+      "system": "mame",
+      "rom": "cybsled"
+    },
+    {
+      "id": "arc_350",
+      "text": "Samurai Shodown II (1994) expanded the weapon-based fighting formula with six new characters and a deeper combo system.",
+      "system": "neogeo",
+      "rom": "samsho2"
+    },
+    {
+      "id": "arc_351",
+      "text": "The King of Fighters '96 introduced the small jump, allowing quick air attacks that transformed offensive strategy.",
+      "system": "neogeo",
+      "rom": "kof96"
+    },
+    {
+      "id": "arc_352",
+      "text": "KOF '98 Ultimate Match is considered the definitive version of the 1998 entry, adding bonus characters and rebalanced gameplay.",
+      "system": "neogeo",
+      "rom": "kof98um"
+    },
+    {
+      "id": "arc_353",
+      "text": "Real Bout Fatal Fury 2 refined the ring-out system and introduced a dedicated break move to escape corner pressure.",
+      "system": "neogeo",
+      "rom": "rbff2"
+    },
+    {
+      "id": "arc_354",
+      "text": "The Last Blade 2 expanded the original's samurai combat with more characters and a refined special-attack timing system.",
+      "system": "neogeo",
+      "rom": "lastbld2"
+    },
+    {
+      "id": "arc_355",
+      "text": "Bubble Bobble's True Ending required two players to reach the final boss together, encouraging cooperative play throughout.",
+      "system": "mame",
+      "rom": "bublbobl"
+    },
+    {
+      "id": "arc_356",
+      "text": "Gradius II introduced new weapon option configurations, letting players choose their power-up loadout before each stage.",
+      "system": "mame",
+      "rom": "gradius2"
+    },
+    {
+      "id": "arc_357",
+      "text": "Life Force (Salamander) was a joint horizontal and vertical scrolling shoot-em-up, alternating scroll direction per stage.",
+      "system": "mame",
+      "rom": "lifefrce"
+    },
+    {
+      "id": "arc_358",
+      "text": "Darius Gaiden (1994) added a black hole bomb mechanic that created a miniature gravity well, pulling enemies toward it.",
+      "system": "mame",
+      "rom": "dariusg"
+    },
+    {
+      "id": "arc_359",
+      "text": "Raiden II introduced a purple plasma laser that could be charged for more power, alongside the iconic lightning weapon.",
+      "system": "mame",
+      "rom": "raiden2"
+    },
+    {
+      "id": "arc_360",
+      "text": "R-Type II (1989) added new ship options and a second Force pod that could be deployed ahead of or behind the player.",
+      "system": "mame",
+      "rom": "rtype2"
+    },
+    {
+      "id": "arc_361",
+      "text": "Midnight Resistance (1989) used twin rotary joysticks to independently aim a gun while navigating side-scrolling stages.",
+      "system": "mame",
+      "rom": "midres"
+    },
+    {
+      "id": "arc_362",
+      "text": "Ghosts 'n Goblins protagonist Sir Arthur loses his armor after one hit, fighting on in only his boxer shorts.",
+      "system": "mame",
+      "rom": "ghosts"
+    },
+    {
+      "id": "arc_363",
+      "text": "Golden Axe's Death Adder became one of the most iconic arcade villain designs of the 1980s.",
+      "system": "mame",
+      "rom": "goldnaxe"
+    },
+    {
+      "id": "arc_364",
+      "text": "Double Dragon's simultaneous two-player mode introduced occasional friendly-fire comedy between co-op partners.",
+      "system": "mame",
+      "rom": "ddragon"
+    },
+    {
+      "id": "arc_365",
+      "text": "Final Fight's Mike Haggar, a pro wrestler turned mayor, became one of Capcom's most enduring supporting characters.",
+      "system": "mame",
+      "rom": "ffight"
+    },
+    {
+      "id": "arc_366",
+      "text": "TMNT: Turtles in Time included time-travel stages set in ancient prehistoric and futuristic settings.",
+      "system": "mame",
+      "rom": "tmnt2"
+    },
+    {
+      "id": "arc_367",
+      "text": "Dungeons & Dragons: Shadow over Mystara allowed four players to choose from six character classes including a magic-user.",
+      "system": "mame",
+      "rom": "ddsom"
+    },
+    {
+      "id": "arc_368",
+      "text": "Tekken (1994) was one of the first 3D fighting games to use texture-mapped polygon characters instead of wireframe models.",
+      "system": "mame",
+      "rom": "tekken"
+    },
+    {
+      "id": "arc_369",
+      "text": "Ridge Racer (1993) introduced powerslide drift racing mechanics that became a defining feature of Namco's racing franchise.",
+      "system": "mame",
+      "rom": "ridgerac"
+    },
+    {
+      "id": "arc_370",
+      "text": "OutRun's Ferrari Testarossa cabinet became an icon of 1980s arcade culture, with its distinct red sports car shell.",
+      "system": "mame",
+      "rom": "outrun"
+    },
+    {
+      "id": "arc_371",
+      "text": "Japanese arcades (game centers) have historically remained open until midnight or beyond, becoming social gathering spaces.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "arc_372",
+      "text": "The golden age of arcade video games is generally recognized as 1978 to 1983, generating billions of dollars annually.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "arc_373",
+      "text": "Arcade operators in the 1980s measured their machines' success in coins per hour — top performers could earn over $400 a week.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "arc_374",
+      "text": "The cocktail cabinet format placed the screen flat under glass, letting two players sit opposite each other at a table.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "arc_375",
+      "text": "Many early arcade cabinets used custom overlay art painted directly onto the monitor glass to frame the playing field.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "arc_376",
+      "text": "Pac-Man ghost Clyde (orange) is unique — he moves away from Pac-Man when he gets too close, rather than pursuing him.",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "arc_377",
+      "text": "In the Japanese arcade version of Pac-Man, the four ghosts are named Oikake, Machibuse, Kimagure, and Otoboke.",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "arc_378",
+      "text": "Galaga's ship-capture tactic — letting an enemy take your ship and rescuing it — was a deliberate gameplay feature the designers included.",
+      "system": "mame",
+      "rom": "galaga"
+    },
+    {
+      "id": "arc_379",
+      "text": "Robotron: 2084 designer Eugene Jarvis also created Defender, making him responsible for two of the hardest classic arcade games.",
+      "system": "mame",
+      "rom": "robotron"
+    },
+    {
+      "id": "arc_380",
+      "text": "Ms. Pac-Man outsold the original Pac-Man over its lifetime and is often considered the more polished version of the two.",
+      "system": "mame",
+      "rom": "mspacman"
+    },
+    {
+      "id": "arc_381",
+      "text": "The Simpsons arcade (1991) by Konami was released just two years after the show's television premiere.",
+      "system": "mame",
+      "rom": "simpsons"
+    },
+    {
+      "id": "arc_382",
+      "text": "X-Men's six-player cabinet version used two linked three-player units placed side-by-side with a shared wide display.",
+      "system": "mame",
+      "rom": "xmen"
+    },
+    {
+      "id": "arc_383",
+      "text": "NBA Jam's arcade version included hidden celebrity players such as President Bill Clinton and Congressman Pat Riley.",
+      "system": "mame",
+      "rom": "nbajam"
+    },
+    {
+      "id": "arc_384",
+      "text": "Spy Hunter's cabinet played the Peter Gunn theme — making it one of the first arcade games to use a well-known licensed song.",
+      "system": "mame",
+      "rom": "spyhunt"
+    },
+    {
+      "id": "arc_385",
+      "text": "Tron's arcade cabinet featured four separate mini-games — Light Cycles, MCP Cone, Grid Bugs, and I/O Tower — in one machine.",
+      "system": "mame",
+      "rom": "tron"
+    },
+    {
+      "id": "arc_386",
+      "text": "Galaxian's sprites moved independently rather than in a locked grid, setting it apart from Space Invaders visually and technically.",
+      "system": "mame",
+      "rom": "galaxian"
+    },
+    {
+      "id": "arc_387",
+      "text": "Phoenix (1980) by Amstar Electronics was one of the first games to feature a boss battle at the end of a stage sequence.",
+      "system": "mame",
+      "rom": "phoenix"
+    },
+    {
+      "id": "arc_388",
+      "text": "Gravitar (1982) by Atari combined Lunar Lander thrust physics with Asteroids-style combat inside planetary cave environments.",
+      "system": "mame",
+      "rom": "gravitar"
+    },
+    {
+      "id": "arc_389",
+      "text": "Tempest was designed by Dave Theurer and was originally inspired by a nightmare he had about monsters climbing from a hole.",
+      "system": "mame",
+      "rom": "tempest"
+    },
+    {
+      "id": "arc_390",
+      "text": "Missile Command designer Dave Theurer reportedly had recurring nightmares about nuclear war during the game's development.",
+      "system": "mame",
+      "rom": "missile"
+    },
+    {
+      "id": "arc_391",
+      "text": "Street Fighter II Hyper Fighting (1992) increased game speed and gave the four boss characters additional special moves.",
+      "system": "mame",
+      "rom": "sf2hf"
+    },
+    {
+      "id": "arc_392",
+      "text": "Virtua Fighter 2's polygon count was roughly ten times higher than the original Virtua Fighter, making characters look far more realistic.",
+      "system": "sega_model_2",
+      "rom": "vf2"
+    },
+    {
+      "id": "arc_393",
+      "text": "Soulcalibur's 1999 Dreamcast port was so close to arcade quality it was celebrated as one of the finest console ports ever made.",
+      "system": "sega_naomi",
+      "rom": "soulcalb"
+    },
+    {
+      "id": "arc_394",
+      "text": "Tekken Tag Tournament (1999) was one of the launch titles for the PlayStation 2, showcasing the hardware's power.",
+      "system": "mame",
+      "rom": "tekken3"
+    },
+    {
+      "id": "arc_395",
+      "text": "The King of Fighters '99 introduced a fourth striker character mechanic, allowing a fifth team member brief cameo attacks.",
+      "system": "neogeo",
+      "rom": "kof99"
+    },
+    {
+      "id": "arc_396",
+      "text": "Puzzle Bobble (Bust-A-Move) began as a spinoff of Bubble Bobble, reusing its dragon characters in a new puzzle format.",
+      "system": "mame",
+      "rom": "pbobble"
+    },
+    {
+      "id": "arc_397",
+      "text": "Gradius established the 'Options' power-up concept — trailing shadow ships that mimicked the player's exact movements.",
+      "system": "mame",
+      "rom": "gradius"
+    },
+    {
+      "id": "arc_398",
+      "text": "Toobin' (1988) by Atari Games simulated river tubing, with players floating down rapids and dodging hazards in their inner tubes.",
+      "system": "mame",
+      "rom": "toobin"
+    },
+    {
+      "id": "arc_399",
+      "text": "Cyberball (1988) by Atari Games was a futuristic football game featuring exploding robots, played on a large rotating cabinet.",
+      "system": "mame",
+      "rom": "cyberbal"
+    },
+    {
+      "id": "arc_400",
+      "text": "The arcade era produced some of the most enduring game franchises — Pac-Man, Street Fighter, Mortal Kombat, and Tekken all began as coin-op cabinets.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "arc_401",
+      "text": "Galaga (1981) introduced the concept of enemy capture — a Galaga boss could tractor-beam the player's ship and hold it hostage, allowing a dual-ship mode if rescued.",
+      "system": "mame",
+      "rom": "galaga"
+    },
+    {
+      "id": "arc_402",
+      "text": "Xevious (1982) by Namco was one of the first vertically scrolling shooters with both aerial and ground targets, requiring different weapons for each.",
+      "system": "mame",
+      "rom": "xevious"
+    },
+    {
+      "id": "arc_403",
+      "text": "1942 (1984) by Capcom was set in the Pacific theater of WWII and allowed players to perform a looping barrel roll to dodge enemy fire.",
+      "system": "mame",
+      "rom": "1942"
+    },
+    {
+      "id": "arc_404",
+      "text": "Raiden (1990) by Seibu Kaihatsu became one of the most ported arcade shooters of its era, spawning sequels well into the 2000s.",
+      "system": "mame",
+      "rom": "raiden"
+    },
+    {
+      "id": "arc_405",
+      "text": "Gradius (1985) by Konami introduced the Options power-up system, where glowing orbs followed the player ship and mimicked its weapon fire.",
+      "system": "mame",
+      "rom": "gradius"
+    },
+    {
+      "id": "arc_406",
+      "text": "Life Force (1986) alternated between horizontal and vertical scrolling sections inside a living organism, based on the Salamander hardware variant of Gradius.",
+      "system": "mame",
+      "rom": "lifefrce"
+    },
+    {
+      "id": "arc_407",
+      "text": "Darius (1986) by Taito used a triple-width monitor setup — three screens side by side — to create its famously wide playfield.",
+      "system": "mame",
+      "rom": "darius"
+    },
+    {
+      "id": "arc_408",
+      "text": "Raiden II (1993) added the Plasma laser weapon and new power-up paths, becoming a staple in arcades and later on home consoles and PC.",
+      "system": "mame",
+      "rom": "raiden2"
+    },
+    {
+      "id": "arc_409",
+      "text": "R-Type (1987) by Irem featured the iconic Force pod accessory that could be docked to the ship or detached as a shield and independent weapon.",
+      "system": "mame",
+      "rom": "rtype"
+    },
+    {
+      "id": "arc_410",
+      "text": "Vanguard (1981) by SNK/Centuri was one of the first arcade games to feature music playing continuously during gameplay, including a snippet of 'It's a Long Way to Tipperary'.",
+      "system": "mame",
+      "rom": "vanguard"
+    },
+    {
+      "id": "arc_411",
+      "text": "Gyruss (1983) by Konami used a tube-shooter perspective inspired by Tempest, where the player orbited the screen edge while enemies swarmed from the center.",
+      "system": "mame",
+      "rom": "gyruss"
+    },
+    {
+      "id": "arc_412",
+      "text": "Scramble (1981) by Konami is often cited as the first horizontally scrolling shooter with forced scrolling and fuel management mechanics.",
+      "system": "mame",
+      "rom": "scramble"
+    },
+    {
+      "id": "arc_413",
+      "text": "Phoenix (1980) by Centuri featured a boss alien with a destructible shield, making it one of the earliest arcade games with a shielded end-of-level boss.",
+      "system": "mame",
+      "rom": "phoenix"
+    },
+    {
+      "id": "arc_414",
+      "text": "Gradius II (1988) featured four selectable weapon configurations at the start, greatly expanding the strategic variety compared to the original Gradius.",
+      "system": "mame",
+      "rom": "gradius2"
+    },
+    {
+      "id": "arc_415",
+      "text": "Darius Gaiden (1994) added a Black Hole Bomb that created a miniature black hole on screen, and was the first Darius to fit on a single standard monitor.",
+      "system": "mame",
+      "rom": "dariusg"
+    },
+    {
+      "id": "arc_416",
+      "text": "Mappy (1983) by Namco starred a mouse police officer navigating a mansion on trampolines to recover stolen goods from Mewkies and their boss Goro.",
+      "system": "mame",
+      "rom": "mappy"
+    },
+    {
+      "id": "arc_417",
+      "text": "Dig Dug (1982) by Namco let players inflate enemies with an air pump until they exploded, or drop rocks on them — a dual method of defeat unique for its time.",
+      "system": "mame",
+      "rom": "digdug"
+    },
+    {
+      "id": "arc_418",
+      "text": "Mr. Do! (1982) by Universal featured a clown who could throw a power ball and used falling apples as crowd-control weapons against enemies.",
+      "system": "mame",
+      "rom": "mrdo"
+    },
+    {
+      "id": "arc_419",
+      "text": "Pengo (1982) by Sega starred an Antarctic penguin who could push and throw ice blocks to crush enemies called Sno-Bees.",
+      "system": "mame",
+      "rom": "pengo"
+    },
+    {
+      "id": "arc_420",
+      "text": "Lode Runner (1983) by Broderbund (arcade version by Universal) popularized the trap-digging mechanic where players dug floor tiles to drop enemies into holes.",
+      "system": "mame",
+      "rom": "loderun"
+    },
+    {
+      "id": "arc_421",
+      "text": "Pac-Land (1984) by Namco was a horizontally scrolling platformer starring Pac-Man, a departure from the original maze format and a precursor to the platformer genre.",
+      "system": "mame",
+      "rom": "pacland"
+    },
+    {
+      "id": "arc_422",
+      "text": "Bubble Bobble (1986) by Taito starred twin dragons Bub and Bob who trapped enemies in bubbles — popping bubbles turned enemies into food collectibles.",
+      "system": "mame",
+      "rom": "bublbobl"
+    },
+    {
+      "id": "arc_423",
+      "text": "Elevator Action (1983) by Taito tasked players with descending a building using elevators and escalators to collect secret documents while shooting enemy agents.",
+      "system": "mame",
+      "rom": "elevator"
+    },
+    {
+      "id": "arc_424",
+      "text": "Congo Bongo (1983) by Sega used a pseudo-3D isometric perspective — unusual for its era — as a spiritual sequel to Zaxxon's isometric style but in a platformer format.",
+      "system": "mame",
+      "rom": "congo"
+    },
+    {
+      "id": "arc_425",
+      "text": "Popeye (1982) by Nintendo featured Popeye collecting hearts and musical notes thrown by Olive Oyl while dodging Bluto, with spinach granting temporary invincibility.",
+      "system": "mame",
+      "rom": "popeye"
+    },
+    {
+      "id": "arc_426",
+      "text": "Donkey Kong Jr. (1982) cast the player as Donkey Kong's son rescuing his father from Mario's cage — the only arcade game where Mario is explicitly the villain.",
+      "system": "mame",
+      "rom": "dkongjr"
+    },
+    {
+      "id": "arc_427",
+      "text": "Donkey Kong 3 (1983) replaced the ladder-climbing gameplay with a vertically scrolling shooter where Stanley the exterminator sprayed bugs to push Donkey Kong up.",
+      "system": "mame",
+      "rom": "dkong3"
+    },
+    {
+      "id": "arc_428",
+      "text": "Castle Wolfenstein and its descendants influenced Commando (1985), one of the first overhead run-and-gun arcade games by Capcom.",
+      "system": "mame",
+      "rom": "commando"
+    },
+    {
+      "id": "arc_429",
+      "text": "Ikari Warriors (1986) by SNK used a rotary joystick that allowed the player's character to aim in one direction while moving in another — an innovation for the genre.",
+      "system": "mame",
+      "rom": "ikari"
+    },
+    {
+      "id": "arc_430",
+      "text": "Tapper (1983) by Midway cast players as a bartender sliding mugs of beer down bars to customers, becoming one of the earliest games with a licensed brand (Budweiser).",
+      "system": "mame",
+      "rom": "tapper"
+    },
+    {
+      "id": "arc_431",
+      "text": "Kung-Fu Master (1984) by Irem is widely considered the first beat-em-up game, featuring a single-plane scrolling corridor fighter named Thomas.",
+      "system": "mame",
+      "rom": "kungfum"
+    },
+    {
+      "id": "arc_432",
+      "text": "Double Dragon (1987) by Technos Japan introduced the concept of cooperative two-player beat-em-up where each player controlled a brother, Billy and Jimmy Lee.",
+      "system": "mame",
+      "rom": "ddragon"
+    },
+    {
+      "id": "arc_433",
+      "text": "Final Fight (1989) by Capcom starred Mike Haggar, a wrestling mayor, and became the defining belt-scrolling beat-em-up of its generation.",
+      "system": "mame",
+      "rom": "ffight"
+    },
+    {
+      "id": "arc_434",
+      "text": "Final Fight 2 (1993) added Maki and Carlos as new playable characters and expanded the roster of enemies, continuing the Metro City storyline.",
+      "system": "mame",
+      "rom": "ffight2"
+    },
+    {
+      "id": "arc_435",
+      "text": "Golden Axe (1989) by Sega featured three playable heroes with individual magic systems using collected potion vials, each triggering different screen-clearing spells.",
+      "system": "mame",
+      "rom": "goldnaxe"
+    },
+    {
+      "id": "arc_436",
+      "text": "Cadillacs and Dinosaurs (1993) by Capcom was based on the comic and TV show 'Xenozoic Tales', featuring characters fighting in a post-apocalyptic world overrun by dinosaurs.",
+      "system": "mame",
+      "rom": "captcomm"
+    },
+    {
+      "id": "arc_437",
+      "text": "Knights of the Round (1991) by Capcom was an Arthurian beat-em-up where characters leveled up visually — gaining armor and weapons as they progressed through the game.",
+      "system": "mame",
+      "rom": "knights"
+    },
+    {
+      "id": "arc_438",
+      "text": "King of Dragons (1991) by Capcom let players choose from five character classes including a wizard, dwarf, and elf, each with unique attack ranges and magic abilities.",
+      "system": "mame",
+      "rom": "kod"
+    },
+    {
+      "id": "arc_439",
+      "text": "Warriors of Fate (1992) by Capcom was set in Three Kingdoms-era China and featured five warrior archetypes loosely based on historical figures.",
+      "system": "mame",
+      "rom": "wof"
+    },
+    {
+      "id": "arc_440",
+      "text": "Dungeons & Dragons: Tower of Doom (1994) by Capcom was the first licensed D&D arcade game, using actual D&D spells, monsters, and mechanics including alignment tracking.",
+      "system": "mame",
+      "rom": "ddtod"
+    },
+    {
+      "id": "arc_441",
+      "text": "D&D: Shadow over Mystara (1996) expanded on Tower of Doom with a magic item system, multiple branching paths, and six playable character classes.",
+      "system": "mame",
+      "rom": "ddsom"
+    },
+    {
+      "id": "arc_442",
+      "text": "Captain Commando (1991) by Capcom introduced the character Captain Commando, Capcom's promotional mascot of the late 1980s, as a playable hero in a futuristic beat-em-up.",
+      "system": "mame",
+      "rom": "captaven"
+    },
+    {
+      "id": "arc_443",
+      "text": "Armored Warriors (1994) by Capcom featured mechs instead of human fighters and a unique parts-swap system where destroyed enemies dropped arms, legs, and weapons.",
+      "system": "mame",
+      "rom": "armwar"
+    },
+    {
+      "id": "arc_444",
+      "text": "Battle Circuit (1997) was Capcom's final CPS-2 beat-em-up and featured anime-styled sci-fi characters with a combo system closer to a fighting game than a traditional brawler.",
+      "system": "mame",
+      "rom": "batcir"
+    },
+    {
+      "id": "arc_445",
+      "text": "Alien vs. Predator (1994) by Capcom allowed players to choose between two Predators or two Colonial Marines, each with distinct weapons and playstyles.",
+      "system": "mame",
+      "rom": "avp"
+    },
+    {
+      "id": "arc_446",
+      "text": "Pole Position (1982) by Namco was the first racing game to feature a real licensed track — Fuji Speedway — and became the top-grossing arcade game in the US in 1983.",
+      "system": "mame",
+      "rom": "polepos"
+    },
+    {
+      "id": "arc_447",
+      "text": "Pole Position II (1983) added four selectable courses and became one of Atari's best-selling arcade games of the early 1980s.",
+      "system": "mame",
+      "rom": "polepos2"
+    },
+    {
+      "id": "arc_448",
+      "text": "Hang-On (1985) by Sega used a full-body motorcycle cabinet where leaning the bike controlled steering — Sega's first 'super scaler' sprite-scaling game.",
+      "system": "mame",
+      "rom": "hangon"
+    },
+    {
+      "id": "arc_449",
+      "text": "Enduro Racer (1986) by Sega was a motocross game that used the same Super Scaler hardware as Hang-On but added jumps, hills, and dirt terrain.",
+      "system": "mame",
+      "rom": "edroman"
+    },
+    {
+      "id": "arc_450",
+      "text": "Power Drift (1988) by Sega used the Y-Board hardware to render a smooth pseudo-3D kart-style racing experience with multiple branching course paths.",
+      "system": "mame",
+      "rom": "pdrift"
+    },
+    {
+      "id": "arc_451",
+      "text": "Chase H.Q. (1988) by Taito was a police pursuit racing game where players had to ram criminal cars until they stopped — one of the first vehicular-combat racers.",
+      "system": "mame",
+      "rom": "chasehq"
+    },
+    {
+      "id": "arc_452",
+      "text": "Rave Racer (1995) by Namco ran on System 22 hardware and added night racing and weather conditions, building on the Ridge Racer series.",
+      "system": "mame",
+      "rom": "ravracer"
+    },
+    {
+      "id": "arc_453",
+      "text": "Sega Rally Championship (1994) used the Model 2 board and introduced surface-physics simulation — cars handled differently on gravel, tarmac, and dirt.",
+      "system": "sega_model_2",
+      "rom": "srallyc"
+    },
+    {
+      "id": "arc_454",
+      "text": "Scud Race (1996) by Sega (known as Super GT outside Japan) used the Model 3 board and featured four licensed car manufacturers: Ferrari, Porsche, Mercedes, and McLaren.",
+      "system": "sega_model_3",
+      "rom": "scud"
+    },
+    {
+      "id": "arc_455",
+      "text": "F355 Challenge (1999) by Sega required players to use the full clutch, brake, and gas pedal with a force-feedback wheel, one of the most realistic arcade racers of its era.",
+      "system": "sega_naomi",
+      "rom": "f355dl"
+    },
+    {
+      "id": "arc_456",
+      "text": "Cruis'n USA (1994) by Midway used digitized photo-realistic graphics and featured actual US landmarks on its cross-country routes.",
+      "system": "mame",
+      "rom": "crusnusa"
+    },
+    {
+      "id": "arc_457",
+      "text": "Cruis'n World (1996) expanded the formula to international destinations including China, Kenya, and Australia, while retaining the accessible arcade handling.",
+      "system": "mame",
+      "rom": "crusnwld"
+    },
+    {
+      "id": "arc_458",
+      "text": "San Francisco Rush (1996) by Atari Games featured stunt jumps and hidden tracks in a point-to-point city course format, influencing later arcade-style racers.",
+      "system": "mame",
+      "rom": "sfrushtk"
+    },
+    {
+      "id": "arc_459",
+      "text": "Off Road (1987) by Leland Corporation was a four-player off-road truck racing game using four side-by-side monitors and individual pedal sets.",
+      "system": "mame",
+      "rom": "offroad"
+    },
+    {
+      "id": "arc_460",
+      "text": "Super Sprint (1986) by Atari Games was an overhead racing game supporting three simultaneous players on a single screen, with cars that could be upgraded between races.",
+      "system": "mame",
+      "rom": "ssprint"
+    },
+    {
+      "id": "arc_461",
+      "text": "Operation Wolf (1987) by Taito was the first light-gun game to use an uzi-style machine gun controller with a trigger, changing the feel of the genre entirely.",
+      "system": "mame",
+      "rom": "opwolf"
+    },
+    {
+      "id": "arc_462",
+      "text": "Virtua Cop (1994) by Sega used the Model 2 board and introduced the concept of reloading by shooting off-screen, which became a genre standard.",
+      "system": "sega_model_2",
+      "rom": "vcop"
+    },
+    {
+      "id": "arc_463",
+      "text": "Point Blank (1994) by Namco featured a series of absurd skill-based mini-game challenges in a carnival shooting gallery format.",
+      "system": "mame",
+      "rom": "ptblank"
+    },
+    {
+      "id": "arc_464",
+      "text": "Area 51 (1995) by Atari Games was one of the first light-gun games to use pre-rendered full-motion video backgrounds for its enemies and environments.",
+      "system": "mame",
+      "rom": "area51"
+    },
+    {
+      "id": "arc_465",
+      "text": "Lethal Enforcers (1992) by Konami used digitized photographs of real actors as enemies and was notable for its photorealistic aesthetic and semi-automatic pistol controller.",
+      "system": "mame",
+      "rom": "lenfor"
+    },
+    {
+      "id": "arc_466",
+      "text": "Alien³: The Gun (1993) by Sega used a full-auto rifle controller and was one of the first movie-licensed light-gun games with a multi-stage narrative structure.",
+      "system": "mame",
+      "rom": "aliensyn"
+    },
+    {
+      "id": "arc_467",
+      "text": "Silent Scope (1999) by Konami used a rifle cabinet with a real-size sniper scope that contained a miniature LCD screen showing a magnified view of the target.",
+      "system": "sega_naomi",
+      "rom": "sscope"
+    },
+    {
+      "id": "arc_468",
+      "text": "The Walking Dead (2017) by Raw Thrills updated the zombie-shooter genre for a modern audience, running on PC hardware inside a dedicated cabinet.",
+      "system": "mame",
+      "rom": "walkingdead"
+    },
+    {
+      "id": "arc_469",
+      "text": "Para Para Paradise (1999) by Konami used motion sensors above the cabinet to detect arm movements, creating a hands-free rhythm game tied to Eurobeat music.",
+      "system": "mame",
+      "rom": "parapar"
+    },
+    {
+      "id": "arc_470",
+      "text": "Fatal Fury (1991) by SNK introduced the two-lane fighting system where characters could dodge into a background plane to avoid attacks.",
+      "system": "mame",
+      "rom": "fatfury1"
+    },
+    {
+      "id": "arc_471",
+      "text": "Art of Fighting (1992) by SNK introduced the spirit gauge — a Super Meter — that drained when special moves were used and depleted fireball size accordingly.",
+      "system": "mame",
+      "rom": "aof"
+    },
+    {
+      "id": "arc_472",
+      "text": "The King of Fighters '94 (1994) by SNK introduced team-based fighting where players selected three characters and competed in an elimination round format.",
+      "system": "mame",
+      "rom": "kof94"
+    },
+    {
+      "id": "arc_473",
+      "text": "The King of Fighters '96 introduced a new engine with running dashes, air throws, and a new roll-escape mechanic, replacing the hop system.",
+      "system": "mame",
+      "rom": "kof96"
+    },
+    {
+      "id": "arc_474",
+      "text": "The King of Fighters '99 transitioned to a four-member Striker System, allowing a fourth character to be called in for a single-hit assist attack.",
+      "system": "mame",
+      "rom": "kof99"
+    },
+    {
+      "id": "arc_475",
+      "text": "Last Blade (1997) by SNK set its fighting game in feudal Japan and distinguished itself with a speed/power mode selection that fundamentally changed how characters played.",
+      "system": "mame",
+      "rom": "lastbld"
+    },
+    {
+      "id": "arc_476",
+      "text": "Last Blade 2 (1998) refined the system with a third 'EX Mode' and is widely considered one of the most visually beautiful 2D fighters on Neo Geo hardware.",
+      "system": "mame",
+      "rom": "lastbld2"
+    },
+    {
+      "id": "arc_477",
+      "text": "Garou: Mark of the Wolves (1999) was the final Fatal Fury entry and introduced the T.O.P. system — a selectable active zone on the life bar granting power boosts.",
+      "system": "mame",
+      "rom": "garou"
+    },
+    {
+      "id": "arc_478",
+      "text": "Real Bout Fatal Fury (1995) removed ring-outs from the two-plane system and replaced the life bar with a two-section gauge, making comebacks more dramatic.",
+      "system": "mame",
+      "rom": "rbff"
+    },
+    {
+      "id": "arc_479",
+      "text": "Real Bout Fatal Fury 2 (1998) streamlined the roster to 16 characters and is considered the most polished entry in the Fatal Fury series.",
+      "system": "mame",
+      "rom": "rbff2"
+    },
+    {
+      "id": "arc_480",
+      "text": "Samurai Shodown II (1994) sharpened the weapon-clash system and added Earthquake as a new villain, becoming the highest-regarded game in the series.",
+      "system": "mame",
+      "rom": "samsho2"
+    },
+    {
+      "id": "arc_481",
+      "text": "Samurai Shodown (1993) by SNK featured a unique 'rage gauge' that temporarily powered up a losing player, creating dramatic comeback moments.",
+      "system": "mame",
+      "rom": "samsho"
+    },
+    {
+      "id": "arc_482",
+      "text": "World Heroes (1992) by ADK/SNK parodied historical figures as fighters and featured a 'Death Match' mode where the arena contained electrified wires and exploding mines.",
+      "system": "mame",
+      "rom": "wh1"
+    },
+    {
+      "id": "arc_483",
+      "text": "Voltage Fighter Gowcaizer (1995) by Technos/Hudson for Neo Geo featured 'Caizer Stones' that gave characters additional super moves when equipped — an early form of customizable loadouts.",
+      "system": "neogeo",
+      "rom": "gowcaizr"
+    },
+    {
+      "id": "arc_484",
+      "text": "Breakers (1996) by Visco was a lesser-known Neo Geo fighter praised for its responsive controls, breakout mechanics, and colorful international cast.",
+      "system": "neogeo",
+      "rom": "breakers"
+    },
+    {
+      "id": "arc_485",
+      "text": "Street Fighter (1987) was the first game to use a pressure-sensitive button system — pressing harder produced more powerful attacks — though this was later replaced with six buttons.",
+      "system": "mame",
+      "rom": "sf1"
+    },
+    {
+      "id": "arc_486",
+      "text": "Street Fighter II: Champion Edition (1992) allowed players to mirror-match as the same character for the first time in a fighting game.",
+      "system": "mame",
+      "rom": "sf2ce"
+    },
+    {
+      "id": "arc_487",
+      "text": "Street Fighter II: Hyper Fighting (1992) increased game speed and added new moves for several characters, directly in response to bootleg 'Rainbow Edition' ROMs.",
+      "system": "mame",
+      "rom": "sf2hf"
+    },
+    {
+      "id": "arc_488",
+      "text": "Super Street Fighter II Turbo (1994) introduced Super Combos accessed via a separate super meter, and added Akuma as a secret final boss character.",
+      "system": "mame",
+      "rom": "ssf2t"
+    },
+    {
+      "id": "arc_489",
+      "text": "Street Fighter Alpha (1995) introduced the Alpha Counter and Custom Combo systems, reviving classic characters like Guy, Birdie, and Sodom from Final Fight.",
+      "system": "mame",
+      "rom": "sfz"
+    },
+    {
+      "id": "arc_490",
+      "text": "Street Fighter Alpha 2 (1996) added custom combo levels and V-ism mode and is often cited as the most balanced entry in the Alpha sub-series.",
+      "system": "mame",
+      "rom": "sfa2"
+    },
+    {
+      "id": "arc_491",
+      "text": "Street Fighter Alpha 3 (1998) introduced the three-mode ISM system (V, A, X) allowing dramatically different playstyles per character.",
+      "system": "mame",
+      "rom": "sfa3"
+    },
+    {
+      "id": "arc_492",
+      "text": "Street Fighter III: 3rd Strike (1999) introduced the parry system — timed forward taps deflected attacks — creating a deep mind-game layer that defined high-level play.",
+      "system": "mame",
+      "rom": "sfiii3"
+    },
+    {
+      "id": "arc_493",
+      "text": "Marvel Super Heroes (1995) by Capcom introduced Infinity Gems that granted temporary power boosts, tied to the Marvel comic storyline.",
+      "system": "mame",
+      "rom": "msh"
+    },
+    {
+      "id": "arc_494",
+      "text": "X-Men: Children of the Atom (1994) by Capcom was the first Marvel vs. Capcom-lineage fighter, featuring air-dashes and super jump mechanics from the anime X-Men.",
+      "system": "mame",
+      "rom": "xmen"
+    },
+    {
+      "id": "arc_495",
+      "text": "Marvel vs. Capcom (1998) introduced the Duo Team Attack feature, allowing both characters to be controlled simultaneously during a super move.",
+      "system": "mame",
+      "rom": "mvsc"
+    },
+    {
+      "id": "arc_496",
+      "text": "Darkstalkers (1994) by Capcom introduced chain combos — canceling normal attacks into each other — a technique that influenced all subsequent Capcom fighting games.",
+      "system": "mame",
+      "rom": "dstlk"
+    },
+    {
+      "id": "arc_497",
+      "text": "Rival Schools (1997) by Capcom used a team-battle format with an Assist Break mechanic, and its high school setting was unusual for the fighting game genre.",
+      "system": "mame",
+      "rom": "rival"
+    },
+    {
+      "id": "arc_498",
+      "text": "Killer Instinct (1994) by Rare/Midway introduced Combo Breakers — defensive interrupts that could stop an opponent's combo string mid-sequence.",
+      "system": "mame",
+      "rom": "kinst"
+    },
+    {
+      "id": "arc_499",
+      "text": "Primal Rage (1994) by Atari Games featured dinosaur and ape gods fighting on a post-apocalyptic Earth, with a unique combo notation system and a controversial 'Golden Shower' fatality.",
+      "system": "mame",
+      "rom": "primrage"
+    },
+    {
+      "id": "arc_500",
+      "text": "Virtua Fighter (1992) by Sega AM2 was the world's first 3D polygon fighting game, running on the Model 1 arcade board with flat-shaded polygons.",
+      "system": "mame",
+      "rom": "vf"
+    },
+    {
+      "id": "arc_501",
+      "text": "Virtua Fighter 2 (1994) upgraded to the Model 2 board with texture mapping and smooth animation, becoming one of the most-played arcade games in Japan.",
+      "system": "mame",
+      "rom": "vf2"
+    },
+    {
+      "id": "arc_502",
+      "text": "Virtua Fighter 3 (1996) added an uneven terrain system — characters' footing shifted on sloped stages — a physics innovation no other fighting game matched at the time.",
+      "system": "sega_model_3",
+      "rom": "vf3"
+    },
+    {
+      "id": "arc_503",
+      "text": "Tekken (1994) by Namco used separate buttons for each limb (left punch, right punch, left kick, right kick) rather than the strength-based system of Street Fighter.",
+      "system": "mame",
+      "rom": "tekken"
+    },
+    {
+      "id": "arc_504",
+      "text": "Soul Edge (1996) by Namco (later renamed Soul Blade on home consoles) was the first weapons-based 3D fighting game to feature breakable weapon meters.",
+      "system": "mame",
+      "rom": "souledge"
+    },
+    {
+      "id": "arc_505",
+      "text": "Soul Calibur (1998) by Namco on NAOMI hardware was praised for its 8-Way Run system allowing free lateral movement, earning a perfect 10/10 from many gaming publications.",
+      "system": "sega_naomi",
+      "rom": "soulclbr"
+    },
+    {
+      "id": "arc_506",
+      "text": "Dead or Alive (1996) by Tecmo on the Model 2 board introduced the Danger Zone system — hazards around the ring boundary that launched juggled opponents.",
+      "system": "sega_model_2",
+      "rom": "doa"
+    },
+    {
+      "id": "arc_508",
+      "text": "Puyo Puyo (1991) by Compile is a falling-piece puzzle game where pairs of colored blobs chain into combos — 'nuisance Puyos' fall on the opponent's field during chains.",
+      "system": "mame",
+      "rom": "puyopuyo"
+    },
+    {
+      "id": "arc_509",
+      "text": "Magical Drop III (1997) by Data East was a fast-paced single-screen puzzle game where the player pulled and launched colored balls from the bottom row upward.",
+      "system": "mame",
+      "rom": "mgcdrop"
+    },
+    {
+      "id": "arc_510",
+      "text": "Columns (1990) by Sega was a falling-gem puzzle game with diagonal and L-shaped match patterns, popular as a pack-in title for the Game Gear and Genesis.",
+      "system": "mame",
+      "rom": "columns"
+    },
+    {
+      "id": "arc_511",
+      "text": "Arkanoid (1986) by Taito was a spiritual successor to Breakout using a moving Vaus spaceship paddle and power-up capsules that dramatically altered gameplay.",
+      "system": "mame",
+      "rom": "arkanoid"
+    },
+    {
+      "id": "arc_512",
+      "text": "Breakout (1976) by Atari was designed by Steve Wozniak (with Steve Jobs as producer) and used discrete logic chips rather than a microprocessor.",
+      "system": "mame",
+      "rom": "breakout"
+    },
+    {
+      "id": "arc_513",
+      "text": "Marble Madness (1984) by Atari used a trackball controller and isometric 3D graphics to simulate a marble rolling through obstacle courses against the clock.",
+      "system": "mame",
+      "rom": "marblem"
+    },
+    {
+      "id": "arc_514",
+      "text": "Klax (1989) by Atari Games challenged players to catch and stack colored tiles into rows on a conveyor belt — it was the first game Atari pitched specifically as a handheld title.",
+      "system": "mame",
+      "rom": "klax"
+    },
+    {
+      "id": "arc_515",
+      "text": "Puzzle Bobble (1994) by Taito (Bust-a-Move) used the characters from Bubble Bobble to shoot and match colored bubbles in an arched arrangement from the bottom.",
+      "system": "mame",
+      "rom": "pbobble"
+    },
+    {
+      "id": "arc_516",
+      "text": "Puzzle Bobble 2 (1995) introduced a wider variety of stage shapes and was the first in the series to include a cursor line showing the bubble's trajectory.",
+      "system": "mame",
+      "rom": "pbobble2"
+    },
+    {
+      "id": "arc_517",
+      "text": "Buster Bros. (1989) by Capcom (Mitchell Corp.) tasked players with splitting and destroying progressively smaller bouncing balls before they touched the player.",
+      "system": "mame",
+      "rom": "pang"
+    },
+    {
+      "id": "arc_518",
+      "text": "Neo Turf Masters (1996) by Nazca/SNK was a top-down golf game on Neo Geo hardware praised for its smooth animation and intuitive three-press swing meter.",
+      "system": "neogeo",
+      "rom": "neotmpl"
+    },
+    {
+      "id": "arc_519",
+      "text": "Neo Bomberman (1997) on Neo Geo added teams mode and color-coded bombs, staying close to the classic Hudson formula but with enhanced visuals.",
+      "system": "neogeo",
+      "rom": "neobombe"
+    },
+    {
+      "id": "arc_520",
+      "text": "NBA Jam (1993) by Midway used digitized player faces on cartoon bodies and popularized the phrase 'He's on fire!' via its announcer when a player hit three consecutive baskets.",
+      "system": "mame",
+      "rom": "nbajam"
+    },
+    {
+      "id": "arc_521",
+      "text": "NBA Jam Tournament Edition (1994) added 1,000 new players, codes for hidden characters including President Clinton, and the 'On Fire' power-up mode.",
+      "system": "mame",
+      "rom": "nbajamte"
+    },
+    {
+      "id": "arc_522",
+      "text": "NFL Blitz (1997) by Midway applied the NBA Jam formula to football — late hits, no penalties, and exaggerated players made it a casual sports arcade hit.",
+      "system": "mame",
+      "rom": "nflblitz"
+    },
+    {
+      "id": "arc_523",
+      "text": "Wayne Gretzky's 3D Hockey (1996) by Midway used the same digitized-player tech as NBA Jam and NFL Blitz and featured hockey's first 3D arcade treatment.",
+      "system": "mame",
+      "rom": "wgretzky"
+    },
+    {
+      "id": "arc_524",
+      "text": "Track & Field (1983) by Konami required players to rapidly hammer two buttons to build speed for running events, a mechanic that damaged many control panels from player abuse.",
+      "system": "mame",
+      "rom": "trackfld"
+    },
+    {
+      "id": "arc_525",
+      "text": "Hyper Sports (1984) by Konami expanded on Track & Field with seven new events including swimming, skeet shooting, and long horse gymnastics.",
+      "system": "mame",
+      "rom": "hyperspt"
+    },
+    {
+      "id": "arc_526",
+      "text": "Arch Rivals (1989) by Midway was a two-on-two basketball game that predated NBA Jam and featured legal — and illegal — body checking between players.",
+      "system": "mame",
+      "rom": "archrivl"
+    },
+    {
+      "id": "arc_527",
+      "text": "World Jammer (Windjammers) (1994) by Data East on Neo Geo is a flying disc sport game where players slam a disc past opponents — it has seen a competitive revival in the 2010s.",
+      "system": "mame",
+      "rom": "wjammers"
+    },
+    {
+      "id": "arc_528",
+      "text": "Virtual Tennis (1999) by Sega on NAOMI hardware was praised for its accessible two-button controls that perfectly replicated the feel of tennis timing.",
+      "system": "sega_naomi",
+      "rom": "vtennis"
+    },
+    {
+      "id": "arc_529",
+      "text": "Virtua Striker (1994) by Sega on Model 2 was the first fully 3D soccer game, using the same hardware engine developed for Virtua Fighter 2.",
+      "system": "sega_model_2",
+      "rom": "vstriker"
+    },
+    {
+      "id": "arc_530",
+      "text": "beatmania (1997) by Konami launched the Bemani rhythm game brand and introduced the DJ turntable and key controller that defined the series.",
+      "system": "mame",
+      "rom": "beatmania"
+    },
+    {
+      "id": "arc_531",
+      "text": "beatmania 2nd Mix (1998) expanded the song library and introduced the style-switching DJ mechanics that became standard for the series.",
+      "system": "mame",
+      "rom": "bm2ndmix"
+    },
+    {
+      "id": "arc_532",
+      "text": "Pop'n Music (1998) by Konami used nine large colorful buttons in a wide arc, accommodating multiple simultaneous button presses with both hands.",
+      "system": "mame",
+      "rom": "popnmusic"
+    },
+    {
+      "id": "arc_533",
+      "text": "Taiko no Tatsujin (2001) by Namco used a large taiko drum controller where players struck the face (don) and rim (ka) in rhythm with on-screen notes.",
+      "system": "mame",
+      "rom": "taiko"
+    },
+    {
+      "id": "arc_534",
+      "text": "Guitar Freaks (1998) by Konami introduced the five-fret guitar controller that directly inspired the later Guitar Hero home game series.",
+      "system": "mame",
+      "rom": "gtfrk"
+    },
+    {
+      "id": "arc_535",
+      "text": "DrumMania (1999) by Konami used a real drum kit layout and was designed to be linked with Guitar Freaks cabinets for a joint band session mode.",
+      "system": "mame",
+      "rom": "drummania"
+    },
+    {
+      "id": "arc_536",
+      "text": "Dance Dance Revolution MAX (2002) introduced the Marvelous timing window — a tighter judgment than Perfect — raising the skill ceiling for top-level players.",
+      "system": "mame",
+      "rom": "ddrmax"
+    },
+    {
+      "id": "arc_537",
+      "text": "DDR Extreme (2002) featured over 70 songs and introduced the Oni/Challenge difficulty mode with step counts exceeding 800 on some tracks.",
+      "system": "mame",
+      "rom": "ddrextreme"
+    },
+    {
+      "id": "arc_538",
+      "text": "Pump It Up 2nd Mix (1999) by Andamiro added diagonal corner arrows to the dance pad layout, creating a 5-panel configuration distinct from DDR's 4-panel design.",
+      "system": "mame",
+      "rom": "pumpitup"
+    },
+    {
+      "id": "arc_539",
+      "text": "Hard Drivin' (1988) by Atari Games was the first arcade game with a true physics-based 3D driving engine, including a rollover stunt loop and realistic crash simulation.",
+      "system": "mame",
+      "rom": "harddriv"
+    },
+    {
+      "id": "arc_540",
+      "text": "Stun Runner (1989) by Atari Games used a full sit-down pod cabinet and an abstract tube-based racing course, pushing the limits of the TMS34010 hardware.",
+      "system": "mame",
+      "rom": "stunrun"
+    },
+    {
+      "id": "arc_541",
+      "text": "Prop Cycle (1996) by Namco used a full bicycle cabinet where pedaling the bike controlled altitude in a hang-glider game set above island landscapes.",
+      "system": "mame",
+      "rom": "propcycl"
+    },
+    {
+      "id": "arc_542",
+      "text": "Alpine Racer (1995) by Namco used two ski-pole-style handles and a rotating platform to simulate downhill skiing through a slalom course.",
+      "system": "mame",
+      "rom": "alpinr"
+    },
+    {
+      "id": "arc_543",
+      "text": "Top Skater (1997) by Sega used a real skateboard deck mounted on rollers as the controller, predating Tony Hawk's Pro Skater by two years.",
+      "system": "mame",
+      "rom": "topsktr"
+    },
+    {
+      "id": "arc_544",
+      "text": "Ace Driver (1994) by Namco ran on the System Super 22 hardware and used a full force-feedback steering wheel and bucket seat in its deluxe cabinet.",
+      "system": "mame",
+      "rom": "ace"
+    },
+    {
+      "id": "arc_545",
+      "text": "Galaxian3: Project Dragoon (1990) by Namco was a 28-player co-op space shooter ride attraction installed at Expo '90, one of the largest arcade experiences ever built.",
+      "system": "mame",
+      "rom": "galxywrs"
+    },
+    {
+      "id": "arc_546",
+      "text": "Lunar Lander (1979) by Atari was the first commercial vector graphics arcade game, tasking players with safely landing a craft on the moon using thrust controls.",
+      "system": "mame",
+      "rom": "llander"
+    },
+    {
+      "id": "arc_547",
+      "text": "Gravitar (1982) by Atari used vector graphics and a physics-based rotation and thrust system across multiple planetary environments with gravity differences.",
+      "system": "mame",
+      "rom": "gravitar"
+    },
+    {
+      "id": "arc_548",
+      "text": "Battle Zone (1980) by Atari put players in a first-person tank perspective using vector graphics and a periscope-style dual-stick cabinet.",
+      "system": "mame",
+      "rom": "bzone"
+    },
+    {
+      "id": "arc_550",
+      "text": "Major Havoc (1983) by Atari combined a Tempest-style tube shooter with a platformer when players docked with space stations, making it a genre hybrid.",
+      "system": "mame",
+      "rom": "mjhavoc"
+    },
+    {
+      "id": "arc_551",
+      "text": "Black Widow (1982) by Atari was a dual-stick shooter using vector graphics where players controlled a spider defending their web from various insects.",
+      "system": "mame",
+      "rom": "bwidow"
+    },
+    {
+      "id": "arc_552",
+      "text": "Millipede (1982) by Atari expanded on Centipede with new insects, magic wands, and a DDT bomb power-up, adding strategic depth to the formula.",
+      "system": "mame",
+      "rom": "milliped"
+    },
+    {
+      "id": "arc_553",
+      "text": "Toobin' (1988) by Atari Games had players steering rubber inner tubes down whitewater rapids, throwing cans at enemies while collecting bonus letters.",
+      "system": "mame",
+      "rom": "toobin"
+    },
+    {
+      "id": "arc_554",
+      "text": "Cyberball (1988) by Atari Games was a futuristic robot football game where the ball would explode if neither team scored quickly enough, adding time pressure.",
+      "system": "mame",
+      "rom": "cyberbal"
+    },
+    {
+      "id": "arc_555",
+      "text": "Xybots (1987) by Atari Games was an early third-person corridor shooter supporting two players who could rotate their viewing angle using a twist grip on the joystick.",
+      "system": "mame",
+      "rom": "xybots"
+    },
+    {
+      "id": "arc_556",
+      "text": "Strider (1989) by Capcom featured Hiryu performing acrobatic wall climbs and ceiling grabs — physics interactions rarely seen in arcade games of the era.",
+      "system": "mame",
+      "rom": "strider"
+    },
+    {
+      "id": "arc_557",
+      "text": "Zaxxon (1982) by Sega used an oblique (isometric) perspective for a scrolling space shooter, requiring players to gauge altitude while dodging barriers.",
+      "system": "mame",
+      "rom": "zaxxon"
+    },
+    {
+      "id": "arc_558",
+      "text": "Moon Patrol (1982) by Irem introduced parallax scrolling — multiple background layers moving at different speeds — a technique soon adopted by nearly all side-scrollers.",
+      "system": "mame",
+      "rom": "moonpatl"
+    },
+    {
+      "id": "arc_559",
+      "text": "Punch-Out!! (1983) by Nintendo used two monitors — one for the action view, one for the score — and starred Little Mac fighting through an eccentric roster of opponents.",
+      "system": "mame",
+      "rom": "punchout"
+    },
+    {
+      "id": "arc_560",
+      "text": "Spy Hunter (1983) by Bally Midway combined car combat with a James Bond theme, allowing the player to enter a boat mode via a weapons van that drove alongside.",
+      "system": "mame",
+      "rom": "spyhunt"
+    },
+    {
+      "id": "arc_561",
+      "text": "Karnov (1987) by Data East starred a pot-bellied Russian strongman who breathed fire, collected power-ups, and fought mythological enemies across ancient ruins.",
+      "system": "mame",
+      "rom": "karnov"
+    },
+    {
+      "id": "arc_562",
+      "text": "Ghouls 'n Ghosts (1988) by Capcom was the sequel to Ghosts 'n Goblins and used a new dual-direction shooting mechanic where Arthur could fire at angles.",
+      "system": "mame",
+      "rom": "ghouls"
+    },
+    {
+      "id": "arc_563",
+      "text": "Forgotten Worlds (1988) by Capcom used a rotary joystick allowing 360-degree aiming independent of character movement direction, a major control innovation.",
+      "system": "mame",
+      "rom": "forgottn"
+    },
+    {
+      "id": "arc_564",
+      "text": "Mercs (1990) by Capcom was the sequel to Commando and added a charge attack, overhead bombs, and a vehicle section aboard a tank.",
+      "system": "mame",
+      "rom": "mercs"
+    },
+    {
+      "id": "arc_565",
+      "text": "Gun.Smoke (1985) by Capcom was a vertically scrolling Wild West shooter where the player controlled a bounty hunter collecting wanted posters.",
+      "system": "mame",
+      "rom": "gunsmoke"
+    },
+    {
+      "id": "arc_566",
+      "text": "Shock Troopers (1997) by Sega/Noise Factory on Neo Geo added a top-down perspective to the run-and-gun genre with three selectable paths and team-based play.",
+      "system": "mame",
+      "rom": "shocktro"
+    },
+    {
+      "id": "arc_567",
+      "text": "Metal Slug (1996) by Nazca/SNK featured hand-drawn sprites with extraordinary detail and animation frames, setting a new standard for 2D arcade art.",
+      "system": "mame",
+      "rom": "mslug"
+    },
+    {
+      "id": "arc_568",
+      "text": "Metal Slug 2 (1998) introduced new vehicles including a camel, a rocket sled, and a flying saucer, plus new prisoner types with unique transformation effects.",
+      "system": "mame",
+      "rom": "mslug2"
+    },
+    {
+      "id": "arc_569",
+      "text": "Metal Slug 3 (2000) featured the longest running time of any entry in the series and introduced the zombie transformation mechanic for Marco and Tarma.",
+      "system": "mame",
+      "rom": "mslug3"
+    },
+    {
+      "id": "arc_570",
+      "text": "Metal Slug X (1999) was a revised version of Metal Slug 2 that fixed the slowdown issues and rebalanced enemy placement and weapon distribution.",
+      "system": "mame",
+      "rom": "mslugx"
+    },
+    {
+      "id": "arc_571",
+      "text": "Virtua Striker 2 (1997) on Model 3 hardware featured licensed national teams from the 1998 World Cup and introduced goalkeeper AI capable of diving saves.",
+      "system": "sega_model_3",
+      "rom": "vstriker2"
+    },
+    {
+      "id": "arc_572",
+      "text": "Sega Touring Car Championship (1996) on Model 2 hardware featured real-world BTCC and DTM touring cars racing on licensed circuits.",
+      "system": "sega_model_2",
+      "rom": "stcc"
+    },
+    {
+      "id": "arc_573",
+      "text": "Crazy Taxi (1999) by Sega on NAOMI used a licensed soundtrack (The Offspring, Bad Religion) and an open-city format that influenced sandbox game design.",
+      "system": "sega_naomi",
+      "rom": "crzytaxi"
+    },
+    {
+      "id": "arc_574",
+      "text": "Jet Set Radio (2000) by Sega on NAOMI introduced cel-shading in an arcade racing context, blending graffiti tagging with rollerblade skating.",
+      "system": "sega_naomi",
+      "rom": "jsrfuture"
+    },
+    {
+      "id": "arc_575",
+      "text": "18 Wheeler: American Pro Trucker (2000) by Sega on NAOMI used a realistic big-rig steering wheel and gear shift to simulate cross-country trucking.",
+      "system": "sega_naomi",
+      "rom": "18wheel"
+    },
+    {
+      "id": "arc_576",
+      "text": "Virtua Cop 2 (1995) on Model 2 added branching paths within each stage — player choices about which enemies to shoot first altered the route taken through the level.",
+      "system": "sega_model_2",
+      "rom": "vcop2"
+    },
+    {
+      "id": "arc_577",
+      "text": "The House of the Dead (1996) on Model 2 used branching stage paths determined by whether players shot scientists (good) or let zombies eat them (bad).",
+      "system": "sega_model_2",
+      "rom": "hotd"
+    },
+    {
+      "id": "arc_578",
+      "text": "The House of the Dead 2 (1998) on NAOMI introduced the scoring system rating players by accuracy and creature variety, encouraging methodical play over spray-and-pray.",
+      "system": "sega_naomi",
+      "rom": "hotd2"
+    },
+    {
+      "id": "arc_579",
+      "text": "The House of the Dead 3 (2002) used pump-action shotgun controllers that required a physical pump between shots, changing the pacing versus pistol-style light guns.",
+      "system": "sega_naomi",
+      "rom": "hotd3"
+    },
+    {
+      "id": "arc_580",
+      "text": "Confidential Mission (2000) by Sega on NAOMI was a spy-themed light-gun game where players could interact with environment objects between action sequences.",
+      "system": "sega_naomi",
+      "rom": "confmiss"
+    },
+    {
+      "id": "arc_581",
+      "text": "Zombie Revenge (1999) by Sega on NAOMI was a beat-em-up set in the House of the Dead universe, allowing melee combat and firearms against zombie hordes.",
+      "system": "sega_naomi",
+      "rom": "zombrvng"
+    },
+    {
+      "id": "arc_582",
+      "text": "Power Stone (1999) by Capcom on NAOMI was a 3D arena brawler where collecting power stones transformed characters into super forms for devastating attacks.",
+      "system": "sega_naomi",
+      "rom": "pstone"
+    },
+    {
+      "id": "arc_583",
+      "text": "Marvel vs. Capcom 2 (2000) on NAOMI expanded the roster to 56 characters and introduced the three-on-three team format with simultaneous super combinations.",
+      "system": "sega_naomi",
+      "rom": "mvsc2"
+    },
+    {
+      "id": "arc_584",
+      "text": "Capcom vs. SNK (2000) on NAOMI introduced a ratio system allowing players to build teams from either company's roster, weighting powerful characters at higher cost.",
+      "system": "mame",
+      "rom": "capsnk"
+    },
+    {
+      "id": "arc_585",
+      "text": "Guilty Gear X (2000) by Arc System Works on NAOMI introduced Burst — an emergency move that could interrupt an opponent's combo at the cost of a full tension gauge.",
+      "system": "mame",
+      "rom": "ggx"
+    },
+    {
+      "id": "arc_586",
+      "text": "Initial D Arcade Stage (2001) by Sega on NAOMI used a card reader to save car tuning data between sessions — one of the first arcade games with persistent progression.",
+      "system": "sega_naomi",
+      "rom": "initiald"
+    },
+    {
+      "id": "arc_587",
+      "text": "Pong (1972) by Atari was the first commercially successful arcade video game and was so popular that the first unit installed at Andy Capp's Tavern jammed from overflowing quarters.",
+      "system": "mame",
+      "rom": "pong"
+    },
+    {
+      "id": "arc_588",
+      "text": "Gun Fight (1975) by Midway was the first arcade game to use a microprocessor (Intel 8080) rather than discrete logic, initiating the programmable-hardware era.",
+      "system": "mame",
+      "rom": "gunfight"
+    },
+    {
+      "id": "arc_589",
+      "text": "Sea Wolf (1976) by Midway used a periscope-sight aiming mechanism — players physically looked through a submarine periscope to target ships on screen.",
+      "system": "mame",
+      "rom": "seawolf"
+    },
+    {
+      "id": "arc_590",
+      "text": "Circus (1977) by Exidy was the first game to use the trampoline-and-clown mechanic for a vertical platforming challenge, later echoed in many bounce-based games.",
+      "system": "mame",
+      "rom": "circus"
+    },
+    {
+      "id": "arc_591",
+      "text": "Maze Craze (1977) by Atari was one of the first competitive two-player maze games, letting two players race through randomly generated mazes.",
+      "system": "mame",
+      "rom": "mazecrze"
+    },
+    {
+      "id": "arc_592",
+      "text": "Night Driver (1976) by Atari was one of the first first-person driving games, using white posts on a black background to simulate nighttime road borders.",
+      "system": "mame",
+      "rom": "nitedrvr"
+    },
+    {
+      "id": "arc_593",
+      "text": "Depthcharge (1977) by Gremlin was an early submarine game where players dropped depth charges from a destroyer to hit submarines passing underneath.",
+      "system": "mame",
+      "rom": "depthch"
+    },
+    {
+      "id": "arc_594",
+      "text": "Sprint 2 (1976) by Atari introduced the steering wheel and gas pedal control scheme that became the standard for arcade driving games.",
+      "system": "mame",
+      "rom": "sprint2"
+    },
+    {
+      "id": "arc_595",
+      "text": "Qix (1981) by Taito challenged players to claim territory by drawing lines to divide the screen while avoiding a dancing 'Qix' line entity — a completely original concept.",
+      "system": "mame",
+      "rom": "qix"
+    },
+    {
+      "id": "arc_596",
+      "text": "Pulstar (1995) by Aicom/SNK was a horizontal shooter heavily influenced by R-Type, featuring detachable Force pods and a high difficulty curve.",
+      "system": "neogeo",
+      "rom": "pulstar"
+    },
+    {
+      "id": "arc_597",
+      "text": "Neo Drift Out (1996) by Visco on Neo Geo was a top-down rally racing game with realistic drift physics — unusual precision for a Neo Geo racing title.",
+      "system": "neogeo",
+      "rom": "neodrift"
+    },
+    {
+      "id": "arc_598",
+      "text": "Magical Drop 3 (1997) by Data East on Neo Geo added versus play with nuisance pieces, making it the most competitively played entry in the series.",
+      "system": "neogeo",
+      "rom": "mgd3"
+    },
+    {
+      "id": "arc_599",
+      "text": "Neo Mr. Do! (1996) by Visco was a Neo Geo revival of the classic Mr. Do! arcade game with enhanced graphics while preserving the original's core mechanics.",
+      "system": "neogeo",
+      "rom": "neomrdo"
+    },
+    {
+      "id": "arc_600",
+      "text": "Strikers 1945 (1995) by Psikyo was a vertically scrolling WWII shooter on CPS-2-like hardware featuring both Allied and Axis aircraft as player options.",
+      "system": "mame",
+      "rom": "s1945"
+    },
+    {
+      "id": "arc_601",
+      "text": "Tekken Tag Tournament (1999) by Namco on System 12 hardware allowed two fighters per side with tag-in mechanics, becoming one of the longest-running arcade games of the early 2000s.",
+      "system": "namco_system_12",
+      "rom": "tekken"
+    },
+    {
+      "id": "arc_602",
+      "text": "Soul Calibur II (2002) by Namco on System 246 hardware was one of the last major arcade fighters before the genre migrated primarily to home consoles.",
+      "system": "mame",
+      "rom": "soulcalb2"
+    },
+    {
+      "id": "arc_603",
+      "text": "Street Fighter IV (2008) used Taito Type X2 hardware and mixed 3D models with 2D gameplay, reviving the franchise after a decade without a numbered sequel.",
+      "system": "taito_type_x",
+      "rom": "sf4"
+    },
+    {
+      "id": "arc_604",
+      "text": "Tekken 6 (2007) introduced the Rage system — a damage boost activated when a player's health fell below a threshold — to arcade hardware before its console release.",
+      "system": "mame",
+      "rom": "tekken6"
+    },
+    {
+      "id": "arc_605",
+      "text": "BlazBlue: Calamity Trigger (2008) by Arc System Works on NESYS hardware was the spiritual successor to Guilty Gear, using a drive mechanic unique to each character.",
+      "system": "mame",
+      "rom": "bbct"
+    },
+    {
+      "id": "arc_606",
+      "text": "Skee-Ball, invented in 1909, is one of the longest-running arcade redemption games; its ticket-dispensing variant became a staple of modern FECs (Family Entertainment Centers).",
+      "system": "mame",
+      "rom": "skeeball"
+    },
+    {
+      "id": "arc_607",
+      "text": "Pop-A-Shot basketball, introduced in the 1980s, used a ball return conveyor and proximity hoop sensor that influenced the design of all subsequent arcade hoops games.",
+      "system": "mame",
+      "rom": "popashot"
+    },
+    {
+      "id": "arc_608",
+      "text": "Stacker (by LAI Games) became one of the most profitable redemption cabinets of the 2000s due to its near-miss programming that made winning the major prize extremely rare.",
+      "system": "mame",
+      "rom": "stacker"
+    },
+    {
+      "id": "arc_609",
+      "text": "Dragon's Lair (1983) by Cinematronics was the first LaserDisc arcade game and featured fully animated cartoon footage by Don Bluth — players paid 50 cents versus the standard 25.",
+      "system": "daphne",
+      "rom": "dle11"
+    },
+    {
+      "id": "arc_610",
+      "text": "Space Ace (1984) by Don Bluth and Cinematronics used the same LaserDisc format as Dragon's Lair, featuring the hero Dexter transforming between his weak and powerful 'Ace' form.",
+      "system": "daphne",
+      "rom": "ace"
+    },
+    {
+      "id": "arc_611",
+      "text": "Cliff Hanger (1983) by Stern Electronics used footage edited from two Lupin III anime films and was one of the first LaserDisc games to use licensed animation content.",
+      "system": "daphne",
+      "rom": "cliffhgr"
+    },
+    {
+      "id": "arc_612",
+      "text": "Road Blaster (1985) by Data East was a LaserDisc driving game where players steered a car through pre-recorded high-speed chase footage.",
+      "system": "daphne",
+      "rom": "roadblst"
+    },
+    {
+      "id": "arc_613",
+      "text": "Ms. Pac-Man (1982) by Midway was originally an unauthorized modification kit before Namco licensed it; it introduced moving fruit and faster, smarter ghost AI patterns.",
+      "system": "mame",
+      "rom": "mspacman"
+    },
+    {
+      "id": "arc_614",
+      "text": "Pac-Man Championship Edition (2007) introduced a timed score-attack mode with refreshing maze halves, reinventing the Pac-Man formula for a competitive audience.",
+      "system": "mame",
+      "rom": "pacman_ce"
+    },
+    {
+      "id": "arc_615",
+      "text": "Pac & Pal (1983) by Namco added a fairy companion named Pal who helped collect items, and replaced the power pellet ghosts with a wider variety of enemy types.",
+      "system": "mame",
+      "rom": "pacnpal"
+    },
+    {
+      "id": "arc_616",
+      "text": "Pac-Man Battle Royale (2011) by Namco supported four simultaneous players who could eat each other when powered up, turning the classic game into a competitive brawl.",
+      "system": "mame",
+      "rom": "pacman_battle_royale"
+    },
+    {
+      "id": "arc_617",
+      "text": "Tetris (1988) arcade version by Atari Games (based on Alexey Pajitnov's original) introduced the hold-piece concept and competitive head-to-head play.",
+      "system": "mame",
+      "rom": "tetris"
+    },
+    {
+      "id": "arc_618",
+      "text": "Smash TV (1990) by Williams used a dual-joystick control scheme for omnidirectional shooting in a violent TV game show parody with absurdly large weapon pickups.",
+      "system": "mame",
+      "rom": "smashtv"
+    },
+    {
+      "id": "arc_619",
+      "text": "Total Carnage (1992) by Midway was the sequel to Smash TV and used the same dual-stick controls but added humor, satire, and more elaborate boss encounters.",
+      "system": "mame",
+      "rom": "totcarn"
+    },
+    {
+      "id": "arc_620",
+      "text": "NARC (1988) by Williams was a violent anti-drug arcade game featuring two Drug Enforcement officers spraying bullets and missiles at cartoony drug dealers.",
+      "system": "mame",
+      "rom": "narc"
+    },
+    {
+      "id": "arc_621",
+      "text": "Gauntlet II (1986) by Atari Games introduced the Valkyrie as a fifth character class, ghost generators that required prioritized destruction, and it-moves-while-you-type name entry.",
+      "system": "mame",
+      "rom": "gaunt2"
+    },
+    {
+      "id": "arc_622",
+      "text": "Paperboy (1984) by Atari Games used a handlebar controller and simulated a paper delivery route where accurate throws scored points and missed throws broke windows.",
+      "system": "mame",
+      "rom": "paperboy"
+    },
+    {
+      "id": "arc_623",
+      "text": "Food Fight (1983) by Atari used a joystick with a mechanical spring-centering system providing haptic feedback — players hurled food items at enemy chefs.",
+      "system": "mame",
+      "rom": "foodf"
+    },
+    {
+      "id": "arc_624",
+      "text": "Y's the Vanished Omens (Sega, 1988) arcade adaptation used the System 16 board to port Falcom's famous action RPG, though it was a rare release outside Japan.",
+      "system": "mame",
+      "rom": "yiear"
+    },
+    {
+      "id": "arc_625",
+      "text": "Power of the Hired (1989) by Capcom was an early power-up-focused run-and-gun on CPS-1 hardware with multiple branching routes through stages.",
+      "system": "mame",
+      "rom": "pow"
+    },
+    {
+      "id": "arc_626",
+      "text": "Sega Model 1's Wing War (1994) was a dogfight simulation with 3D terrain, using the same hardware as Virtua Fighter but applying it to flight combat.",
+      "system": "sega_model_2",
+      "rom": "wingwar"
+    },
+    {
+      "id": "arc_627",
+      "text": "Star Wars Trilogy Arcade (1998) on Model 3 covered all three original films with trench run, asteroid field, and speeder bike sections tied to the movie timeline.",
+      "system": "sega_model_3",
+      "rom": "swtrilgy"
+    },
+    {
+      "id": "arc_628",
+      "text": "Sega Water Ski (1994) on Model 2 used a water ski handle controller where leaning and tilting the handle controlled the on-screen athlete.",
+      "system": "sega_model_2",
+      "rom": "vrwski"
+    },
+    {
+      "id": "arc_629",
+      "text": "Indy 500 (1995) on Model 2 by Sega modeled the Indianapolis Motor Speedway and included an official IRL license with real 1994 season drivers.",
+      "system": "sega_model_2",
+      "rom": "indy500"
+    },
+    {
+      "id": "arc_630",
+      "text": "Le Mans 24 (1997) on Model 3 by Sega attempted to simulate endurance racing with time-of-day lighting changes between day and night driving cycles.",
+      "system": "sega_model_3",
+      "rom": "lemans24"
+    },
+    {
+      "id": "arc_631",
+      "text": "Hyper Dyne Side Arms (1986) by Capcom was a horizontal shooter where two players could attach their ships together for increased firepower.",
+      "system": "mame",
+      "rom": "hyprdriv"
+    },
+    {
+      "id": "arc_632",
+      "text": "Sunset Riders (1991) by Konami was a Wild West run-and-gun with four playable characters, horse-riding stages, and a two-player co-op mode.",
+      "system": "mame",
+      "rom": "sunsetr"
+    },
+    {
+      "id": "arc_633",
+      "text": "Aliens (1990) by Konami was a beat-em-up adaptation of the film featuring facehuggers, chest-bursters, and a final boss Queen encounter based on the movie's climax.",
+      "system": "mame",
+      "rom": "aliens"
+    },
+    {
+      "id": "arc_634",
+      "text": "The Punisher (1993) by Capcom starred both the Punisher and Nick Fury in a co-op brawler with weapons including guns, grenades, and vehicles.",
+      "system": "mame",
+      "rom": "punisher"
+    },
+    {
+      "id": "arc_635",
+      "text": "Dino Crisis (2000) by Capcom on NAOMI was a light-gun game adapting the survival horror franchise into a rail shooter format.",
+      "system": "sega_naomi",
+      "rom": "dino"
+    },
+    {
+      "id": "arc_636",
+      "text": "Avengers (Capcom, 1987) on CPS-1 hardware was a one-on-one fighter where players used a single large joystick and three buttons for different kick/punch heights.",
+      "system": "mame",
+      "rom": "avsp"
+    },
+    {
+      "id": "arc_637",
+      "text": "Hyper Street Fighter II (2003) by Capcom allowed players to mix characters and modes from every version of SF2 — World Warrior through Super Turbo — in one package.",
+      "system": "mame",
+      "rom": "hsf2"
+    },
+    {
+      "id": "arc_638",
+      "text": "Time Crisis 2 (1997) by Namco introduced two-player co-op with a split-screen layout and a flanking mechanic requiring players to cover different angles.",
+      "system": "namco_system_12",
+      "rom": "timecris2"
+    },
+    {
+      "id": "arc_639",
+      "text": "Time Crisis 3 (2003) by Namco added weapon selection — players could swap between pistol, machine gun, and grenades during the pedal-released safe period.",
+      "system": "namco_system_12",
+      "rom": "timecris3"
+    },
+    {
+      "id": "arc_640",
+      "text": "Virtua Racing (1992) by Sega on Model 1 was the first arcade game with a polygonal racing track allowing a 360-degree overhead camera view selectable by the player.",
+      "system": "mame",
+      "rom": "vrracing"
+    },
+    {
+      "id": "arc_641",
+      "text": "Ridge Racer (1993) by Namco on System 22 introduced powerslide drifting as the primary high-speed cornering mechanic in an arcade racer.",
+      "system": "mame",
+      "rom": "ridgerac"
+    },
+    {
+      "id": "arc_642",
+      "text": "Daytona USA (1993) by Sega on Model 2 allowed up to eight linked cabinets for multiplayer racing and featured a licensed NASCAR-style track.",
+      "system": "sega_model_2",
+      "rom": "daytona"
+    },
+    {
+      "id": "arc_643",
+      "text": "Daytona USA 2 (1998) on Model 3 introduced a horse power upgrade system between races and featured new tracks including a night circuit.",
+      "system": "sega_model_3",
+      "rom": "daytona2"
+    },
+    {
+      "id": "arc_644",
+      "text": "Midnight Run: Road Fighter 2 (1995) by Konami used a full steering wheel and analog gas pedal in an overhead-perspective street racing game.",
+      "system": "mame",
+      "rom": "midres"
+    },
+    {
+      "id": "arc_645",
+      "text": "Hyper Drive (1998) by Midway was a futuristic hover-racing game using time-warping mechanics where players could slow time to navigate tight corners.",
+      "system": "mame",
+      "rom": "hyprdriv"
+    },
+    {
+      "id": "arc_646",
+      "text": "Vampire Savior (1997) by Capcom (Darkstalkers 3) added the Dark Force system and an EX version of each move, accessed by pressing both punch buttons simultaneously.",
+      "system": "mame",
+      "rom": "vsav"
+    },
+    {
+      "id": "arc_647",
+      "text": "Warzaid (1996) by Gaelco was a science fiction beat-em-up with two playable alien characters from different planets, each with unique energy-based attacks.",
+      "system": "mame",
+      "rom": "warzaid"
+    },
+    {
+      "id": "arc_648",
+      "text": "Mortal Kombat II (1993) by Midway added Friendships, Babalities, and stage fatalities, and became the best-selling arcade game of 1994.",
+      "system": "mame",
+      "rom": "mk2"
+    },
+    {
+      "id": "arc_649",
+      "text": "Mortal Kombat 3 (1995) by Midway overhauled the run button, combo system, and mercy mechanic — letting the winning player revive the loser to continue the fight.",
+      "system": "mame",
+      "rom": "mk3"
+    },
+    {
+      "id": "arc_650",
+      "text": "Vampire Hunter (Night Warriors: Darkstalkers' Revenge) (1995) by Capcom refined the dark-fantasy fighter and added EX moves before the home version reached players.",
+      "system": "mame",
+      "rom": "nwarr"
+    },
+    {
+      "id": "arc_651",
+      "text": "Truxton (Tatsujin) (1988) by Toaplan was a fast vertical shooter known for its oppressively high difficulty and the introduction of a screen-clearing bomb.",
+      "system": "mame",
+      "rom": "truxton"
+    },
+    {
+      "id": "arc_652",
+      "text": "Tiger-Heli (1985) by Toaplan was one of the first vertically scrolling helicopter shooters and established many conventions of the genre.",
+      "system": "mame",
+      "rom": "tigerheli"
+    },
+    {
+      "id": "arc_653",
+      "text": "Batsugun (1993) by Toaplan introduced rank-based difficulty scaling that adjusted enemy bullet speed based on player performance — a precursor to bullet-hell design.",
+      "system": "mame",
+      "rom": "batsugun"
+    },
+    {
+      "id": "arc_654",
+      "text": "DonPachi (1995) by Cave used a laser weapon that could be held for sustained damage, introducing the powerful hold-shot mechanic central to later Cave shooters.",
+      "system": "mame",
+      "rom": "donpachi"
+    },
+    {
+      "id": "arc_655",
+      "text": "Dodonpachi (1997) by Cave added the combo system — hitting enemies in rapid succession multiplied the score — creating the competitive chain-scoring meta.",
+      "system": "mame",
+      "rom": "ddp"
+    },
+    {
+      "id": "arc_656",
+      "text": "Espgaluda (2003) by Cave introduced the Kakusei (awakening) mode where time slowed down and enemy bullets turned into gold coins, a unique risk/reward mechanic.",
+      "system": "mame",
+      "rom": "espgal"
+    },
+    {
+      "id": "arc_657",
+      "text": "Ikaruga (2001) by Treasure used a polarity-switching mechanic — matching your ship's color to enemy bullets absorbed them and powered your charge shot.",
+      "system": "mame",
+      "rom": "ikaruga"
+    },
+    {
+      "id": "arc_658",
+      "text": "Radiant Silvergun (1998) by Treasure gave players seven distinct weapon types chained together via color matching, one of the most complex shmup systems ever designed.",
+      "system": "mame",
+      "rom": "rsilver"
+    },
+    {
+      "id": "arc_659",
+      "text": "Mushihimesama (2004) by Cave featured insect-themed enemies and introduced Maniac and Ultra difficulty modes where bullet patterns covered nearly the entire screen.",
+      "system": "mame",
+      "rom": "mushi"
+    },
+    {
+      "id": "arc_660",
+      "text": "Battle Garegga (1996) by Raizing featured an adaptive rank system that increased game difficulty based on accumulated score, powerups, and 1-UP collection.",
+      "system": "mame",
+      "rom": "btlgr"
+    },
+    {
+      "id": "arc_661",
+      "text": "Pac-Man Vs. (2003) by Namco/Nintendo was a GameCube-linked party game where one player used a GBA to play as Pac-Man while others used the TV to play ghosts.",
+      "system": "mame",
+      "rom": "vsmarios"
+    },
+    {
+      "id": "arc_662",
+      "text": "The Simpsons (1991) by Konami was a four-player simultaneous beat-em-up where each family member had unique attacks, including Bart's skateboard and Marge's vacuum.",
+      "system": "mame",
+      "rom": "simpsons"
+    },
+    {
+      "id": "arc_663",
+      "text": "X-Men (1992) by Konami supported six simultaneous players in a full-width dual-monitor cabinet, one of the widest-screen arcade games ever built.",
+      "system": "mame",
+      "rom": "xmen6p"
+    },
+    {
+      "id": "arc_664",
+      "text": "Teenage Mutant Ninja Turtles (1989) by Konami was the first TMNT game and supported four simultaneous players with unique weapon ranges for each turtle.",
+      "system": "mame",
+      "rom": "tmnt"
+    },
+    {
+      "id": "arc_665",
+      "text": "TMNT: Turtles in Time (1991) by Konami added the screen-toss mechanic where players could grab Foot Soldiers and throw them directly at the screen.",
+      "system": "mame",
+      "rom": "tmnt2"
+    },
+    {
+      "id": "arc_666",
+      "text": "Cadillacs and Dinosaurs (1993) by Capcom featured a random weapon-degradation system — melee weapons wore out after repeated use, forcing players to find replacements.",
+      "system": "mame",
+      "rom": "dino"
+    },
+    {
+      "id": "arc_667",
+      "text": "Mystic Warriors (1993) by Konami was a futuristic ninja run-and-gun for up to four players on the GX hardware, with each character having unique long-range weapons.",
+      "system": "mame",
+      "rom": "mystw"
+    },
+    {
+      "id": "arc_668",
+      "text": "Asteroids Deluxe (1980) by Atari added a Killer Satellite enemy that actively sought out the player, raising the threat level beyond the original's passive rocks.",
+      "system": "mame",
+      "rom": "astdelux"
+    },
+    {
+      "id": "arc_669",
+      "text": "Berzerk (1980) by Stern was the first arcade game with synthesized speech — the robots taunted the player with phrases like 'Intruder Alert!' and 'Chicken! Fight like a robot!'",
+      "system": "mame",
+      "rom": "berzerk"
+    },
+    {
+      "id": "arc_670",
+      "text": "Gaplus (1984) by Namco was the third game in the Galaga series and introduced a tractor beam mechanic that could capture enemy ships for use as weapons.",
+      "system": "mame",
+      "rom": "gaplus"
+    },
+    {
+      "id": "arc_671",
+      "text": "Galaga '88 (1987) by Namco allowed players to upgrade to a three-ship formation and introduced dimensional warp stages providing access to hidden bonus rounds.",
+      "system": "mame",
+      "rom": "galaga88"
+    },
+    {
+      "id": "arc_672",
+      "text": "Gradius III (1989) by Konami on CPS-1 hardware introduced the Edit Mode allowing players to configure any 8 of 32 available power-ups into their upgrade path.",
+      "system": "mame",
+      "rom": "gradius3"
+    },
+    {
+      "id": "arc_673",
+      "text": "Raiden Fighters (1996) by Seibu Kaihatsu introduced multiple selectable ships with different stats and the Beast Wing series alongside the classic Raiden craft.",
+      "system": "mame",
+      "rom": "raidf"
+    },
+    {
+      "id": "arc_674",
+      "text": "Sand Scorpion (1992) by Face was a unique overhead shooter using a trackball controller on CPS-1 hardware — the ball controlled the ship's turret independently of movement.",
+      "system": "mame",
+      "rom": "sscoreu"
+    },
+    {
+      "id": "arc_675",
+      "text": "Heavy Barrel (1987) by Data East featured weapon assembly — collecting five identical weapon icons assembled a super weapon that could be used for a limited time.",
+      "system": "mame",
+      "rom": "heavyb"
+    },
+    {
+      "id": "arc_676",
+      "text": "P.O.W.: Prisoners of War (1988) by SNK was one of the first beat-em-ups to feature both melee and firearm combat in the same game.",
+      "system": "mame",
+      "rom": "pow"
+    },
+    {
+      "id": "arc_677",
+      "text": "Astro Fighter (1979) by Data East was among the earliest games to feature multiple distinct enemy types that required different strategies to defeat.",
+      "system": "mame",
+      "rom": "astfight"
+    },
+    {
+      "id": "arc_678",
+      "text": "Dig Dug II (1985) by Namco moved the action above ground on an island, letting players drill around the island's edge to cause sections to drop into the ocean.",
+      "system": "mame",
+      "rom": "digdug2"
+    },
+    {
+      "id": "arc_679",
+      "text": "Rolling Thunder (1986) by Namco was a cinematic action game using dashing and ducking into doorways for cover — one of the earliest games with stealth-adjacent mechanics.",
+      "system": "mame",
+      "rom": "rthunder"
+    },
+    {
+      "id": "arc_680",
+      "text": "Splatterhouse (1988) by Namco featured a horror-movie protagonist wielding a 2×4 plank and was one of the first arcade games to carry a content warning on the cabinet.",
+      "system": "mame",
+      "rom": "splatter"
+    },
+    {
+      "id": "arc_681",
+      "text": "Arabian (1983) by Sun Electronics was an early action platformer featuring a genie protagonist performing acrobatic moves across colorful Middle Eastern-themed stages.",
+      "system": "mame",
+      "rom": "arabian"
+    },
+    {
+      "id": "arc_682",
+      "text": "Kangaroo (1982) by Sega/Atari featured a mother kangaroo protecting her joey from monkeys, one of the few arcade games with a maternal protagonist.",
+      "system": "mame",
+      "rom": "kangaroo"
+    },
+    {
+      "id": "arc_683",
+      "text": "Zoo Keeper (1982) by Taito featured a zookeeper who had to chase escaped animals around the rim of a pen while avoiding them — a unique loop-running mechanic.",
+      "system": "mame",
+      "rom": "zookeep"
+    },
+    {
+      "id": "arc_684",
+      "text": "Exerion (1983) by Jaleco was a fixed vertical shooter where enemy bullets had inertia and curved based on your movement, requiring anticipatory dodging.",
+      "system": "mame",
+      "rom": "exerion"
+    },
+    {
+      "id": "arc_685",
+      "text": "Section Z (1985) by Capcom was a bi-directional side-scrolling shooter where players could move left or right through branching stage sections.",
+      "system": "mame",
+      "rom": "sectionz"
+    },
+    {
+      "id": "arc_686",
+      "text": "1943: The Battle of Midway (1987) by Capcom added a selectable weapon system and a fuel/health bar, requiring players to collect '1943' power-ups to survive.",
+      "system": "mame",
+      "rom": "1943"
+    },
+    {
+      "id": "arc_687",
+      "text": "Xexex (1991) by Konami featured a tentacle-like shield that could extend to grab and throw enemies, a fluid weapon mechanic unlike any other shooter of its era.",
+      "system": "mame",
+      "rom": "xexex"
+    },
+    {
+      "id": "arc_688",
+      "text": "Thunder Dragon (1991) by NMK was a vertically scrolling shooter notable for its extremely fast bullet speed and minimal bullet patterns that punished hesitation.",
+      "system": "mame",
+      "rom": "tdragon"
+    },
+    {
+      "id": "arc_689",
+      "text": "Macross Plus (1994) by Banpresto was a horizontal shooter based on the OVA anime featuring transformation sequences that altered ship performance mid-stage.",
+      "system": "mame",
+      "rom": "macross"
+    },
+    {
+      "id": "arc_690",
+      "text": "Biomechanical Toy (1995) by Gaelco was a CPS-1-style action-platformer from Spain featuring colorful toy-themed enemies and tight platforming mechanics.",
+      "system": "mame",
+      "rom": "biomtoy"
+    },
+    {
+      "id": "arc_691",
+      "text": "Gunbird (1994) by Psikyo featured six selectable characters each with distinct weapon configurations, making it one of the first shmups with meaningful character choice.",
+      "system": "mame",
+      "rom": "gunbird"
+    },
+    {
+      "id": "arc_692",
+      "text": "Sengoku (1991) by SNK was a beat-em-up set in feudal Japan where characters could transform into ninja or demon forms by collecting spirit orbs.",
+      "system": "mame",
+      "rom": "sengoku"
+    },
+    {
+      "id": "arc_693",
+      "text": "Ninja Combat (1990) by ADK/SNK for Neo Geo allowed two players to fight through waves of enemies and transform into different ninja types after certain power-ups.",
+      "system": "neogeo",
+      "rom": "ncombat"
+    },
+    {
+      "id": "arc_694",
+      "text": "Robo Army (1991) by SNK on Neo Geo was a cyborg-themed beat-em-up where defeated enemies could have their arms torn off and used as weapons against other enemies.",
+      "system": "neogeo",
+      "rom": "roboarmy"
+    },
+    {
+      "id": "arc_695",
+      "text": "View Point (1992) by Sammy/SNK on Neo Geo was a unique isometric scrolling shooter with a 45-degree top-down perspective never used by other shooters on that hardware.",
+      "system": "neogeo",
+      "rom": "viewpoin"
+    },
+    {
+      "id": "arc_696",
+      "text": "Aggressors of Dark Kombat (1994) by ADK/SNK was a Neo Geo street fighter set in Tokyo that added a map navigation system between fights.",
+      "system": "neogeo",
+      "rom": "aggressors"
+    },
+    {
+      "id": "arc_697",
+      "text": "Windjammers (1994) by Data East remains one of the most contested competitive arcade titles; a modern sequel was released in 2022 after its competitive revival.",
+      "system": "mame",
+      "rom": "wjammers"
+    },
+    {
+      "id": "arc_698",
+      "text": "Neo Geo Cup '98 (1998) by SNK was a top-down soccer game with a tournament structure letting players build national teams across multiple sessions using NEO GEO memory cards.",
+      "system": "neogeo",
+      "rom": "ngcup98"
+    },
+    {
+      "id": "arc_699",
+      "text": "Stakes Winner (1995) by Saurus/SNK on Neo Geo was a horse racing simulation game with jockey training between races, unusual depth for a genre typically done as simple button mashers.",
+      "system": "neogeo",
+      "rom": "stakwin"
+    },
+    {
+      "id": "arc_700",
+      "text": "Zed Blade (Operation Ragnarok) (1994) by NMK/SNK on Neo Geo was a horizontal shooter featuring five playable ships with distinctly different weapon options and option units.",
+      "system": "neogeo",
+      "rom": "zedblade"
+    },
+    {
+      "id": "arc_701",
+      "text": "The SuperStar (1998) by SemiCom was a volleyball game with exaggerated physics and anime-style characters released on Neo Geo-compatible hardware.",
+      "system": "neogeo",
+      "rom": "tss"
+    },
+    {
+      "id": "arc_702",
+      "text": "Twinkle Star Sprites (1996) by ADK/SNK was a versus shooter where clearing waves with combos shot projectiles at the opponent — a hybrid of shmup and versus puzzle game.",
+      "system": "neogeo",
+      "rom": "twinspri"
+    },
+    {
+      "id": "arc_703",
+      "text": "Blazing Star (1998) by Yumekobo/SNK on Neo Geo featured six ships each with unique charged shot behavior and was the spiritual sequel to Pulstar.",
+      "system": "neogeo",
+      "rom": "blazstar"
+    },
+    {
+      "id": "arc_704",
+      "text": "Ghost Pilots (1991) by SNK on Neo Geo was a vertically scrolling WWII biplane shooter similar to 1942 but with Neo Geo hardware enabling larger sprites and smoother animation.",
+      "system": "neogeo",
+      "rom": "gpilots"
+    },
+    {
+      "id": "arc_705",
+      "text": "Captain Tomaday (1999) by Visco on Neo Geo starred a tomato superhero in a unique vertical shooter where the player could pull off enemy body parts as weapons.",
+      "system": "neogeo",
+      "rom": "ctomaday"
+    },
+    {
+      "id": "arc_706",
+      "text": "Treasure of the Caribbean (Treasure of the Caribbean, 1994) by Saurus on Neo Geo was a poker card game with animated dealers as one of the few Neo Geo gambling-style games.",
+      "system": "neogeo",
+      "rom": "tototek"
+    },
+    {
+      "id": "arc_707",
+      "text": "Shock de Troopers 2 (1998) by Sega/Noise Factory on Neo Geo was a top-down military run-and-gun supporting up to four players via link cabinet.",
+      "system": "neogeo",
+      "rom": "shockt2"
+    },
+    {
+      "id": "arc_708",
+      "text": "Nam-1975 was the Neo Geo launch title, a light-gun-style fixed shooter using the joystick to move a targeting reticle across pre-rendered backgrounds.",
+      "system": "neogeo",
+      "rom": "nam1975"
+    },
+    {
+      "id": "arc_709",
+      "text": "Magician Lord (1990) by ADK was the other Neo Geo launch title, a platform action game where the wizard hero could transform into six creature forms.",
+      "system": "neogeo",
+      "rom": "maglord"
+    },
+    {
+      "id": "arc_710",
+      "text": "Super Sidekicks (1992) by SNK was a top-down soccer series that became one of Neo Geo's best-selling sports franchises over its four-game run.",
+      "system": "neogeo",
+      "rom": "ssideki"
+    },
+    {
+      "id": "arc_711",
+      "text": "Football Frenzy (1992) by SNK was the only American football game on Neo Geo hardware, featuring the unusual choice of isometric perspective.",
+      "system": "neogeo",
+      "rom": "fbfrenzy"
+    },
+    {
+      "id": "arc_712",
+      "text": "League Bowling (1990) by SNK was a bowling simulation with a straight-to-the-point three-button release mechanic and animated crowd reactions.",
+      "system": "neogeo",
+      "rom": "lbowling"
+    },
+    {
+      "id": "arc_713",
+      "text": "Mutation Nation (1992) by SNK was a beat-em-up where players could absorb enemy DNA to temporarily gain their special attacks.",
+      "system": "neogeo",
+      "rom": "mutnatio"
+    },
+    {
+      "id": "arc_714",
+      "text": "Eight Man (1991) by SNK and Pallas was a Neo Geo beat-em-up based on a Japanese superhero manga, where players could call in any of eight heroes for assists.",
+      "system": "neogeo",
+      "rom": "eightman"
+    },
+    {
+      "id": "arc_715",
+      "text": "Crossed Swords (1991) by ADK for Neo Geo was an early first-person sword-fighting game viewed from behind the player character's weapon.",
+      "system": "neogeo",
+      "rom": "crsword"
+    },
+    {
+      "id": "arc_716",
+      "text": "Riding Hero (1990) by SNK was the first motorcycle racing game on Neo Geo and featured a story mode following rival bikers — unusual narrative depth for an arcade racer.",
+      "system": "neogeo",
+      "rom": "ridhero"
+    },
+    {
+      "id": "arc_717",
+      "text": "Top Hunter: Roddy & Cathy (1994) by SNK on Neo Geo was a run-and-gun platformer featuring arm-extension grabs as the primary attack mechanic.",
+      "system": "neogeo",
+      "rom": "tophuntr"
+    },
+    {
+      "id": "arc_718",
+      "text": "Power Spikes II (1994) by Video System on Neo Geo was a beach volleyball game with anime-style super spike moves that could only be stopped by matching super digs.",
+      "system": "neogeo",
+      "rom": "pspikes2"
+    },
+    {
+      "id": "arc_719",
+      "text": "Kizuna Encounter: Super Tag Battle (1996) by SNK was a two-on-two tag fighting game, Garou-style, one year before the KOF 97 introduced new team mechanics.",
+      "system": "neogeo",
+      "rom": "kizuna"
+    },
+    {
+      "id": "arc_720",
+      "text": "Matrimelee (2002) by Noise Factory/SNK Playmore was one of the final Neo Geo fighting games, released long after the home market had moved on to PlayStation 2.",
+      "system": "neogeo",
+      "rom": "matrimee"
+    },
+    {
+      "id": "arc_721",
+      "text": "Rage of the Dragons (2002) by Noise Factory on Neo Geo introduced the Duo-Team Battle where tagging partners during a combo extended the hit string.",
+      "system": "neogeo",
+      "rom": "rotd"
+    },
+    {
+      "id": "arc_722",
+      "text": "Metal Slug 4 (2002) by Mega Enterprise/Playmore was the first Metal Slug not developed internally by SNK, following SNK's 2001 bankruptcy.",
+      "system": "neogeo",
+      "rom": "mslug4"
+    },
+    {
+      "id": "arc_723",
+      "text": "Metal Slug 5 (2003) by Playmore removed the zombie and mutation mechanics of earlier entries, focusing on faster enemy patterns and more missile-heavy vehicle sections.",
+      "system": "neogeo",
+      "rom": "mslug5"
+    },
+    {
+      "id": "arc_724",
+      "text": "Samurai Shodown V Special (2004) by Playmore on Neo Geo restored decapitation fatalities that had been removed from V's original Japanese release due to content concerns.",
+      "system": "neogeo",
+      "rom": "samsho5sp"
+    },
+    {
+      "id": "arc_725",
+      "text": "SNK vs. Capcom: SVC Chaos (2003) by Playmore on Neo Geo was unusual as it was SNK-developed despite the 'vs. Capcom' branding, and featured different play balance from Capcom's crossover entries.",
+      "system": "neogeo",
+      "rom": "svcchaos"
+    },
+    {
+      "id": "arc_726",
+      "text": "KOF 2002 by Playmore on Neo Geo removed the Strikers system and returned to the three-on-three elimination format, becoming one of the most-played KOF titles competitively.",
+      "system": "neogeo",
+      "rom": "kof2002"
+    },
+    {
+      "id": "arc_727",
+      "text": "KOF 2003 by Playmore was the final Neo Geo KOF entry and introduced mid-match tagging — pressing the start button during a match could substitute a fresh fighter.",
+      "system": "neogeo",
+      "rom": "kof2003"
+    },
+    {
+      "id": "arc_728",
+      "text": "Last Hope (2007) by NG:Dev.Team was a commercial horizontal shooter released on Neo Geo after SNK discontinued official support — one of the last new Neo Geo cartridges published.",
+      "system": "neogeo",
+      "rom": "lasthope"
+    },
+    {
+      "id": "arc_729",
+      "text": "Doki Doki Panic (1987) by Nintendo was originally a Fuji Television promotional game; it was rebranded as Super Mario Bros. 2 for Western markets.",
+      "system": "mame",
+      "rom": "dokidoki"
+    },
+    {
+      "id": "arc_730",
+      "text": "VS. Super Mario Bros. (1986) by Nintendo was a harder arcade version of the NES game featuring altered level layouts and increased enemy speed.",
+      "system": "mame",
+      "rom": "vsmarios"
+    },
+    {
+      "id": "arc_731",
+      "text": "Vs. Dr. Mario (1990) by Nintendo brought the NES puzzle game to the arcade with a versus mode and a new 'Ugly' difficulty above the standard Chill/Medium/Hot.",
+      "system": "mame",
+      "rom": "vsdrmario"
+    },
+    {
+      "id": "arc_732",
+      "text": "Vs. Pinball (1984) by Nintendo used real-time physics simulation for ball movement on an ROM-based board, one of the first digital pinball simulations.",
+      "system": "mame",
+      "rom": "vspinball"
+    },
+    {
+      "id": "arc_733",
+      "text": "Vs. Excitebike (1984) by Nintendo was an arcade-only variant supporting two simultaneous players on split screen, unlike the single-player NES version.",
+      "system": "mame",
+      "rom": "vsexcit"
+    },
+    {
+      "id": "arc_734",
+      "text": "Vs. Tennis (1984) by Nintendo was the arcade basis for Tennis on NES, supporting two players on separate cabinets linked together.",
+      "system": "mame",
+      "rom": "vstenis"
+    },
+    {
+      "id": "arc_735",
+      "text": "Wild Gunman (1984) by Nintendo used a light gun and projected film of actors playing gunslingers — one of the first arcade games to combine live-action footage with electronics.",
+      "system": "mame",
+      "rom": "wldgunmn"
+    },
+    {
+      "id": "arc_736",
+      "text": "Arm Wrestling (1985) by Nintendo was a side-scrolling game where players pushed a joystick left and right against on-screen characters in an arm wrestling competition.",
+      "system": "mame",
+      "rom": "armwrest"
+    },
+    {
+      "id": "arc_737",
+      "text": "Playchoice-10 (1986) by Nintendo was an arcade system allowing operators to choose 10 NES games to offer per cabinet, bridging home and arcade markets.",
+      "system": "mame",
+      "rom": "playch10"
+    },
+    {
+      "id": "arc_738",
+      "text": "F-Zero AX (2003) by Nintendo/Sega on Triforce hardware was a futuristic racer with a Ghost recording feature and exclusive courses unavailable in the GameCube home version.",
+      "system": "mame",
+      "rom": "fzeroax"
+    },
+    {
+      "id": "arc_739",
+      "text": "Mario Kart Arcade GP (2005) by Nintendo/Namco on Triforce hardware was the first officially licensed Mario Kart arcade game, adding item customization and cup photography.",
+      "system": "mame",
+      "rom": "mkartgp"
+    },
+    {
+      "id": "arc_740",
+      "text": "Luigi's Mansion Arcade (2015) by Capcom/Nintendo converted the home game into a co-op light-gun shooter using a vacuum cannon controller.",
+      "system": "mame",
+      "rom": "luigisarcade"
+    },
+    {
+      "id": "arc_741",
+      "text": "Star Wars (1983) by Atari used vector graphics and digitized voice samples from the film — one of the first arcade games to feature authentic film audio.",
+      "system": "mame",
+      "rom": "starwars"
+    },
+    {
+      "id": "arc_742",
+      "text": "Return of the Jedi (1984) by Atari followed the vector Star Wars game with raster graphics, changing the visual style to match the different tone of the third film.",
+      "system": "mame",
+      "rom": "jedi"
+    },
+    {
+      "id": "arc_743",
+      "text": "Indiana Jones and the Temple of Doom (1985) by Atari was a top-down scrolling action game and one of the first fully licensed Indiana Jones arcade games.",
+      "system": "mame",
+      "rom": "indyjones"
+    },
+    {
+      "id": "arc_744",
+      "text": "Discs of Tron (1983) by Midway was an environmental cabinet with a curved monitor and surround sound, simulating the disc-throwing arena from the 1982 film.",
+      "system": "mame",
+      "rom": "dotron"
+    },
+    {
+      "id": "arc_745",
+      "text": "Tron (1982) by Midway featured four mini-games tied to the film and used a spinner control alongside a joystick for the light cycle segment.",
+      "system": "mame",
+      "rom": "tron"
+    },
+    {
+      "id": "arc_746",
+      "text": "Dragon Spirit (1987) by Namco was a vertically scrolling dragon-themed shooter where players could grow a second head by collecting power-ups, doubling firepower.",
+      "system": "mame",
+      "rom": "dspirit"
+    },
+    {
+      "id": "arc_747",
+      "text": "The Tower of Druaga (1984) by Namco was an early dungeon crawler in which players memorized the location of hidden doors and items — it had no in-game hints whatsoever.",
+      "system": "mame",
+      "rom": "todruaga"
+    },
+    {
+      "id": "arc_748",
+      "text": "Mach Breakers (Numan Athletics 2) (1994) by Namco was a sci-fi track-and-field game with button-mashing events using a futuristic cyborg sports theme.",
+      "system": "mame",
+      "rom": "machbrkr"
+    },
+    {
+      "id": "arc_749",
+      "text": "Giga Wing (1999) by Capcom on CPS-2 introduced a reflect barrier that could deflect all bullets back at enemies, creating enormous score multiplier chains.",
+      "system": "mame",
+      "rom": "gigawing"
+    },
+    {
+      "id": "arc_750",
+      "text": "19XX: The War Against Destiny (1995) by Capcom on CPS-2 was a vertical shooter with selectable ships and a lock-on weapon making it one of the series' most accessible entries.",
+      "system": "mame",
+      "rom": "19xx"
+    },
+    {
+      "id": "arc_751",
+      "text": "Dimahoo (2000) by Raizing/Capcom on CPS-2 featured a lock-on laser system and a scoring mechanic tied to grazing enemy bullets without taking damage.",
+      "system": "mame",
+      "rom": "dimahoo"
+    },
+    {
+      "id": "arc_752",
+      "text": "Progear no Arashi (2001) by Cave on CPS-2 was the last game released on the CPS-2 board — a horizontal steampunk shooter with a lock-on weapon system.",
+      "system": "mame",
+      "rom": "progear"
+    },
+    {
+      "id": "arc_753",
+      "text": "Night Slashers (1993) by Data East was a horror-themed beat-em-up featuring a priest, a cyborg soldier, and a vampire hunter fighting their way through a zombie apocalypse.",
+      "system": "mame",
+      "rom": "nslasher"
+    },
+    {
+      "id": "arc_754",
+      "text": "Violent Storm (1993) by Konami was a beat-em-up set in a post-apocalyptic world and featured garbage bin throws, pipe weapons, and a controversial but praised difficulty curve.",
+      "system": "mame",
+      "rom": "vstorm"
+    },
+    {
+      "id": "arc_755",
+      "text": "Vendetta (Crime Fighters 2) (1991) by Konami was a four-player simultaneous brawler with a gritty urban theme and destructible scenery.",
+      "system": "mame",
+      "rom": "vendetta"
+    },
+    {
+      "id": "arc_756",
+      "text": "Wild West C.O.W.-Boys of Moo Mesa (1992) by Konami was a four-player beat-em-up based on the Archie Comics animated series featuring anthropomorphic cattle in the Old West.",
+      "system": "mame",
+      "rom": "moomesa"
+    },
+    {
+      "id": "arc_757",
+      "text": "Bucky O'Hare (1992) by Konami was a side-scrolling run-and-gun platformer based on the comic and cartoon where each rescued ally had a unique power contribution.",
+      "system": "mame",
+      "rom": "bucky"
+    },
+    {
+      "id": "arc_758",
+      "text": "Asterix (1992) by Konami was a four-player beat-em-up based on the French comic characters, published exclusively in European arcades.",
+      "system": "mame",
+      "rom": "asterix"
+    },
+    {
+      "id": "arc_759",
+      "text": "Haunted Castle (1987) by Konami was the arcade version of Castlevania, featuring Simon Belmont in a harder and more expensive-per-life version of the NES game.",
+      "system": "mame",
+      "rom": "hauncast"
+    },
+    {
+      "id": "arc_760",
+      "text": "Lethal Crash Race (1993) by Ecole Software was a top-down racing game with car destruction — reducing rival vehicles to nothing before reaching the finish line.",
+      "system": "mame",
+      "rom": "lethcrsh"
+    },
+    {
+      "id": "arc_761",
+      "text": "Fast Furious (2004) by Raw Thrills based on the film franchise was the first officially licensed Fast & Furious arcade racing game, using photorealistic car models.",
+      "system": "teknoparrot",
+      "rom": "fastfurious"
+    },
+    {
+      "id": "arc_762",
+      "text": "Initial D Arcade Stage 4 (2006) was one of the first Japanese arcade games to require a card for all features — non-card play was severely limited.",
+      "system": "sega_naomi",
+      "rom": "initiald4"
+    },
+    {
+      "id": "arc_763",
+      "text": "Melty Blood: Actress Again (2008) by Ecole/Type-Moon was the final major 2D fighter released to Japanese arcades before the genre consolidated onto console and PC.",
+      "system": "mame",
+      "rom": "mbaa"
+    },
+    {
+      "id": "arc_764",
+      "text": "Under Night In-Birth (2012) by French Bread/Ecole was the last major arcade-first 2D fighter before the platform declined entirely, requiring NESYS network login for online versus.",
+      "system": "mame",
+      "rom": "unib"
+    },
+    {
+      "id": "arc_765",
+      "text": "Pump It Up Fiesta (2010) by Andamiro introduced the channel system allowing players to create curated playlists, influencing how later rhythm game cabinets managed content updates.",
+      "system": "mame",
+      "rom": "piu_fiesta"
+    },
+    {
+      "id": "arc_766",
+      "text": "Dance Dance Revolution X (2008) by Konami introduced the Extended chart type with 18-19 rated steps, officially surpassing any previous maximum difficulty in the series.",
+      "system": "mame",
+      "rom": "ddrx"
+    },
+    {
+      "id": "arc_767",
+      "text": "Groove Coaster (2011) by Taito used a single-rail timing track with only left and right buttons plus a stick flick, reducing inputs to pure rhythm without positional complexity.",
+      "system": "mame",
+      "rom": "gcoaster"
+    },
+    {
+      "id": "arc_768",
+      "text": "maimai (2012) by Sega used a circular screen surrounded by touch buttons arranged around the cabinet's inner wall, creating a 360-degree touch rhythm experience.",
+      "system": "mame",
+      "rom": "maimai"
+    },
+    {
+      "id": "arc_769",
+      "text": "Sound Voltex (2011) by Konami added two analog knob controllers to a six-button layout, requiring players to spin knobs in sync with the music while pressing keys.",
+      "system": "mame",
+      "rom": "sdvx"
+    },
+    {
+      "id": "arc_770",
+      "text": "Nostalgia (2017) by Konami used a realistic weighted piano keyboard as the input device, targeting players with musical instrument experience.",
+      "system": "mame",
+      "rom": "nostalgia"
+    },
+    {
+      "id": "arc_771",
+      "text": "Chunithm (2015) by Sega used a large touch-sensitive bar spanning the full cabinet width, requiring swipes, slides, and air gestures detected by infrared sensors.",
+      "system": "mame",
+      "rom": "chunithm"
+    },
+    {
+      "id": "arc_772",
+      "text": "Wangan Midnight Maximum Tune (2004) by Namco became one of Japan's longest-running card-based arcade racing series, with highway races and extensive car tuning persistence.",
+      "system": "mame",
+      "rom": "wmmt"
+    },
+    {
+      "id": "arc_773",
+      "text": "Battle Gear (1999) by Taito on Type X hardware was a Japanese arcade tuner racer where players could save car configurations on memory cards between sessions.",
+      "system": "taito_type_x",
+      "rom": "btlgear"
+    },
+    {
+      "id": "arc_774",
+      "text": "Virtua Golf (2001) by Sega on NAOMI used a real-feel golf club controller where swing speed, angle, and timing controlled shot power and direction.",
+      "system": "sega_naomi",
+      "rom": "vgolf"
+    },
+    {
+      "id": "arc_775",
+      "text": "Spikeout (1998) by Sega on Model 3 was a 3D beat-em-up supporting up to four players, featuring a charge system and environmental hazard interactions.",
+      "system": "sega_model_3",
+      "rom": "spikeout"
+    },
+    {
+      "id": "arc_776",
+      "text": "Dynamite Dux (1988) by Sega was a run-and-gun arcade game featuring two duck characters (Bin and Pin) fighting through surreal enemy-filled levels.",
+      "system": "mame",
+      "rom": "ddux"
+    },
+    {
+      "id": "arc_777",
+      "text": "Altered Beast (1988) by Sega used the phrase 'Rise from your grave!' as its opening line — one of the most recognizable audio samples in arcade history.",
+      "system": "mame",
+      "rom": "altbeast"
+    },
+    {
+      "id": "arc_778",
+      "text": "Rad Mobile (1991) by Sega was notable for including a small Sonic the Hedgehog figure hanging from the rearview mirror — Sonic's first-ever appearance in any game.",
+      "system": "mame",
+      "rom": "radm"
+    },
+    {
+      "id": "arc_779",
+      "text": "After Burner II (1987) by Sega used the OutRun Super Scaler hardware and offered a sit-down deluxe cabinet with a hydraulic motion base that tilted during barrel rolls.",
+      "system": "mame",
+      "rom": "aburner"
+    },
+    {
+      "id": "arc_780",
+      "text": "Space Harrier (1985) by Sega was the first game to use Sega's Super Scaler hardware for smooth sprite scaling at high speed in a third-person rail shooter.",
+      "system": "mame",
+      "rom": "sharrier"
+    },
+    {
+      "id": "arc_781",
+      "text": "Thunder Blade (1987) by Sega alternated between isometric top-down and behind-the-helicopter third-person perspectives in a helicopter combat game.",
+      "system": "mame",
+      "rom": "thndrbld"
+    },
+    {
+      "id": "arc_782",
+      "text": "Galaxy Force II (1988) by Sega was a full 3D rail shooter in a large rotating cabinet and used the System 32 hardware capable of nearly 100,000 polygons per second.",
+      "system": "mame",
+      "rom": "gforce2"
+    },
+    {
+      "id": "arc_783",
+      "text": "Outrun 2 (2003) by Sega on Chihiro hardware featured licensed Ferrari cars and a heart attack mode where passengers reacted to the player's driving performance.",
+      "system": "mame",
+      "rom": "outrun2"
+    },
+    {
+      "id": "arc_784",
+      "text": "Hyper Driving (Sega, 1994) was an early 3D racing game on Model 2 hardware and was considered a tech demo for the board's polygon rendering capabilities.",
+      "system": "sega_model_2",
+      "rom": "hyprdrvg"
+    },
+    {
+      "id": "arc_785",
+      "text": "Top Ranking Stars (Super Side Kicks 3) (1995) by SNK on Neo Geo was a top-down soccer game with stadium atmosphere sounds and national team rosters.",
+      "system": "neogeo",
+      "rom": "tpgolf"
+    },
+    {
+      "id": "arc_786",
+      "text": "Baseball Stars 2 (1992) by SNK on Neo Geo was one of the most realistic baseball simulations available in arcade form, supporting full nine-inning games.",
+      "system": "neogeo",
+      "rom": "bstars2"
+    },
+    {
+      "id": "arc_787",
+      "text": "NAM-1975 at Neo Geo launch demonstrated that arcade and home software could be identical, a first for the industry — no features removed for the home version.",
+      "system": "neogeo",
+      "rom": "nam1975"
+    },
+    {
+      "id": "arc_788",
+      "text": "Puzzle De Pon! (1996) by Visco on Neo Geo was a clone of Puzzle Bobble where monsters launched colored balls instead of dragons blowing bubbles.",
+      "system": "neogeo",
+      "rom": "pzloop2"
+    },
+    {
+      "id": "arc_789",
+      "text": "Panic Bomber (1994) by Hudson Soft on Neo Geo was a falling-block puzzle game starring Bomberman, where matching bomb icons triggered chain explosions.",
+      "system": "neogeo",
+      "rom": "panicbom"
+    },
+    {
+      "id": "arc_790",
+      "text": "Tetris (Neo Geo, 1993) by SNK was planned for the Neo Geo but was cancelled due to the Tetris license dispute — cartridge prototypes are among the rarest Neo Geo collectibles.",
+      "system": "neogeo",
+      "rom": "ngtetris"
+    },
+    {
+      "id": "arc_791",
+      "text": "Shock Troopers 2nd Squad (1998) by Noise Factory on Neo Geo added a vertically scrolling overhead mode to the original game's top-down run-and-gun gameplay.",
+      "system": "neogeo",
+      "rom": "shockt2"
+    },
+    {
+      "id": "arc_792",
+      "text": "Spin Master (Mystic Warriors 2) (1993) by Data East on Neo Geo was a side-scrolling run-and-gun about a young agent collecting a yo-yo as a projectile weapon.",
+      "system": "neogeo",
+      "rom": "spinmast"
+    },
+    {
+      "id": "arc_793",
+      "text": "Sengoku 3 (2001) by Noise Factory/Playmore on Neo Geo allowed mid-stage character switching and used the largest character sprites in the series.",
+      "system": "neogeo",
+      "rom": "sengoku3"
+    },
+    {
+      "id": "arc_794",
+      "text": "Alpha Mission II (1991) by SNK on Neo Geo was a vertical shooter where armor pieces could be collected and combined in flight for different attack configurations.",
+      "system": "neogeo",
+      "rom": "alpham2"
+    },
+    {
+      "id": "arc_795",
+      "text": "Prehistoric Isle 2 (1999) by Yumekobo on Neo Geo was a horizontal shooter set among dinosaurs and featured a grappling-arm mechanic to grab enemies as shields.",
+      "system": "neogeo",
+      "rom": "preisle2"
+    },
+    {
+      "id": "arc_796",
+      "text": "SVC Chaos on Neo Geo (2003) introduced mid-boss encounters before the final boss — an unusual structural choice that extended play time versus a straight ladder.",
+      "system": "neogeo",
+      "rom": "svcchaos"
+    },
+    {
+      "id": "arc_797",
+      "text": "Bang Bead (2000) by Visco on Neo Geo was a VS puzzle game where players bounced a ball between dividers to hit the opponent's field — a unique mechanic among puzzle games.",
+      "system": "neogeo",
+      "rom": "bangbead"
+    },
+    {
+      "id": "arc_798",
+      "text": "Captain Tomaday (1999) by Visco was the last vertical shooter published for Neo Geo hardware, released the same year as several competing NAOMI titles.",
+      "system": "neogeo",
+      "rom": "ctomaday"
+    },
+    {
+      "id": "arc_799",
+      "text": "Ironclad (Chotetsu Buhin Kuwasarettari) (1996) by Saurus on Neo Geo was a horizontal shooter praised for its detailed ship designs and fluid parallax scrolling backgrounds.",
+      "system": "neogeo",
+      "rom": "irrmaze"
+    },
+    {
+      "id": "arc_800",
+      "text": "Pleasure Goal (1996) by Saurus/SNK on Neo Geo was a two-on-two indoor soccer game with power shots that literally set the ball ablaze upon impact.",
+      "system": "neogeo",
+      "rom": "pleasgol"
+    }
+  ]
+}

@@ -1,0 +1,3004 @@
+{
+  "category": "hardware",
+  "facts": [
+    {
+      "id": "hw_001",
+      "text": "The MOS 6502 CPU powered systems like the NES, Commodore 64, and Atari 2600.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_002",
+      "text": "The Zilog Z80 processor was widely used in arcade machines and home computers.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_003",
+      "text": "The Motorola 68000 CPU powered the Sega Genesis and many arcade systems.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_004",
+      "text": "The PlayStation used a custom R3000A MIPS CPU at its core.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_005",
+      "text": "The Nintendo 64 used a 64-bit NEC VR4300 processor.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_006",
+      "text": "The SNES used a Ricoh 5A22 CPU based on the 65C816 architecture.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_007",
+      "text": "The Atari 2600 used the MOS 6507, a stripped-down version of the 6502.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_008",
+      "text": "The Sega Saturn used dual Hitachi SH-2 processors.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_009",
+      "text": "The Dreamcast used a Hitachi SH-4 CPU paired with a PowerVR GPU.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_010",
+      "text": "The Xbox used a custom Intel Pentium III processor.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_011",
+      "text": "The PlayStation 2 used the Emotion Engine, a custom MIPS-based CPU.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_012",
+      "text": "The GameCube used an IBM PowerPC Gekko processor.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_013",
+      "text": "The Wii reused a modified PowerPC-based Broadway CPU.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_014",
+      "text": "The Wii U used a tri-core IBM PowerPC Espresso CPU.",
+      "system": "nintendo_wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "hw_015",
+      "text": "The Switch uses a custom NVIDIA Tegra X1 system-on-chip.",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_016",
+      "text": "The NES PPU (Picture Processing Unit) handled sprite rendering and scrolling.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_017",
+      "text": "The SNES Mode 7 chip enabled background scaling and rotation effects.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_018",
+      "text": "The Atari 2600 had no frame buffer and rendered graphics line-by-line.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_019",
+      "text": "The PS1 GPU supported textured polygons and affine transformations.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_020",
+      "text": "The N64 used a Reality Coprocessor for 3D graphics acceleration.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_021",
+      "text": "The Neo Geo hardware was essentially an arcade system in home console form.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_022",
+      "text": "The Neo Geo AES and MVS shared identical hardware architecture.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_023",
+      "text": "The Sega Model 2 arcade board powered games like Daytona USA.",
+      "system": "sega_model_2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_024",
+      "text": "The Sega Model 3 board was one of the most powerful arcade systems of its time.",
+      "system": "sega_model_3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_025",
+      "text": "The Naomi arcade system was based on Dreamcast architecture.",
+      "system": "sega_naomi",
+      "rom": "default"
+    },
+    {
+      "id": "hw_026",
+      "text": "The CPS-1 arcade board powered early Capcom classics like Street Fighter II.",
+      "system": "capcom_play_system",
+      "rom": "default"
+    },
+    {
+      "id": "hw_027",
+      "text": "The CPS-2 board introduced stronger encryption to prevent arcade game piracy.",
+      "system": "capcom_play_system_ii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_028",
+      "text": "The CPS-3 system powered games like Street Fighter III.",
+      "system": "capcom_play_system_iii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_029",
+      "text": "The Zilog Z80 was often used as a sound CPU in arcade systems.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_030",
+      "text": "Arcade machines often used multiple CPUs for graphics, sound, and game logic.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_031",
+      "text": "The Game Boy used a custom Sharp LR35902 CPU.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_032",
+      "text": "The Game Boy Color used an upgraded version of the Sharp CPU with color support.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_033",
+      "text": "The Game Boy Advance used a 32-bit ARM7TDMI processor.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_034",
+      "text": "The PSP used a MIPS R4000-based CPU architecture.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_035",
+      "text": "The PS Vita used a quad-core ARM Cortex-A9 CPU.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_036",
+      "text": "The Atari Jaguar used a multi-chip architecture with Tom and Jerry processors.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_037",
+      "text": "The Atari Lynx was co-developed by Epyx and Atari engineers.",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_038",
+      "text": "The WonderSwan used a low-power NEC V30MZ CPU.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_039",
+      "text": "The WonderSwan Color improved display hardware over the original model.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_040",
+      "text": "The Neo Geo Pocket used a Toshiba TLCS-900H CPU.",
+      "system": "ngp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_041",
+      "text": "The Neo Geo Pocket Color improved on the original with a full-color LCD.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_042",
+      "text": "The Game Gear used a Zilog Z80 CPU similar to the Master System.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_043",
+      "text": "The Sega Master System also used a Zilog Z80 CPU.",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "hw_044",
+      "text": "The NES sound chip was the Ricoh 2A03, which included audio synthesis.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_045",
+      "text": "The SNES used a dedicated audio DSP for advanced sound effects.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_046",
+      "text": "The PS3 Cell processor used a unique multi-core architecture with SPE units.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_047",
+      "text": "The Xbox 360 used a triple-core Xenon CPU based on IBM PowerPC.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_048",
+      "text": "The PS4 used a semi-custom AMD Jaguar CPU and Radeon GPU.",
+      "system": "ps4",
+      "rom": "default"
+    },
+    {
+      "id": "hw_049",
+      "text": "The PS5 uses a custom AMD Zen 2 CPU and RDNA 2 GPU.",
+      "system": "ps5",
+      "rom": "default"
+    },
+    {
+      "id": "hw_050",
+      "text": "Modern consoles use unified memory architectures for CPU and GPU efficiency.",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_051",
+      "text": "The PlayStation 2 GPU, known as the Graphics Synthesizer, had extremely high fill-rate for its time.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_052",
+      "text": "The PS2 Emotion Engine included vector units for physics and geometry calculations.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_053",
+      "text": "The Nintendo 64 Reality Coprocessor handled both graphics and audio tasks.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_054",
+      "text": "The Dreamcast PowerVR GPU used tile-based rendering to optimize performance.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_055",
+      "text": "The Sega Saturn used two video display processors for 2D and 3D rendering.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_056",
+      "text": "The Atari Jaguar included a GPU called Tom and a DSP called Jerry.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_057",
+      "text": "The Neo Geo had dedicated sprite hardware capable of handling large on-screen objects.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_058",
+      "text": "Arcade boards often used separate chips for sound, video, and game logic.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_059",
+      "text": "The CPS-2 board used encryption chips to prevent game copying and bootlegging.",
+      "system": "capcom_play_system_ii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_060",
+      "text": "The CPS-3 system required a security cartridge for game decryption at boot.",
+      "system": "capcom_play_system_iii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_061",
+      "text": "The Sega Model 3 arcade board was capable of near-real-time 3D rendering in the 1990s.",
+      "system": "sega_model_3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_062",
+      "text": "The Sega Naomi system used interchangeable ROM boards similar to Dreamcast GD-ROMs.",
+      "system": "sega_naomi",
+      "rom": "default"
+    },
+    {
+      "id": "hw_063",
+      "text": "The Taito Type X arcade system was based on PC hardware architecture.",
+      "system": "taito_type_x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_064",
+      "text": "The CPS-1 arcade board helped define Capcom’s golden era of arcade games.",
+      "system": "capcom_play_system",
+      "rom": "default"
+    },
+    {
+      "id": "hw_065",
+      "text": "Many arcade boards used Motorola 68000 CPUs for main processing.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_066",
+      "text": "The NES PPU could only display 64 sprites at once.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_067",
+      "text": "The SNES Mode 7 allowed flat backgrounds to simulate 3D rotation.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_068",
+      "text": "The Game Boy screen resolution was only 160x144 pixels.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_069",
+      "text": "The Game Boy Advance had a resolution of 240x160 pixels.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_070",
+      "text": "The PSP screen resolution was 480x272 pixels.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_071",
+      "text": "The PS Vita featured a 960x544 OLED display in early models.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_072",
+      "text": "The Nintendo DS used two separate 256x192 pixel screens.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_073",
+      "text": "The 3DS top screen could display stereoscopic 3D without glasses.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_074",
+      "text": "The Wii GPU was based on an ATI Hollywood chipset.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_075",
+      "text": "The GameCube GPU was called 'Flipper' and was co-developed with ATI.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_076",
+      "text": "The PS3 GPU was based on NVIDIA’s RSX architecture.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_077",
+      "text": "The Xbox 360 GPU introduced unified shader architecture.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_078",
+      "text": "The PS4 and Xbox One both adopted AMD-based GPU architectures.",
+      "system": "ps4",
+      "rom": "default"
+    },
+    {
+      "id": "hw_079",
+      "text": "The PS5 GPU supports ray tracing acceleration in hardware.",
+      "system": "ps5",
+      "rom": "default"
+    },
+    {
+      "id": "hw_080",
+      "text": "Modern consoles use GDDR memory shared between CPU and GPU.",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_081",
+      "text": "The Atari 2600 used a Television Interface Adapter for video output.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_082",
+      "text": "The Atari 2600 required developers to manage scanlines manually.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_083",
+      "text": "The Sega Genesis supported hardware scrolling for smoother motion.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_084",
+      "text": "The Neo Geo could display 380 sprites simultaneously on screen.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_085",
+      "text": "The Dreamcast VMU used a low-power LCD for mini-display functions.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_086",
+      "text": "The Game Boy used a custom LCD with no backlight.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_087",
+      "text": "The Game Boy Color added a reflective color LCD panel.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_088",
+      "text": "The Game Gear screen was backlit, but power-hungry.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_089",
+      "text": "The Lynx had a wide-angle LCD display for better viewing angles.",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_090",
+      "text": "The WonderSwan used a highly efficient low-power LCD design.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_091",
+      "text": "The NES audio system used 5 channels for sound synthesis.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_092",
+      "text": "The SNES supported sample-based audio via its SPC700 chip.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_093",
+      "text": "The Genesis had FM synthesis audio via the Yamaha YM2612 chip.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_094",
+      "text": "The PS1 included a dedicated SPU for sound processing.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_095",
+      "text": "The N64 had advanced audio processing for real-time 3D sound effects.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_096",
+      "text": "Arcade machines often used CRT monitors tuned for specific refresh rates.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_097",
+      "text": "Many arcade boards were designed for coin-operated durability and heat resistance.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_098",
+      "text": "The CPS-2 system used battery-backed encryption keys that could expire.",
+      "system": "capcom_play_system_ii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_099",
+      "text": "The Sega Model 2 board was based on Sega’s partnership with Lockheed Martin.",
+      "system": "sega_model_2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_100",
+      "text": "Arcade hardware evolution drove early innovation in 3D gaming technology.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_101",
+      "text": "The Sega Saturn used a separate sound processor called the Yamaha FH1.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_102",
+      "text": "The PlayStation GPU used a fixed 1 MB of VRAM for textures and frame buffers.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_103",
+      "text": "The Nintendo 64 had only 4 KB of texture cache on its RCP.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_104",
+      "text": "The Dreamcast supported GD-ROM discs with higher capacity than CDs.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_105",
+      "text": "The Xbox original used a modified Windows NT kernel internally.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_106",
+      "text": "The PS2 used 32 MB of system RAM, which was extremely limited even for its time.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_107",
+      "text": "The GameCube used proprietary mini-discs instead of standard DVDs.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_108",
+      "text": "The Wii Remote used infrared LEDs tracked by a sensor bar for pointing control.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_109",
+      "text": "The Wii U GamePad included a built-in touchscreen controller display.",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "hw_110",
+      "text": "The Nintendo Switch supports both handheld and docked GPU modes.",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_111",
+      "text": "The Atari 2600 joystick port became a de facto standard for later controllers.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_112",
+      "text": "The Atari 800 home computer shared architecture concepts with arcade systems.",
+      "system": "atari800",
+      "rom": "default"
+    },
+    {
+      "id": "hw_113",
+      "text": "The Commodore 64 used the SID chip for advanced sound synthesis.",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_114",
+      "text": "The SID chip is still considered one of the most iconic sound chips ever made.",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_115",
+      "text": "The Amiga used the Paula chip for audio and DMA-based data transfer.",
+      "system": "amiga",
+      "rom": "default"
+    },
+    {
+      "id": "hw_116",
+      "text": "The Amiga’s graphics chipset supported multiple display modes simultaneously.",
+      "system": "amiga",
+      "rom": "default"
+    },
+    {
+      "id": "hw_117",
+      "text": "The ZX Spectrum used a simple framebuffer with attribute-based color limitations.",
+      "system": "zxspectrum",
+      "rom": "default"
+    },
+    {
+      "id": "hw_118",
+      "text": "The MSX standard unified hardware across multiple manufacturers in the 1980s.",
+      "system": "msx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_119",
+      "text": "The PC Engine used HuCards instead of traditional cartridges.",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "hw_120",
+      "text": "The Neo Geo AES cartridges could cost several hundred dollars at launch.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_121",
+      "text": "The CPS-2 system stored encryption keys in suicide battery-backed memory.",
+      "system": "capcom_play_system_ii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_122",
+      "text": "The CPS-3 system required CD-ROM based game loading with security checks.",
+      "system": "capcom_play_system_iii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_123",
+      "text": "The Sega Naomi 2 added improved geometry processing over Naomi 1.",
+      "system": "sega_naomi",
+      "rom": "default"
+    },
+    {
+      "id": "hw_124",
+      "text": "The Taito Type X systems used standard PC GPUs for arcade flexibility.",
+      "system": "taito_type_x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_125",
+      "text": "The Atomiswave system was based on Sega Dreamcast architecture.",
+      "system": "sammy_atomiswave",
+      "rom": "default"
+    },
+    {
+      "id": "hw_126",
+      "text": "The Nintendo DS used ARM9 and ARM7 dual processors for split workloads.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_127",
+      "text": "The 3DS added a dedicated GPU for stereoscopic rendering.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_128",
+      "text": "The PSP used a Media Engine co-processor for multimedia decoding.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_129",
+      "text": "The PS Vita included a dedicated GPU alongside its ARM CPU.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_130",
+      "text": "The Game Boy Advance SP added a backlight in later revisions.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_131",
+      "text": "The Game Boy Color CPU ran at roughly double the speed of the original Game Boy.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_132",
+      "text": "The Game Gear’s color LCD made it more advanced but less power efficient than Game Boy.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_133",
+      "text": "The Lynx supported hardware scaling and sprite zooming in real time.",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_134",
+      "text": "The WonderSwan’s design emphasized ultra-low power consumption.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_135",
+      "text": "The Neo Geo Pocket Color used a 16-bit CPU optimized for fighting games.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_136",
+      "text": "The Sega Dreamcast controller included a built-in VMU slot.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_137",
+      "text": "The VMU could function independently as a mini handheld device.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_138",
+      "text": "The NES Zapper used light sensing to detect CRT screen flashes.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_139",
+      "text": "The SNES Super FX chip enabled early 3D rendering in games like Star Fox.",
+      "system": "snes"
+    },
+    {
+      "id": "hw_140",
+      "text": "The Sega Genesis had an optional Sega CD add-on for expanded storage.",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "hw_141",
+      "text": "The Sega 32X add-on attempted to bridge Genesis and 32-bit generation.",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_142",
+      "text": "The Philips CD-i was an early multimedia console with CD-based software.",
+      "system": "philips_cd-i",
+      "rom": "default"
+    },
+    {
+      "id": "hw_143",
+      "text": "The Virtual Boy used red LED displays for stereoscopic 3D effects.",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_144",
+      "text": "The Vectrex used a vector display instead of raster graphics.",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "hw_145",
+      "text": "The Intellivision was a competitor to the Atari 2600 with superior graphics.",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "hw_146",
+      "text": "The ColecoVision brought arcade-quality graphics to home consoles in the 1980s.",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "hw_147",
+      "text": "The Magnavox Odyssey was the first commercial home video game console.",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "hw_148",
+      "text": "The Fairchild Channel F was the first console to use programmable cartridges.",
+      "system": "fairchild_channel_f",
+      "rom": "default"
+    },
+    {
+      "id": "hw_149",
+      "text": "The Bally Astrocade featured advanced color graphics for its era.",
+      "system": "bally_astrocade",
+      "rom": "default"
+    },
+    {
+      "id": "hw_150",
+      "text": "Early consoles often relied on custom hardware rather than standardized CPUs.",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_151",
+      "text": "The PlayStation 2 had built-in support for DVD playback without needing additional hardware.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_152",
+      "text": "The PS2’s Vector Units were heavily used for animation and physics calculations.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_153",
+      "text": "The Nintendo GameCube used a custom optical disc format to discourage piracy.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_154",
+      "text": "The Wii’s Broadway CPU was derived from the GameCube’s architecture.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_155",
+      "text": "The Wii U struggled due to limited third-party hardware optimization.",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "hw_156",
+      "text": "The Nintendo Switch Joy-Cons include HD rumble for advanced haptic feedback.",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_157",
+      "text": "The Switch uses a hybrid architecture enabling docked and handheld performance scaling.",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_158",
+      "text": "The Xbox original supported built-in hard drives, uncommon at the time.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_159",
+      "text": "The Xbox 360 introduced detachable hard drives for storage expansion.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_160",
+      "text": "The PS3’s Cell processor was extremely powerful but difficult to develop for.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_161",
+      "text": "The PSP UMD format was unique to Sony handhelds and never widely adopted elsewhere.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_162",
+      "text": "The PS Vita supported both physical cartridges and digital downloads.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_163",
+      "text": "The Nintendo DS Lite improved screen brightness dramatically over the original DS.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_164",
+      "text": "The 3DS’s autostereoscopic 3D effect required precise viewing angles.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_165",
+      "text": "The Game Boy Advance SP was the first Nintendo handheld with a built-in rechargeable battery.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_166",
+      "text": "The Game Boy line used link cables for multiplayer connectivity.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_167",
+      "text": "The Game Boy Color allowed limited palette changes for original Game Boy games.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_168",
+      "text": "The Game Gear TV Tuner allowed users to watch analog television on the device.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_169",
+      "text": "The Atari Lynx supported linking up to 17 devices in multiplayer sessions.",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_170",
+      "text": "The WonderSwan had an incredibly long battery life due to efficient hardware design.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_171",
+      "text": "The Neo Geo Pocket Color had a micro-switched joystick for precise input.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_172",
+      "text": "The Neo Geo AES used identical hardware to arcade MVS systems.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_173",
+      "text": "The Sega Genesis had expansion ports for accessories like the Sega CD.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_174",
+      "text": "The Sega CD added full-motion video capabilities to Genesis games.",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "hw_175",
+      "text": "The Sega 32X was designed to extend Genesis life into 32-bit gaming.",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_176",
+      "text": "The Atari 2600 joystick became one of the most recognizable controller designs ever.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_177",
+      "text": "The Atari 5200 controller used analog input but was notoriously unreliable.",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "hw_178",
+      "text": "The Intellivision controller used a numeric keypad instead of a joystick.",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "hw_179",
+      "text": "The ColecoVision expansion module allowed Atari 2600 compatibility.",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "hw_180",
+      "text": "The Vectrex included a built-in vector monitor, eliminating the need for a TV.",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "hw_181",
+      "text": "The Philips CD-i supported multimedia applications beyond gaming.",
+      "system": "philips_cd-i",
+      "rom": "default"
+    },
+    {
+      "id": "hw_182",
+      "text": "The Virtual Boy required a stand and viewed games through dual mirrors.",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_183",
+      "text": "The Sega Dreamcast supported broadband modem accessories in some regions.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_184",
+      "text": "The PS1 memory card stored only 1 MB of save data.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_185",
+      "text": "The Nintendo 64 controller introduced a central analog stick design.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_186",
+      "text": "The SNES Super Game Boy allowed Game Boy games to be played on TV.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_187",
+      "text": "The NES Advantage controller was designed for arcade-style gameplay.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_188",
+      "text": "The Sega Master System had a light gun accessory called the Light Phaser.",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "hw_189",
+      "text": "The Atari Jaguar CD add-on extended storage capacity for larger games.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_190",
+      "text": "The Neo Geo memory card allowed arcade progress to be saved at home.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_191",
+      "text": "The Game Boy Camera included built-in mini-games and editing tools.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_192",
+      "text": "The PSP Go removed the UMD drive in favor of digital downloads.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_193",
+      "text": "The PS Vita Slim improved ergonomics and reduced weight.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_194",
+      "text": "The Nintendo DS could download demos and content via Nintendo Wi-Fi Connection.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_195",
+      "text": "The 3DS eShop allowed digital distribution of indie and retro games.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_196",
+      "text": "The Xbox Kinect used infrared depth sensing for motion tracking.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_197",
+      "text": "The PlayStation Move used motion tracking with colored orb controllers.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_198",
+      "text": "The Wii Balance Board measured weight distribution for fitness games.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_199",
+      "text": "Arcade cabinets often included DIP switches to configure difficulty and settings.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_200",
+      "text": "Hardware evolution in gaming consistently pushed graphics and memory limits forward.",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_201",
+      "text": "Pac-Man was originally called 'Puck-Man' in Japan before being renamed for Western release.",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "hw_202",
+      "text": "Donkey Kong was one of the first games to feature a jumping mechanic as core gameplay.",
+      "system": "mame",
+      "rom": "dkong"
+    },
+    {
+      "id": "hw_203",
+      "text": "The original Street Fighter had pressure-sensitive punch and kick pads in the arcade cabinet.",
+      "system": "mame",
+      "rom": "sf"
+    },
+    {
+      "id": "hw_204",
+      "text": "Galaga was a sequel to Galaxian and introduced the ability to capture your own ship.",
+      "system": "mame",
+      "rom": "galaga"
+    },
+    {
+      "id": "hw_205",
+      "text": "Space Invaders was so popular it caused a shortage of 100-yen coins in Japan.",
+      "system": "mame",
+      "rom": "invaders"
+    },
+    {
+      "id": "hw_206",
+      "text": "The NES was known as the Famicom in Japan, short for Family Computer.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_207",
+      "text": "The Nintendo Entertainment System helped revive the video game industry after the 1983 crash.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_208",
+      "text": "Super Mario Bros. helped define side-scrolling platform games.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_209",
+      "text": "The NES controller helped popularize the D-pad design.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_210",
+      "text": "The Legend of Zelda introduced battery-backed saving in cartridges.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_211",
+      "text": "The Sega Genesis was known as the Mega Drive outside North America.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_212",
+      "text": "Sonic the Hedgehog was designed to compete directly with Mario’s popularity.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_213",
+      "text": "The Genesis used a Motorola 68000 CPU similar to early home computers.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_214",
+      "text": "The Sega Genesis marketing slogan was 'Genesis does what Nintendon’t'.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_215",
+      "text": "Mortal Kombat on Genesis was famous for having uncensored blood via a cheat code.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_216",
+      "text": "The Atari 2600 helped establish interchangeable game cartridges as the standard.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_217",
+      "text": "Pitfall! was one of the earliest platform adventure games on home consoles.",
+      "system": "atari2600",
+      "rom": "pitfall"
+    },
+    {
+      "id": "hw_218",
+      "text": "The Atari 2600 joystick had a single button and a digital directional stick.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_219",
+      "text": "E.T. for Atari 2600 is often cited as part of the 1983 video game crash.",
+      "system": "atari2600",
+      "rom": "et"
+    },
+    {
+      "id": "hw_220",
+      "text": "The Atari 2600 had only 128 bytes of RAM.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_221",
+      "text": "The PlayStation was originally a failed Nintendo collaboration project.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_222",
+      "text": "Final Fantasy VII helped establish cinematic storytelling in RPGs.",
+      "system": "psx",
+      "rom": "ff7"
+    },
+    {
+      "id": "hw_223",
+      "text": "Metal Gear Solid pioneered stealth gameplay on consoles.",
+      "system": "psx",
+      "rom": "mgs"
+    },
+    {
+      "id": "hw_224",
+      "text": "The PlayStation used CD-ROMs instead of cartridges to reduce production costs.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_225",
+      "text": "The original PlayStation sold over 100 million units worldwide.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_226",
+      "text": "The Nintendo 64 introduced analog control with its unique controller design.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_227",
+      "text": "Super Mario 64 was one of the first fully 3D platform games.",
+      "system": "n64",
+      "rom": "sm64"
+    },
+    {
+      "id": "hw_228",
+      "text": "The Nintendo 64 used cartridges instead of CDs, limiting storage but improving load times.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_229",
+      "text": "GoldenEye 007 helped define console multiplayer FPS gaming.",
+      "system": "n64",
+      "rom": "goldeneye"
+    },
+    {
+      "id": "hw_230",
+      "text": "The Nintendo 64 was named after its 64-bit processor architecture.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_231",
+      "text": "The Game Boy helped define portable gaming as a mainstream market.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_232",
+      "text": "Pokémon Red and Blue became cultural phenomena on the Game Boy.",
+      "system": "gb",
+      "rom": "pokemon"
+    },
+    {
+      "id": "hw_233",
+      "text": "The Game Boy had a famously long battery life compared to competitors.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_234",
+      "text": "The Game Boy’s monochrome screen was chosen to maximize battery life.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_235",
+      "text": "Tetris became one of the most iconic pack-in games in history.",
+      "system": "gb",
+      "rom": "tetris"
+    },
+    {
+      "id": "hw_236",
+      "text": "The SNES introduced Mode 7 graphics for pseudo-3D effects.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_237",
+      "text": "Super Metroid is considered one of the best action-adventure games ever made.",
+      "system": "snes",
+      "rom": "metroid"
+    },
+    {
+      "id": "hw_238",
+      "text": "The SNES controller introduced the X and Y face buttons.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_239",
+      "text": "Chrono Trigger featured multiple endings based on player choices.",
+      "system": "snes",
+      "rom": "ct"
+    },
+    {
+      "id": "hw_240",
+      "text": "The SNES is widely considered one of Nintendo’s greatest consoles.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_241",
+      "text": "The Dreamcast was the first console with built-in online play.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_242",
+      "text": "Sonic Adventure was a flagship launch title for the Dreamcast.",
+      "system": "dreamcast",
+      "rom": "sonic"
+    },
+    {
+      "id": "hw_243",
+      "text": "The Dreamcast VMU had a built-in screen for mini-games and stats.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_244",
+      "text": "The Dreamcast was Sega’s final home console.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_245",
+      "text": "Crazy Taxi became one of the Dreamcast’s most iconic arcade-style games.",
+      "system": "dreamcast",
+      "rom": "crazytaxi"
+    },
+    {
+      "id": "hw_246",
+      "text": "The PS2 could play DVDs, making it a popular home entertainment device.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_247",
+      "text": "Grand Theft Auto: San Andreas became one of the best-selling PS2 games.",
+      "system": "ps2",
+      "rom": "gtasa"
+    },
+    {
+      "id": "hw_248",
+      "text": "The PS2 had a massive game library with over 3,800 titles.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_249",
+      "text": "Shadow of the Colossus was praised for its artistic minimalist design.",
+      "system": "ps2",
+      "rom": "sotc"
+    },
+    {
+      "id": "hw_250",
+      "text": "The PS2 remains the best-selling console of all time.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_251",
+      "text": "Pac-Man was designed to appeal to a wider audience, including women, which was rare for arcade games at the time.",
+      "system": "mame",
+      "rom": "pacman"
+    },
+    {
+      "id": "hw_252",
+      "text": "Donkey Kong was one of Nintendo’s first major arcade hits and introduced Mario as 'Jumpman'.",
+      "system": "mame",
+      "rom": "dkong"
+    },
+    {
+      "id": "hw_253",
+      "text": "Space Invaders introduced the concept of increasing difficulty as enemies speed up.",
+      "system": "mame",
+      "rom": "invaders"
+    },
+    {
+      "id": "hw_254",
+      "text": "Asteroids used vector graphics instead of sprite-based rendering.",
+      "system": "mame",
+      "rom": "asteroids"
+    },
+    {
+      "id": "hw_255",
+      "text": "Ms. Pac-Man was originally created as an unofficial enhancement kit for Pac-Man.",
+      "system": "mame",
+      "rom": "mspacman"
+    },
+    {
+      "id": "hw_256",
+      "text": "Street Fighter II popularized the fighting game genre worldwide.",
+      "system": "mame",
+      "rom": "sf2"
+    },
+    {
+      "id": "hw_257",
+      "text": "Mortal Kombat used digitized actors for its character sprites.",
+      "system": "mame",
+      "rom": "mk"
+    },
+    {
+      "id": "hw_258",
+      "text": "Final Fight helped define the side-scrolling beat-em-up genre.",
+      "system": "mame",
+      "rom": "ffight"
+    },
+    {
+      "id": "hw_259",
+      "text": "NBA Jam became famous for its exaggerated arcade-style basketball gameplay.",
+      "system": "mame",
+      "rom": "nbajam"
+    },
+    {
+      "id": "hw_260",
+      "text": "Pac-Land was one of the first arcade games to feature side-scrolling movement.",
+      "system": "mame",
+      "rom": "pacland"
+    },
+    {
+      "id": "hw_261",
+      "text": "The Sega Saturn had strong 2D capabilities that made it popular for arcade ports.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_262",
+      "text": "Nights into Dreams showcased the Saturn’s graphical capabilities.",
+      "system": "saturn",
+      "rom": "nights"
+    },
+    {
+      "id": "hw_263",
+      "text": "The Saturn’s dual-CPU design made it difficult for developers to optimize games.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_264",
+      "text": "The Saturn was released earlier than the PlayStation in North America, hurting its market performance.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_265",
+      "text": "Virtua Fighter helped establish 3D fighting games on consoles.",
+      "system": "saturn",
+      "rom": "vf"
+    },
+    {
+      "id": "hw_266",
+      "text": "The Atari Jaguar was marketed as a 64-bit system despite debate over its architecture.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_267",
+      "text": "Alien vs Predator is one of the most notable Atari Jaguar games.",
+      "system": "atarijaguar",
+      "rom": "avp"
+    },
+    {
+      "id": "hw_268",
+      "text": "The Jaguar controller included a numeric keypad for extended input.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_269",
+      "text": "The Atari Jaguar struggled due to a small game library.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_270",
+      "text": "Tempest 2000 was a standout title showcasing the Jaguar’s capabilities.",
+      "system": "atarijaguar",
+      "rom": "tempest"
+    },
+    {
+      "id": "hw_271",
+      "text": "The Neo Geo AES was considered a luxury console due to extremely expensive cartridges.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_272",
+      "text": "The King of Fighters series became one of SNK’s most iconic franchises.",
+      "system": "neogeo",
+      "rom": "kof"
+    },
+    {
+      "id": "hw_273",
+      "text": "Metal Slug is famous for its detailed pixel art and animation.",
+      "system": "neogeo",
+      "rom": "mslug"
+    },
+    {
+      "id": "hw_274",
+      "text": "Neo Geo hardware was essentially arcade-perfect at home.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_275",
+      "text": "Samurai Shodown helped define weapon-based fighting games.",
+      "system": "neogeo",
+      "rom": "samsho"
+    },
+    {
+      "id": "hw_276",
+      "text": "The Game Boy Camera allowed users to take and edit black-and-white photos.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_277",
+      "text": "The Game Boy Printer let users print images from the Game Boy Camera.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_278",
+      "text": "The Game Boy Pocket was a smaller, lighter revision of the original Game Boy.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_279",
+      "text": "The original Game Boy screen had no backlight, relying on ambient light.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_280",
+      "text": "The Game Boy helped establish portable gaming as a global phenomenon.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_281",
+      "text": "The PSP was one of the first handhelds to support full motion video playback.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_282",
+      "text": "God of War: Chains of Olympus was a major PSP exclusive.",
+      "system": "psp",
+      "rom": "gow"
+    },
+    {
+      "id": "hw_283",
+      "text": "The PSP had Wi-Fi connectivity for online multiplayer gaming.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_284",
+      "text": "The PSP Go was the first major Sony handheld to go fully digital.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_285",
+      "text": "Monster Hunter became extremely popular on PSP in Japan.",
+      "system": "psp",
+      "rom": "mh"
+    },
+    {
+      "id": "hw_286",
+      "text": "The PlayStation Vita featured dual analog sticks, a first for Sony handhelds.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_287",
+      "text": "Uncharted: Golden Abyss was a flagship PS Vita launch title.",
+      "system": "psvita",
+      "rom": "uncharted"
+    },
+    {
+      "id": "hw_288",
+      "text": "The PS Vita had a rear touchpad for unique control schemes.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_289",
+      "text": "The PS Vita could connect to the PS3 and PS4 for remote play.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_290",
+      "text": "Persona 4 Golden is widely considered one of the best PS Vita games.",
+      "system": "psvita",
+      "rom": "p4g"
+    },
+    {
+      "id": "hw_291",
+      "text": "The Nintendo DS introduced PictoChat for local messaging between devices.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_292",
+      "text": "Mario Kart DS helped popularize online handheld racing games.",
+      "system": "nintendo_ds",
+      "rom": "mkds"
+    },
+    {
+      "id": "hw_293",
+      "text": "The DS had two separate screens that enabled unique gameplay mechanics.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_294",
+      "text": "Brain Age became a surprise hit that expanded the DS audience.",
+      "system": "nintendo_ds",
+      "rom": "brainage"
+    },
+    {
+      "id": "hw_295",
+      "text": "The Nintendo DS helped bring casual gaming into the mainstream.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_296",
+      "text": "The Nintendo 3DS initially launched with a high price before a rapid price cut.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_297",
+      "text": "Animal Crossing: New Leaf became a defining 3DS title.",
+      "system": "nintendo_3ds",
+      "rom": "acnl"
+    },
+    {
+      "id": "hw_298",
+      "text": "The 3DS introduced augmented reality cards for interactive gameplay.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_299",
+      "text": "The New Nintendo 3DS improved performance for more demanding games.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_300",
+      "text": "The Nintendo 3DS succeeded despite competition from smartphones.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_301",
+      "text": "The original Xbox used a custom 733 MHz Intel Pentium III processor and 64 MB of RAM, making it the most powerful console of its generation.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_302",
+      "text": "The original Xbox included a built-in 8 GB hard drive, the first console to ship with one as standard, enabling game saves without memory cards.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_303",
+      "text": "The Xbox 360 shipped in two configurations at launch: a Core system without a hard drive and a Premium bundle with a 20 GB detachable drive.",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_304",
+      "text": "The Xbox 360's three-core IBM Xenon CPU ran at 3.2 GHz and used a unified shader architecture that was ahead of its time for consoles.",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_305",
+      "text": "The Xbox 360 Red Ring of Death failure rate was estimated at 54% by some analysts; Microsoft extended warranties to three years and set aside over $1 billion to cover repairs.",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_306",
+      "text": "The Xbox One X in 2017 featured 6 teraflops of GPU performance and 12 GB of GDDR5 RAM, making it the most powerful console hardware available at its release.",
+      "system": "xboxone",
+      "rom": "default"
+    },
+    {
+      "id": "hw_307",
+      "text": "The Xbox Series X uses a custom AMD Zen 2 CPU with 8 cores at 3.8 GHz and an RDNA 2 GPU delivering 12 teraflops, paired with 16 GB of GDDR6 memory.",
+      "system": "xboxseriesx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_308",
+      "text": "The Xbox 360's GPU was an ATI Xenos chip designed specifically for the console, featuring 48 unified shaders — a design that influenced the PC graphics industry.",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_309",
+      "text": "The PS3's Cell Broadband Engine consisted of one Power Processing Element and seven Synergistic Processing Elements, delivering a theoretical 218 GFLOPS.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_310",
+      "text": "The PS3 launched at $499 for the 20 GB model and $599 for the 60 GB model in 2006, making it one of the most expensive console launches in history.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_311",
+      "text": "The original 60 GB PS3 included hardware PS2 backward compatibility using a secondary Emotion Engine chip; later slim models removed this entirely.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_312",
+      "text": "The PS4 Pro added a second GPU cluster to reach 4.2 teraflops of compute performance, up from the base PS4's 1.84 teraflops.",
+      "system": "ps4",
+      "rom": "default"
+    },
+    {
+      "id": "hw_313",
+      "text": "The PS5 uses a custom AMD Zen 2 CPU at 3.5 GHz with an RDNA 2 GPU at 10.28 teraflops, paired with an ultra-fast 825 GB NVMe SSD achieving 5.5 GB/s.",
+      "system": "ps5",
+      "rom": "default"
+    },
+    {
+      "id": "hw_314",
+      "text": "The PS5's DualSense controller introduced haptic feedback motors replacing traditional rumble, plus adaptive triggers with variable resistance controlled by the game.",
+      "system": "ps5",
+      "rom": "default"
+    },
+    {
+      "id": "hw_315",
+      "text": "Sony's PS Vita used an ARM Cortex-A9 quad-core CPU and a quad-core PowerVR SGX543MP4+ GPU, making it the most powerful handheld at its 2012 launch.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_316",
+      "text": "The PS Vita used proprietary memory cards that were significantly more expensive than standard SD cards, widely cited as a key factor in its poor sales.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_317",
+      "text": "The Nintendo 64 used a 64-bit NEC VR4300 CPU running at 93.75 MHz, but its 9 MB of total RAM was a bottleneck that developers frequently cited.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_318",
+      "text": "The N64's Reality Co-Processor (RCP) combined both the graphics processor and the audio processor into a single custom chip designed by SGI.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_319",
+      "text": "The GameCube's custom IBM PowerPC Gekko CPU ran at 485 MHz and was paired with an ATI Flipper GPU; both chips were designed specifically for Nintendo.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_320",
+      "text": "The GameCube's proprietary 8 cm optical discs held 1.5 GB of data and were chosen partly to prevent easy piracy, as standard DVD drives couldn't read them.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_321",
+      "text": "The Wii's main processor was a 729 MHz IBM Broadway chip — essentially a refined version of the GameCube's Gekko — maintaining backward compatibility.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_322",
+      "text": "The Wii Remote used a Broadcom Bluetooth chip and a PixArt optical sensor to detect the IR LEDs in the sensor bar, not any motion from the bar itself.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_323",
+      "text": "The Wii U's GamePad featured a 6.2-inch touchscreen and used a custom 802.11n 5 GHz band to stream video from the console at up to 60 fps with very low latency.",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "hw_324",
+      "text": "The Nintendo Switch's NVIDIA Tegra X1 SoC runs at reduced clock speeds when docked (1 GHz CPU / 768 MHz GPU) versus handheld mode (1 GHz CPU / 307 MHz GPU) to manage heat.",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_325",
+      "text": "The Nintendo Switch cartridges use a coating that tastes extremely bitter to deter children from putting them in their mouths, a deliberate safety design decision.",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_326",
+      "text": "The Nintendo 3DS uses two separate ARM processors: the new ARM11 MPCore for main processing and the original Nintendo DS's ARM9 and ARM7 for backward compatibility.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_327",
+      "text": "The New Nintendo 3DS upgraded the CPU to a quad-core ARM11 at 804 MHz from the original's single-core 268 MHz, and added a second analog nub called the C-stick.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_328",
+      "text": "The Game Boy Advance SP introduced a clamshell design, a front-lit (later backlit) screen, and a rechargeable lithium-ion battery — all significant improvements over the original GBA.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_329",
+      "text": "The Game Boy Micro, released in 2005, was the smallest Game Boy ever at 50 mm × 101 mm and weighed only 80 grams, but lacked backward compatibility with original Game Boy games.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_330",
+      "text": "The Nintendo DS used two separate ARM processors — ARM9 at 67 MHz and ARM7 at 33 MHz — plus two displays, a touchscreen, and a microphone, all in a clamshell body.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_331",
+      "text": "The Sega Genesis used a Motorola 68000 CPU at 7.6 MHz as the main processor and a Zilog Z80 at 3.58 MHz as a secondary audio processor.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_332",
+      "text": "The Sega Mega Drive (Genesis) had a palette of 512 colors but could only display 61 on screen simultaneously without special programming tricks.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_333",
+      "text": "The Sega Saturn used two Hitachi SH-2 CPUs running in parallel at 28.6 MHz each, a design that proved notoriously difficult for developers to program efficiently.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_334",
+      "text": "The Saturn's VDP1 chip rendered quadrilateral polygons rather than triangles, which was unusual and contributed to some visual distortion compared to competitors.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_335",
+      "text": "The Dreamcast used a Hitachi SH-4 CPU at 200 MHz and a custom NEC PowerVR2 CLX2 GPU capable of 3 million polygons per second.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_336",
+      "text": "The Dreamcast was the first console to ship standard with a built-in 56K modem for online play, though the US version used a 33.6K modem at launch.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_337",
+      "text": "The Sega Game Gear used the same processor as the Master System — a 3.58 MHz Zilog Z80 — making it essentially a portable Master System with a backlit color screen.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_338",
+      "text": "The Game Gear's backlit color LCD consumed battery power rapidly; it required 6 AA batteries and typically lasted only 3 to 5 hours per set.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hw_339",
+      "text": "The Sega CD (Mega-CD) added a 12.5 MHz Motorola 68000 as a coprocessor to the Genesis, along with 6 Mbit of additional RAM and a hardware scaler/rotator chip.",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "hw_340",
+      "text": "The Sega 32X contained two Hitachi SH-2 CPUs at 23 MHz and could display up to 32,768 colors, but its complex setup requiring both Sega CD and Genesis limited its appeal.",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_341",
+      "text": "The Atari 2600 used a MOS 6507 CPU at 1.19 MHz — a cost-reduced variant of the 6502 with fewer address lines — paired with the custom TIA graphics chip.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_342",
+      "text": "The Atari 2600's TIA chip had no frame buffer; it generated the video signal in real time one scanline at a time, requiring programmers to race the electron beam.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_343",
+      "text": "The Atari 5200 used an Atari 400/800 computer architecture with a 1.79 MHz MOS 6502C CPU and the GTIA graphics chip, but lacked the 2600's joystick port compatibility.",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "hw_344",
+      "text": "The Atari Jaguar's packaging and marketing claimed 64-bit performance, but the CPU (Motorola 68000) was 32-bit; the 64-bit claim referred to its custom object processor bus width.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_345",
+      "text": "The Atari Jaguar included two custom processors named 'Tom' (graphics) and 'Jerry' (audio/DSP), plus a 26.6 MHz Motorola 68000 as the main CPU.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "hw_346",
+      "text": "The Atari Lynx was the world's first color handheld game console, featuring a 16-bit custom Mikey CPU at 4 MHz and hardware sprite scaling and rotation.",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_347",
+      "text": "The Atari Lynx's screen could be flipped 180 degrees so left-handed players could hold it comfortably — a unique ergonomic feature for its time.",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_348",
+      "text": "The NES used a Ricoh 2A03 CPU running at 1.79 MHz, which was a modified MOS 6502 with the decimal mode disabled and an integrated audio processing unit.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_349",
+      "text": "The NES's PPU (Picture Processing Unit) supported a maximum of 64 sprites simultaneously but could only display 8 per scanline, causing the characteristic sprite flicker.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_350",
+      "text": "The NES cartridge 10NES lockout chip ran at 1 MHz and required a matching chip in the console to authenticate, causing many third-party publishers to clone or bypass it.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_351",
+      "text": "The SNES used a 16-bit Ricoh 5A22 CPU (based on the 65C816) running at up to 3.58 MHz, with a custom Sony SPC700 sound chip delivering 8 channels of sampled audio.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_352",
+      "text": "The SNES's Mode 7 graphics mode allowed the PPU to rotate and scale a single background layer, creating pseudo-3D perspective effects without additional hardware.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_353",
+      "text": "The SNES could display up to 256 colors on screen simultaneously from a palette of 32,768, a significant leap over the NES's 25 simultaneous colors from 54 total.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_354",
+      "text": "The Super FX chip, a custom RISC processor at 10.5 MHz embedded in certain SNES cartridges, enabled real-time 3D polygon rendering that the base console hardware couldn't perform.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_355",
+      "text": "The Sega Master System used a 3.58 MHz Zilog Z80 CPU and a Texas Instruments TMS9918-derived VDP that could display 64 colors from a 64-color palette.",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "hw_356",
+      "text": "The Sega Master System's Japanese version (Mark III) used a different cartridge connector than the Western versions, and the Japanese version required an FM sound unit add-on for enhanced audio.",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "hw_357",
+      "text": "The PC Engine (TurboGrafx-16) used a custom HuC6280 CPU based on the 65C02 at 7.16 MHz — faster than both the NES and early Genesis — with a powerful 16-color-per-sprite GPU.",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "hw_358",
+      "text": "The PC Engine's HuCard format was smaller than a credit card, making it the smallest game media of its era; the console itself was also notably compact.",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "hw_359",
+      "text": "The PC Engine CD-ROM² add-on, released in 1988, was the first CD-ROM peripheral for a home console and added 64 KB of RAM plus a CD audio streaming capability.",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "hw_360",
+      "text": "The Neo Geo AES home console used the exact same Motorola 68000 CPU at 12 MHz and Zilog Z80 audio processor as the MVS arcade hardware, ensuring true arcade-perfect conversions.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_361",
+      "text": "The Neo Geo AES supported up to 4 simultaneous players via a multi-tap accessory and featured two controller ports with 6-button arcade-style pads.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_362",
+      "text": "Neo Geo MVS arcade boards supported multiple game cartridges in a single cabinet (1 to 6 slots depending on the board), allowing operators to offer multiple games in one machine.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_363",
+      "text": "The Neo Geo CD, released in 1994, replaced cartridges with CD-ROM but featured a notoriously slow 1x CD drive causing load times of 30 to 60 seconds between rounds.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_364",
+      "text": "The Neo Geo Pocket Color used a custom 16-bit Toshiba TLCS900H CPU at 6 MHz and a secondary Z80 for sound, in a compact clamshell-adjacent design with a clicky micro-switch joystick.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_365",
+      "text": "The WonderSwan used a 16-bit NEC V30MZ CPU at 3.072 MHz — a variant of the Intel 8086 — consuming only a single AA battery for approximately 30 hours of play.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_366",
+      "text": "The WonderSwan Color upgraded the display to a TFT color LCD capable of 241 colors on screen from a 4,096-color palette, while retaining backward compatibility.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_367",
+      "text": "The WonderSwan could be oriented both horizontally and vertically thanks to its buttons on multiple edges, allowing games to use portrait mode for a taller play area.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hw_368",
+      "text": "The Commodore 64 used a 6510 CPU at 0.985 MHz (PAL) or 1.023 MHz (NTSC), with the MOS 6581 SID chip providing three voices of synthesis and a programmable filter.",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_369",
+      "text": "The Commodore 64's VIC-II graphics chip could display 16 colors, 40×25 text, hardware sprites (up to 8 simultaneously), and smooth hardware scrolling.",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_370",
+      "text": "The Commodore Amiga 500 used a Motorola 68000 at 7.16 MHz paired with three custom chips: Agnus (DMA and memory), Denise (video), and Paula (audio/IO).",
+      "system": "amiga",
+      "rom": "default"
+    },
+    {
+      "id": "hw_371",
+      "text": "The Amiga's custom chip set enabled hardware-assisted blitting — copying rectangular blocks of data in the background — freeing the CPU for other tasks simultaneously.",
+      "system": "amiga",
+      "rom": "default"
+    },
+    {
+      "id": "hw_372",
+      "text": "The Amiga 1200 upgraded to an AGA chip set with a 24-bit color palette (16.7 million colors) and could display up to 256,000 colors on screen using HAM-8 mode.",
+      "system": "amiga",
+      "rom": "default"
+    },
+    {
+      "id": "hw_373",
+      "text": "The ZX Spectrum used a Zilog Z80 CPU at 3.5 MHz and had only 16 KB or 48 KB of RAM; its rubber keyboard and attribute-based color system defined its character.",
+      "system": "zxspectrum",
+      "rom": "default"
+    },
+    {
+      "id": "hw_374",
+      "text": "The ZX Spectrum's ULA (Uncommitted Logic Array) custom chip handled video generation, keyboard scanning, and cassette interface in a single chip to minimize component count.",
+      "system": "zxspectrum",
+      "rom": "default"
+    },
+    {
+      "id": "hw_375",
+      "text": "The MSX standard was defined by Microsoft and ASCII Corporation in 1983 as a common hardware specification, ensuring software compatibility across machines from multiple manufacturers.",
+      "system": "msx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_376",
+      "text": "MSX computers used a Zilog Z80 CPU at 3.58 MHz and a Texas Instruments TMS9918 VDP; the MSX2 standard added the Yamaha V9938 chip with higher resolution and more colors.",
+      "system": "msx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_377",
+      "text": "CPS-1 (Capcom Play System 1) used a 10 MHz Motorola 68000 main CPU and a Zilog Z80 audio CPU, with a custom graphics chip capable of large multi-layered sprites.",
+      "system": "capcom_play_system",
+      "rom": "default"
+    },
+    {
+      "id": "hw_378",
+      "text": "CPS-2 introduced encrypted ROMs to prevent bootleg copies; each board contained a suicide battery that erased the decryption keys if tampered with or if the battery died.",
+      "system": "capcom_play_system_ii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_379",
+      "text": "CPS-3 used a custom SH-2-based CPU, SIMM memory modules instead of mask ROMs, and CD-ROM for software distribution — an unusual approach for dedicated arcade hardware.",
+      "system": "capcom_play_system_iii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_380",
+      "text": "The Sega Model 2 arcade board used a 25 MHz i960 CPU for geometry processing plus the Lockheed Martin Real3D hardware originally developed for military flight simulators.",
+      "system": "sega_model_2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_381",
+      "text": "Sega Model 3 used a PowerPC 603e at 66 MHz for the main CPU and a Sega-designed Real3D Pro-1000 GPU capable of over 2 million polygons per second.",
+      "system": "sega_model_3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_382",
+      "text": "The Sega NAOMI shared its CPU architecture with the Dreamcast — both used a Hitachi SH-4 at 200 MHz — but NAOMI had more RAM and a higher bandwidth memory bus.",
+      "system": "sega_naomi",
+      "rom": "default"
+    },
+    {
+      "id": "hw_383",
+      "text": "NAOMI 2 added two PowerVR CLX2 GPUs working in parallel, doubling rendering throughput compared to the original NAOMI's single GPU.",
+      "system": "sega_naomi",
+      "rom": "default"
+    },
+    {
+      "id": "hw_384",
+      "text": "The Sammy Atomiswave arcade platform was based on NAOMI hardware but used a proprietary cartridge format and targeted lower-budget developers needing cheaper arcade development.",
+      "system": "sammy_atomiswave",
+      "rom": "default"
+    },
+    {
+      "id": "hw_385",
+      "text": "Taito Type X used standard PC hardware (Intel Pentium 4 CPU, ATI Radeon GPU) in a ruggedized arcade enclosure, dramatically reducing development costs for arcade titles.",
+      "system": "taito_type_x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_386",
+      "text": "The original JAMMA wiring standard, established in 1985, defined a 56-pin edge connector that allowed arcade PCBs from different manufacturers to work in the same cabinet.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_387",
+      "text": "Early vector arcade monitors like those in Asteroids used deflection coils to draw lines directly with the electron beam rather than scanning a raster grid, producing crisp glowing lines.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_388",
+      "text": "Williams arcade hardware from the early 1980s used a Motorola 6809 CPU and custom hardware for raster graphics; their designs were influential for using a separate dedicated sound CPU.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_389",
+      "text": "Midway's Y-Unit arcade hardware (1990) used a TMS34010 graphics processor and 4 MB of ROM, enabling digitized photo-realistic sprite graphics in games of that era.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_390",
+      "text": "The System 16 arcade board from Sega used a 10 MHz Motorola 68000 and a Zilog Z80 for sound, with a tile-based background system and a dedicated sprite layer hardware.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_391",
+      "text": "SNK's MVS arcade hardware used large 330-pin cartridges holding up to 716 Mbit of ROM data, far exceeding the storage capacity of competing arcade systems of the same era.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_392",
+      "text": "Konami's GX arcade system board of the 1990s used a 68EC020 CPU and a custom tilemap chip, serving as the hardware platform for many of Konami's 2D arcade titles.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_393",
+      "text": "The original Game Boy's Sharp LR35902 CPU was a hybrid of the Intel 8080 and Zilog Z80 instruction sets, running at 4.194 MHz and consuming extremely little power.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_394",
+      "text": "The Game Boy's reflective LCD screen had no backlight to save battery life; Nintendo chose to make it sunlight-readable rather than battery-draining, extending runtime to approximately 15 hours.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_395",
+      "text": "The Game Boy Color added an infrared communication port above the cartridge slot for close-range data exchange between two units, used by a limited number of game cartridges.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_396",
+      "text": "The PSP used a MIPS R4000 CPU at 222 MHz (later unlocked to 333 MHz) paired with a custom Sony GPU; the wide 16:9 LCD screen was the largest on any handheld at launch.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_397",
+      "text": "The PSP's UMD (Universal Media Disc) optical format held up to 1.8 GB of data; the disc drive's slow spin-up time contributed to loading delays that flash-based competitors avoided.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_398",
+      "text": "The Game Boy Advance used a 32-bit ARM7TDMI CPU at 16.78 MHz plus a secondary Z80 at 8 MHz running original Game Boy software for backward compatibility.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_399",
+      "text": "The PlayStation 2's Emotion Engine CPU ran at 294 MHz and used a 128-bit SIMD co-processor; the Graphics Synthesizer rendered at up to 75 million polygons per second.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_400",
+      "text": "The PS2 used a proprietary 'MagicGate' DRM scheme on its memory cards and DVD discs to prevent unauthorized software, implemented via a Toshiba encryption chip.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_401",
+      "text": "The Nintendo GameCube's memory card slot used a proprietary Matsushita-designed card format; data corruption was common if the card was removed mid-save, unlike internal flash.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_402",
+      "text": "The Wii's motion-sensing MotionPlus accessory added a Epson Toyocom IDG-600 MEMs gyroscope to the Wii Remote to measure rotational speed, correcting drift from the accelerometer alone.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_403",
+      "text": "The Nintendo Switch's Joy-Con controllers each contain an accelerometer and gyroscope, and the right Joy-Con includes an NFC reader for amiibo support plus an IR motion camera.",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_404",
+      "text": "The Switch's dock does not contain any processing hardware; it only provides power, HDMI output conversion, and USB ports, with all computation occurring in the tablet unit itself.",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_405",
+      "text": "The Virtual Boy used a 32-bit NEC V810 CPU at 20 MHz and produced its 3D effect via red LED arrays scanned by oscillating mirrors rather than an actual display panel.",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_406",
+      "text": "The Virtual Boy's monochrome red display was chosen because red LEDs were the cheapest and brightest available in 1995; Nintendo called the color scheme 'Virtual Reality'.",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_407",
+      "text": "The Philips CD-i used a 15 MHz Motorola 68000 CPU and was designed as a multimedia CD-ROM player; its controller was criticized as one of the worst ever designed for video games.",
+      "system": "philips_cd-i",
+      "rom": "default"
+    },
+    {
+      "id": "hw_408",
+      "text": "The Vectrex had a built-in 9-inch vector monitor, the only home console to include its own display; it used a 1.5 MHz Motorola 6809 CPU and generated pure vector graphics.",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "hw_409",
+      "text": "The Intellivision used a General Instrument CP1610 16-bit CPU at 894 kHz paired with the AY-3-8900 STIC chip for graphics, giving it 16 moving objects per frame.",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "hw_410",
+      "text": "The ColecoVision used a Zilog Z80 CPU at 3.58 MHz and a Texas Instruments TMS9928 VDP capable of displaying 15 colors with up to 32 hardware sprites.",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "hw_411",
+      "text": "The Magnavox Odyssey, released in 1972, used no CPU or ROM chips — its circuits were entirely analog logic built from transistors, diodes, and resistors on a single board.",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "hw_412",
+      "text": "The Fairchild Channel F, released in 1976, was the first cartridge-based home console and used the Fairchild F8 CPU at 1.79 MHz, predating the Atari 2600 by a year.",
+      "system": "fairchild_channel_f",
+      "rom": "default"
+    },
+    {
+      "id": "hw_413",
+      "text": "The Bally Astrocade used a Zilog Z80 CPU and a custom UART-based graphics chip that generated graphics via a color lookup table, unusual for hardware of its 1977 era.",
+      "system": "bally_astrocade",
+      "rom": "default"
+    },
+    {
+      "id": "hw_414",
+      "text": "The Super Nintendo's multitap adapter allowed up to 5 players by connecting to one controller port, using a polling protocol that the SNES processed sequentially.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_415",
+      "text": "The Sega Activator was a full-body motion controller released for the Genesis in 1993, using eight infrared beams to detect limb movements; it was notoriously inaccurate.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_416",
+      "text": "The Nintendo Power Glove used ultrasonic sensors on the TV and finger-bend sensors in the glove to detect hand position; despite poor accuracy, it became a pop-culture icon.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_417",
+      "text": "The Sega 32X required its own separate power adapter, an AV cable, and a pass-through connector on the Genesis, resulting in a cable-heavy setup many consumers found unappealing.",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "hw_418",
+      "text": "The N64 Expansion Pak plugged into the memory expansion port and doubled RAM from 4 MB to 8 MB; it was required to run certain games and enabled higher-resolution modes in others.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_419",
+      "text": "The PlayStation's Dual Analog controller, released in 1997, added two analog sticks with a mode button to switch between digital and analog inputs — a precursor to the DualShock.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_420",
+      "text": "The DualShock controller added two rumble motors (a large eccentric mass and a small one) to the Dual Analog form factor, providing asymmetric vibration feedback.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_421",
+      "text": "The Xbox 360's wireless controllers used a proprietary 2.4 GHz protocol rather than Bluetooth, allowing up to 4 controllers per console without pairing conflicts.",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_422",
+      "text": "The Dreamcast VMU (Visual Memory Unit) was a memory card with its own LCD screen, speaker, D-pad, and two action buttons — it functioned as a standalone handheld game device.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_423",
+      "text": "The N64 cartridges used mask ROM chips that were significantly more expensive to manufacture than PlayStation's CD-ROMs, contributing to higher game prices and smaller storage capacity.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_424",
+      "text": "The Nintendo 64DD add-on used rewritable magnetic disk cartridges holding 64 MB, but it launched only in Japan in 1999 and sold poorly due to limited software.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_425",
+      "text": "The GD-ROM format used by Dreamcast held approximately 1 GB of data — nearly 7× a standard CD — and used a different sector layout to complicate copying, though this was eventually defeated.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_426",
+      "text": "The Xbox 360's proprietary hard drives used standard 2.5-inch SATA drives internally but were enclosed in custom shells with a digital key in firmware preventing standard drives from working.",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_427",
+      "text": "PS3 was the first console to ship with a Blu-ray drive as standard; the drive read at 2× speed (72 Mbit/s), which Sony used partly to justify the console's high price.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_428",
+      "text": "The GameBoy Advance cartridges used 32-pin edge connectors and contained flash ROM chips; some cartridges included a real-time clock chip with its own coin-cell battery.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_429",
+      "text": "The PS3 launch models consumed up to 380 watts of power — more than many desktop PCs of the time — due to the complex Cell processor and early 90nm manufacturing process.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_430",
+      "text": "The Xbox 360's power brick was external and weighed approximately 1.1 kg; it converted mains voltage to multiple DC rails because the console's internal power delivery was too complex.",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_431",
+      "text": "The Nintendo Switch draws approximately 18 watts when docked and under load, far less than PS4 or Xbox One, partly due to its mobile-derived Tegra SoC.",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_432",
+      "text": "The Game Boy Color used two AA batteries and drew so little current that the batteries often lasted over 10 hours, making them a reliable device for long travel.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hw_433",
+      "text": "The NES had two main hardware revisions: the toaster-style front-loader (NES-001) with a ZIF-like connector prone to pin corrosion, and the top-loader (NES-101) with a more reliable 72-pin connector.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_434",
+      "text": "The SNES 1 CHIP revision, introduced mid-production, replaced three separate PPU chips with a single chip; it produced a sharper video signal and is preferred by enthusiasts.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_435",
+      "text": "The PS2 Slim (SCPH-70000 series) reduced the console's volume by 75% and its weight from 2.2 kg to 0.9 kg, by integrating the power supply into the main board and using a slimmer optical drive.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_436",
+      "text": "The PlayStation 3 Super Slim reduced the chassis height by eliminating the sliding door for the optical drive, replacing it with a manual top-loading tray that critics considered less premium.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "hw_437",
+      "text": "The Game Boy Pocket redesigned the original Game Boy in a thinner form factor using only 2 AAA batteries instead of 4 AA batteries, and upgraded the screen to a cleaner STN LCD.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hw_438",
+      "text": "Sega released the Genesis Model 3 (by Majesco) with a smaller form factor but no headphone jack, no cartridge EXT port, and no Sega CD compatibility, making it a cost-reduced revision.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_439",
+      "text": "The Wii Mini, released in Canada in 2012, removed GameCube backward compatibility, the SD card slot, and Wi-Fi connectivity, targeting the budget market as an entry-level console.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_440",
+      "text": "Arcade CRT monitors typically used tri-gun shadow mask or aperture grille designs at resolutions of 240p or 480i; the phosphor dot pitch affected perceived sharpness at different resolutions.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_441",
+      "text": "The Nintendo DS's lower touchscreen used a 4-wire resistive touch panel requiring physical pressure, which is why the stylus worked but capacitive (finger) touch had reduced accuracy.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_442",
+      "text": "The Game Boy Advance SP (AGS-001) launched with a front-lit screen, not a true backlight; the backlit AGS-101 revision came later and is considered significantly superior.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hw_443",
+      "text": "The 3DS's glasses-free 3D screen used a parallax barrier layer — a grid of vertical slits that directed slightly different images to each eye based on viewing angle.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_444",
+      "text": "The Virtual Boy used oscillating mirrors vibrating at approximately 50 Hz to scan a column of LEDs across the display area, creating a full frame from a single vertical strip of light.",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "hw_445",
+      "text": "The Super Nintendo's SPC700 sound chip, designed by Sony, contained its own 64 KB of dedicated audio RAM and ran a separate instruction set from the main CPU entirely.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_446",
+      "text": "The Sega Genesis's YM2612 FM synthesis chip produced six FM channels of audio using four operators per channel, delivering a metallic, buzzy timbre characteristic of the system.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_447",
+      "text": "The Neo Geo's Yamaha YM2610 sound chip combined FM synthesis with ADPCM sample playback and SSG (square wave) channels, giving it a richer audio palette than most competitors.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "hw_448",
+      "text": "The PlayStation used a custom SPU (Sound Processing Unit) with 24 hardware channels of ADPCM audio, hardware reverb effects, and its own 512 KB of dedicated sound RAM.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_449",
+      "text": "The GameCube's Macronix DSP chip delivered 64 simultaneous audio channels and hardware Dolby Pro Logic II encoding, enabling surround sound output over an analog connection.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_450",
+      "text": "The Dreamcast's AICA audio chip combined an ARM7 audio CPU with 64 channels of ADPCM, 128 MB of sound RAM, and built-in hardware MIDI synthesis capability.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_451",
+      "text": "The Nintendo 64 used Rambus RDRAM (RDRAM) running at 500 MHz on a 9-bit bus; the high bandwidth was key to feeding the RCP, though it added cost and latency.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "hw_452",
+      "text": "The PS2 had a split memory architecture: 32 MB of RDRAM as main RAM, 4 MB of eDRAM on the Graphics Synthesizer die, and 2 MB of fast DRAM on the IOP subsystem.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_453",
+      "text": "The Xbox's memory subsystem used 64 MB of DDR SDRAM on a shared 128-bit bus used by both CPU and GPU, allowing more flexible memory allocation than fixed split designs.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "hw_454",
+      "text": "The Wii's Hollywood GPU included 3 MB of embedded 1T-SRAM for texture cache, backed by 64 MB of external GDDR3 as main RAM shared between CPU and GPU.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "hw_455",
+      "text": "The Saturn's VDP1 sprite chip had 512 KB of framebuffer VRAM and 512 KB of texture VRAM, while the VDP2 background chip had 512 KB of VRAM — all separate memory pools.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_456",
+      "text": "The original NES used an RF modulator for video output; it also had an expansion port on the bottom that was only used in Japan for the Family Computer Disk System.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_457",
+      "text": "The Sega Genesis had a 9-pin DE-9 controller port, deliberately compatible with Atari joystick pinouts, and also featured a 9-pin serial EXT port for accessories like the Mega Modem.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "hw_458",
+      "text": "The PS2 included two USB 1.1 ports and an i.Link (FireWire IEEE 1394) port on the front panel, though i.Link was only supported by a handful of games.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "hw_459",
+      "text": "The GameCube's high-speed Serial Port 1 was capable of delivering 128 Mbit/s and was used by the broadband adapter and modem adapter accessories for online connectivity.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "hw_460",
+      "text": "The Dreamcast's modem used a standard 56K V.90 chip but was housed in an expansion bay so it could be replaced with a broadband adapter using 10Base-T Ethernet.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_461",
+      "text": "The Nintendo DS's wireless networking supported only WEP security due to the limited cryptographic capabilities of its 802.11 implementation chip, making it incompatible with modern WPA2 routers.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hw_462",
+      "text": "The PSP included an 802.11b wireless card and a USB 2.0 port for data transfer, plus an infrared port and a proprietary AV cable connector for TV output.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hw_463",
+      "text": "The Xbox 360's HDMI port was only added in 2007 with the Elite model; original Core and Premium units shipped with only composite, S-Video, and component outputs.",
+      "system": "xbox360",
+      "rom": "default"
+    },
+    {
+      "id": "hw_464",
+      "text": "The NES's 72-pin cartridge connector was known for developing poor contacts over time; the common fix was to bend the pins back into position, though Nintendo's official advice was to blow into cartridges.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_465",
+      "text": "The SNES cartridge region lockout used a physical key notch — the cartridge shape differed between regions — plus software region checks, requiring both to be bypassed for import play.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_466",
+      "text": "The PlayStation's controller port used a serial bit-bang protocol at around 250 kHz; the same protocol was used for the memory card slots, using only clock, data, and chip-select lines.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_467",
+      "text": "Saturn games were vulnerable to swap disc attacks because the optical drive firmware did not recheck region or authentication after the initial boot, allowing unencrypted imports to run.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_468",
+      "text": "The Atari 2600's TIA chip required the CPU to spend roughly 22 cycles per scanline just managing the display, leaving only 76 cycles per line for game logic — a severe constraint.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "hw_469",
+      "text": "The Famicom Disk System used floppy disks with a custom RF5C296-derived drive controller and added RAM expansion, helping offset the higher cost of ROM cartridges in Japan in 1986.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "hw_470",
+      "text": "The PlayStation 1 used a double-speed (2×) CD-ROM drive with a custom data format for error correction; early SCPH-1000 units had a notoriously fragile laser mechanism.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_471",
+      "text": "The Sega Saturn's main board went through multiple revisions; early VA0 revisions ran hot and were less reliable, while later VA-SG revisions consolidated chips and reduced power draw.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "hw_472",
+      "text": "The Dreamcast's GD-ROM drive mechanism was manufactured by Yamaha and was known for lens degradation over time, causing disc read errors that increased with unit age.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "hw_473",
+      "text": "Dedicated arcade cabinets used either upright, cocktail (table), or sit-down (cockpit) form factors; cocktail cabinets flipped the screen 180 degrees between players on a shared display.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_474",
+      "text": "Arcade trackballs in cabinets like Centipede used optical encoders — slotted disks interrupting infrared beams as the ball rolled — to convert mechanical rotation to digital pulse counts.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_475",
+      "text": "Coin mechanisms in arcade machines used optical or magnetic sensors to distinguish real coins from slugs; the reject mechanism returned invalid coins through a separate tube.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_476",
+      "text": "Arcade control panels were typically mounted on 0.75-inch plywood or steel plates; the mounting hardware for joysticks used square cutouts to prevent rotation under heavy use.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_477",
+      "text": "Steering wheel arcade cabinets like those in Sega's racing games used a magnetic induction mechanism to provide force feedback, simulating road resistance through the wheel.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_478",
+      "text": "Light gun arcade games used a photodiode in the gun barrel that detected the brightness pulse from a white frame drawn on the CRT, calculating hit position from timing.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_479",
+      "text": "Arcade monitor deflection boards amplified the small control signals from the game PCB into the high-voltage sweep signals needed to drive the CRT's horizontal and vertical deflection coils.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_480",
+      "text": "JAMMA-standard power supplies in arcade cabinets supplied +5V for logic, +12V for monitors and motors, and -5V for certain legacy sound circuits, with each rail rated for several amps.",
+      "system": "mame",
+      "rom": "default"
+    },
+    {
+      "id": "hw_481",
+      "text": "The PS Vita's OLED screen (original PCH-1000 model) offered superior contrast and color compared to the LCD used in the slim PCH-2000 revision, making the original model sought after.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_482",
+      "text": "The PS Vita included both a front touchscreen and a rear touch pad on the back of the unit, enabling games to use pinching or multi-touch gestures spanning both surfaces.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_483",
+      "text": "The PS Vita had built-in GPS in the 3G model (PCH-1100), using the SIM card slot for location data in supported applications — an unusual feature for a dedicated gaming handheld.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hw_484",
+      "text": "The original Xbox One included a mandatory Kinect 2.0 sensor, requiring an always-connected 3-meter USB 3.0 cable; Microsoft later removed the Kinect requirement after consumer backlash.",
+      "system": "xboxone",
+      "rom": "default"
+    },
+    {
+      "id": "hw_485",
+      "text": "The Xbox One's SoC combined a custom AMD Jaguar 8-core CPU and a GCN-based GPU (1.31 teraflops) on a single AMD die manufactured at 28nm by TSMC.",
+      "system": "xboxone",
+      "rom": "default"
+    },
+    {
+      "id": "hw_486",
+      "text": "The Xbox One S introduced HDR support and 4K Blu-ray playback while eliminating the external power brick by integrating the PSU into the console, reducing overall size.",
+      "system": "xboxone",
+      "rom": "default"
+    },
+    {
+      "id": "hw_487",
+      "text": "The PS4's DualShock 4 was the first PlayStation controller to include a touchpad (1920×900 resolution), a light bar for camera tracking, and a mono speaker.",
+      "system": "ps4",
+      "rom": "default"
+    },
+    {
+      "id": "hw_488",
+      "text": "The PS4 uses a semi-custom AMD APU with 8 Jaguar CPU cores and 18 GCN compute units delivering 1.84 teraflops, paired with 8 GB of GDDR5 RAM on a unified 256-bit bus.",
+      "system": "ps4",
+      "rom": "default"
+    },
+    {
+      "id": "hw_489",
+      "text": "The PS4's 'share' button allowed instant video capture and streaming to Twitch or Ustream by offloading encoding to a dedicated MPEG-4 encoder chip separate from the main SoC.",
+      "system": "ps4",
+      "rom": "default"
+    },
+    {
+      "id": "hw_490",
+      "text": "The 3DO Interactive Multiplayer used a RISC CPU and custom graphics hardware designed by The 3DO Company; multiple manufacturers (Panasonic, Goldstar, Sanyo) built units to the same spec.",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_491",
+      "text": "The Bandai Playdia used a custom Hitachi SH-1 CPU and single-speed CD-ROM drive; it targeted young children and used a unique D-pad-less controller with only direction-labeled buttons.",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_492",
+      "text": "The Casio Loopy, released in 1995 only in Japan, included a built-in thermal sticker printer and used a Hitachi SH-1 CPU; it was marketed exclusively to young girls.",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_493",
+      "text": "The Sega Pico used a Genesis-derived CPU but featured a book-shaped flat surface with a touchpad for drawing and pointing, targeting preschool children with educational software.",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_494",
+      "text": "The Action Max, released in 1987 by Worlds of Wonder, read audio tones recorded on VHS tapes to trigger scoring events, requiring it to be connected to a real VHS player.",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_495",
+      "text": "The RDI Halcyon, released in 1985 for $2,500, used a LaserDisc player as its media system and featured speech recognition for game control — the first home console with voice commands.",
+      "system": "console",
+      "rom": "default"
+    },
+    {
+      "id": "hw_496",
+      "text": "The PS5's SSD uses a custom flash controller achieving 5.5 GB/s raw throughput and up to 9 GB/s with compression, eliminating traditional streaming installation and loading screens.",
+      "system": "ps5",
+      "rom": "default"
+    },
+    {
+      "id": "hw_497",
+      "text": "The Xbox Series X includes a 1 TB custom NVMe SSD using a Velocity Architecture with hardware decompression, achieving roughly 4.8 GB/s sustained read speeds.",
+      "system": "xboxseriesx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_498",
+      "text": "The Xbox Series S uses the same Zen 2 CPU cores as the Series X but a smaller RDNA 2 GPU with only 4 teraflops, paired with 10 GB of GDDR6 and a 512 GB NVMe SSD.",
+      "system": "xboxseriesx",
+      "rom": "default"
+    },
+    {
+      "id": "hw_499",
+      "text": "The Switch OLED model (2021) upgraded the screen to a 7-inch OLED panel with richer colors but retained the same Tegra X1 processor as the original Switch.",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "hw_500",
+      "text": "The Nintendo Switch Lite, released in 2019, removed the detachable Joy-Con system and dock support, integrating the controls directly into the smaller handheld-only chassis.",
+      "system": "nintendo_switch",
+      "rom": "default"
+    }
+  ]
+}

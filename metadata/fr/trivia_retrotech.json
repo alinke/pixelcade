@@ -1,0 +1,2405 @@
+{
+  "category": "retrotech",
+  "facts": [
+    {
+      "id": "tech_001",
+      "text": "Les cassettes VHS se dégradent de 10 à 20 % à chaque lecture à cause de la friction de la tête magnétique",
+      "system": "retrotech",
+      "rom": "vhs"
+    },
+    {
+      "id": "tech_002",
+      "text": "VHS a battu Betamax malgré la supériorité de la qualité d'image de ce dernier",
+      "system": "retrotech",
+      "rom": "vhs"
+    },
+    {
+      "id": "tech_003",
+      "text": "La guerre VHS/Betamax s'est jouée sur la durée : VHS offrait 2 heures d'enregistrement contre 1 heure pour Betamax",
+      "system": "retrotech",
+      "rom": "vhs"
+    },
+    {
+      "id": "tech_004",
+      "text": "La cassette VHS d'un long-métrage typique contenait environ 246 mètres de bande magnétique enroulée sur deux bobines",
+      "system": "retrotech",
+      "rom": "vhs"
+    },
+    {
+      "id": "tech_005",
+      "text": "La location VHS était si rentable dans les années 80 que les vidéoclubs américains généraient plus de revenus que le cinéma",
+      "system": "retrotech",
+      "rom": "vhs"
+    },
+    {
+      "id": "tech_006",
+      "text": "Les panneaux 'Rembobinez SVP' étaient courants dans les vidéoclubs car les clients retournaient souvent les cassettes sans les rembobiner",
+      "system": "retrotech",
+      "rom": "vhs"
+    },
+    {
+      "id": "tech_007",
+      "text": "Le dernier grand film hollywoodien sorti en VHS fut A History of Violence en 2006, marquant la fin d'une époque",
+      "system": "retrotech",
+      "rom": "vhs"
+    },
+    {
+      "id": "tech_008",
+      "text": "Un téléviseur CRT 27 pouces typique des années 90 pesait environ 45 kg et nécessitait deux personnes pour le déplacer",
+      "system": "retrotech",
+      "rom": "crt_tv"
+    },
+    {
+      "id": "tech_009",
+      "text": "Les téléviseurs CRT fonctionnaient en projetant un faisceau d'électrons sur un écran phosphorescent 60 fois par seconde",
+      "system": "retrotech",
+      "rom": "crt_tv"
+    },
+    {
+      "id": "tech_010",
+      "text": "Les téléviseurs CRT avaient une odeur caractéristique à l'allumage",
+      "system": "retrotech",
+      "rom": "crt_tv"
+    },
+    {
+      "id": "tech_011",
+      "text": "Les rétrogamers préfèrent les CRT pour les jeux classiques car le flou phosphorescent créait un lissé de mouvement naturel",
+      "system": "retrotech",
+      "rom": "crt_tv"
+    },
+    {
+      "id": "tech_012",
+      "text": "Le Sony Walkman, lancé en 1979, fut d'abord rejeté par les fondateurs de Sony comme invendable avant de devenir un best-seller mondial",
+      "system": "retrotech",
+      "rom": "crt_tv"
+    },
+    {
+      "id": "tech_013",
+      "text": "La disquette 8 pouces originale fut inventée par IBM en 1967 et pouvait stocker 80 kilo-octets de données",
+      "system": "retrotech",
+      "rom": "floppy_disk"
+    },
+    {
+      "id": "tech_014",
+      "text": "Malgré le surnom 'floppy', la disquette 3,5 pouces introduite en 1983 avait une coque en plastique rigide",
+      "system": "retrotech",
+      "rom": "floppy_disk"
+    },
+    {
+      "id": "tech_015",
+      "text": "La disquette 3,5 pouces contenait 1,44 Mo, soit environ 720 pages de texte brut",
+      "system": "retrotech",
+      "rom": "floppy_disk"
+    },
+    {
+      "id": "tech_016",
+      "text": "Les disquettes étaient formatées par le système d'exploitation",
+      "system": "retrotech",
+      "rom": "floppy_disk"
+    },
+    {
+      "id": "tech_017",
+      "text": "Sony a arrêté la production de disquettes 3,5 pouces en 2011, dernier grand fabricant à le faire",
+      "system": "retrotech",
+      "rom": "floppy_disk"
+    },
+    {
+      "id": "tech_018",
+      "text": "L'icône de sauvegarde dans presque tous les logiciels représente encore une disquette 3,5 pouces",
+      "system": "retrotech",
+      "rom": "floppy_disk"
+    },
+    {
+      "id": "tech_019",
+      "text": "Motorola a lancé le premier bipeur à succès en 1974",
+      "system": "retrotech",
+      "rom": "pager"
+    },
+    {
+      "id": "tech_020",
+      "text": "Les dealers et les médecins ont adopté les bipeurs pour la même raison : être joignable à tout moment",
+      "system": "retrotech",
+      "rom": "pager"
+    },
+    {
+      "id": "tech_021",
+      "text": "L'Apple II (1977) fut le premier ordinateur personnel à afficher des couleurs, vendu dans un boîtier plastique grand public",
+      "system": "retrotech",
+      "rom": "pager"
+    },
+    {
+      "id": "tech_022",
+      "text": "Au pic d'utilisation des bipeurs en 1994, plus de 61 millions d'appareils étaient actifs rien qu'aux États-Unis",
+      "system": "retrotech",
+      "rom": "pager"
+    },
+    {
+      "id": "tech_023",
+      "text": "Certains hôpitaux et services d'urgence utilisent encore des bipeurs car ils fonctionnent sur des fréquences dédiées",
+      "system": "retrotech",
+      "rom": "pager"
+    },
+    {
+      "id": "tech_024",
+      "text": "La vitesse réelle maximale d'un modem 56K était de 53 Kbps en raison des limites de puissance imposées par la FCC",
+      "system": "retrotech",
+      "rom": "dial_up"
+    },
+    {
+      "id": "tech_025",
+      "text": "Le son caractéristique de connexion d'un modem dial-up était les deux modems négociant leur vitesse et encodage",
+      "system": "retrotech",
+      "rom": "dial_up"
+    },
+    {
+      "id": "tech_026",
+      "text": "La connexion dial-up monopolisait la ligne téléphonique et provoquait de fréquentes disputes familiales",
+      "system": "retrotech",
+      "rom": "dial_up"
+    },
+    {
+      "id": "tech_027",
+      "text": "AOL a distribué plus d'un milliard de CD-ROM d'essai gratuits dans les années 90",
+      "system": "retrotech",
+      "rom": "dial_up"
+    },
+    {
+      "id": "tech_028",
+      "text": "Le PC IBM lancé en 1981 utilisait une architecture ouverte permettant à des fabricants tiers de le cloner et établissant la plateforme x86",
+      "system": "retrotech",
+      "rom": "dial_up"
+    },
+    {
+      "id": "tech_029",
+      "text": "À son apogée en 2002, AOL comptait 26,7 millions d'abonnés payant un forfait mensuel pour l'accès internet",
+      "system": "retrotech",
+      "rom": "aol"
+    },
+    {
+      "id": "tech_030",
+      "text": "'You've Got Mail', la célèbre notification d'AOL, était la voix de l'acteur Elwood Edwards",
+      "system": "retrotech",
+      "rom": "aol"
+    },
+    {
+      "id": "tech_031",
+      "text": "AOL Instant Messenger (AIM) lancé en 1997 a compté plus de 53 millions d'utilisateurs à son pic",
+      "system": "retrotech",
+      "rom": "aol"
+    },
+    {
+      "id": "tech_032",
+      "text": "AOL a fusionné avec Time Warner en 2001 dans un accord de 165 milliards de dollars",
+      "system": "retrotech",
+      "rom": "aol"
+    },
+    {
+      "id": "tech_033",
+      "text": "Les salons de discussion AOL des années 90 comptaient parmi les premières grandes communautés en ligne",
+      "system": "retrotech",
+      "rom": "aol"
+    },
+    {
+      "id": "tech_034",
+      "text": "Le slogan de Winamp 'Winamp, it really whips the llama's ass' était interprété par le comédien qui double Cartman dans South Park",
+      "system": "retrotech",
+      "rom": "winamp"
+    },
+    {
+      "id": "tech_035",
+      "text": "Le Commodore 64 (1982) est le modèle d'ordinateur personnel le plus vendu de l'histoire avec 12 à 17 millions d'unités",
+      "system": "retrotech",
+      "rom": "winamp"
+    },
+    {
+      "id": "tech_036",
+      "text": "La communauté de skinning de Winamp a créé des milliers de designs visuels personnalisés",
+      "system": "retrotech",
+      "rom": "winamp"
+    },
+    {
+      "id": "tech_037",
+      "text": "Winamp fut créé par Justin Frankel et vendu à AOL pour environ 80 millions de dollars en 1999",
+      "system": "retrotech",
+      "rom": "winamp"
+    },
+    {
+      "id": "tech_038",
+      "text": "Le premier lecteur MP3 commercialisé fut le MPMan F10, sorti en Asie en 1998 avec 32 Mo de stockage",
+      "system": "retrotech",
+      "rom": "mp3_player"
+    },
+    {
+      "id": "tech_039",
+      "text": "Le Rio PMP300 de Diamond Multimedia fut le premier lecteur MP3 largement disponible aux États-Unis",
+      "system": "retrotech",
+      "rom": "mp3_player"
+    },
+    {
+      "id": "tech_040",
+      "text": "Avant l'iPod, les lecteurs MP3 utilisaient de la mémoire flash ou de minuscules disques durs",
+      "system": "retrotech",
+      "rom": "mp3_player"
+    },
+    {
+      "id": "tech_041",
+      "text": "Le Sony Walkman, lancé en 1979, a révolutionné l'écoute musicale en rendant la musique vraiment portable pour la première fois",
+      "system": "retrotech",
+      "rom": "walkman"
+    },
+    {
+      "id": "tech_042",
+      "text": "Sony aurait vendu plus de 400 millions de Walkman toutes versions confondues : cassette, CD et MiniDisc",
+      "system": "retrotech",
+      "rom": "walkman"
+    },
+    {
+      "id": "tech_043",
+      "text": "Le LaserDisc lancé par MCA et Philips en 1978 offrait une image supérieure au VHS mais ses disques de 30 cm l'ont condamné",
+      "system": "retrotech",
+      "rom": "walkman"
+    },
+    {
+      "id": "tech_044",
+      "text": "Sony a failli ne pas commercialiser le Walkman car les études internes montraient que les consommateurs n'en voulaient pas",
+      "system": "retrotech",
+      "rom": "walkman"
+    },
+    {
+      "id": "tech_045",
+      "text": "La mixtape est devenue une véritable forme d'art dans les années 80",
+      "system": "retrotech",
+      "rom": "cassette_tape"
+    },
+    {
+      "id": "tech_046",
+      "text": "Une cassette standard 90 minutes contenait environ 270 mètres de bande magnétique défilant à 4,76 cm par seconde",
+      "system": "retrotech",
+      "rom": "cassette_tape"
+    },
+    {
+      "id": "tech_047",
+      "text": "On pouvait réparer une cassette abîmée avec un crayon",
+      "system": "retrotech",
+      "rom": "cassette_tape"
+    },
+    {
+      "id": "tech_048",
+      "text": "L'Atari 800 (1979) était conçu comme un ordinateur axé sur le jeu avec des sprites matériels et une puce sonore rivalisant avec les consoles",
+      "system": "retrotech",
+      "rom": "cassette_tape"
+    },
+    {
+      "id": "tech_049",
+      "text": "Le premier CD pressé pour la vente commerciale était The Visitors d'ABBA, produit dans une usine allemande en 1982",
+      "system": "retrotech",
+      "rom": "compact_disc"
+    },
+    {
+      "id": "tech_050",
+      "text": "Les CD étaient à l'origine conçus pour contenir 74 minutes d'audio",
+      "system": "retrotech",
+      "rom": "compact_disc"
+    },
+    {
+      "id": "tech_051",
+      "text": "Les premiers lecteurs CD coûtaient plus de 1 000 $ au lancement en 1982, soit plus de 3 000 $ aujourd'hui",
+      "system": "retrotech",
+      "rom": "compact_disc"
+    },
+    {
+      "id": "tech_052",
+      "text": "Malgré la lecture laser, les CD peuvent être endommagés par les empreintes, les rayures et la pourriture du disque",
+      "system": "retrotech",
+      "rom": "compact_disc"
+    },
+    {
+      "id": "tech_053",
+      "text": "Le LaserDisc offrait une meilleure image que le VHS mais n'a jamais conquis le grand public à cause de sa taille",
+      "system": "retrotech",
+      "rom": "laserdisc"
+    },
+    {
+      "id": "tech_054",
+      "text": "Les LaserDiscs mesuraient 30 cm de diamètre, comme un disque vinyle, et devaient être retournés à mi-film pour les longs-métrages",
+      "system": "retrotech",
+      "rom": "laserdisc"
+    },
+    {
+      "id": "tech_055",
+      "text": "Le Sinclair ZX Spectrum, lancé au Royaume-Uni en 1982 pour seulement 125 £, a lancé l'industrie du logiciel britannique et s'est vendu à des millions d'exemplaires",
+      "system": "retrotech",
+      "rom": "laserdisc"
+    },
+    {
+      "id": "tech_056",
+      "text": "Le premier caméscope grand public fut le Sony Betamovie, sorti en 1983",
+      "system": "retrotech",
+      "rom": "camcorder"
+    },
+    {
+      "id": "tech_057",
+      "text": "Les caméscopes VHS-C et Video8 du milieu des années 80 étaient suffisamment compacts pour être tenus d'une seule main",
+      "system": "retrotech",
+      "rom": "camcorder"
+    },
+    {
+      "id": "tech_058",
+      "text": "Le caméscope a joué un rôle clé dans l'affaire Rodney King en 1991",
+      "system": "retrotech",
+      "rom": "camcorder"
+    },
+    {
+      "id": "tech_059",
+      "text": "Les répondeurs téléphoniques domestiques sont devenus courants dans les années 80",
+      "system": "retrotech",
+      "rom": "answering_machine"
+    },
+    {
+      "id": "tech_060",
+      "text": "Le message d'accueil personnalisé du répondeur est devenu une forme d'expression créative dans les années 80 et 90",
+      "system": "retrotech",
+      "rom": "answering_machine"
+    },
+    {
+      "id": "tech_061",
+      "text": "Laisser le répondeur filtrer les appels avant de décider de décrocher était socialement accepté dans les années 80",
+      "system": "retrotech",
+      "rom": "answering_machine"
+    },
+    {
+      "id": "tech_062",
+      "text": "Les premiers téléphones sans fil des années 80 fonctionnaient sur 46-49 MHz et n'avaient une portée que d'environ 30 mètres",
+      "system": "retrotech",
+      "rom": "cordless_phone"
+    },
+    {
+      "id": "tech_063",
+      "text": "Le TRS-80 Model I lancé par Radio Shack en 1977 à 599 $ fut l'un des premiers ordinateurs grand public avec plus de 200 000 unités vendues",
+      "system": "retrotech",
+      "rom": "cordless_phone"
+    },
+    {
+      "id": "tech_064",
+      "text": "Le premier téléphone de voiture commercial fut proposé par AT&T en 1983 pour 3 000 $ d'installation",
+      "system": "retrotech",
+      "rom": "car_phone"
+    },
+    {
+      "id": "tech_065",
+      "text": "Les téléphones de voiture n'étaient disponibles qu'en grandes villes et nécessitaient un émetteur-récepteur de la taille d'une mallette",
+      "system": "retrotech",
+      "rom": "car_phone"
+    },
+    {
+      "id": "tech_066",
+      "text": "Le Motorola DynaTAC 8000X, premier téléphone portable commercial, lancé en 1984, pesait près de 800 grammes",
+      "system": "retrotech",
+      "rom": "cell_phone"
+    },
+    {
+      "id": "tech_067",
+      "text": "Le surnom 'téléphone brique' des premiers portables n'était pas une insulte — c'était une description fidèle",
+      "system": "retrotech",
+      "rom": "cell_phone"
+    },
+    {
+      "id": "tech_068",
+      "text": "En 1990, seulement 5 millions d'Américains avaient un téléphone portable — en 2000, ils étaient plus de 100 millions",
+      "system": "retrotech",
+      "rom": "cell_phone"
+    },
+    {
+      "id": "tech_069",
+      "text": "Le PC IBM lancé en 1981 utilisait une architecture ouverte que n'importe quel fabricant pouvait copier",
+      "system": "retrotech",
+      "rom": "personal_computer"
+    },
+    {
+      "id": "tech_070",
+      "text": "Le Macintosh lancé le 24 janvier 1984 fut le premier PC à succès livré avec une interface graphique et une souris en standard",
+      "system": "retrotech",
+      "rom": "personal_computer"
+    },
+    {
+      "id": "tech_071",
+      "text": "Les premiers ordinateurs familiaux comme le TRS-80 obligeaient les utilisateurs à charger les programmes depuis une cassette",
+      "system": "retrotech",
+      "rom": "personal_computer"
+    },
+    {
+      "id": "tech_072",
+      "text": "L'interface en ligne de commande MS-DOS exigeait que les utilisateurs mémorisent des commandes texte précises",
+      "system": "retrotech",
+      "rom": "personal_computer"
+    },
+    {
+      "id": "tech_073",
+      "text": "La RAM était si chère au début des années 80 que 64 kilo-octets était considéré comme une quantité généreuse",
+      "system": "retrotech",
+      "rom": "personal_computer"
+    },
+    {
+      "id": "tech_074",
+      "text": "Windows 1.0 (1985) ne pouvait pas superposer les fenêtres — elles ne pouvaient être affichées que côte à côte",
+      "system": "retrotech",
+      "rom": "windows"
+    },
+    {
+      "id": "tech_075",
+      "text": "Windows 3.1 (1992) fut la première version de Windows à connaître un succès commercial généralisé",
+      "system": "retrotech",
+      "rom": "windows"
+    },
+    {
+      "id": "tech_076",
+      "text": "Windows 95 fut lancé avec une campagne massive incluant la licence de 'Start Me Up' des Rolling Stones",
+      "system": "retrotech",
+      "rom": "windows"
+    },
+    {
+      "id": "tech_077",
+      "text": "L'écran bleu de la mort (BSOD) est apparu dans les premières versions de Windows et est devenu un vrai phénomène culturel",
+      "system": "retrotech",
+      "rom": "windows"
+    },
+    {
+      "id": "tech_078",
+      "text": "L'Amiga 1000 (1985) avait des sprites matériels, une puce audio quatre canaux et le multitâche des années avant les PC compatibles IBM",
+      "system": "retrotech",
+      "rom": "dos"
+    },
+    {
+      "id": "tech_079",
+      "text": "L'invite C:\\> de DOS avec son curseur clignotant fut la première interaction de millions de personnes avec un ordinateur personnel",
+      "system": "retrotech",
+      "rom": "dos"
+    },
+    {
+      "id": "tech_080",
+      "text": "Les imprimantes matricielles des années 80 utilisaient des aiguilles frappant un ruban encreur pour former les caractères",
+      "system": "retrotech",
+      "rom": "dot_matrix_printer"
+    },
+    {
+      "id": "tech_081",
+      "text": "La première imprimante laser, la HP LaserJet, lancée en 1984 à 3 495 $, imprimait 8 pages par minute",
+      "system": "retrotech",
+      "rom": "laser_printer"
+    },
+    {
+      "id": "tech_082",
+      "text": "Les premières imprimantes à jet d'encre obligeaient à introduire les feuilles une par une et attendre le séchage",
+      "system": "retrotech",
+      "rom": "inkjet_printer"
+    },
+    {
+      "id": "tech_083",
+      "text": "WordPerfect dominait le traitement de texte dans les années 80 et son gabarit de raccourcis clavier était indispensable",
+      "system": "retrotech",
+      "rom": "wordperfect"
+    },
+    {
+      "id": "tech_084",
+      "text": "Microsoft Word est apparu sur MS-DOS en 1983 et a d'abord eu du mal à concurrencer WordPerfect solidement implanté",
+      "system": "retrotech",
+      "rom": "microsoft_word"
+    },
+    {
+      "id": "tech_085",
+      "text": "CompuServe lancé en 1979 fut le premier grand service en ligne commercial, offrant e-mail, forums et partage de fichiers avant le web",
+      "system": "retrotech",
+      "rom": "fax_machine"
+    },
+    {
+      "id": "tech_086",
+      "text": "La technologie du fax est bien plus ancienne que la plupart des gens ne le croient",
+      "system": "retrotech",
+      "rom": "fax_machine"
+    },
+    {
+      "id": "tech_087",
+      "text": "Le son caractéristique de connexion fax était les deux machines qui établissaient leur compatibilité et résolution",
+      "system": "retrotech",
+      "rom": "fax_machine"
+    },
+    {
+      "id": "tech_088",
+      "text": "La TI-84 de Texas Instruments, vendue depuis 2004 en remplacement de la TI-83, est encore en usage dans les lycées aujourd'hui",
+      "system": "retrotech",
+      "rom": "calculator"
+    },
+    {
+      "id": "tech_089",
+      "text": "La première calculatrice de poche, la Busicom LE-120A, s'est vendue 395 $ en 1971, soit environ 2 700 $ aujourd'hui",
+      "system": "retrotech",
+      "rom": "calculator"
+    },
+    {
+      "id": "tech_090",
+      "text": "L'Atari 800 pouvait afficher plus de couleurs simultanément qu'aucun autre ordinateur domestique de son époque",
+      "system": "retrotech",
+      "rom": "atari_computer"
+    },
+    {
+      "id": "tech_091",
+      "text": "Le MiniDisc de Sony lancé en 1992 offrait une qualité CD dans un format enregistrable",
+      "system": "retrotech",
+      "rom": "minidisc"
+    },
+    {
+      "id": "tech_092",
+      "text": "Le MiniDisc utilisait une technologie magnéto-optique",
+      "system": "retrotech",
+      "rom": "minidisc"
+    },
+    {
+      "id": "tech_093",
+      "text": "Le fax est devenu un outil professionnel incontournable dans les années 80 après la standardisation du protocole Groupe 3 par l'UIT en 1980",
+      "system": "retrotech",
+      "rom": "dat_tape"
+    },
+    {
+      "id": "tech_094",
+      "text": "Betamax offrait une meilleure image que VHS mais a perdu la guerre des formats car les cassettes VHS permettaient d'enregistrer plus longtemps",
+      "system": "retrotech",
+      "rom": "betamax"
+    },
+    {
+      "id": "tech_095",
+      "text": "Sony a continué à fabriquer des cassettes Betamax jusqu'en 2016 au Japon",
+      "system": "retrotech",
+      "rom": "betamax"
+    },
+    {
+      "id": "tech_096",
+      "text": "Le premier lecteur de CD-ROM pour ordinateurs personnels était le Philips CM 100",
+      "system": "retrotech",
+      "rom": "cdrom"
+    },
+    {
+      "id": "tech_097",
+      "text": "Microsoft Encarta, une encyclopédie sur CD-ROM lancée en 1993, fut le titre CD-ROM le plus vendu et un incontournable des salles informatiques scolaires",
+      "system": "retrotech",
+      "rom": "cdrom"
+    },
+    {
+      "id": "tech_098",
+      "text": "À l'ère des premiers CD-ROM, les développeurs remplissaient souvent l'espace inutilisé avec des cinématiques vidéo plein écran",
+      "system": "retrotech",
+      "rom": "cdrom"
+    },
+    {
+      "id": "tech_099",
+      "text": "Les appareils Polaroid produisaient des photos instantanées grâce à un processus chimique auto-développant intégré à chaque cartouche",
+      "system": "retrotech",
+      "rom": "polaroid"
+    },
+    {
+      "id": "tech_100",
+      "text": "Agiter une photo Polaroid, popularisé par 'Hey Ya!' d'OutKast, était en fait déconseillé par Polaroid",
+      "system": "retrotech",
+      "rom": "polaroid"
+    },
+    {
+      "id": "tech_101",
+      "text": "Le Nintendo Game & Watch lancé en 1980 fut la première console portable dédiée et introduisit la croix directionnelle reprise sur la NES",
+      "system": "retrotech",
+      "rom": "typewriter"
+    },
+    {
+      "id": "tech_102",
+      "text": "La disposition QWERTY fut conçue pour les machines à écrire afin d'éviter les blocages mécaniques et a été adoptée sans changement",
+      "system": "retrotech",
+      "rom": "typewriter"
+    },
+    {
+      "id": "tech_103",
+      "text": "Le rétroprojecteur était un équipement indispensable dans les salles de classe et les salles de réunion des années 60 aux années 90",
+      "system": "retrotech",
+      "rom": "overhead_projector"
+    },
+    {
+      "id": "tech_104",
+      "text": "Les ingénieurs de la NASA utilisaient des règles à calcul pour calculer les trajectoires des missions Apollo vers la Lune",
+      "system": "retrotech",
+      "rom": "slide_rule"
+    },
+    {
+      "id": "tech_105",
+      "text": "Les premiers modems largement utilisés transmettaient des données à 300 bauds",
+      "system": "retrotech",
+      "rom": "modem"
+    },
+    {
+      "id": "tech_106",
+      "text": "Le modem US Robotics Sportster 14.4K était si répandu dans les BBS du début des années 90 qu'il était quasi-standard",
+      "system": "retrotech",
+      "rom": "modem"
+    },
+    {
+      "id": "tech_107",
+      "text": "Les Bulletin Board Systems (BBS) étaient l'internet avant l'internet",
+      "system": "retrotech",
+      "rom": "bbs"
+    },
+    {
+      "id": "tech_108",
+      "text": "Le bipeur a atteint son pic au début des années 90 avec plus de 60 millions d'utilisateurs aux États-Unis avant d'être supplanté par le mobile",
+      "system": "retrotech",
+      "rom": "bbs"
+    },
+    {
+      "id": "tech_109",
+      "text": "Les systèmes BBS hébergeaient souvent des jeux en mode texte élaborés",
+      "system": "retrotech",
+      "rom": "bbs"
+    },
+    {
+      "id": "tech_110",
+      "text": "Le lecteur Zip d'Iomega lancé en 1994 pouvait stocker 100 Mo sur une cartouche à peine plus grande qu'une disquette",
+      "system": "retrotech",
+      "rom": "zip_drive"
+    },
+    {
+      "id": "tech_111",
+      "text": "Les lecteurs Zip étaient tristement célèbres pour leur 'click of death' (clic de la mort)",
+      "system": "retrotech",
+      "rom": "zip_drive"
+    },
+    {
+      "id": "tech_112",
+      "text": "Le premier graveur CD grand public, le Philips CDD 521, fut lancé en 1993 à 1 000 $",
+      "system": "retrotech",
+      "rom": "cd_burner"
+    },
+    {
+      "id": "tech_113",
+      "text": "Graver un CD audio à la fin des années 90 nécessitait que le lecteur maintienne une vitesse parfaitement constante",
+      "system": "retrotech",
+      "rom": "cd_burner"
+    },
+    {
+      "id": "tech_114",
+      "text": "ICQ, lancé en 1996, fut le premier service de messagerie instantanée généralisé sur internet",
+      "system": "retrotech",
+      "rom": "icq"
+    },
+    {
+      "id": "tech_115",
+      "text": "Le son 'uh oh' de notification d'ICQ est devenu l'un des sons les plus reconnaissables d'internet à la fin des années 90",
+      "system": "retrotech",
+      "rom": "icq"
+    },
+    {
+      "id": "tech_116",
+      "text": "Les CD-ROM AOL des années 90 ont été envoyés en si grande quantité — plus d'un milliard au total — qu'ils sont devenus un artefact de l'ère dial-up",
+      "system": "retrotech",
+      "rom": "icq"
+    },
+    {
+      "id": "tech_117",
+      "text": "Napster a été écrit par Shawn Fanning, 18 ans, en 1999 en environ deux mois pendant ses études à Northeastern",
+      "system": "retrotech",
+      "rom": "napster"
+    },
+    {
+      "id": "tech_118",
+      "text": "À son apogée début 2001, Napster comptait plus de 26 millions d'utilisateurs et proposait plus de 80 millions de chansons gratuitement",
+      "system": "retrotech",
+      "rom": "napster"
+    },
+    {
+      "id": "tech_119",
+      "text": "Lars Ulrich de Metallica a personnellement livré 60 000 pages de noms d'utilisateurs à Napster en réclamant leur bannissement",
+      "system": "retrotech",
+      "rom": "napster"
+    },
+    {
+      "id": "tech_120",
+      "text": "GeoCities organisait les sites web en 'quartiers' thématiques",
+      "system": "retrotech",
+      "rom": "geocities"
+    },
+    {
+      "id": "tech_121",
+      "text": "À son apogée, GeoCities était le troisième site le plus visité d'internet avec plus de 38 millions de pages membres",
+      "system": "retrotech",
+      "rom": "geocities"
+    },
+    {
+      "id": "tech_122",
+      "text": "Yahoo a racheté GeoCities en 1999 pour 3,57 milliards de dollars et l'a fermé en 2009",
+      "system": "retrotech",
+      "rom": "geocities"
+    },
+    {
+      "id": "tech_123",
+      "text": "L'IBM 350, introduit en 1956, fut le premier disque dur commercial, stockant 5 Mo sur une pile de 50 disques de 60 cm",
+      "system": "retrotech",
+      "rom": "netscape"
+    },
+    {
+      "id": "tech_124",
+      "text": "L'introduction en bourse de Netscape en août 1995, alors que la société n'avait jamais réalisé de bénéfice, a marqué les esprits",
+      "system": "retrotech",
+      "rom": "netscape"
+    },
+    {
+      "id": "tech_125",
+      "text": "Internet Explorer de Microsoft était d'abord vendu 49 $ comme extension pour Windows 95 avant que Microsoft comprenne l'enjeu",
+      "system": "retrotech",
+      "rom": "internet_explorer"
+    },
+    {
+      "id": "tech_126",
+      "text": "Internet Explorer 6 sorti en 2001 est devenu si dominant que de nombreux sites étaient codés spécifiquement pour lui",
+      "system": "retrotech",
+      "rom": "internet_explorer"
+    },
+    {
+      "id": "tech_127",
+      "text": "Yahoo a été créé par les étudiants de Stanford Jerry Yang et David Filo dans une caravane de campus en 1994",
+      "system": "retrotech",
+      "rom": "yahoo"
+    },
+    {
+      "id": "tech_128",
+      "text": "Yahoo a refusé de racheter Google en 1998 pour 1 million de dollars, puis de nouveau en 2002 pour 3 milliards",
+      "system": "retrotech",
+      "rom": "yahoo"
+    },
+    {
+      "id": "tech_129",
+      "text": "Google a été fondé dans un garage à Menlo Park en 1998 et ses premiers serveurs étaient construits avec des blocs Lego",
+      "system": "retrotech",
+      "rom": "google"
+    },
+    {
+      "id": "tech_130",
+      "text": "Le nom Google est une faute d'orthographe de 'googol'",
+      "system": "retrotech",
+      "rom": "google"
+    },
+    {
+      "id": "tech_131",
+      "text": "L'Altair 8800 obligeait les utilisateurs à saisir les programmes via des interrupteurs en code binaire, réservé aux passionnés d'électronique",
+      "system": "retrotech",
+      "rom": "ebay"
+    },
+    {
+      "id": "tech_132",
+      "text": "eBay a débuté sous le nom AuctionWeb sur le site personnel de son fondateur Pierre Omidyar, qui hébergeait aussi des informations sur Ebola",
+      "system": "retrotech",
+      "rom": "ebay"
+    },
+    {
+      "id": "tech_133",
+      "text": "Amazon a lancé en 1994 en vendant uniquement des livres et Jeff Bezos voulait initialement l'appeler 'Relentless.com'",
+      "system": "retrotech",
+      "rom": "amazon"
+    },
+    {
+      "id": "tech_134",
+      "text": "Les statuts AIM étaient les premières publications des réseaux sociaux",
+      "system": "retrotech",
+      "rom": "aim"
+    },
+    {
+      "id": "tech_135",
+      "text": "Les messages d'absence sur AIM sont devenus de véritables exercices d'écriture créative",
+      "system": "retrotech",
+      "rom": "aim"
+    },
+    {
+      "id": "tech_136",
+      "text": "Le son de porte qui s'ouvre sur AIM quand un contact se connectait déclenchait une réaction pavlovienne d'attention",
+      "system": "retrotech",
+      "rom": "aim"
+    },
+    {
+      "id": "tech_137",
+      "text": "Macromedia Flash, puis Adobe Flash, a permis des sites web animés et des jeux navigateur à partir de 1996",
+      "system": "retrotech",
+      "rom": "flash"
+    },
+    {
+      "id": "tech_138",
+      "text": "La NES lancée en Amérique du Nord en 1985 a relancé l'industrie du jeu vidéo domestique après le krach catastrophique de 1983",
+      "system": "retrotech",
+      "rom": "flash"
+    },
+    {
+      "id": "tech_139",
+      "text": "RealPlayer était tristement célèbre pour installer des logiciels indésirables et être presque impossible à désinstaller",
+      "system": "retrotech",
+      "rom": "realplayer"
+    },
+    {
+      "id": "tech_140",
+      "text": "LimeWire était tellement efficace pour propager des malwares que le télécharger était considéré comme un rite de passage",
+      "system": "retrotech",
+      "rom": "limewire"
+    },
+    {
+      "id": "tech_141",
+      "text": "Un juge fédéral a ordonné la fermeture de LimeWire en 2010 et l'a forcé à se désactiver lui-même",
+      "system": "retrotech",
+      "rom": "limewire"
+    },
+    {
+      "id": "tech_142",
+      "text": "Kazaa a été à son apogée le logiciel le plus téléchargé au monde",
+      "system": "retrotech",
+      "rom": "kazaa"
+    },
+    {
+      "id": "tech_143",
+      "text": "Clippy, l'assistant animé de Microsoft Office, a été conçu par une équipe étudiant l'interaction homme-machine",
+      "system": "retrotech",
+      "rom": "clippy"
+    },
+    {
+      "id": "tech_144",
+      "text": "Microsoft a abandonné Clippy dans Office XP en 2001 après que des études internes ont montré que les utilisateurs préféraient travailler sans lui",
+      "system": "retrotech",
+      "rom": "clippy"
+    },
+    {
+      "id": "tech_145",
+      "text": "Bandai a vendu plus de 40 millions de Tamagotchis la première année après le lancement en 1996, provoquant une pénurie mondiale",
+      "system": "retrotech",
+      "rom": "tamagotchi"
+    },
+    {
+      "id": "tech_146",
+      "text": "L'Apple Newton PDA (1993) a introduit le terme 'assistant numérique personnel' et a été pionnier de la reconnaissance d'écriture tactile",
+      "system": "retrotech",
+      "rom": "tamagotchi"
+    },
+    {
+      "id": "tech_147",
+      "text": "Le Tamagotchi a été inventé par Aki Maita",
+      "system": "retrotech",
+      "rom": "tamagotchi"
+    },
+    {
+      "id": "tech_148",
+      "text": "La Game Boy Camera sortie en 1998 détenait le record Guinness du plus petit appareil photo numérique du monde",
+      "system": "retrotech",
+      "rom": "gameboy_camera"
+    },
+    {
+      "id": "tech_149",
+      "text": "Le bug de l'an 2000 — la crainte que les ordinateurs avec des années à deux chiffres tombent en panne — a coûté environ 300 milliards de dollars à corriger",
+      "system": "retrotech",
+      "rom": "y2k"
+    },
+    {
+      "id": "tech_150",
+      "text": "Les craintes liées au Y2K étaient fondées : le système de la FAA affichait l'année 2000 comme 1900",
+      "system": "retrotech",
+      "rom": "y2k"
+    },
+    {
+      "id": "tech_151",
+      "text": "Le format DVD a été lancé au Japon en 1996 puis aux États-Unis en 1997",
+      "system": "retrotech",
+      "rom": "dvd"
+    },
+    {
+      "id": "tech_152",
+      "text": "Un DVD standard contenait 4,7 Go de données, suffisant pour un long-métrage compressé en MPEG-2",
+      "system": "retrotech",
+      "rom": "dvd"
+    },
+    {
+      "id": "tech_153",
+      "text": "La Sega Genesis lancée au Japon en 1988 a affronté la Super Famicom en promouvant le blast processing et Sonic the Hedgehog",
+      "system": "retrotech",
+      "rom": "dvd"
+    },
+    {
+      "id": "tech_154",
+      "text": "Blockbuster a eu la possibilité de racheter Netflix en 2000 pour 50 millions de dollars et a refusé",
+      "system": "retrotech",
+      "rom": "blockbuster"
+    },
+    {
+      "id": "tech_155",
+      "text": "Le dernier Blockbuster encore ouvert se trouve à Bend, Oregon",
+      "system": "retrotech",
+      "rom": "blockbuster"
+    },
+    {
+      "id": "tech_156",
+      "text": "Le Palm Pilot lancé en 1996 fut le premier assistant numérique personnel à connaître un succès grand public",
+      "system": "retrotech",
+      "rom": "palm_pilot"
+    },
+    {
+      "id": "tech_157",
+      "text": "Le système d'écriture Graffiti du Palm Pilot obligeait les utilisateurs à apprendre un alphabet simplifié conçu pour la reconnaissance tactile",
+      "system": "retrotech",
+      "rom": "palm_pilot"
+    },
+    {
+      "id": "tech_158",
+      "text": "Le clavier QWERTY physique du BlackBerry était si efficace que les cadres l'avaient surnommé 'CrackBerry'",
+      "system": "retrotech",
+      "rom": "blackberry"
+    },
+    {
+      "id": "tech_159",
+      "text": "À son apogée en 2012, BlackBerry détenait 20 % du marché mondial des smartphones et 50 % du marché entreprise américain",
+      "system": "retrotech",
+      "rom": "blackberry"
+    },
+    {
+      "id": "tech_160",
+      "text": "La Sega Dreamcast intégrait un modem 56K dès son lancement en 1998",
+      "system": "retrotech",
+      "rom": "dreamcast_modem"
+    },
+    {
+      "id": "tech_161",
+      "text": "Le CD-ROM s'est généralisé dans les PC familiaux entre 1994 et 1995, permettant encyclopédies multimédia, jeux vidéo et CDs audio sur une seule plateforme",
+      "system": "retrotech",
+      "rom": "ethernet"
+    },
+    {
+      "id": "tech_162",
+      "text": "La norme 802.11b (1999) offrait 11 Mbps en sans-fil et fut le premier format WiFi grand public largement adopté",
+      "system": "retrotech",
+      "rom": "wifi"
+    },
+    {
+      "id": "tech_163",
+      "text": "L'AirPort d'Apple lancé en 1999 avec l'iBook fut l'un des premiers routeurs WiFi grand public",
+      "system": "retrotech",
+      "rom": "wifi"
+    },
+    {
+      "id": "tech_164",
+      "text": "L'USB a été conçu par une équipe incluant Ajay Bhatt d'Intel pour éliminer la confusion des ports série, parallèle et autres",
+      "system": "retrotech",
+      "rom": "usb"
+    },
+    {
+      "id": "tech_165",
+      "text": "L'USB 1.0 sorti en 1996 permettait des transferts de données à 12 Mbps",
+      "system": "retrotech",
+      "rom": "usb"
+    },
+    {
+      "id": "tech_166",
+      "text": "Le World Wide Web a été inventé par Tim Berners-Lee au CERN en 1989",
+      "system": "retrotech",
+      "rom": "world_wide_web"
+    },
+    {
+      "id": "tech_167",
+      "text": "Le premier site web, toujours accessible sur info.cern.ch, a été créé par Tim Berners-Lee en 1991 pour expliquer le World Wide Web",
+      "system": "retrotech",
+      "rom": "world_wide_web"
+    },
+    {
+      "id": "tech_168",
+      "text": "Le lecteur Zip d'Iomega (1994) avec ses disques de 100 Mo était devenu standard dans les studios de design pour partager de gros fichiers",
+      "system": "retrotech",
+      "rom": "world_wide_web"
+    },
+    {
+      "id": "tech_169",
+      "text": "AltaVista lancé en 1995 fut le premier vrai moteur de recherche web puissant, capable d'indexer l'ensemble du web",
+      "system": "retrotech",
+      "rom": "altavista"
+    },
+    {
+      "id": "tech_170",
+      "text": "Ask Jeeves lancé en 1996 permettait aux utilisateurs de poser des questions en langage naturel",
+      "system": "retrotech",
+      "rom": "ask_jeeves"
+    },
+    {
+      "id": "tech_171",
+      "text": "Usenet créé en 1980 était un système de discussion distribué qui précédait le web",
+      "system": "retrotech",
+      "rom": "usenet"
+    },
+    {
+      "id": "tech_172",
+      "text": "Le terme 'spam' pour les messages indésirables vient d'un incident Usenet de 1994 où deux avocats ont posté en masse",
+      "system": "retrotech",
+      "rom": "usenet"
+    },
+    {
+      "id": "tech_173",
+      "text": "Le premier e-mail a été envoyé par Ray Tomlinson en 1971",
+      "system": "retrotech",
+      "rom": "email"
+    },
+    {
+      "id": "tech_174",
+      "text": "Hotmail lancé en 1996 fut l'un des premiers services de messagerie web gratuite",
+      "system": "retrotech",
+      "rom": "email"
+    },
+    {
+      "id": "tech_175",
+      "text": "Le Palm Pilot (1996) fut le premier PDA vraiment populaire et a introduit le système d'écriture Graffiti pour la saisie tactile",
+      "system": "retrotech",
+      "rom": "screensaver"
+    },
+    {
+      "id": "tech_176",
+      "text": "L'économiseur d'écran aux toasters volants de After Dark (1989) est devenu l'un des programmes les plus iconiques de l'histoire",
+      "system": "retrotech",
+      "rom": "screensaver"
+    },
+    {
+      "id": "tech_177",
+      "text": "PowerPoint a été créé par Robert Gaskins et Dennis Austin chez Forethought Inc",
+      "system": "retrotech",
+      "rom": "powerpoint"
+    },
+    {
+      "id": "tech_178",
+      "text": "PowerPoint ne tournait à l'origine que sur Mac",
+      "system": "retrotech",
+      "rom": "powerpoint"
+    },
+    {
+      "id": "tech_179",
+      "text": "Windows Solitaire a été inclus dans Windows 3.0 en 1990 pas seulement pour le divertissement",
+      "system": "retrotech",
+      "rom": "windows_games"
+    },
+    {
+      "id": "tech_180",
+      "text": "Minesweeper a été conçu à l'origine pour apprendre à utiliser la souris",
+      "system": "retrotech",
+      "rom": "windows_games"
+    },
+    {
+      "id": "tech_181",
+      "text": "Doom (1993) était estimé installé sur plus d'ordinateurs que Windows 95 dès 1995",
+      "system": "retrotech",
+      "rom": "doom_shareware"
+    },
+    {
+      "id": "tech_182",
+      "text": "Betamax, développé par Sony et sorti en 1975, offrait une meilleure qualité d'enregistrement que VHS mais a perdu la guerre des formats",
+      "system": "retrotech",
+      "rom": "doom_shareware"
+    },
+    {
+      "id": "tech_183",
+      "text": "Microsoft Encarta sur CD-ROM a mis pour la première fois une encyclopédie complète sur un seul disque",
+      "system": "retrotech",
+      "rom": "encarta"
+    },
+    {
+      "id": "tech_184",
+      "text": "Le Philips CD-i lancé en 1991 était présenté comme un appareil tout-en-un mais a échoué commercialement",
+      "system": "retrotech",
+      "rom": "philips_cdi"
+    },
+    {
+      "id": "tech_185",
+      "text": "La carte graphique 3dfx Voodoo lancée en 1996 a apporté le rendu 3D temps réel aux PC et a lancé l'ère des GPU",
+      "system": "retrotech",
+      "rom": "3d_graphics"
+    },
+    {
+      "id": "tech_186",
+      "text": "NVIDIA fondée en 1993 est devenue le fabricant de GPU dominant avec la GeForce 256 en 1999",
+      "system": "retrotech",
+      "rom": "3d_graphics"
+    },
+    {
+      "id": "tech_187",
+      "text": "Le connecteur 9 broches du joystick Atari a été si largement adopté qu'il a été repris par Commodore, Amiga et Sega",
+      "system": "retrotech",
+      "rom": "joystick"
+    },
+    {
+      "id": "tech_188",
+      "text": "Canon et HP ont développé simultanément la technologie d'impression à jet d'encre de façon indépendante au début des années 80",
+      "system": "retrotech",
+      "rom": "inkjet_printer"
+    },
+    {
+      "id": "tech_189",
+      "text": "La SNES (Super Famicom) lancée au Japon en novembre 1990 s'est vendue à plus de 300 000 unités le premier jour avant que Nintendo limite les achats",
+      "system": "retrotech",
+      "rom": "scanner"
+    },
+    {
+      "id": "tech_190",
+      "text": "Le premier appareil photo numérique a été construit par l'ingénieur Kodak Steven Sasson en 1975",
+      "system": "retrotech",
+      "rom": "digital_camera"
+    },
+    {
+      "id": "tech_191",
+      "text": "Kodak a inventé l'appareil photo numérique en 1975 mais l'a étouffé pour protéger ses ventes de pellicules, avant de faire faillite en 2012",
+      "system": "retrotech",
+      "rom": "digital_camera"
+    },
+    {
+      "id": "tech_192",
+      "text": "WinZip fut l'un des premiers shareware que des millions d'utilisateurs ont réellement acheté",
+      "system": "retrotech",
+      "rom": "winzip"
+    },
+    {
+      "id": "tech_193",
+      "text": "Le GPS est devenu accessible aux civils en 1983 après le crash du vol Korean Air Lines 007",
+      "system": "retrotech",
+      "rom": "gps"
+    },
+    {
+      "id": "tech_194",
+      "text": "Les premiers GPS grand public à la fin des années 90 étaient de la taille d'une brique et coûtaient entre 500 et 1 000 $",
+      "system": "retrotech",
+      "rom": "gps"
+    },
+    {
+      "id": "tech_195",
+      "text": "Le Motorola RAZR V3 lancé en 2004 est devenu le téléphone à clapet le plus vendu de l'histoire avec plus de 130 millions d'unités",
+      "system": "retrotech",
+      "rom": "razr_phone"
+    },
+    {
+      "id": "tech_196",
+      "text": "Le Power Glove fut le premier contrôleur de jeu à détection de mouvement grand public, sorti en 1989",
+      "system": "retrotech",
+      "rom": "power_glove"
+    },
+    {
+      "id": "tech_197",
+      "text": "L'IBM ThinkPad (1992) a établi le standard du design de portable professionnel avec sa coque noire et son TrackPoint rouge",
+      "system": "retrotech",
+      "rom": "power_glove"
+    },
+    {
+      "id": "tech_198",
+      "text": "Jaron Lanier a inventé le terme 'réalité virtuelle' au milieu des années 80 en développant des technologies VR chez VPL Research",
+      "system": "retrotech",
+      "rom": "virtual_reality"
+    },
+    {
+      "id": "tech_199",
+      "text": "Le Sega Activator sorti en 1993 utilisait un anneau octogonal de faisceaux infrarouges au sol pour détecter les mouvements du corps",
+      "system": "retrotech",
+      "rom": "sega_activator"
+    },
+    {
+      "id": "tech_200",
+      "text": "L'ENIAC, premier ordinateur électronique généraliste, pesait 30 tonnes et occupait toute une salle",
+      "system": "retrotech",
+      "rom": "early_computers"
+    },
+    {
+      "id": "tech_201",
+      "text": "Le Commodore 64 est le modèle d'ordinateur personnel le plus vendu de tous les temps",
+      "system": "retrotech",
+      "rom": "commodore_64"
+    },
+    {
+      "id": "tech_202",
+      "text": "La puce SID du Commodore 64 était si sophistiquée musicalement qu'une communauté mondiale lui est encore dédiée",
+      "system": "retrotech",
+      "rom": "commodore_64"
+    },
+    {
+      "id": "tech_203",
+      "text": "Le Commodore 64 chargeait depuis cassette à environ 1 500 bauds — si lent qu'un jeu pouvait prendre 15 minutes à se charger",
+      "system": "retrotech",
+      "rom": "commodore_64"
+    },
+    {
+      "id": "tech_204",
+      "text": "Le Motorola DynaTAC 8000X, premier téléphone portable commercial, a été approuvé par la FCC en 1983 et vendu 3 995 $",
+      "system": "retrotech",
+      "rom": "amiga"
+    },
+    {
+      "id": "tech_205",
+      "text": "L'Amiga 500 s'est vendu mieux que tout autre ordinateur personnel au Royaume-Uni pendant trois années consécutives à la fin des années 80",
+      "system": "retrotech",
+      "rom": "amiga"
+    },
+    {
+      "id": "tech_206",
+      "text": "Le mode HAM de l'Amiga pouvait afficher 4 096 couleurs simultanément quand le PC IBM ne gérait que 16",
+      "system": "retrotech",
+      "rom": "amiga"
+    },
+    {
+      "id": "tech_207",
+      "text": "Le ZX Spectrum conçu par Clive Sinclair et lancé en 1982 est devenu l'ordinateur domestique le plus vendu au Royaume-Uni",
+      "system": "retrotech",
+      "rom": "zx_spectrum"
+    },
+    {
+      "id": "tech_208",
+      "text": "L''attribute clash' du ZX Spectrum (couleurs par cellule et non par pixel) est devenu une signature visuelle caractéristique de la plateforme",
+      "system": "retrotech",
+      "rom": "zx_spectrum"
+    },
+    {
+      "id": "tech_209",
+      "text": "L'Apple II introduit en 1977 fut l'un des premiers ordinateurs personnels grand public et est resté en production pendant des années",
+      "system": "retrotech",
+      "rom": "apple_ii"
+    },
+    {
+      "id": "tech_210",
+      "text": "VisiCalc, le premier tableur, écrit pour l'Apple II en 1979, est crédité d'avoir à lui seul popularisé l'ordinateur personnel en entreprise",
+      "system": "retrotech",
+      "rom": "apple_ii"
+    },
+    {
+      "id": "tech_211",
+      "text": "L'Apple Lisa sorti en 1983 à 9 995 $ fut le premier ordinateur personnel vendu avec une interface graphique",
+      "system": "retrotech",
+      "rom": "apple_lisa"
+    },
+    {
+      "id": "tech_212",
+      "text": "Le TI-99/4A (1981) fut le premier ordinateur domestique avec un processeur 16 bits, bien que son bus 8 bits en ait limité le potentiel",
+      "system": "retrotech",
+      "rom": "apple_lisa"
+    },
+    {
+      "id": "tech_213",
+      "text": "L'ordinateur NeXT lancé par Steve Jobs en 1988 fut la machine sur laquelle Tim Berners-Lee a créé le World Wide Web",
+      "system": "retrotech",
+      "rom": "next_computer"
+    },
+    {
+      "id": "tech_214",
+      "text": "Tim Berners-Lee a inventé le World Wide Web sur un ordinateur NeXT au CERN en 1989",
+      "system": "retrotech",
+      "rom": "next_computer"
+    },
+    {
+      "id": "tech_215",
+      "text": "Le Newton MessagePad lancé par Apple en 1993 fut le premier assistant numérique personnel grand public",
+      "system": "retrotech",
+      "rom": "newton"
+    },
+    {
+      "id": "tech_216",
+      "text": "Le Newton a été supprimé par Steve Jobs à son retour chez Apple en 1997",
+      "system": "retrotech",
+      "rom": "newton"
+    },
+    {
+      "id": "tech_217",
+      "text": "L'Atari ST fut le premier ordinateur domestique livré en standard avec une interface graphique",
+      "system": "retrotech",
+      "rom": "atari_st"
+    },
+    {
+      "id": "tech_218",
+      "text": "Des studios d'enregistrement professionnels utilisaient des Atari ST avec Cubase ou Notator tout au long des années 80 et 90",
+      "system": "retrotech",
+      "rom": "atari_st"
+    },
+    {
+      "id": "tech_219",
+      "text": "La HP-35 (1972) fut la première calculatrice scientifique de poche au monde, utilisant la notation polonaise inverse et vendue 395 $",
+      "system": "retrotech",
+      "rom": "game_boy"
+    },
+    {
+      "id": "tech_220",
+      "text": "Tetris était fourni avec la Game Boy dans la plupart des régions",
+      "system": "retrotech",
+      "rom": "game_boy"
+    },
+    {
+      "id": "tech_221",
+      "text": "Une Game Boy a survécu à un bombardement pendant la guerre du Golfe",
+      "system": "retrotech",
+      "rom": "game_boy"
+    },
+    {
+      "id": "tech_222",
+      "text": "La Sega Genesis lancée en Amérique du Nord en 1989 avec Altered Beast à une époque où la NES dominait encore le marché",
+      "system": "retrotech",
+      "rom": "sega_genesis"
+    },
+    {
+      "id": "tech_223",
+      "text": "La puce de synthèse FM Yamaha YM2612 de la Sega Genesis donnait à la console un son caractéristique inimitable",
+      "system": "retrotech",
+      "rom": "sega_genesis"
+    },
+    {
+      "id": "tech_224",
+      "text": "La SNES lancée à 199,99 $ en 1991 s'est vendue à 700 000 unités le premier jour en Amérique du Nord",
+      "system": "retrotech",
+      "rom": "super_nintendo"
+    },
+    {
+      "id": "tech_225",
+      "text": "Le coprocesseur Super FX de la SNES, intégré dans certaines cartouches, permettait d'afficher des polygones 3D",
+      "system": "retrotech",
+      "rom": "super_nintendo"
+    },
+    {
+      "id": "tech_226",
+      "text": "Le TurboGrafx-16 lancé au Japon sous le nom PC Engine en 1987 était techniquement plus avancé que la NES",
+      "system": "retrotech",
+      "rom": "turbografx"
+    },
+    {
+      "id": "tech_227",
+      "text": "Le premier e-mail commercial fut envoyé sur ARPANET en 1971 par Ray Tomlinson, qui choisit aussi le symbole '@' pour séparer noms et hôtes",
+      "system": "retrotech",
+      "rom": "turbografx"
+    },
+    {
+      "id": "tech_228",
+      "text": "La console Neo Geo AES coûtait 649,99 $ au lancement en 1990",
+      "system": "retrotech",
+      "rom": "neo_geo"
+    },
+    {
+      "id": "tech_229",
+      "text": "Le système arcade Neo Geo MVS permettait aux exploitants d'échanger jusqu'à six cartouches de jeux différentes dans une seule borne",
+      "system": "retrotech",
+      "rom": "neo_geo"
+    },
+    {
+      "id": "tech_230",
+      "text": "Sound Blaster introduit par Creative Labs en 1989 est devenu le standard de fait pour l'audio sur PC",
+      "system": "retrotech",
+      "rom": "sound_blaster"
+    },
+    {
+      "id": "tech_231",
+      "text": "Le Sound Blaster 16 a introduit l'audio qualité CD en 16 bits sur PC en 1992",
+      "system": "retrotech",
+      "rom": "sound_blaster"
+    },
+    {
+      "id": "tech_232",
+      "text": "Le Roland MT-32 était le module sonore utilisé par Sierra On-Line et LucasArts pour composer leurs bandes-son des années 80",
+      "system": "retrotech",
+      "rom": "roland_mt32"
+    },
+    {
+      "id": "tech_233",
+      "text": "Le MIDI standardisé en 1983 a permis à des synthétiseurs de différentes marques de communiquer et a révolutionné la production musicale",
+      "system": "retrotech",
+      "rom": "midi"
+    },
+    {
+      "id": "tech_234",
+      "text": "Le système Minitel français lancé en 1982 offrait à des millions d'utilisateurs des services en ligne une décennie avant le web",
+      "system": "retrotech",
+      "rom": "compaq"
+    },
+    {
+      "id": "tech_235",
+      "text": "Le choix d'IBM d'utiliser des composants standard dans son PC original a permis à n'importe quel fabricant de créer des clones",
+      "system": "retrotech",
+      "rom": "personal_computer"
+    },
+    {
+      "id": "tech_236",
+      "text": "Novell NetWare a dominé les réseaux d'entreprise tout au long des années 80 et du début des années 90",
+      "system": "retrotech",
+      "rom": "novell_netware"
+    },
+    {
+      "id": "tech_237",
+      "text": "La norme réseau 'token ring' était la réponse d'IBM à l'Ethernet",
+      "system": "retrotech",
+      "rom": "token_ring"
+    },
+    {
+      "id": "tech_238",
+      "text": "OS/2 co-développé par IBM et Microsoft était techniquement supérieur à Windows sous de nombreux aspects mais a coulé à cause de la stratégie d'IBM",
+      "system": "retrotech",
+      "rom": "os2"
+    },
+    {
+      "id": "tech_239",
+      "text": "Microsoft Bob lancé en 1995 comme alternative conviviale au bureau Windows est devenu l'un des plus grands flops de Microsoft",
+      "system": "retrotech",
+      "rom": "microsoft_bob"
+    },
+    {
+      "id": "tech_240",
+      "text": "Lotus 1-2-3 a dominé les tableurs PC au point que 'compatible Lotus' devenait une exigence pour tout nouveau logiciel",
+      "system": "retrotech",
+      "rom": "lotus_123"
+    },
+    {
+      "id": "tech_241",
+      "text": "VisiCalc, le tableur original, ne tournait que sur Apple II et fut un tel outil professionnel qu'il a popularisé à lui seul l'ordinateur en entreprise",
+      "system": "retrotech",
+      "rom": "visicalc"
+    },
+    {
+      "id": "tech_242",
+      "text": "Le Tandy 1000 (1984) était le clone IBM PC le plus compatible avec les jeux grâce à ses graphiques TGA améliorés et sa puce sonore trois voix",
+      "system": "retrotech",
+      "rom": "hypercard"
+    },
+    {
+      "id": "tech_243",
+      "text": "HyperCard était fourni gratuitement avec chaque Macintosh pendant des années",
+      "system": "retrotech",
+      "rom": "hypercard"
+    },
+    {
+      "id": "tech_244",
+      "text": "SCSI (Small Computer System Interface) était le standard professionnel pour les disques durs, scanners et autres périphériques",
+      "system": "retrotech",
+      "rom": "scsi"
+    },
+    {
+      "id": "tech_245",
+      "text": "Les conflits IRQ étaient le cauchemar de dépannage PC caractéristique de l'ère Windows 9x",
+      "system": "retrotech",
+      "rom": "irq_conflicts"
+    },
+    {
+      "id": "tech_246",
+      "text": "Le point d'exclamation jaune du Gestionnaire de périphériques Windows 98 signalant des conflits matériels était une frustration universelle",
+      "system": "retrotech",
+      "rom": "irq_conflicts"
+    },
+    {
+      "id": "tech_247",
+      "text": "Gopher inventé à l'Université du Minnesota en 1991 fut un système d'organisation d'information en ligne avant d'être supplanté par le web",
+      "system": "retrotech",
+      "rom": "gopher"
+    },
+    {
+      "id": "tech_248",
+      "text": "IRC créé en 1988 était le principal système de communication en temps réel des premières communautés internet mondiales",
+      "system": "retrotech",
+      "rom": "irc"
+    },
+    {
+      "id": "tech_249",
+      "text": "WordPerfect 5.1 (1989) dominait le traitement de texte à la fin des années 80 et début des années 90 avec plus de 50 % du marché professionnel",
+      "system": "retrotech",
+      "rom": "mud"
+    },
+    {
+      "id": "tech_250",
+      "text": "Le jeu éducatif Oregon Trail a été créé en 1971 par trois étudiants en formation pédagogique",
+      "system": "retrotech",
+      "rom": "oregon_trail"
+    },
+    {
+      "id": "tech_251",
+      "text": "Carmen Sandiego lancé par Brøderbund en 1985 est devenu l'une des franchises de jeux éducatifs les plus populaires",
+      "system": "retrotech",
+      "rom": "carmen_sandiego"
+    },
+    {
+      "id": "tech_252",
+      "text": "Le VRML (Virtual Reality Modeling Language) sorti en 1994 fut le premier standard internet pour les environnements 3D",
+      "system": "retrotech",
+      "rom": "vrml"
+    },
+    {
+      "id": "tech_253",
+      "text": "Prodigy, service en ligne joint IBM-Sears depuis 1988, affichait des bannières publicitaires bien avant que le web n'existe",
+      "system": "retrotech",
+      "rom": "prodigy"
+    },
+    {
+      "id": "tech_254",
+      "text": "Les forums CompuServe étaient si influents que les grandes entreprises assignaient du personnel pour y surveiller et répondre aux plaintes",
+      "system": "retrotech",
+      "rom": "compuserve"
+    },
+    {
+      "id": "tech_255",
+      "text": "FidoNet créé en 1984 connectait les BBS en leur faisant se composer automatiquement la nuit pour échanger des messages",
+      "system": "retrotech",
+      "rom": "fidonet"
+    },
+    {
+      "id": "tech_256",
+      "text": "Les disques durs amovibles SyQuest étaient le standard professionnel pour partager de gros fichiers entre graphistes dans les années 90",
+      "system": "retrotech",
+      "rom": "syquest"
+    },
+    {
+      "id": "tech_257",
+      "text": "L'Apple IIgs (1986) était le plus puissant des Apple II avec un processeur 16 bits, des capacités sonores avancées et une interface graphique",
+      "system": "retrotech",
+      "rom": "jaz_drive"
+    },
+    {
+      "id": "tech_258",
+      "text": "Aldus PageMaker lancé en 1985 pour Mac et imprimante LaserJet a inventé la publication assistée par ordinateur",
+      "system": "retrotech",
+      "rom": "pagemaker"
+    },
+    {
+      "id": "tech_259",
+      "text": "QuarkXPress a dominé l'édition professionnelle de la fin des années 80 jusqu'aux années 90",
+      "system": "retrotech",
+      "rom": "quark_xpress"
+    },
+    {
+      "id": "tech_260",
+      "text": "Adobe Photoshop a été créé par les frères Thomas et John Knoll en 1987 et racheté par Adobe pour 34,5 millions de dollars",
+      "system": "retrotech",
+      "rom": "photoshop"
+    },
+    {
+      "id": "tech_261",
+      "text": "Photoshop 1.0 en 1990 ne tournait que sur Macintosh et ne comportait pas de calques",
+      "system": "retrotech",
+      "rom": "photoshop"
+    },
+    {
+      "id": "tech_262",
+      "text": "La programmation BASIC était enseignée dans presque tous les collèges américains dans les années 80",
+      "system": "retrotech",
+      "rom": "basic_programming"
+    },
+    {
+      "id": "tech_263",
+      "text": "GW-BASIC et QBasic étaient préinstallés sur les ordinateurs DOS pendant des années",
+      "system": "retrotech",
+      "rom": "basic_programming"
+    },
+    {
+      "id": "tech_264",
+      "text": "La souris Microsoft (1983) était l'une des premières souris deux boutons largement disponibles et coûtait 195 $ au lancement",
+      "system": "retrotech",
+      "rom": "mp3_codec"
+    },
+    {
+      "id": "tech_265",
+      "text": "Adobe Acrobat lancé en 1993 a créé le format PDF",
+      "system": "retrotech",
+      "rom": "pdf_acrobat"
+    },
+    {
+      "id": "tech_266",
+      "text": "Apple QuickTime lancé en 1991 fut le premier format de lecture vidéo largement utilisé sur ordinateurs personnels",
+      "system": "retrotech",
+      "rom": "quicktime"
+    },
+    {
+      "id": "tech_267",
+      "text": "MapQuest lancé en 1996 était le principal service de cartographie en ligne avant Google Maps",
+      "system": "retrotech",
+      "rom": "mapquest"
+    },
+    {
+      "id": "tech_268",
+      "text": "Les itinéraires imprimés de MapQuest étaient tristement célèbres pour devenir faux dès qu'une route changeait",
+      "system": "retrotech",
+      "rom": "mapquest"
+    },
+    {
+      "id": "tech_269",
+      "text": "Quake (1996) fut le premier jeu entièrement en 3D à supporter le multijoueur en ligne via TCP/IP",
+      "system": "retrotech",
+      "rom": "quake"
+    },
+    {
+      "id": "tech_270",
+      "text": "Les LAN parties organisées autour de Quake et Starcraft à la fin des années 90 étaient le précurseur de l'esport",
+      "system": "retrotech",
+      "rom": "lan_gaming"
+    },
+    {
+      "id": "tech_271",
+      "text": "Lycos lancé en 1994 a brièvement dominé la recherche web",
+      "system": "retrotech",
+      "rom": "lycos"
+    },
+    {
+      "id": "tech_272",
+      "text": "Le Commodore Amiga 500 (1987) est devenu l'ordinateur domestique dominant au Royaume-Uni et dans une grande partie de l'Europe pour le jeu et la création",
+      "system": "retrotech",
+      "rom": "early_search"
+    },
+    {
+      "id": "tech_273",
+      "text": "WebTV lancé en 1996 permettait à des gens sans ordinateur de naviguer basiquement sur internet via leur télévision",
+      "system": "retrotech",
+      "rom": "webtv"
+    },
+    {
+      "id": "tech_274",
+      "text": "SETI@home lancé en 1999 fut le premier projet de calcul distribué à grande participation populaire",
+      "system": "retrotech",
+      "rom": "seti_at_home"
+    },
+    {
+      "id": "tech_275",
+      "text": "La bulle internet a créé des millionnaires en un quart d'heure",
+      "system": "retrotech",
+      "rom": "dotcom_boom"
+    },
+    {
+      "id": "tech_276",
+      "text": "Broadcast.com s'est vendu 5,7 milliards de dollars à Yahoo en 1999 au sommet de la bulle internet",
+      "system": "retrotech",
+      "rom": "dotcom_boom"
+    },
+    {
+      "id": "tech_277",
+      "text": "L'Atari Lynx lancé en 1989 fut la première console portable couleur de l'histoire",
+      "system": "retrotech",
+      "rom": "atari_lynx"
+    },
+    {
+      "id": "tech_278",
+      "text": "La Sega Game Gear lancée en 1990 avait un écran couleur rétroéclairé et un accessoire tuner TV",
+      "system": "retrotech",
+      "rom": "game_gear"
+    },
+    {
+      "id": "tech_279",
+      "text": "L'Apple Lisa (1983) coûtait 9 995 $ et fut le premier ordinateur personnel avec une interface graphique, mais son prix l'a condamné",
+      "system": "retrotech",
+      "rom": "virtual_boy"
+    },
+    {
+      "id": "tech_280",
+      "text": "La 3DO lancée en 1993 à 699 $ a été conçue par Trip Hawkins (fondateur d'EA) comme une console à standard ouvert",
+      "system": "retrotech",
+      "rom": "3do"
+    },
+    {
+      "id": "tech_281",
+      "text": "L'Atari Jaguar était vendu comme '64 bits' mais utilisait un processeur général 32 bits et s'appuyait sur un bus de données 64 bits",
+      "system": "retrotech",
+      "rom": "atari_jaguar"
+    },
+    {
+      "id": "tech_282",
+      "text": "L'extension Sega CD pour la Genesis coûtait 299 $ et ajoutait un lecteur CD, un second processeur et de la RAM supplémentaire",
+      "system": "retrotech",
+      "rom": "sega_cd"
+    },
+    {
+      "id": "tech_283",
+      "text": "La Sega 32X sortie en novembre 1994 à 159 $ fut rendue obsolète par la Saturn quelques mois plus tard",
+      "system": "retrotech",
+      "rom": "sega_32x"
+    },
+    {
+      "id": "tech_284",
+      "text": "Le CompactFlash introduit par SanDisk en 1994 est devenu le format de carte mémoire dominant pour les appareils photo professionnels",
+      "system": "retrotech",
+      "rom": "compact_flash"
+    },
+    {
+      "id": "tech_285",
+      "text": "La norme PCMCIA permettait aux portables de s'étendre via des périphériques de la taille d'une carte de crédit",
+      "system": "retrotech",
+      "rom": "pcmcia"
+    },
+    {
+      "id": "tech_286",
+      "text": "AUTOEXEC.BAT et CONFIG.SYS étaient les deux fichiers qui configuraient chaque ordinateur DOS",
+      "system": "retrotech",
+      "rom": "dos_config"
+    },
+    {
+      "id": "tech_287",
+      "text": "Le PC Engine (TurboGrafx-16) (1987) était plus puissant que le Famicom et brièvement devenu la console la plus vendue au Japon",
+      "system": "retrotech",
+      "rom": "dos_config"
+    },
+    {
+      "id": "tech_288",
+      "text": "La limite mémoire de 640 Ko sous DOS frustraient les développeurs et engendrait des contournements complexes comme la mémoire étendue ou expandée",
+      "system": "retrotech",
+      "rom": "dos_config"
+    },
+    {
+      "id": "tech_289",
+      "text": "Norton Utilities lancé en 1982 est devenu un logiciel essentiel pour récupérer des fichiers supprimés et réparer des disques endommagés",
+      "system": "retrotech",
+      "rom": "norton_utilities"
+    },
+    {
+      "id": "tech_290",
+      "text": "McAfee VirusScan lancé en 1987 était l'un des premiers antivirus commerciaux",
+      "system": "retrotech",
+      "rom": "antivirus"
+    },
+    {
+      "id": "tech_291",
+      "text": "Le système d'exploitation CP/M dominait les ordinateurs personnels avant DOS",
+      "system": "retrotech",
+      "rom": "cpm"
+    },
+    {
+      "id": "tech_292",
+      "text": "Les stations de travail Unix de Sun Microsystems étaient le standard pour l'informatique scientifique et technique dans les années 80",
+      "system": "retrotech",
+      "rom": "unix_workstation"
+    },
+    {
+      "id": "tech_293",
+      "text": "Les stations de travail Silicon Graphics (SGI) ont rendu les dinosaures de Jurassic Park et le T-1000 en métal liquide",
+      "system": "retrotech",
+      "rom": "sgi_workstation"
+    },
+    {
+      "id": "tech_294",
+      "text": "Le Commodore VIC-20 (1980) fut le premier ordinateur à dépasser le million d'unités vendues, initiant des millions de personnes à l'informatique domestique",
+      "system": "retrotech",
+      "rom": "vic20"
+    },
+    {
+      "id": "tech_295",
+      "text": "Le TRS-80 lancé par RadioShack en 1977 était l'un des premiers ordinateurs personnels grand public",
+      "system": "retrotech",
+      "rom": "trs80"
+    },
+    {
+      "id": "tech_296",
+      "text": "Le Commodore 128 lancé en 1985 était compatible avec les programmes du C64 et pouvait faire tourner des logiciels CP/M",
+      "system": "retrotech",
+      "rom": "commodore_128"
+    },
+    {
+      "id": "tech_297",
+      "text": "Le BBC Micro co-développé avec la BBC dans le cadre d'une initiative d'alphabétisation informatique de 1982 est entré dans des millions de foyers britanniques",
+      "system": "retrotech",
+      "rom": "bbc_micro"
+    },
+    {
+      "id": "tech_298",
+      "text": "Le Texas Instruments TI-99/4A lancé en 1981 à 525 $ fut le premier ordinateur domestique 16 bits",
+      "system": "retrotech",
+      "rom": "ti_994a"
+    },
+    {
+      "id": "tech_299",
+      "text": "Windows for Workgroups 3.11 sorti en 1993 a ajouté pour la première fois la mise en réseau pair-à-pair à Windows",
+      "system": "retrotech",
+      "rom": "windows_workgroups"
+    },
+    {
+      "id": "tech_300",
+      "text": "L'AGP introduit en 1997 était un slot graphique dédié remplaçant le PCI pour les GPU avant l'arrivée du PCI Express en 2004",
+      "system": "retrotech",
+      "rom": "agp_slot"
+    },
+    {
+      "id": "tech_301",
+      "text": "La Game Boy Advance avait une puissance de calcul comparable à la Super Nintendo malgré son format portable",
+      "system": "retrotech",
+      "rom": "gba"
+    },
+    {
+      "id": "tech_302",
+      "text": "L'Osborne 1 (1981) fut le premier ordinateur portable commercial, pesant 10,7 kg avec un écran de 5 pouces dans un boîtier valise",
+      "system": "retrotech",
+      "rom": "nintendo_ds"
+    },
+    {
+      "id": "tech_303",
+      "text": "La PlayStation Portable lancée en 2005 disposait d'un écran large de 4,3 pouces à la résolution de 480x272",
+      "system": "retrotech",
+      "rom": "psp"
+    },
+    {
+      "id": "tech_304",
+      "text": "Minitel, le service national en ligne français lancé en 1982, offrait banque en ligne, réservations de trains et annuaire bien avant le web",
+      "system": "retrotech",
+      "rom": "minitel"
+    },
+    {
+      "id": "tech_305",
+      "text": "La montre Casio Databank lancée dans les années 80 pouvait stocker des numéros de téléphone et des rendez-vous",
+      "system": "retrotech",
+      "rom": "casio_databank"
+    },
+    {
+      "id": "tech_306",
+      "text": "Les montres LED du début des années 70 obligeaient à appuyer sur un bouton pour afficher l'heure car maintenir les LED allumées en permanence épuisait la batterie",
+      "system": "retrotech",
+      "rom": "led_watch"
+    },
+    {
+      "id": "tech_307",
+      "text": "Le Psion Organiser lancé en 1984 fut le premier ordinateur de poche à connaître un succès commercial",
+      "system": "retrotech",
+      "rom": "psion"
+    },
+    {
+      "id": "tech_308",
+      "text": "Le Handspring Visor, clone du Palm lancé en 1999, ajoutait un slot d'extension Springboard pour des modules supplémentaires",
+      "system": "retrotech",
+      "rom": "palm_accessories"
+    },
+    {
+      "id": "tech_309",
+      "text": "L'Atari ST (1985) avait 512 Ko de RAM, un OS graphique et une interface MIDI intégrée qui en faisait le standard de la production musicale",
+      "system": "retrotech",
+      "rom": "x10"
+    },
+    {
+      "id": "tech_310",
+      "text": "Les BBS dial-up avaient leur propre scène florissante d'art textuel",
+      "system": "retrotech",
+      "rom": "ansi_art"
+    },
+    {
+      "id": "tech_311",
+      "text": "Le Game Genie lancé en 1990 permettait aux joueurs d'entrer des codes pour modifier les jeux",
+      "system": "retrotech",
+      "rom": "game_genie"
+    },
+    {
+      "id": "tech_312",
+      "text": "Le Sharp Zaurus lancé au Japon en 1993 était un PDA avec reconnaissance d'écriture, fonctionnalité fax et bien plus",
+      "system": "retrotech",
+      "rom": "zaurus"
+    },
+    {
+      "id": "tech_313",
+      "text": "La calculatrice scientifique HP-41C lancée en 1979 avait un affichage alphanumérique complet et des modules ROM extensibles",
+      "system": "retrotech",
+      "rom": "hp_calculator"
+    },
+    {
+      "id": "tech_314",
+      "text": "VPL Research de Jaron Lanier vendait le DataGlove et le casque EyePhone pour la réalité virtuelle à la fin des années 80",
+      "system": "retrotech",
+      "rom": "virtual_reality"
+    },
+    {
+      "id": "tech_315",
+      "text": "Le Module d'extension No. 1 du ColecoVision le rendait entièrement compatible avec les cartouches Atari 2600",
+      "system": "retrotech",
+      "rom": "colecovision"
+    },
+    {
+      "id": "tech_316",
+      "text": "L'Apple IIgs (1986) fut délibérément sous-cadencé par Steve Jobs pour ne pas cannibaliser les ventes du Macintosh",
+      "system": "retrotech",
+      "rom": "vectrex"
+    },
+    {
+      "id": "tech_317",
+      "text": "L'IntelliVoice était un accessoire Intellivision proposant une synthèse vocale complète, avec des jeux qui parlaient vraiment au joueur",
+      "system": "retrotech",
+      "rom": "intellivision"
+    },
+    {
+      "id": "tech_318",
+      "text": "La configuration SLI des 3dfx Voodoo2 — deux cartes travaillant en parallèle — a établi des records de performance en 1998",
+      "system": "retrotech",
+      "rom": "3dfx_voodoo"
+    },
+    {
+      "id": "tech_319",
+      "text": "L'écran de rappel d'achat de licence de WinZip était célèbre pour être infiniment dismissable",
+      "system": "retrotech",
+      "rom": "winzip"
+    },
+    {
+      "id": "tech_320",
+      "text": "Le Motorola StarTAC lancé en 1996 ne pesait que 88 grammes et était le téléphone à clapet le plus petit du monde",
+      "system": "retrotech",
+      "rom": "startac_phone"
+    },
+    {
+      "id": "tech_321",
+      "text": "Le Nokia 3310 lancé en 2000 est devenu l'un des téléphones mobiles les plus durables et les plus populaires de l'histoire",
+      "system": "retrotech",
+      "rom": "nokia_3310"
+    },
+    {
+      "id": "tech_322",
+      "text": "L'Ericsson T68 lancé en 2001 fut le premier téléphone couleur largement disponible",
+      "system": "retrotech",
+      "rom": "early_color_phones"
+    },
+    {
+      "id": "tech_323",
+      "text": "La Sony PlayStation lancée au Japon en décembre 1994 a dépassé le million d'unités vendues dès le premier mois",
+      "system": "retrotech",
+      "rom": "sms_origin"
+    },
+    {
+      "id": "tech_324",
+      "text": "Le premier SMS commercial a été envoyé le 3 décembre 1992 par Neil Papworth, ingénieur chez Vodafone",
+      "system": "retrotech",
+      "rom": "sms_origin"
+    },
+    {
+      "id": "tech_325",
+      "text": "Les disques Zip ont été ainsi nommés parce qu'ils étaient plus rapides que les disquettes",
+      "system": "retrotech",
+      "rom": "zip_drive"
+    },
+    {
+      "id": "tech_326",
+      "text": "Le format LaserDisc, malgré une excellente qualité d'image, n'a jamais conquis le grand public",
+      "system": "retrotech",
+      "rom": "laserdisc"
+    },
+    {
+      "id": "tech_327",
+      "text": "La meilleure qualité d'enregistrement de Betamax était démontrée en tests mais invisible sur les téléviseurs ordinaires",
+      "system": "retrotech",
+      "rom": "betamax"
+    },
+    {
+      "id": "tech_328",
+      "text": "Le format Photo CD lancé par Kodak en 1992 permettait de stocker jusqu'à 100 photos numérisées sur un CD",
+      "system": "retrotech",
+      "rom": "photo_cd"
+    },
+    {
+      "id": "tech_329",
+      "text": "Le premier ThinkPad d'IBM, le 700C (1992), a établi le châssis noir iconique et le TrackPoint rouge encore utilisés aujourd'hui",
+      "system": "retrotech",
+      "rom": "thinkpad"
+    },
+    {
+      "id": "tech_330",
+      "text": "Le MacBook Air original dévoilé en 2008 a été sorti d'une enveloppe sur scène par Steve Jobs pour montrer sa finesse",
+      "system": "retrotech",
+      "rom": "macbook_air"
+    },
+    {
+      "id": "tech_331",
+      "text": "L'Altair 8800 sorti en 1975 en kit a inspiré Bill Gates et Paul Allen à écrire BASIC pour lui et à fonder Microsoft",
+      "system": "retrotech",
+      "rom": "altair_8800"
+    },
+    {
+      "id": "tech_332",
+      "text": "L'Apple I construit à la main par Steve Wozniak en 1976 était vendu comme circuit nu à 666,66 $",
+      "system": "retrotech",
+      "rom": "apple_i"
+    },
+    {
+      "id": "tech_333",
+      "text": "Les 18 000 tubes à vide de l'ENIAC nécessitaient une équipe dédiée de six femmes programmatrices",
+      "system": "retrotech",
+      "rom": "eniac"
+    },
+    {
+      "id": "tech_334",
+      "text": "La mémoire à tores magnétiques stockait les données dans de minuscules anneaux aimantés et dominait avant les puces à semi-conducteurs",
+      "system": "retrotech",
+      "rom": "early_memory"
+    },
+    {
+      "id": "tech_335",
+      "text": "Le disque dur a été inventé par IBM en 1956",
+      "system": "retrotech",
+      "rom": "hard_drive_history"
+    },
+    {
+      "id": "tech_336",
+      "text": "Le premier ordinateur portable, l'Osborne 1, lancé en 1981, pesait 11 kg",
+      "system": "retrotech",
+      "rom": "early_laptops"
+    },
+    {
+      "id": "tech_337",
+      "text": "La Sega Dreamcast (1998 au Japon, 1999 en Amérique du Nord) fut la première console avec un accès internet intégré via un modem 56K",
+      "system": "retrotech",
+      "rom": "early_laptops"
+    },
+    {
+      "id": "tech_338",
+      "text": "Le PDP-8 de Digital Equipment Corporation lancé en 1965 fut le premier mini-ordinateur commercial à succès",
+      "system": "retrotech",
+      "rom": "minicomputer"
+    },
+    {
+      "id": "tech_339",
+      "text": "Les 128 Ko de RAM du Macintosh original étaient si limités que les développeurs parlaient de 'Fat Mac' quand Apple doubla la mémoire",
+      "system": "retrotech",
+      "rom": "macintosh_history"
+    },
+    {
+      "id": "tech_340",
+      "text": "La campagne 'Think Different' d'Apple (1997) mettant en vedette Einstein et Gandhi a contribué à relancer l'image de la marque",
+      "system": "retrotech",
+      "rom": "apple_history"
+    },
+    {
+      "id": "tech_341",
+      "text": "L'Atari 400 utilisait un clavier à membrane",
+      "system": "retrotech",
+      "rom": "atari_home_computers"
+    },
+    {
+      "id": "tech_342",
+      "text": "Le MIDI standardisé en 1983 a permis à des synthétiseurs et ordinateurs de différentes marques de communiquer, révolutionnant la production musicale",
+      "system": "retrotech",
+      "rom": "turbo_button"
+    },
+    {
+      "id": "tech_343",
+      "text": "Le Creative Labs Sound Blaster AWE32 a introduit une puce de synthèse wavetable complète en 1994",
+      "system": "retrotech",
+      "rom": "sound_blaster"
+    },
+    {
+      "id": "tech_344",
+      "text": "La carte Hercules Graphics Card lancée en 1982 offrait un affichage monochrome haute résolution pour les premiers PC IBM",
+      "system": "retrotech",
+      "rom": "pc_graphics_history"
+    },
+    {
+      "id": "tech_345",
+      "text": "Le standard VGA introduit par IBM en 1987 avec le PS/2 offrait 256 couleurs en 320x200 ou 16 couleurs en 640x480",
+      "system": "retrotech",
+      "rom": "vga_standard"
+    },
+    {
+      "id": "tech_346",
+      "text": "Les cartes SVGA du début des années 90 poussaient la résolution à 800x600 et 1024x768",
+      "system": "retrotech",
+      "rom": "vga_standard"
+    },
+    {
+      "id": "tech_347",
+      "text": "Le système d'exploitation de l'Amiga 1000 se chargeait depuis une disquette car la ROM Kickstart n'était pas prête",
+      "system": "retrotech",
+      "rom": "amiga"
+    },
+    {
+      "id": "tech_348",
+      "text": "La Game Boy Micro lancée en 2005 est la Game Boy la plus petite de Nintendo",
+      "system": "retrotech",
+      "rom": "game_boy_micro"
+    },
+    {
+      "id": "tech_349",
+      "text": "Le CD-i (1991) de Philips était un lecteur multimédia combinant TV, jeux et éducation en un seul appareil mais a échoué commercialement",
+      "system": "retrotech",
+      "rom": "dvd"
+    },
+    {
+      "id": "tech_350",
+      "text": "Les cartouches du lecteur Jaz d'Iomega avaient un défaut de conception où la tête de lecture/écriture touchait directement la surface du disque",
+      "system": "retrotech",
+      "rom": "jaz_drive"
+    },
+    {
+      "id": "tech_351",
+      "text": "L'iMac G3 original lancé en 1998 dans sa teinte bleu Bondi translucide a relancé la marque Apple",
+      "system": "retrotech",
+      "rom": "imac_g3"
+    },
+    {
+      "id": "tech_352",
+      "text": "La molette click wheel de l'iPod, introduite avec l'iPod Mini en 2004, est devenu un symbole de design élégant",
+      "system": "retrotech",
+      "rom": "ipod"
+    },
+    {
+      "id": "tech_353",
+      "text": "Le Roomba lancé par iRobot en 2002 fut le premier robot à connaître un succès grand public dans la maison",
+      "system": "retrotech",
+      "rom": "roomba"
+    },
+    {
+      "id": "tech_354",
+      "text": "TiVo lancé en 1999 a inventé l'enregistreur numérique et le concept de 'mettre la télé en pause'",
+      "system": "retrotech",
+      "rom": "tivo"
+    },
+    {
+      "id": "tech_355",
+      "text": "Le Segway Personal Transporter dévoilé en 2001 par Dean Kamen était présenté comme une révolution des transports urbains",
+      "system": "retrotech",
+      "rom": "segway"
+    },
+    {
+      "id": "tech_356",
+      "text": "Mosaic, le premier navigateur web graphique sorti en 1993, a transformé internet d'un outil textuel en un medium visuel",
+      "system": "retrotech",
+      "rom": "kindle"
+    },
+    {
+      "id": "tech_357",
+      "text": "Le GoPro lancé en 2004 par Nick Woodman avec un objectif fish-eye attaché à son poignet a créé la caméra d'action",
+      "system": "retrotech",
+      "rom": "gopro"
+    },
+    {
+      "id": "tech_358",
+      "text": "Bluetooth doit son nom à Harald Bluetooth, roi danois du Xe siècle qui a unifié les tribus scandinaves",
+      "system": "retrotech",
+      "rom": "bluetooth"
+    },
+    {
+      "id": "tech_359",
+      "text": "La norme 802.11b a reçu la marque 'WiFi' d'un groupe marketing en 1999",
+      "system": "retrotech",
+      "rom": "wifi"
+    },
+    {
+      "id": "tech_360",
+      "text": "Le bug FDIV du Pentium découvert en 1994 par un professeur de mathématiques a coûté à Intel plus de 475 millions de dollars",
+      "system": "retrotech",
+      "rom": "pentium"
+    },
+    {
+      "id": "tech_361",
+      "text": "Le processeur Intel Pentium lancé en 1993 a introduit une marque que les consommateurs reconnaissaient enfin",
+      "system": "retrotech",
+      "rom": "pentium"
+    },
+    {
+      "id": "tech_362",
+      "text": "La communauté d'overclocking a émergé avec l'Intel Celeron 300A en 1998",
+      "system": "retrotech",
+      "rom": "overclocking"
+    },
+    {
+      "id": "tech_363",
+      "text": "Le modding de boîtiers PC a atteint son apogée culturelle au début des années 2000",
+      "system": "retrotech",
+      "rom": "pc_case_modding"
+    },
+    {
+      "id": "tech_364",
+      "text": "La Nintendo 64 (1996) fut la dernière grande console à utiliser des cartouches et a inauguré le stick analogique avec son contrôleur à trois branches",
+      "system": "retrotech",
+      "rom": "xbox_hardware"
+    },
+    {
+      "id": "tech_365",
+      "text": "L'adaptateur online de la PS2 pour jouer en ligne était vendu séparément à 40 $",
+      "system": "retrotech",
+      "rom": "ps2_online"
+    },
+    {
+      "id": "tech_366",
+      "text": "Le format de disque optique du GameCube tournait à une vitesse différente des DVD standard et lisait les données de l'intérieur",
+      "system": "retrotech",
+      "rom": "gamecube_disc"
+    },
+    {
+      "id": "tech_367",
+      "text": "La Dreamcast pouvait démarrer depuis des CD-R sans aucune modification",
+      "system": "retrotech",
+      "rom": "dreamcast_security"
+    },
+    {
+      "id": "tech_368",
+      "text": "Le lancement de la Saturn a été avancé de quatre mois en Amérique du Nord quand le président de Sega of America Tom Kalinske a pris la décision",
+      "system": "retrotech",
+      "rom": "saturn_launch"
+    },
+    {
+      "id": "tech_369",
+      "text": "Le Nintendo 64DD, un accessoire disquette magnétique pour la N64, n'est sorti qu'au Japon en 1999 après des années de retards",
+      "system": "retrotech",
+      "rom": "n64_64dd"
+    },
+    {
+      "id": "tech_370",
+      "text": "La Sega Nomad lancée en 1995 était une version portable de la Sega Genesis qui lisait les vraies cartouches",
+      "system": "retrotech",
+      "rom": "sega_nomad"
+    },
+    {
+      "id": "tech_371",
+      "text": "Le boom du synthétiseur MIDI dans les années 80 a démocratisé la production musicale, permettant aux musiciens amateurs de créer des arrangements professionnels",
+      "system": "retrotech",
+      "rom": "nes_lockout"
+    },
+    {
+      "id": "tech_372",
+      "text": "Le système de licences Nintendo pour la NES facturait 14 $ par cartouche fabriquée aux développeurs",
+      "system": "retrotech",
+      "rom": "nes_licensing"
+    },
+    {
+      "id": "tech_373",
+      "text": "Le design de la 3DO exigeait que les fabricants de matériel paient 3 $ par unité en redevances à la société de Trip Hawkins",
+      "system": "retrotech",
+      "rom": "3do"
+    },
+    {
+      "id": "tech_374",
+      "text": "La Sega Game Gear était essentiellement une Sega Master System portable",
+      "system": "retrotech",
+      "rom": "game_gear"
+    },
+    {
+      "id": "tech_375",
+      "text": "Le MiniDisc de Sony contenait 74 minutes d'audio dans un boîtier plus petit qu'un single cassette",
+      "system": "retrotech",
+      "rom": "minidisc"
+    },
+    {
+      "id": "tech_376",
+      "text": "Le format DAT (Digital Audio Tape) était utilisé exclusivement par les studios professionnels dans les années 90 pour sa qualité parfaite",
+      "system": "retrotech",
+      "rom": "dat_tape"
+    },
+    {
+      "id": "tech_377",
+      "text": "La 'pile suicide' des bornes CPS-2 était une pile au mercure alimentant les clés de chiffrement de la carte arcade",
+      "system": "retrotech",
+      "rom": "cps2_battery"
+    },
+    {
+      "id": "tech_378",
+      "text": "La Sega Saturn a été lancée au Japon en novembre 1994, battant la PlayStation de quatre mois mais sans titres phares au lancement",
+      "system": "retrotech",
+      "rom": "sega_model2"
+    },
+    {
+      "id": "tech_379",
+      "text": "Les bornes arcade de Taito à la fin des années 80 utilisaient le Motorola 68000 comme processeur principal et un Z80 pour le son",
+      "system": "retrotech",
+      "rom": "taito_boards"
+    },
+    {
+      "id": "tech_380",
+      "text": "Le format GD-ROM de la Dreamcast stockait 1 Go de données contre 650 Mo pour un CD",
+      "system": "retrotech",
+      "rom": "gd_rom"
+    },
+    {
+      "id": "tech_381",
+      "text": "Le CPU de la PS2 tournait à 294 MHz mais ses unités vectorielles traitaient la géométrie 3D en parallèle — Sony revendiquait 66 millions de polygones par seconde",
+      "system": "retrotech",
+      "rom": "ps2_specs"
+    },
+    {
+      "id": "tech_382",
+      "text": "L'écran tactile de la Nintendo DS utilisait une technologie résistive",
+      "system": "retrotech",
+      "rom": "ds_touchscreen"
+    },
+    {
+      "id": "tech_383",
+      "text": "La barre de capteurs de la Wii Remote ne transmettait pas réellement de données",
+      "system": "retrotech",
+      "rom": "wii_sensor"
+    },
+    {
+      "id": "tech_384",
+      "text": "L'Anneau rouge de la mort de la Xbox 360 était causé par le stress thermique d'un mauvais contact de soudure du GPU",
+      "system": "retrotech",
+      "rom": "rrod"
+    },
+    {
+      "id": "tech_385",
+      "text": "La 3DO Interactive Multiplayer lancée à 699 $ en 1993 fut la première console CD-ROM domestique mais a échoué à cause de son prix excessif",
+      "system": "retrotech",
+      "rom": "ps3_cell"
+    },
+    {
+      "id": "tech_386",
+      "text": "Le succès de l'iPad en 2010 fut si inattendu qu'Apple dut construire de nouvelles usines pour répondre à la demande",
+      "system": "retrotech",
+      "rom": "ipad"
+    },
+    {
+      "id": "tech_387",
+      "text": "Le Kindle Fire d'Amazon lancé en 2011 à 199 $ était vendu à perte comme portail vers les services Amazon",
+      "system": "retrotech",
+      "rom": "kindle_fire"
+    },
+    {
+      "id": "tech_388",
+      "text": "La clé USB est devenue le principal support de stockage portable après qu'IBM a lancé son DiskOnKey en 2000",
+      "system": "retrotech",
+      "rom": "usb_flash"
+    },
+    {
+      "id": "tech_389",
+      "text": "Le système Wi-Fi de la Nintendo DS n'utilisait que le chiffrement WEP",
+      "system": "retrotech",
+      "rom": "ds_wifi"
+    },
+    {
+      "id": "tech_390",
+      "text": "Le format UMD de la PSP ne transférait des données qu'à 11 Mo/s maximum",
+      "system": "retrotech",
+      "rom": "umd"
+    },
+    {
+      "id": "tech_391",
+      "text": "Le lecteur de disquettes 1541 du C64 avait été intentionnellement ralenti par Commodore pour protéger les ventes de ses lecteurs plus chers",
+      "system": "retrotech",
+      "rom": "commodore_64"
+    },
+    {
+      "id": "tech_392",
+      "text": "L'interface Workbench 1.0 de l'Amiga utilisait une palette de quatre couleurs pour le bureau",
+      "system": "retrotech",
+      "rom": "amiga"
+    },
+    {
+      "id": "tech_393",
+      "text": "L'Atari Jaguar (1993) était commercialisé comme le premier système de jeu 64 bits au monde mais souffrait d'une bibliothèque de jeux trop pauvre",
+      "system": "retrotech",
+      "rom": "wired_magazine"
+    },
+    {
+      "id": "tech_394",
+      "text": "Geocities était organisé en 'quartiers' où les sites similaires étaient regroupés",
+      "system": "retrotech",
+      "rom": "geocities"
+    },
+    {
+      "id": "tech_395",
+      "text": "Le premier spam a été envoyé en 1978 par Gary Thuerk de DEC à 393 utilisateurs d'ARPANET pour promouvoir des mini-ordinateurs",
+      "system": "retrotech",
+      "rom": "email_history"
+    },
+    {
+      "id": "tech_396",
+      "text": "Le navigateur Mosaic sorti en 1993 par le NCSA fut le premier à afficher des images inline avec le texte",
+      "system": "retrotech",
+      "rom": "mosaic_browser"
+    },
+    {
+      "id": "tech_397",
+      "text": "Netscape est entré en bourse en août 1995 sans aucun bénéfice ni historique de revenus, inaugurant l'ère des IPO internet",
+      "system": "retrotech",
+      "rom": "netscape"
+    },
+    {
+      "id": "tech_398",
+      "text": "L'intégration d'Internet Explorer dans Windows 98 a déclenché une procédure antitrust historique",
+      "system": "retrotech",
+      "rom": "browser_antitrust"
+    },
+    {
+      "id": "tech_399",
+      "text": "Le berceau de synchronisation du PalmPilot 1000 — un bouton pour synchroniser toutes les données entre l'appareil et l'ordinateur — semblait magique",
+      "system": "retrotech",
+      "rom": "palm_pilot"
+    },
+    {
+      "id": "tech_400",
+      "text": "Le TRS-80 Color Computer (CoCo) utilisait un processeur Motorola 6809 et a réuni l'une des communautés d'utilisateurs les plus fidèles de l'histoire",
+      "system": "retrotech",
+      "rom": "blackberry"
+    }
+  ]
+}

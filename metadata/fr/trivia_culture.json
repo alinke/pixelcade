@@ -1,0 +1,2405 @@
+{
+  "category": "culture",
+  "facts": [
+    {
+      "id": "cul_001",
+      "text": "Le son « uh oh » d'ICQ déclenchait une réponse pavlovienne chez des millions d'utilisateurs",
+      "system": "culture",
+      "rom": "icq"
+    },
+    {
+      "id": "cul_002",
+      "text": "Les numéros ICQ étaient attribués de manière séquentielle",
+      "system": "culture",
+      "rom": "icq"
+    },
+    {
+      "id": "cul_003",
+      "text": "Les messages d'absence AIM ont été la première forme de réseau social passif à grande échelle",
+      "system": "culture",
+      "rom": "aim"
+    },
+    {
+      "id": "cul_004",
+      "text": "La liste d'amis sur AIM était gérée de manière obsessionnelle",
+      "system": "culture",
+      "rom": "aim"
+    },
+    {
+      "id": "cul_005",
+      "text": "La fonction « Poke » de Facebook était tellement utilisée que beaucoup d'utilisateurs l'ont désactivée ou ignorée",
+      "system": "culture",
+      "rom": "msn_messenger"
+    },
+    {
+      "id": "cul_006",
+      "text": "Les émoticônes MSN Messenger étaient si expressives que les utilisateurs communiquaient des émotions entières en un seul caractère",
+      "system": "culture",
+      "rom": "msn_messenger"
+    },
+    {
+      "id": "cul_007",
+      "text": "La fonction de chat vocal de Yahoo Messenger, lancée en 1998, permettait d'appeler via internet des années avant Skype",
+      "system": "culture",
+      "rom": "yahoo_messenger"
+    },
+    {
+      "id": "cul_008",
+      "text": "Les pages GeoCities se reconnaissaient à leurs GIF animés, compteurs de visites et texte fluo sur fond noir carrelé",
+      "system": "culture",
+      "rom": "geocities"
+    },
+    {
+      "id": "cul_009",
+      "text": "Le compteur de visiteurs sur les sites des années 1990 gamifiait le trafic web",
+      "system": "culture",
+      "rom": "geocities"
+    },
+    {
+      "id": "cul_010",
+      "text": "La musique MIDI en lecture automatique sur les pages GeoCities — souvent une version grêle d'une chanson favorite — se lançait sans prévenir",
+      "system": "culture",
+      "rom": "geocities"
+    },
+    {
+      "id": "cul_011",
+      "text": "Les anneaux web — réseaux de sites sur un même thème liés en boucle — permettaient de découvrir de nouveaux sites",
+      "system": "culture",
+      "rom": "web_rings"
+    },
+    {
+      "id": "cul_012",
+      "text": "Le GIF « Under Construction » — un petit personnage creusant avec une pelle — signalait universellement qu'une page n'était pas terminée",
+      "system": "culture",
+      "rom": "geocities"
+    },
+    {
+      "id": "cul_013",
+      "text": "Napster a créé l'idée que la musique devrait être gratuite",
+      "system": "culture",
+      "rom": "napster"
+    },
+    {
+      "id": "cul_014",
+      "text": "Les résultats de recherche sur Napster étaient si peu fiables qu'un fichier étiqueté comme une chanson pouvait être quelque chose d'entièrement différent",
+      "system": "culture",
+      "rom": "napster"
+    },
+    {
+      "id": "cul_015",
+      "text": "La RIAA a poursuivi des particuliers pour téléchargement illégal à partir de 2003, ciblant des milliers de personnes dont des grands-parents et des enfants",
+      "system": "culture",
+      "rom": "napster"
+    },
+    {
+      "id": "cul_016",
+      "text": "Après Napster, les réseaux de partage de fichiers ont été décentralisés pour qu'aucun serveur unique ne puisse être fermé",
+      "system": "culture",
+      "rom": "napster"
+    },
+    {
+      "id": "cul_017",
+      "text": "« All your base are belong to us » de Zero Wing est devenu le premier grand mème viral, répandu sur les forums en 2001",
+      "system": "culture",
+      "rom": "early_memes"
+    },
+    {
+      "id": "cul_018",
+      "text": "Le Dancing Baby (Oogachaka Baby) est apparu dans Ally McBeal en 1998 et est devenu l'un des premiers exemples de vidéo virale sur internet",
+      "system": "culture",
+      "rom": "early_memes"
+    },
+    {
+      "id": "cul_019",
+      "text": "Hamster Dance, une page web avec une animation en boucle et une mélodie accélérée, est devenu l'un des premiers sites viraux en 1998",
+      "system": "culture",
+      "rom": "early_memes"
+    },
+    {
+      "id": "cul_020",
+      "text": "L'animation Flash « You Are an Idiot » était un canular qui couvrait l'écran de visages rieurs et ne pouvait pas facilement être fermé",
+      "system": "culture",
+      "rom": "early_memes"
+    },
+    {
+      "id": "cul_021",
+      "text": "Les chaînes de mail promettant malheur si on ne les transmettait pas à 10 amis étaient l'équivalent des hoaxes des réseaux sociaux dans les années 1990",
+      "system": "culture",
+      "rom": "chain_email"
+    },
+    {
+      "id": "cul_022",
+      "text": "Le Dancing Baby (« Oogachaka Baby ») de 1996 a été l'une des premières vidéos virales sur internet, partagée par email",
+      "system": "culture",
+      "rom": "email_scams"
+    },
+    {
+      "id": "cul_023",
+      "text": "Les sujets de type « TR : TR : TR : Rép : Rép : TR : » étaient la marque de fabrique des chaînes d'emails",
+      "system": "culture",
+      "rom": "chain_email"
+    },
+    {
+      "id": "cul_024",
+      "text": "Le son « You've Got Mail » d'AOL provoquait une excitation pavlovienne",
+      "system": "culture",
+      "rom": "aol"
+    },
+    {
+      "id": "cul_025",
+      "text": "Les salons de discussion AOL étaient organisés par thèmes — Romance, Ados, Informatique — et sont devenus les hubs sociaux du premier internet",
+      "system": "culture",
+      "rom": "aol"
+    },
+    {
+      "id": "cul_026",
+      "text": "Les profils AIM permettaient aux utilisateurs d'afficher leur âge, leur localisation et des paroles de chansons — une forme précoce de présence sur les réseaux sociaux",
+      "system": "culture",
+      "rom": "aol"
+    },
+    {
+      "id": "cul_027",
+      "text": "Le disque d'essai AOL — envoyé à pratiquement chaque foyer américain — a initié des millions de personnes à internet",
+      "system": "culture",
+      "rom": "aol"
+    },
+    {
+      "id": "cul_028",
+      "text": "Le terme « mème » a été inventé par le biologiste Richard Dawkins dans son livre de 1976 « Le Gène égoïste »",
+      "system": "culture",
+      "rom": "neopets"
+    },
+    {
+      "id": "cul_029",
+      "text": "La monnaie virtuelle de Neopets, les Neopoints, était si importante pour certains que des échanges contre de l'argent réel ont émergé",
+      "system": "culture",
+      "rom": "neopets"
+    },
+    {
+      "id": "cul_030",
+      "text": "Club Penguin a totalisé plus de 200 millions de comptes enregistrés tout au long de son existence",
+      "system": "culture",
+      "rom": "club_penguin"
+    },
+    {
+      "id": "cul_031",
+      "text": "RuneScape, lancé en 2001, voyait ses joueurs revendre de l'or virtuel contre de l'argent réel malgré les règles",
+      "system": "culture",
+      "rom": "runescape"
+    },
+    {
+      "id": "cul_032",
+      "text": "Angry German Kid, une vidéo virale de 2006 montrant un ado fracassant un clavier, a engendré des milliers de remixes en ligne",
+      "system": "culture",
+      "rom": "runescape"
+    },
+    {
+      "id": "cul_033",
+      "text": "Newgrounds.com, fondé en 1995 par Tom Fulp, est devenu le foyer des animations et jeux Flash",
+      "system": "culture",
+      "rom": "newgrounds"
+    },
+    {
+      "id": "cul_034",
+      "text": "Les jeux Flash sur des sites comme Miniclip et Addicting Games étaient le divertissement principal d'une génération entière",
+      "system": "culture",
+      "rom": "flash_games"
+    },
+    {
+      "id": "cul_035",
+      "text": "Henry Stickmin, Fancy Pants Adventure et Learn to Fly étaient des jeux Flash qui rivalisaient avec des productions AAA",
+      "system": "culture",
+      "rom": "flash_games"
+    },
+    {
+      "id": "cul_036",
+      "text": "YouTube a lancé en février 2005 — la première vidéo mise en ligne était le clip de 18 secondes du cofondateur Jawed Karim « Me at the zoo »",
+      "system": "culture",
+      "rom": "youtube"
+    },
+    {
+      "id": "cul_037",
+      "text": "Le mème « Keyboard Cat » est né d'une vidéo amateur de 1984 redécouverte en 2007, générant des montages « Play him off, Keyboard Cat »",
+      "system": "culture",
+      "rom": "youtube"
+    },
+    {
+      "id": "cul_038",
+      "text": "Charlie Bit My Finger (2007) est devenu la première vidéo YouTube à atteindre 100 millions de vues",
+      "system": "culture",
+      "rom": "youtube"
+    },
+    {
+      "id": "cul_039",
+      "text": "MySpace permettait aux utilisateurs de personnaliser leur profil en HTML et CSS",
+      "system": "culture",
+      "rom": "myspace"
+    },
+    {
+      "id": "cul_040",
+      "text": "La liste des « Top 8 » amis sur MySpace provoquait une véritable anxiété sociale quand des amis en étaient retirés",
+      "system": "culture",
+      "rom": "myspace"
+    },
+    {
+      "id": "cul_041",
+      "text": "Tom Anderson, cofondateur de MySpace, était par défaut le premier ami de chaque nouvel utilisateur",
+      "system": "culture",
+      "rom": "myspace"
+    },
+    {
+      "id": "cul_042",
+      "text": "Le Rickroll était si omniprésent que Rick Astley lui-même a fait une apparition surprise au défilé Macy's de 2008",
+      "system": "culture",
+      "rom": "myspace"
+    },
+    {
+      "id": "cul_043",
+      "text": "Facebook a été lancé en février 2004 sous le nom de « TheFacebook », réservé aux seuls étudiants de Harvard",
+      "system": "culture",
+      "rom": "facebook"
+    },
+    {
+      "id": "cul_044",
+      "text": "La fonction « poke » de Facebook était l'équivalent sur les réseaux sociaux d'une petite tape sur l'épaule",
+      "system": "culture",
+      "rom": "facebook"
+    },
+    {
+      "id": "cul_045",
+      "text": "LiveJournal, fondé en 1999, a été la première grande plateforme de blogging et a créé le concept de journal intime en ligne",
+      "system": "culture",
+      "rom": "livejournal"
+    },
+    {
+      "id": "cul_046",
+      "text": "Blogger, lancé en 1999, a démocratisé la publication web — soudain, tout le monde pouvait avoir un site sans connaître le HTML",
+      "system": "culture",
+      "rom": "blogger"
+    },
+    {
+      "id": "cul_047",
+      "text": "Le terme « fail » est entré dans le jargon internet après le lancement de FAIL Blog en 2008, qui regroupait photos et vidéos de ratés",
+      "system": "culture",
+      "rom": "blogging"
+    },
+    {
+      "id": "cul_048",
+      "text": "Wikipedia a été lancé en janvier 2001 et comptait plus de 20 000 articles dès la première année",
+      "system": "culture",
+      "rom": "wikipedia"
+    },
+    {
+      "id": "cul_049",
+      "text": "Le « terrier Wikipedia » — cliquer sur les liens jusqu'à arriver sur un sujet sans rapport — est devenu un passe-temps reconnu sur internet",
+      "system": "culture",
+      "rom": "wikipedia"
+    },
+    {
+      "id": "cul_050",
+      "text": "Les profs interdisant Wikipedia comme source dans les années 2000 menaient un combat perdu d'avance",
+      "system": "culture",
+      "rom": "wikipedia"
+    },
+    {
+      "id": "cul_051",
+      "text": "Google Earth a été lancé en 2005 comme un produit dérivé d'une startup appelée Keyhole Inc",
+      "system": "culture",
+      "rom": "google_earth"
+    },
+    {
+      "id": "cul_052",
+      "text": "L'Ice Bucket Challenge est devenu viral à l'été 2014, levant plus de 115 millions de dollars pour la recherche sur la SLA dans le monde",
+      "system": "culture",
+      "rom": "google_maps"
+    },
+    {
+      "id": "cul_053",
+      "text": "L'iPod a été lancé en octobre 2001 avec 5 Go de stockage",
+      "system": "culture",
+      "rom": "ipod"
+    },
+    {
+      "id": "cul_054",
+      "text": "iTunes a été lancé en 2001 comme lecteur musical réservé au Mac et est devenu le logiciel le plus utilisé sur Windows en 2003",
+      "system": "culture",
+      "rom": "itunes"
+    },
+    {
+      "id": "cul_055",
+      "text": "L'iTunes Music Store, lancé en 2003, a vendu 1 million de chansons lors de sa première semaine à 0,99 $",
+      "system": "culture",
+      "rom": "itunes"
+    },
+    {
+      "id": "cul_056",
+      "text": "Télécharger de la musique sur Kazaa ou LimeWire signifiait accepter que le fichier soit peut-être un virus ou une chanson de Rick Astley",
+      "system": "culture",
+      "rom": "p2p_sharing"
+    },
+    {
+      "id": "cul_057",
+      "text": "La « première page d'internet » de Reddit est devenue si influente que de grandes actualités y émergeaient régulièrement",
+      "system": "culture",
+      "rom": "p2p_sharing"
+    },
+    {
+      "id": "cul_058",
+      "text": "Counter-Strike a commencé comme un mod de Half-Life créé par deux étudiants en 1999",
+      "system": "culture",
+      "rom": "counter_strike"
+    },
+    {
+      "id": "cul_059",
+      "text": "Le « leet speak » (1337 5p34k) est né dans la culture hacker et est devenu le premier langage codé largement adopté sur internet",
+      "system": "culture",
+      "rom": "leet_speak"
+    },
+    {
+      "id": "cul_060",
+      "text": "Les forums internet utilisaient des titres basés sur le nombre de messages publiés",
+      "system": "culture",
+      "rom": "internet_forums"
+    },
+    {
+      "id": "cul_061",
+      "text": "Les logiciels de forum PHPBB et vBulletin ont fait tourner des millions de communautés à partir de 1998",
+      "system": "culture",
+      "rom": "internet_forums"
+    },
+    {
+      "id": "cul_062",
+      "text": "Le mème « Harlem Shake » a explosé en février 2013, avec plus de 40 000 versions mises en ligne en deux semaines",
+      "system": "culture",
+      "rom": "image_boards"
+    },
+    {
+      "id": "cul_063",
+      "text": "Le Rickrolling est né sur 4chan en 2007 et s'est répandu dans le monde entier",
+      "system": "culture",
+      "rom": "rickroll"
+    },
+    {
+      "id": "cul_064",
+      "text": "Rick Astley lui-même a fini par embrasser le Rickrolling",
+      "system": "culture",
+      "rom": "rickroll"
+    },
+    {
+      "id": "cul_065",
+      "text": "Homestar Runner, un site de dessin animé Flash lancé en 2000, est devenu l'une des séries comiques web les plus appréciées du début d'internet",
+      "system": "culture",
+      "rom": "homestar_runner"
+    },
+    {
+      "id": "cul_066",
+      "text": "Le blog « I Can Has Cheezburger », lancé en 2007, a été le premier grand site entièrement dédié aux mèmes de chats",
+      "system": "culture",
+      "rom": "lolcats"
+    },
+    {
+      "id": "cul_067",
+      "text": "La vidéo Star Wars Kid de 2002 a été l'une des premières grandes vidéos virales involontaires, vue plus d'un milliard de fois",
+      "system": "culture",
+      "rom": "lolcats"
+    },
+    {
+      "id": "cul_068",
+      "text": "Twitter a été lancé en juillet 2006 avec une limite de 140 caractères, choisie pour s'adapter à la longueur d'un SMS",
+      "system": "culture",
+      "rom": "twitter"
+    },
+    {
+      "id": "cul_069",
+      "text": "Le système de réponse @ sur Twitter a été inventé par les utilisateurs, pas par l'entreprise",
+      "system": "culture",
+      "rom": "twitter"
+    },
+    {
+      "id": "cul_070",
+      "text": "Firefox, lancé par Mozilla en 2004, a été le premier navigateur à sérieusement défier la domination d'Internet Explorer",
+      "system": "culture",
+      "rom": "browser_wars"
+    },
+    {
+      "id": "cul_071",
+      "text": "Internet Explorer 6 gérait si mal le CSS que « IE6 must die » est devenu un cri de ralliement",
+      "system": "culture",
+      "rom": "browser_wars"
+    },
+    {
+      "id": "cul_072",
+      "text": "La vidéo « Leave Britney Alone! » de Chris Crocker en 2007 a été l'une des premières vidéos de réponse les plus vues sur YouTube",
+      "system": "culture",
+      "rom": "wikipedia"
+    },
+    {
+      "id": "cul_073",
+      "text": "Craigslist, fondé en 1995 par Craig Newmark, a révolutionné les petites annonces et conserve encore son design volontairement minimaliste",
+      "system": "culture",
+      "rom": "craigslist"
+    },
+    {
+      "id": "cul_074",
+      "text": "Match.com a été lancé en 1995 et a rendu les rencontres en ligne socialement acceptables",
+      "system": "culture",
+      "rom": "online_dating"
+    },
+    {
+      "id": "cul_075",
+      "text": "Le système de feedback d'eBay — acheteurs et vendeurs se notant mutuellement — a été la première économie de réputation à grande échelle",
+      "system": "culture",
+      "rom": "ebay"
+    },
+    {
+      "id": "cul_076",
+      "text": "Les guerres d'enchères sur eBay étaient si envoûtantes que les utilisateurs payaient régulièrement au-dessus du prix de détail — un phénomène appelé « fièvre des enchères »",
+      "system": "culture",
+      "rom": "ebay"
+    },
+    {
+      "id": "cul_077",
+      "text": "Le blog « I Can Has Cheezburger? » lancé en 2007 est devenu le temple des mèmes LOLcat",
+      "system": "culture",
+      "rom": "paypal"
+    },
+    {
+      "id": "cul_078",
+      "text": "La « PayPal Mafia » — les fondateurs qui sont partis créer d'autres entreprises — comprend Elon Musk (Tesla, SpaceX)",
+      "system": "culture",
+      "rom": "paypal"
+    },
+    {
+      "id": "cul_079",
+      "text": "Les publicités pop-up sont devenues si intrusives au début des années 2000 que les bloqueurs de pop-ups étaient parmi les outils les plus téléchargés",
+      "system": "culture",
+      "rom": "pop_ups"
+    },
+    {
+      "id": "cul_080",
+      "text": "Le premier spam email a été envoyé en 1978 à 393 utilisateurs ARPANET pour vanter un ordinateur DEC",
+      "system": "culture",
+      "rom": "email_spam"
+    },
+    {
+      "id": "cul_081",
+      "text": "Le géocaching a été inventé en mai 2000, quelques jours après que les États-Unis ont désactivé les restrictions de précision GPS",
+      "system": "culture",
+      "rom": "geocaching"
+    },
+    {
+      "id": "cul_082",
+      "text": "Le clip « Gangnam Style » de Psy est devenu la première vidéo YouTube à atteindre un milliard de vues en décembre 2012",
+      "system": "culture",
+      "rom": "ecards"
+    },
+    {
+      "id": "cul_083",
+      "text": "Les ventes de sonneries rapportaient 4 milliards de dollars par an à leur apogée au milieu des années 2000",
+      "system": "culture",
+      "rom": "ringtones"
+    },
+    {
+      "id": "cul_084",
+      "text": "Les sonneries polyphoniques ont remplacé les bips monotones par des mélodies multi-tons et ont généré d'énormes revenus pour les opérateurs mobiles",
+      "system": "culture",
+      "rom": "ringtones"
+    },
+    {
+      "id": "cul_085",
+      "text": "La saisie prédictive T9 complétait les mots à partir de combinaisons de touches numériques et était la méthode de saisie mobile dominante avant les écrans tactiles",
+      "system": "culture",
+      "rom": "t9_texting"
+    },
+    {
+      "id": "cul_086",
+      "text": "Les SMS coûtaient 10 à 20 centimes pièce, rendant les ados redoutablement efficaces dans leur usage du langage",
+      "system": "culture",
+      "rom": "sms_texting"
+    },
+    {
+      "id": "cul_087",
+      "text": "L'Ice Bucket Challenge de 2014 a levé plus de 115 millions de dollars et financé une découverte majeure sur la génétique de la SLA",
+      "system": "culture",
+      "rom": "iphone"
+    },
+    {
+      "id": "cul_088",
+      "text": "L'iPhone original n'avait pas d'App Store lors de son lancement",
+      "system": "culture",
+      "rom": "iphone"
+    },
+    {
+      "id": "cul_089",
+      "text": "Le podcasting a été inventé en 2004 par l'ancien présentateur MTV Adam Curry et le développeur Dave Winer",
+      "system": "culture",
+      "rom": "podcasting"
+    },
+    {
+      "id": "cul_090",
+      "text": "Star Wars Kid, une vidéo de 2002 montrant un adolescent faisant tournoyer un ramasse-balles comme un sabre laser, a été l'une des premières grandes vidéos virales",
+      "system": "culture",
+      "rom": "viral_videos"
+    },
+    {
+      "id": "cul_091",
+      "text": "La danse Numa Numa, Gary Brolsma chantant en playback Dragostea din Tei, a été l'une des premières vidéos virales sur internet",
+      "system": "culture",
+      "rom": "viral_videos"
+    },
+    {
+      "id": "cul_092",
+      "text": "Le premier tweet de Jack Dorsey, le 21 mars 2006, disait simplement : « just setting up my twttr. »",
+      "system": "culture",
+      "rom": "online_shopping"
+    },
+    {
+      "id": "cul_093",
+      "text": "Faire des achats en ligne semblait dangereux dans les années 1990 — peu de gens faisaient confiance aux sites avec leurs coordonnées bancaires",
+      "system": "culture",
+      "rom": "online_shopping"
+    },
+    {
+      "id": "cul_094",
+      "text": "« Wikipedia dit que… » est devenu synonyme d'information non vérifiée",
+      "system": "culture",
+      "rom": "wikipedia"
+    },
+    {
+      "id": "cul_095",
+      "text": "Friendster a été le premier grand réseau social, lancé en 2002",
+      "system": "culture",
+      "rom": "friendster"
+    },
+    {
+      "id": "cul_096",
+      "text": "Friendster est resté dominant aux Philippines pendant des années après avoir été abandonné en Occident",
+      "system": "culture",
+      "rom": "friendster"
+    },
+    {
+      "id": "cul_097",
+      "text": "Facebook a dépassé 1 milliard d'utilisateurs actifs mensuels en octobre 2012, annoncé personnellement par Mark Zuckerberg",
+      "system": "culture",
+      "rom": "linkedin"
+    },
+    {
+      "id": "cul_098",
+      "text": "Digg, lancé en 2004, a été le pionnier de l'agrégation de news par les utilisateurs",
+      "system": "culture",
+      "rom": "digg"
+    },
+    {
+      "id": "cul_099",
+      "text": "Reddit a été fondé en 2005 par Steve Huffman et Alexis Ohanian sur les conseils de Paul Graham de Y Combinator",
+      "system": "culture",
+      "rom": "reddit"
+    },
+    {
+      "id": "cul_100",
+      "text": "StumbleUpon, lancé en 2001, permettait aux utilisateurs de découvrir des sites web aléatoires selon leurs centres d'intérêt",
+      "system": "culture",
+      "rom": "stumbleupon"
+    },
+    {
+      "id": "cul_101",
+      "text": "Choisir un pseudo AIM était un vrai exercice de créativité",
+      "system": "culture",
+      "rom": "aim"
+    },
+    {
+      "id": "cul_102",
+      "text": "Friendster, lancé en 2002, a brièvement généré plus de trafic que Google avant d'être dépassé par MySpace et Facebook",
+      "system": "culture",
+      "rom": "aim"
+    },
+    {
+      "id": "cul_103",
+      "text": "La limite de stockage de 2 Mo de Hotmail obligeait les utilisateurs à supprimer constamment leurs anciens emails",
+      "system": "culture",
+      "rom": "email"
+    },
+    {
+      "id": "cul_104",
+      "text": "Google AdSense a été lancé en 2003 et a créé le premier marché de masse pour monétiser les petits sites web",
+      "system": "culture",
+      "rom": "google_adsense"
+    },
+    {
+      "id": "cul_105",
+      "text": "The Sims Online, lancé en 2002, a créé une véritable économie virtuelle incluant des syndicats du crime qui pratiquaient l'extorsion",
+      "system": "culture",
+      "rom": "the_sims_online"
+    },
+    {
+      "id": "cul_106",
+      "text": "Second Life avait un PIB de 500 millions de dollars dans son économie virtuelle en 2009",
+      "system": "culture",
+      "rom": "second_life"
+    },
+    {
+      "id": "cul_107",
+      "text": "4chan, lancé par Christopher Poole en 2003, est devenu le berceau d'Anonymous, des LOLcats et du rickrolling",
+      "system": "culture",
+      "rom": "second_life"
+    },
+    {
+      "id": "cul_108",
+      "text": "World of Warcraft a été lancé en 2004 et a atteint 12 millions d'abonnés à son apogée en 2010",
+      "system": "culture",
+      "rom": "world_of_warcraft"
+    },
+    {
+      "id": "cul_109",
+      "text": "La peste Corrupted Blood dans WoW en 2005 a été étudiée par des épidémiologistes comme une simulation accidentelle de pandémie",
+      "system": "culture",
+      "rom": "world_of_warcraft"
+    },
+    {
+      "id": "cul_110",
+      "text": "Le farming d'or dans WoW est devenu un vrai métier dans les pays en développement",
+      "system": "culture",
+      "rom": "world_of_warcraft"
+    },
+    {
+      "id": "cul_111",
+      "text": "Angry Birds était le 52e jeu de Rovio — l'entreprise était au bord de la faillite quand il est sorti et est devenu un phénomène mondial",
+      "system": "culture",
+      "rom": "angry_birds"
+    },
+    {
+      "id": "cul_112",
+      "text": "Craig Newmark a fondé Craigslist en 1995 comme une liste de diffusion par email à San Francisco avant que ça ne devienne le premier site de petites annonces",
+      "system": "culture",
+      "rom": "lolspeak"
+    },
+    {
+      "id": "cul_113",
+      "text": "Les « Chuck Norris facts » ont circulé par email en 2005 et sont devenus l'un des premiers formats de mèmes largement répandus sur internet",
+      "system": "culture",
+      "rom": "chuck_norris_facts"
+    },
+    {
+      "id": "cul_114",
+      "text": "Les affiches démotivantes de Despair Inc. ont engendré une culture de partage de blagues en images en ligne, précédant ce qu'on appelle aujourd'hui la culture mème",
+      "system": "culture",
+      "rom": "demotivational_posters"
+    },
+    {
+      "id": "cul_115",
+      "text": "AskJeeves.com a donné un visage humain à la recherche sur internet avec son majordome mascotte",
+      "system": "culture",
+      "rom": "ask_jeeves"
+    },
+    {
+      "id": "cul_116",
+      "text": "La guerre des moteurs de recherche à la fin des années 1990 opposait AltaVista, Lycos, Excite et HotBot",
+      "system": "culture",
+      "rom": "search_engines"
+    },
+    {
+      "id": "cul_117",
+      "text": "« On the internet, nobody knows you're a dog » vient d'un dessin du New Yorker de 1993 signé Peter Steiner",
+      "system": "culture",
+      "rom": "domain_names"
+    },
+    {
+      "id": "cul_118",
+      "text": "Business.com a été vendu 7,5 millions de dollars en 1999",
+      "system": "culture",
+      "rom": "domain_names"
+    },
+    {
+      "id": "cul_119",
+      "text": "Durant la bulle internet, les entreprises avec « .com » dans leur nom voyaient leur action doubler le jour de leur introduction en bourse",
+      "system": "culture",
+      "rom": "dotcom_bubble"
+    },
+    {
+      "id": "cul_120",
+      "text": "Pets.com vendait des articles pour animaux à perte, a diffusé une pub au Super Bowl à 2 millions de dollars et est devenu le symbole de l'effondrement de la bulle internet",
+      "system": "culture",
+      "rom": "dotcom_bubble"
+    },
+    {
+      "id": "cul_121",
+      "text": "Le NASDAQ a culminé à 5 048 en mars 2000 et a chuté à 1 114 en octobre 2002",
+      "system": "culture",
+      "rom": "dotcom_bubble"
+    },
+    {
+      "id": "cul_122",
+      "text": "Napster, lancé en 1999 par Shawn Fanning, a permis le partage de musique en pair-à-pair avant d'être fermé en 2001 par des poursuites judiciaires",
+      "system": "culture",
+      "rom": "slashdot"
+    },
+    {
+      "id": "cul_123",
+      "text": "Les fichiers MIDI étaient le premier format musical sur internet",
+      "system": "culture",
+      "rom": "midi_music"
+    },
+    {
+      "id": "cul_124",
+      "text": "Oregon Trail, créé en 1971, est devenu le jeu éducatif le plus joué dans les écoles américaines tout au long des années 1980 et 90",
+      "system": "culture",
+      "rom": "oregon_trail"
+    },
+    {
+      "id": "cul_125",
+      "text": "« You have died of dysentery » d'Oregon Trail est devenu l'une des répliques les plus citées dans la nostalgie informatique américaine des années 1980-90",
+      "system": "culture",
+      "rom": "oregon_trail"
+    },
+    {
+      "id": "cul_126",
+      "text": "Rainmeter, Konfabulator et les applications de widgets de bureau du début des années 2000 permettaient de couvrir son écran d'horloges analogiques",
+      "system": "culture",
+      "rom": "desktop_customization"
+    },
+    {
+      "id": "cul_127",
+      "text": "Le GIF animé « Dancing Baby » de 1996 a été l'un des premiers mèmes internet, plus tard mis en scène dans Ally McBeal",
+      "system": "culture",
+      "rom": "winamp_skins"
+    },
+    {
+      "id": "cul_128",
+      "text": "Fark.com, fondé en 1999, a été le pionnier de l'agrégation de news soumises par les utilisateurs avec ses tags absurdistes et sa communauté très active",
+      "system": "culture",
+      "rom": "fark"
+    },
+    {
+      "id": "cul_129",
+      "text": "Something Awful, fondé en 1999, a été le terreau de la culture internet, notamment avec la création de Slender Man et les premiers formats de mèmes",
+      "system": "culture",
+      "rom": "something_awful"
+    },
+    {
+      "id": "cul_130",
+      "text": "Le marketing en ligne du film Blair Witch Project en 1999, qui présentait le film comme réel, a été le pionnier du marketing viral au cinéma",
+      "system": "culture",
+      "rom": "viral_marketing"
+    },
+    {
+      "id": "cul_131",
+      "text": "La scène warez — réseaux clandestins distribuant des logiciels piratés — a développé un système d'honneur élaboré et des standards de distribution en images ISO",
+      "system": "culture",
+      "rom": "warez_culture"
+    },
+    {
+      "id": "cul_132",
+      "text": "GeoCities, lancé en 1994, a été le premier grand hébergeur gratuit permettant à des millions de personnes de publier des pages personnelles",
+      "system": "culture",
+      "rom": "irc"
+    },
+    {
+      "id": "cul_133",
+      "text": "Les opérateurs IRC détenaient un pouvoir énorme dans leurs canaux",
+      "system": "culture",
+      "rom": "irc"
+    },
+    {
+      "id": "cul_134",
+      "text": "Les LAN parties, où les joueurs apportaient leurs PC pour se connecter localement, étaient le principal format de jeu en réseau avant le haut débit",
+      "system": "culture",
+      "rom": "lan_parties"
+    },
+    {
+      "id": "cul_135",
+      "text": "QuakeCon, lancé en 1996, a été le premier grand événement LAN party mondial et a contribué à l'essor du jeu compétitif",
+      "system": "culture",
+      "rom": "lan_parties"
+    },
+    {
+      "id": "cul_136",
+      "text": "CompuServe, fondé en 1969, a été le premier grand service en ligne grand public avec plus de 3 millions d'abonnés",
+      "system": "culture",
+      "rom": "compuserve"
+    },
+    {
+      "id": "cul_137",
+      "text": "Prodigy, un projet commun d'IBM et Sears lancé en 1988, proposait des actualités, des achats et des emails avant même le web",
+      "system": "culture",
+      "rom": "prodigy"
+    },
+    {
+      "id": "cul_138",
+      "text": "The WELL, fondé en 1985, était l'une des premières communautés en ligne les plus influentes du début d'internet",
+      "system": "culture",
+      "rom": "the_well"
+    },
+    {
+      "id": "cul_139",
+      "text": "Le premier smiley « :-) » a été publié par Scott Fahlman sur un forum CS de Carnegie Mellon en 1982",
+      "system": "culture",
+      "rom": "emoticons"
+    },
+    {
+      "id": "cul_140",
+      "text": "Les émoticônes ont évolué en emojis quand les opérateurs mobiles japonais ont intégré des jeux de symboles graphiques à la fin des années 1990",
+      "system": "culture",
+      "rom": "emoticons"
+    },
+    {
+      "id": "cul_141",
+      "text": "GameFAQs était la source incontournable pour les guides et codes de triche avant que les guides vidéo YouTube ne s'imposent",
+      "system": "culture",
+      "rom": "gamefaqs"
+    },
+    {
+      "id": "cul_142",
+      "text": "Le format GIF de CompuServe, introduit en 1987, est resté le format dominant pour les animations web simples pendant une décennie",
+      "system": "culture",
+      "rom": "gaming_slang"
+    },
+    {
+      "id": "cul_143",
+      "text": "L'expression « gg » a commencé comme un vrai geste de fair-play en ligne avant d'évoluer en raccourci ironique pour une partie à sens unique",
+      "system": "culture",
+      "rom": "gaming_slang"
+    },
+    {
+      "id": "cul_144",
+      "text": "Le concept du « cringe » comme divertissement internet — regarder des contenus embarrassants pour rire — est devenu son propre genre",
+      "system": "culture",
+      "rom": "cringe_culture"
+    },
+    {
+      "id": "cul_145",
+      "text": "La pub Old Spice « The Man Your Man Could Smell Like » (2010) est encore étudiée comme le modèle en or des campagnes de marketing viral sur les réseaux sociaux",
+      "system": "culture",
+      "rom": "viral_ads"
+    },
+    {
+      "id": "cul_146",
+      "text": "Minecraft a été créé par Markus « Notch » Persson comme projet solo et a atteint 1 million d'utilisateurs payants avant sa sortie officielle en 2011",
+      "system": "culture",
+      "rom": "minecraft"
+    },
+    {
+      "id": "cul_147",
+      "text": "Le premier spam email a été envoyé en 1978 par Gary Thuerk à 400 utilisateurs ARPANET pour vanter des ordinateurs Digital Equipment",
+      "system": "culture",
+      "rom": "minecraft"
+    },
+    {
+      "id": "cul_148",
+      "text": "Ctrl+Z comme « annuler » est devenu si fondamental que les utilisateurs l'actionnaient instinctivement dans la vraie vie",
+      "system": "culture",
+      "rom": "keyboard_shortcuts"
+    },
+    {
+      "id": "cul_149",
+      "text": "Stack Overflow, lancé en 2008, est devenu la base de réponses incontournable pour toute question de programmation",
+      "system": "culture",
+      "rom": "stack_overflow"
+    },
+    {
+      "id": "cul_150",
+      "text": "Le concept de « digital detox » — se déconnecter volontairement des appareils connectés — n'existait pas avant 2010",
+      "system": "culture",
+      "rom": "digital_fatigue"
+    },
+    {
+      "id": "cul_151",
+      "text": "Kickstarter a été lancé en 2009 et a fondamentalement changé la façon de financer les projets créatifs",
+      "system": "culture",
+      "rom": "kickstarter"
+    },
+    {
+      "id": "cul_152",
+      "text": "eBay, fondé en 1995, a débuté quand Pierre Omidyar a mis en vente un pointeur laser cassé à 1 dollar, vendu 14,83 $",
+      "system": "culture",
+      "rom": "tumblr"
+    },
+    {
+      "id": "cul_153",
+      "text": "Le système d'upvote/downvote de Reddit a été le premier mécanisme de classement de contenu démocratique largement déployé",
+      "system": "culture",
+      "rom": "reddit"
+    },
+    {
+      "id": "cul_154",
+      "text": "Wikipedia, lancé en 2001, a grandi jusqu'à plus de 6 millions d'articles en anglais écrits entièrement par des bénévoles",
+      "system": "culture",
+      "rom": "wikipedia"
+    },
+    {
+      "id": "cul_155",
+      "text": "Le trolling sur internet a commencé avec des provocateurs testant délibérément les limites des communautés sur Usenet",
+      "system": "culture",
+      "rom": "trolling"
+    },
+    {
+      "id": "cul_156",
+      "text": "Le format GIF a été créé en 1987 par CompuServe et est devenu la pierre angulaire des premières animations web",
+      "system": "culture",
+      "rom": "gif_format"
+    },
+    {
+      "id": "cul_157",
+      "text": "Wikipedia a été fondé le 15 janvier 2001 par Jimmy Wales et Larry Sanger et est devenu l'œuvre de référence la plus grande au monde",
+      "system": "culture",
+      "rom": "gif_format"
+    },
+    {
+      "id": "cul_158",
+      "text": "Know Your Meme, lancé en 2008, a été la première tentative sérieuse de documenter et archiver la culture internet",
+      "system": "culture",
+      "rom": "meme_culture"
+    },
+    {
+      "id": "cul_159",
+      "text": "Le mot « mème » a été inventé par Richard Dawkins en 1976 pour décrire la transmission culturelle",
+      "system": "culture",
+      "rom": "meme_culture"
+    },
+    {
+      "id": "cul_160",
+      "text": "Yelp a été lancé en 2004 et a donné aux gens ordinaires le pouvoir d'influencer restaurants et commerces",
+      "system": "culture",
+      "rom": "yelp"
+    },
+    {
+      "id": "cul_161",
+      "text": "RealPlayer de RealNetworks a été le pionnier du streaming internet en 1995",
+      "system": "culture",
+      "rom": "early_streaming"
+    },
+    {
+      "id": "cul_162",
+      "text": "La première vidéo YouTube, « Me at the zoo », a été mise en ligne par le cofondateur Jawed Karim le 23 avril 2005",
+      "system": "culture",
+      "rom": "spotify"
+    },
+    {
+      "id": "cul_163",
+      "text": "Netflix a lancé son service de streaming en 2007 avec seulement 1 000 titres",
+      "system": "culture",
+      "rom": "netflix_streaming"
+    },
+    {
+      "id": "cul_164",
+      "text": "La première « célébrité YouTube » a été Lonelygirl15 en 2006",
+      "system": "culture",
+      "rom": "youtube"
+    },
+    {
+      "id": "cul_165",
+      "text": "Le hashtag a été proposé pour Twitter par l'utilisateur Chris Messina en 2007",
+      "system": "culture",
+      "rom": "hashtags"
+    },
+    {
+      "id": "cul_166",
+      "text": "Avant les smartphones, trancher un débat nécessitait d'attendre de pouvoir accéder à un ordinateur",
+      "system": "culture",
+      "rom": "smartphones"
+    },
+    {
+      "id": "cul_167",
+      "text": "MySpace a été fondé en 2003 et était en 2006 le site américain le plus visité, dépassant Google en trafic",
+      "system": "culture",
+      "rom": "unboxing_videos"
+    },
+    {
+      "id": "cul_168",
+      "text": "Twitch a été lancé en 2011 comme dérivé de Justin.tv spécialement dédié au streaming de jeux vidéo",
+      "system": "culture",
+      "rom": "twitch"
+    },
+    {
+      "id": "cul_169",
+      "text": "Le format « Ask Me Anything » de Reddit a popularisé le dialogue direct entre personnalités publiques et communautés anonymes",
+      "system": "culture",
+      "rom": "reddit_ama"
+    },
+    {
+      "id": "cul_170",
+      "text": "Legend of the Red Dragon, un jeu BBS, était joué quotidiennement par des millions de personnes au début des années 1990",
+      "system": "culture",
+      "rom": "bbs_games"
+    },
+    {
+      "id": "cul_171",
+      "text": "Le mail « transmets ce message à 10 amis » était le premier mécanisme viral de partage",
+      "system": "culture",
+      "rom": "viral_sharing"
+    },
+    {
+      "id": "cul_172",
+      "text": "Twitter a été lancé en juillet 2006 et a popularisé la limite de 140 caractères, conçue pour tenir dans un SMS",
+      "system": "culture",
+      "rom": "internet_slang"
+    },
+    {
+      "id": "cul_173",
+      "text": "« TBH » et « IMO » ont commencé comme abréviations dans les chats en ligne avant de s'imposer dans les SMS et la communication numérique quotidienne",
+      "system": "culture",
+      "rom": "internet_slang"
+    },
+    {
+      "id": "cul_174",
+      "text": "Larry Tesler a inventé le copier-coller au Xerox PARC en 1974, l'un des raccourcis informatiques les plus universellement utilisés",
+      "system": "culture",
+      "rom": "copy_paste"
+    },
+    {
+      "id": "cul_175",
+      "text": "Adobe Photoshop a été lancé en 1990, et « photoshopper » est devenu un verbe dans les dictionnaires au milieu des années 2000, signifiant retoucher une image numériquement",
+      "system": "culture",
+      "rom": "photoshop"
+    },
+    {
+      "id": "cul_176",
+      "text": "Le blog « Photoshop Disasters » documentait les erreurs de retouche professionnelles involontaires",
+      "system": "culture",
+      "rom": "photoshop"
+    },
+    {
+      "id": "cul_177",
+      "text": "L'iPhone, présenté le 9 janvier 2007, a transformé internet mobile et accéléré le passage aux médias sur smartphone",
+      "system": "culture",
+      "rom": "rage_comics"
+    },
+    {
+      "id": "cul_178",
+      "text": "9GAG a été lancé en 2008 comme agrégateur de mèmes, construisant un audience mondiale en republiant du contenu de Reddit et 4chan",
+      "system": "culture",
+      "rom": "9gag"
+    },
+    {
+      "id": "cul_179",
+      "text": "Pinterest a été lancé en 2010 avec un modèle sur invitation qui créait une rareté artificielle et générait du buzz",
+      "system": "culture",
+      "rom": "pinterest"
+    },
+    {
+      "id": "cul_180",
+      "text": "Instagram a été lancé en octobre 2010 et a atteint 1 million d'utilisateurs en trois mois",
+      "system": "culture",
+      "rom": "instagram"
+    },
+    {
+      "id": "cul_181",
+      "text": "Snapchat a été lancé en 2011 avec le principe que les messages devaient disparaître",
+      "system": "culture",
+      "rom": "snapchat"
+    },
+    {
+      "id": "cul_182",
+      "text": "Instagram a été lancé en octobre 2010 et a atteint 1 million d'utilisateurs en deux mois, une des croissances les plus rapides pour une application",
+      "system": "culture",
+      "rom": "gaming_magazines"
+    },
+    {
+      "id": "cul_183",
+      "text": "Les lignes téléphoniques d'astuces pour jeux vidéo facturaient à la minute et gagnaient des millions dans les années 1990 avant d'être rendues obsolètes par les guides gratuits en ligne",
+      "system": "culture",
+      "rom": "tips_hotlines"
+    },
+    {
+      "id": "cul_184",
+      "text": "PewDiePie est devenu la chaîne YouTube la plus abonnée en 2013 principalement grâce aux vidéos Let's Play",
+      "system": "culture",
+      "rom": "lets_play_videos"
+    },
+    {
+      "id": "cul_185",
+      "text": "Wikipedia en anglais a franchi le cap du million d'articles en mars 2006",
+      "system": "culture",
+      "rom": "wikipedia"
+    },
+    {
+      "id": "cul_186",
+      "text": "Linux, créé par Linus Torvalds en 1991 comme projet étudiant, fait maintenant tourner plus de 90 % des serveurs mondiaux",
+      "system": "culture",
+      "rom": "open_source"
+    },
+    {
+      "id": "cul_187",
+      "text": "Reddit a été fondé en 2005 par Steve Huffman et Alexis Ohanian et est devenu un hub incontournable de la culture internet",
+      "system": "culture",
+      "rom": "open_source"
+    },
+    {
+      "id": "cul_188",
+      "text": "Quand le haut débit a dépassé 50 % d'adoption dans les foyers américains vers 2007, les comportements en ligne ont complètement changé",
+      "system": "culture",
+      "rom": "broadband"
+    },
+    {
+      "id": "cul_189",
+      "text": "Le bouton « J'aime » de Facebook, lancé en 2009, était conçu pour fournir un renforcement positif",
+      "system": "culture",
+      "rom": "facebook"
+    },
+    {
+      "id": "cul_190",
+      "text": "Wikipedia existe en 331 langues ; l'édition en cebuano est la deuxième en nombre d'articles grâce à des bots automatisés",
+      "system": "culture",
+      "rom": "wikipedia"
+    },
+    {
+      "id": "cul_191",
+      "text": "Le débat sur la neutralité du net de 2014 à la FCC a généré plus de commentaires publics que toute autre procédure réglementaire aux États-Unis",
+      "system": "culture",
+      "rom": "net_neutrality"
+    },
+    {
+      "id": "cul_192",
+      "text": "Le virus ILOVEYOU, diffusé en mai 2000 par email, a infecté plus de 50 millions d'ordinateurs en quelques jours",
+      "system": "culture",
+      "rom": "reddit"
+    },
+    {
+      "id": "cul_193",
+      "text": "Le virus ILOVEYOU a causé environ 10 milliards de dollars de dégâts, infectant plus de 50 millions d'ordinateurs en quelques jours",
+      "system": "culture",
+      "rom": "computer_viruses"
+    },
+    {
+      "id": "cul_194",
+      "text": "Le ver Morris de 1988 a été le premier grand ver informatique sur internet",
+      "system": "culture",
+      "rom": "computer_viruses"
+    },
+    {
+      "id": "cul_195",
+      "text": "« Si tu ne paies pas le produit, c'est toi le produit » est devenu la critique emblématique des réseaux sociaux financés par la publicité",
+      "system": "culture",
+      "rom": "online_privacy"
+    },
+    {
+      "id": "cul_196",
+      "text": "La fonctionnalité de « streak » de Snapchat était si efficace pour créer des habitudes que des ados rapportaient une vraie anxiété quand un streak se brisait accidentellement",
+      "system": "culture",
+      "rom": "snapchat"
+    },
+    {
+      "id": "cul_197",
+      "text": "Vine, lancé en 2013 et fermé en 2017, a popularisé le format vidéo de six secondes et lancé de nombreuses carrières",
+      "system": "culture",
+      "rom": "fandom_culture"
+    },
+    {
+      "id": "cul_198",
+      "text": "Bitcoin a été créé en 2008 par le pseudonyme Satoshi Nakamoto",
+      "system": "culture",
+      "rom": "bitcoin"
+    },
+    {
+      "id": "cul_199",
+      "text": "La première transaction commerciale en Bitcoin a été l'achat de deux pizzas Papa John's pour 10 000 BTC en 2010",
+      "system": "culture",
+      "rom": "bitcoin"
+    },
+    {
+      "id": "cul_200",
+      "text": "La Wayback Machine d'archive.org a archivé plus de 800 milliards de pages web depuis 1996",
+      "system": "culture",
+      "rom": "internet_archive"
+    },
+    {
+      "id": "cul_201",
+      "text": "Le système de mots-clés d'AOL — taper un mot dans la barre d'adresse pour accéder à une zone AOL de marque — était si puissant",
+      "system": "culture",
+      "rom": "aol"
+    },
+    {
+      "id": "cul_202",
+      "text": "« Charlie Bit My Finger » (2007) est devenu l'une des premières vidéos les plus vues sur YouTube avec 880 millions de vues",
+      "system": "culture",
+      "rom": "dial_up_sound"
+    },
+    {
+      "id": "cul_203",
+      "text": "Le son de porte grinçante d'AIM quand un ami se connectait déclenchait une réaction d'attention pavlovienne",
+      "system": "culture",
+      "rom": "aim"
+    },
+    {
+      "id": "cul_204",
+      "text": "Les « messages personnels » MSN Messenger — la ligne de statut sous le nom — étaient la version originale de Twitter",
+      "system": "culture",
+      "rom": "msn_messenger"
+    },
+    {
+      "id": "cul_205",
+      "text": "Le News Feed de Facebook, lancé en 2006, a immédiatement déclenché de vives protestations de la part d'utilisateurs qui estimaient que leurs mises à jour étaient exposées",
+      "system": "culture",
+      "rom": "facebook"
+    },
+    {
+      "id": "cul_206",
+      "text": "La fonction Trending Topics de Twitter a créé le premier index de conversation mondiale en temps réel",
+      "system": "culture",
+      "rom": "twitter"
+    },
+    {
+      "id": "cul_207",
+      "text": "Amazon a été fondé par Jeff Bezos en 1994 comme librairie en ligne et est devenu la plateforme de commerce électronique mondiale dominante",
+      "system": "culture",
+      "rom": "youtube"
+    },
+    {
+      "id": "cul_208",
+      "text": "La première vidéo YouTube à atteindre 1 milliard de vues était Gangnam Style de Psy en 2012",
+      "system": "culture",
+      "rom": "youtube"
+    },
+    {
+      "id": "cul_209",
+      "text": "La refonte de Digg en 2010 était si impopulaire que toute sa base d'utilisateurs a migré vers Reddit en quelques semaines",
+      "system": "culture",
+      "rom": "digg"
+    },
+    {
+      "id": "cul_210",
+      "text": "La politique de vrais noms de Google+ était si controversée qu'elle a généré un mouvement formel de protestation",
+      "system": "culture",
+      "rom": "google_plus"
+    },
+    {
+      "id": "cul_211",
+      "text": "Google+ a été lancé en 2011 avec 10 millions d'utilisateurs en deux semaines mais n'a jamais surmonté sa réputation de « ville fantôme »",
+      "system": "culture",
+      "rom": "google_plus"
+    },
+    {
+      "id": "cul_212",
+      "text": "L'offre de 1 Go de stockage de Gmail en 2004, annoncée le 1er avril, a été prise pour un poisson d'avril — les concurrents n'offraient que 2 à 4 Mo",
+      "system": "culture",
+      "rom": "gmail"
+    },
+    {
+      "id": "cul_213",
+      "text": "Le lancement sur invitation de Gmail en 2004 a fait des adresses Gmail de véritables symboles de statut",
+      "system": "culture",
+      "rom": "gmail"
+    },
+    {
+      "id": "cul_214",
+      "text": "La grève de Wikipedia en 2012 pour protester contre SOPA a été l'une des protestations en ligne coordonnées les plus efficaces jamais organisées",
+      "system": "culture",
+      "rom": "wikipedia_sopa"
+    },
+    {
+      "id": "cul_215",
+      "text": "SOPA et PIPA, les projets de loi antipiratage qui ont déclenché la grève Wikipedia de 2012",
+      "system": "culture",
+      "rom": "sopa_pipa"
+    },
+    {
+      "id": "cul_216",
+      "text": "Chocolate Rain de Tay Zonday, posté sur YouTube en 2007, a été l'une des premières vidéos vraiment décalées à devenir virale",
+      "system": "culture",
+      "rom": "early_youtube_stars"
+    },
+    {
+      "id": "cul_217",
+      "text": "La devise « Don't Be Evil » de Google était un principe informel du début des années 2000, remplacé plus tard par « Do the Right Thing »",
+      "system": "culture",
+      "rom": "early_youtube_stars"
+    },
+    {
+      "id": "cul_218",
+      "text": "La vidéo Free Hugs Campaign, postée en 2006 par Juan Mann, est devenue l'une des premières vidéos virales les plus vues sur YouTube",
+      "system": "culture",
+      "rom": "viral_videos"
+    },
+    {
+      "id": "cul_219",
+      "text": "Double Rainbow, filmé en 2010 par Paul Vasquez et posté sur YouTube",
+      "system": "culture",
+      "rom": "viral_videos"
+    },
+    {
+      "id": "cul_220",
+      "text": "Keyboard Cat, une vidéo amateur de 1984 montrant un chat joué comme un clavier",
+      "system": "culture",
+      "rom": "early_memes"
+    },
+    {
+      "id": "cul_221",
+      "text": "Nyan Cat, un chat en pop-tart 8 bits laissant derrière lui un arc-en-ciel, était un mème de 2011 qui a engendré des millions de vues sur YouTube",
+      "system": "culture",
+      "rom": "early_memes"
+    },
+    {
+      "id": "cul_222",
+      "text": "L'« écran bleu de la mort » est devenu le symbole universel de l'instabilité de Windows, générant d'innombrables blagues et mèmes",
+      "system": "culture",
+      "rom": "early_memes"
+    },
+    {
+      "id": "cul_223",
+      "text": "Fail Blog, lancé en 2008, a popularisé le macro d'image « FAIL » et instauré la documentation des ratés",
+      "system": "culture",
+      "rom": "fail_culture"
+    },
+    {
+      "id": "cul_224",
+      "text": "L'Ice Bucket Challenge à l'été 2014 a levé 115 millions de dollars pour la recherche sur la SLA",
+      "system": "culture",
+      "rom": "social_media_challenges"
+    },
+    {
+      "id": "cul_225",
+      "text": "Le mème Harlem Shake en 2013 a généré plus de 40 000 vidéos réalisées par des utilisateurs en deux semaines",
+      "system": "culture",
+      "rom": "social_media_challenges"
+    },
+    {
+      "id": "cul_226",
+      "text": "Le débat sur la robe en 2015 — blanche et dorée ou noire et bleue — a révélé des différences fondamentales dans la perception visuelle humaine",
+      "system": "culture",
+      "rom": "viral_moments"
+    },
+    {
+      "id": "cul_227",
+      "text": "Le terme « selfie » a été utilisé dès 2002 sur un forum australien et est entré dans le dictionnaire Oxford en 2013",
+      "system": "culture",
+      "rom": "meme_culture"
+    },
+    {
+      "id": "cul_228",
+      "text": "Le mème Doge — un Shiba Inu photographié avec du Comic Sans et des phrases comme « much wow » et « very doge » — a vu le jour",
+      "system": "culture",
+      "rom": "meme_culture"
+    },
+    {
+      "id": "cul_229",
+      "text": "Grumpy Cat (Tardar Sauce), le chat à la mine perpétuellement grognon devenu viral en 2012",
+      "system": "culture",
+      "rom": "internet_famous_animals"
+    },
+    {
+      "id": "cul_230",
+      "text": "Vine, la plateforme de vidéos de six secondes, a été lancée en 2013 et a popularisé le créateur type « Viner »",
+      "system": "culture",
+      "rom": "vine"
+    },
+    {
+      "id": "cul_231",
+      "text": "Twitter a fermé Vine en 2016, invoquant les coûts et la concurrence",
+      "system": "culture",
+      "rom": "vine"
+    },
+    {
+      "id": "cul_232",
+      "text": "TikTok a été lancé à l'international en 2018 après que ByteDance l'a fusionné avec Musical.ly, devenant l'application à la croissance la plus rapide",
+      "system": "culture",
+      "rom": "tiktok"
+    },
+    {
+      "id": "cul_233",
+      "text": "L'algorithme de TikTok a fondamentalement changé les réseaux sociaux en mettant en avant du contenu d'inconnus plutôt que de gens déjà suivis",
+      "system": "culture",
+      "rom": "tiktok"
+    },
+    {
+      "id": "cul_234",
+      "text": "Twitch Plays Pokemon en 2014 — où des milliers d'utilisateurs envoyaient simultanément des commandes — a pris 16 jours pour finir le jeu",
+      "system": "culture",
+      "rom": "twitch_plays"
+    },
+    {
+      "id": "cul_235",
+      "text": "L'esport a franchi un cap symbolique en 2013 quand le championnat mondial de League of Legends s'est tenu au Staples Center",
+      "system": "culture",
+      "rom": "esports"
+    },
+    {
+      "id": "cul_236",
+      "text": "Le marché darknet Silk Road, fermé par le FBI en 2013, utilisait le Bitcoin pour toutes ses transactions",
+      "system": "culture",
+      "rom": "darknet"
+    },
+    {
+      "id": "cul_237",
+      "text": "La photo stock du « Boyfriend distrait » est devenue un mème universel de 2017 pour illustrer la tentation ou un changement de priorités",
+      "system": "culture",
+      "rom": "data_privacy"
+    },
+    {
+      "id": "cul_238",
+      "text": "Le RGPD (Règlement général sur la protection des données), entré en vigueur dans l'UE en 2018",
+      "system": "culture",
+      "rom": "gdpr"
+    },
+    {
+      "id": "cul_239",
+      "text": "Les conditions générales d'utilisation que personne ne lit sont devenues si célèbres qu'une étude de 2014 a estimé le temps qu'il faudrait pour les lire",
+      "system": "culture",
+      "rom": "terms_of_service"
+    },
+    {
+      "id": "cul_240",
+      "text": "Le CAPTCHA a été inventé à Carnegie Mellon en 2000 pour distinguer les humains des robots",
+      "system": "culture",
+      "rom": "captcha"
+    },
+    {
+      "id": "cul_241",
+      "text": "Pokémon GO, lancé en juillet 2016, est devenu l'application la plus rapide à atteindre 500 millions de dollars de revenus",
+      "system": "culture",
+      "rom": "pokemon_go"
+    },
+    {
+      "id": "cul_242",
+      "text": "Le webcomic « This is Fine » de KC Green, montrant un chien dans une pièce en feu, est devenu le mème définitif du déni",
+      "system": "culture",
+      "rom": "fortnite"
+    },
+    {
+      "id": "cul_243",
+      "text": "Discord a été lancé en 2015 comme outil de chat vocal pour joueurs et a remplacé TeamSpeak et Skype dans les communautés gaming",
+      "system": "culture",
+      "rom": "discord"
+    },
+    {
+      "id": "cul_244",
+      "text": "Zoom est passé de 10 millions à 300 millions de participants journaliers en trois mois pendant la pandémie de COVID-19",
+      "system": "culture",
+      "rom": "zoom"
+    },
+    {
+      "id": "cul_245",
+      "text": "Patreon, lancé en 2013, a offert aux créateurs un revenu par abonnement direct venant de leurs fans",
+      "system": "culture",
+      "rom": "patreon"
+    },
+    {
+      "id": "cul_246",
+      "text": "La campagne la plus réussie des débuts de Kickstarter, la montre connectée Pebble en 2012",
+      "system": "culture",
+      "rom": "kickstarter"
+    },
+    {
+      "id": "cul_247",
+      "text": "Le mème « Doge » est né d'une photo de 2013 d'un Shiba Inu nommé Kabosu et a inspiré plus tard la cryptomonnaie Dogecoin",
+      "system": "culture",
+      "rom": "steam"
+    },
+    {
+      "id": "cul_248",
+      "text": "Les loot boxes — achats aléatoires en jeu avec de l'argent réel — ont été interdites comme jeu d'argent en Belgique en 2018",
+      "system": "culture",
+      "rom": "loot_boxes"
+    },
+    {
+      "id": "cul_249",
+      "text": "Le genre Battle Royale a explosé en 2017 quand PUBG a vendu 30 millions d'exemplaires et Fortnite a ajouté son propre mode",
+      "system": "culture",
+      "rom": "battle_royale"
+    },
+    {
+      "id": "cul_250",
+      "text": "Le speedrun — finir un jeu le plus vite possible — est devenu un phénomène communautaire à part entière",
+      "system": "culture",
+      "rom": "speedrunning"
+    },
+    {
+      "id": "cul_251",
+      "text": "Le concept de « jouer avec l'algorithme » — créer du contenu délibérément optimisé pour les systèmes de recommandation — est devenu une stratégie à part entière",
+      "system": "culture",
+      "rom": "algorithm_culture"
+    },
+    {
+      "id": "cul_252",
+      "text": "Tumblr, lancé en 2007, est devenu le foyer principal de la culture des fandoms et des communautés de niche dans les années 2010",
+      "system": "culture",
+      "rom": "online_reviews"
+    },
+    {
+      "id": "cul_253",
+      "text": "Les avis Yelp ont remodelé l'industrie de la restauration de façon permanente",
+      "system": "culture",
+      "rom": "yelp"
+    },
+    {
+      "id": "cul_254",
+      "text": "Les streaks Snapchat sont devenus si psychologiquement puissants que des adolescents rapportaient une vraie anxiété à l'idée de les perdre",
+      "system": "culture",
+      "rom": "snapchat"
+    },
+    {
+      "id": "cul_255",
+      "text": "Le fil algorithmique d'Instagram, introduit en 2016 en remplacement du fil chronologique, a immédiatement suscité un tollé",
+      "system": "culture",
+      "rom": "instagram"
+    },
+    {
+      "id": "cul_256",
+      "text": "Le modèle des influenceurs Instagram, où les créateurs gagnent de l'argent grâce à des posts sponsorisés, a bâti une industrie de plusieurs milliards de dollars",
+      "system": "culture",
+      "rom": "influencer_culture"
+    },
+    {
+      "id": "cul_257",
+      "text": "Le mème « Unexpected John Cena » est né en 2015, insérant la musique d'entrée de John Cena dans des vidéos à des moments aléatoires",
+      "system": "culture",
+      "rom": "nft"
+    },
+    {
+      "id": "cul_258",
+      "text": "Le concept de « métavers » a été inventé par Neal Stephenson dans son roman de 1992 Snow Crash",
+      "system": "culture",
+      "rom": "metaverse"
+    },
+    {
+      "id": "cul_259",
+      "text": "Les insultes dans les jeux en ligne ont développé leurs propres hiérarchies",
+      "system": "culture",
+      "rom": "gaming_culture"
+    },
+    {
+      "id": "cul_260",
+      "text": "EVO a commencé comme un petit rassemblement en 1996 et est devenu le tournoi de jeux de combat le plus prestigieux au monde",
+      "system": "culture",
+      "rom": "evo_tournament"
+    },
+    {
+      "id": "cul_261",
+      "text": "Le genre machinima a atteint son apogée au milieu des années 2000 avec Red vs. Blue, une série comique web basée sur Halo et l'un des premiers grands programmes en ligne",
+      "system": "culture",
+      "rom": "machinima"
+    },
+    {
+      "id": "cul_262",
+      "text": "Discord a été lancé en 2015 comme plateforme de chat pour joueurs et est devenu la plateforme communautaire dominante pour les groupes en ligne",
+      "system": "culture",
+      "rom": "lets_play"
+    },
+    {
+      "id": "cul_263",
+      "text": "Les sites d'animaux virtuels comme Neopets et Webkinz ont appris à toute une génération d'enfants la gestion des ressources et l'économie",
+      "system": "culture",
+      "rom": "virtual_pets"
+    },
+    {
+      "id": "cul_264",
+      "text": "Habbo Hotel, lancé en 2000, était un monde social virtuel pour ados où les meubles en pixels dans des chambres d'hôtel avaient une vraie valeur",
+      "system": "culture",
+      "rom": "virtual_worlds"
+    },
+    {
+      "id": "cul_265",
+      "text": "The Onion, publication imprimée à l'origine, est devenu l'un des sites de satire les plus cités de l'histoire",
+      "system": "culture",
+      "rom": "online_satire"
+    },
+    {
+      "id": "cul_266",
+      "text": "Snopes.com, lancé en 1994 pour démystifier les légendes urbaines, est devenu la ressource de vérification des faits par défaut sur internet",
+      "system": "culture",
+      "rom": "fact_checking"
+    },
+    {
+      "id": "cul_267",
+      "text": "« We Are Number One » de LazyTown est devenu viral en 2016 après que des fans ont levé des fonds pour son acteur Stefan Karl, atteint d'un cancer en phase terminale",
+      "system": "culture",
+      "rom": "wikipedia"
+    },
+    {
+      "id": "cul_268",
+      "text": "La loi de Godwin : plus une discussion en ligne s'allonge, plus la probabilité d'une comparaison avec Hitler tend vers la certitude",
+      "system": "culture",
+      "rom": "internet_laws"
+    },
+    {
+      "id": "cul_269",
+      "text": "La règle 34 — « si quelque chose existe, il en existe de la pornographie sur internet » — est devenue l'une des « règles d'internet » les plus connues",
+      "system": "culture",
+      "rom": "internet_rules"
+    },
+    {
+      "id": "cul_270",
+      "text": "La loi de Poe stipule que sans indicateur clair, la parodie extrémiste et la croyance sincère sont indiscernables en ligne",
+      "system": "culture",
+      "rom": "internet_laws"
+    },
+    {
+      "id": "cul_271",
+      "text": "Les canulars de virus informatiques — emails alertant sur des virus dévastateurs inexistants — se répandaient si efficacement qu'ils devenaient eux-mêmes une menace",
+      "system": "culture",
+      "rom": "computer_viruses"
+    },
+    {
+      "id": "cul_272",
+      "text": "Twitch a été lancé en 2011 et est devenu la plateforme dominante de streaming de jeux en direct, rachetée par Amazon pour 970 millions de dollars",
+      "system": "culture",
+      "rom": "computer_viruses"
+    },
+    {
+      "id": "cul_273",
+      "text": "Le virus Melissa de 1999 se propageait via les macros Microsoft Word et s'envoyait à 50 personnes du carnet d'adresses de l'utilisateur infecté",
+      "system": "culture",
+      "rom": "computer_viruses"
+    },
+    {
+      "id": "cul_274",
+      "text": "L'authentification à deux facteurs n'est devenue une technologie grand public qu'après le piratage du PlayStation Network en 2011",
+      "system": "culture",
+      "rom": "data_security"
+    },
+    {
+      "id": "cul_275",
+      "text": "« Have I Been Pwned » de Troy Hunt, lancé en 2013, permet aux utilisateurs de vérifier si leurs identifiants ont été compromis lors d'une fuite de données",
+      "system": "culture",
+      "rom": "data_security"
+    },
+    {
+      "id": "cul_276",
+      "text": "Les gestionnaires de mots de passe ont gagné en popularité après que LastPass, lancé en 2008, a simplifié le stockage sécurisé des identifiants",
+      "system": "culture",
+      "rom": "password_culture"
+    },
+    {
+      "id": "cul_277",
+      "text": "Le « Tide Pod Challenge » de 2018 était une tendance dangereuse où des ados se filmaient en train d'avaler des capsules de lessive",
+      "system": "culture",
+      "rom": "password_culture"
+    },
+    {
+      "id": "cul_278",
+      "text": "Le concept de « doxxing » — publier des informations privées sur des individus en ligne pour permettre leur harcèlement — a émergé dans la culture internet",
+      "system": "culture",
+      "rom": "online_harassment"
+    },
+    {
+      "id": "cul_279",
+      "text": "Les sections de commentaires ont finalement été supprimées par de grandes publications",
+      "system": "culture",
+      "rom": "comment_culture"
+    },
+    {
+      "id": "cul_280",
+      "text": "La catastrophe du « répondre à tous » — où un message partait accidentellement à des milliers de destinataires — est devenu un genre d'horreur de bureau à part entière",
+      "system": "culture",
+      "rom": "email_culture"
+    },
+    {
+      "id": "cul_281",
+      "text": "La politique de monétisation initiale de YouTube payait les créateurs environ 2 dollars pour 1 000 vues",
+      "system": "culture",
+      "rom": "youtube"
+    },
+    {
+      "id": "cul_282",
+      "text": "L'expression « OK Boomer » est devenue virale en 2019, utilisée par les jeunes générations pour balayer les attitudes des baby-boomers en ligne",
+      "system": "culture",
+      "rom": "internet_phenomena"
+    },
+    {
+      "id": "cul_283",
+      "text": "Peanut Butter Jelly Time, un GIF de banane dansante avec une chanson grave, était le mème emblématique du début des années 2000",
+      "system": "culture",
+      "rom": "early_memes"
+    },
+    {
+      "id": "cul_284",
+      "text": "« All Your Base Are Belong To Us » du jeu d'arcade de 1989 Zero Wing était si mémorablement mal traduit qu'en 2001 il est devenu un phénomène viral",
+      "system": "culture",
+      "rom": "all_your_base"
+    },
+    {
+      "id": "cul_285",
+      "text": "Le Dancing Baby, créé en 1996 comme test de rendu CGI par l'employé Autodesk Michael Girard",
+      "system": "culture",
+      "rom": "dancing_baby"
+    },
+    {
+      "id": "cul_286",
+      "text": "Leave Britney Alone, une vidéo YouTube de 2007 par Chris Crocker défendant Britney Spears",
+      "system": "culture",
+      "rom": "celebrity_internet"
+    },
+    {
+      "id": "cul_287",
+      "text": "Among Us, sorti en 2018, a explosé pendant la pandémie de 2020 et est devenu l'un des jeux les plus streamés de l'histoire",
+      "system": "culture",
+      "rom": "flash_culture"
+    },
+    {
+      "id": "cul_288",
+      "text": "Caramelldansen, une chanson suédoise accélérée accompagnée d'un clip dansant style anime en Flash",
+      "system": "culture",
+      "rom": "anime_culture"
+    },
+    {
+      "id": "cul_289",
+      "text": "Le concept du « shipping » — les fans associant des personnages dans des relations romantiques — est né dans le fandom de X-Files",
+      "system": "culture",
+      "rom": "fandom_culture"
+    },
+    {
+      "id": "cul_290",
+      "text": "FanFiction.net, lancé en 1998, a offert à des millions d'auteurs une plateforme mondiale pour leurs histoires de fans",
+      "system": "culture",
+      "rom": "fan_fiction"
+    },
+    {
+      "id": "cul_291",
+      "text": "Archive of Our Own (AO3), lancé par des fans en 2008, a remporté le Prix Hugo de la meilleure œuvre connexe en 2019",
+      "system": "culture",
+      "rom": "fan_fiction"
+    },
+    {
+      "id": "cul_292",
+      "text": "Des millions de personnes se souviennent des Berenstain Bears sous le nom de « Berenstein » — l'un des exemples les plus célèbres de l'effet Mandela",
+      "system": "culture",
+      "rom": "gaming_media"
+    },
+    {
+      "id": "cul_293",
+      "text": "LMGTFY (2009) animait ironiquement une recherche Google pour l'envoyer à quiconque posait une question facilement trouvable en ligne",
+      "system": "culture",
+      "rom": "internet_culture"
+    },
+    {
+      "id": "cul_294",
+      "text": "Le « subtweet » — poster sur quelqu'un sur les réseaux sociaux sans le nommer — est devenu une forme reconnue d'agression passive en ligne",
+      "system": "culture",
+      "rom": "social_media_behavior"
+    },
+    {
+      "id": "cul_295",
+      "text": "Le « Reply Guy » est devenu un archétype internet reconnu",
+      "system": "culture",
+      "rom": "social_media_behavior"
+    },
+    {
+      "id": "cul_296",
+      "text": "Le subreddit r/WallStreetBets en janvier 2021 a coordonné un short squeeze sur l'action GameStop qui a coûté des milliards aux hedge funds",
+      "system": "culture",
+      "rom": "internet_finance"
+    },
+    {
+      "id": "cul_297",
+      "text": "Le litige copyright sur « Ice Ice Baby » en 1990 a appris aux artistes que sampler sans autorisation pouvait mener à des poursuites",
+      "system": "culture",
+      "rom": "blockchain_gaming"
+    },
+    {
+      "id": "cul_298",
+      "text": "Les bits et abonnements de Twitch ont permis pour la première fois aux spectateurs de soutenir financièrement des créateurs en direct",
+      "system": "culture",
+      "rom": "twitch"
+    },
+    {
+      "id": "cul_299",
+      "text": "Le concept de « relation parasociale » — où les audiences développent des attachements émotionnels à sens unique envers des personnalités médiatiques — s'est imposé",
+      "system": "culture",
+      "rom": "creator_culture"
+    },
+    {
+      "id": "cul_300",
+      "text": "Nintendo Power a été lancé en 1988 comme publication maison pouvant contrôler quels jeux étaient couverts",
+      "system": "culture",
+      "rom": "gaming_magazines"
+    },
+    {
+      "id": "cul_301",
+      "text": "EGM (Electronic Gaming Monthly), lancé en 1989, a été le pionnier du journalisme de jeux vidéo d'investigation",
+      "system": "culture",
+      "rom": "gaming_magazines"
+    },
+    {
+      "id": "cul_302",
+      "text": "La réplique « It's Over 9000! » de Dragon Ball Z est devenue l'un des mèmes anime les plus cités sur internet dans les années 2000",
+      "system": "culture",
+      "rom": "gaming_hotlines"
+    },
+    {
+      "id": "cul_303",
+      "text": "Le Code Konami — Haut, Haut, Bas, Bas, Gauche, Droite, Gauche, Droite, B",
+      "system": "culture",
+      "rom": "konami_code"
+    },
+    {
+      "id": "cul_304",
+      "text": "Les concours « Best Game Ever » de GameFAQs sont devenus des événements culturels annuels au début des années 2000",
+      "system": "culture",
+      "rom": "gamefaqs"
+    },
+    {
+      "id": "cul_305",
+      "text": "L'identité de « Gamer » comme groupe social distinct a émergé à la fin des années 1990 et a été explicitement commercialisée",
+      "system": "culture",
+      "rom": "gamer_culture"
+    },
+    {
+      "id": "cul_306",
+      "text": "Le rayon « Coups de cœur du personnel » dans les vidéoclubs était le précurseur analogique des moteurs de recommandation algorithmiques",
+      "system": "culture",
+      "rom": "video_rental"
+    },
+    {
+      "id": "cul_307",
+      "text": "Le « problème du tramway » est devenu un mème de philosophie viral dans les années 2010, utilisé pour débattre d'éthique dans des scénarios absurdes",
+      "system": "culture",
+      "rom": "video_rental"
+    },
+    {
+      "id": "cul_308",
+      "text": "L'enveloppe rouge DVD de Netflix est devenue aussi iconique culturellement que la boîte bleue de Blockbuster",
+      "system": "culture",
+      "rom": "netflix_dvd"
+    },
+    {
+      "id": "cul_309",
+      "text": "Le binge-watching, possible avec les DVD, est devenu un phénomène culturel quand Netflix a commencé à mettre en ligne des saisons entières d'un coup",
+      "system": "culture",
+      "rom": "binge_watching"
+    },
+    {
+      "id": "cul_310",
+      "text": "« Netflix and chill » est entré dans le vocabulaire courant vers 2014 comme euphémisme",
+      "system": "culture",
+      "rom": "netflix_streaming"
+    },
+    {
+      "id": "cul_311",
+      "text": "Les réseaux sociaux ont joué un rôle central dans le Printemps arabe (2010-2012) en aidant les militants à s'organiser et à diffuser des images",
+      "system": "culture",
+      "rom": "social_media_politics"
+    },
+    {
+      "id": "cul_312",
+      "text": "Le format de mème « Nobody: » de 2018-2019 se moquait des gens qui donnent des avis non sollicités ou cherchent l'attention en ligne",
+      "system": "culture",
+      "rom": "filter_bubble"
+    },
+    {
+      "id": "cul_313",
+      "text": "Le slacktivisme — le militantisme à faible effort comme changer sa photo de profil — s'est révélé parfois remplacer l'action réelle",
+      "system": "culture",
+      "rom": "online_activism"
+    },
+    {
+      "id": "cul_314",
+      "text": "Les 115 millions de dollars levés par l'Ice Bucket Challenge en 2014 ont financé directement une découverte majeure en génétique de la SLA",
+      "system": "culture",
+      "rom": "social_media_charity"
+    },
+    {
+      "id": "cul_315",
+      "text": "Change.org est devenu la plus grande plateforme de pétitions au monde avec plus de 400 millions d'utilisateurs",
+      "system": "culture",
+      "rom": "online_petitions"
+    },
+    {
+      "id": "cul_316",
+      "text": "La part de marché d'Internet Explorer est passée de 95 % en 2003 à moins de 1 % en 2019",
+      "system": "culture",
+      "rom": "browser_wars"
+    },
+    {
+      "id": "cul_317",
+      "text": "Le mème « Florida Man » a commencé en 2013 comme un compte Twitter agrégeant des titres d'actualité farfelus de Floride",
+      "system": "culture",
+      "rom": "google_chrome"
+    },
+    {
+      "id": "cul_318",
+      "text": "Le web mobile a dépassé le web bureau en trafic mondial en octobre 2016",
+      "system": "culture",
+      "rom": "mobile_web"
+    },
+    {
+      "id": "cul_319",
+      "text": "La culture des applis a entièrement bouleversé le paradigme de la distribution de logiciels",
+      "system": "culture",
+      "rom": "app_store"
+    },
+    {
+      "id": "cul_320",
+      "text": "La correction automatique sur les smartphones a créé une nouvelle catégorie d'humour linguistique",
+      "system": "culture",
+      "rom": "autocorrect"
+    },
+    {
+      "id": "cul_321",
+      "text": "La culture de la photo candide créée par les smartphones a fondamentalement changé les comportements sociaux",
+      "system": "culture",
+      "rom": "smartphone_culture"
+    },
+    {
+      "id": "cul_322",
+      "text": "La réplique « This is Sparta » du film 300 de 2006 est devenue l'une des citations de film les plus remixées de l'histoire d'internet",
+      "system": "culture",
+      "rom": "snapchat"
+    },
+    {
+      "id": "cul_323",
+      "text": "Le selfie est devenu si dominant culturellement qu'Oxford Dictionaries l'a nommé mot de l'année 2013",
+      "system": "culture",
+      "rom": "selfie_culture"
+    },
+    {
+      "id": "cul_324",
+      "text": "L'utilisation des données Google Maps par Pokémon GO a rendu les joueurs plus attentifs à leur environnement physique",
+      "system": "culture",
+      "rom": "pokemon_go"
+    },
+    {
+      "id": "cul_325",
+      "text": "Le moteur « les clients qui ont acheté ceci ont aussi acheté » d'Amazon, développé en 1998, a généré 35 % de ses revenus",
+      "system": "culture",
+      "rom": "amazon"
+    },
+    {
+      "id": "cul_326",
+      "text": "Le bouton « J'ai de la chance » de Google représentait un manque à gagner estimé à 110 millions de dollars par an en revenus publicitaires",
+      "system": "culture",
+      "rom": "google"
+    },
+    {
+      "id": "cul_327",
+      "text": "Le mème « Two Buttons » montrait un personnage en sueur face à deux options, utilisé pour des choix difficiles ou apparemment évidents",
+      "system": "culture",
+      "rom": "google"
+    },
+    {
+      "id": "cul_328",
+      "text": "Le règlement de l'UE sur le « droit à l'oubli » de 2014 obligeait Google à supprimer certains résultats de recherche sur demande",
+      "system": "culture",
+      "rom": "digital_privacy"
+    },
+    {
+      "id": "cul_329",
+      "text": "Les rencontres en ligne sont passées de pratique stigmatisée à courante en à peine une décennie",
+      "system": "culture",
+      "rom": "online_dating"
+    },
+    {
+      "id": "cul_330",
+      "text": "Tinder, lancé en 2012, a gamifié les rencontres avec ses mécaniques de glissement gauche/droite",
+      "system": "culture",
+      "rom": "online_dating"
+    },
+    {
+      "id": "cul_331",
+      "text": "Le concept de « ghosting » — mettre fin à une relation en coupant tout contact sans explication — existait avant les applications",
+      "system": "culture",
+      "rom": "dating_culture"
+    },
+    {
+      "id": "cul_332",
+      "text": "Le mème « Woman Yelling at Cat » combinait une scène des Real Housewives avec la photo d'un chat confus nommé Smudge",
+      "system": "culture",
+      "rom": "wikipedia"
+    },
+    {
+      "id": "cul_333",
+      "text": "Internet a aidé à préserver des langues en danger en connectant leurs locuteurs mondialement et en hébergeant des ressources numériques",
+      "system": "culture",
+      "rom": "language_internet"
+    },
+    {
+      "id": "cul_334",
+      "text": "Duolingo, lancé en 2011, a rendu l'apprentissage des langues gratuit et gamifié",
+      "system": "culture",
+      "rom": "language_learning"
+    },
+    {
+      "id": "cul_335",
+      "text": "Wordle, créé par Josh Wardle en 2021 comme cadeau pour sa partenaire, est devenu un phénomène mondial de jeu de mots quotidien",
+      "system": "culture",
+      "rom": "word_games"
+    },
+    {
+      "id": "cul_336",
+      "text": "Les avertissements de spoilers ont émergé naturellement dans les communautés de fans en ligne dans les années 1990 et n'ont jamais été formellement codifiés",
+      "system": "culture",
+      "rom": "fandom_etiquette"
+    },
+    {
+      "id": "cul_337",
+      "text": "Le mème « Shrek is Love, Shrek is Life » a transformé l'ogre animé en une divinité culte ironique et icône d'internet",
+      "system": "culture",
+      "rom": "film_culture"
+    },
+    {
+      "id": "cul_338",
+      "text": "Goodreads, racheté par Amazon en 2013, est devenu la plateforme dominante de lecture sociale",
+      "system": "culture",
+      "rom": "reading_culture"
+    },
+    {
+      "id": "cul_339",
+      "text": "La notification de « message lu » a fondamentalement changé la dynamique des échanges en rendant impossible de prétendre ne pas avoir vu un message",
+      "system": "culture",
+      "rom": "messaging_culture"
+    },
+    {
+      "id": "cul_340",
+      "text": "Le chiffrement de bout en bout par défaut de WhatsApp en 2016 a créé un standard mondial de confidentialité",
+      "system": "culture",
+      "rom": "messaging_privacy"
+    },
+    {
+      "id": "cul_341",
+      "text": "La fonctionnalité « Personnes que vous connaissez peut-être » de LinkedIn était si efficace qu'elle révélait parfois accidentellement des liaisons",
+      "system": "culture",
+      "rom": "social_graph"
+    },
+    {
+      "id": "cul_342",
+      "text": "Le mème « Raid Area 51 » de 2019 a commencé comme une blague Facebook, a attiré 2 millions de confirmations et s'est transformé en petit festival",
+      "system": "culture",
+      "rom": "social_networks"
+    },
+    {
+      "id": "cul_343",
+      "text": "La communauté du géocaching est passée du premier cache en 2000 à plus de 3 millions de caches actifs dans le monde",
+      "system": "culture",
+      "rom": "geocaching"
+    },
+    {
+      "id": "cul_344",
+      "text": "Le concept de « longue traîne », décrit par le rédacteur de Wired Chris Anderson en 2004",
+      "system": "culture",
+      "rom": "internet_economics"
+    },
+    {
+      "id": "cul_345",
+      "text": "Bandcamp, lancé en 2008, a permis aux musiciens de vendre directement à leurs fans et de fixer leurs propres prix",
+      "system": "culture",
+      "rom": "music_distribution"
+    },
+    {
+      "id": "cul_346",
+      "text": "SoundCloud, lancé en 2008, est devenu la plateforme d'où a émergé le SoundCloud Rap",
+      "system": "culture",
+      "rom": "soundcloud"
+    },
+    {
+      "id": "cul_347",
+      "text": "Le mème « e » de 2018 était une image de la simple lettre « e » postée par Markiplier qui s'est répandue pour son absurdité",
+      "system": "culture",
+      "rom": "viral_concept"
+    },
+    {
+      "id": "cul_348",
+      "text": "La culture des premiers forums web a développé la catégorie du « lurker »",
+      "system": "culture",
+      "rom": "internet_participation"
+    },
+    {
+      "id": "cul_349",
+      "text": "Le brevet d'Amazon sur la commande en un clic, déposé en 1999, a été l'un des brevets logiciels les plus controversés jamais accordés",
+      "system": "culture",
+      "rom": "ecommerce"
+    },
+    {
+      "id": "cul_350",
+      "text": "Le concept du « freemium » — service de base gratuit avec des options payantes — a d'abord été largement popularisé par Skype",
+      "system": "culture",
+      "rom": "business_models"
+    },
+    {
+      "id": "cul_351",
+      "text": "Le design délibérément démodé de Craigslist était un choix stratégique",
+      "system": "culture",
+      "rom": "craigslist"
+    },
+    {
+      "id": "cul_352",
+      "text": "Le mème « Ugandan Knuckles » début 2018 mettait en scène un Knuckles déformé demandant « do u kno de wae » dans VRChat",
+      "system": "culture",
+      "rom": "digital_access"
+    },
+    {
+      "id": "cul_353",
+      "text": "Les cinq piliers de Wikipedia — dont la neutralité et la vérifiabilité — ont été rédigés par la communauté, pas par ses fondateurs",
+      "system": "culture",
+      "rom": "wikipedia"
+    },
+    {
+      "id": "cul_354",
+      "text": "Le concept de « permalien » — une URL stable pour un contenu précis — a été inventé par les logiciels de blogging",
+      "system": "culture",
+      "rom": "blogging"
+    },
+    {
+      "id": "cul_355",
+      "text": "Le RSS (Really Simple Syndication) a créé le premier modèle d'abonnement à du contenu web en 1999",
+      "system": "culture",
+      "rom": "rss"
+    },
+    {
+      "id": "cul_356",
+      "text": "Google Reader, fermé en 2013, était tellement aimé que sa disparition est citée par les journalistes tech comme un moment charnière",
+      "system": "culture",
+      "rom": "rss"
+    },
+    {
+      "id": "cul_357",
+      "text": "Le mème « Galaxy Brain » décrit un raisonnement alambiqué où une logique de plus en plus absurde est présentée comme un insight de génie",
+      "system": "culture",
+      "rom": "podcasting"
+    },
+    {
+      "id": "cul_358",
+      "text": "L'invention du cookie web par Lou Montulli en 1994 a permis les connexions persistantes et les paniers d'achat",
+      "system": "culture",
+      "rom": "web_cookies"
+    },
+    {
+      "id": "cul_359",
+      "text": "La publicité pop-up a été inventée par Ethan Zuckerman à la fin des années 1990 — il s'en est excusé publiquement plus tard",
+      "system": "culture",
+      "rom": "pop_ups"
+    },
+    {
+      "id": "cul_360",
+      "text": "Le mouvement « abonnez-vous à ma newsletter » a émergé vers 2019 alors que les créateurs cherchaient à maîtriser directement leur audience",
+      "system": "culture",
+      "rom": "newsletter_culture"
+    },
+    {
+      "id": "cul_361",
+      "text": "Le sens de « devenir viral » a évolué entre 2005 et 2015",
+      "system": "culture",
+      "rom": "viral_marketing"
+    },
+    {
+      "id": "cul_362",
+      "text": "Le commentaire « Upvote si tu regardes en [année] » est devenu l'un des clichés YouTube les plus moqués",
+      "system": "culture",
+      "rom": "twitter"
+    },
+    {
+      "id": "cul_363",
+      "text": "La coche bleue de vérification, introduite par Twitter en 2009 pour authentifier les comptes de personnalités",
+      "system": "culture",
+      "rom": "twitter"
+    },
+    {
+      "id": "cul_364",
+      "text": "Moot, le fondateur pseudonyme de 4chan, a été nommé la personne la plus influente dans le sondage lecteurs du Time en 2009",
+      "system": "culture",
+      "rom": "4chan"
+    },
+    {
+      "id": "cul_365",
+      "text": "Le collectif Anonymous est né de 4chan comme le premier exemple majeur d'action politique en ligne décentralisée",
+      "system": "culture",
+      "rom": "anonymous"
+    },
+    {
+      "id": "cul_366",
+      "text": "La publication des câbles diplomatiques par WikiLeaks en 2010 a démontré qu'internet avait rendu impossible le contrôle total de l'information",
+      "system": "culture",
+      "rom": "wikileaks"
+    },
+    {
+      "id": "cul_367",
+      "text": "Le mème « Stonks » est né d'une image de 2017 montrant un personnage CGI en costume, moquant les mauvaises décisions financières ou leur côté ironique",
+      "system": "culture",
+      "rom": "privacy_movement"
+    },
+    {
+      "id": "cul_368",
+      "text": "Tor, le réseau d'anonymisation initialement développé par la Marine américaine",
+      "system": "culture",
+      "rom": "tor_network"
+    },
+    {
+      "id": "cul_369",
+      "text": "Le concept de séjours « digital detox » et de camps sans appareils a émergé vers 2012 comme réaction culturelle directe",
+      "system": "culture",
+      "rom": "digital_detox"
+    },
+    {
+      "id": "cul_370",
+      "text": "Roblox, lancé en 2006, est devenu la plateforme gaming dominante pour les enfants avec 150 millions d'utilisateurs mensuels en 2020",
+      "system": "culture",
+      "rom": "roblox"
+    },
+    {
+      "id": "cul_371",
+      "text": "L'économie des créateurs, où des individus gagnent leur vie grâce à leur audience, était estimée à 100 milliards de dollars annuels en 2021",
+      "system": "culture",
+      "rom": "creator_economy"
+    },
+    {
+      "id": "cul_372",
+      "text": "Le stéréotype de la « rage du gamer » a été codifié par des vidéos virales comme Angry German Kid en 2006, devenu un archétype d'internet",
+      "system": "culture",
+      "rom": "attention_economy"
+    },
+    {
+      "id": "cul_373",
+      "text": "Le rachat d'Instagram par Facebook pour 1 milliard de dollars en 2012 et de WhatsApp pour 19 milliards en 2014 ont été plus tard examinés par les régulateurs antitrust",
+      "system": "culture",
+      "rom": "tech_monopolies"
+    },
+    {
+      "id": "cul_374",
+      "text": "Le duopole App Store / Google Play — tous deux prélevant 30 % des ventes numériques — est devenu le sujet de grandes enquêtes antitrust",
+      "system": "culture",
+      "rom": "app_store_economics"
+    },
+    {
+      "id": "cul_375",
+      "text": "Le bilan de fin d'année « Wrapped » de Spotify, lancé en 2015, est devenu une tradition de partage viral chaque décembre",
+      "system": "culture",
+      "rom": "spotify"
+    },
+    {
+      "id": "cul_376",
+      "text": "La Discover Weekly de Spotify (2015) propose chaque semaine une nouvelle playlist personnalisée basée sur l'historique d'écoute",
+      "system": "culture",
+      "rom": "spotify"
+    },
+    {
+      "id": "cul_377",
+      "text": "Le mème « press F to pay respects » vient d'un quick-time event de Call of Duty: Advanced Warfare et s'est répandu en ligne",
+      "system": "culture",
+      "rom": "dark_patterns"
+    },
+    {
+      "id": "cul_378",
+      "text": "Les récompenses variables comme les likes et les notifications sur les réseaux sociaux sont délibérément conçues pour maximiser l'engagement",
+      "system": "culture",
+      "rom": "dark_patterns"
+    },
+    {
+      "id": "cul_379",
+      "text": "Clubhouse, le réseau social audio lancé en 2020 pendant les confinements de la pandémie",
+      "system": "culture",
+      "rom": "audio_social"
+    },
+    {
+      "id": "cul_380",
+      "text": "Les liens parasociaux avec les créateurs YouTube sont devenus si intenses que certains spectateurs envoyaient des cadeaux comme à des amis proches",
+      "system": "culture",
+      "rom": "parasocial"
+    },
+    {
+      "id": "cul_381",
+      "text": "BeReal, lancé en 2020 avec une invite quotidienne de photo double-caméra",
+      "system": "culture",
+      "rom": "authenticity_trend"
+    },
+    {
+      "id": "cul_382",
+      "text": "La blague que Minecraft a été créé par « Notch » remplissait les commentaires YouTube en d'innombrables variations répétitives dans le monde entier",
+      "system": "culture",
+      "rom": "generational_internet"
+    },
+    {
+      "id": "cul_383",
+      "text": "Le bull run des cryptomonnaies de 2021 a popularisé « to the moon » et « HODL » (une faute de frappe de « hold » dans un post Bitcoin de 2013)",
+      "system": "culture",
+      "rom": "crypto_culture"
+    },
+    {
+      "id": "cul_384",
+      "text": "« HODL », la faute de frappe d'un post sur un forum Bitcoin en 2013 intitulé « I AM HODLING », est devenu le mème définitif de la communauté crypto",
+      "system": "culture",
+      "rom": "crypto_culture"
+    },
+    {
+      "id": "cul_385",
+      "text": "Le « dark web » est entré dans la conscience publique après la fermeture de Silk Road",
+      "system": "culture",
+      "rom": "dark_web"
+    },
+    {
+      "id": "cul_386",
+      "text": "GitHub, racheté par Microsoft pour 7,5 milliards de dollars en 2018, héberge plus de 200 millions de dépôts",
+      "system": "culture",
+      "rom": "open_source_culture"
+    },
+    {
+      "id": "cul_387",
+      "text": "La tendance Instagram « Hot Dog Legs » a débuté vers 2012, en photographiant des jambes au bord d'une piscine pour les faire ressembler à des hot dogs",
+      "system": "culture",
+      "rom": "developer_culture"
+    },
+    {
+      "id": "cul_388",
+      "text": "La philosophie « move fast and break things », inventée par Mark Zuckerberg comme devise interne de Facebook",
+      "system": "culture",
+      "rom": "tech_culture"
+    },
+    {
+      "id": "cul_389",
+      "text": "L'accélérateur Y Combinator, fondé en 2005, a financé Airbnb, Dropbox, Reddit et Stripe parmi ses premières promotions",
+      "system": "culture",
+      "rom": "startup_culture"
+    },
+    {
+      "id": "cul_390",
+      "text": "Le succès d'Airbnb lors de la convention démocrate nationale de 2008",
+      "system": "culture",
+      "rom": "gig_economy"
+    },
+    {
+      "id": "cul_391",
+      "text": "Le lancement d'Uber à San Francisco en 2010 était si populaire d'emblée que le concept de « surge pricing » a immédiatement suscité la polémique",
+      "system": "culture",
+      "rom": "gig_economy"
+    },
+    {
+      "id": "cul_392",
+      "text": "« Weird Twitter » (2010-2014) a produit un humour absurde qui a influencé toute une génération d'auteurs comiques en ligne",
+      "system": "culture",
+      "rom": "tech_culture"
+    },
+    {
+      "id": "cul_393",
+      "text": "Le « pivot vers la vidéo » dans les médias (2015-2017) a poussé des rédactions à remplacer leurs journalistes par des équipes vidéo, dont la plupart ont ensuite échoué",
+      "system": "culture",
+      "rom": "media_disruption"
+    },
+    {
+      "id": "cul_394",
+      "text": "Le format listicle de BuzzFeed — « X choses qui vont vous faire Y » — était si efficace pour générer des partages sociaux",
+      "system": "culture",
+      "rom": "digital_media"
+    },
+    {
+      "id": "cul_395",
+      "text": "L'élection présidentielle américaine de 2016 a été la première où la désinformation sur les réseaux sociaux a été officiellement reconnue",
+      "system": "culture",
+      "rom": "disinformation"
+    },
+    {
+      "id": "cul_396",
+      "text": "QAnon, qui s'est répandu presque exclusivement via les plateformes en ligne à partir de 2017",
+      "system": "culture",
+      "rom": "online_conspiracy"
+    },
+    {
+      "id": "cul_397",
+      "text": "La tradition « Elf on the Shelf », créée en 2005, est devenue un rituel de fêtes viral que les parents partageaient sur les réseaux sociaux",
+      "system": "culture",
+      "rom": "internet_phenomena"
+    },
+    {
+      "id": "cul_398",
+      "text": "Reddit r/place, où les utilisateurs pouvaient placer un pixel toutes les cinq minutes, est devenu une étude de la collaboration en ligne",
+      "system": "culture",
+      "rom": "reddit"
+    },
+    {
+      "id": "cul_399",
+      "text": "L'invention du bouton « j'aime » et des réactions équivalentes a fondamentalement changé la façon dont les gens interagissent en ligne",
+      "system": "culture",
+      "rom": "social_media_design"
+    },
+    {
+      "id": "cul_400",
+      "text": "La Wayback Machine avait archivé plus de 100 milliards de pages web en 2023",
+      "system": "culture",
+      "rom": "internet_archive"
+    }
+  ]
+}

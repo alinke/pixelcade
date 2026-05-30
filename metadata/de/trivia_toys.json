@@ -1,0 +1,1805 @@
+{
+  "category": "toys",
+  "facts": [
+    {
+      "id": "toy_001",
+      "text": "G.I. Joe wurde 1964 von Hasbro als 30-cm-Militärfigur eingeführt",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_002",
+      "text": "Hasbro brachte G.I. Joe 1982 als 9,5-cm-Linie unter dem Namen 'A Real American Hero' neu heraus",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_003",
+      "text": "Die G.I. Joe: A Real American Hero-Linie von 1982 wurde von einer Marvel-Comicserie begleitet, die Larry Hama schrieb",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_004",
+      "text": "G.I. Joe: A Real American Hero wurde eine der meistverkauften Spielzeuglinien der 1980er Jahre",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_005",
+      "text": "Die G.I. Joe-Zeichentrickserie startete 1983 als fünfteilige Mini-Serie und endete jede Folge mit einem Sicherheitshinweis",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_006",
+      "text": "Snake Eyes, der schweigsame Kommandosoldat der G.I. Joe-Linie, wurde zur beliebtesten Figur der gesamten Reihe",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_007",
+      "text": "Die G.I. Joe Cobra Commander-Figur war der Hauptschurke der Linie",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_008",
+      "text": "Die G.I. Joe-Fahrzeuglinie von Hasbro umfasste den MOBAT-Panzer",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_009",
+      "text": "G.I. Joe: The Movie (1987) wurde parallel zu The Transformers: The Movie produziert, kam aber direkt auf Video",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_010",
+      "text": "G.I. Joe-Figuren der 1980er hatten einen einzigartigen Schwenk-Kampfgriff-Mechanismus",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_011",
+      "text": "Auf seinem Höhepunkt Mitte der 1980er Jahre erwirtschaftete G.I. Joe über 125 Millionen Dollar jährlich für Hasbro",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_012",
+      "text": "G.I. Joes Defiant Space Launch Complex war das größte Spielset der Linie und brauchte Stunden zum Aufbauen",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_013",
+      "text": "Die Transformers-Spielzeuglinie wurde 1984 von Hasbro eingeführt",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_014",
+      "text": "Das originale Optimus Prime-Spielzeug von 1984 war ein Sattelschlepper, der sich in einen Roboter verwandeln konnte",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_015",
+      "text": "Die Transformers-Zeichentrickserie startete 1984 am gleichen Tag wie die Spielzeuglinie",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_016",
+      "text": "The Transformers: The Movie (1986) tötete Optimus Prime bereits im ersten Akt",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_017",
+      "text": "Die Constructicons — sechs Transformers, die sich zu Devastator zusammensetzen — führten das Konzept kombinierter Roboter ein",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_018",
+      "text": "Soundwave, der Decepticon-Kassettenspieler, war eine der beliebtesten Figuren der ursprünglichen Linie",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_019",
+      "text": "Der japanische Transformers-Markt entwickelte sich parallel zur amerikanischen Linie unter Takara",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_020",
+      "text": "Bereits 1985 erwirtschafteten Transformers über 100 Millionen Dollar jährlich für Hasbro",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_021",
+      "text": "Megatrons originales Spielzeug verwandelte sich in eine Walther P38-Pistole mit funktionierendem Abzug und abnehmbaren Lauferweiterungen",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_022",
+      "text": "Die Dinobots — Grimlock, Slag, Sludge, Snarl und Swoop — verwandelten sich in mechanische Dinosaurier",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_023",
+      "text": "Fortress Maximus (1987) war fast 60 cm groß — der größte je produzierte Transformer — und kostete 99,99 $",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_024",
+      "text": "Die GoBots-Linie von Tonka, basierend auf Japans Machine Robo, war Transformers' wichtigster Rivale, bevor sie ins Transformers-Universum aufging",
+      "system": "toys",
+      "rom": "gobots"
+    },
+    {
+      "id": "toy_025",
+      "text": "He-Man und die Masters of the Universe wurden 1982 von Mattel eingeführt und wurden sofort zum Phänomen",
+      "system": "toys",
+      "rom": "he_man"
+    },
+    {
+      "id": "toy_026",
+      "text": "Die He-Man-Linie war die erste Spielzeugreihe, die von einer eigenen Zeichentrickserie begleitet wurde, die einzig zu Marketingzwecken produziert wurde",
+      "system": "toys",
+      "rom": "he_man"
+    },
+    {
+      "id": "toy_027",
+      "text": "Castle Grayskull (1982) hatte eine Kieferbrücke, einen Thronsaal, einen Aufzug und einen Kerker mit Falltür",
+      "system": "toys",
+      "rom": "he_man"
+    },
+    {
+      "id": "toy_028",
+      "text": "Skeletor wurde mit blauer Haut und einem Totenschädel-Gesicht entworfen — zunächst umstritten, weil er für ein Kinderspielzeug zu beängstigend wirkte",
+      "system": "toys",
+      "rom": "he_man"
+    },
+    {
+      "id": "toy_029",
+      "text": "She-Ra: Princess of Power (1985) wurde als He-Man-Ableger speziell für Mädchen mit einer weiblichen Heldin eingeführt",
+      "system": "toys",
+      "rom": "she_ra"
+    },
+    {
+      "id": "toy_030",
+      "text": "Die He-Man-Spielzeuglinie erzielte allein 1984 Verkäufe von über 400 Millionen Dollar",
+      "system": "toys",
+      "rom": "he_man"
+    },
+    {
+      "id": "toy_031",
+      "text": "Mattel produzierte 1987 einen Realfilm-Masters of the Universe mit Dolph Lundgren als He-Man",
+      "system": "toys",
+      "rom": "he_man"
+    },
+    {
+      "id": "toy_032",
+      "text": "He-Mans graues Plastik-'Power Sword' war eines der ikonischsten Spielzeugzubehörteile der 1980er Jahre",
+      "system": "toys",
+      "rom": "he_man"
+    },
+    {
+      "id": "toy_033",
+      "text": "Kenners Star Wars-Actionfiguren, 1978 eingeführt, wurden eine der meistverkauften Spielzeuglinien der Geschichte",
+      "system": "toys",
+      "rom": "star_wars_toys"
+    },
+    {
+      "id": "toy_034",
+      "text": "Die originale Kenner Star Wars-Figurenlinie verwendete einen 9,5-cm-Maßstab",
+      "system": "toys",
+      "rom": "star_wars_toys"
+    },
+    {
+      "id": "toy_035",
+      "text": "Kenner produzierte zwischen 1977 und 1985 über 100 verschiedene Star Wars-Figuren",
+      "system": "toys",
+      "rom": "star_wars_toys"
+    },
+    {
+      "id": "toy_036",
+      "text": "Das Kenner Millennium Falcon, 1979 veröffentlicht, war das größte Star Wars-Spielzeug und das Herzstück vieler Sammlungen",
+      "system": "toys",
+      "rom": "star_wars_toys"
+    },
+    {
+      "id": "toy_037",
+      "text": "Star Wars-Spielzeugverkäufe brachten Kenner allein 1978 über 100 Millionen Dollar ein",
+      "system": "toys",
+      "rom": "star_wars_toys"
+    },
+    {
+      "id": "toy_038",
+      "text": "Die Boba Fett-Figur wurde ursprünglich mit einem federgetriebenen raketenabschießenden Jetpack angekündigt",
+      "system": "toys",
+      "rom": "star_wars_toys"
+    },
+    {
+      "id": "toy_039",
+      "text": "Die von Playmates Toys 1988 gestartete Teenage Mutant Ninja Turtles-Linie galt als riskantes Unterfangen",
+      "system": "toys",
+      "rom": "tmnt"
+    },
+    {
+      "id": "toy_040",
+      "text": "Die originalen Teenage Mutant Ninja Turtles-Figuren wurden in vier verschiedenen Farben produziert",
+      "system": "toys",
+      "rom": "tmnt"
+    },
+    {
+      "id": "toy_041",
+      "text": "Playmates Toys veröffentlichte über 400 verschiedene Teenage Mutant Ninja Turtles-Figuren im Laufe der Linie",
+      "system": "toys",
+      "rom": "tmnt"
+    },
+    {
+      "id": "toy_042",
+      "text": "Der TMNT Party Wagon war das Hauptfahrzeug-Spielset der Linie, passend zum Van aus der Zeichentrickserie",
+      "system": "toys",
+      "rom": "tmnt"
+    },
+    {
+      "id": "toy_043",
+      "text": "Die Nachfrage nach TMNT-Spielzeug 1989 und 1990 war so groß, dass Läden Kauflimits einführten und Eltern Schlange standen",
+      "system": "toys",
+      "rom": "tmnt"
+    },
+    {
+      "id": "toy_044",
+      "text": "Barbie wurde von Ruth Handler entworfen und 1959 von Mattel auf der American International Toy Fair vorgestellt",
+      "system": "toys",
+      "rom": "barbie"
+    },
+    {
+      "id": "toy_045",
+      "text": "Barbies vollständiger Name ist Barbara Millicent Roberts und sie hat seit 1959 über 200 Berufe ausgeübt",
+      "system": "toys",
+      "rom": "barbie"
+    },
+    {
+      "id": "toy_046",
+      "text": "Das Barbie Dream House, erstmals 1962 erschienen, wurde eines der meistverkauften Spielsets in der Spielzeuggeschichte",
+      "system": "toys",
+      "rom": "barbie"
+    },
+    {
+      "id": "toy_047",
+      "text": "Ken, Barbies Freund, wurde 1961 von Mattel eingeführt und nach Ruth Handlers Sohn Kenneth benannt",
+      "system": "toys",
+      "rom": "barbie"
+    },
+    {
+      "id": "toy_048",
+      "text": "In den 1980er Jahren erwirtschaftete Barbie über 500 Millionen Dollar jährlich für Mattel",
+      "system": "toys",
+      "rom": "barbie"
+    },
+    {
+      "id": "toy_049",
+      "text": "Totally Hair Barbie, 1992 eingeführt, wurde die meistverkaufte Barbie aller Zeiten — die Haare reichten bis zu den Füßen",
+      "system": "toys",
+      "rom": "barbie"
+    },
+    {
+      "id": "toy_050",
+      "text": "Forscher haben festgestellt, dass Barbies Proportionen in menschlicher Größe ein aufrechtes Stehen anatomisch unmöglich machen würden",
+      "system": "toys",
+      "rom": "barbie"
+    },
+    {
+      "id": "toy_051",
+      "text": "Cabbage Patch Kids waren ursprünglich handgenähte 'Little People', die auf Kunsthandwerksmärkten in Georgia verkauft wurden, bevor Coleco das Konzept lizenzierte",
+      "system": "toys",
+      "rom": "cabbage_patch_kids"
+    },
+    {
+      "id": "toy_052",
+      "text": "Der Weihnachtsansturm 1983 auf Cabbage Patch Kids war einer der chaotischsten Spielzeugmangel in der Handelsgeschichte",
+      "system": "toys",
+      "rom": "cabbage_patch_kids"
+    },
+    {
+      "id": "toy_053",
+      "text": "Jedes Cabbage Patch Kid hatte einen einzigartigen Namen auf seiner Geburtsurkunde und kam mit einem 'Adoptionspapier'",
+      "system": "toys",
+      "rom": "cabbage_patch_kids"
+    },
+    {
+      "id": "toy_054",
+      "text": "Cabbage Patch Kids erzielten im ersten Jahr der Massenproduktion 1983 einen Umsatz von 600 Millionen Dollar",
+      "system": "toys",
+      "rom": "cabbage_patch_kids"
+    },
+    {
+      "id": "toy_055",
+      "text": "Hot Wheels wurden von Mattel-Ingenieur Jack Ryan und Designer Harry Bentley Bradley entwickelt und 1968 eingeführt",
+      "system": "toys",
+      "rom": "hot_wheels"
+    },
+    {
+      "id": "toy_056",
+      "text": "Das erste Hot Wheels-Rennbahn-Set, der Super Charger, nutzte einen batteriebetriebenen Abschuss, um Autos auf Maßstabsgeschwindigkeiten von 320 km/h zu beschleunigen",
+      "system": "toys",
+      "rom": "hot_wheels"
+    },
+    {
+      "id": "toy_057",
+      "text": "Hot Wheels Redline-Autos (1968–1977) mit ihren rot gestreiften Reifen gehören zu den wertvollsten Druckguss-Sammlerstücken",
+      "system": "toys",
+      "rom": "hot_wheels"
+    },
+    {
+      "id": "toy_058",
+      "text": "Mattel hat seit 1968 über sechs Milliarden Hot Wheels-Autos produziert — das meistverkaufte Spielzeugfahrzeug der Geschichte",
+      "system": "toys",
+      "rom": "hot_wheels"
+    },
+    {
+      "id": "toy_059",
+      "text": "Hot Wheels brachte in den 1980ern die 'Sto & Go'-Spielset-Serie heraus — kompakte Klapp-Spielsets, die Autos innen aufbewahrten",
+      "system": "toys",
+      "rom": "hot_wheels"
+    },
+    {
+      "id": "toy_060",
+      "text": "My Little Pony wurde von Designerin Bonnie Zacherle bei Hasbro entwickelt und 1982 eingeführt",
+      "system": "toys",
+      "rom": "my_little_pony"
+    },
+    {
+      "id": "toy_061",
+      "text": "Originale My Little Pony-Figuren der 1980er werden von Sammlern als 'G1' bezeichnet und haben echte Mähnen- und Schweifhaare",
+      "system": "toys",
+      "rom": "my_little_pony"
+    },
+    {
+      "id": "toy_062",
+      "text": "My Little Pony erzielte im ersten Jahr über 50 Millionen Dollar und wurde eine der wichtigsten Spielzeugfranchises von Hasbro",
+      "system": "toys",
+      "rom": "my_little_pony"
+    },
+    {
+      "id": "toy_063",
+      "text": "Hasbro produzierte in den 1980ern Hunderte von My Little Pony-Varianten, darunter auch Meerespferde",
+      "system": "toys",
+      "rom": "my_little_pony"
+    },
+    {
+      "id": "toy_064",
+      "text": "LEGO wurde 1932 vom dänischen Schreiner Ole Kirk Christiansen gegründet",
+      "system": "toys",
+      "rom": "lego"
+    },
+    {
+      "id": "toy_065",
+      "text": "LEGO-Steine werden mit einer Toleranz von 0,002 mm gefertigt",
+      "system": "toys",
+      "rom": "lego"
+    },
+    {
+      "id": "toy_066",
+      "text": "LEGO Technic (1977) führte Zahnräder, Achsen und Motoren ein und ermöglichte den Bau funktionaler Modelle",
+      "system": "toys",
+      "rom": "lego"
+    },
+    {
+      "id": "toy_067",
+      "text": "Das LEGO-Space-Thema, 1978 eingeführt, war eine der beliebtesten LEGO-Linien der 1980er Jahre",
+      "system": "toys",
+      "rom": "lego"
+    },
+    {
+      "id": "toy_068",
+      "text": "LEGO Castle, 1978 eingeführt, brachte die Minifiguren in die Welt",
+      "system": "toys",
+      "rom": "lego"
+    },
+    {
+      "id": "toy_069",
+      "text": "Die LEGO Group stand 2003 kurz vor dem Bankrott, nachdem sie sich zu aggressiv in die Elektronik ausgedehnt hatte",
+      "system": "toys",
+      "rom": "lego"
+    },
+    {
+      "id": "toy_070",
+      "text": "Es wird geschätzt, dass es etwa 80 LEGO-Steine für jeden Menschen auf der Erde gibt",
+      "system": "toys",
+      "rom": "lego"
+    },
+    {
+      "id": "toy_071",
+      "text": "Der Rubik's Cube wurde 1974 vom ungarischen Architekten und Professor Ernő Rubik erfunden",
+      "system": "toys",
+      "rom": "rubiks_cube"
+    },
+    {
+      "id": "toy_072",
+      "text": "Der Rubik's Cube wurde an Ideal Toy Company lizenziert und 1980 international eingeführt",
+      "system": "toys",
+      "rom": "rubiks_cube"
+    },
+    {
+      "id": "toy_073",
+      "text": "Der Rubik's Cube hat 43 Quintillionen mögliche Konfigurationen",
+      "system": "toys",
+      "rom": "rubiks_cube"
+    },
+    {
+      "id": "toy_074",
+      "text": "Rubik's Cube-Wettbewerbe, Speedcubing genannt, begannen 1981",
+      "system": "toys",
+      "rom": "rubiks_cube"
+    },
+    {
+      "id": "toy_075",
+      "text": "Der Rubik's Cube-Boom von 1980 bis 1983 brachte eine ganze Industrie von Lösungsbüchern hervor",
+      "system": "toys",
+      "rom": "rubiks_cube"
+    },
+    {
+      "id": "toy_076",
+      "text": "Der Speak & Spell, 1978 von TI eingeführt, war eines der ersten Verbrauchergeräte mit digitaler Sprachsynthese",
+      "system": "toys",
+      "rom": "speak_spell"
+    },
+    {
+      "id": "toy_077",
+      "text": "Der Speak & Spell erlangte Kultstatus durch seinen Auftritt in E.T. der Außerirdische (1982)",
+      "system": "toys",
+      "rom": "speak_spell"
+    },
+    {
+      "id": "toy_078",
+      "text": "Simon, 1978 eingeführt, war ein elektronisches Gedächtnisspiel, bei dem Spieler wachsende Licht- und Tonfolgen wiederholten",
+      "system": "toys",
+      "rom": "simon"
+    },
+    {
+      "id": "toy_079",
+      "text": "Simon wurde vom Atari-Arcade-Spiel Touch Me (1974) inspiriert",
+      "system": "toys",
+      "rom": "simon"
+    },
+    {
+      "id": "toy_080",
+      "text": "Mattel Electronics brachte Ende der 1970er Jahre eine Reihe elektronischer Handheld-Sportspiele heraus",
+      "system": "toys",
+      "rom": "mattel_electronics"
+    },
+    {
+      "id": "toy_081",
+      "text": "Teddy Ruxpin, 1985 von Worlds of Wonder eingeführt, war das meistverkaufte Spielzeug in Amerika in beiden Jahren 1985 und 1986",
+      "system": "toys",
+      "rom": "teddy_ruxpin"
+    },
+    {
+      "id": "toy_082",
+      "text": "Teddy Ruxpin nutzte ein proprietäres Kassettenformat mit einem zweiten Audiokanal für Servo-Steuersignale",
+      "system": "toys",
+      "rom": "teddy_ruxpin"
+    },
+    {
+      "id": "toy_083",
+      "text": "Worlds of Wonder, Teddy Ruxpins Hersteller, meldete 1987 Insolvenz an, nachdem das Unternehmen zu schnell gewachsen war",
+      "system": "toys",
+      "rom": "teddy_ruxpin"
+    },
+    {
+      "id": "toy_084",
+      "text": "Der Super Soaker wurde 1982 vom NASA-Ingenieur Lonnie Johnson erfunden, während er an einem Wärmepumpensystem arbeitete",
+      "system": "toys",
+      "rom": "super_soaker"
+    },
+    {
+      "id": "toy_085",
+      "text": "Der Super Soaker 50 (1990) war 1991 und 1992 das meistverkaufte Spielzeug in Amerika und erzielte über 200 Millionen Dollar Umsatz",
+      "system": "toys",
+      "rom": "super_soaker"
+    },
+    {
+      "id": "toy_086",
+      "text": "Super Soaker-Erfinder Lonnie Johnson, Luft- und Raumfahrtingenieur, lizenzierte das Design an Larami und nutzte Lizenzgebühren für Energieforschung",
+      "system": "toys",
+      "rom": "super_soaker"
+    },
+    {
+      "id": "toy_087",
+      "text": "Nerf wurde von Reyn Guyer erfunden und 1969 von Parker Brothers als weltweit erster Innenball eingeführt",
+      "system": "toys",
+      "rom": "nerf"
+    },
+    {
+      "id": "toy_088",
+      "text": "Kenner erwarb die Nerf-Marke 1991 und startete die Nerf-Blaster-Linie mit dem Sharpshooter",
+      "system": "toys",
+      "rom": "nerf"
+    },
+    {
+      "id": "toy_089",
+      "text": "Der Nerf Bow and Arrow (1991) verwendete schaumstoffbespitzte Pfeile und half dabei, Nerf als führende Außenspielzeugmarke zu etablieren",
+      "system": "toys",
+      "rom": "nerf"
+    },
+    {
+      "id": "toy_090",
+      "text": "Mitte der 1990er Jahre erwirtschaftete Nerf über 100 Millionen Dollar jährlich für Kenner",
+      "system": "toys",
+      "rom": "nerf"
+    },
+    {
+      "id": "toy_091",
+      "text": "Mighty Morphin Power Rangers startete 1993 auf Fox Kids und basierte auf der japanischen Super Sentai-Serie",
+      "system": "toys",
+      "rom": "power_rangers"
+    },
+    {
+      "id": "toy_092",
+      "text": "Mighty Morphin Power Rangers-Spielzeug wurde 1993 zu einer der meistverkauften Actionfiguren-Linien des Jahrzehnts",
+      "system": "toys",
+      "rom": "power_rangers"
+    },
+    {
+      "id": "toy_093",
+      "text": "Der Power Rangers Megazord, aus fünf einzelnen Zords zusammengesetzt, war das Muss-Spielzeug der Weihnachtssaison 1993",
+      "system": "toys",
+      "rom": "power_rangers"
+    },
+    {
+      "id": "toy_094",
+      "text": "Mighty Morphin Power Rangers erzielte in den ersten zwei Jahren über eine Milliarde Dollar Spielzeugverkäufe",
+      "system": "toys",
+      "rom": "power_rangers"
+    },
+    {
+      "id": "toy_095",
+      "text": "Care Bears wurden 1981 als Grußkartenfiguren von American Greetings entwickelt und als Plüschtiere adaptiert",
+      "system": "toys",
+      "rom": "care_bears"
+    },
+    {
+      "id": "toy_096",
+      "text": "Care Bears erzielten 1984 über 100 Millionen Dollar Umsatz und brachten zwei Zeichentrickfilme sowie einen Kinofilm hervor",
+      "system": "toys",
+      "rom": "care_bears"
+    },
+    {
+      "id": "toy_097",
+      "text": "Garbage Pail Kids wurden 1985 von Topps als eklige Parodie auf Cabbage Patch Kids entwickelt",
+      "system": "toys",
+      "rom": "garbage_pail_kids"
+    },
+    {
+      "id": "toy_098",
+      "text": "Garbage Pail Kids erzielten 1985 und 1986 über 200 Millionen Dollar, bevor Coleco Topps wegen Markenschädigung verklagte",
+      "system": "toys",
+      "rom": "garbage_pail_kids"
+    },
+    {
+      "id": "toy_099",
+      "text": "Pogs waren Milchflaschendeckel, die in den 1920er Jahren auf Hawaii als Spiel entstanden",
+      "system": "toys",
+      "rom": "pogs"
+    },
+    {
+      "id": "toy_100",
+      "text": "Der Pog-Boom von 1993-1995 führte zu Schulverboten in Nordamerika, da Schüler ihre Sammlungen verspielten",
+      "system": "toys",
+      "rom": "pogs"
+    },
+    {
+      "id": "toy_101",
+      "text": "Auf dem Höhepunkt des Pog-Booms 1994 waren über 10 Milliarden Pog-Deckel im Umlauf",
+      "system": "toys",
+      "rom": "pogs"
+    },
+    {
+      "id": "toy_102",
+      "text": "Tamagotchi wurde von Aki Maita bei Bandai entwickelt und im November 1996 in Japan eingeführt",
+      "system": "toys",
+      "rom": "tamagotchi"
+    },
+    {
+      "id": "toy_103",
+      "text": "Tamagotchi wurde im Mai 1997 in den USA eingeführt und verkaufte sich im ersten Jahr weltweit über 40 Millionen Mal",
+      "system": "toys",
+      "rom": "tamagotchi"
+    },
+    {
+      "id": "toy_104",
+      "text": "Bandai hatte bis Ende der 1990er Jahre über 80 Millionen Tamagotchis produziert",
+      "system": "toys",
+      "rom": "tamagotchi"
+    },
+    {
+      "id": "toy_105",
+      "text": "Wenn das Wesen eines Tamagotchis starb, zeigte das Gerät einen Grabstein und musste zurückgesetzt werden",
+      "system": "toys",
+      "rom": "tamagotchi"
+    },
+    {
+      "id": "toy_106",
+      "text": "Micro Machines wurden 1986 von Galoob als winzige Druckguss-Fahrzeuge entwickelt, die kleiner als ein Matchbox-Auto sind",
+      "system": "toys",
+      "rom": "micro_machines"
+    },
+    {
+      "id": "toy_107",
+      "text": "Micro Machines wurden durch rasend schnell gesprochene TV-Werbespots berühmt, kommentiert von John Moschitta Jr",
+      "system": "toys",
+      "rom": "micro_machines"
+    },
+    {
+      "id": "toy_108",
+      "text": "M.A.S.K. von Kenner (1985) verband Elemente von G.I. Joe und Transformers mit Fahrzeugen, die sich für den Kampf verwandelten",
+      "system": "toys",
+      "rom": "mask"
+    },
+    {
+      "id": "toy_109",
+      "text": "Die M.A.S.K.-Zeichentrickserie zur Unterstützung der Spielzeuglinie umfasste 75 Folgen in 1985 und 1986",
+      "system": "toys",
+      "rom": "mask"
+    },
+    {
+      "id": "toy_110",
+      "text": "Voltron: Defender of the Universe wurde von World Events Productions aus zwei verschiedenen japanischen Anime-Serien adaptiert",
+      "system": "toys",
+      "rom": "voltron"
+    },
+    {
+      "id": "toy_111",
+      "text": "Das Voltron Druckguss- und Kunststoffspielzeug von Matchbox (1984) war eines der begehrtesten Weihnachtsspielzeuge",
+      "system": "toys",
+      "rom": "voltron"
+    },
+    {
+      "id": "toy_112",
+      "text": "Die ThunderCats-Zeichentrickserie startete 1985 und wurde von Anfang an mit einer Spielzeuglinie geplant",
+      "system": "toys",
+      "rom": "thundercats"
+    },
+    {
+      "id": "toy_113",
+      "text": "Das ThunderCats Sword of Omens-Spielzeug war eines der beliebtesten Zubehörteile der Linie",
+      "system": "toys",
+      "rom": "thundercats"
+    },
+    {
+      "id": "toy_114",
+      "text": "Rock 'Em Sock 'Em Robots wurde von Marvin Glass and Associates erfunden und 1964 von Marx Toys eingeführt",
+      "system": "toys",
+      "rom": "rock_em_sock_em"
+    },
+    {
+      "id": "toy_115",
+      "text": "Rock 'Em Sock 'Em Robots wurde in den 1990ern von Mattel übernommen und blieb ein konstanter Verkaufsartikel",
+      "system": "toys",
+      "rom": "rock_em_sock_em"
+    },
+    {
+      "id": "toy_116",
+      "text": "Stretch Armstrong wurde von J.C. Kuipers entwickelt und 1976 von Kenner eingeführt",
+      "system": "toys",
+      "rom": "stretch_armstrong"
+    },
+    {
+      "id": "toy_117",
+      "text": "Viele Kinder schnitten ihren Stretch Armstrong schließlich aus Neugier auf",
+      "system": "toys",
+      "rom": "stretch_armstrong"
+    },
+    {
+      "id": "toy_118",
+      "text": "Lite-Brite wurde von Marvin Glass erfunden und 1967 von Hasbro eingeführt",
+      "system": "toys",
+      "rom": "lite_brite"
+    },
+    {
+      "id": "toy_119",
+      "text": "Lite-Brite blieb während der 1970er, 1980er und 1990er Jahre ein verlässlicher Verkaufsartikel für Hasbro",
+      "system": "toys",
+      "rom": "lite_brite"
+    },
+    {
+      "id": "toy_120",
+      "text": "Der View-Master wurde von William Gruber erfunden und auf der Weltausstellung 1939 vorgestellt",
+      "system": "toys",
+      "rom": "view_master"
+    },
+    {
+      "id": "toy_121",
+      "text": "Fisher-Price übernahm View-Master 1966 und bot in den 1980ern Filmrollen für jeden großen Zeichentrickfilm und jede Franchise an",
+      "system": "toys",
+      "rom": "view_master"
+    },
+    {
+      "id": "toy_122",
+      "text": "Der Etch A Sketch wurde von André Cassagnes in Frankreich erfunden und 1960 von Ohio Art eingeführt",
+      "system": "toys",
+      "rom": "etch_a_sketch"
+    },
+    {
+      "id": "toy_123",
+      "text": "Der Etch A Sketch funktioniert mit zwei Knöpfen für horizontale und vertikale Bewegungen eines Griffels, der Aluminiumpulver verschiebt",
+      "system": "toys",
+      "rom": "etch_a_sketch"
+    },
+    {
+      "id": "toy_124",
+      "text": "Play-Doh wurde 1956 von Noah McVicker als Tapetenreinigungsmittel erfunden",
+      "system": "toys",
+      "rom": "play_doh"
+    },
+    {
+      "id": "toy_125",
+      "text": "Der charakteristische Geruch von Play-Doh ist so unverwechselbar, dass Hasbro ihn 2018 als Marke schützen ließ",
+      "system": "toys",
+      "rom": "play_doh"
+    },
+    {
+      "id": "toy_126",
+      "text": "Seit 1956 wurden über drei Milliarden Dosen Play-Doh verkauft",
+      "system": "toys",
+      "rom": "play_doh"
+    },
+    {
+      "id": "toy_127",
+      "text": "Lincoln Logs wurden 1916 von John Lloyd Wright erfunden, dem Sohn des Architekten Frank Lloyd Wright",
+      "system": "toys",
+      "rom": "lincoln_logs"
+    },
+    {
+      "id": "toy_128",
+      "text": "Lincoln Logs gehören zu den am längsten produzierten Spielzeugen der amerikanischen Geschichte, ununterbrochen seit 1916",
+      "system": "toys",
+      "rom": "lincoln_logs"
+    },
+    {
+      "id": "toy_129",
+      "text": "Das Erector Set wurde von A.C. Gilbert erfunden und 1913 als eines der ersten Konstruktionsspielzeug-Systeme eingeführt",
+      "system": "toys",
+      "rom": "erector_set"
+    },
+    {
+      "id": "toy_130",
+      "text": "A.C. Gilbert bewahrte 1918 Chemiekästen und Konstruktionsspielzeug vor einem Kriegsverbot, indem er den Kongress überzeugte",
+      "system": "toys",
+      "rom": "erector_set"
+    },
+    {
+      "id": "toy_131",
+      "text": "Operation wurde von John Spinello als Hochschulprojekt 1964 erfunden und für 500 Dollar an Milton Bradley verkauft",
+      "system": "toys",
+      "rom": "operation"
+    },
+    {
+      "id": "toy_132",
+      "text": "John Spinello erfand Operation und verkaufte das Patent als Student für 500 Dollar — vom langen Erfolg des Spiels profitierte er nie",
+      "system": "toys",
+      "rom": "operation"
+    },
+    {
+      "id": "toy_133",
+      "text": "Hungry Hungry Hippos wurde von Fred Kroll entworfen und 1978 von Hasbro eingeführt",
+      "system": "toys",
+      "rom": "hungry_hippos"
+    },
+    {
+      "id": "toy_134",
+      "text": "Hungry Hungry Hippos ist eines der lautesten Spielzeuge, die je produziert wurden",
+      "system": "toys",
+      "rom": "hungry_hippos"
+    },
+    {
+      "id": "toy_135",
+      "text": "Connect Four wurde von Howard Wexler und Ned Strongin erfunden und 1974 von Milton Bradley eingeführt",
+      "system": "toys",
+      "rom": "connect_four"
+    },
+    {
+      "id": "toy_136",
+      "text": "Connect Four ist ein 'gelöstes Spiel' — mathematisch perfektes Spielen wurde vollständig analysiert",
+      "system": "toys",
+      "rom": "connect_four"
+    },
+    {
+      "id": "toy_137",
+      "text": "Trivial Pursuit wurde im Dezember 1979 von den kanadischen Journalisten Chris Haney und Scott Abbott bei einer 75-Dollar-Wette erfunden",
+      "system": "toys",
+      "rom": "trivial_pursuit"
+    },
+    {
+      "id": "toy_138",
+      "text": "Trivial Pursuit sah sich Urheberrechtsansprüchen ausgesetzt, als Fred Worth behauptete, 200 Fragen seien direkt aus seinem Trivia-Buch kopiert worden",
+      "system": "toys",
+      "rom": "trivial_pursuit"
+    },
+    {
+      "id": "toy_139",
+      "text": "Jenga wurde von der britischen Spieledesignerin Leslie Scott entwickelt",
+      "system": "toys",
+      "rom": "jenga"
+    },
+    {
+      "id": "toy_140",
+      "text": "Die 54 Holzblöcke von Jenga werden präzise gefertigt, um alle identisch in der Größe zu sein",
+      "system": "toys",
+      "rom": "jenga"
+    },
+    {
+      "id": "toy_141",
+      "text": "Slap Bracelets wurden 1983 vom Wisconsin-Lehrer Stuart Anders erfunden und wurden zu einem der prägenden Accessoires der Ära",
+      "system": "toys",
+      "rom": "slap_bracelets"
+    },
+    {
+      "id": "toy_142",
+      "text": "Slap Bracelets verkauften sich 1990 über zehn Millionen Mal in den USA, bevor die Schulverbotswelle ihren Höhepunkt erreichte",
+      "system": "toys",
+      "rom": "slap_bracelets"
+    },
+    {
+      "id": "toy_143",
+      "text": "Rainbow Brite wurde von Hallmark kreiert und 1983 von Mattel als Spielzeuglinie eingeführt",
+      "system": "toys",
+      "rom": "rainbow_brite"
+    },
+    {
+      "id": "toy_144",
+      "text": "Der Rainbow Brite-Animationsfilm von 1985 wurde von DIC Entertainment produziert und erzielte mäßigen Erfolg",
+      "system": "toys",
+      "rom": "rainbow_brite"
+    },
+    {
+      "id": "toy_145",
+      "text": "Strawberry Shortcake wurde 1977 von Muriel Fahrion für American Greetings entwickelt und als Spielzeuglinie adaptiert",
+      "system": "toys",
+      "rom": "strawberry_shortcake"
+    },
+    {
+      "id": "toy_146",
+      "text": "Die Strawberry Shortcake-Linie war Vorreiterin der 'duftenden Puppe'-Kategorie und war so erfolgreich, dass Konkurrenten das Konzept kopierten",
+      "system": "toys",
+      "rom": "strawberry_shortcake"
+    },
+    {
+      "id": "toy_147",
+      "text": "Furby wurde von Dave Hampton und Caleb Chung entwickelt und 1998 von Tiger Electronics eingeführt",
+      "system": "toys",
+      "rom": "furby"
+    },
+    {
+      "id": "toy_148",
+      "text": "Furby wurde das Muss-Spielzeug zu Weihnachten 1998",
+      "system": "toys",
+      "rom": "furby"
+    },
+    {
+      "id": "toy_149",
+      "text": "Die US-amerikanische NSA verbot Furbies 1999 in ihren Büros",
+      "system": "toys",
+      "rom": "furby"
+    },
+    {
+      "id": "toy_150",
+      "text": "Furby wurde seit seiner Einführung 1998 mehrmals überarbeitet und neu aufgelegt",
+      "system": "toys",
+      "rom": "furby"
+    },
+    {
+      "id": "toy_151",
+      "text": "Das Big Wheel wurde von Louis Marx and Company entworfen und 1969 eingeführt",
+      "system": "toys",
+      "rom": "big_wheel"
+    },
+    {
+      "id": "toy_152",
+      "text": "Das Big Wheel verkaufte sich zwischen seiner Einführung 1969 und Mitte der 1980er Jahre über 40 Millionen Mal",
+      "system": "toys",
+      "rom": "big_wheel"
+    },
+    {
+      "id": "toy_153",
+      "text": "Weebles wurden 1971 von Hasbros Playskool mit dem Slogan 'Weebles wobble but they don't fall down' eingeführt",
+      "system": "toys",
+      "rom": "weebles"
+    },
+    {
+      "id": "toy_154",
+      "text": "Skip-It wurde von Tiger Electronics entwickelt und 1988 eingeführt",
+      "system": "toys",
+      "rom": "skip_it"
+    },
+    {
+      "id": "toy_155",
+      "text": "Tiger Electronics bewarb Skip-It mit einem eingängigen Werbejingle",
+      "system": "toys",
+      "rom": "skip_it"
+    },
+    {
+      "id": "toy_156",
+      "text": "Der Jo-Jo ist eines der ältesten Spielzeuge der Menschheitsgeschichte",
+      "system": "toys",
+      "rom": "yoyo"
+    },
+    {
+      "id": "toy_157",
+      "text": "Der Yomega Brain (1984) hatte eine automatische Rückkehrkupplung, die ihn viel einfacher zu benutzen machte als einen klassischen Jo-Jo",
+      "system": "toys",
+      "rom": "yoyo"
+    },
+    {
+      "id": "toy_158",
+      "text": "Matchbox-Autos wurden ursprünglich 1952 von Jack Odell bei Lesney Products entwickelt",
+      "system": "toys",
+      "rom": "matchbox"
+    },
+    {
+      "id": "toy_159",
+      "text": "Matchbox und Hot Wheels waren rivalisierende Druckguss-Marken in den 1980ern, bevor Mattel Matchbox 1997 von Tyco übernahm",
+      "system": "toys",
+      "rom": "matchbox"
+    },
+    {
+      "id": "toy_160",
+      "text": "Der Easy-Bake Oven wurde von Ronald Saarms erfunden und 1963 von Kenner eingeführt",
+      "system": "toys",
+      "rom": "easy_bake_oven"
+    },
+    {
+      "id": "toy_161",
+      "text": "Kenners Spirograph (1965) nutzte ineinandergreifende Kunststoffzahnräder und einen Stift, um mathematische Kurven auf Papier zu erzeugen",
+      "system": "toys",
+      "rom": "spirograph"
+    },
+    {
+      "id": "toy_162",
+      "text": "Der Atari 2600 war nicht nur eine Spielekonsole, sondern ein kulturelles Phänomen, das die Kindheit der frühen 1980er prägte",
+      "system": "toys",
+      "rom": "atari_2600"
+    },
+    {
+      "id": "toy_163",
+      "text": "Das NES, 1985 in Nordamerika erschienen, belebte einen zusammengebrochenen Videospielmarkt und definierte das Heimspielen für eine Generation",
+      "system": "toys",
+      "rom": "nes"
+    },
+    {
+      "id": "toy_164",
+      "text": "Duncan Jo-Jos verkauften sich allein 1962 über 45 Millionen Mal",
+      "system": "toys",
+      "rom": "yo_yo"
+    },
+    {
+      "id": "toy_165",
+      "text": "Slinky wurde 1943 vom Marineingenieur Richard James erfunden, nachdem er eine Spannungsfeder von einem Regal fallen sah",
+      "system": "toys",
+      "rom": "slinky"
+    },
+    {
+      "id": "toy_166",
+      "text": "Seit 1945 wurden über 300 Millionen Slinkys verkauft",
+      "system": "toys",
+      "rom": "slinky"
+    },
+    {
+      "id": "toy_167",
+      "text": "Der Frisbee hat seinen Ursprung in den Kuchenformen der Frisbie Pie Company in Connecticut",
+      "system": "toys",
+      "rom": "frisbee"
+    },
+    {
+      "id": "toy_168",
+      "text": "Atari Football (1978) verwendete LED-Striche als Spielerdarstellungen und war eines der ersten elektronischen Handheld-Sportspiele",
+      "system": "toys",
+      "rom": "atari_football"
+    },
+    {
+      "id": "toy_169",
+      "text": "Kenners Star Wars AT-AT Walker (1981) war über 40 cm hoch mit öffnenden Luken und herausnehmbaren Figuren",
+      "system": "toys",
+      "rom": "star_wars_toys"
+    },
+    {
+      "id": "toy_170",
+      "text": "Kenners Millennium Falcon etablierte einen gemeinsamen Maßstab zwischen Star Wars-Schiffen und -Figuren für spielübergreifenden Spaß",
+      "system": "toys",
+      "rom": "star_wars_toys"
+    },
+    {
+      "id": "toy_171",
+      "text": "Der Koosh Ball wurde 1987 von Scott Stillinger erfunden, nachdem er bemerkte, dass seine Kinder Schwierigkeiten hatten, normale Bälle zu fangen",
+      "system": "toys",
+      "rom": "koosh_ball"
+    },
+    {
+      "id": "toy_172",
+      "text": "Der Koosh Ball verkaufte sich zwischen 1988 und 1995 über 50 Millionen Mal",
+      "system": "toys",
+      "rom": "koosh_ball"
+    },
+    {
+      "id": "toy_173",
+      "text": "Hacky Sack wurde 1972 von John Stalberger erfunden und ab 1983 von Wham-O vermarktet",
+      "system": "toys",
+      "rom": "hacky_sack"
+    },
+    {
+      "id": "toy_174",
+      "text": "Der Texas Instruments Little Professor (1976) war ein Lernspielzeug im Taschenrechner-Format, das Kindern Matheaufgaben stellte",
+      "system": "toys",
+      "rom": "little_professor"
+    },
+    {
+      "id": "toy_175",
+      "text": "LeapFrogs LeapPad (1999) revolutionierte Lernspielzeug, indem es ein physisches Buch mit einem elektronischen Stift verband, der Seiten laut vorlesen konnte",
+      "system": "toys",
+      "rom": "leappad"
+    },
+    {
+      "id": "toy_176",
+      "text": "Der Popple, 1986 von Mattel eingeführt, war ein Plüschtier, das sich zu einem kompakten Ball falten ließ",
+      "system": "toys",
+      "rom": "popples"
+    },
+    {
+      "id": "toy_177",
+      "text": "Madballs wurden 1985 von AmToy als eklige Reaktion auf den Erfolg der Garbage Pail Kids eingeführt",
+      "system": "toys",
+      "rom": "madballs"
+    },
+    {
+      "id": "toy_178",
+      "text": "Die California Raisins, 1987 als Werbecharaktere geschaffen, wurden ein unerwartetes Popkultur-Phänomen mit Spielzeug und TV-Specials",
+      "system": "toys",
+      "rom": "california_raisins"
+    },
+    {
+      "id": "toy_179",
+      "text": "Pound Puppies wurden 1984 von Tonka als Plüschhunde in Pappkarton-'Tierheimen' mit Adoptionszertifikaten eingeführt",
+      "system": "toys",
+      "rom": "pound_puppies"
+    },
+    {
+      "id": "toy_180",
+      "text": "Viewtron versuchte 1983, ein interaktives Informationsterminal zu schaffen, scheiterte aber kommerziell vor der Entstehung des Internets",
+      "system": "toys",
+      "rom": "tech_toys"
+    },
+    {
+      "id": "toy_181",
+      "text": "Zoids waren eine Reihe motorisierter mechanischer Tiermodell-Bausätze, ursprünglich 1982 von Tomy in Japan entwickelt",
+      "system": "toys",
+      "rom": "zoids"
+    },
+    {
+      "id": "toy_182",
+      "text": "Das Robotix-System, 1984 von Milton Bradley eingeführt, ermöglichte Kindern den Bau motorisierter Roboter aus ineinandergreifenden Bauteilen",
+      "system": "toys",
+      "rom": "robotix"
+    },
+    {
+      "id": "toy_183",
+      "text": "Shogun Warriors waren eine Reihe japanischer Riesenroboter-Spielzeuge, die 1977 von Mattel importiert wurden",
+      "system": "toys",
+      "rom": "shogun_warriors"
+    },
+    {
+      "id": "toy_184",
+      "text": "Wacky Packages wurden von Art Spiegelman (dem späteren Schöpfer von Maus) 1967 für Topps als Parodie-Aufkleber entworfen",
+      "system": "toys",
+      "rom": "wacky_packages"
+    },
+    {
+      "id": "toy_185",
+      "text": "Der Baseballkarten-Markt wandelte sich in den 1980ern zu einer ernsthaften Kapitalanlage mit Rookie-Karten für Hunderte von Dollar",
+      "system": "toys",
+      "rom": "sports_cards"
+    },
+    {
+      "id": "toy_186",
+      "text": "Die Ken Griffey Jr. Upper Deck Rookie-Karte von 1989 wurde eine der wertvollsten und ikonischsten Baseballkarten",
+      "system": "toys",
+      "rom": "sports_cards"
+    },
+    {
+      "id": "toy_187",
+      "text": "K'Nex wurde 1992 von Joel Glickman erfunden, nachdem er das geometrische Potenzial eines Plastikstrohhalms entdeckte",
+      "system": "toys",
+      "rom": "knex"
+    },
+    {
+      "id": "toy_188",
+      "text": "Tinkertoys, 1913 von Charles Pajeau erfunden, wurden von Kindern inspiriert, die mit Bleistiften und Spulen spielten",
+      "system": "toys",
+      "rom": "tinkertoys"
+    },
+    {
+      "id": "toy_189",
+      "text": "Mouse Trap (1963) war ein Brettspiel, bei dem man eine aufwändige Rube-Goldberg-Falle zusammenbaute, um Gegner zu fangen",
+      "system": "toys",
+      "rom": "mouse_trap"
+    },
+    {
+      "id": "toy_190",
+      "text": "Battleship wurde 1967 von Milton Bradley eingeführt, basierend auf einem schon lange beliebten Papier-Stift-Marinespiel",
+      "system": "toys",
+      "rom": "battleship"
+    },
+    {
+      "id": "toy_191",
+      "text": "Der Speak & Spell bekam zwei Nachfolger — Speak & Math und Speak & Read — und vervollständigte so Texas Instruments' elektronisches Lernspielzeug-Trio",
+      "system": "toys",
+      "rom": "speak_spell"
+    },
+    {
+      "id": "toy_192",
+      "text": "Beast Wars Transformers (1996) führte tierische Alternativformen ein und startete eine neue Generation der Franchise",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_193",
+      "text": "LEGO Mindstorms (1998), nach Seymour Paperts Buch benannt, ermöglichte das Programmieren von LEGO-Robotern per Drag-and-Drop-Oberfläche",
+      "system": "toys",
+      "rom": "lego"
+    },
+    {
+      "id": "toy_194",
+      "text": "Silly Putty wurde 1943 von James Wright zufällig entdeckt, als er Ersatzstoffe für Silikonkautschuk erforschte",
+      "system": "toys",
+      "rom": "silly_putty"
+    },
+    {
+      "id": "toy_195",
+      "text": "Magna Doodle (1974) nutzte in Flüssigkeit schwebende Magnetpartikel, um Zeichnungen zu erstellen, die sich sofort auslöschten",
+      "system": "toys",
+      "rom": "magna_doodle"
+    },
+    {
+      "id": "toy_196",
+      "text": "Der Fisher-Price-Plattenspieler (1971) spielte farbig kodierte Plastikscheiben und war eines der ersten Musikspielzeuge für Kinder",
+      "system": "toys",
+      "rom": "fisher_price"
+    },
+    {
+      "id": "toy_197",
+      "text": "Fisher-Price überarbeitete Little People 1985 von kleinen Holzzylindern zu größeren Plastikfiguren, um Erstickungsgefahren zu beseitigen",
+      "system": "toys",
+      "rom": "fisher_price"
+    },
+    {
+      "id": "toy_198",
+      "text": "Kenners Ghostbusters-Spielzeuglinie, zeitgleich mit dem Film 1984 eingeführt, brachte das Konzept von Schleim als Spielelement",
+      "system": "toys",
+      "rom": "ghostbusters_toys"
+    },
+    {
+      "id": "toy_199",
+      "text": "Das Slip 'N Slide wurde von Robert Carrier erfunden und 1961 von Wham-O eingeführt",
+      "system": "toys",
+      "rom": "slip_n_slide"
+    },
+    {
+      "id": "toy_200",
+      "text": "Perfection forderte Spieler auf, 25 Formteile einzustecken, bevor der Timer ablief und das Tablett hochsprang und alles verstreute",
+      "system": "toys",
+      "rom": "perfection"
+    },
+    {
+      "id": "toy_201",
+      "text": "Das Evel Knievel Stunt Cycle (1974) nutzte ein Gyroskop, das das Motorrad aufrecht hielt, während es über den Boden fuhr",
+      "system": "toys",
+      "rom": "evel_knievel"
+    },
+    {
+      "id": "toy_202",
+      "text": "SSP Smash-Up Derby-Autos, 1970 von Kenner eingeführt, nutzten ein Schnur-Gyroskop, um wild über Böden zu schleudern",
+      "system": "toys",
+      "rom": "kenner_cars"
+    },
+    {
+      "id": "toy_203",
+      "text": "Power Wheels (Fisher-Price, 1984) waren batteriebetriebene Aufsitzfahrzeuge, die das Kindheitsspielzeug der 1980er schlechthin wurden",
+      "system": "toys",
+      "rom": "power_wheels"
+    },
+    {
+      "id": "toy_204",
+      "text": "Stomper 4x4-Trucks (1980) waren handflächengroße batteriebetriebene Fahrzeuge, die über Bücher fahren konnten",
+      "system": "toys",
+      "rom": "stomper_4x4"
+    },
+    {
+      "id": "toy_205",
+      "text": "Kenners Starbird (1978) veränderte seinen Motorklang je nachdem, in welche Richtung man es hielt",
+      "system": "toys",
+      "rom": "kenner_starbird"
+    },
+    {
+      "id": "toy_206",
+      "text": "Die World's Greatest Super Heroes-Linie der Mego Corporation (1972) war die erste große Superhelden-Actionfiguren-Linie der Geschichte",
+      "system": "toys",
+      "rom": "mego_figures"
+    },
+    {
+      "id": "toy_207",
+      "text": "Ideals Evel Knievel-Figur wurde Ende der 1970er zurückgerufen, nachdem der echte Evel Knievel wegen Körperverletzung verurteilt worden war",
+      "system": "toys",
+      "rom": "evel_knievel"
+    },
+    {
+      "id": "toy_208",
+      "text": "Das Masters of the Universe Eternia-Spielset war das größte je produzierte He-Man-Spielzeug, 1986 erschienen",
+      "system": "toys",
+      "rom": "he_man"
+    },
+    {
+      "id": "toy_209",
+      "text": "Hasbros My Little Pony Grooming Parlor war eines der beliebtesten My Little Pony-Zubehörteile der 1980er Jahre",
+      "system": "toys",
+      "rom": "my_little_pony"
+    },
+    {
+      "id": "toy_210",
+      "text": "Das originale G1 Optimus Prime-Spielzeug (1984) hatte Führerhaus und Brust aus Druckgussmetall",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_211",
+      "text": "G.I. Joes Zartan-Figur, 1984 eingeführt, war ein Gestaltwandler-Schurke, dessen Haut sich im Sonnenlicht verfärbte",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_212",
+      "text": "Das Transformers Autobot Ark-Spielset wurde nie kommerziell veröffentlicht",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_213",
+      "text": "Barbies Malibu Dream House und die 1980er Dreamhouses spiegelten die zeitgenössischen Architekturtrends ihrer jeweiligen Ära wider",
+      "system": "toys",
+      "rom": "barbie"
+    },
+    {
+      "id": "toy_214",
+      "text": "Der Hot Wheels Twin Mill, ein von Harry Bentley Bradley entworfenes Concept Car, wurde eines der beliebtesten Druckguss-Autos der Linie",
+      "system": "toys",
+      "rom": "hot_wheels"
+    },
+    {
+      "id": "toy_215",
+      "text": "LEGOs Pirates-Thema (1989) führte Minifiguren mit detailliert bedruckten Gesichtern und abnehmbarem Zubehör ein",
+      "system": "toys",
+      "rom": "lego"
+    },
+    {
+      "id": "toy_216",
+      "text": "Die Teenage Mutant Ninja Turtles-Actionfiguren wurden bewusst mit übertriebenen Merkmalen gestaltet",
+      "system": "toys",
+      "rom": "tmnt"
+    },
+    {
+      "id": "toy_217",
+      "text": "Mattels He-Man Jet Sled war eines der günstigsten und beliebtesten He-Man-Zubehörteile",
+      "system": "toys",
+      "rom": "he_man"
+    },
+    {
+      "id": "toy_218",
+      "text": "Das Cobra Terrordrome, 1986 erschienen, war G.I. Joes größtes Cobra-Hauptquartier-Spielset mit funktionierendem Aufzug",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_219",
+      "text": "Kenners Jurassic Park-Spielzeuglinie, zeitgleich mit dem Film 1993 eingeführt, brachte das 'Dino Damage'-Feature",
+      "system": "toys",
+      "rom": "jurassic_park_toys"
+    },
+    {
+      "id": "toy_220",
+      "text": "Das Fisher-Price Activity Center (1972) hatte Knöpfe, Drehregler und Spiegel zur Förderung der Säuglingsentwicklung",
+      "system": "toys",
+      "rom": "fisher_price"
+    },
+    {
+      "id": "toy_221",
+      "text": "Wham-O verkaufte in nur vier Monaten nach der Einführung 1958 25 Millionen Hula Hoops",
+      "system": "toys",
+      "rom": "hula_hoop"
+    },
+    {
+      "id": "toy_222",
+      "text": "Spirograph wurde vom britischen Ingenieur Denys Fisher erfunden und 1965 auf der Nürnberger Spielwarenmesse vorgestellt",
+      "system": "toys",
+      "rom": "spirograph"
+    },
+    {
+      "id": "toy_223",
+      "text": "Tonka-Trucks, 1947 eingeführt, waren darauf ausgelegt, praktisch unzerstörbar zu sein",
+      "system": "toys",
+      "rom": "tonka"
+    },
+    {
+      "id": "toy_224",
+      "text": "Tonkas Mighty Dump Truck aus Stahl wurde einer der haltbarsten und bekanntesten Spielzeug-Trucks aller Zeiten",
+      "system": "toys",
+      "rom": "tonka"
+    },
+    {
+      "id": "toy_225",
+      "text": "Das Atari Mindlink (angekündigt 1984, nie erschienen) war ein Stirnband-Controller, der Muskelbewegungen nahe den Schläfen auslas",
+      "system": "toys",
+      "rom": "atari_mindlink"
+    },
+    {
+      "id": "toy_226",
+      "text": "Electronic Battleship (1977) war die erste Battleship-Version mit Tönen und elektronischem Feedback für Treffer und Fehlschüsse",
+      "system": "toys",
+      "rom": "battleship"
+    },
+    {
+      "id": "toy_227",
+      "text": "Boggle (1972) forderte Spieler auf, in einem geschüttelten 4x4-Buchstabengitter Wörter zu finden — längere Wörter brachten mehr Punkte",
+      "system": "toys",
+      "rom": "boggle"
+    },
+    {
+      "id": "toy_228",
+      "text": "Othello (Mattel, 1975), basierend auf dem älteren Spiel Reversi, hat einfache Regeln, aber tiefe Strategie — leicht gelernt, schwer gemeistert",
+      "system": "toys",
+      "rom": "othello"
+    },
+    {
+      "id": "toy_229",
+      "text": "Speak & Math, 1980 von Texas Instruments eingeführt, übertrug die Speak & Spell-Formel auf Rechenaufgaben",
+      "system": "toys",
+      "rom": "speak_spell"
+    },
+    {
+      "id": "toy_230",
+      "text": "Hasbros Transformers Pretenders, 1988 eingeführt, versteckten die Roboterform in menschlichen oder monströsen Außenhüllen",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_231",
+      "text": "Der originale TMNT-Comic von Eastman und Laird (1984) war ein schwarzweißer Indie-Titel mit einer Auflage von nur 3.000 Exemplaren",
+      "system": "toys",
+      "rom": "tmnt"
+    },
+    {
+      "id": "toy_232",
+      "text": "LJNs WWF-Ringerfiguren bestanden aus dichtem Massivgummi, 'Flexies' genannt, und waren dadurch nahezu unzerstörbar",
+      "system": "toys",
+      "rom": "wwf_toys"
+    },
+    {
+      "id": "toy_233",
+      "text": "Der G.I. Joe Skystriker-Jet, basierend auf der F-14 Tomcat, war eines der größten und detailliertesten Fahrzeuge der Linie",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_234",
+      "text": "Die Mode- und Karrierevielfalt der originalen Barbie war bahnbrechend für ihre Zeit",
+      "system": "toys",
+      "rom": "barbie"
+    },
+    {
+      "id": "toy_235",
+      "text": "Kenners Alien-Figur (1979) wurde zurückgerufen, nachdem Eltern klagten, der 45-cm-Xenomorph sei zu beängstigend für ein Kinderspielzeug",
+      "system": "toys",
+      "rom": "alien_toy"
+    },
+    {
+      "id": "toy_236",
+      "text": "Hot Wheels' Highway 35-Sets führten motorisierte Abschüsse und magnetische Schienensegmente ein, die Autos auf Vertikalstrecken hielten",
+      "system": "toys",
+      "rom": "hot_wheels"
+    },
+    {
+      "id": "toy_237",
+      "text": "Kenners Spirograph Deluxe-Set der 1980er hatte eine motorisierte Drehteller-Option, die Muster rotieren lassen konnte",
+      "system": "toys",
+      "rom": "spirograph"
+    },
+    {
+      "id": "toy_238",
+      "text": "Kenners Death Star Space Station-Spielset (1978) hatte einen funktionierenden Müllpresser",
+      "system": "toys",
+      "rom": "star_wars_toys"
+    },
+    {
+      "id": "toy_239",
+      "text": "Das Tyco Rebound RC-Auto (1987) hatte vier unabhängig gelagerte Räder auf Federarmen",
+      "system": "toys",
+      "rom": "rc_cars"
+    },
+    {
+      "id": "toy_240",
+      "text": "Micro Machines City-Spielsets (1989) waren maßstabsgetreue Miniatur-Dioramen für Galoobs winzige Druckguss-Autolinien",
+      "system": "toys",
+      "rom": "micro_machines"
+    },
+    {
+      "id": "toy_241",
+      "text": "Die Barbie Corvette, erstmals 1976 erschienen, war eines der ikonischsten Zubehörteile der Barbie-Spielzeuglinie",
+      "system": "toys",
+      "rom": "barbie"
+    },
+    {
+      "id": "toy_242",
+      "text": "Das MASK Boulder Hill-Spielset von Kenner (1985) war das zentrale Hauptquartier der M.A.S.K.-Spielzeuglinie",
+      "system": "toys",
+      "rom": "mask"
+    },
+    {
+      "id": "toy_243",
+      "text": "Das TMNT Technodrome (1989) war die Schurken-Basis und eines der aufwendigsten Spielsets der Ninja Turtles-Linie",
+      "system": "toys",
+      "rom": "tmnt"
+    },
+    {
+      "id": "toy_244",
+      "text": "He-Mans Battle Cat — Cringer verwandelt in Battle Cat — war eines der ersten großen Begleiertier-Spielzeuge",
+      "system": "toys",
+      "rom": "he_man"
+    },
+    {
+      "id": "toy_245",
+      "text": "G.I. Joes Sergeant Slaughter, 1985 eingeführt, war dem echten gleichnamigen Profi-Wrestler nachempfunden",
+      "system": "toys",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "toy_246",
+      "text": "Der LEGO Technic Pneumatik-Kran (1986) nutzte Druckluftschläuche zum Betrieb eines funktionierenden Kranmechanismus",
+      "system": "toys",
+      "rom": "lego"
+    },
+    {
+      "id": "toy_247",
+      "text": "Der Atari 5200 (1982) litt unter seinen nicht selbstzentrierenden Analogcontrollern, die ständige Neukalibrierung erforderten",
+      "system": "toys",
+      "rom": "atari_5200"
+    },
+    {
+      "id": "toy_248",
+      "text": "Colorforms, 1951 erfunden, nutzten statisch haftende Vinylteile, die auf einem glatten Kartenhintergrund klebten",
+      "system": "toys",
+      "rom": "colorforms"
+    },
+    {
+      "id": "toy_249",
+      "text": "Die Crayola 64-Buntstiftschachtel, 1958 eingeführt, wurde ein kulturelles Symbol kindlicher Kreativität",
+      "system": "toys",
+      "rom": "crayola"
+    },
+    {
+      "id": "toy_250",
+      "text": "Crayola strich 1962 die Farbe 'Flesh', nachdem die Bürgerrechtsbewegung auf ihre Annahme über Hautfarbe hingewiesen hatte",
+      "system": "toys",
+      "rom": "crayola"
+    },
+    {
+      "id": "toy_251",
+      "text": "Der Nintendo R.O.B. (Robotic Operating Buddy) wurde 1985 mit dem NES in Nordamerika eingeführt — vor allem als Marketingstrategie",
+      "system": "toys",
+      "rom": "nes_rob"
+    },
+    {
+      "id": "toy_252",
+      "text": "Matchbox-Autos, 1953 von Lesney Products eingeführt, passten in eine Streichholzschachtel und wurden zum weltweiten Spielzeugphänomen",
+      "system": "toys",
+      "rom": "matchbox"
+    },
+    {
+      "id": "toy_253",
+      "text": "Die ColecoVision, 1982 eingeführt, bot nahezu arcade-treue Heimversionen von Donkey Kong und Zaxxon",
+      "system": "toys",
+      "rom": "colecovision"
+    },
+    {
+      "id": "toy_254",
+      "text": "View-Master Interactive Vision (1988) kombinierte VHS-Kassetten mit dem klassischen Betrachter für interaktive Filmerlebnisse",
+      "system": "toys",
+      "rom": "view_master"
+    },
+    {
+      "id": "toy_255",
+      "text": "Das Sega Master System (1986) war technisch dem NES überlegen, wurde aber durch Nintendos exklusive Drittanbieter-Lizenzverträge erdrückt",
+      "system": "toys",
+      "rom": "sega_master"
+    },
+    {
+      "id": "toy_256",
+      "text": "Die TurboGrafx-16, 1989 von NEC eingeführt, positionierte sich als 16-Bit-Konkurrent zur Sega Genesis in Nordamerika",
+      "system": "toys",
+      "rom": "turbografx"
+    },
+    {
+      "id": "toy_257",
+      "text": "Tiger Electronics' LCD-Handheldspiele der späten 1980er und frühen 1990er waren günstige Alternativen zum Game Boy",
+      "system": "toys",
+      "rom": "tiger_electronics"
+    },
+    {
+      "id": "toy_258",
+      "text": "Der Sega Game Gear, 1990 eingeführt, war ein Farb-Handheld, der direkt mit dem Game Boy konkurrierte",
+      "system": "toys",
+      "rom": "game_gear"
+    },
+    {
+      "id": "toy_259",
+      "text": "Hasbros Nerf Turbo-Football wurde 1989 als offiziell lizenzierter Schaumstoff-Football eingeführt",
+      "system": "toys",
+      "rom": "nerf"
+    },
+    {
+      "id": "toy_260",
+      "text": "Mighty Max (1992) hatte Schädelkapseln, die sich zu detaillierten Monsterumgebungen mit Mikrofiguren im Kampf gegen Horrorkreaturen öffneten",
+      "system": "toys",
+      "rom": "mighty_max"
+    },
+    {
+      "id": "toy_261",
+      "text": "Polly Pocket, 1989 von Bluebird eingeführt, war ein kompaktes Puppenhaus, das in eine Kindertasche passte",
+      "system": "toys",
+      "rom": "polly_pocket"
+    },
+    {
+      "id": "toy_262",
+      "text": "Der Creepy Crawlers Thingmaker (1964) ermöglichte Kindern, Plastigoop in Metallformen zu gießen und gummiartige Insekten zu backen",
+      "system": "toys",
+      "rom": "creepy_crawlers"
+    },
+    {
+      "id": "toy_263",
+      "text": "Kenners Blythe-Puppe (1972) hatte Augen, die sich beim Ziehen an einem Faden verfärbten — ein Mechanismus, der damals unheimlich wirkte",
+      "system": "toys",
+      "rom": "blythe_doll"
+    },
+    {
+      "id": "toy_264",
+      "text": "Transformers Generation 2 (1993) brachte klassische G1-Figuren in kräftigen neuen Farbgebungen und neuen Formen neu heraus",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_265",
+      "text": "LJNs Advanced D&D-Spielzeuglinie (1983) produzierte detaillierte 9,5-cm-Figuren ikonischer Monster, darunter Oger",
+      "system": "toys",
+      "rom": "dnd_toys"
+    },
+    {
+      "id": "toy_266",
+      "text": "Big Trak (1979) war ein programmierbares Spielzeugfahrzeug, das bis zu 16 Fahrbefehle über seine eingebaute Tastatur annahm",
+      "system": "toys",
+      "rom": "big_trak"
+    },
+    {
+      "id": "toy_267",
+      "text": "Kenners Six Million Dollar Man-Figur (1975) hatte einen aufklappbaren Arm mit bionischen Teilen und einen Rückenknopf für eine bionische Augenlinse",
+      "system": "toys",
+      "rom": "six_million_dollar_man"
+    },
+    {
+      "id": "toy_268",
+      "text": "LEGO Bionicle (2001) führte eine tiefe Mythologie in die Spielzeuglinie ein und half dabei, LEGOs rückläufige Umsätze umzukehren",
+      "system": "toys",
+      "rom": "lego"
+    },
+    {
+      "id": "toy_269",
+      "text": "Hasbros My Little Pony G3-Neugestaltung 2003 veränderte die Proportionen der Ponys erheblich",
+      "system": "toys",
+      "rom": "my_little_pony"
+    },
+    {
+      "id": "toy_270",
+      "text": "Die Beliebtheit des Slinkys ist so anhaltend, dass Pennsylvania ihn 1999 zum offiziellen Staatsspielzeug erklärte",
+      "system": "toys",
+      "rom": "slinky"
+    },
+    {
+      "id": "toy_271",
+      "text": "Incredible Edibles (1967) ermöglichte Kindern, essbare Süßigkeiten-Insekten mit Gummiformem und Gobble De Goop-Zuckermischung herzustellen",
+      "system": "toys",
+      "rom": "incredible_edibles"
+    },
+    {
+      "id": "toy_272",
+      "text": "Kenners Close 'N Play (1968) war ein tragbarer Kinderschallplattenspieler mit eingebautem Griff",
+      "system": "toys",
+      "rom": "kenner_close_n_play"
+    },
+    {
+      "id": "toy_273",
+      "text": "Hasbros Mr. Potato Head, 1952 eingeführt, war das erste Spielzeug, das im Fernsehen beworben wurde",
+      "system": "toys",
+      "rom": "mr_potato_head"
+    },
+    {
+      "id": "toy_274",
+      "text": "Mr. Potato Heads Auftritt in Toy Story (1995) kurbelte die Verkäufe des Spielzeugs für eine neue Generation deutlich an",
+      "system": "toys",
+      "rom": "mr_potato_head"
+    },
+    {
+      "id": "toy_275",
+      "text": "Hasbros Transformers Universe (2003) nutzte Takara-Formen, um G1-Charaktere zurückzubringen, die über ein Jahrzehnt nicht erhältlich waren",
+      "system": "toys",
+      "rom": "transformers"
+    },
+    {
+      "id": "toy_276",
+      "text": "Tigers Skip-It (1992) zählte Sprünge per Knöchelzähler und wurde zu einem der meistverkauften Outdoor-Spielzeuge der 1990er",
+      "system": "toys",
+      "rom": "skip_it"
+    },
+    {
+      "id": "toy_277",
+      "text": "Das Pokemon-Sammelkartenspiel wurde 1998 gleichzeitig mit den Game Boy-Spielen in Nordamerika eingeführt",
+      "system": "toys",
+      "rom": "pokemon_cards"
+    },
+    {
+      "id": "toy_278",
+      "text": "Die erste auf Englisch gedruckte Pokemon-Karte war ein holografisches Machamp im Starterdeck des Grundsets",
+      "system": "toys",
+      "rom": "pokemon_cards"
+    },
+    {
+      "id": "toy_279",
+      "text": "Der Beanie Babies-Boom wurde durch Ty Warners bewusste Knappheitsstrategie angeheizt: Das Einstellen beliebter Designs trieb die Preise in die Höhe",
+      "system": "toys",
+      "rom": "beanie_babies"
+    },
+    {
+      "id": "toy_280",
+      "text": "Die Beanie Babies-Blase platzte im Dezember 1999, als Ty Warner die Einstellung der Produktlinie ankündigte und den Sammlermarkt zum Einbruch brachte",
+      "system": "toys",
+      "rom": "beanie_babies"
+    },
+    {
+      "id": "toy_281",
+      "text": "Hasbros Spirograph-Set enthielt geometrische Designscheiben verschiedener Größen, die unterschiedliche Kurvenfamilien erzeugten",
+      "system": "toys",
+      "rom": "spirograph"
+    },
+    {
+      "id": "toy_282",
+      "text": "Moon Shoes — kleine Trampolins an jedem Fuß — waren ein beliebtes 1990er-Spielzeug, mit dem man beim Gehen hüpfen konnte",
+      "system": "toys",
+      "rom": "moon_shoes"
+    },
+    {
+      "id": "toy_283",
+      "text": "Der Barbie Styling Head, in den 1980ern eingeführt, war ein Büstenspielzeug zum Schminken und Frisieren von Barbies Haaren",
+      "system": "toys",
+      "rom": "barbie"
+    },
+    {
+      "id": "toy_284",
+      "text": "Das He-Man Fright Zone-Spielset (1985) war das Horde-Schurken-HQ in einer Sumpfumgebung mit einer Tentakel-Falle",
+      "system": "toys",
+      "rom": "he_man"
+    },
+    {
+      "id": "toy_285",
+      "text": "Care Bears, 1981 von American Greetings eingeführt, wurden zu einer der meistlizenzierten Spielzeugfranchises der 1980er Jahre",
+      "system": "toys",
+      "rom": "care_bears"
+    },
+    {
+      "id": "toy_286",
+      "text": "Der Atari Jaguar, 1993 eingeführt, wurde als erste 64-Bit-Spielekonsole vermarktet",
+      "system": "toys",
+      "rom": "atari_jaguar"
+    },
+    {
+      "id": "toy_287",
+      "text": "Die 3DO Interactive Multiplayer, 1993 für 699 $ eingeführt, war der teuerste Konsolenstart bis dahin und scheiterte kommerziell",
+      "system": "toys",
+      "rom": "3do"
+    },
+    {
+      "id": "toy_288",
+      "text": "Segas 32X-Erweiterung für die Genesis, 1994 erschienen, sollte die Genesis ins 32-Bit-Zeitalter verlängern",
+      "system": "toys",
+      "rom": "sega_32x"
+    },
+    {
+      "id": "toy_289",
+      "text": "Wham-Os Water Wiggle (1962) war eine Gartenschlauch-Düse, die sich unvorhersehbar hin- und herschlang",
+      "system": "toys",
+      "rom": "water_wiggle"
+    },
+    {
+      "id": "toy_290",
+      "text": "Die Sega Genesis wurde 1989 in Nordamerika mit dem Slogan 'Genesis does what Nintendon't' eingeführt",
+      "system": "toys",
+      "rom": "sega_genesis"
+    },
+    {
+      "id": "toy_291",
+      "text": "Creepy Crawlers von Mattel (1964) ermöglichten Kindern, flexible Plastikinsekten in einem heißen 'Thingmaker'-Ofen zu backen",
+      "system": "toys",
+      "rom": "creepy_crawlers"
+    },
+    {
+      "id": "toy_292",
+      "text": "Shrinky Dinks (1973) nutzten Polystyrol-Folien, die im Backofen stark schrumpften und aushärteten",
+      "system": "toys",
+      "rom": "shrinky_dinks"
+    },
+    {
+      "id": "toy_293",
+      "text": "Hasbros Monopoly ist seit 1935 ununterbrochen in Produktion und ist das meistverkaufte Brettspiel der Geschichte",
+      "system": "toys",
+      "rom": "monopoly"
+    },
+    {
+      "id": "toy_294",
+      "text": "Mattels UNO-Kartenspiel wurde 1971 von Merle Robbins erfunden und von seinem Friseursalon aus selbst verlegt",
+      "system": "toys",
+      "rom": "uno"
+    },
+    {
+      "id": "toy_295",
+      "text": "Der Magic 8-Ball wurde von Albert Carter erfunden und 1946 von Alabe Crafts vermarktet",
+      "system": "toys",
+      "rom": "magic_8ball"
+    },
+    {
+      "id": "toy_296",
+      "text": "Kenners Alien 3-Spielzeuglinie (1993) war bemerkenswert, weil sie Xenomorph-Figuren aus einem Horrorfilm für Erwachsene verkaufte",
+      "system": "toys",
+      "rom": "alien_toy"
+    },
+    {
+      "id": "toy_297",
+      "text": "Die Galoob Baby Alive-Puppe, 1973 eingeführt, war eine der ersten Puppen, die essen und Abfall produzieren konnte",
+      "system": "toys",
+      "rom": "baby_alive"
+    },
+    {
+      "id": "toy_298",
+      "text": "Hasbros Scrabble, 1986 von Selchow & Righter übernommen, ist eines der langlebigsten Wortspiele überhaupt",
+      "system": "toys",
+      "rom": "scrabble"
+    },
+    {
+      "id": "toy_299",
+      "text": "Der rote Radio Flyer-Wagen, erstmals 1917 von Antonio Pasin hergestellt, wurde zur amerikanischen Ikone der Kindheit",
+      "system": "toys",
+      "rom": "radio_flyer"
+    },
+    {
+      "id": "toy_300",
+      "text": "Toys R Us, 1948 als Babyausstattungsgeschäft gegründet, wechselte 1957 zu Spielzeug und dominierte den Handel jahrzehntelang",
+      "system": "toys",
+      "rom": "toys_r_us"
+    }
+  ]
+}

@@ -1,0 +1,1805 @@
+{
+  "category": "console",
+  "facts": [
+    {
+      "id": "con_002",
+      "text": "Combat war das Beilagespiel des Atari 2600 beim Launch 1977 und bot 27 Spielvarianten auf einer einzigen Cartridge",
+      "system": "atari2600",
+      "rom": "combat"
+    },
+    {
+      "id": "con_003",
+      "text": "Pitfall! für den Atari 2600 verkaufte sich über 4 Millionen Mal und war eines der ersten echten Action-Adventure-Spiele",
+      "system": "atari2600",
+      "rom": "pitfall"
+    },
+    {
+      "id": "con_005",
+      "text": "E.T. the Extra-Terrestrial-Cartridges wurden 1983 berühmt-berüchtigt in einer Mülldeponie in New Mexico vergraben",
+      "system": "atari2600",
+      "rom": "et"
+    },
+    {
+      "id": "con_007",
+      "text": "Crash Bandicoot nutzte eine Streaming-Technik, um Level ohne sichtbare Ladebildschirme zu laden",
+      "system": "psx",
+      "rom": "crash_bandicoot"
+    },
+    {
+      "id": "con_009",
+      "text": "Lara Croft in Tomb Raider war ursprünglich als männlicher Archäologe geplant, bevor das Team zu einer weiblichen Hauptfigur wechselte",
+      "system": "psx",
+      "rom": "tomb_raider"
+    },
+    {
+      "id": "con_013",
+      "text": "Alien vs. Predator für den Jaguar wurde als einer der besten First-Person-Shooter des Jahres 1994 gelobt",
+      "system": "atarijaguar",
+      "rom": "alien_vs_predator"
+    },
+    {
+      "id": "con_016",
+      "text": "Der Atari 2600 kostete 1977 beim Launch 199 Dollar — das entspricht heute über 900 Dollar und war eine erhebliche Investition",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "con_018",
+      "text": "Mega Man 2 wurde von Capcom abgelehnt, deshalb entwickelte das Team es in der Freizeit — es wurde der meistverkaufte Teil der Reihe",
+      "system": "nes",
+      "rom": "megaman2"
+    },
+    {
+      "id": "con_019",
+      "text": "Der Konami-Code debütierte in Gradius auf dem NES mit vollen Power-ups — er wurde zum bekanntesten Cheat-Code der Spielgeschichte",
+      "system": "nes",
+      "rom": "gradius"
+    },
+    {
+      "id": "con_020",
+      "text": "EarthBound für das SNES enthielt aggressiven Kopierschutz, der das Spiel kurz vor dem Endboss zum Absturz brachte",
+      "system": "snes",
+      "rom": "earthbound"
+    },
+    {
+      "id": "con_021",
+      "text": "Star Fox nutzte den Super-FX-Chip — einen im Cartridge integrierten Grafikprozessor — um 3D-Polygone darzustellen",
+      "system": "snes",
+      "rom": "starfox"
+    },
+    {
+      "id": "con_022",
+      "text": "Donkey Kong Country nutzte vorgerenderte 3D-Grafik, die auf 16-Bit-Hardware einzigartig aussah",
+      "system": "snes",
+      "rom": "donkey_kong_country"
+    },
+    {
+      "id": "con_023",
+      "text": "Die SNES-Version von Mortal Kombat ersetzte Blut durch grauen Schweiß und veränderte die Fatalities",
+      "system": "snes",
+      "rom": "mortal_kombat"
+    },
+    {
+      "id": "con_024",
+      "text": "Das Ringmenü von Secret of Mana konnte mitten im Kampf geöffnet werden",
+      "system": "snes",
+      "rom": "secret_of_mana"
+    },
+    {
+      "id": "con_025",
+      "text": "Chrono Trigger bot 13 verschiedene Enden, je nachdem wann und wie der Spieler den Endboss besiegte",
+      "system": "snes",
+      "rom": "chrono_trigger"
+    },
+    {
+      "id": "con_028",
+      "text": "Sonic & Knuckles nutzte Lock-on-Technologie, um sich physisch mit Sonic 2 oder 3 zu verbinden und erweiterte Inhalte freizuschalten",
+      "system": "genesis",
+      "rom": "sonic_and_knuckles"
+    },
+    {
+      "id": "con_030",
+      "text": "NBA Jam auf dem Genesis enthielt versteckte freischaltbare Charaktere, darunter Bill Clinton und die Beastie Boys",
+      "system": "genesis",
+      "rom": "nba_jam"
+    },
+    {
+      "id": "con_032",
+      "text": "GoldenEye 007 wurde von einem Team ohne jegliche vorherige Spielentwicklungserfahrung entwickelt",
+      "system": "n64",
+      "rom": "goldeneye_007"
+    },
+    {
+      "id": "con_033",
+      "text": "Das Z-Targeting-System in Ocarina of Time war so einflussreich, dass es zum Standard für 3D-Action-Adventure-Spiele wurde",
+      "system": "n64",
+      "rom": "ocarina_of_time"
+    },
+    {
+      "id": "con_035",
+      "text": "Conker's Bad Fur Day auf dem N64 war ursprünglich als familienfreundlicher Plattformer geplant, bevor er komplett überarbeitet wurde",
+      "system": "n64",
+      "rom": "conkers_bad_fur_day"
+    },
+    {
+      "id": "con_036",
+      "text": "Shenmue war das teuerste Videospiel aller Zeiten zum Zeitpunkt seiner Veröffentlichung 1999",
+      "system": "dreamcast",
+      "rom": "shenmue"
+    },
+    {
+      "id": "con_037",
+      "text": "Seaman für den Dreamcast nutzte das Mikrofon-Zubehör und Spracherkennung, damit Spieler echte Gespräche führen konnten",
+      "system": "dreamcast",
+      "rom": "seaman"
+    },
+    {
+      "id": "con_038",
+      "text": "Jet Set Radio war eines der ersten Spiele, das Cel-Shading für einen stilisierten animierten Look in 3D einsetzte",
+      "system": "dreamcast",
+      "rom": "jet_set_radio"
+    },
+    {
+      "id": "con_040",
+      "text": "Power Stone auf dem Dreamcast begründete das Arena-Brawler-Genre und beeinflusste Spiele wie Super Smash Bros",
+      "system": "dreamcast",
+      "rom": "power_stone"
+    },
+    {
+      "id": "con_042",
+      "text": "Shadow of the Colossus hatte nur 16 Gegner in der gesamten Spielwelt — jeder ein vollständiges Umgebungsrätsel",
+      "system": "ps2",
+      "rom": "shadow_of_the_colossus"
+    },
+    {
+      "id": "con_043",
+      "text": "Guitar Hero erschien 2005 auf der PS2 und machte das Plastik-Instrument-Genre populär, das Wohnzimmer jahrelang beherrschte",
+      "system": "ps2",
+      "rom": "guitar_hero"
+    },
+    {
+      "id": "con_044",
+      "text": "Das 32X wurde als kostengünstiges Upgrade der Genesis für 32-Bit-Gaming vermarktet, aber innerhalb eines Jahres aufgegeben, als Sega die Saturn voreilig auf den Markt brachte",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "con_046",
+      "text": "Panzer Dragoon Saga ist eines der seltensten Saturn-Spiele — nur 6.000 Exemplare wurden in Nordamerika gedruckt",
+      "system": "saturn",
+      "rom": "panzer_dragoon_saga"
+    },
+    {
+      "id": "con_048",
+      "text": "Guardian Heroes auf dem Saturn bot eine verzweigte Geschichte und Kämpfe mit Dutzenden Feinden gleichzeitig auf dem Bildschirm",
+      "system": "saturn",
+      "rom": "guardian_heroes"
+    },
+    {
+      "id": "con_049",
+      "text": "Radiant Silvergun für Saturn gilt als einer der größten Shoot-em-ups aller Zeiten und erzielt hohe Sammlerpreise",
+      "system": "saturn",
+      "rom": "radiant_silvergun"
+    },
+    {
+      "id": "con_050",
+      "text": "Dragon Force auf dem Saturn bot Schlachten mit bis zu 100 gleichzeitig kämpfenden Soldaten auf dem Bildschirm",
+      "system": "saturn",
+      "rom": "dragon_force"
+    },
+    {
+      "id": "con_053",
+      "text": "Fatal Fury führte ein Zweiebenenkampfsystem ein, in dem Charaktere zwischen Vorder- und Hintergrund ausweichen konnten",
+      "system": "neogeo",
+      "rom": "fatal_fury"
+    },
+    {
+      "id": "con_062",
+      "text": "Die PlayStation 2 blieb bis Januar 2013 in Produktion — die längste Produktionsdauer jeder Heimkonsole überhaupt, über 12 Jahre",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "con_064",
+      "text": "Castlevania: Aria of Sorrow führte das Seelensystem ein, mit dem Spieler Fähigkeiten von Feinden als Power-ups absorbieren konnten",
+      "system": "gba",
+      "rom": "aria_of_sorrow"
+    },
+    {
+      "id": "con_067",
+      "text": "Crisis Core: Final Fantasy VII für die PSP fungierte als Prequel zum PS1-Klassiker und wurde weltweit hochgelobt",
+      "system": "psp",
+      "rom": "crisis_core"
+    },
+    {
+      "id": "con_069",
+      "text": "Lumines war das Killer-App des PSP-Launches — ein musikbasiertes Puzzlespiel von Rez-Schöpfer Tetsuya Mizuguchi",
+      "system": "psp",
+      "rom": "lumines"
+    },
+    {
+      "id": "con_070",
+      "text": "Monster Hunter wurde auf der PSP in Japan zum Kulturphänomen und machte lokales WLAN-Multiplayer in Cafés und Zügen populär",
+      "system": "psp",
+      "rom": "monster_hunter"
+    },
+    {
+      "id": "con_073",
+      "text": "Road Rash auf der 3DO enthielt Vollbewegungsvideo-Zwischensequenzen und galt als Vorzeige-Titel des Systems",
+      "system": "3do",
+      "rom": "road_rash"
+    },
+    {
+      "id": "con_080",
+      "text": "Elite auf dem C64 nutzte prozedurale Generierung, um eine Galaxie mit 256 Sternsystemen in minimalem Speicher zu erschaffen",
+      "system": "c64",
+      "rom": "elite"
+    },
+    {
+      "id": "con_086",
+      "text": "Die ColecoVision wurde mit Donkey Kong als Beilagespiel auf den Markt gebracht",
+      "system": "coleco",
+      "rom": "donkey_kong"
+    },
+    {
+      "id": "con_089",
+      "text": "Zaxxon auf der ColecoVision war einer der ersten Heimports eines isometrischen Arkade-Spiels und zeigte die Stärke der Konsole",
+      "system": "coleco",
+      "rom": "zaxxon"
+    },
+    {
+      "id": "con_104",
+      "text": "Bonk's Adventure war das Maskottchen-Spiel des TurboGrafx-16",
+      "system": "pcengine",
+      "rom": "bonks_adventure"
+    },
+    {
+      "id": "con_109",
+      "text": "Alex Kidd in Miracle World war in viele Master System-Konsolen als Beilagespiel integriert",
+      "system": "mastersystem",
+      "rom": "alex_kidd"
+    },
+    {
+      "id": "con_111",
+      "text": "Die originale Xbox war die erste Konsole mit integrierter Festplatte — für Spielstände, eigene Soundtracks und Updates ohne Speicherkarten",
+      "system": "microsoft_xbox",
+      "rom": "default"
+    },
+    {
+      "id": "con_112",
+      "text": "Sonic CD führte Zeitreise als zentrale Spielmechanik ein und gilt für viele als das beste Sonic-Spiel überhaupt",
+      "system": "segacd",
+      "rom": "sonic_cd"
+    },
+    {
+      "id": "con_113",
+      "text": "Snatcher, Hideo Kojimas cyberpunkiger Abenteuerroman, erschien auf der Sega CD und ist heute extrem selten und wertvoll",
+      "system": "segacd",
+      "rom": "snatcher"
+    },
+    {
+      "id": "con_119",
+      "text": "Doom für das 32X war ein Aushängeschild-Titel, galt aber aufgrund fehlender Level und Musik als schwächer als die PC-Version",
+      "system": "sega32x",
+      "rom": "doom"
+    },
+    {
+      "id": "con_122",
+      "text": "Metroid Prime wurde von Retro Studios entwickelt und erhielt nahezu perfekte Bewertungen — der Beweis, dass eine 2D-Reihe nahtlos in die Ego-Perspektive wechseln kann",
+      "system": "nintendo_gamecube",
+      "rom": "metroid_prime"
+    },
+    {
+      "id": "con_123",
+      "text": "Die Wii U verkaufte sich schlecht, weil viele Verbraucher das GamePad für ein Wii-Zubehör statt für eine neue eigenständige Konsole hielten",
+      "system": "nintendo_wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "con_128",
+      "text": "Pokemon Gold und Silver nutzten den GBC so weitgehend aus, dass die Entwickler heimlich die gesamte Kanto-Region als Post-Game-Bonus einbauten",
+      "system": "gbc",
+      "rom": "pokemon_gold"
+    },
+    {
+      "id": "con_130",
+      "text": "Dragon Warrior Monsters für den GBC war ein überraschender Hit, der eine langlebige Monster-Collecting-Spin-off-Reihe begründete",
+      "system": "gbc",
+      "rom": "dragon_warrior_monsters"
+    },
+    {
+      "id": "con_139",
+      "text": "Final Fantasy I bis VI wurden alle exklusiv für den WonderSwan Color in Japan neu aufgelegt",
+      "system": "wonderswancolor",
+      "rom": "final_fantasy"
+    },
+    {
+      "id": "con_143",
+      "text": "SNK vs. Capcom: Card Fighters Clash war ein Kartenstrategiespiel für den NGPC und vereinte Charaktere beider Firmen",
+      "system": "ngpc",
+      "rom": "snk_vs_capcom"
+    },
+    {
+      "id": "con_149",
+      "text": "Wario Land galt als der stärkste Titel des Virtual Boy",
+      "system": "virtualboy",
+      "rom": "wario_land"
+    },
+    {
+      "id": "con_152",
+      "text": "New Super Mario Bros. war beim Launch auf dem DS 2006 der erste neue 2D-Mario-Plattformer seit über einem Jahrzehnt",
+      "system": "nintendo_ds",
+      "rom": "new_super_mario_bros"
+    },
+    {
+      "id": "con_153",
+      "text": "Das DS-Mikrofon wurde in Nintendogs kreativ eingesetzt — Spieler konnten ihren Hund beim Namen rufen",
+      "system": "nintendo_ds",
+      "rom": "nintendogs"
+    },
+    {
+      "id": "con_155",
+      "text": "Brain Age auf dem DS wurde zum überraschenden Phänomen, sprach ältere Zielgruppen an und verkaufte sich über 19 Millionen Mal",
+      "system": "nintendo_ds",
+      "rom": "brain_age"
+    },
+    {
+      "id": "con_157",
+      "text": "Fire Emblem Awakening sollte bei schlechten Verkäufen der letzte Teil sein — sein Erfolg rettete die Reihe und löste eine weltweite Wiedergeburt aus",
+      "system": "nintendo_3ds",
+      "rom": "fire_emblem_awakening"
+    },
+    {
+      "id": "con_162",
+      "text": "Halo: Combat Evolved wurde als Launch-Titel konzipiert, um die Xbox zu präsentieren, und prägte die Konsole maßgeblich",
+      "system": "microsoft_xbox",
+      "rom": "halo"
+    },
+    {
+      "id": "con_167",
+      "text": "Wii Sports lag der Wii in Nordamerika bei und wurde das meistverkaufte Wii-Spiel aller Zeiten",
+      "system": "nintendo_wii",
+      "rom": "wii_sports"
+    },
+    {
+      "id": "con_175",
+      "text": "Pole Position war einer der beliebtesten Titel für den Atari 5200 und bot eine beeindruckende Fahrsimulation",
+      "system": "atari5200",
+      "rom": "pole_position"
+    },
+    {
+      "id": "con_179",
+      "text": "Commando war einer der gelobtesten Arcade-Ports für den Atari 7800, der das Spielhallenspiel sehr originalgetreu umsetzte",
+      "system": "atari7800",
+      "rom": "commando"
+    },
+    {
+      "id": "con_185",
+      "text": "LittleBigPlanet war Vorreiter für nutzergenerierte Inhalte auf Konsolen in großem Maßstab",
+      "system": "sony_playstation_3",
+      "rom": "littlebigplanet"
+    },
+    {
+      "id": "con_188",
+      "text": "Splatoon debütierte 2015 auf der Wii U und war Nintendos erste erfolgreiche neue Haupt-IP seit vielen Jahren",
+      "system": "nintendo_wii_u",
+      "rom": "splatoon"
+    },
+    {
+      "id": "con_190",
+      "text": "Super Smash Bros. für Wii U unterstützte simultane Kämpfe mit bis zu 8 Spielern auf großen Bühnen",
+      "system": "nintendo_wii_u",
+      "rom": "super_smash_bros_wii_u"
+    },
+    {
+      "id": "con_201",
+      "text": "Super Mario Bros. hatte eine geheime 'Minus-Welt' — Welt -1 — erreichbar durch einen Wand-Glitch in Welt 1-2",
+      "system": "nes",
+      "rom": "super_mario_bros"
+    },
+    {
+      "id": "con_202",
+      "text": "Super Mario Bros. 2 war ein Reskin von Doki Doki Panic — das japanische SMB2 wurde als zu schwer für den Westen eingestuft",
+      "system": "nes",
+      "rom": "super_mario_bros2"
+    },
+    {
+      "id": "con_203",
+      "text": "The Legend of Zelda für NES war das erste Cartridge mit einem Batteriespeicher, um den Fortschritt zwischen Sitzungen zu sichern",
+      "system": "nes",
+      "rom": "zelda"
+    },
+    {
+      "id": "con_204",
+      "text": "Metroid für NES verbarg Samus' Geschlecht — sie erschien ohne Helm nur, wenn Spieler schnell genug durchspielten",
+      "system": "nes",
+      "rom": "metroid"
+    },
+    {
+      "id": "con_205",
+      "text": "Der Konami-Code für 30 Leben in Contra ist einer der meistgemerkten Cheat-Codes der Spielgeschichte",
+      "system": "nes",
+      "rom": "contra"
+    },
+    {
+      "id": "con_206",
+      "text": "Mike Tyson's Punch-Out!! nutzte einen zweiten NES-Prozessor, der ausschließlich der Boxsimulation gewidmet war",
+      "system": "nes",
+      "rom": "mike_tysons_punchout"
+    },
+    {
+      "id": "con_207",
+      "text": "Metal Mans Sägeblatt in Mega Man 2 konnte fast jeden Boss besiegen — die stärkste Waffe der gesamten Reihe",
+      "system": "nes",
+      "rom": "megaman2"
+    },
+    {
+      "id": "con_208",
+      "text": "Der Turbo Tunnel in Battletoads wird noch immer als eines der schwersten Level genannt, die je in einem Heimkonsolenspiel erschaffen wurden",
+      "system": "nes",
+      "rom": "battletoads"
+    },
+    {
+      "id": "con_209",
+      "text": "Der Zapper in Duck Hunt erkannte Bildschirm-Blitze — direkt auf den Fernseher gehalten, konnte man alles treffen und schummeln",
+      "system": "nes",
+      "rom": "duck_hunt"
+    },
+    {
+      "id": "con_210",
+      "text": "Excitebike hatte einen eingebauten Strecken-Editor — einer der frühesten Level-Designer in einem Konsolenspiel",
+      "system": "nes",
+      "rom": "excitebike"
+    },
+    {
+      "id": "con_211",
+      "text": "Ninja Gaiden für NES gehörte zu den ersten Konsolenspielen, die filmische Zwischensequenzen zwischen Stages zur Erzählung nutzten",
+      "system": "nes",
+      "rom": "ninja_gaiden"
+    },
+    {
+      "id": "con_212",
+      "text": "Bionic Commando ist eines der wenigen NES-Spiele, in dem der Spieler nicht springen kann — der Greifhaken ersetzt diesen Sprung vollständig",
+      "system": "nes",
+      "rom": "bionic_commando"
+    },
+    {
+      "id": "con_213",
+      "text": "DuckTales auf dem NES ließ Dagobert Duck auf seinem Stock hüpfen und Schätze für ein abschließendes Reichtumsergebnis sammeln",
+      "system": "nes",
+      "rom": "ducktales"
+    },
+    {
+      "id": "con_214",
+      "text": "Tecmo Super Bowl hatte echte NFL-Spieler und -Teams und wird bis heute in kompetitiven Retro-Ligen gespielt",
+      "system": "nes",
+      "rom": "tecmo_super_bowl"
+    },
+    {
+      "id": "con_215",
+      "text": "Castlevania III fügte verzweigte Pfade und mehrere spielbare Charaktere hinzu und ging weit über den ersten Teil hinaus",
+      "system": "nes",
+      "rom": "castlevania3"
+    },
+    {
+      "id": "con_216",
+      "text": "Kirby's Adventure für NES führte die Kopierfähigkeit ein, die jeden Kirby-Teil seither prägt",
+      "system": "nes",
+      "rom": "kirbys_adventure"
+    },
+    {
+      "id": "con_217",
+      "text": "Blaster Master mischte Vogelperspektiven-Erkundung mit seitwärts scrollendem Panzer-Kampf in einem Metroidvania-Hybrid",
+      "system": "nes",
+      "rom": "blaster_master"
+    },
+    {
+      "id": "con_218",
+      "text": "Final Fantasy für NES ermöglichte es, eine Gruppe von vier Charakteren aus sechs Klassen vollständig selbst zusammenzustellen",
+      "system": "nes",
+      "rom": "final_fantasy"
+    },
+    {
+      "id": "con_219",
+      "text": "Adventures of Lolo war ein HAL-Laboratory-Puzzlespiel, das das Designdenken hinter Kirby beeinflusste",
+      "system": "nes",
+      "rom": "adventures_of_lolo"
+    },
+    {
+      "id": "con_220",
+      "text": "Castlevania II: Simon's Quest fügte einen Tag-Nacht-Zyklus und Städte hinzu — ganz anders als die lineare Struktur des Originals",
+      "system": "nes",
+      "rom": "castlevania2"
+    },
+    {
+      "id": "con_221",
+      "text": "Super Mario World führte Yoshi ein, der für das NES-Original geplant, aber wegen der Hardware-Grenzen gestrichen worden war",
+      "system": "snes",
+      "rom": "super_mario_world"
+    },
+    {
+      "id": "con_222",
+      "text": "Super Metroid wird regelmäßig als eines der größten Spiele aller Zeiten bezeichnet und perfektionierte die Metroidvania-Formel",
+      "system": "snes",
+      "rom": "super_metroid"
+    },
+    {
+      "id": "con_223",
+      "text": "F-Zero für das SNES nutzte Mode 7, um eine 3D-Rennstrecke zu simulieren, und war eines der ersten Spiele mit diesem Effekt",
+      "system": "snes",
+      "rom": "fzero"
+    },
+    {
+      "id": "con_224",
+      "text": "Street Fighter II Turbo für das SNES verkaufte sich über 6 Millionen Mal und gehörte zu den meistverkauften Titeln der Plattform",
+      "system": "snes",
+      "rom": "street_fighter_ii_turbo"
+    },
+    {
+      "id": "con_225",
+      "text": "Yoshi's Islands handgezeichneter Stil wurde in Vorschauen kritisiert, avancierte aber zu einem der meistgelobten SNES-Spiele",
+      "system": "snes",
+      "rom": "yoshis_island"
+    },
+    {
+      "id": "con_226",
+      "text": "Super Mario Kart erfand das Kart-Racing-Genre und führte rote Panzer, Bananenschalen und den Stern-Power-up ein",
+      "system": "snes",
+      "rom": "super_mario_kart"
+    },
+    {
+      "id": "con_227",
+      "text": "Die Opernszene in Final Fantasy VI gilt weithin als das ambitionierteste narrative Set-Piece der 16-Bit-Ära",
+      "system": "snes",
+      "rom": "final_fantasy_vi"
+    },
+    {
+      "id": "con_228",
+      "text": "Kirby Super Star packte acht vollständige Spiele in eine Cartridge und ist ein Fan-Favorit in der Reihe",
+      "system": "snes",
+      "rom": "kirby_super_star"
+    },
+    {
+      "id": "con_229",
+      "text": "Die Dark World in A Link to the Past spiegelte Hyrule mit korrumpierten Versionen jedes Ortes und Dungeons wider",
+      "system": "snes",
+      "rom": "link_to_the_past"
+    },
+    {
+      "id": "con_230",
+      "text": "Super Mario RPG war eine Zusammenarbeit mit Square und das erste RPG im Pilzkönigreich",
+      "system": "snes",
+      "rom": "super_mario_rpg"
+    },
+    {
+      "id": "con_231",
+      "text": "Actraiser wechselte zwischen einem Sidescroller-Actionspiel und einer Städtebau-Simulation — ein ungewöhnlicher SNES-Hybrid",
+      "system": "snes",
+      "rom": "actraiser"
+    },
+    {
+      "id": "con_232",
+      "text": "Super Castlevania IV gab Simon Belmont die Fähigkeit, seine Peitsche in alle acht Richtungen zu schwingen",
+      "system": "snes",
+      "rom": "super_castlevania_iv"
+    },
+    {
+      "id": "con_233",
+      "text": "Illusion of Gaia bot ein weltumspannendes Abenteuer durch reale Schauplätze und ist ein SNES-Kultklassiker",
+      "system": "snes",
+      "rom": "illusion_of_gaia"
+    },
+    {
+      "id": "con_234",
+      "text": "Terranigma endete mit einem der schwermütigsten Finales auf dem SNES — ein würdiger Abschluss von Quintets Soul-Blazer-Trilogie",
+      "system": "snes",
+      "rom": "terranigma"
+    },
+    {
+      "id": "con_235",
+      "text": "Lufia II hatte einen zufällig generierten 99-Etagen-Dungeon — eines der frühesten Roguelike-Elemente auf dem SNES",
+      "system": "snes",
+      "rom": "lufia2"
+    },
+    {
+      "id": "con_236",
+      "text": "Streets of Rage 2 gilt als der größte Beat-em-up aller Zeiten, und der Soundtrack von Yuzo Koshiro ist legendär",
+      "system": "genesis",
+      "rom": "streets_of_rage2"
+    },
+    {
+      "id": "con_237",
+      "text": "Gunstar Heroes erlaubte es, beliebige zwei Waffen zu kombinieren und neue Angriffstypen zu erschaffen — ein freies System ohne Parallele",
+      "system": "genesis",
+      "rom": "gunstar_heroes"
+    },
+    {
+      "id": "con_238",
+      "text": "ToeJam & Earl war ein Roguelike, bevor der Begriff verbreitet war — mit außerirdischen Protagonisten auf einer zufällig generierten Erde",
+      "system": "genesis",
+      "rom": "toejam_and_earl"
+    },
+    {
+      "id": "con_239",
+      "text": "Das Makro-System in Phantasy Star IV erlaubte es, Kampfabläufe zu programmieren, die sich automatisch wiederholten",
+      "system": "genesis",
+      "rom": "phantasy_star_iv"
+    },
+    {
+      "id": "con_240",
+      "text": "Bloodlines war das einzige Castlevania für Genesis und bot zwei Charaktere mit völlig unterschiedlichen Bewegungssets",
+      "system": "genesis",
+      "rom": "castlevania_bloodlines"
+    },
+    {
+      "id": "con_241",
+      "text": "Comix Zone ließ Spieler Comic-Panels als Spielebenen durchboxen — eine einzigartige Mechanik ohne Vergleich",
+      "system": "genesis",
+      "rom": "comix_zone"
+    },
+    {
+      "id": "con_242",
+      "text": "Ecco the Dolphin ließ Spieler als Delfin navigieren — eines der kryptisch schwierigsten Genesis-Spiele überhaupt",
+      "system": "genesis",
+      "rom": "ecco_the_dolphin"
+    },
+    {
+      "id": "con_243",
+      "text": "Earthworm Jim nutzte vorgerenderte Animationen, um seinem Protagonisten für ein Konsolenspiel von 1994 ungewöhnlich flüssige Bewegungen zu geben",
+      "system": "genesis",
+      "rom": "earthworm_jim"
+    },
+    {
+      "id": "con_244",
+      "text": "Ristar wurde vom Sonic-Team entwickelt und nutzte eine Greif-und-Dehn-Mechanik statt Geschwindigkeit",
+      "system": "genesis",
+      "rom": "ristar"
+    },
+    {
+      "id": "con_245",
+      "text": "Aeriths Tod in Final Fantasy VII auf Disc 1 ist der meistdiskutierte Story-Moment der Videospielgeschichte",
+      "system": "psx",
+      "rom": "final_fantasy_vii"
+    },
+    {
+      "id": "con_246",
+      "text": "Metal Gear Solid verbarg Meryls Codec-Frequenz auf der Rückseite des CD-Covers und durchbrach damit die vierte Wand",
+      "system": "psx",
+      "rom": "metal_gear_solid"
+    },
+    {
+      "id": "con_247",
+      "text": "Symphony of the Night kehrte Castlevanias Formel mit RPG-Levelaufstieg und einem riesig erkundbaren Schloss um",
+      "system": "psx",
+      "rom": "castlevania_sotn"
+    },
+    {
+      "id": "con_248",
+      "text": "Die festen Kameras in Resident Evil waren ein technischer Kompromiss, der zum Markenzeichen des Survival-Horror-Genres wurde",
+      "system": "psx",
+      "rom": "resident_evil"
+    },
+    {
+      "id": "con_249",
+      "text": "Tony Hawk's Pro Skater definierte Trick-Kombos und bewies, dass lizenzierte Soundtracks die Identität eines Spiels prägen können",
+      "system": "psx",
+      "rom": "tony_hawks_pro_skater"
+    },
+    {
+      "id": "con_250",
+      "text": "Spyro the Dragon wurde entwickelt, um die Fähigkeit der PS1 zu zeigen, nahtlose 3D-Welten ohne Ladebildschirme darzustellen",
+      "system": "psx",
+      "rom": "spyro"
+    },
+    {
+      "id": "con_251",
+      "text": "Gran Turismo begründete das Fahrsimulator-Genre mit einem vollständigen Führerschein-Progressionssystem auf der PS1",
+      "system": "psx",
+      "rom": "gran_turismo"
+    },
+    {
+      "id": "con_252",
+      "text": "Silent Hill nutzte Nebel, um die Sichtweite der PS1 zu verbergen, und schuf dabei versehentlich eine der ikonischsten Atmosphären der Spielgeschichte",
+      "system": "psx",
+      "rom": "silent_hill"
+    },
+    {
+      "id": "con_253",
+      "text": "Suikoden II gehört zu den seltensten PS1-Spielen in Nordamerika — Originalexemplare erzielen oft mehrere hundert Dollar",
+      "system": "psx",
+      "rom": "suikoden2"
+    },
+    {
+      "id": "con_254",
+      "text": "Final Fantasy Tactics brachte eine politisch dunklere Geschichte als die Haupt-FF-Reihe in ein taktisches RPG-Rahmenwerk auf der PS1",
+      "system": "psx",
+      "rom": "final_fantasy_tactics"
+    },
+    {
+      "id": "con_255",
+      "text": "PaRappa the Rapper erfand das Rhythmusspiel-Genre auf Heimkonsolen vor Guitar Hero oder Dance Dance Revolution",
+      "system": "psx",
+      "rom": "parappa_the_rapper"
+    },
+    {
+      "id": "con_256",
+      "text": "Vagrant Story bot ein Waffenherstellungssystem von außergewöhnlicher Tiefe in einem Solo-Action-RPG für die PS1",
+      "system": "psx",
+      "rom": "vagrant_story"
+    },
+    {
+      "id": "con_257",
+      "text": "Sir Daniel in MediEvil stand auf der Liste der gefallenen Helden — tatsächlich war er vom allerersten abgeschossenen Pfeil getötet worden",
+      "system": "psx",
+      "rom": "medievil"
+    },
+    {
+      "id": "con_258",
+      "text": "Xenogears' zweite Disc wurde zu Erzählzusammenfassungen umgewandelt, nachdem dem Team das Entwicklungsbudget ausging",
+      "system": "psx",
+      "rom": "xenogears"
+    },
+    {
+      "id": "con_259",
+      "text": "Star Ocean: The Second Story hatte über 80 mögliche Enden, abhängig von den Beziehungspunkten zwischen den Charakteren",
+      "system": "psx",
+      "rom": "star_ocean2"
+    },
+    {
+      "id": "con_260",
+      "text": "Klonoa: Door to Phantomile verbarg eine tränenreiche Geschichte hinter seiner fröhlichen Fassade — ein Schock am Ende",
+      "system": "psx",
+      "rom": "klonoa"
+    },
+    {
+      "id": "con_261",
+      "text": "Super Mario 64 war der erste 3D-Plattformer, der einen vollständig analogen Stick für freie 360-Grad-Bewegung nutzte",
+      "system": "n64",
+      "rom": "super_mario_64"
+    },
+    {
+      "id": "con_262",
+      "text": "Banjo-Kazooie von Rare gilt als einer der besten 3D-Plattformer des N64 für seinen Charme und sein Leveldesign",
+      "system": "n64",
+      "rom": "banjo_kazooie"
+    },
+    {
+      "id": "con_263",
+      "text": "Majora's Mask wurde in nur 18 Monaten entwickelt und nutzte dabei Engine und Assets von Ocarina of Time wieder",
+      "system": "n64",
+      "rom": "majoras_mask"
+    },
+    {
+      "id": "con_264",
+      "text": "Perfect Dark war der erste Konsolen-FPS mit Bots im Multiplayer und bot einen 50fps-Hochauflösungsmodus",
+      "system": "n64",
+      "rom": "perfect_dark"
+    },
+    {
+      "id": "con_265",
+      "text": "Mario Kart 64s Vier-Spieler-Splitscreen prägte lokale Multiplayer-Abende in der späten 1990er-Ära",
+      "system": "n64",
+      "rom": "mario_kart_64"
+    },
+    {
+      "id": "con_266",
+      "text": "Donkey Kong 64 ist das einzige Spiel, das zwingend das N64 Expansion Pak zum Starten benötigte — kein anderes Spiel verlangte das",
+      "system": "n64",
+      "rom": "donkey_kong_64"
+    },
+    {
+      "id": "con_267",
+      "text": "Wave Race 64s Wasserphysik beeinflusste realistische Wassersimulatoren in Spielen noch Jahre nach dem Release 1996",
+      "system": "n64",
+      "rom": "wave_race_64"
+    },
+    {
+      "id": "con_268",
+      "text": "Banjo-Tooie war mit Banjo-Kazooie verbunden — Items ließen sich zwischen den Cartridges übertragen, und jedes Spiel referenzierte das andere",
+      "system": "n64",
+      "rom": "banjo_tooie"
+    },
+    {
+      "id": "con_269",
+      "text": "Sonic Adventure war das erste 3D-Hauptreihenspiel von Sonic und bot sechs Charaktere mit jeweils eigenen Geschichten",
+      "system": "dreamcast",
+      "rom": "sonic_adventure"
+    },
+    {
+      "id": "con_270",
+      "text": "Crazy Taxi ließ Spieler Fahrgäste durch eine offene Stadt rasen und popularisierte lizenzierte Punk-Soundtracks in Spielen",
+      "system": "dreamcast",
+      "rom": "crazy_taxi"
+    },
+    {
+      "id": "con_271",
+      "text": "Phantasy Star Online war das erste Online-RPG für Konsolen und ließ Spieler über das Dreamcast-Modem als Team spielen",
+      "system": "dreamcast",
+      "rom": "phantasy_star_online"
+    },
+    {
+      "id": "con_272",
+      "text": "Skies of Arcadia bot Luftschiffkämpfe zwischen schwebenden Inseln und wird für seine freudvolle Erkundung in Erinnerung behalten",
+      "system": "dreamcast",
+      "rom": "skies_of_arcadia"
+    },
+    {
+      "id": "con_273",
+      "text": "Power Stone 2 unterstützte Vier-Spieler-Areakämpfe mit interaktiven zerstörbaren Umgebungen",
+      "system": "dreamcast",
+      "rom": "power_stone2"
+    },
+    {
+      "id": "con_274",
+      "text": "The Wind Waker nutzte Cel-Shading, das zunächst kritisiert wurde, aber heute für seinen zeitlosen Look weithin gelobt wird",
+      "system": "nintendo_gamecube",
+      "rom": "wind_waker"
+    },
+    {
+      "id": "con_275",
+      "text": "Super Smash Bros. Melee wurde zu einem kompetitiven Esport mit einer florierenden Turnierszene seit über 20 Jahren",
+      "system": "nintendo_gamecube",
+      "rom": "ssbmelee"
+    },
+    {
+      "id": "con_276",
+      "text": "Luigi's Mansion war das erste Spiel, in dem Luigi der alleinige Protagonist war, und erschien zum GameCube-Launch",
+      "system": "nintendo_gamecube",
+      "rom": "luigis_mansion"
+    },
+    {
+      "id": "con_277",
+      "text": "Pikmin verlangte von Spielern, bis zu 100 ameisenähnliche Wesen in Echtzeit an einem einzigen Spieltag zu kommandieren",
+      "system": "nintendo_gamecube",
+      "rom": "pikmin"
+    },
+    {
+      "id": "con_278",
+      "text": "Animal Crossing auf dem GameCube lief auf der Echtzeituhr der Konsole, sodass sich Ereignisse nach dem tatsächlichen Datum änderten",
+      "system": "nintendo_gamecube",
+      "rom": "animal_crossing"
+    },
+    {
+      "id": "con_279",
+      "text": "Eternal Darkness täuschte Systemfehler und Fernsehabschaltungen vor, um das Wirklichkeitsgefühl des Spielers zu erschüttern",
+      "system": "nintendo_gamecube",
+      "rom": "eternal_darkness"
+    },
+    {
+      "id": "con_280",
+      "text": "F-Zero GX wurde gemeinsam mit Segas AM2-Team entwickelt und gilt weithin als bester Teil der Reihe",
+      "system": "nintendo_gamecube",
+      "rom": "fzero_gx"
+    },
+    {
+      "id": "con_281",
+      "text": "Halo 2 führte Online-Multiplayer via Xbox Live ein und bildete die erste große Online-Shooter-Community auf Konsolen",
+      "system": "microsoft_xbox",
+      "rom": "halo2"
+    },
+    {
+      "id": "con_282",
+      "text": "Star Wars: Knights of the Old Republic hatte eine Story-Wendung, die so wuchtig war wie in jedem Film",
+      "system": "microsoft_xbox",
+      "rom": "kotor"
+    },
+    {
+      "id": "con_283",
+      "text": "Ninja Gaiden auf der Xbox wurde von Team Ninja als eines der härtesten und ausgefeiltesten Action-Spiele seiner Ära wiederbelebt",
+      "system": "microsoft_xbox",
+      "rom": "ninja_gaiden"
+    },
+    {
+      "id": "con_284",
+      "text": "Jade Empires verzweigtes Moralsystem führte zu wirklich unterschiedlichen Story-Ausgängen je nach gewähltem Pfad",
+      "system": "microsoft_xbox",
+      "rom": "jade_empire"
+    },
+    {
+      "id": "con_285",
+      "text": "Grand Theft Auto III hat das Open-World-Spieldesign transformiert und eine Generation von Sandbox-Crime-Titeln hervorgebracht",
+      "system": "ps2",
+      "rom": "gta3"
+    },
+    {
+      "id": "con_286",
+      "text": "GTA Vice Citys Miami-Setting der 1980er und der lizenzierte Soundtrack wurden zu einer der beliebtesten Kombinationen der Spielgeschichte",
+      "system": "ps2",
+      "rom": "gta_vice_city"
+    },
+    {
+      "id": "con_287",
+      "text": "Kingdom Hearts verband Disney und Final Fantasy zu einem Action-RPG, das sich über 35 Millionen Mal verkaufte",
+      "system": "ps2",
+      "rom": "kingdom_hearts"
+    },
+    {
+      "id": "con_288",
+      "text": "God of Wars feste Kamera rahmte Kratos als unaufhaltsame Kraft — eine bewusste cineastische Designentscheidung",
+      "system": "ps2",
+      "rom": "god_of_war"
+    },
+    {
+      "id": "con_289",
+      "text": "Devil May Cry entstand, weil der Resident-Evil-4-Prototyp zu actionlastig war — Mikami machte daraus ein eigenständiges Spiel",
+      "system": "ps2",
+      "rom": "devil_may_cry"
+    },
+    {
+      "id": "con_290",
+      "text": "Ratchet & Clank führte Waffen-Upgrade-Bäume ein, die jede neue Waffe sofort befriedigend zu verdienen und zu nutzen machten",
+      "system": "ps2",
+      "rom": "ratchet_and_clank"
+    },
+    {
+      "id": "con_291",
+      "text": "Jak and Daxter war eines der ersten PS2-Spiele, das eine gesamte offene Welt ohne einen einzigen Ladebildschirm lud",
+      "system": "ps2",
+      "rom": "jak_and_daxter"
+    },
+    {
+      "id": "con_292",
+      "text": "Metal Gear Solid 2 ersetzte Snake mitten im Spiel durch Raiden — ein Twist, der Spieler schockierte, die Snake erwartet hatten",
+      "system": "ps2",
+      "rom": "metal_gear_solid2"
+    },
+    {
+      "id": "con_293",
+      "text": "Okami nutzte Aquarell-Optik und eine Malmechanik, mit der Spieler Angriffe und Lösungen in die Welt zeichneten",
+      "system": "ps2",
+      "rom": "okami"
+    },
+    {
+      "id": "con_294",
+      "text": "Katamari Damacy wurde als Kritik an Komplexität entworfen — eine Kugel, die wächst, indem sie über Alltagsgegenstände rollt",
+      "system": "ps2",
+      "rom": "katamari_damacy"
+    },
+    {
+      "id": "con_295",
+      "text": "Psychonauts ließ Spieler in die Gedanken von NPCs eintreten, jedes ein einzigartiges Plattformer-Level, das deren Persönlichkeit widerspiegelte",
+      "system": "ps2",
+      "rom": "psychonauts"
+    },
+    {
+      "id": "con_296",
+      "text": "GTA San Andreas führte Gewichts-, Muskel- und Respekt-Werte in ein Spiel ein, das Vice City weit übertraf",
+      "system": "ps2",
+      "rom": "gta_san_andreas"
+    },
+    {
+      "id": "con_297",
+      "text": "Prince of Persia: Sands of Time führte die Zeit-Zurückspul-Mechanik ein — wer fiel, konnte die Zeit zurückdrehen und es korrigieren",
+      "system": "ps2",
+      "rom": "prince_of_persia_sands"
+    },
+    {
+      "id": "con_298",
+      "text": "Gears of War popularisierte das Deckungssystem und den Hechtsprint, die eine Generation von Action-Spielen prägten",
+      "system": "microsoft_xbox",
+      "rom": "gears_of_war"
+    },
+    {
+      "id": "con_299",
+      "text": "Mass Effect war die erste Trilogie, bei der Spielerentscheidungen als durchgehende Erzählung alle drei Spiele überdauerten",
+      "system": "microsoft_xbox",
+      "rom": "mass_effect"
+    },
+    {
+      "id": "con_300",
+      "text": "BioShocks 'Would you kindly'-Enthüllung gilt als eine der größten Story-Wendungen in einem Videospiel",
+      "system": "microsoft_xbox",
+      "rom": "bioshock"
+    },
+    {
+      "id": "con_301",
+      "text": "The Orange Box bündelte fünf Spiele inklusive Portal und Half-Life 2 für einen Preis — das beste Preis-Leistungs-Angebot der Spielgeschichte",
+      "system": "pc",
+      "rom": "orange_box"
+    },
+    {
+      "id": "con_302",
+      "text": "Portals Weighted Companion Cube und das 'The cake is a lie'-Meme verbreiteten sich nach dem Release 2007 innerhalb von Wochen weltweit",
+      "system": "pc",
+      "rom": "portal"
+    },
+    {
+      "id": "con_303",
+      "text": "Dark Souls führte Lagerfeuer-Respawns ein und bewies, dass Spiele durch den Tod statt durch Tutorials lehren können",
+      "system": "microsoft_xbox",
+      "rom": "dark_souls"
+    },
+    {
+      "id": "con_304",
+      "text": "Borderlands erfand den Looter-Shooter, indem es FPS-Gameplay mit Diablo-ähnlichem zufälligem Loot verband",
+      "system": "microsoft_xbox",
+      "rom": "borderlands"
+    },
+    {
+      "id": "con_305",
+      "text": "Batman: Arkham Asylum bewies, dass lizenzierte Superhelden-Spiele mit originalen Franchises mithalten oder sie übertreffen können",
+      "system": "microsoft_xbox",
+      "rom": "batman_arkham_asylum"
+    },
+    {
+      "id": "con_306",
+      "text": "Fallout 3 brachte das isometrische PC-RPG in eine vollständig dreidimensionale offene Welt und machte eine neue Generation mit der Franchise vertraut",
+      "system": "microsoft_xbox",
+      "rom": "fallout3"
+    },
+    {
+      "id": "con_307",
+      "text": "Mass Effect 2s Suizidmission wird vollständig durch jede Beziehungsentscheidung im gesamten Spielverlauf geformt",
+      "system": "microsoft_xbox",
+      "rom": "mass_effect2"
+    },
+    {
+      "id": "con_308",
+      "text": "Red Dead Redemption erweckte den Open-World-Western überzeugender zum Leben als jedes Spiel zuvor",
+      "system": "microsoft_xbox",
+      "rom": "red_dead_redemption"
+    },
+    {
+      "id": "con_309",
+      "text": "Uncharted 2 begann mit Drake, der an einem Zug über einem Abgrund hing — ein geskripteter Moment, der cinematische Spiele neu definierte",
+      "system": "sony_playstation_3",
+      "rom": "uncharted2"
+    },
+    {
+      "id": "con_310",
+      "text": "The Last of Us wird dafür gelobt, das Videospiel-Storytelling auf ein Niveau vergleichbar mit Prestige-Fernsehserien gehoben zu haben",
+      "system": "sony_playstation_3",
+      "rom": "last_of_us"
+    },
+    {
+      "id": "con_311",
+      "text": "Demon's Souls begründete das Soulslike-Genre — Tod ist vorprogrammiert, und die Geheimnisse der Welt zu entschlüsseln ist die Belohnung",
+      "system": "sony_playstation_3",
+      "rom": "demons_souls"
+    },
+    {
+      "id": "con_312",
+      "text": "Journey auf der PS3 nutzte nur Zwitschertöne zur Kommunikation — Fremde konnten ohne Namen oder Erklärungen auftauchen",
+      "system": "sony_playstation_3",
+      "rom": "journey"
+    },
+    {
+      "id": "con_313",
+      "text": "Super Mario Galaxy nutzte Gravitationsmanipulation, um Level zu bauen, die sich um kugelförmige Planetoiden wickelten",
+      "system": "nintendo_wii",
+      "rom": "super_mario_galaxy"
+    },
+    {
+      "id": "con_314",
+      "text": "No More Heroes ließ Spieler zwischen eingestuften Attentatsmissionen per Moped durch eine Stadtkarte fahren",
+      "system": "nintendo_wii",
+      "rom": "no_more_heroes"
+    },
+    {
+      "id": "con_315",
+      "text": "Xenoblade Chronicles erschien in Europa vor Nordamerika — Fans starteten Operation Rainfall für den US-Release",
+      "system": "nintendo_wii",
+      "rom": "xenoblade_chronicles"
+    },
+    {
+      "id": "con_316",
+      "text": "Punch-Out!! Wii belebte die Reihe mit Motion Controls und bewahrte dabei den rhythmusbasierten Kern des Spiels",
+      "system": "nintendo_wii",
+      "rom": "punchout_wii"
+    },
+    {
+      "id": "con_317",
+      "text": "Super Mario Maker ermöglichte es, NES- und SNES-artige Mario-Level zu bauen und online mit jedem zu teilen",
+      "system": "nintendo_wii_u",
+      "rom": "super_mario_maker"
+    },
+    {
+      "id": "con_318",
+      "text": "Das TurboGrafx-16 war technisch ein 8-Bit-System mit einem 16-Bit-Videochip, der ihm trotz irreführendem Branding grafische Stärke verlieh",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "con_319",
+      "text": "Die Cappy-Mechanik in Super Mario Odyssey erlaubte es Mario, Feinde und Objekte zu besitzen, um sonst unzugängliche Bereiche zu erreichen",
+      "system": "nintendo_switch",
+      "rom": "super_mario_odyssey"
+    },
+    {
+      "id": "con_320",
+      "text": "Hades wurde als erstes Roguelike mit einem Hugo Award ausgezeichnet — gelobt für die Integration der Geschichte in jeden Spiellauf",
+      "system": "nintendo_switch",
+      "rom": "hades"
+    },
+    {
+      "id": "con_321",
+      "text": "Hollow Knights Karte enthüllte sich schrittweise beim Erkunden — die Entwickler fügten Inhalte noch während der Entwicklung hinzu",
+      "system": "nintendo_switch",
+      "rom": "hollow_knight"
+    },
+    {
+      "id": "con_322",
+      "text": "Metroid Fusion führte SA-X ein, eine KI-Rivalin, die jederzeit auftauchen und den Spieler jagen konnte",
+      "system": "gba",
+      "rom": "metroid_fusion"
+    },
+    {
+      "id": "con_323",
+      "text": "Golden Suns Djinn-System konnte jederzeit umgestellt werden, um die Klasse eines Charakters komplett zu verändern",
+      "system": "gba",
+      "rom": "golden_sun"
+    },
+    {
+      "id": "con_324",
+      "text": "Advance Wars war das erste westliche Spiel der Wars-Reihe und brachte rundenbasierte Strategie zu GBA-Spielern",
+      "system": "gba",
+      "rom": "advance_wars"
+    },
+    {
+      "id": "con_325",
+      "text": "Fire Emblem für den GBA war das erste Fire Emblem außerhalb Japans — einfach 'Fire Emblem' betitelt im Jahr 2003",
+      "system": "gba",
+      "rom": "fire_emblem"
+    },
+    {
+      "id": "con_326",
+      "text": "Mother 3 wurde für den GBA fertiggestellt und trotz jahrelanger Fan-Forderungen nie offiziell für westliche Märkte lokalisiert",
+      "system": "gba",
+      "rom": "mother3"
+    },
+    {
+      "id": "con_327",
+      "text": "Crisis Core: Final Fantasy VII enthüllte Zack Fairs Schicksal und wurde zu einem der emotional stärksten PSP-Spiele überhaupt",
+      "system": "psp",
+      "rom": "crisis_core"
+    },
+    {
+      "id": "con_328",
+      "text": "Lumines von Tetsuya Mizuguchi war ein Musikpuzzlespiel, das den PSP-Launch definierte und den Bildschirm der Konsole in Szene setzte",
+      "system": "psp",
+      "rom": "lumines"
+    },
+    {
+      "id": "con_329",
+      "text": "Phoenix Wright: Ace Attorney wurde im Westen zum Kultphänomen, nachdem es zunächst nur in Japan für den GBA erschienen war",
+      "system": "nintendo_ds",
+      "rom": "phoenix_wright"
+    },
+    {
+      "id": "con_330",
+      "text": "The World Ends With You nutzte beide DS-Bildschirme gleichzeitig — der Spieler kämpfte auf beiden Screens auf einmal",
+      "system": "nintendo_ds",
+      "rom": "world_ends_with_you"
+    },
+    {
+      "id": "con_331",
+      "text": "Kirby Canvas Curse benötigte nur den Stylus — das erste DS-Spiel, das vollständig um den Touchscreen herum entworfen wurde",
+      "system": "nintendo_ds",
+      "rom": "kirby_canvas_curse"
+    },
+    {
+      "id": "con_332",
+      "text": "Pokemon X und Y waren die ersten Pokemon-Hauptspiele in vollständigem 3D auf einem Handheld",
+      "system": "nintendo_3ds",
+      "rom": "pokemon_x"
+    },
+    {
+      "id": "con_333",
+      "text": "Super Mario 3D Land verband Marios offenen 3D-Stil mit der linearen Levelstruktur klassischer 2D-Spiele",
+      "system": "nintendo_3ds",
+      "rom": "super_mario_3d_land"
+    },
+    {
+      "id": "con_334",
+      "text": "Bravely Default ließ Spieler die Rate für Zufallskämpfe selbst einstellen und die Länge der Kampfanimationen anpassen",
+      "system": "nintendo_3ds",
+      "rom": "bravely_default"
+    },
+    {
+      "id": "con_335",
+      "text": "NiGHTS into Dreams nutzte ein Analogpad, bevor Analogsticks Standard waren, und wird für seinen flüssigen Flug gelobt",
+      "system": "saturn",
+      "rom": "nights_into_dreams"
+    },
+    {
+      "id": "con_336",
+      "text": "Burning Rangers war Sonic Teams futuristisches Feuerwehrspiel und einer der letzten großen Saturn-Exklusivtitel",
+      "system": "saturn",
+      "rom": "burning_rangers"
+    },
+    {
+      "id": "con_337",
+      "text": "Shining Force III erzählte eine Geschichte auf drei Discs — vollständig nur in Japan erhältlich",
+      "system": "saturn",
+      "rom": "shining_force_iii"
+    },
+    {
+      "id": "con_338",
+      "text": "The King of Fighters '98 wird in Südamerika und Asien noch immer kompetitiv als Höhepunkt der Reihe gespielt",
+      "system": "neogeo",
+      "rom": "kof98"
+    },
+    {
+      "id": "con_339",
+      "text": "Garou: Mark of the Wolves führte Just Defend ein und gilt als das beste Fatal Fury, das je gemacht wurde",
+      "system": "neogeo",
+      "rom": "garou_mark_of_wolves"
+    },
+    {
+      "id": "con_340",
+      "text": "Der Endboss von Metal Slug 3 gilt weithin als der schwierigste und spektakulärste der gesamten Metal-Slug-Reihe",
+      "system": "neogeo",
+      "rom": "metal_slug3"
+    },
+    {
+      "id": "con_341",
+      "text": "Tetris für NES verkaufte sich über 8 Millionen Mal und etablierte Puzzlespiele als Mainstream-Konsolengenre",
+      "system": "nes",
+      "rom": "tetris"
+    },
+    {
+      "id": "con_342",
+      "text": "Das originale Zelda hatte nach dem Abspann eine zweite Quest — ein komplett neu gestaltetes Dungeon-Layout auf derselben Cartridge",
+      "system": "nes",
+      "rom": "zelda"
+    },
+    {
+      "id": "con_343",
+      "text": "Punch-Out!! ersetzte Mike Tyson nach Ablauf der Nintendo-Lizenz durch Mr. Dream — gleicher Charakter, neuer Name",
+      "system": "nes",
+      "rom": "punchout"
+    },
+    {
+      "id": "con_344",
+      "text": "River City Ransom fügte RPG-Entwicklung zu einem Beat-em-up hinzu und bot kooperatives Spiel für zwei Spieler gleichzeitig auf NES",
+      "system": "nes",
+      "rom": "river_city_ransom"
+    },
+    {
+      "id": "con_345",
+      "text": "Super Mario Land gab Mario ein U-Boot und ein Flugzeug — seine einzigen gesteuerten Fahrzeuge in Hauptreihenspielen",
+      "system": "gb",
+      "rom": "super_mario_land"
+    },
+    {
+      "id": "con_346",
+      "text": "Kirby's Dream Land war absichtlich leicht — Masahiro Sakurai entwarf es als zugänglichstes Spiel überhaupt",
+      "system": "gb",
+      "rom": "kirbys_dream_land"
+    },
+    {
+      "id": "con_347",
+      "text": "Super Mario RPG führte Geno und Mallow ein — Charaktere, um deren Rückkehr Fans seit Jahrzehnten bitten",
+      "system": "snes",
+      "rom": "super_mario_rpg"
+    },
+    {
+      "id": "con_348",
+      "text": "Chrono Triggers New Game+ war eines der ersten Konsolenspiele, das einen Neustart mit allen Werten und Gegenständen ermöglichte",
+      "system": "snes",
+      "rom": "chrono_trigger"
+    },
+    {
+      "id": "con_349",
+      "text": "Secret of Mana erlaubte gleichzeitiges Spielen für drei Personen via SNES Multitap — ungewöhnlich für ein Action-RPG",
+      "system": "snes",
+      "rom": "secret_of_mana"
+    },
+    {
+      "id": "con_350",
+      "text": "Demon's Crest für das SNES ist ein Kultmeisterwerk der Gargoyle's-Quest-Reihe und erzielt heute hohe Sammlerpreise",
+      "system": "snes",
+      "rom": "demons_crest"
+    },
+    {
+      "id": "con_351",
+      "text": "Alien Soldier von Treasure gilt als das schwierigste Genesis-Spiel — es besteht fast ausschließlich aus Bosskämpfen",
+      "system": "genesis",
+      "rom": "alien_soldier"
+    },
+    {
+      "id": "con_352",
+      "text": "Shining Force II wird für seine lange Kampagne und die Einführung der Zentauren- und Pegasusritter-Klassen gelobt",
+      "system": "genesis",
+      "rom": "shining_force_ii"
+    },
+    {
+      "id": "con_353",
+      "text": "Road Rash auf dem Genesis ließ Spieler Gegner in einem offenen Renn-Brawler vom Motorrad schlagen und peitschen",
+      "system": "genesis",
+      "rom": "road_rash"
+    },
+    {
+      "id": "con_354",
+      "text": "Parasite Eve verband Survival-Horror mit rundenbasiertem RPG-Kampf und basierte auf einem erfolgreichen japanischen Roman",
+      "system": "psx",
+      "rom": "parasite_eve"
+    },
+    {
+      "id": "con_355",
+      "text": "Wild Arms begründete die Western-RPG-Ästhetik und wurde ab der PS1 zu einer langjährigen Franchise",
+      "system": "psx",
+      "rom": "wild_arms"
+    },
+    {
+      "id": "con_356",
+      "text": "Alundra wurde als spiritueller Nachfolger von A Link to the Past mit außergewöhnlich schwierigen Rätseln gelobt",
+      "system": "psx",
+      "rom": "alundra"
+    },
+    {
+      "id": "con_357",
+      "text": "Clock Tower auf der PS1 bot eine wehrlose Protagonistin, die nur fliehen und sich verstecken konnte — ohne jegliche Waffen",
+      "system": "psx",
+      "rom": "clock_tower"
+    },
+    {
+      "id": "con_358",
+      "text": "Symphony of the Nights umgekehrtes Schloss verdoppelte die Karte und wurde von den meisten Spielern rein zufällig entdeckt",
+      "system": "psx",
+      "rom": "castlevania_sotn"
+    },
+    {
+      "id": "con_359",
+      "text": "Burnout 3: Takedown belohnte spektakuläre Crashs genauso wie Siege und machte die Crash-Physik zur Spielmechanik",
+      "system": "ps2",
+      "rom": "burnout3"
+    },
+    {
+      "id": "con_360",
+      "text": "We Love Katamari wurde direkt aus Fan-Briefen heraus entwickelt — eine der wenigen Fortsetzungen, die ausschließlich vom Publikum getrieben wurden",
+      "system": "ps2",
+      "rom": "we_love_katamari"
+    },
+    {
+      "id": "con_361",
+      "text": "Shadow of the Colossus begann als Ico-Nachfolger, bevor es sich zu einem Spiel über Schuld und Opfer entwickelte",
+      "system": "ps2",
+      "rom": "shadow_of_the_colossus"
+    },
+    {
+      "id": "con_362",
+      "text": "Dragon Age: Origins brachte dichte partybasierte Taktik auf Konsolen und erinnerte an die Tiefe von Baldur's Gate",
+      "system": "microsoft_xbox",
+      "rom": "dragon_age_origins"
+    },
+    {
+      "id": "con_363",
+      "text": "Valkyria Chronicles nutzte eine Aquarell-Ästhetik und taktisches Gameplay ohne Vergleich bei seinem Release 2008",
+      "system": "sony_playstation_3",
+      "rom": "valkyria_chronicles"
+    },
+    {
+      "id": "con_364",
+      "text": "Bayonettas Combo-System setzte einen neuen Action-Maßstab — entwickelt in nur 18 Monaten von PlatinumGames",
+      "system": "microsoft_xbox",
+      "rom": "bayonetta"
+    },
+    {
+      "id": "con_365",
+      "text": "Minecraft auf der Xbox 360 war ein Konsolen-Port, der schließlich jede andere Plattformversion des Spiels in den Verkäufen übertraf",
+      "system": "microsoft_xbox",
+      "rom": "minecraft"
+    },
+    {
+      "id": "con_366",
+      "text": "Super Mario Galaxy 2 galt vor der Veröffentlichung als überflüssig, wurde aber zu einem der am höchsten bewerteten Spiele überhaupt",
+      "system": "nintendo_wii",
+      "rom": "super_mario_galaxy2"
+    },
+    {
+      "id": "con_367",
+      "text": "Splatoon entstand, weil ein Tofu-Charakter-Prototyp zu viel Spaß machte, um verworfen zu werden — Nintendo behielt die Mechanik",
+      "system": "nintendo_wii_u",
+      "rom": "splatoon"
+    },
+    {
+      "id": "con_368",
+      "text": "Ring Fit Adventure verwandelte einen Widerstandsring in ein vollständiges RPG-Fitnessspiel und war während der Pandemie weltweit ausverkauft",
+      "system": "nintendo_switch",
+      "rom": "ring_fit_adventure"
+    },
+    {
+      "id": "con_369",
+      "text": "Fire Emblem: Three Houses ließ Spieler Bindungen in einem Schulsemester aufbauen, bevor sie ihre Schüler in den Krieg schickten",
+      "system": "nintendo_switch",
+      "rom": "fire_emblem_three_houses"
+    },
+    {
+      "id": "con_370",
+      "text": "Xenoblade Chronicles 2 verkaufte sich auf dem Switch über 2 Millionen Mal — weitaus mehr als alle vorherigen Xenoblade-Teile zusammen",
+      "system": "nintendo_switch",
+      "rom": "xenoblade_chronicles2"
+    },
+    {
+      "id": "con_371",
+      "text": "Pokemon Rot und Blau erforderten Tausch zwischen Cartridges, um den Pokédex zu vervollständigen — für soziales Spielen konzipiert",
+      "system": "gb",
+      "rom": "pokemon_red"
+    },
+    {
+      "id": "con_372",
+      "text": "Pokemon Gold und Silber enthielten heimlich die gesamte Kanto-Region aus Rot und Blau als Post-Game-Bonus",
+      "system": "gbc",
+      "rom": "pokemon_gold"
+    },
+    {
+      "id": "con_373",
+      "text": "Metroid II: Return of Samus spielte sich vollständig auf dem außerirdischen Planeten SR388 ab und fügte den Spider-Ball hinzu",
+      "system": "gb",
+      "rom": "metroid2"
+    },
+    {
+      "id": "con_374",
+      "text": "Kirby's Dream Land 2 führte drei tierische Freunde ein, die Kirbys Fähigkeiten veränderten, wenn er auf ihnen ritt",
+      "system": "gb",
+      "rom": "kirbys_dream_land2"
+    },
+    {
+      "id": "con_375",
+      "text": "Golden Sun: The Lost Age erforderte ein Passwort oder ein Link-Kabel, um Speicherdaten aus dem ersten Spiel zu übertragen",
+      "system": "gba",
+      "rom": "golden_sun_lost_age"
+    },
+    {
+      "id": "con_376",
+      "text": "Contra: Hard Corps auf dem Genesis bot vier spielbare Charaktere und fünf verzweigte Enden je nach getroffenen Entscheidungen",
+      "system": "genesis",
+      "rom": "contra_hard_corps"
+    },
+    {
+      "id": "con_377",
+      "text": "Strider auf dem Genesis wird als einer der besten Arcade-Ports des Systems mit schneller, flüssiger Action gelobt",
+      "system": "genesis",
+      "rom": "strider"
+    },
+    {
+      "id": "con_378",
+      "text": "Vectorman auf dem Genesis nutzte vorgerenderte 3D-Kugel-Sprites und wurde in einigen Regionen als technische Demonstration mitgeliefert",
+      "system": "genesis",
+      "rom": "vectorman"
+    },
+    {
+      "id": "con_379",
+      "text": "Tombi! auf der PS1 ist in Nordamerika aufgrund einer sehr begrenzten Auflage eines der seltensten Spiele überhaupt",
+      "system": "psx",
+      "rom": "tombi"
+    },
+    {
+      "id": "con_380",
+      "text": "Tactics Ogre gilt weithin als das größte Strategie-RPG und inspirierte direkt Final Fantasy Tactics",
+      "system": "psx",
+      "rom": "tactics_ogre"
+    },
+    {
+      "id": "con_381",
+      "text": "Vagrant Storys Waffen-Affinitäts-Crafting-System ist so tiefgründig, dass Spieler bis heute optimierte Strategien teilen",
+      "system": "psx",
+      "rom": "vagrant_story"
+    },
+    {
+      "id": "con_382",
+      "text": "Gradius für NES popularisierte die Power-up-Leiste, mit der Spieler mitten im Level Upgrades in einem Shoot-em-up wählen konnten",
+      "system": "nes",
+      "rom": "gradius"
+    },
+    {
+      "id": "con_383",
+      "text": "Das originale Mega Man verkaufte sich so schlecht, dass Capcom die Reihe fast einstellte, bevor Mega Man 2 sie rettete",
+      "system": "nes",
+      "rom": "megaman"
+    },
+    {
+      "id": "con_384",
+      "text": "Battletoads and Double Dragon kombinierte zwei Rare-Franchises in einem Beat-em-up mit kooperativem Zwei-Spieler-Modus auf NES",
+      "system": "nes",
+      "rom": "battletoads_double_dragon"
+    },
+    {
+      "id": "con_385",
+      "text": "Conker's Bad Fur Day parodierte alle populären Spiele und Filme der 1990er mit Erwachsenenhumor auf einer N64-Cartridge",
+      "system": "n64",
+      "rom": "conkers_bad_fur_day"
+    },
+    {
+      "id": "con_386",
+      "text": "Ikaruga nutzte eine Polaritätswechsel-Mechanik, bei der Kugeln der eigenen Farbe heilten statt zu schaden",
+      "system": "nintendo_gamecube",
+      "rom": "ikaruga"
+    },
+    {
+      "id": "con_387",
+      "text": "Soul Calibur für den Dreamcast erhielt nahezu perfekte Wertungen und gilt als fast makelloser Arcade-Port",
+      "system": "dreamcast",
+      "rom": "soul_calibur"
+    },
+    {
+      "id": "con_388",
+      "text": "Viewtiful Joe auf dem GameCube nutzte Zeitlupen- und Schnellvorlauf-Mechaniken, die mit VFX-Filtern auf dem Bildschirm verknüpft waren",
+      "system": "nintendo_gamecube",
+      "rom": "viewtiful_joe"
+    },
+    {
+      "id": "con_389",
+      "text": "Star Fox 64 führte den Rumble Pak ein und nutzte erstmals Analogstick-Zielen in einem On-Rails-Shooter",
+      "system": "n64",
+      "rom": "star_fox_64"
+    },
+    {
+      "id": "con_390",
+      "text": "Pokemon Snap auf dem N64 war ein Rail-Fotografiespiel, bei dem das Ziel war, das beste Foto jeder Spezies aufzunehmen",
+      "system": "n64",
+      "rom": "pokemon_snap"
+    },
+    {
+      "id": "con_391",
+      "text": "Diddy Kong Racing auf dem N64 bot einen vollständigen Abenteuermodus mit Boss-Rennen — eine Funktion, die Mario Kart 64 fehlte",
+      "system": "n64",
+      "rom": "diddy_kong_racing"
+    },
+    {
+      "id": "con_392",
+      "text": "Mega Man X für SNES führte Dash, Wandklettern und den geladenen Schuss ein, die die X-Unterreihe definieren",
+      "system": "snes",
+      "rom": "mega_man_x"
+    },
+    {
+      "id": "con_393",
+      "text": "Rondo of Blood für die PC Engine gilt als das beste klassische Castlevania vor Symphony of the Night",
+      "system": "pcengine",
+      "rom": "rondo_of_blood"
+    },
+    {
+      "id": "con_394",
+      "text": "Donkey Kong Country 2 gilt für viele als besser als der Vorgänger, mit seinem Piratenthema als Weltrahmen",
+      "system": "snes",
+      "rom": "donkey_kong_country2"
+    },
+    {
+      "id": "con_395",
+      "text": "EarthBounds Kopierschutz ließ auf gephackten Cartridges endlos Feinde erscheinen und brachte das Spiel kurz vor dem Endboss zum Absturz",
+      "system": "snes",
+      "rom": "earthbound"
+    },
+    {
+      "id": "con_396",
+      "text": "Yoshi's Island forderte Spieler auf, Baby Mario zu schützen, während sie als Yoshi durch die Plattformer-Level steuerten",
+      "system": "snes",
+      "rom": "yoshis_island"
+    },
+    {
+      "id": "con_397",
+      "text": "Killer Instinct für SNES nutzte einen komprimierten Arcade-Soundtrack auf Cartridge — eine technische Leistung für 1995",
+      "system": "snes",
+      "rom": "killer_instinct"
+    },
+    {
+      "id": "con_398",
+      "text": "Kefka aus Final Fantasy VI gilt weithin als effektivster Bösewicht der Reihe — er erreicht tatsächlich sein Ziel",
+      "system": "snes",
+      "rom": "final_fantasy_vi"
+    },
+    {
+      "id": "con_399",
+      "text": "Das originale Metroid kann durch einen Langjump-Glitch in unter 5 Minuten abgeschlossen werden, der den Großteil des Spiels überspringt",
+      "system": "nes",
+      "rom": "metroid"
+    },
+    {
+      "id": "con_400",
+      "text": "Tecmo Bowl für NES war so beliebt, dass seine Football-Physik das Design von NFL-Spielen auf Konsolen jahrelang beeinflusste",
+      "system": "nes",
+      "rom": "tecmo_bowl"
+    },
+    {
+      "id": "con_401",
+      "text": "Super Mario Bros. 3 führte den Tanooki-Anzug, den Frosch-Anzug und den Hammer-Anzug ein — die vielfältigsten Power-ups bis dahin",
+      "system": "nes",
+      "rom": "super_mario_bros3"
+    },
+    {
+      "id": "con_402",
+      "text": "Ocarina of Time führte Z-Targeting ein, das weltweit zum Standard für das 3D-Action-Adventure-Design wurde",
+      "system": "n64",
+      "rom": "ocarina_of_time"
+    },
+    {
+      "id": "con_403",
+      "text": "Resident Evil 4 wechselte zur Schulterblick-Kamera und definierte das Kameradesign von Action-Spielen für das nächste Jahrzehnt neu",
+      "system": "nintendo_gamecube",
+      "rom": "resident_evil_4"
+    },
+    {
+      "id": "con_404",
+      "text": "Halo: Combat Evolved definierte das Konsolen-FPS-Genre und gab der Xbox im ersten Jahr einen Existenzgrund",
+      "system": "microsoft_xbox",
+      "rom": "halo"
+    },
+    {
+      "id": "con_405",
+      "text": "GoldenEye 007 wurde von einem Erstlingsteam ohne Spielentwicklungserfahrung entwickelt und definierte Konsolen-Shooter neu",
+      "system": "n64",
+      "rom": "goldeneye_007"
+    },
+    {
+      "id": "con_406",
+      "text": "Super Smash Bros. auf dem N64 war ursprünglich ein simpler Prototyp, den Nintendo für zu ungewöhnlich zur Veröffentlichung hielt",
+      "system": "n64",
+      "rom": "super_smash_bros"
+    },
+    {
+      "id": "con_407",
+      "text": "Twilight Princess erschien gleichzeitig auf Wii und GameCube — einer der letzten Dual-Platform-Zelda-Launches",
+      "system": "nintendo_gamecube",
+      "rom": "twilight_princess"
+    },
+    {
+      "id": "con_408",
+      "text": "Kingdom Hearts II führte Reaction Commands und einen komplexeren Kombo-Baum als das originale PS2-Spiel ein",
+      "system": "ps2",
+      "rom": "kingdom_hearts2"
+    },
+    {
+      "id": "con_409",
+      "text": "God of War II auf der PS2 gilt weithin als das grafisch beeindruckendste PS2-Spiel überhaupt — die Hardware bis ans Limit gefordert",
+      "system": "ps2",
+      "rom": "god_of_war2"
+    },
+    {
+      "id": "con_410",
+      "text": "Persona 3 führte das Social-Link-System ein — Alltagsleben und Dungeon-Erkundung gleichzeitig managen",
+      "system": "ps2",
+      "rom": "persona3"
+    },
+    {
+      "id": "con_411",
+      "text": "Persona 4 Golden für die PS Vita bereicherte den PS2-Klassiker mit neuen Inhalten und gilt als die definitive Fassung",
+      "system": "psp",
+      "rom": "persona4_golden"
+    },
+    {
+      "id": "con_412",
+      "text": "The Last of Us Part II ist das meistprämierte Spiel der Geschichte, von über 300 Publikationen als Spiel des Jahres ausgezeichnet",
+      "system": "ps4",
+      "rom": "last_of_us2"
+    },
+    {
+      "id": "con_413",
+      "text": "Red Dead Redemption 2 hatte über 1.200 Schauspieler — eine der größten Besetzungen in der Unterhaltungsgeschichte",
+      "system": "ps4",
+      "rom": "red_dead_redemption2"
+    },
+    {
+      "id": "con_414",
+      "text": "Undertale ermöglichte es, das gesamte Spiel durchzuspielen, ohne einen einzigen Feind zu besiegen, und verfolgte jede Entscheidung",
+      "system": "pc",
+      "rom": "undertale"
+    },
+    {
+      "id": "con_415",
+      "text": "Celeste wurde von seinem Entwickler während eines Kampfes gegen Angststörungen entworfen — das Bergsteigen spiegelt diese Erfahrung wider",
+      "system": "nintendo_switch",
+      "rom": "celeste"
+    },
+    {
+      "id": "con_416",
+      "text": "Disco Elysium ließ Spieler ein Rätsel ausschließlich durch Dialog und Fertigkeitsprüfungen lösen — ohne jeden Kampf",
+      "system": "pc",
+      "rom": "disco_elysium"
+    },
+    {
+      "id": "con_417",
+      "text": "Chrono Cross hatte über 40 spielbare Charaktere — jeder mit einer einzigartigen Rekrutierungsmethode und kurzem Story-Bogen",
+      "system": "psx",
+      "rom": "chrono_cross"
+    },
+    {
+      "id": "con_418",
+      "text": "Final Fantasy IX wurde als Liebesbrief an die NES- und SNES-Ära der originalen Final-Fantasy-Reihe gestaltet",
+      "system": "psx",
+      "rom": "final_fantasy_ix"
+    },
+    {
+      "id": "con_419",
+      "text": "Ico verlangte, eine Begleiterin physisch zu führen — keine Lebensanzeige, nur eine leuchtende Hand zum Festhalten",
+      "system": "ps2",
+      "rom": "ico"
+    },
+    {
+      "id": "con_420",
+      "text": "Bayonetta befestigt Pistolen an ihren Absätzen und kann so in alle vier Richtungen schießen, während sie gleichzeitig kämpft",
+      "system": "microsoft_xbox",
+      "rom": "bayonetta"
+    },
+    {
+      "id": "con_421",
+      "text": "Octopath Traveler nutzte geschichtete Sprites namens HD-2D, die bewusst die SNES-Ästhetik auf dem Switch heraufbeschworen",
+      "system": "nintendo_switch",
+      "rom": "octopath_traveler"
+    },
+    {
+      "id": "con_422",
+      "text": "Shenmue II verlegte die Handlung nach Hongkong und wartet trotz eines dritten Teils noch auf eine echte Auflösung",
+      "system": "dreamcast",
+      "rom": "shenmue2"
+    },
+    {
+      "id": "con_423",
+      "text": "Castlevania: Aria of Sorrow spielt im Jahr 2035 und nutzte feindliche Seelen, um Soma Cruz' Kräfte zu speisen",
+      "system": "gba",
+      "rom": "aria_of_sorrow"
+    },
+    {
+      "id": "con_424",
+      "text": "The Witcher 3: Wild Hunt hatte bei seiner Veröffentlichung 2015 mehr vertonte Dialoge als jedes Spiel zuvor",
+      "system": "pc",
+      "rom": "witcher3"
+    },
+    {
+      "id": "con_425",
+      "text": "Hollow Knights 'Godhome'-DLC fügte 45 Bosskämpfe hinzu, für die Durchschnittsspieler über 20 Stunden benötigten",
+      "system": "nintendo_switch",
+      "rom": "hollow_knight"
+    },
+    {
+      "id": "con_426",
+      "text": "Fire Emblem: Genealogy of the Holy War erstreckt sich über zwei Generationen — die Kinder der Spieler kämpfen in der zweiten Hälfte",
+      "system": "snes",
+      "rom": "fire_emblem_genealogy"
+    },
+    {
+      "id": "con_427",
+      "text": "Super Metroids Intro-Filmsequenz etablierte die gesamte Atmosphäre in unter zwei Minuten mit kaum Dialog",
+      "system": "snes",
+      "rom": "super_metroid"
+    },
+    {
+      "id": "con_428",
+      "text": "Castlevania: Circle of the Moon war ein GBA-Launch-Titel mit einem Kartenkombinationssystem für Magieangriffe",
+      "system": "gba",
+      "rom": "castlevania_cotm"
+    },
+    {
+      "id": "con_429",
+      "text": "Tony Hawk's Underground ließ Spieler einen eigenen Skater erstellen und ihn durch einen vollständigen narrativen Story-Modus begleiten",
+      "system": "ps2",
+      "rom": "tony_hawks_underground"
+    },
+    {
+      "id": "con_430",
+      "text": "EarthBound hatte anfangs kein Speichersystem — Spieler riefen ihren Vater aus einer Telefonzelle an, um den Fortschritt zu sichern",
+      "system": "snes",
+      "rom": "earthbound"
+    },
+    {
+      "id": "con_431",
+      "text": "Killer Instincts Combo-Breaker-System erlaubte es, Mehrfachtreffer-Kombos zu unterbrechen — eine Mechanik, die es nur in dieser Reihe gibt",
+      "system": "snes",
+      "rom": "killer_instinct"
+    },
+    {
+      "id": "con_432",
+      "text": "Halo 3s Multiplayer ermöglichte Aufnahme und Teilen von Spiel-Filmen — eine Funktion, die viele Shooter noch immer nicht bieten",
+      "system": "microsoft_xbox",
+      "rom": "halo3"
+    },
+    {
+      "id": "con_433",
+      "text": "Persona 5s UI-Design wird in Spieldesign-Kursen als Referenzbeispiel für unverwechselbare Interface-Kunst untersucht",
+      "system": "ps4",
+      "rom": "persona5"
+    },
+    {
+      "id": "con_434",
+      "text": "Mother 3s letztes Kapitel hatte keine Feindbegegnungen — Spieler schritten ungehindert durch das emotionale Ende des Spiels",
+      "system": "gba",
+      "rom": "mother3"
+    },
+    {
+      "id": "con_435",
+      "text": "Oblivions radiant KI gab jedem NPC einen Tagesplan und ließ die offene Welt wirklich lebendig wirken",
+      "system": "microsoft_xbox",
+      "rom": "oblivion"
+    }
+  ]
+}

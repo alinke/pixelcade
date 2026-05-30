@@ -1,0 +1,623 @@
+{
+  "category": "handheld",
+  "facts": [
+    {
+      "id": "hand_001",
+      "text": "The Nintendo Game Boy sold over 118 million units worldwide, making it one of the most successful handhelds ever.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hand_002",
+      "text": "The original Game Boy launched in 1989 with a monochrome green LCD screen.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hand_003",
+      "text": "Tetris was the bundled launch title that helped drive Game Boy sales.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hand_004",
+      "text": "The Game Boy used four AA batteries and could last up to 30+ hours of play.",
+      "system": "gb",
+      "rom": "default"
+    },
+    {
+      "id": "hand_005",
+      "text": "The Game Boy's durability and portability helped define handheld gaming.",
+      "system": "gb",
+      "rom": "default"
+    },
+
+    {
+      "id": "hand_006",
+      "text": "The Game Boy Color sold over 50 million units worldwide.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hand_007",
+      "text": "The Game Boy Color added a color screen while maintaining compatibility with original Game Boy games.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hand_008",
+      "text": "The GBC improved performance and expanded memory compared to the original Game Boy.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hand_009",
+      "text": "Pokémon Gold and Silver were major system sellers for the Game Boy Color.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "hand_010",
+      "text": "The Game Boy Color came in a wide variety of translucent shell colors.",
+      "system": "gbc",
+      "rom": "default"
+    },
+
+    {
+      "id": "hand_011",
+      "text": "The Game Boy Advance sold over 81 million units worldwide.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hand_012",
+      "text": "The GBA featured a 32-bit ARM processor, a major leap from the Game Boy Color.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hand_013",
+      "text": "The Game Boy Advance introduced shoulder buttons for more complex controls.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hand_014",
+      "text": "The GBA was backward compatible with original Game Boy and Game Boy Color games.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "hand_015",
+      "text": "The GBA SP introduced a clamshell design with a front-lit screen.",
+      "system": "gba",
+      "rom": "default"
+    },
+
+    {
+      "id": "hand_016",
+      "text": "The Nintendo DS sold over 154 million units worldwide, making it the best-selling handheld ever.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hand_017",
+      "text": "The DS introduced dual screens with touch input on the lower display.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hand_018",
+      "text": "The DS popularized stylus-based gameplay long before smartphones.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hand_019",
+      "text": "The Nintendo DS supported local wireless multiplayer without internet.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "hand_020",
+      "text": "The DS was backward compatible with Game Boy Advance cartridges.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+
+    {
+      "id": "hand_021",
+      "text": "The Nintendo 3DS sold over 75 million units worldwide.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hand_022",
+      "text": "The 3DS featured glasses-free 3D visuals using parallax barrier technology.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hand_023",
+      "text": "The 3DS included an analog Circle Pad for improved control precision.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hand_024",
+      "text": "The Nintendo 3DS was backward compatible with Nintendo DS games.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "hand_025",
+      "text": "The 3DS eShop enabled digital downloads and indie game distribution.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+
+    {
+      "id": "hand_026",
+      "text": "The PlayStation Portable (PSP) sold over 80 million units worldwide.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hand_027",
+      "text": "The PSP used optical UMD discs for game distribution.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hand_028",
+      "text": "The PSP supported multimedia features including music and video playback.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hand_029",
+      "text": "The PSP was one of the first handhelds to offer near-console-quality 3D graphics.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "hand_030",
+      "text": "The PSP Go removed the UMD drive in favor of digital downloads only.",
+      "system": "psp",
+      "rom": "default"
+    },
+
+    {
+      "id": "hand_031",
+      "text": "The PlayStation Vita sold around 15 million units worldwide.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hand_032",
+      "text": "The PS Vita featured an OLED touchscreen display on early models.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hand_033",
+      "text": "The Vita included rear touch controls for innovative gameplay input.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hand_034",
+      "text": "The PS Vita supported remote play with PlayStation 4 consoles.",
+      "system": "psvita",
+      "rom": "default"
+    },
+    {
+      "id": "hand_035",
+      "text": "The PS Vita struggled commercially but gained a strong cult following.",
+      "system": "psvita",
+      "rom": "default"
+    },
+
+    {
+      "id": "hand_036",
+      "text": "The Sega Game Gear sold around 10 million units worldwide.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hand_037",
+      "text": "The Game Gear featured a full-color backlit screen, rare for its time.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hand_038",
+      "text": "The Game Gear was essentially a portable version of the Sega Master System.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hand_039",
+      "text": "The Game Gear required six AA batteries for operation.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "hand_040",
+      "text": "The Game Gear struggled against the Game Boy despite superior hardware.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+
+    {
+      "id": "hand_041",
+      "text": "The Neo Geo Pocket Color sold around 2 million units worldwide.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hand_042",
+      "text": "The Neo Geo Pocket Color featured excellent battery life and a clicky joystick.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hand_043",
+      "text": "The NGPC had a strong fighting game library from SNK.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hand_044",
+      "text": "The Neo Geo Pocket Color was fully backward compatible with monochrome NGPC games.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "hand_045",
+      "text": "The NGPC competed briefly against the Game Boy Color.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+
+    {
+      "id": "hand_046",
+      "text": "The WonderSwan sold over 3 million units in Japan.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hand_047",
+      "text": "The WonderSwan was designed by Gunpei Yokoi, creator of the Game Boy.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hand_048",
+      "text": "The WonderSwan had both vertical and horizontal gameplay orientation modes.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hand_049",
+      "text": "The WonderSwan was only released in Japan but had strong local success.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "hand_050",
+      "text": "The WonderSwan Color improved display and game library over the original model.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+  "id": "hand_051",
+  "text": "The Game Boy Micro was a compact redesign of the Game Boy Advance with a smaller form factor.",
+  "system": "gba",
+  "rom": "default"
+},
+{
+  "id": "hand_052",
+  "text": "The Game Boy Micro featured interchangeable faceplates for customization.",
+  "system": "gba",
+  "rom": "default"
+},
+{
+  "id": "hand_053",
+  "text": "The Game Boy Advance SP introduced a front-lit (later backlit) folding screen design.",
+  "system": "gba",
+  "rom": "default"
+},
+{
+  "id": "hand_054",
+  "text": "The GBA SP was Nintendo’s first clamshell handheld design.",
+  "system": "gba",
+  "rom": "default"
+},
+{
+  "id": "hand_055",
+  "text": "The Game Boy Advance line supported a massive library of both new and legacy games.",
+  "system": "gba",
+  "rom": "default"
+},
+
+{
+  "id": "hand_056",
+  "text": "The Nintendo DS Lite improved brightness and battery life over the original DS.",
+  "system": "nintendo_ds",
+  "rom": "default"
+},
+{
+  "id": "hand_057",
+  "text": "The DS Lite was slimmer and more refined than the original Nintendo DS.",
+  "system": "nintendo_ds",
+  "rom": "default"
+},
+{
+  "id": "hand_058",
+  "text": "The Nintendo DSi added cameras and an online store for downloadable games.",
+  "system": "nintendo_ds",
+  "rom": "default"
+},
+{
+  "id": "hand_059",
+  "text": "The DSi removed the Game Boy Advance cartridge slot found in earlier models.",
+  "system": "nintendo_ds",
+  "rom": "default"
+},
+{
+  "id": "hand_060",
+  "text": "The DS family became one of the most diverse handheld lines in history.",
+  "system": "nintendo_ds",
+  "rom": "default"
+},
+
+{
+  "id": "hand_061",
+  "text": "The Nintendo 3DS XL featured a larger screen for improved visibility.",
+  "system": "nintendo_3ds",
+  "rom": "default"
+},
+{
+  "id": "hand_062",
+  "text": "The New Nintendo 3DS added a second analog nub for better control.",
+  "system": "nintendo_3ds",
+  "rom": "default"
+},
+{
+  "id": "hand_063",
+  "text": "The New 3DS improved processing power for enhanced game performance.",
+  "system": "nintendo_3ds",
+  "rom": "default"
+},
+{
+  "id": "hand_064",
+  "text": "The 3DS line supported StreetPass for passive local multiplayer interactions.",
+  "system": "nintendo_3ds",
+  "rom": "default"
+},
+{
+  "id": "hand_065",
+  "text": "The 3DS had a strong library of both first-party and third-party titles.",
+  "system": "nintendo_3ds",
+  "rom": "default"
+},
+
+{
+  "id": "hand_066",
+  "text": "The PlayStation Portable Slim and Lite improved portability and battery life.",
+  "system": "psp",
+  "rom": "default"
+},
+{
+  "id": "hand_067",
+  "text": "The PSP had a wide range of multimedia capabilities beyond gaming.",
+  "system": "psp",
+  "rom": "default"
+},
+{
+  "id": "hand_068",
+  "text": "The PSP supported downloadable games through the PlayStation Store.",
+  "system": "psp",
+  "rom": "default"
+},
+{
+  "id": "hand_069",
+  "text": "The PSP was popular for homebrew and emulation communities.",
+  "system": "psp",
+  "rom": "default"
+},
+{
+  "id": "hand_070",
+  "text": "The PSP had a widescreen display uncommon in handhelds of its era.",
+  "system": "psp",
+  "rom": "default"
+},
+
+{
+  "id": "hand_071",
+  "text": "The PlayStation Vita Slim reduced weight and improved battery efficiency.",
+  "system": "psvita",
+  "rom": "default"
+},
+{
+  "id": "hand_072",
+  "text": "The PS Vita supported remote play with PlayStation 4 consoles.",
+  "system": "psvita",
+  "rom": "default"
+},
+{
+  "id": "hand_073",
+  "text": "The Vita had one of the most powerful handheld GPUs of its time.",
+  "system": "psvita",
+  "rom": "default"
+},
+{
+  "id": "hand_074",
+  "text": "The PS Vita used proprietary memory cards instead of standard SD cards.",
+  "system": "psvita",
+  "rom": "default"
+},
+{
+  "id": "hand_075",
+  "text": "The PS Vita struggled commercially despite strong hardware and innovation.",
+  "system": "psvita",
+  "rom": "default"
+},
+
+{
+  "id": "hand_076",
+  "text": "The Game Gear had a full-color backlit screen, rare for early handhelds.",
+  "system": "gamegear",
+  "rom": "default"
+},
+{
+  "id": "hand_077",
+  "text": "The Game Gear was essentially a portable Sega Master System.",
+  "system": "gamegear",
+  "rom": "default"
+},
+{
+  "id": "hand_078",
+  "text": "The Game Gear required six AA batteries, limiting portability.",
+  "system": "gamegear",
+  "rom": "default"
+},
+{
+  "id": "hand_079",
+  "text": "The Game Gear had a strong Sega arcade-style game library.",
+  "system": "gamegear",
+  "rom": "default"
+},
+{
+  "id": "hand_080",
+  "text": "The Game Gear was more powerful than the Game Boy but less efficient.",
+  "system": "gamegear",
+  "rom": "default"
+},
+
+{
+  "id": "hand_081",
+  "text": "The Neo Geo Pocket Color featured an extremely precise clicky joystick.",
+  "system": "ngpc",
+  "rom": "default"
+},
+{
+  "id": "hand_082",
+  "text": "The NGPC had a reputation for excellent battery efficiency.",
+  "system": "ngpc",
+  "rom": "default"
+},
+{
+  "id": "hand_083",
+  "text": "The Neo Geo Pocket Color had a strong fighting game lineup.",
+  "system": "ngpc",
+  "rom": "default"
+},
+{
+  "id": "hand_084",
+  "text": "The NGPC was compatible with monochrome Neo Geo Pocket games.",
+  "system": "ngpc",
+  "rom": "default"
+},
+{
+  "id": "hand_085",
+  "text": "The NGPC competed briefly with the Game Boy Color in select markets.",
+  "system": "ngpc",
+  "rom": "default"
+},
+
+{
+  "id": "hand_086",
+  "text": "The WonderSwan was designed by Game Boy creator Gunpei Yokoi.",
+  "system": "wonderswan",
+  "rom": "default"
+},
+{
+  "id": "hand_087",
+  "text": "The WonderSwan could be played in both vertical and horizontal orientations.",
+  "system": "wonderswan",
+  "rom": "default"
+},
+{
+  "id": "hand_088",
+  "text": "The WonderSwan was only released in Japan but achieved strong sales there.",
+  "system": "wonderswan",
+  "rom": "default"
+},
+{
+  "id": "hand_089",
+  "text": "The WonderSwan Color improved screen quality and game library significantly.",
+  "system": "wonderswan",
+  "rom": "default"
+},
+{
+  "id": "hand_090",
+  "text": "The WonderSwan was known for its extremely long battery life.",
+  "system": "wonderswan",
+  "rom": "default"
+},
+
+{
+  "id": "hand_091",
+  "text": "The Atari Lynx was one of the first handhelds with a color LCD screen.",
+  "system": "atarilynx",
+  "rom": "default"
+},
+{
+  "id": "hand_092",
+  "text": "The Atari Lynx featured advanced hardware but struggled with battery life.",
+  "system": "atarilynx",
+  "rom": "default"
+},
+{
+  "id": "hand_093",
+  "text": "The Lynx supported multiplayer linking between multiple devices.",
+  "system": "atarilynx",
+  "rom": "default"
+},
+{
+  "id": "hand_094",
+  "text": "The Atari Lynx was more powerful than the original Game Boy.",
+  "system": "atarilynx",
+  "rom": "default"
+},
+{
+  "id": "hand_095",
+  "text": "The Lynx sold far fewer units than its competitors despite innovation.",
+  "system": "atarilynx",
+  "rom": "default"
+},
+
+{
+  "id": "hand_096",
+  "text": "The Nintendo Game & Watch series was one of the earliest portable gaming devices.",
+  "system": "nintendo_game_and_watch",
+  "rom": "default"
+},
+{
+  "id": "hand_097",
+  "text": "Game & Watch devices featured single-game LCD handheld experiences.",
+  "system": "nintendo_game_and_watch",
+  "rom": "default"
+},
+{
+  "id": "hand_098",
+  "text": "The Game & Watch introduced the D-pad, later used in the NES controller.",
+  "system": "nintendo_game_and_watch",
+  "rom": "default"
+},
+{
+  "id": "hand_099",
+  "text": "Game & Watch units were extremely popular in the early 1980s.",
+  "system": "nintendo_game_and_watch",
+  "rom": "default"
+},
+{
+  "id": "hand_100",
+  "text": "The Game & Watch line laid the foundation for Nintendo’s handheld dominance.",
+  "system": "nintendo_game_and_watch",
+  "rom": "default"
+}
+  ]
+}

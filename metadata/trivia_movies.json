@@ -1,0 +1,3425 @@
+{
+  "category": "movies",
+  "facts": [
+    {
+      "id": "mov_001",
+      "text": "E.T. the Extra-Terrestrial (1982) surpassed Star Wars to become the highest-grossing film of all time, holding that record for 11 years.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_002",
+      "text": "Steven Spielberg shot E.T. entirely from a child's eye level \u2014 cameras were kept low to ground throughout the entire film.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_003",
+      "text": "The sound of E.T.'s voice was created by mixing recordings of a burp artist, a sea otter, raccoons, and horses.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_004",
+      "text": "Melissa Mathison wrote the E.T. screenplay in eight weeks while on location with Spielberg during Raiders of the Lost Ark.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_005",
+      "text": "Harrison Ford was cast in Raiders of the Lost Ark almost by accident \u2014 he was installing a door at Lucasfilm when George Lucas spotted him.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_006",
+      "text": "The iconic scene where Indiana Jones shoots the swordsman was improvised \u2014 Harrison Ford was ill and didn't want to do the planned whip fight.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_007",
+      "text": "Raiders of the Lost Ark was rejected by every major studio before Paramount picked it up \u2014 Disney passed because they thought it was too intense.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_008",
+      "text": "Tom Selleck was originally cast as Indiana Jones but had to decline due to his Magnum P.I. TV commitment.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_009",
+      "text": "Back to the Future was rejected by every major studio \u2014 including Disney, which thought the incest subplot was inappropriate for a family film.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_010",
+      "text": "Eric Stoltz was cast as Marty McFly and filmed for several weeks before Robert Zemeckis decided he wasn't right for the comedic tone.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_011",
+      "text": "The DeLorean was chosen as the time machine partly because its stainless steel body suggested futuristic technology and partly for visual comedy.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_012",
+      "text": "Back to the Future was the highest-grossing film of 1985 and spawned two sequels filmed back-to-back in 1990.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_013",
+      "text": "The Empire Strikes Back's 'I am your father' reveal was kept secret from almost the entire cast \u2014 even David Prowse read a false line during filming.",
+      "system": "movies",
+      "rom": "empire_strikes_back"
+    },
+    {
+      "id": "mov_014",
+      "text": "Yoda in The Empire Strikes Back was primarily performed by Frank Oz, who also voiced Miss Piggy and Fozzie Bear.",
+      "system": "movies",
+      "rom": "empire_strikes_back"
+    },
+    {
+      "id": "mov_015",
+      "text": "The ice planet Hoth sequences in The Empire Strikes Back were filmed in Finse, Norway, where the crew was snowed in and had to adapt scenes.",
+      "system": "movies",
+      "rom": "empire_strikes_back"
+    },
+    {
+      "id": "mov_016",
+      "text": "Empire Strikes Back was the first Star Wars film directed by someone other than George Lucas \u2014 Irvin Kershner took the helm.",
+      "system": "movies",
+      "rom": "empire_strikes_back"
+    },
+    {
+      "id": "mov_017",
+      "text": "Return of the Jedi's Ewoks were originally planned to be Wookiees, but George Lucas changed them to avoid Chewbacca being overpowered.",
+      "system": "movies",
+      "rom": "return_of_the_jedi"
+    },
+    {
+      "id": "mov_018",
+      "text": "The title of Return of the Jedi was kept secret during production under the fake title 'Blue Harvest' to avoid media attention.",
+      "system": "movies",
+      "rom": "return_of_the_jedi"
+    },
+    {
+      "id": "mov_019",
+      "text": "John Belushi was originally intended to star in Ghostbusters before his death in 1982 led to a complete cast rethink.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_020",
+      "text": "The Ghostbusters proton pack effects were created by rotoscoping animated lines over the actors' movements in post-production.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_021",
+      "text": "Bill Murray improvised much of his dialogue in Ghostbusters, including the famous 'dogs and cats living together, mass hysteria' speech.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_022",
+      "text": "Ghostbusters (1984) was the highest-grossing comedy film in history at the time of its release.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_023",
+      "text": "Temple of Doom was filmed as a prequel to Raiders of the Lost Ark \u2014 it is set one year earlier in 1935.",
+      "system": "movies",
+      "rom": "temple_of_doom"
+    },
+    {
+      "id": "mov_024",
+      "text": "Temple of Doom's controversial content directly contributed to the creation of the PG-13 rating by the MPAA.",
+      "system": "movies",
+      "rom": "temple_of_doom"
+    },
+    {
+      "id": "mov_025",
+      "text": "Beverly Hills Cop was originally written as a Sylvester Stallone action vehicle before he dropped out and Eddie Murphy was cast.",
+      "system": "movies",
+      "rom": "beverly_hills_cop"
+    },
+    {
+      "id": "mov_026",
+      "text": "The Beverly Hills Cop theme 'Axel F' by Harold Faltermeyer was written in a single weekend and became one of the decade's defining instrumental tracks.",
+      "system": "movies",
+      "rom": "beverly_hills_cop"
+    },
+    {
+      "id": "mov_027",
+      "text": "Beverly Hills Cop was the highest-grossing film of 1984 and launched Eddie Murphy into movie superstardom.",
+      "system": "movies",
+      "rom": "beverly_hills_cop"
+    },
+    {
+      "id": "mov_028",
+      "text": "Top Gun was based on a magazine article titled 'Top Guns' by journalist Ehud Yonay about the real US Navy Fighter Weapons School.",
+      "system": "movies",
+      "rom": "top_gun"
+    },
+    {
+      "id": "mov_029",
+      "text": "The US Navy saw a 500% increase in recruitment applications after Top Gun was released in 1986.",
+      "system": "movies",
+      "rom": "top_gun"
+    },
+    {
+      "id": "mov_030",
+      "text": "Tom Cruise learned to fly during Top Gun's production and logged enough hours to obtain a pilot's certificate.",
+      "system": "movies",
+      "rom": "top_gun"
+    },
+    {
+      "id": "mov_031",
+      "text": "Val Kilmer reportedly disliked Tom Cruise during filming and their real-life tension translated into their on-screen rivalry as Maverick and Iceman.",
+      "system": "movies",
+      "rom": "top_gun"
+    },
+    {
+      "id": "mov_032",
+      "text": "The Breakfast Club was filmed at an actual high school in Des Plaines, Illinois and shot in just 45 days.",
+      "system": "movies",
+      "rom": "the_breakfast_club"
+    },
+    {
+      "id": "mov_033",
+      "text": "John Hughes reportedly wrote the script for The Breakfast Club in two days.",
+      "system": "movies",
+      "rom": "the_breakfast_club"
+    },
+    {
+      "id": "mov_034",
+      "text": "The famous final scene where Judd Nelson raises his fist in the air was improvised on the last day of filming.",
+      "system": "movies",
+      "rom": "the_breakfast_club"
+    },
+    {
+      "id": "mov_035",
+      "text": "Simple Minds' 'Don't You (Forget About Me)' was rejected by multiple acts before Simple Minds reluctantly recorded it for The Breakfast Club.",
+      "system": "movies",
+      "rom": "the_breakfast_club"
+    },
+    {
+      "id": "mov_036",
+      "text": "Ferris Bueller's Day Off was filmed almost entirely on location in Chicago, and the city became as central to the film as any character.",
+      "system": "movies",
+      "rom": "ferris_buellers_day_off"
+    },
+    {
+      "id": "mov_037",
+      "text": "John Hughes wrote the Ferris Bueller screenplay in less than a week.",
+      "system": "movies",
+      "rom": "ferris_buellers_day_off"
+    },
+    {
+      "id": "mov_038",
+      "text": "Matthew Broderick's repeated fourth-wall breaking in Ferris Bueller was inspired by Zaz, Abrahams, and Zucker comedies.",
+      "system": "movies",
+      "rom": "ferris_buellers_day_off"
+    },
+    {
+      "id": "mov_039",
+      "text": "Sixteen Candles was John Hughes' directorial debut and was shot in just 30 days on a modest budget.",
+      "system": "movies",
+      "rom": "sixteen_candles"
+    },
+    {
+      "id": "mov_040",
+      "text": "Pretty in Pink's original ending had Andie end up with Duckie \u2014 test audiences rejected it and the ending was reshot with Blane.",
+      "system": "movies",
+      "rom": "pretty_in_pink"
+    },
+    {
+      "id": "mov_041",
+      "text": "Jon Cryer's Duckie character in Pretty in Pink was so beloved by audiences that his rejection in the ending caused significant backlash.",
+      "system": "movies",
+      "rom": "pretty_in_pink"
+    },
+    {
+      "id": "mov_042",
+      "text": "Footloose was based on a real controversy in Elmore City, Oklahoma where dancing was banned until 1980.",
+      "system": "movies",
+      "rom": "footloose"
+    },
+    {
+      "id": "mov_043",
+      "text": "Kevin Bacon performed many of his own dance moves in Footloose, though a professional dancer doubled for the more complex sequences.",
+      "system": "movies",
+      "rom": "footloose"
+    },
+    {
+      "id": "mov_044",
+      "text": "Dirty Dancing was filmed in just 43 days on a budget of $6 million and grossed over $214 million worldwide.",
+      "system": "movies",
+      "rom": "dirty_dancing"
+    },
+    {
+      "id": "mov_045",
+      "text": "Patrick Swayze and Jennifer Grey reportedly had genuine chemistry issues during production, which paradoxically made their scenes more compelling.",
+      "system": "movies",
+      "rom": "dirty_dancing"
+    },
+    {
+      "id": "mov_046",
+      "text": "'(I've Had) the Time of My Life' from Dirty Dancing won the Academy Award for Best Original Song in 1988.",
+      "system": "movies",
+      "rom": "dirty_dancing"
+    },
+    {
+      "id": "mov_047",
+      "text": "Tom Cruise's iconic socks-sliding scene in Risky Business was improvised when he slipped during a rehearsal.",
+      "system": "movies",
+      "rom": "risky_business"
+    },
+    {
+      "id": "mov_048",
+      "text": "Risky Business launched Tom Cruise to stardom and established the blue-eyed, all-American persona he built his career on.",
+      "system": "movies",
+      "rom": "risky_business"
+    },
+    {
+      "id": "mov_049",
+      "text": "The Terminator role was turned down by Mel Gibson, Sylvester Stallone, and Nick Nolte before Arnold Schwarzenegger was cast.",
+      "system": "movies",
+      "rom": "the_terminator"
+    },
+    {
+      "id": "mov_050",
+      "text": "James Cameron conceived the idea for The Terminator during a fever dream while sick in Rome during preproduction on Piranha II.",
+      "system": "movies",
+      "rom": "the_terminator"
+    },
+    {
+      "id": "mov_051",
+      "text": "Arnold Schwarzenegger's 'I'll be back' in The Terminator was almost changed \u2014 he wanted to say 'I will be back' as he felt contractions were un-robotic.",
+      "system": "movies",
+      "rom": "the_terminator"
+    },
+    {
+      "id": "mov_052",
+      "text": "The Terminator was made on a budget of just $6.4 million and grossed over $78 million worldwide, launching James Cameron's directorial career.",
+      "system": "movies",
+      "rom": "the_terminator"
+    },
+    {
+      "id": "mov_053",
+      "text": "James Cameron wrote the Aliens script in just a few weeks and directed it as his follow-up to The Terminator.",
+      "system": "movies",
+      "rom": "aliens"
+    },
+    {
+      "id": "mov_054",
+      "text": "Sigourney Weaver was nominated for the Academy Award for Best Actress for Aliens \u2014 rare recognition for a sci-fi action performance.",
+      "system": "movies",
+      "rom": "aliens"
+    },
+    {
+      "id": "mov_055",
+      "text": "The marines' arsenal in Aliens was so detailed that military advisors were brought in to help design realistic-looking future weapons.",
+      "system": "movies",
+      "rom": "aliens"
+    },
+    {
+      "id": "mov_056",
+      "text": "Predator featured two future state governors \u2014 Arnold Schwarzenegger of California and Jesse Ventura of Minnesota.",
+      "system": "movies",
+      "rom": "predator"
+    },
+    {
+      "id": "mov_057",
+      "text": "The Predator's original design was quite different \u2014 Jean-Claude Van Damme wore a red suit to play the alien before the costume was redesigned.",
+      "system": "movies",
+      "rom": "predator"
+    },
+    {
+      "id": "mov_058",
+      "text": "RoboCop was rated X four times before director Paul Verhoeven made cuts to achieve an R rating.",
+      "system": "movies",
+      "rom": "robocop"
+    },
+    {
+      "id": "mov_059",
+      "text": "Peter Weller spent months training with mime artist Moni Yakim to develop RoboCop's distinctive mechanical movement style.",
+      "system": "movies",
+      "rom": "robocop"
+    },
+    {
+      "id": "mov_060",
+      "text": "RoboCop's satirical news and advertisement segments were inspired by Verhoeven's European perspective on American consumer culture.",
+      "system": "movies",
+      "rom": "robocop"
+    },
+    {
+      "id": "mov_061",
+      "text": "Die Hard was based on a novel called 'Nothing Lasts Forever' which was itself a sequel to the book that became The Detective, starring Frank Sinatra.",
+      "system": "movies",
+      "rom": "die_hard"
+    },
+    {
+      "id": "mov_062",
+      "text": "Frank Sinatra had right of first refusal for Die Hard due to his earlier film based on the same source novel, but declined at age 73.",
+      "system": "movies",
+      "rom": "die_hard"
+    },
+    {
+      "id": "mov_063",
+      "text": "Bruce Willis was paid $5 million for Die Hard \u2014 an enormous fee at the time that reflected how much his TV success in Moonlighting had raised his profile.",
+      "system": "movies",
+      "rom": "die_hard"
+    },
+    {
+      "id": "mov_064",
+      "text": "Alan Rickman's terrified expression when Hans Gruber falls from Nakatomi Plaza was genuine \u2014 the stunt coordinators dropped him early without warning.",
+      "system": "movies",
+      "rom": "die_hard"
+    },
+    {
+      "id": "mov_065",
+      "text": "Oliver Stone wrote Platoon based on his own experiences as a U.S. infantry soldier in Vietnam in 1967-68.",
+      "system": "movies",
+      "rom": "platoon"
+    },
+    {
+      "id": "mov_066",
+      "text": "Platoon won four Academy Awards including Best Picture and Best Director, making Oliver Stone the first Vietnam veteran to win a directing Oscar.",
+      "system": "movies",
+      "rom": "platoon"
+    },
+    {
+      "id": "mov_067",
+      "text": "Charlie Sheen, Willem Dafoe, and Tom Berenger all trained with real military veterans in the Philippines jungle before filming began.",
+      "system": "movies",
+      "rom": "platoon"
+    },
+    {
+      "id": "mov_068",
+      "text": "Full Metal Jacket was filmed entirely in England \u2014 Kubrick feared flying and refused to travel to authentic locations.",
+      "system": "movies",
+      "rom": "full_metal_jacket"
+    },
+    {
+      "id": "mov_069",
+      "text": "R. Lee Ermey, who played Gunnery Sergeant Hartman, was a real Marine Corps drill instructor and improvised much of his dialogue.",
+      "system": "movies",
+      "rom": "full_metal_jacket"
+    },
+    {
+      "id": "mov_070",
+      "text": "Stanley Kubrick spent over three years making Full Metal Jacket, demolishing and rebuilding sets multiple times to perfect the look.",
+      "system": "movies",
+      "rom": "full_metal_jacket"
+    },
+    {
+      "id": "mov_071",
+      "text": "Rain Man was in development for four years and passed through numerous directors and lead actor combinations before Cruise and Hoffman committed.",
+      "system": "movies",
+      "rom": "rain_man"
+    },
+    {
+      "id": "mov_072",
+      "text": "Dustin Hoffman prepared for Rain Man by spending time with several autistic savants, including Kim Peek, who was the partial basis for Raymond.",
+      "system": "movies",
+      "rom": "rain_man"
+    },
+    {
+      "id": "mov_073",
+      "text": "Rain Man won the Academy Award for Best Picture in 1989 and was the highest-grossing film of that year.",
+      "system": "movies",
+      "rom": "rain_man"
+    },
+    {
+      "id": "mov_074",
+      "text": "Michael Keaton's casting as Batman in 1989 was met with fan outrage \u2014 thousands of letters were sent to Warner Bros. protesting the choice.",
+      "system": "movies",
+      "rom": "batman_1989"
+    },
+    {
+      "id": "mov_075",
+      "text": "Jack Nicholson negotiated a deal for Batman that included a percentage of merchandise revenue, reportedly earning him $50-90 million from the film.",
+      "system": "movies",
+      "rom": "batman_1989"
+    },
+    {
+      "id": "mov_076",
+      "text": "The 1989 Batman film's marketing campaign, built around a single bat symbol logo, is still studied in business schools as a case study in brand identity.",
+      "system": "movies",
+      "rom": "batman_1989"
+    },
+    {
+      "id": "mov_077",
+      "text": "Gremlins and Indiana Jones and the Temple of Doom both contributed to the creation of the PG-13 rating by the MPAA in 1984.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_078",
+      "text": "The Gremlins themselves were initially sketched as far more grotesque creatures \u2014 the design was softened when Steven Spielberg saw early drawings.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_079",
+      "text": "Gizmo was so beloved during production that the decision to have him transform into a Gremlin was reversed \u2014 a separate Mogwai was used.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_080",
+      "text": "Steven Spielberg wrote the story for The Goonies, which was directed by Richard Donner, who also directed Superman and Lethal Weapon.",
+      "system": "movies",
+      "rom": "the_goonies"
+    },
+    {
+      "id": "mov_081",
+      "text": "The child cast of The Goonies were kept away from the elaborate sets before filming their scenes to capture genuine reactions.",
+      "system": "movies",
+      "rom": "the_goonies"
+    },
+    {
+      "id": "mov_082",
+      "text": "The Goonies used a real pirate ship constructed at the studio \u2014 cast and crew were genuinely awestruck when they first saw it.",
+      "system": "movies",
+      "rom": "the_goonies"
+    },
+    {
+      "id": "mov_083",
+      "text": "Stand by Me was based on Stephen King's novella 'The Body' from his Different Seasons collection.",
+      "system": "movies",
+      "rom": "stand_by_me"
+    },
+    {
+      "id": "mov_084",
+      "text": "River Phoenix's performance in Stand by Me is widely considered one of the best child acting performances in film history.",
+      "system": "movies",
+      "rom": "stand_by_me"
+    },
+    {
+      "id": "mov_085",
+      "text": "Beetlejuice was Tim Burton's second feature film and established his signature macabre aesthetic that defined his career.",
+      "system": "movies",
+      "rom": "beetlejuice"
+    },
+    {
+      "id": "mov_086",
+      "text": "Michael Keaton only appears on screen for about 17 minutes in Beetlejuice despite being the title character.",
+      "system": "movies",
+      "rom": "beetlejuice"
+    },
+    {
+      "id": "mov_087",
+      "text": "The name 'Beetlejuice' was deliberately misspelled in the film's title \u2014 the character's actual name refers to the star Betelgeuse.",
+      "system": "movies",
+      "rom": "beetlejuice"
+    },
+    {
+      "id": "mov_088",
+      "text": "Pee-wee's Big Adventure was Tim Burton's feature film debut and was made for $8 million, grossing over $40 million.",
+      "system": "movies",
+      "rom": "peewees_big_adventure"
+    },
+    {
+      "id": "mov_089",
+      "text": "Poltergeist was produced by Steven Spielberg and directed by Tobe Hooper \u2014 debate still exists about who was truly the creative force behind the film.",
+      "system": "movies",
+      "rom": "poltergeist"
+    },
+    {
+      "id": "mov_090",
+      "text": "Real human skeletons were used as props in the Poltergeist swimming pool scene because they were cheaper than plastic replicas at the time.",
+      "system": "movies",
+      "rom": "poltergeist"
+    },
+    {
+      "id": "mov_091",
+      "text": "Stanley Kubrick deliberately kept cast members off-balance during The Shining \u2014 Shelley Duvall was psychologically isolated by Kubrick throughout production.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_092",
+      "text": "The hedge maze in The Shining didn't exist at the Overlook Hotel exterior location \u2014 it was built as a full-scale set at Elstree Studios.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_093",
+      "text": "The Shining required the most retakes of any film in history for some scenes \u2014 the 'Here's Johnny' door scene alone required 60 doors.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_094",
+      "text": "Al Pacino's Cuban accent in Scarface was coached by a dialect coach but was still criticized by Cuban audiences for its inconsistency.",
+      "system": "movies",
+      "rom": "scarface"
+    },
+    {
+      "id": "mov_095",
+      "text": "Scarface was rated X by the MPAA before cuts were made \u2014 even the R-rated version was rejected by some theaters on moral grounds.",
+      "system": "movies",
+      "rom": "scarface"
+    },
+    {
+      "id": "mov_096",
+      "text": "Scarface was filmed primarily in Los Angeles and Miami despite depicting Miami exclusively \u2014 the Mansion was built in Santa Barbara.",
+      "system": "movies",
+      "rom": "scarface"
+    },
+    {
+      "id": "mov_097",
+      "text": "Blade Runner bombed at the box office in 1982 but steadily built a cult following and is now regarded as one of the greatest sci-fi films ever made.",
+      "system": "movies",
+      "rom": "blade_runner"
+    },
+    {
+      "id": "mov_098",
+      "text": "Ridley Scott and Harrison Ford famously clashed during Blade Runner's production \u2014 Ford reportedly called it the most miserable experience of his career.",
+      "system": "movies",
+      "rom": "blade_runner"
+    },
+    {
+      "id": "mov_099",
+      "text": "Rutger Hauer improvised the 'tears in rain' monologue on the day of filming, and director Ridley Scott described it as 'brilliant.'",
+      "system": "movies",
+      "rom": "blade_runner"
+    },
+    {
+      "id": "mov_100",
+      "text": "Seven different versions of Blade Runner exist \u2014 the original theatrical cut, the director's cut, and the Final Cut, among others.",
+      "system": "movies",
+      "rom": "blade_runner"
+    },
+    {
+      "id": "mov_101",
+      "text": "Tron (1982) was disqualified from the Academy Award for visual effects because the Academy considered computer-generated imagery 'cheating.'",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_102",
+      "text": "Tron used a combination of backlit animation, computer graphics, and practical effects \u2014 only about 15 minutes of the film is actual CGI.",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_103",
+      "text": "WarGames (1983) directly influenced President Reagan, who asked his national security advisors whether a scenario like the film was actually possible.",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_104",
+      "text": "WarGames helped popularize the concept of hacking in the public consciousness and led to the first U.S. computer crime legislation.",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_105",
+      "text": "The famous water-dousing scene in Flashdance was achieved by simply dumping a bucket of water from above \u2014 no special effects were involved.",
+      "system": "movies",
+      "rom": "flashdance"
+    },
+    {
+      "id": "mov_106",
+      "text": "Most of Jennifer Beals' dance sequences in Flashdance were performed by a French male dancer, Marine Jahan, and a breakdancer named Crazy Legs.",
+      "system": "movies",
+      "rom": "flashdance"
+    },
+    {
+      "id": "mov_107",
+      "text": "Tootsie required Dustin Hoffman to wear a full female prosthetic face and wig every day \u2014 a four-hour makeup process.",
+      "system": "movies",
+      "rom": "tootsie"
+    },
+    {
+      "id": "mov_108",
+      "text": "Dustin Hoffman conceived of Tootsie as a serious acting challenge after realizing he could make himself look like an average woman but not a beautiful one.",
+      "system": "movies",
+      "rom": "tootsie"
+    },
+    {
+      "id": "mov_109",
+      "text": "48 Hrs. launched Nick Nolte and Eddie Murphy as a duo and established the buddy-cop genre template that dozens of films would follow.",
+      "system": "movies",
+      "rom": "48_hrs"
+    },
+    {
+      "id": "mov_110",
+      "text": "Eddie Murphy's performance in 48 Hrs. was largely improvised, and his natural charm surprised everyone including director Walter Hill.",
+      "system": "movies",
+      "rom": "48_hrs"
+    },
+    {
+      "id": "mov_111",
+      "text": "The Color Purple earned 11 Oscar nominations in 1986 but won none \u2014 an outcome that generated significant controversy.",
+      "system": "movies",
+      "rom": "the_color_purple"
+    },
+    {
+      "id": "mov_112",
+      "text": "Oprah Winfrey was cast in The Color Purple by Steven Spielberg after he saw her on her local Chicago morning talk show.",
+      "system": "movies",
+      "rom": "the_color_purple"
+    },
+    {
+      "id": "mov_113",
+      "text": "Sean Connery was cast as Indiana Jones's father in The Last Crusade partly as a joke \u2014 he is only 12 years older than Harrison Ford.",
+      "system": "movies",
+      "rom": "last_crusade"
+    },
+    {
+      "id": "mov_114",
+      "text": "The Last Crusade's tank scene was filmed in the Tabernas Desert in Spain, the same location used for many Spaghetti Western films.",
+      "system": "movies",
+      "rom": "last_crusade"
+    },
+    {
+      "id": "mov_115",
+      "text": "Crocodile Dundee was the second-highest-grossing film worldwide in 1986, only behind Top Gun, and was the most successful Australian film ever at the time.",
+      "system": "movies",
+      "rom": "crocodile_dundee"
+    },
+    {
+      "id": "mov_116",
+      "text": "Paul Hogan co-wrote Crocodile Dundee and based the character partly on an Australian bushman he had met years earlier.",
+      "system": "movies",
+      "rom": "crocodile_dundee"
+    },
+    {
+      "id": "mov_117",
+      "text": "Ivan Reitman's Twins paired Arnold Schwarzenegger and Danny DeVito as siblings \u2014 a casting choice so absurd it became the film's entire marketing pitch.",
+      "system": "movies",
+      "rom": "twins"
+    },
+    {
+      "id": "mov_118",
+      "text": "Eddie Murphy appeared in Coming to America as multiple characters using prosthetic makeup \u2014 the barbershop characters were among his personal favorites.",
+      "system": "movies",
+      "rom": "coming_to_america"
+    },
+    {
+      "id": "mov_119",
+      "text": "Art Buchwald sued Paramount Pictures claiming Coming to America was based on his own pitch, and won a landmark case about Hollywood credit practices.",
+      "system": "movies",
+      "rom": "coming_to_america"
+    },
+    {
+      "id": "mov_120",
+      "text": "Robin Williams improvised most of his on-air sequences in Good Morning, Vietnam, and the reaction shots of soldiers were genuine responses to his performance.",
+      "system": "movies",
+      "rom": "good_morning_vietnam"
+    },
+    {
+      "id": "mov_121",
+      "text": "When Harry Met Sally's famous diner scene was filmed in Katz's Delicatessen in New York City, where a sign now marks the exact table.",
+      "system": "movies",
+      "rom": "when_harry_met_sally"
+    },
+    {
+      "id": "mov_122",
+      "text": "Estelle Reiner, who delivers the iconic 'I'll have what she's having' line, was the mother of director Rob Reiner.",
+      "system": "movies",
+      "rom": "when_harry_met_sally"
+    },
+    {
+      "id": "mov_123",
+      "text": "The Field of Dreams baseball diamond in Dyersville, Iowa became a real tourist destination, receiving hundreds of thousands of visitors per year.",
+      "system": "movies",
+      "rom": "field_of_dreams"
+    },
+    {
+      "id": "mov_124",
+      "text": "Kevin Costner fought for Field of Dreams to be made as a straight drama rather than the comedy Universal initially wanted.",
+      "system": "movies",
+      "rom": "field_of_dreams"
+    },
+    {
+      "id": "mov_125",
+      "text": "Driving Miss Daisy won Best Picture at the Oscars despite its director Bruce Beresford not being nominated for Best Director.",
+      "system": "movies",
+      "rom": "driving_miss_daisy"
+    },
+    {
+      "id": "mov_126",
+      "text": "Bull Durham is consistently ranked as the greatest baseball movie ever made and launched Kevin Costner's sports movie run in the late 1980s.",
+      "system": "movies",
+      "rom": "bull_durham"
+    },
+    {
+      "id": "mov_127",
+      "text": "Robert De Niro and Charles Grodin's chemistry in Midnight Run was so natural that improvised scenes made up a significant portion of the final cut.",
+      "system": "movies",
+      "rom": "midnight_run"
+    },
+    {
+      "id": "mov_128",
+      "text": "Three Men and a Baby was the highest-grossing film of 1987 in the United States, driven by word-of-mouth recommendations.",
+      "system": "movies",
+      "rom": "three_men_and_a_baby"
+    },
+    {
+      "id": "mov_129",
+      "text": "Three Men and a Baby was a remake of the French film Trois hommes et un couffin, which was itself based on a play.",
+      "system": "movies",
+      "rom": "three_men_and_a_baby"
+    },
+    {
+      "id": "mov_130",
+      "text": "John Hughes wrote Planes, Trains and Automobiles in a single week after being stranded on a delayed flight himself.",
+      "system": "movies",
+      "rom": "planes_trains_automobiles"
+    },
+    {
+      "id": "mov_131",
+      "text": "Steve Martin and John Candy bonded so deeply during filming of Planes, Trains and Automobiles that the emotional final scene required very few takes.",
+      "system": "movies",
+      "rom": "planes_trains_automobiles"
+    },
+    {
+      "id": "mov_132",
+      "text": "Weird Science was inspired loosely by the 1950s comic book series of the same name, though the plot bears little resemblance.",
+      "system": "movies",
+      "rom": "weird_science"
+    },
+    {
+      "id": "mov_133",
+      "text": "John Cusack's boombox scene in Say Anything \u2014 playing Peter Gabriel's 'In Your Eyes' \u2014 has become one of the most recreated romantic gestures in pop culture.",
+      "system": "movies",
+      "rom": "say_anything"
+    },
+    {
+      "id": "mov_134",
+      "text": "Heathers was rejected by every major studio and ultimately released by a small distributor, eventually becoming a major cult film.",
+      "system": "movies",
+      "rom": "heathers"
+    },
+    {
+      "id": "mov_135",
+      "text": "Winona Ryder was just 15 when she filmed Heathers and had to have a tutor on set throughout production.",
+      "system": "movies",
+      "rom": "heathers"
+    },
+    {
+      "id": "mov_136",
+      "text": "The Lost Boys featured two Coreys \u2014 Corey Haim and Corey Feldman \u2014 who became Hollywood's most famous young duo of the late 1980s.",
+      "system": "movies",
+      "rom": "the_lost_boys"
+    },
+    {
+      "id": "mov_137",
+      "text": "Joel Schumacher originally envisioned The Lost Boys as a much younger, almost children's film \u2014 the concept aged up significantly during development.",
+      "system": "movies",
+      "rom": "the_lost_boys"
+    },
+    {
+      "id": "mov_138",
+      "text": "A Nightmare on Elm Street was Wes Craven's first major studio film and was made for just $1.8 million, grossing over $25 million.",
+      "system": "movies",
+      "rom": "nightmare_on_elm_street"
+    },
+    {
+      "id": "mov_139",
+      "text": "Johnny Depp made his film debut in A Nightmare on Elm Street in 1984, starring in a small role as Glen Lantz.",
+      "system": "movies",
+      "rom": "nightmare_on_elm_street"
+    },
+    {
+      "id": "mov_140",
+      "text": "Robert Englund's Freddy Krueger makeup took three hours to apply each day of filming.",
+      "system": "movies",
+      "rom": "nightmare_on_elm_street"
+    },
+    {
+      "id": "mov_141",
+      "text": "Kevin Bacon appeared in Friday the 13th (1980) early in his career, in a role that was deliberately unglamorous.",
+      "system": "movies",
+      "rom": "friday_the_13th"
+    },
+    {
+      "id": "mov_142",
+      "text": "Friday the 13th's iconic 'ki ki ki, ma ma ma' sound was created by composer Harry Manfredini singing 'kill' and 'mom' and electronically processing the vocals.",
+      "system": "movies",
+      "rom": "friday_the_13th"
+    },
+    {
+      "id": "mov_143",
+      "text": "Michael Myers' mask in Halloween was a William Shatner Captain Kirk mask painted white \u2014 the production couldn't afford a custom design.",
+      "system": "movies",
+      "rom": "halloween"
+    },
+    {
+      "id": "mov_144",
+      "text": "Halloween II (1981) was co-written by John Carpenter, who later admitted he wrote it while drunk and disliked the finished film.",
+      "system": "movies",
+      "rom": "halloween"
+    },
+    {
+      "id": "mov_145",
+      "text": "John Carpenter's The Thing bombed at the box office when it opened the same summer as E.T. \u2014 audiences preferred Spielberg's gentler alien.",
+      "system": "movies",
+      "rom": "the_thing"
+    },
+    {
+      "id": "mov_146",
+      "text": "Rob Bottin's practical creature effects in The Thing required an estimated 40 or more crew members and seven months of construction.",
+      "system": "movies",
+      "rom": "the_thing"
+    },
+    {
+      "id": "mov_147",
+      "text": "The crane kick technique in The Karate Kid was considered an illegal move under real tournament rules \u2014 Daniel LaRusso would have been disqualified.",
+      "system": "movies",
+      "rom": "the_karate_kid"
+    },
+    {
+      "id": "mov_148",
+      "text": "Pat Morita was nominated for the Academy Award for Best Supporting Actor for his role as Mr. Miyagi in The Karate Kid.",
+      "system": "movies",
+      "rom": "the_karate_kid"
+    },
+    {
+      "id": "mov_149",
+      "text": "The Karate Kid was filmed at the All Valley Karate Tournament scenes at a real California karate tournament with real competitors as extras.",
+      "system": "movies",
+      "rom": "the_karate_kid"
+    },
+    {
+      "id": "mov_150",
+      "text": "Mr. T prepared for his Rocky III role as Clubber Lang by training daily with professional boxers for several months.",
+      "system": "movies",
+      "rom": "rocky_iii"
+    },
+    {
+      "id": "mov_151",
+      "text": "Dolph Lundgren, who played Ivan Drago in Rocky IV, was a genuine martial arts champion and hit Sylvester Stallone so hard he hospitalized him.",
+      "system": "movies",
+      "rom": "rocky_iv"
+    },
+    {
+      "id": "mov_152",
+      "text": "Rocky IV's training montage \u2014 Rocky in the snow vs. Drago on machines \u2014 became one of the most parodied sequences of the decade.",
+      "system": "movies",
+      "rom": "rocky_iv"
+    },
+    {
+      "id": "mov_153",
+      "text": "Michael Douglas won the Academy Award for Best Actor for Wall Street, delivering one of the decade's most iconic performances as Gordon Gekko.",
+      "system": "movies",
+      "rom": "wall_street"
+    },
+    {
+      "id": "mov_154",
+      "text": "Gordon Gekko's 'Greed is good' speech was inspired by a real 1986 commencement address by junk bond king Ivan Boesky.",
+      "system": "movies",
+      "rom": "wall_street"
+    },
+    {
+      "id": "mov_155",
+      "text": "Melanie Griffith was nominated for Best Actress for Working Girl, and Sigourney Weaver was nominated for Best Supporting Actress \u2014 unusual for both leads to receive nominations.",
+      "system": "movies",
+      "rom": "working_girl"
+    },
+    {
+      "id": "mov_156",
+      "text": "Who Framed Roger Rabbit brought together Disney and Warner Bros. cartoon characters on screen for the first time \u2014 a licensing feat considered impossible.",
+      "system": "movies",
+      "rom": "who_framed_roger_rabbit"
+    },
+    {
+      "id": "mov_157",
+      "text": "Every piece of animation in Who Framed Roger Rabbit was hand-drawn to interact precisely with live-action footage, using a process that took three years.",
+      "system": "movies",
+      "rom": "who_framed_roger_rabbit"
+    },
+    {
+      "id": "mov_158",
+      "text": "Bob Hoskins spent so much time reacting to invisible cartoon characters on set that he reportedly hallucinated seeing them for months afterward.",
+      "system": "movies",
+      "rom": "who_framed_roger_rabbit"
+    },
+    {
+      "id": "mov_159",
+      "text": "'Weird Al' Yankovic's UHF bombed at the box office but became a cult classic \u2014 it was released the same weekend as Batman (1989).",
+      "system": "movies",
+      "rom": "uhf"
+    },
+    {
+      "id": "mov_160",
+      "text": "Tom Hanks was not the first choice for Big \u2014 the role was offered to several actors including Robert De Niro before Hanks accepted.",
+      "system": "movies",
+      "rom": "big"
+    },
+    {
+      "id": "mov_161",
+      "text": "The FAO Schwarz piano floor scene in Big was choreographed and rehearsed for weeks before filming \u2014 Tom Hanks and Robert Loggia learned the songs for real.",
+      "system": "movies",
+      "rom": "big"
+    },
+    {
+      "id": "mov_162",
+      "text": "Tom Cruise trained extensively with real bartenders for Cocktail (1988), and his flair bartending skills were largely authentic by filming.",
+      "system": "movies",
+      "rom": "cocktail"
+    },
+    {
+      "id": "mov_163",
+      "text": "The Princess Bride was in development for over a decade \u2014 William Goldman wrote the novel in 1973 and the screenplay was passed around Hollywood for years.",
+      "system": "movies",
+      "rom": "the_princess_bride"
+    },
+    {
+      "id": "mov_164",
+      "text": "Cary Elwes broke his toe during filming of The Princess Bride when Andre the Giant accidentally stepped on it while rehearsing.",
+      "system": "movies",
+      "rom": "the_princess_bride"
+    },
+    {
+      "id": "mov_165",
+      "text": "Andre the Giant, who played Fezzik in The Princess Bride, was so strong that Robin Wright felt genuinely carried by a giant rather than acting.",
+      "system": "movies",
+      "rom": "the_princess_bride"
+    },
+    {
+      "id": "mov_166",
+      "text": "Willow was one of the first major films to use digital morphing effects \u2014 the transformation sequences were groundbreaking for 1988.",
+      "system": "movies",
+      "rom": "willow"
+    },
+    {
+      "id": "mov_167",
+      "text": "David Bowie wrote and performed all five original songs in Labyrinth and was involved in costume and production design decisions.",
+      "system": "movies",
+      "rom": "labyrinth"
+    },
+    {
+      "id": "mov_168",
+      "text": "Jim Henson directed Labyrinth as a passion project, but its poor box office performance contributed to his decision to sell his company.",
+      "system": "movies",
+      "rom": "labyrinth"
+    },
+    {
+      "id": "mov_169",
+      "text": "The Dark Crystal (1982) used no human actors on screen \u2014 every character in the film was a puppet operated by the Henson team.",
+      "system": "movies",
+      "rom": "the_dark_crystal"
+    },
+    {
+      "id": "mov_170",
+      "text": "Johnny 5, the robot in Short Circuit, was operated by multiple puppeteers and remote controls \u2014 there were several different versions built for different capabilities.",
+      "system": "movies",
+      "rom": "short_circuit"
+    },
+    {
+      "id": "mov_171",
+      "text": "Mannequin's soundtrack included Starship's 'Nothing's Gonna Stop Us Now,' which reached number one in multiple countries.",
+      "system": "movies",
+      "rom": "mannequin"
+    },
+    {
+      "id": "mov_172",
+      "text": "Goldie Hawn and Kurt Russell, who starred as a romantic couple in Overboard, have been a real-life couple since 1983.",
+      "system": "movies",
+      "rom": "overboard"
+    },
+    {
+      "id": "mov_173",
+      "text": "Broadcast News was written, produced, and directed by James L. Brooks, who had previously created The Simpsons for television.",
+      "system": "movies",
+      "rom": "broadcast_news"
+    },
+    {
+      "id": "mov_174",
+      "text": "Trading Places (1983) starred Dan Aykroyd and Eddie Murphy and was inspired by the 'nature vs nurture' debate.",
+      "system": "movies",
+      "rom": "trading_places"
+    },
+    {
+      "id": "mov_175",
+      "text": "Trading Places marked one of the first times a Black actor received top billing alongside a major white movie star in an American comedy.",
+      "system": "movies",
+      "rom": "trading_places"
+    },
+    {
+      "id": "mov_176",
+      "text": "Chevy Chase improvised nearly all of Fletch's disguise names and character backstories during filming, keeping the director and crew laughing throughout.",
+      "system": "movies",
+      "rom": "fletch"
+    },
+    {
+      "id": "mov_177",
+      "text": "National Lampoon's Vacation was based on John Hughes' own autobiographical short story published in National Lampoon magazine.",
+      "system": "movies",
+      "rom": "vacation"
+    },
+    {
+      "id": "mov_178",
+      "text": "Chevy Chase refused to do the Walley World ride scene without a stunt double, and the compromise was used in the final cut.",
+      "system": "movies",
+      "rom": "vacation"
+    },
+    {
+      "id": "mov_179",
+      "text": "Mel Brooks obtained George Lucas's blessing for Spaceballs on the condition that no Spaceballs merchandise would be produced \u2014 a request both men knew was ironic.",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_180",
+      "text": "Rick Moranis directed himself on set in Spaceballs when Mel Brooks was otherwise occupied \u2014 an informal arrangement both found productive.",
+      "system": "movies",
+      "rom": "spaceballs"
+    },
+    {
+      "id": "mov_181",
+      "text": "Caddyshack's gopher scenes were so difficult to film with the mechanical puppet that director Harold Ramis eventually improvised many of them.",
+      "system": "movies",
+      "rom": "caddyshack"
+    },
+    {
+      "id": "mov_182",
+      "text": "Bill Murray improvised the entire 'cinderella story' gopher scene in Caddyshack \u2014 the camera operator barely kept him in frame.",
+      "system": "movies",
+      "rom": "caddyshack"
+    },
+    {
+      "id": "mov_183",
+      "text": "Stripes used real Fort Knox as a filming location \u2014 a diplomatic negotiation between the producers and the U.S. Army that took over a year.",
+      "system": "movies",
+      "rom": "stripes"
+    },
+    {
+      "id": "mov_184",
+      "text": "Police Academy spawned seven films between 1984 and 1994 and launched Michael Winslow's career as the 'man of 10,000 sound effects.'",
+      "system": "movies",
+      "rom": "police_academy"
+    },
+    {
+      "id": "mov_185",
+      "text": "Porky's was the highest-grossing Canadian film for many years and helped establish the teen sex comedy genre that dominated early 1980s cinema.",
+      "system": "movies",
+      "rom": "porkys"
+    },
+    {
+      "id": "mov_186",
+      "text": "Revenge of the Nerds was filmed at the University of Arizona after the University of Georgia withdrew permission when they read the full script.",
+      "system": "movies",
+      "rom": "revenge_of_the_nerds"
+    },
+    {
+      "id": "mov_187",
+      "text": "Fast Times at Ridgemont High was Cameron Crowe's adaptation of his own book, written while he secretly enrolled in a real California high school as a journalist.",
+      "system": "movies",
+      "rom": "fast_times"
+    },
+    {
+      "id": "mov_188",
+      "text": "Sean Penn's Jeff Spicoli in Fast Times at Ridgemont High is based on a real student Cameron Crowe encountered at Clairemont High School.",
+      "system": "movies",
+      "rom": "fast_times"
+    },
+    {
+      "id": "mov_189",
+      "text": "Some Kind of Wonderful was John Hughes' personal favorite of all the films he wrote, considering it a more honest version of Pretty in Pink.",
+      "system": "movies",
+      "rom": "some_kind_of_wonderful"
+    },
+    {
+      "id": "mov_190",
+      "text": "Can't Buy Me Love starred Patrick Dempsey before his Grey's Anatomy fame and explored social hierarchy in high school with unusual frankness for a comedy.",
+      "system": "movies",
+      "rom": "cant_buy_me_love"
+    },
+    {
+      "id": "mov_191",
+      "text": "Girls Just Want to Have Fun featured Sarah Jessica Parker, Helen Hunt, and Shannen Doherty all before any of them became major TV stars.",
+      "system": "movies",
+      "rom": "girls_just_want_to_have_fun"
+    },
+    {
+      "id": "mov_192",
+      "text": "The Sure Thing was Rob Reiner's warmup film before Stand by Me and was praised for its naturalistic performances from John Cusack and Daphne Zuniga.",
+      "system": "movies",
+      "rom": "the_sure_thing"
+    },
+    {
+      "id": "mov_193",
+      "text": "License to Drive reunited the two Coreys \u2014 Haim and Feldman \u2014 for a teenage comedy about one disastrous night driving without a license.",
+      "system": "movies",
+      "rom": "license_to_drive"
+    },
+    {
+      "id": "mov_194",
+      "text": "Clue (1985) was released with three different endings in different theaters \u2014 audiences didn't know which conclusion they'd see before buying a ticket.",
+      "system": "movies",
+      "rom": "clue"
+    },
+    {
+      "id": "mov_195",
+      "text": "Tim Curry's performance in Clue was filmed multiple times for the different endings, with subtle variations in his delivery for each version.",
+      "system": "movies",
+      "rom": "clue"
+    },
+    {
+      "id": "mov_196",
+      "text": "Purple Rain was Prince's feature film debut and won the Academy Award for Best Original Song Score \u2014 the only Oscar in Prince's career.",
+      "system": "movies",
+      "rom": "purple_rain"
+    },
+    {
+      "id": "mov_197",
+      "text": "The concert footage in Purple Rain was filmed over two nights at First Avenue in Minneapolis with a real audience of Prince fans.",
+      "system": "movies",
+      "rom": "purple_rain"
+    },
+    {
+      "id": "mov_198",
+      "text": "This Is Spinal Tap was largely improvised \u2014 director Rob Reiner gave the actors themes for each scene and they built the dialogue themselves.",
+      "system": "movies",
+      "rom": "this_is_spinal_tap"
+    },
+    {
+      "id": "mov_199",
+      "text": "This Is Spinal Tap popularized the term 'mockumentary' and influenced an entire genre of comedies including The Office and Best in Show.",
+      "system": "movies",
+      "rom": "this_is_spinal_tap"
+    },
+    {
+      "id": "mov_200",
+      "text": "Amadeus won eight Academy Awards in 1985 including Best Picture \u2014 it was shot in Prague, Czechoslovakia, using real historic locations.",
+      "system": "movies",
+      "rom": "amadeus"
+    },
+    {
+      "id": "mov_201",
+      "text": "Dead Poets Society (1989) was filmed at St. Andrew's School in Delaware, standing in for the fictional Welton Academy \u2014 the institution's real traditions were woven into the script.",
+      "system": "movies",
+      "rom": "dead_poets_society"
+    },
+    {
+      "id": "mov_202",
+      "text": "Robin Williams improvised many of his English-class lectures in Dead Poets Society, including theatrical readings of different poets that ran far longer than the scripted scenes.",
+      "system": "movies",
+      "rom": "dead_poets_society"
+    },
+    {
+      "id": "mov_203",
+      "text": "Bill & Ted's Excellent Adventure (1989) used a real decommissioned British phone booth as the time machine \u2014 the production purchased it from a phone company retiring its units.",
+      "system": "movies",
+      "rom": "bill_and_ted"
+    },
+    {
+      "id": "mov_204",
+      "text": "Keanu Reeves initially struggled to shake brooding earlier roles for Bill & Ted, but director Stephen Herek said Ted's sincere naivety came entirely naturally once Reeves stopped trying to be funny.",
+      "system": "movies",
+      "rom": "bill_and_ted"
+    },
+    {
+      "id": "mov_205",
+      "text": "Back to the Future Part II predicted hover boards, video calling, fingerprint payments, and wearable technology for 2015 with surprising accuracy when the film was released in 1989.",
+      "system": "movies",
+      "rom": "back_to_the_future_2"
+    },
+    {
+      "id": "mov_206",
+      "text": "Robert Zemeckis and Bob Gale filmed Back to the Future Parts II and III simultaneously over ten months to avoid recasting Marty McFly after Michael J. Fox signed on.",
+      "system": "movies",
+      "rom": "back_to_the_future_2"
+    },
+    {
+      "id": "mov_207",
+      "text": "Jeff Goldblum based his performance in The Fly (1986) on the concept of metamorphosis, approaching Seth Brundle's transformation as a beautiful process rather than a horror show.",
+      "system": "movies",
+      "rom": "the_fly"
+    },
+    {
+      "id": "mov_208",
+      "text": "The Fly's creature effects were designed by Chris Walas, who won the Academy Award for Best Makeup \u2014 the completed Brundlefly suit weighed 45 pounds and took four hours to apply each day.",
+      "system": "movies",
+      "rom": "the_fly"
+    },
+    {
+      "id": "mov_209",
+      "text": "Fatal Attraction's original ending had Alex commit suicide and frame Dan for murder; the studio replaced it with the bathtub confrontation after preview audiences rejected the psychological ambiguity.",
+      "system": "movies",
+      "rom": "fatal_attraction"
+    },
+    {
+      "id": "mov_210",
+      "text": "Glenn Close researched borderline personality disorder extensively for Fatal Attraction and felt the studio's revised ending betrayed the character's clinical complexity she had built.",
+      "system": "movies",
+      "rom": "fatal_attraction"
+    },
+    {
+      "id": "mov_211",
+      "text": "Brian De Palma's Untouchables baby-carriage staircase sequence was a direct homage to Eisenstein's Battleship Potemkin Odessa Steps \u2014 De Palma called it his most unashamed cinematic tribute.",
+      "system": "movies",
+      "rom": "the_untouchables"
+    },
+    {
+      "id": "mov_212",
+      "text": "Robert De Niro spent six weeks studying Capone's manner and voice for The Untouchables and wore period-correct underwear to stay in character \u2014 details the audience would never see.",
+      "system": "movies",
+      "rom": "the_untouchables"
+    },
+    {
+      "id": "mov_213",
+      "text": "Big Trouble in Little China (1986) deliberately inverted the action hero formula \u2014 Kurt Russell's Jack Burton is the bumbling sidekick while Dennis Dun's Wang Chi is the actual hero.",
+      "system": "movies",
+      "rom": "big_trouble_in_little_china"
+    },
+    {
+      "id": "mov_214",
+      "text": "Big Trouble in Little China bombed at the box office but became a cult classic on home video; John Carpenter considers it among his most personal films despite its commercial failure.",
+      "system": "movies",
+      "rom": "big_trouble_in_little_china"
+    },
+    {
+      "id": "mov_215",
+      "text": "In the David Morrell novel First Blood, Rambo is killed at the end \u2014 Sylvester Stallone convinced the studio to change this to leave the character alive for franchise potential.",
+      "system": "movies",
+      "rom": "first_blood"
+    },
+    {
+      "id": "mov_216",
+      "text": "The scene in First Blood where Rambo sews up his own arm was performed without a stunt double \u2014 Stallone insisted on filming his genuine physical distress rather than faking the anguish.",
+      "system": "movies",
+      "rom": "first_blood"
+    },
+    {
+      "id": "mov_217",
+      "text": "Rambo: First Blood Part II (1985) grossed $300 million worldwide on a $25 million budget and became the defining action sequel of the decade, cementing Stallone as a global icon.",
+      "system": "movies",
+      "rom": "rambo"
+    },
+    {
+      "id": "mov_218",
+      "text": "Commando (1985) features Schwarzenegger killing 81 confirmed on-screen enemies \u2014 a record for a single-hero action film at the time \u2014 including the famous 'I lied' one-liner.",
+      "system": "movies",
+      "rom": "commando"
+    },
+    {
+      "id": "mov_219",
+      "text": "Total Recall (1990) was based on Philip K. Dick's story 'We Can Remember It for You Wholesale' \u2014 the film stayed deliberately ambiguous about whether the events are real or a memory implant.",
+      "system": "movies",
+      "rom": "total_recall"
+    },
+    {
+      "id": "mov_220",
+      "text": "Paul Verhoeven won a Special Achievement Academy Award for Total Recall's makeup and practical effects, including the Mars decompression sequence and the triple-breasted mutant.",
+      "system": "movies",
+      "rom": "total_recall"
+    },
+    {
+      "id": "mov_221",
+      "text": "Lethal Weapon's Shane Black was 22 when he sold the screenplay for $250,000, making him one of the highest-paid young writers in Hollywood at the time.",
+      "system": "movies",
+      "rom": "lethal_weapon"
+    },
+    {
+      "id": "mov_222",
+      "text": "Richard Donner arranged real police ride-alongs for the Lethal Weapon cast to develop authentic chemistry between Murtaugh and Riggs that went beyond scripted buddy-cop clich\u00e9s.",
+      "system": "movies",
+      "rom": "lethal_weapon"
+    },
+    {
+      "id": "mov_223",
+      "text": "Goodfellas' famous three-minute Copacabana tracking shot was achieved in a single unbroken take \u2014 Scorsese called it the most important shot of his career.",
+      "system": "movies",
+      "rom": "goodfellas"
+    },
+    {
+      "id": "mov_224",
+      "text": "Martin Scorsese cut the Layla piano outro freeze-frame sequence in Goodfellas during his first full viewing of the assembly edit \u2014 it was entirely improvised in the editing room.",
+      "system": "movies",
+      "rom": "goodfellas"
+    },
+    {
+      "id": "mov_225",
+      "text": "The Silence of the Lambs is only one of three films to sweep all five major Oscars \u2014 Picture, Director, Actor, Actress, and Screenplay \u2014 joining It Happened One Night and One Flew Over the Cuckoo's Nest.",
+      "system": "movies",
+      "rom": "silence_of_the_lambs"
+    },
+    {
+      "id": "mov_226",
+      "text": "Jodie Foster spent three months interviewing FBI profilers and reading case files before filming The Silence of the Lambs, ensuring Clarice's procedural knowledge was technically authentic.",
+      "system": "movies",
+      "rom": "silence_of_the_lambs"
+    },
+    {
+      "id": "mov_227",
+      "text": "Anthony Hopkins based Hannibal Lecter's stillness and flat cadence on a blend of HAL 9000 from 2001 and Katharine Hepburn's quiet menace \u2014 he was on screen for just 16 minutes.",
+      "system": "movies",
+      "rom": "silence_of_the_lambs"
+    },
+    {
+      "id": "mov_228",
+      "text": "Ghost's pottery scene with 'Unchained Melody' was intended as a brief establishing shot; the director encouraged Swayze and Moore to continue, and the improvised extension became the film's signature moment.",
+      "system": "movies",
+      "rom": "ghost"
+    },
+    {
+      "id": "mov_229",
+      "text": "Whoopi Goldberg won Best Supporting Actress for Ghost after being passed over for The Color Purple \u2014 she later called the comedic role her career's most important turning point.",
+      "system": "movies",
+      "rom": "ghost"
+    },
+    {
+      "id": "mov_230",
+      "text": "Pretty Woman began as a dark script called $3,000 examining drug addiction and street life; Disney bought the rights and transformed it entirely into a romantic fairy tale.",
+      "system": "movies",
+      "rom": "pretty_woman"
+    },
+    {
+      "id": "mov_231",
+      "text": "Julia Roberts' laugh in the jewelry-box scene in Pretty Woman was genuine \u2014 director Garry Marshall had the prop snap shut on her fingers without warning and kept the reaction.",
+      "system": "movies",
+      "rom": "pretty_woman"
+    },
+    {
+      "id": "mov_232",
+      "text": "Tim Burton cast Johnny Depp in Edward Scissorhands because he saw a fragile innocence in Depp that no other actor was displaying at the time \u2014 the two had never met before the audition.",
+      "system": "movies",
+      "rom": "edward_scissorhands"
+    },
+    {
+      "id": "mov_233",
+      "text": "The ice sculptures in Edward Scissorhands required a team of professional ice carvers on standby \u2014 Johnny Depp wore the scissor hands for weeks before filming his first scene.",
+      "system": "movies",
+      "rom": "edward_scissorhands"
+    },
+    {
+      "id": "mov_234",
+      "text": "The aftershave scream in Home Alone was not scripted \u2014 director Chris Columbus instructed Macaulay Culkin to genuinely react to the sensation rather than perform a comedic pose.",
+      "system": "movies",
+      "rom": "home_alone"
+    },
+    {
+      "id": "mov_235",
+      "text": "Home Alone was the third-highest-grossing film in history at the time of its release and held the record for the most profitable comedy for nearly two decades.",
+      "system": "movies",
+      "rom": "home_alone"
+    },
+    {
+      "id": "mov_236",
+      "text": "Kevin Costner spent three years on Dances with Wolves, the last year devoted to learning enough Lakota Sioux to communicate directly with the Native American cast and advisors.",
+      "system": "movies",
+      "rom": "dances_with_wolves"
+    },
+    {
+      "id": "mov_237",
+      "text": "Dances with Wolves was the first Western to win Best Picture since Cimarron in 1931 and sparked mainstream interest in authentic Native American history and language preservation.",
+      "system": "movies",
+      "rom": "dances_with_wolves"
+    },
+    {
+      "id": "mov_238",
+      "text": "Stephen King said Annie Wilkes in Misery represented his own relationship with alcoholism \u2014 the obsessive fan was a metaphor for being controlled by a substance rather than a person.",
+      "system": "movies",
+      "rom": "misery"
+    },
+    {
+      "id": "mov_239",
+      "text": "The hobbling scene in Misery was changed from the novel where Annie uses a lawnmower \u2014 director Rob Reiner felt the sledgehammer version was dramatically stronger and less gratuitous.",
+      "system": "movies",
+      "rom": "misery"
+    },
+    {
+      "id": "mov_240",
+      "text": "Kathryn Bigelow insisted both Keanu Reeves and Patrick Swayze learn to skydive and surf for real in Point Break \u2014 no stunt doubles were used for either actor's physical sequences.",
+      "system": "movies",
+      "rom": "point_break"
+    },
+    {
+      "id": "mov_241",
+      "text": "Point Break's bank robbery sequences were filmed in real functioning Los Angeles banks during off-hours with cooperation from security and management.",
+      "system": "movies",
+      "rom": "point_break"
+    },
+    {
+      "id": "mov_242",
+      "text": "Thelma & Louise was written by Callie Khouri, who won the Academy Award for Best Original Screenplay \u2014 it was her first produced screenplay, written evenings after her day job.",
+      "system": "movies",
+      "rom": "thelma_and_louise"
+    },
+    {
+      "id": "mov_243",
+      "text": "Brad Pitt had just eight minutes of screen time as J.D. in Thelma & Louise but the role transformed him from unknown actor to major movie star within weeks of the film's release.",
+      "system": "movies",
+      "rom": "thelma_and_louise"
+    },
+    {
+      "id": "mov_244",
+      "text": "John Singleton was 23 years old when he wrote and directed Boyz n the Hood, becoming the youngest Best Director Oscar nominee in Academy history.",
+      "system": "movies",
+      "rom": "boyz_n_the_hood"
+    },
+    {
+      "id": "mov_245",
+      "text": "During the filming of Boyz n the Hood, real gang violence erupted near the set multiple times \u2014 Singleton insisted on shooting in the actual South Central neighborhood the film depicted.",
+      "system": "movies",
+      "rom": "boyz_n_the_hood"
+    },
+    {
+      "id": "mov_246",
+      "text": "Oliver Stone's JFK mixed 35mm, 16mm, Super 8, and black-and-white footage to represent different historical timeframes \u2014 the multi-format approach became his visual signature for political films.",
+      "system": "movies",
+      "rom": "jfk"
+    },
+    {
+      "id": "mov_247",
+      "text": "JFK was so politically charged that Congress passed the JFK Records Collection Act in 1992, ordering the declassification of assassination documents, partly in direct response to the film's public impact.",
+      "system": "movies",
+      "rom": "jfk"
+    },
+    {
+      "id": "mov_248",
+      "text": "Robert De Niro gained 60 pounds and had his teeth professionally roughened for Cape Fear (1991), also spending months with a personal trainer to achieve a physique that read as genuinely threatening.",
+      "system": "movies",
+      "rom": "cape_fear"
+    },
+    {
+      "id": "mov_249",
+      "text": "Terminator 2 was the first film to use CGI for a major character role \u2014 ILM developed new rendering software specifically for the T-1000's liquid metal transformation sequences.",
+      "system": "movies",
+      "rom": "terminator_2"
+    },
+    {
+      "id": "mov_250",
+      "text": "James Cameron spent $15 million solely on T-1000 effects in Terminator 2 \u2014 more than the total budget of The Terminator \u2014 and the visual innovations earned ILM a technical Oscar.",
+      "system": "movies",
+      "rom": "terminator_2"
+    },
+    {
+      "id": "mov_251",
+      "text": "Batman Returns was so dark that McDonald's withdrew their Happy Meal promotion mid-campaign after parents objected \u2014 the studio acknowledged it was the first Batman film clearly not aimed at children.",
+      "system": "movies",
+      "rom": "batman_returns"
+    },
+    {
+      "id": "mov_252",
+      "text": "Michelle Pfeiffer's Catwoman suit in Batman Returns was so restrictive she could only breathe in it for 90 seconds before needing to be unsealed \u2014 each take was timed against her lung capacity.",
+      "system": "movies",
+      "rom": "batman_returns"
+    },
+    {
+      "id": "mov_253",
+      "text": "Wayne's World was filmed in 35 days on a $20 million budget and launched Saturday Night Live's most profitable merchandise campaign to that point.",
+      "system": "movies",
+      "rom": "waynes_world"
+    },
+    {
+      "id": "mov_254",
+      "text": "The Bohemian Rhapsody car scene in Wayne's World was Queen's own suggestion \u2014 they called the producers after hearing it described and offered the song without fee negotiation.",
+      "system": "movies",
+      "rom": "waynes_world"
+    },
+    {
+      "id": "mov_255",
+      "text": "Clint Eastwood had held the Unforgiven script for over a decade, waiting until he was old enough to play William Munny \u2014 a broken man rather than an aging one \u2014 convincingly.",
+      "system": "movies",
+      "rom": "unforgiven"
+    },
+    {
+      "id": "mov_256",
+      "text": "Unforgiven deliberately paced its violence to feel terrible rather than exciting \u2014 every death is awkward, messy, or sad, as a conscious rebuttal to every Western Eastwood had made before.",
+      "system": "movies",
+      "rom": "unforgiven"
+    },
+    {
+      "id": "mov_257",
+      "text": "A League of Their Own (1992) was based on the real All-American Girls Professional Baseball League that operated 1943-1954 while men served in World War II \u2014 most surviving players appeared as extras.",
+      "system": "movies",
+      "rom": "a_league_of_their_own"
+    },
+    {
+      "id": "mov_258",
+      "text": "Aladdin's Genie was redesigned based on Robin Williams' actual performance rather than any script description \u2014 the animators studied his standup footage and drew the character around his physicality.",
+      "system": "movies",
+      "rom": "aladdin"
+    },
+    {
+      "id": "mov_259",
+      "text": "Disney and Robin Williams had a well-publicized falling out after Aladdin when the studio used his voice and likeness for merchandise they had agreed to limit \u2014 he did not return for the sequel.",
+      "system": "movies",
+      "rom": "aladdin"
+    },
+    {
+      "id": "mov_260",
+      "text": "The Lion King's wildebeest stampede was created by a program called STAMPEDE, written specifically for the film to render thousands of individually animated animals simultaneously.",
+      "system": "movies",
+      "rom": "the_lion_king"
+    },
+    {
+      "id": "mov_261",
+      "text": "Hans Zimmer's Lion King score won the Academy Award for Original Score; Elton John's piano demo of 'Can You Feel the Love Tonight' was so strong that Disney used it as the final version.",
+      "system": "movies",
+      "rom": "the_lion_king"
+    },
+    {
+      "id": "mov_262",
+      "text": "Spielberg shot Jurassic Park using Jaws-style tension mechanics \u2014 dinosaurs are kept off-screen in the first act, revealed through sound and environmental reaction before the audience sees them.",
+      "system": "movies",
+      "rom": "jurassic_park"
+    },
+    {
+      "id": "mov_263",
+      "text": "The vibrating water cup in Jurassic Park was inspired by Spielberg feeling bass speakers in his car while listening to a Journey song \u2014 he ordered the practical effect built the same day.",
+      "system": "movies",
+      "rom": "jurassic_park"
+    },
+    {
+      "id": "mov_264",
+      "text": "Schindler's List was shot almost entirely on handheld cameras in black and white \u2014 Spielberg abandoned his usual storyboard process to achieve the visual language of documentary footage.",
+      "system": "movies",
+      "rom": "schindlers_list"
+    },
+    {
+      "id": "mov_265",
+      "text": "Steven Spielberg donated his entire Schindler's List director's salary to the USC Shoah Foundation and has declined to watch the completed film since its premiere screening.",
+      "system": "movies",
+      "rom": "schindlers_list"
+    },
+    {
+      "id": "mov_266",
+      "text": "Tom Hanks lost 26 pounds for Philadelphia (1993) and spent months visiting AIDS patients and their families, refusing to play the disease as abstract rather than as a specific lived experience.",
+      "system": "movies",
+      "rom": "philadelphia"
+    },
+    {
+      "id": "mov_267",
+      "text": "Bruce Springsteen composed 'Streets of Philadelphia' after director Jonathan Demme showed him an early cut \u2014 Hanks listened to it on a Walkman before filming each emotional sequence.",
+      "system": "movies",
+      "rom": "philadelphia"
+    },
+    {
+      "id": "mov_268",
+      "text": "The Shawshank Redemption was one of the lowest-earning Stephen King adaptations at release but became the most-watched film in the world through cable and VHS rentals over the following decade.",
+      "system": "movies",
+      "rom": "shawshank_redemption"
+    },
+    {
+      "id": "mov_269",
+      "text": "Frank Darabont turned down a $2.5 million offer from Rob Reiner to let him direct Shawshank Redemption with Harrison Ford as Andy Dufresne, insisting on directing it himself for a fraction of that fee.",
+      "system": "movies",
+      "rom": "shawshank_redemption"
+    },
+    {
+      "id": "mov_270",
+      "text": "Tom Hanks and Robert Zemeckis pre-planned every historical integration scene in Forrest Gump for years before production \u2014 each digital insertion of Hanks into archival footage required months of ILM work.",
+      "system": "movies",
+      "rom": "forrest_gump"
+    },
+    {
+      "id": "mov_271",
+      "text": "The Forrest Gump running sequence was shot over 18 months across multiple seasons and locations; Hanks' beard growth was used to calibrate the chronological continuity of the cross-country run.",
+      "system": "movies",
+      "rom": "forrest_gump"
+    },
+    {
+      "id": "mov_272",
+      "text": "Quentin Tarantino wrote Pulp Fiction on a manual typewriter during a stay at an Amsterdam hotel \u2014 the screenplay was completed in roughly eight weeks of intensive daily writing.",
+      "system": "movies",
+      "rom": "pulp_fiction"
+    },
+    {
+      "id": "mov_273",
+      "text": "John Travolta's casting in Pulp Fiction was Tarantino's personal insistence alone \u2014 the studio wanted Daniel Day-Lewis, and Tarantino reportedly called Travolta daily until he accepted.",
+      "system": "movies",
+      "rom": "pulp_fiction"
+    },
+    {
+      "id": "mov_274",
+      "text": "The Speed bus required large stretches of the unfinished Century Freeway in Los Angeles to be closed for filming \u2014 production could not maintain 55 mph on any existing LA road without shutdowns.",
+      "system": "movies",
+      "rom": "speed"
+    },
+    {
+      "id": "mov_275",
+      "text": "Jan de Bont, Speed's director, had been director of photography on Die Hard and Basic Instinct before directing \u2014 he insisted the freeway jump be filmed on real infrastructure with no CGI.",
+      "system": "movies",
+      "rom": "speed"
+    },
+    {
+      "id": "mov_276",
+      "text": "David Fincher fought for eight months to keep Se7en's 'What's in the box?' ending \u2014 New Line Cinema insisted on a conventional resolution and Fincher threatened to leave the project.",
+      "system": "movies",
+      "rom": "seven"
+    },
+    {
+      "id": "mov_277",
+      "text": "The box in Se7en is never opened on screen \u2014 the audience sees only Brad Pitt's reaction, a deliberately restrained choice Fincher called the most important decision in the entire film.",
+      "system": "movies",
+      "rom": "seven"
+    },
+    {
+      "id": "mov_278",
+      "text": "Bryan Singer protected The Usual Suspects' twist by giving Kevin Spacey pages with a different character's name until the final day of shooting \u2014 none of the other actors knew the truth about Verbal Kint.",
+      "system": "movies",
+      "rom": "the_usual_suspects"
+    },
+    {
+      "id": "mov_279",
+      "text": "Kevin Spacey based Verbal Kint's limp and halting speech on a mental image of Keyser S\u00f6ze as someone who had been physically tortured for years and learned to impersonate weakness as protection.",
+      "system": "movies",
+      "rom": "the_usual_suspects"
+    },
+    {
+      "id": "mov_280",
+      "text": "Mel Gibson directed Braveheart while simultaneously playing William Wallace, crossing between directing and acting roles multiple times on the same shot throughout the 100-day shoot.",
+      "system": "movies",
+      "rom": "braveheart"
+    },
+    {
+      "id": "mov_281",
+      "text": "Braveheart's battle sequences used hundreds of Irish Army Reserve soldiers as extras \u2014 it was the largest crowd Mel Gibson ever directed and the Irish Army's biggest film commitment.",
+      "system": "movies",
+      "rom": "braveheart"
+    },
+    {
+      "id": "mov_282",
+      "text": "James Cameron filmed The Abyss (1989) in a drained nuclear reactor cooling tank in South Carolina \u2014 the production spent more cumulative hours underwater than most submarine deployments.",
+      "system": "movies",
+      "rom": "the_abyss"
+    },
+    {
+      "id": "mov_283",
+      "text": "Mary Elizabeth Mastrantonio broke down crying mid-take during The Abyss and left the set, refusing to return; Cameron eventually convinced her back and used the emotional raw take in the film.",
+      "system": "movies",
+      "rom": "the_abyss"
+    },
+    {
+      "id": "mov_284",
+      "text": "Empire of the Sun (1987) launched Christian Bale's career at age 13 \u2014 Spielberg had auditioned over 4,000 children and called Bale's performance one of the finest child acting turns he had witnessed.",
+      "system": "movies",
+      "rom": "empire_of_the_sun"
+    },
+    {
+      "id": "mov_285",
+      "text": "Spielberg chose to adapt J.G. Ballard's Empire of the Sun as a personal film about childhood innocence colliding with adult horror \u2014 it was his most literary adaptation up to that point.",
+      "system": "movies",
+      "rom": "empire_of_the_sun"
+    },
+    {
+      "id": "mov_286",
+      "text": "The Color of Money (1986) was Paul Newman's first sequel in 25 years, reprising Fast Eddie Felson from The Hustler \u2014 Newman won Best Actor, the only competitive Oscar he had received to that point.",
+      "system": "movies",
+      "rom": "the_color_of_money"
+    },
+    {
+      "id": "mov_287",
+      "text": "Tom Cruise spent months learning trick pool shots from professional players for The Color of Money \u2014 his actual skill during filming visibly impressed Newman, who was himself a genuine pool enthusiast.",
+      "system": "movies",
+      "rom": "the_color_of_money"
+    },
+    {
+      "id": "mov_288",
+      "text": "Witness (1985) was Peter Weir's first American film \u2014 he won the trust of Pennsylvania Amish community leaders before filming in actual Amish buildings and with genuine community members as extras.",
+      "system": "movies",
+      "rom": "witness"
+    },
+    {
+      "id": "mov_289",
+      "text": "Harrison Ford researched the Lancaster County Amish community for months before Witness, spending time living among them to capture the mannerisms and social rhythms his character would observe.",
+      "system": "movies",
+      "rom": "witness"
+    },
+    {
+      "id": "mov_290",
+      "text": "Meryl Streep learned Polish phonetics, studied Holocaust survivor testimony, and lost significant weight for Sophie's Choice (1982), winning her second Academy Award for Best Actress.",
+      "system": "movies",
+      "rom": "sophies_choice"
+    },
+    {
+      "id": "mov_291",
+      "text": "Sophie's Choice director Alan Pakula said Streep's performance in the 'the choice' flashback sequence was accomplished in one take \u2014 she asked not to rehearse it so the emotion would remain unprocessed.",
+      "system": "movies",
+      "rom": "sophies_choice"
+    },
+    {
+      "id": "mov_292",
+      "text": "Gandhi (1982) assembled over 300,000 extras for the funeral sequence \u2014 most were real mourners and local residents who came voluntarily, making it the largest crowd in film history.",
+      "system": "movies",
+      "rom": "gandhi"
+    },
+    {
+      "id": "mov_293",
+      "text": "Romancing the Stone (1984) was Robert Zemeckis' career-saving film \u2014 he had been fired from a previous project and Spielberg had briefly pulled him from Back to the Future until Romancing proved him.",
+      "system": "movies",
+      "rom": "romancing_the_stone"
+    },
+    {
+      "id": "mov_294",
+      "text": "Cocoon (1985) won Don Ameche a Best Supporting Actor Oscar at age 77 \u2014 his first major award after five decades in Hollywood, for a role that required him to actually learn breakdancing.",
+      "system": "movies",
+      "rom": "cocoon"
+    },
+    {
+      "id": "mov_295",
+      "text": "Robert Redford's The Natural (1984) changed Bernard Malamud's novel ending from dark tragedy to triumphant heroism \u2014 Malamud publicly objected but the studio sided with the audience-friendly finale.",
+      "system": "movies",
+      "rom": "the_natural"
+    },
+    {
+      "id": "mov_296",
+      "text": "The Running Man (1987) was based on a Stephen King novel written under the pseudonym Richard Bachman \u2014 King's darkest dystopian thriller, written in a single week during a creative frenzy.",
+      "system": "movies",
+      "rom": "the_running_man"
+    },
+    {
+      "id": "mov_297",
+      "text": "Arnold Schwarzenegger reportedly performed most of his own stunt work on The Running Man, including the zipline sequence, telling the stunt coordinator 'if you can do it, so can I.'",
+      "system": "movies",
+      "rom": "the_running_man"
+    },
+    {
+      "id": "mov_298",
+      "text": "Road House (1989) became a cable television staple after its modest theatrical release, and Patrick Swayze trained with real nightclub bouncers in multiple cities to study security culture authentically.",
+      "system": "movies",
+      "rom": "road_house"
+    },
+    {
+      "id": "mov_299",
+      "text": "David Lynch's Blue Velvet (1986) disturbed Dennis Hopper so profoundly during his audition that he reportedly told Lynch 'I AM Frank Booth' \u2014 a statement Lynch found both terrifying and perfect.",
+      "system": "movies",
+      "rom": "blue_velvet"
+    },
+    {
+      "id": "mov_300",
+      "text": "Blue Velvet's 'In Dreams' lip-sync scene, where Frank Booth mouths Roy Orbison's song with erotic menace, is widely cited as one of the most unsettling four minutes in cinema history.",
+      "system": "movies",
+      "rom": "blue_velvet"
+    },
+    {
+      "id": "mov_301",
+      "text": "Joel and Ethan Coen wrote Blood Simple (1984) while suffering writer's block on a different project \u2014 they raised $750,000 partly by showing investors a fake trailer built from existing film clips.",
+      "system": "movies",
+      "rom": "blood_simple"
+    },
+    {
+      "id": "mov_302",
+      "text": "Raising Arizona (1987) used a single-take neighborhood chase sequence \u2014 Nicolas Cage and Holly Hunter rehearsed the specific route for two weeks before the camera rolled.",
+      "system": "movies",
+      "rom": "raising_arizona"
+    },
+    {
+      "id": "mov_303",
+      "text": "Spike Lee's Do the Right Thing (1989) was shot entirely in one Brooklyn block during the hottest week of the year \u2014 Lee deliberately used the real heat to keep actors uncomfortable and edge performances closer to breaking.",
+      "system": "movies",
+      "rom": "do_the_right_thing"
+    },
+    {
+      "id": "mov_304",
+      "text": "Do the Right Thing was controversially denied a Best Picture nomination at the 1990 Oscars, with many critics considering it the best American film of the decade.",
+      "system": "movies",
+      "rom": "do_the_right_thing"
+    },
+    {
+      "id": "mov_305",
+      "text": "Daniel Day-Lewis refused to leave his wheelchair between takes on My Left Foot (1989) and insisted crew members push him to the set, eating and communicating as Christy Brown throughout production.",
+      "system": "movies",
+      "rom": "my_left_foot"
+    },
+    {
+      "id": "mov_306",
+      "text": "Oliver Stone's Born on the Fourth of July (1989) required Tom Cruise to become proficient in wheelchair navigation before production \u2014 Cruise trained for months in hospitals alongside real veterans.",
+      "system": "movies",
+      "rom": "born_on_the_fourth_of_july"
+    },
+    {
+      "id": "mov_307",
+      "text": "Steven Soderbergh's sex, lies, and videotape (1989) was made for $1.2 million and won the Palme d'Or at Cannes, launching the American independent film movement that dominated the 1990s.",
+      "system": "movies",
+      "rom": "sex_lies_and_videotape"
+    },
+    {
+      "id": "mov_308",
+      "text": "Conan the Barbarian (1982) was Arnold Schwarzenegger's true breakthrough \u2014 he trained for over a year in swordfighting and weight training while learning English phonetically for all his dialogue.",
+      "system": "movies",
+      "rom": "conan_the_barbarian"
+    },
+    {
+      "id": "mov_309",
+      "text": "Oliver Stone substantially rewrote the Conan the Barbarian screenplay, adding the philosophical underpinning and the personal vengeance arc that give the character his tragic dimension.",
+      "system": "movies",
+      "rom": "conan_the_barbarian"
+    },
+    {
+      "id": "mov_310",
+      "text": "Flash Gordon (1980) was scored entirely by Queen \u2014 the band approached the project as a rock opera rather than a conventional film score, delivering an album's worth of original material.",
+      "system": "movies",
+      "rom": "flash_gordon"
+    },
+    {
+      "id": "mov_311",
+      "text": "Clint Eastwood's Pale Rider (1985) was his first Western since High Plains Drifter in which he directed himself \u2014 the film deliberately invokes supernatural mythology around the Preacher character.",
+      "system": "movies",
+      "rom": "pale_rider"
+    },
+    {
+      "id": "mov_312",
+      "text": "Francis Ford Coppola's The Outsiders (1983) featured Tom Cruise, Rob Lowe, Patrick Swayze, Emilio Estevez, Matt Dillon, and C. Thomas Howell \u2014 effectively launching the Brat Pack generation.",
+      "system": "movies",
+      "rom": "the_outsiders"
+    },
+    {
+      "id": "mov_313",
+      "text": "Spike Lee's Malcolm X (1992) ran three hours and twenty minutes and was shot across three continents \u2014 Lee fought Warner Bros. for months to protect the film's length from studio cuts.",
+      "system": "movies",
+      "rom": "malcolm_x"
+    },
+    {
+      "id": "mov_314",
+      "text": "Ron Howard's Backdraft (1991) used real firefighters as stunt performers and technical advisors \u2014 Kurt Russell and William Baldwin each completed an abbreviated firefighting training course before production.",
+      "system": "movies",
+      "rom": "backdraft"
+    },
+    {
+      "id": "mov_315",
+      "text": "Jack Palance's one-armed push-up at the 1992 Academy Awards while accepting Best Supporting Actor for City Slickers was entirely authentic \u2014 he had been a former boxer and still trained daily at 72.",
+      "system": "movies",
+      "rom": "city_slickers"
+    },
+    {
+      "id": "mov_316",
+      "text": "Hook's food fight scene and many of Robin Williams' Peter Pan confrontations with Dustin Hoffman were largely improvised \u2014 the child cast frequently broke into genuine laughter on camera.",
+      "system": "movies",
+      "rom": "hook"
+    },
+    {
+      "id": "mov_317",
+      "text": "Dustin Hoffman's Captain Hook was based on a foppish interpretation \u2014 theatrical and vain rather than purely menacing \u2014 which Hoffman and Williams developed together through extended improvisation sessions.",
+      "system": "movies",
+      "rom": "hook"
+    },
+    {
+      "id": "mov_318",
+      "text": "Joel and Ethan Coen wrote Barton Fink (1991) in three weeks while stuck on Miller's Crossing \u2014 they interrupted one production to write and direct another, completing Barton Fink first.",
+      "system": "movies",
+      "rom": "barton_fink"
+    },
+    {
+      "id": "mov_319",
+      "text": "Basic Instinct's interrogation scene was shot multiple times with different amounts of visible detail \u2014 Sharon Stone has said she was not fully informed about what would appear on screen.",
+      "system": "movies",
+      "rom": "basic_instinct"
+    },
+    {
+      "id": "mov_320",
+      "text": "Fright Night (1985) was one of the few 1980s horror films to treat vampire mythology with internal consistency \u2014 director Tom Holland spent months developing the rules before writing the screenplay.",
+      "system": "movies",
+      "rom": "fright_night"
+    },
+    {
+      "id": "mov_321",
+      "text": "Near Dark (1987) cast the Aliens ensemble \u2014 Lance Henriksen, Bill Paxton, and Jenette Goldstein \u2014 as vampires, deliberately subverting the film's genre by placing sci-fi actors in a horror context.",
+      "system": "movies",
+      "rom": "near_dark"
+    },
+    {
+      "id": "mov_322",
+      "text": "Kindergarten Cop (1990) required Schwarzenegger to work with over 50 children \u2014 he requested an entire week of rehearsal time with the child cast, which was unprecedented on the production schedule.",
+      "system": "movies",
+      "rom": "kindergarten_cop"
+    },
+    {
+      "id": "mov_323",
+      "text": "Stallone's Cobra (1986) was originally developed as a Beverly Hills Cop sequel before the script changed direction \u2014 Stallone insisted on total creative control, including final cut on the edit.",
+      "system": "movies",
+      "rom": "cobra"
+    },
+    {
+      "id": "mov_324",
+      "text": "Lethal Weapon 2 introduced 'diplomatic immunity' to mainstream cultural awareness \u2014 the line 'it's just been revoked' became one of the most quoted movie moments of 1989.",
+      "system": "movies",
+      "rom": "lethal_weapon_2"
+    },
+    {
+      "id": "mov_325",
+      "text": "Anne Rice placed full-page newspaper advertisements condemning Tom Cruise's casting in Interview with the Vampire \u2014 then placed another advertisement praising his performance after seeing the finished film.",
+      "system": "movies",
+      "rom": "interview_with_the_vampire"
+    },
+    {
+      "id": "mov_326",
+      "text": "Brad Pitt and Tom Cruise spent six months in vampire makeup testing sessions before production began on Interview with the Vampire, developing their characters' physicality before the script was finalized.",
+      "system": "movies",
+      "rom": "interview_with_the_vampire"
+    },
+    {
+      "id": "mov_327",
+      "text": "The Mask's CGI required ILM to develop new face-replacement software \u2014 the team built on T2 liquid-metal techniques but needed entirely new tools to produce the elastic cartoon-physics of Jim Carrey's face.",
+      "system": "movies",
+      "rom": "the_mask"
+    },
+    {
+      "id": "mov_328",
+      "text": "Jim Carrey improvised 'like a glove' and the parking ticket routine in Ace Ventura: Pet Detective (1994) \u2014 the film's cult lines were almost entirely unscripted.",
+      "system": "movies",
+      "rom": "ace_ventura"
+    },
+    {
+      "id": "mov_329",
+      "text": "Jeff Daniels' Lloyd Christmas in Dumb and Dumber (1994) was Jim Carrey's specific choice \u2014 he wanted an actor capable of genuine dramatic subtlety to play the slightly dumber of the two.",
+      "system": "movies",
+      "rom": "dumb_and_dumber"
+    },
+    {
+      "id": "mov_330",
+      "text": "True Lies (1994) used real US Marine Corps Harrier jets for the urban sequences \u2014 it was one of the first Hollywood films to receive full active-duty military cooperation for major stunt work.",
+      "system": "movies",
+      "rom": "true_lies"
+    },
+    {
+      "id": "mov_331",
+      "text": "The Hunt for Red October (1990) was the first Jack Ryan film and launched Alec Baldwin in the role before Harrison Ford took over \u2014 Baldwin cited scheduling conflicts with Beetlejuice 2 for his departure.",
+      "system": "movies",
+      "rom": "hunt_for_red_october"
+    },
+    {
+      "id": "mov_332",
+      "text": "Tom Clancy's research for The Hunt for Red October was so technically precise that CIA analysts reportedly used the novel as a training text before its film adaptation.",
+      "system": "movies",
+      "rom": "hunt_for_red_october"
+    },
+    {
+      "id": "mov_333",
+      "text": "Dick Tracy (1990) was designed using only seven colors to match the palette available in the original Chester Gould comic strip \u2014 every costume and set was constrained to this restriction.",
+      "system": "movies",
+      "rom": "dick_tracy"
+    },
+    {
+      "id": "mov_334",
+      "text": "Al Pacino's elaborate prosthetic villain makeup in Dick Tracy was so transformative that members of his own family reportedly did not recognize him during early testing.",
+      "system": "movies",
+      "rom": "dick_tracy"
+    },
+    {
+      "id": "mov_335",
+      "text": "The Fugitive (1993) staged a real train derailment using an actual retired locomotive \u2014 the crash was filmed by seven simultaneous cameras and completed in a single unrepeatable take.",
+      "system": "movies",
+      "rom": "the_fugitive"
+    },
+    {
+      "id": "mov_336",
+      "text": "Tommy Lee Jones won Best Supporting Actor for The Fugitive despite less than 30 minutes of total screen time \u2014 his commanding one-liners overshadowed the film's lead in every shared scene.",
+      "system": "movies",
+      "rom": "the_fugitive"
+    },
+    {
+      "id": "mov_337",
+      "text": "Groundhog Day's original concept set the time loop at 10,000 years of repetition \u2014 Harold Ramis cut this to something ambiguous, and Bill Murray has said he believes Phil was trapped for about 10 years.",
+      "system": "movies",
+      "rom": "groundhog_day"
+    },
+    {
+      "id": "mov_338",
+      "text": "Bill Murray and Harold Ramis permanently ended their decades-long friendship during Groundhog Day after Murray pushed for an existential tone Ramis felt undermined the comedy.",
+      "system": "movies",
+      "rom": "groundhog_day"
+    },
+    {
+      "id": "mov_339",
+      "text": "Mrs. Doubtfire required Robin Williams to spend four hours in makeup daily \u2014 he improvised so many character variations that the film's editors had footage for what felt like three separate movies.",
+      "system": "movies",
+      "rom": "mrs_doubtfire"
+    },
+    {
+      "id": "mov_340",
+      "text": "Holly Hunter spent months learning to actually play the piano for The Piano (1993) \u2014 all keyboard performances in the film are Hunter's own, unreplaced by a professional pianist.",
+      "system": "movies",
+      "rom": "the_piano"
+    },
+    {
+      "id": "mov_341",
+      "text": "Jane Campion became only the second woman to win the Palme d'Or at Cannes for The Piano and remained the only woman to win it outright for over 28 years until Titane in 2021.",
+      "system": "movies",
+      "rom": "the_piano"
+    },
+    {
+      "id": "mov_342",
+      "text": "Daniel Day-Lewis's preparation for The Last of the Mohicans (1992) included weeks of wilderness survival training, learning to skin and dress animals, and mastering period-accurate flintlock rifle technique.",
+      "system": "movies",
+      "rom": "last_of_the_mohicans"
+    },
+    {
+      "id": "mov_343",
+      "text": "The Last of the Mohicans' final chase sequence was filmed in the Blue Ridge Mountains of North Carolina \u2014 Day-Lewis ran the actual terrain barefoot for authenticity rather than using padded footwear.",
+      "system": "movies",
+      "rom": "last_of_the_mohicans"
+    },
+    {
+      "id": "mov_344",
+      "text": "In the Name of the Father (1993) dramatized the wrongful Guildford Four conviction \u2014 the British government objected to its portrayal and the film's release contributed to a renewed examination of the real case.",
+      "system": "movies",
+      "rom": "in_the_name_of_the_father"
+    },
+    {
+      "id": "mov_345",
+      "text": "Daniel Day-Lewis spent two weeks living in a prison cell to prepare for In the Name of the Father, eating prison rations and refusing food from the catering department between takes.",
+      "system": "movies",
+      "rom": "in_the_name_of_the_father"
+    },
+    {
+      "id": "mov_346",
+      "text": "Ed Wood (1994) was Tim Burton's tribute to 'the worst director who ever lived' \u2014 Johnny Depp researched Wood's specific mannerisms by watching every film Wood made and interviewing surviving collaborators.",
+      "system": "movies",
+      "rom": "ed_wood"
+    },
+    {
+      "id": "mov_347",
+      "text": "Johnny Depp has called Ed Wood his favorite performance of his entire career, citing the genuine affection both he and Burton felt for the failed director's innocent and undefended ambition.",
+      "system": "movies",
+      "rom": "ed_wood"
+    },
+    {
+      "id": "mov_348",
+      "text": "The Crow (1994) was completed after Brandon Lee's on-set death using digital compositing to insert his face into scenes he had not finished \u2014 his character's arc was left unchanged.",
+      "system": "movies",
+      "rom": "the_crow"
+    },
+    {
+      "id": "mov_349",
+      "text": "Brandon Lee was killed when a bullet lodged in a prop firearm's barrel from a previous dummy round was discharged \u2014 the accident renewed calls for stricter weapons handling standards on film sets.",
+      "system": "movies",
+      "rom": "the_crow"
+    },
+    {
+      "id": "mov_350",
+      "text": "Kevin Smith shot Clerks (1994) entirely in the actual Quick Stop convenience store where he worked, filming after closing time on a budget of $27,575 charged to multiple credit cards.",
+      "system": "movies",
+      "rom": "clerks"
+    },
+    {
+      "id": "mov_351",
+      "text": "Clerks was shot in black and white because Smith could not afford the lighting rig required for proper color \u2014 a technical limitation that became one of the film's defining aesthetic choices.",
+      "system": "movies",
+      "rom": "clerks"
+    },
+    {
+      "id": "mov_352",
+      "text": "Hoop Dreams (1994) followed two Chicago basketball players for five years and is considered by many critics, including Roger Ebert, to be the best American film of the 1990s.",
+      "system": "movies",
+      "rom": "hoop_dreams"
+    },
+    {
+      "id": "mov_353",
+      "text": "The Shawshank Redemption's overhead shot of Andy with arms raised in the rain was an unscripted Robbins improvisation \u2014 Darabont kept the camera rolling and used the take unchanged.",
+      "system": "movies",
+      "rom": "shawshank_redemption"
+    },
+    {
+      "id": "mov_354",
+      "text": "The floating feather in Forrest Gump required three months of ILM work for just its opening and closing shots \u2014 Zemeckis wanted an object with genuine weight and air resistance, not a stylized abstraction.",
+      "system": "movies",
+      "rom": "forrest_gump"
+    },
+    {
+      "id": "mov_355",
+      "text": "Pulp Fiction's timeline reconstructed chronologically places Butch's story before the diner robbery \u2014 Tarantino structured it backwards to make Honey Bunny and Pumpkin seem more dangerous at the film's end.",
+      "system": "movies",
+      "rom": "pulp_fiction"
+    },
+    {
+      "id": "mov_356",
+      "text": "Speed's production required three identical custom-built buses in case of accidents during the freeway sequence \u2014 all three vehicles were eventually used during the shoot.",
+      "system": "movies",
+      "rom": "speed"
+    },
+    {
+      "id": "mov_357",
+      "text": "Se7en's rain was unplanned \u2014 real rain soaked the set during a night shoot, and David Fincher decided to keep it for every subsequent scene to maintain the world's visual consistency.",
+      "system": "movies",
+      "rom": "seven"
+    },
+    {
+      "id": "mov_358",
+      "text": "The Usual Suspects was filmed in 35 days on a $6 million budget, using pre-planned storyboards so detailed that Bryan Singer said every shot was mapped to within centimeters before the camera arrived.",
+      "system": "movies",
+      "rom": "the_usual_suspects"
+    },
+    {
+      "id": "mov_359",
+      "text": "Natural Born Killers (1994) used 36 different film stocks and formats \u2014 including Super 8, CCTV security footage, animation, and black-and-white film \u2014 to represent different psychological and media states.",
+      "system": "movies",
+      "rom": "natural_born_killers"
+    },
+    {
+      "id": "mov_360",
+      "text": "Four Weddings and a Funeral (1994) was made for \u00a33 million and grossed $250 million worldwide, becoming the highest-grossing British film in history and making Hugh Grant an international star overnight.",
+      "system": "movies",
+      "rom": "four_weddings_and_a_funeral"
+    },
+    {
+      "id": "mov_361",
+      "text": "Sleepless in Seattle (1993) was Nora Ephron's deliberate tribute to classic Hollywood romance \u2014 she embedded multiple clips from An Affair to Remember as meta-commentary on romantic longing.",
+      "system": "movies",
+      "rom": "sleepless_in_seattle"
+    },
+    {
+      "id": "mov_362",
+      "text": "Casino (1995) used three separate narrators \u2014 something Scorsese had never tried before \u2014 and required a 180-page script that took three months of table reads before filming began.",
+      "system": "movies",
+      "rom": "casino"
+    },
+    {
+      "id": "mov_363",
+      "text": "Heat (1995) gave Al Pacino and Robert De Niro their first shared scene despite both having appeared in The Godfather Part II \u2014 they were never on screen together in that film.",
+      "system": "movies",
+      "rom": "heat"
+    },
+    {
+      "id": "mov_364",
+      "text": "Michael Mann choreographed Heat's downtown Los Angeles shootout with real SWAT consultants and former armed robbery specialists, rehearsing the tactical movement for over three months.",
+      "system": "movies",
+      "rom": "heat"
+    },
+    {
+      "id": "mov_365",
+      "text": "Heavenly Creatures (1994) was Peter Jackson's dramatic breakthrough before Lord of the Rings and was Kate Winslet's feature film debut \u2014 the New Zealand murder story remains one of Jackson's finest films.",
+      "system": "movies",
+      "rom": "heavenly_creatures"
+    },
+    {
+      "id": "mov_366",
+      "text": "GoldenEye (1995) was Pierce Brosnan's Bond debut after a six-year hiatus for the franchise \u2014 the film directly acknowledged Bond's Cold War origins had become anachronistic in the post-Soviet world.",
+      "system": "movies",
+      "rom": "goldeneye"
+    },
+    {
+      "id": "mov_367",
+      "text": "Reality Bites (1994) was so accurately calibrated to Generation X's post-college disillusionment that Winona Ryder's character was partly based on interviews Ben Stiller conducted with real 20-somethings.",
+      "system": "movies",
+      "rom": "reality_bites"
+    },
+    {
+      "id": "mov_368",
+      "text": "Splash (1984) was Tom Hanks' first major studio lead and Ron Howard's breakthrough as a commercial director \u2014 it launched both of their careers on the same summer weekend.",
+      "system": "movies",
+      "rom": "splash"
+    },
+    {
+      "id": "mov_369",
+      "text": "Young Guns (1988) assembled Emilio Estevez, Kiefer Sutherland, Lou Diamond Phillips, and Charlie Sheen as Billy the Kid's gang \u2014 it was deliberately marketed as a Brat Pack Western.",
+      "system": "movies",
+      "rom": "young_guns"
+    },
+    {
+      "id": "mov_370",
+      "text": "Conan the Destroyer (1984) was deliberately softened to achieve a PG rating after parents objected to Conan the Barbarian's violence \u2014 Schwarzenegger later called it a creative mistake.",
+      "system": "movies",
+      "rom": "conan_the_destroyer"
+    },
+    {
+      "id": "mov_371",
+      "text": "The Color Purple controversy \u2014 11 Oscar nominations and zero wins \u2014 prompted an ongoing debate about the Academy's relationship with films about Black women's experiences.",
+      "system": "movies",
+      "rom": "the_color_purple"
+    },
+    {
+      "id": "mov_372",
+      "text": "My Cousin Vinny (1992) is used in American law schools as a teaching tool \u2014 the courtroom procedures depicted are so accurate that legal professors show it as an example of proper trial technique.",
+      "system": "movies",
+      "rom": "my_cousin_vinny"
+    },
+    {
+      "id": "mov_373",
+      "text": "Marisa Tomei won Best Supporting Actress for My Cousin Vinny in what was considered a major upset \u2014 a rumor spread that presenter Jack Palance misread the card, which the Academy officially denied.",
+      "system": "movies",
+      "rom": "my_cousin_vinny"
+    },
+    {
+      "id": "mov_374",
+      "text": "Philadelphia was the first major Hollywood studio film to address AIDS and homophobia directly \u2014 previous films had avoided the subject or treated it obliquely out of concern for audience discomfort.",
+      "system": "movies",
+      "rom": "philadelphia"
+    },
+    {
+      "id": "mov_375",
+      "text": "The Lion King producers were convinced Pocahontas, being made simultaneously, would be the bigger hit \u2014 The Lion King was considered the secondary project until it became the highest-grossing film of 1994.",
+      "system": "movies",
+      "rom": "the_lion_king"
+    },
+    {
+      "id": "mov_376",
+      "text": "Schindler's List was turned down by multiple directors including Roman Polanski, who was himself a Holocaust survivor, before Spielberg committed \u2014 Polanski later made The Pianist on the same subject.",
+      "system": "movies",
+      "rom": "schindlers_list"
+    },
+    {
+      "id": "mov_377",
+      "text": "Forrest Gump's 'Life is like a box of chocolates' line was slightly altered from the novel, which reads 'life was like a box of chocolates' \u2014 screenwriter Eric Roth changed the tense deliberately.",
+      "system": "movies",
+      "rom": "forrest_gump"
+    },
+    {
+      "id": "mov_378",
+      "text": "Pulp Fiction's 'Royale with Cheese' scene was taken verbatim from a real conversation between Tarantino and John Travolta about the different names for McDonald's menu items in Europe.",
+      "system": "movies",
+      "rom": "pulp_fiction"
+    },
+    {
+      "id": "mov_379",
+      "text": "Jurassic Park's original ending had Lex and Tim typing on a UNIX system \u2014 the actual Silicon Graphics workstation software was real, but the 3D file browser interface was a real SGI demo program.",
+      "system": "movies",
+      "rom": "jurassic_park"
+    },
+    {
+      "id": "mov_380",
+      "text": "The Shawshank Redemption's Tim Robbins nearly dropped out of the film after learning Morgan Freeman had been cast \u2014 he felt he couldn't match Freeman's natural gravitas and asked Darabont to reconsider.",
+      "system": "movies",
+      "rom": "shawshank_redemption"
+    },
+    {
+      "id": "mov_381",
+      "text": "Terminator 2's production required 50,000 gallons of liquid latex for the T-1000 stop-motion testing alone \u2014 most of these tests were abandoned in favor of pure CGI.",
+      "system": "movies",
+      "rom": "terminator_2"
+    },
+    {
+      "id": "mov_382",
+      "text": "Good Will Hunting (1997) won Matt Damon and Ben Affleck the Academy Award for Original Screenplay \u2014 Affleck was 25 and Damon 27, making them among the youngest winners in that category.",
+      "system": "movies",
+      "rom": "good_will_hunting"
+    },
+    {
+      "id": "mov_383",
+      "text": "Robin Williams won Best Supporting Actor for Good Will Hunting and reportedly improvised the story about his wife's flatulence in bed, which caused the camera to shake from the cinematographer laughing.",
+      "system": "movies",
+      "rom": "good_will_hunting"
+    },
+    {
+      "id": "mov_384",
+      "text": "L.A. Confidential (1997) was based on James Ellroy's novel and required the cast to study 1950s Los Angeles police culture through archival records and technical advisors before any script work.",
+      "system": "movies",
+      "rom": "la_confidential"
+    },
+    {
+      "id": "mov_385",
+      "text": "L.A. Confidential was considered a long shot against Titanic at the 1998 Oscars but won Best Adapted Screenplay and Best Supporting Actress \u2014 Kim Basinger's win was a genuine upset.",
+      "system": "movies",
+      "rom": "la_confidential"
+    },
+    {
+      "id": "mov_386",
+      "text": "Boogie Nights (1997) was Paul Thomas Anderson's breakthrough film at age 27 \u2014 Burt Reynolds' performance as Jack Horner was based partly on real adult film directors Anderson had interviewed.",
+      "system": "movies",
+      "rom": "boogie_nights"
+    },
+    {
+      "id": "mov_387",
+      "text": "Men in Black (1997) was conceived as a serious science fiction franchise but Will Smith's improvisational energy turned it into a comedy \u2014 Barry Sonnenfeld gave Smith latitude to react naturally.",
+      "system": "movies",
+      "rom": "men_in_black"
+    },
+    {
+      "id": "mov_388",
+      "text": "Titanic (1997) was the most expensive film ever made at $200 million and James Cameron refused to trim the runtime, insisting on 194 minutes as the minimum necessary to earn the audience's grief.",
+      "system": "movies",
+      "rom": "titanic"
+    },
+    {
+      "id": "mov_389",
+      "text": "Cameron designed Titanic's sinking sequence by studying the actual wreck using deep-sea footage he had shot himself on real dives to the ship before production began.",
+      "system": "movies",
+      "rom": "titanic"
+    },
+    {
+      "id": "mov_390",
+      "text": "As Good as It Gets (1997) required Jack Nicholson to understand OCD behavior authentically \u2014 he spent time with clinical psychologists and several OCD patients before developing Melvin's specific rituals.",
+      "system": "movies",
+      "rom": "as_good_as_it_gets"
+    },
+    {
+      "id": "mov_391",
+      "text": "Fargo (1996) opens with the claim of being based on a true story \u2014 Joel and Ethan Coen later confirmed this was entirely fabricated; the film is fiction they presented as fact for tonal effect.",
+      "system": "movies",
+      "rom": "fargo"
+    },
+    {
+      "id": "mov_392",
+      "text": "Frances McDormand's Marge Gunderson in Fargo is the only pregnant police officer to win Best Actress at the Academy Awards \u2014 she and Joel Coen are married in real life.",
+      "system": "movies",
+      "rom": "fargo"
+    },
+    {
+      "id": "mov_393",
+      "text": "Jerry Maguire (1996) launched the careers of Ren\u00e9e Zellweger and Cuba Gooding Jr. simultaneously \u2014 Gooding won Best Supporting Actor while Zellweger's breakout established her as a leading actress.",
+      "system": "movies",
+      "rom": "jerry_maguire"
+    },
+    {
+      "id": "mov_394",
+      "text": "The English Patient (1996) won nine Academy Awards and was the last film before Titanic to make over $200 million at the worldwide box office on a literary drama budget.",
+      "system": "movies",
+      "rom": "the_english_patient"
+    },
+    {
+      "id": "mov_395",
+      "text": "Secrets & Lies (1996) by Mike Leigh was performed entirely without a script \u2014 Leigh develops all of his films through extensive actor improvisations over many months before any camera rolls.",
+      "system": "movies",
+      "rom": "secrets_and_lies"
+    },
+    {
+      "id": "mov_396",
+      "text": "The Full Monty (1997) was made for \u00a32.4 million by Channel 4 Films and became the highest-grossing British film in history at that time, earning over $250 million worldwide.",
+      "system": "movies",
+      "rom": "the_full_monty"
+    },
+    {
+      "id": "mov_397",
+      "text": "Air Force One (1997) cast Harrison Ford as a president who fights back against terrorists \u2014 the role was intended as a commentary on the post-Cold War debate about American intervention abroad.",
+      "system": "movies",
+      "rom": "air_force_one"
+    },
+    {
+      "id": "mov_398",
+      "text": "Con Air (1997) deliberately cast the most unlikely ensemble for an action film \u2014 Nicolas Cage, John Malkovich, John Cusack, Steve Buscemi, and Ving Rhames \u2014 the absurdity was entirely intentional.",
+      "system": "movies",
+      "rom": "con_air"
+    },
+    {
+      "id": "mov_399",
+      "text": "Face/Off (1997) required John Travolta and Nicolas Cage to study each other's mannerisms and physicality so precisely that they could convincingly play the other actor's character for large portions of the film.",
+      "system": "movies",
+      "rom": "face_off"
+    },
+    {
+      "id": "mov_400",
+      "text": "Trainspotting (1996) was made for \u00a31.5 million and grossed $72 million worldwide \u2014 Danny Boyle's adaptation of Irvine Welsh's novel was the most profitable British film ever made relative to its budget.",
+      "system": "movies",
+      "rom": "trainspotting"
+    },
+    {
+      "id": "mov_401",
+      "text": "Star Wars (1977) was rejected by every major studio except 20th Century Fox, and George Lucas gave up his director's fee in exchange for sequel and merchandise rights \u2014 a decision worth billions.",
+      "system": "movies",
+      "rom": "star_wars"
+    },
+    {
+      "id": "mov_402",
+      "text": "The original Star Wars had a troubled production, with sets collapsing in Tunisia, the Millennium Falcon not being finished on time, and early cuts described by editor John Jympson as unwatchable.",
+      "system": "movies",
+      "rom": "star_wars"
+    },
+    {
+      "id": "mov_403",
+      "text": "Alec Guinness negotiated a deal for 2.25% of the net profits from Star Wars, which reportedly earned him over \u00a33 million \u2014 and he later said he found the role embarrassing.",
+      "system": "movies",
+      "rom": "star_wars"
+    },
+    {
+      "id": "mov_404",
+      "text": "In Star Wars, David Prowse played the body of Darth Vader throughout the original trilogy but was dubbed by James Earl Jones; Prowse reportedly didn't know Jones would replace his voice until he heard it in the theater.",
+      "system": "movies",
+      "rom": "star_wars"
+    },
+    {
+      "id": "mov_405",
+      "text": "The Empire Strikes Back (1980) is often ranked as the greatest sequel ever made and was the first Star Wars film George Lucas did not direct, handing the role to Irvin Kershner.",
+      "system": "movies",
+      "rom": "empire_strikes_back"
+    },
+    {
+      "id": "mov_406",
+      "text": "Harrison Ford famously ad-libbed his response to Princess Leia's 'I love you' in The Empire Strikes Back \u2014 instead of the scripted 'I love you too,' he replied 'I know,' which became one of cinema's most quoted lines.",
+      "system": "movies",
+      "rom": "empire_strikes_back"
+    },
+    {
+      "id": "mov_407",
+      "text": "Return of the Jedi (1983) was originally titled 'Revenge of the Jedi' \u2014 promotional materials were printed before George Lucas changed it, reasoning that Jedi don't seek revenge.",
+      "system": "movies",
+      "rom": "return_of_the_jedi"
+    },
+    {
+      "id": "mov_408",
+      "text": "The Ewoks in Return of the Jedi were designed partly based on a dream George Lucas had about a bear; actor Warwick Davis, then 11 years old, played Wicket after the original actor fell ill.",
+      "system": "movies",
+      "rom": "return_of_the_jedi"
+    },
+    {
+      "id": "mov_409",
+      "text": "The Star Wars Holiday Special aired once on CBS in November 1978 and was so poorly received that George Lucas reportedly tried to have all copies destroyed \u2014 it has never had an official re-release.",
+      "system": "movies",
+      "rom": "star_wars"
+    },
+    {
+      "id": "mov_410",
+      "text": "The Star Wars lightsaber sound effect was created by sound designer Ben Burtt by combining the hum of an old film projector motor with interference from a television set picked up by a microphone.",
+      "system": "movies",
+      "rom": "star_wars"
+    },
+    {
+      "id": "mov_411",
+      "text": "E.T. the Extra-Terrestrial (1982) was Steven Spielberg's most personal film; he conceived the idea as a way of coping with his parents' divorce by imagining an imaginary alien friend.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_412",
+      "text": "E.T. dethroned Star Wars as the highest-grossing film of all time, earning over $793 million worldwide in its original 1982 release and holding the box office record for a decade.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_413",
+      "text": "The alien E.T. was designed by Carlo Rambaldi, who based the creature's face on poet Carl Sandburg, Albert Einstein, and a pug dog, giving it an otherworldly yet deeply expressive appearance.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_414",
+      "text": "To keep E.T.'s movements natural, Spielberg hired performers with no legs to operate the puppet's lower body, and also used a genuine 12-year-old actor inside the E.T. costume for walking shots.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_415",
+      "text": "John Williams' score for E.T. is considered one of his greatest achievements; the bicycle-flight sequence was filmed with a temp track, but Spielberg gave Williams full creative control and the final score was performed live to picture at the premiere.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_416",
+      "text": "In E.T. the Extra-Terrestrial, Dee Wallace, Henry Thomas, and Robert MacNaughton were cast as the family, while the infant Drew Barrymore was so convincing in her audition that Spielberg cast her immediately after she told him she was a fairy princess.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_417",
+      "text": "Product placement in E.T. is credited with saving Reese's Pieces: the candy's sales jumped 65% after the film's release after M&M's declined to have their candy used in the bicycle and forest scenes.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_418",
+      "text": "E.T. won four Academy Awards in 1983 \u2014 Best Original Score, Best Sound, Best Sound Editing, and Best Visual Effects \u2014 but lost Best Picture to Gandhi, a result Spielberg called one of cinema's great upsets.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_419",
+      "text": "For the 20th anniversary re-release of E.T. the Extra-Terrestrial in 2002, Spielberg digitally replaced the government agents' guns with walkie-talkies; he later reversed this decision, restoring the original for subsequent releases and calling the change a mistake.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_420",
+      "text": "The Atari 2600 game based on E.T. (1982), rushed out in five weeks by developer Howard Scott Warshaw, is often cited as one of the worst video games ever made and contributed to the 1983 video game market crash.",
+      "system": "movies",
+      "rom": "et"
+    },
+    {
+      "id": "mov_421",
+      "text": "Raiders of the Lost Ark (1981) was born from a conversation between George Lucas and Steven Spielberg on a beach in Hawaii the day Star Wars opened \u2014 Spielberg said he wanted to direct a James Bond film, and Lucas said he had something better.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_422",
+      "text": "Tom Selleck was originally cast as Indiana Jones in Raiders of the Lost Ark but had to drop out due to his Magnum P.I. TV commitment; Harrison Ford took the role and went on to define the character across four films.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_423",
+      "text": "In Raiders of the Lost Ark, the famous scene where Indy shoots the sword-wielding Arab swordsman was not in the script \u2014 Harrison Ford was too ill with dysentery to film the planned whip fight, so he improvised pulling out his gun, and Spielberg kept it.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_424",
+      "text": "Raiders of the Lost Ark was shot in just 73 days and came in under its $20 million budget \u2014 a remarkable feat given the complex action sequences and location shoots across France, Tunisia, and Hawaii.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_425",
+      "text": "The rolling boulder that chases Indiana Jones in the opening sequence of Raiders of the Lost Ark was made of fiberglass and weighed about 300 pounds; it required multiple takes and Ford was nearly caught by it during filming.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_426",
+      "text": "John Williams composed the iconic Indiana Jones march, called 'The Raiders March,' in a single session \u2014 Spielberg picked it on the first play-through and it became one of the most recognizable themes in film history.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_427",
+      "text": "The snake pit scene in Raiders of the Lost Ark required over 7,000 snakes, including cobras \u2014 Harrison Ford has a real fear of snakes, and the production imported additional snakes after early extras were deemed too small on camera.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_428",
+      "text": "Raiders of the Lost Ark earned $389 million worldwide and won five Academy Awards including Best Film Editing, Best Art Direction, Best Sound, Best Visual Effects, and a Special Achievement Award for sound effects editing.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_429",
+      "text": "In Raiders of the Lost Ark, the ark's face-melting finale was achieved through practical effects \u2014 wax faces shot in slow motion, air bladders under latex skin, and stop-motion skeletons; ILM's work earned the film its Visual Effects Oscar.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_430",
+      "text": "Indiana Jones's distinctive costume in Raiders of the Lost Ark \u2014 leather jacket, fedora, and bullwhip \u2014 was designed by costume designer Deborah Nadoolman Landis, who based the look on 1930s movie serials and old adventure pulp magazines.",
+      "system": "movies",
+      "rom": "raiders_of_the_lost_ark"
+    },
+    {
+      "id": "mov_431",
+      "text": "The Breakfast Club (1985) was written and directed by John Hughes, who wrote the entire script in just two days; he drew heavily from his own high school experiences and the social cliques he observed growing up in suburban Chicago.",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_432",
+      "text": "The Breakfast Club was shot almost entirely inside a real high school gym converted into a library set at Maine North High School in Des Plaines, Illinois, which had recently closed \u2014 giving the production a genuine institutional atmosphere.",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_433",
+      "text": "The five student actors in The Breakfast Club \u2014 Emilio Estevez, Anthony Michael Hall, Judd Nelson, Molly Ringwald, and Ally Sheedy \u2014 were all in their teens or early twenties and became known as part of the 'Brat Pack' after the film's release.",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_434",
+      "text": "In The Breakfast Club, Judd Nelson stayed in character throughout the entire shoot and reportedly harassed Molly Ringwald between takes to provoke genuine reactions; executive producer Ned Tanen demanded Nelson be fired, but John Hughes refused.",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_435",
+      "text": "The Breakfast Club was made on a modest budget of approximately $1 million and grossed over $51 million worldwide, making it one of the most profitable films of 1985 relative to its cost.",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_436",
+      "text": "Simple Minds recorded 'Don't You (Forget About Me)' for The Breakfast Club soundtrack but had initially turned it down; the band didn't write the song \u2014 it was penned by Keith Forsey and Steve Schiff \u2014 but it became the biggest hit of their career.",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_437",
+      "text": "The iconic closing shot of The Breakfast Club \u2014 Judd Nelson raising his fist in the air while walking across the football field \u2014 was an improvised moment not in the script; John Hughes chose to end the film on it after seeing Nelson do it between takes.",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_438",
+      "text": "The original cut of The Breakfast Club ran over two hours; John Hughes edited it down to 97 minutes, cutting several scenes including extended dialogue sequences that fleshed out each character's home life in greater detail.",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_439",
+      "text": "John Hughes gave each of The Breakfast Club's five cast members their own personalized copy of the script with notes so they could understand their character's inner life before filming began, an approach that helped the young actors find emotional authenticity.",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_440",
+      "text": "The Breakfast Club is preserved in the United States National Film Registry by the Library of Congress as 'culturally, historically, or aesthetically significant' and is widely credited with defining the teen movie genre of the 1980s.",
+      "system": "movies",
+      "rom": "breakfast_club"
+    },
+    {
+      "id": "mov_441",
+      "text": "The Shining (1980) was directed by Stanley Kubrick and based on Stephen King's 1977 novel; King famously disliked the adaptation, objecting to Jack Nicholson's casting as too obviously menacing from the start.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_442",
+      "text": "In The Shining, Stanley Kubrick held the world record for the most takes of a single scene \u2014 the axe-through-the-door scene required 60 takes, and the 'Here's Johnny!' line was ad-libbed by Jack Nicholson, referencing The Tonight Show.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_443",
+      "text": "The Overlook Hotel interior in The Shining was built entirely on soundstages at Elstree Studios in England, with production designer Roy Walker creating an intentionally impossible floor plan with windows that could not exist in a real building.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_444",
+      "text": "In The Shining, Shelley Duvall's performance was deliberately made miserable by Kubrick, who ran the baseball bat scene for 127 takes \u2014 the most takes ever for a scene involving dialogue \u2014 and kept her isolated from the crew to heighten her distress.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_445",
+      "text": "The Steadicam work in The Shining, operated by inventor Garrett Brown, revolutionized the use of the device in cinema; the low tracking shots following Danny on his tricycle through the hotel corridors became some of the most influential camerawork in horror history.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_446",
+      "text": "Kubrick shot over a million feet of film for The Shining \u2014 an extraordinary ratio \u2014 and the production ran for over a year, with Kubrick frequently calling writers and academics in the middle of the night to discuss the film's themes.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_447",
+      "text": "In The Shining, the 'All work and no play makes Jack a dull boy' manuscript sequence required different versions to be typed out for each international release \u2014 the German version used a different idiom, the Italian another, so no version was simply translated.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_448",
+      "text": "The Shining was initially dismissed by critics on release but steadily grew into one of the most analyzed films ever made; the 2012 documentary Room 237 catalogued fan theories ranging from the Apollo moon landing to the genocide of Native Americans.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_449",
+      "text": "For The Shining, Kubrick used a new film stock, 5247, and an ultra-wide aperture NASA-designed 50mm f/0.7 Carl Zeiss lens to achieve a natural candlelight look \u2014 the same lens he had used for Barry Lyndon.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_450",
+      "text": "Stephen King wrote and produced a 1997 TV miniseries remake of The Shining that was far more faithful to his novel; he even made a cameo as the bandleader Gage Creed, and the miniseries featured the hedge animals from his original book that Kubrick had removed.",
+      "system": "movies",
+      "rom": "the_shining"
+    },
+    {
+      "id": "mov_451",
+      "text": "They Live (1988) was directed by John Carpenter and based on the 1963 short story 'Eight O'Clock in the Morning' by Ray Nelson; Carpenter wrote the screenplay under the pseudonym Frank Armitage.",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_452",
+      "text": "In They Live, the film's central conceit \u2014 special sunglasses that reveal aliens among humans and hidden subliminal messages like 'OBEY' and 'CONSUME' \u2014 was director John Carpenter's satire of Reaganomics and 1980s consumer culture.",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_453",
+      "text": "Roddy Piper, a professional wrestler, was cast as the lead in They Live after John Carpenter saw him in WrestleMania and felt his physicality and working-class authenticity were perfect for the role of drifter Nada.",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_454",
+      "text": "Roddy Piper improvised They Live's most famous line \u2014 'I have come here to chew bubblegum and kick ass, and I'm all out of bubblegum' \u2014 on set; it was not in Carpenter's script and became one of the most quoted action lines of the decade.",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_455",
+      "text": "The alley fight scene in They Live between Roddy Piper and Keith David runs nearly six minutes without a cut and was partially choreographed by the two actors themselves; it remains one of the longest and most brutal fistfights in Hollywood history.",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_456",
+      "text": "They Live was made on a budget of approximately $3 million and grossed $13 million in North America, making it a modest hit; it gained a much larger cult following through cable TV and home video in the years after its release.",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_457",
+      "text": "The alien makeup in They Live, designed by Steve Johnson, deliberately made the creatures look like bare skulls to emphasize the idea that beneath the polished surface of society lies something cold and skeletal.",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_458",
+      "text": "John Carpenter composed They Live's minimalist guitar-driven score himself, as he did for many of his films; the repetitive, hypnotic theme was intended to mirror the film's theme of people sleepwalking through a reality controlled by hidden forces.",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_459",
+      "text": "They Live's 'OBEY' imagery became a cornerstone of street artist Shepard Fairey's work; his 'Andre the Giant Has a Posse' campaign, launched the same year as the film, directly borrowed its visual language of hidden authoritarian messages.",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_460",
+      "text": "South Park paid homage to They Live's famous alley fight in the 2006 episode 'Cripple Fight,' recreating it shot-for-shot with Jimmy and Timmy; Carpenter later said it was one of the greatest tributes his film had ever received.",
+      "system": "movies",
+      "rom": "they_live"
+    },
+    {
+      "id": "mov_461",
+      "text": "Gremlins (1984) was produced by Steven Spielberg and directed by Joe Dante; the script by Chris Columbus was originally far darker, featuring scenes where the gremlins kill Billy's mother and a dog \u2014 Spielberg softened the tone for family audiences.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_462",
+      "text": "Gremlins and Indiana Jones and the Temple of Doom, both released in 1984, were the direct cause of the PG-13 rating being created; their intense content was deemed too strong for PG but not enough for R, prompting the MPAA to introduce the new rating.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_463",
+      "text": "In Gremlins, the Mogwai Gizmo required a team of six puppeteers to operate and had over 40 separate mechanical components in his face alone; the puppet cost approximately $30,000 to build and was so fragile it required constant repairs between takes.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_464",
+      "text": "Over 200 gremlin puppets were built for Gremlins, with different versions for different actions \u2014 some for close-ups, others for wide shots, and some specifically rigged for the elaborate Christmas tree and movie theater sequences.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_465",
+      "text": "The three rules for Mogwai in Gremlins \u2014 no bright light, no water, and never feed after midnight \u2014 were inspired by writer Chris Columbus's fear of mice in his New York apartment; he conceived the story after hearing scratching in his walls at night.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_466",
+      "text": "Gremlins was shot in the fictional town of Kingston Falls, which was actually the same backlot set used for Back to the Future's Hill Valley, built on the Universal Studios lot \u2014 both productions used many of the same storefronts.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_467",
+      "text": "Gremlins grossed over $153 million worldwide against an $11 million budget, making it one of the most profitable films of 1984; it spawned a massive merchandising wave that made Gizmo one of the most recognizable movie characters of the decade.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_468",
+      "text": "Jerry Goldsmith composed the film's score, including Gizmo's gentle theme and the gremlins' manic, cartoonish leitmotif; Goldsmith said he approached the gremlins' music as if scoring a Looney Tunes cartoon that had gone horrifyingly wrong.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_469",
+      "text": "In Gremlins, Phoebe Cates's scene where she explains why she hates Christmas \u2014 describing her father's death while dressed as Santa \u2014 is widely considered one of the most unexpectedly dark monologues in an otherwise comedic family film.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_470",
+      "text": "Gremlins 2: The New Batch (1990) gave Joe Dante full creative control and became a deliberately self-referential, anarchic sequel that mocked the original film, Hollywood sequels, and the merchandising culture the first film had created.",
+      "system": "movies",
+      "rom": "gremlins"
+    },
+    {
+      "id": "mov_471",
+      "text": "The Princess Bride (1987) was based on William Goldman's 1973 novel; Goldman spent over a decade trying to get the film made and wrote the screenplay himself, but the project was passed on by nearly every major studio for years.",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_472",
+      "text": "Rob Reiner directed The Princess Bride after Goldman insisted on him following the success of Stand By Me; Reiner said he laughed so hard reading the script that he had to put it down and compose himself before continuing.",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_473",
+      "text": "In The Princess Bride, Cary Elwes and Robin Wright were cast as Westley and Buttercup after an exhaustive search; Elwes trained extensively with a sword master for months and performed nearly all of his own fencing in the Inigo Montoya duel sequence.",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_474",
+      "text": "Mandy Patinkin has said that playing Inigo Montoya in The Princess Bride was the most personally meaningful role of his career \u2014 he channeled his grief over his father's death from cancer into Inigo's obsessive quest to avenge his father's murder.",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_475",
+      "text": "Andr\u00e9 the Giant, who played Fezzik in The Princess Bride, was in constant pain during filming due to a degenerative spinal condition; despite this he carried Cary Elwes and Robin Wright simultaneously in several scenes without complaint.",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_476",
+      "text": "The Cliffs of Insanity rope climb in The Princess Bride was filmed at the Cliffs of Moher in Ireland; Cary Elwes did the climb himself with a safety harness hidden under his costume, scaling the 700-foot cliffs multiple times for different camera angles.",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_477",
+      "text": "The Princess Bride was considered a box office disappointment on release, earning $30 million against a $16 million budget; it became a massive hit on home video and cable, building a devoted following that turned it into one of the most quoted films of the 1980s.",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_478",
+      "text": "Mark Knopfler of Dire Straits composed The Princess Bride's score, giving it a warm, acoustic guitar-driven sound that director Rob Reiner felt matched the fairy-tale tone perfectly; Knopfler completed the score in just a few weeks.",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_479",
+      "text": "Billy Crystal's role as Miracle Max in The Princess Bride was originally intended to be a small cameo, but Crystal improvised so much during his scenes that filming consistently ran over schedule; Rob Reiner reportedly had to leave the set because he was laughing too hard to call action.",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_480",
+      "text": "'My name is Inigo Montoya. You killed my father. Prepare to die.' from The Princess Bride was voted one of the most memorable movie lines of all time by the American Film Institute; Mandy Patinkin said he never tires of fans reciting it to him.",
+      "system": "movies",
+      "rom": "princess_bride"
+    },
+    {
+      "id": "mov_481",
+      "text": "The Rocky Horror Picture Show (1975) was based on Richard O'Brien's 1973 stage musical 'The Rocky Horror Show'; O'Brien wrote it in six weeks while unemployed in London, drawing on his love of 1950s sci-fi B-movies and rock and roll.",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_482",
+      "text": "The Rocky Horror Picture Show flopped on its initial wide release but was re-released in 1976 as a midnight movie, where it found its true audience; it has been in continuous theatrical release ever since, making it the longest-running theatrical release in film history.",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_483",
+      "text": "Tim Curry's performance as Dr. Frank-N-Furter in The Rocky Horror Picture Show is considered one of the greatest in cult cinema; Curry reprised the role from the original London stage production and wore the fishnets and corset costume for the entire shoot.",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_484",
+      "text": "The Rocky Horror Picture Show audience participation tradition \u2014 shouting callbacks, throwing rice and toast, using squirt guns during rain scenes, and doing the Time Warp in the aisles \u2014 developed organically at the Waverly Theater in New York City in 1976 and spread worldwide.",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_485",
+      "text": "Susan Sarandon and Barry Bostwick were relatively unknown when cast as Janet and Brad in The Rocky Horror Picture Show; Sarandon has said she was so cold during the wet slip scene that her shivering was entirely genuine and required no acting.",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_486",
+      "text": "The Rocky Horror Picture Show was shot in just 45 days at Oakley Court, a Victorian Gothic manor house in Berkshire, England, on a budget of approximately $1.4 million; the mansion had also been used for numerous Hammer Horror productions.",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_487",
+      "text": "Meat Loaf appeared in The Rocky Horror Picture Show as Eddie and performed 'Hot Patootie \u2014 Bless My Soul'; his scene was shot in a single day, and his performance helped launch his mainstream music career, leading to 'Bat Out of Hell' the following year.",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_488",
+      "text": "Richard O'Brien, who wrote The Rocky Horror Picture Show, also appears in the film as the hunchbacked Riff Raff; he has stated that Riff Raff is his favorite character because the servant who ultimately overthrows his master reflects his own feelings as an outsider.",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_489",
+      "text": "The Rocky Horror Picture Show has earned an estimated $140 million worldwide from its decades of midnight screenings alone, on an original investment of $1.4 million \u2014 one of the most extraordinary returns in cinema history.",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_490",
+      "text": "'The Time Warp' has become one of the most performed participatory songs in entertainment history; at Rocky Horror screenings, audiences stand and perform the dance at the same moment every night in theaters across the world, a tradition now over 40 years old.",
+      "system": "movies",
+      "rom": "rocky_horror"
+    },
+    {
+      "id": "mov_491",
+      "text": "Major League (1989) was written and directed by David S. Ward, who was inspired by a true story about a Cleveland Indians owner who deliberately fielded a bad team to break the lease on the stadium and move the franchise.",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_492",
+      "text": "Tom Berenger, Charlie Sheen, and Wesley Snipes headlined the Major League ensemble cast; Sheen trained seriously for the role of pitcher Ricky Vaughn, throwing at speeds reportedly around 85 mph by the end of production.",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_493",
+      "text": "Despite being set in Cleveland, Major League was filmed primarily at Milwaukee County Stadium, home of the Milwaukee Brewers, because the Cleveland Indians refused to allow filming at their actual stadium.",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_494",
+      "text": "Bob Uecker played radio announcer Harry Doyle in Major League and improvised many of his best lines, including 'Just a bit outside' and 'Strike this guy out'; Uecker drew on his real broadcasting career and his own self-deprecating humor for the character.",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_495",
+      "text": "Ricky Vaughn's trademark thick-rimmed glasses in Major League were suggested by Charlie Sheen himself; the look was inspired by Elvis Costello, and the character's nickname 'Wild Thing' came from the Troggs song used as his entrance music.",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_496",
+      "text": "Major League was made on a budget of approximately $11 million and grossed over $49 million at the North American box office, making it the highest-grossing baseball film ever made at the time of its release.",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_497",
+      "text": "The Cleveland Indians embraced Major League so enthusiastically that they adopted the movie's fictional logo \u2014 a grinning Native American caricature called Chief Wahoo \u2014 with renewed prominence following the film's success, a design later retired in 2019.",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_498",
+      "text": "Wesley Snipes, playing Willie Mays Hayes in Major League, reportedly ran the bases so fast during production that the crew struggled to keep him in frame; his athleticism surprised the baseball consultants on set, who had not expected a dramatic actor to be that quick.",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_499",
+      "text": "Major League spawned two sequels \u2014 Major League II (1994) and Major League: Back to the Minors (1998) \u2014 though neither matched the original's critical or commercial success; Charlie Sheen and Tom Berenger did not return for the third film.",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_500",
+      "text": "Major League's climactic final game was shot over several days with real crowd extras, and the production seeded the stands with fans who had read the script so they could react authentically to each play \u2014 giving the finale an energy that test audiences found more convincing than any earlier stadium scene.",
+      "system": "movies",
+      "rom": "major_league"
+    },
+    {
+      "id": "mov_501",
+      "text": "Back to the Future (1985) was rejected by every major studio \u2014 including Disney, who said the incestuous undertones of a mother falling for her son were too risqu\u00e9 for a family film \u2014 before Universal finally greenlit it.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_502",
+      "text": "Eric Stoltz was cast as Marty McFly in Back to the Future and filmed for six weeks before Robert Zemeckis and Bob Gale decided he was playing the role too seriously; Michael J. Fox, their original choice, was freed from his Family Ties schedule to take over.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_503",
+      "text": "The DeLorean DMC-12 was chosen as Back to the Future's time machine because its stainless steel body and gull-wing doors looked futuristic, and writer Bob Gale felt that a kid seeing a strange car pull up would immediately be intrigued \u2014 something a conventional vehicle would never achieve.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_504",
+      "text": "Michael J. Fox filmed most of his Back to the Future scenes at night after finishing his Family Ties taping during the day, sometimes working 18-hour days; he has said the exhaustion was real and visible in some of his scenes.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_505",
+      "text": "In Back to the Future, the Twin Pine Mall transforms into the Lone Pine Mall after Marty accidentally runs over one of the farmer's pine trees in 1955 \u2014 a detail so subtle that many viewers miss it on first viewing but that Zemeckis deliberately planted as a reward for attentive audiences.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_506",
+      "text": "Huey Lewis and the News contributed 'The Power of Love' and 'Back in Time' to the Back to the Future soundtrack; Lewis also made a cameo as a talent show judge who rejects Marty's band for being 'too darn loud.'",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_507",
+      "text": "The Johnny B. Goode scene in Back to the Future required Michael J. Fox to actually play guitar convincingly on camera; he practiced for weeks and performed the finger work himself, with a professional guitarist providing the actual audio track.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_508",
+      "text": "Back to the Future was the highest-grossing film of 1985, earning $381 million worldwide against a $19 million budget; it was so successful that Universal demanded a sequel immediately, even though Zemeckis and Gale had deliberately written an ending that required no follow-up.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_509",
+      "text": "Back to the Future Parts II and III were filmed back-to-back in 1989 to ensure consistency; the hoverboard, self-lacing shoes, and fax machine gags in Part II were all set in 2015 \u2014 the year real audiences eventually lived through and compared to the film's predictions.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_510",
+      "text": "Christopher Lloyd based Doc Brown's wild-eyed look in Back to the Future on conductor Leopold Stokowski and physicist Albert Einstein; he said the character came together the moment he decided Doc was a man whose hair stood on end from a lifetime of electrical experiments.",
+      "system": "movies",
+      "rom": "back_to_the_future"
+    },
+    {
+      "id": "mov_511",
+      "text": "The Secret of NIMH (1982) was the debut feature of Don Bluth's independent studio after he and eleven other Disney animators resigned en masse in 1979, frustrated with what they saw as a decline in Disney's artistic standards.",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_512",
+      "text": "The film was based on Robert C. O'Brien's 1971 Newbery Medal-winning novel 'Mrs. Frisby and the Rats of NIMH'; the character's name was changed from Mrs. Frisby to Mrs. Brisby to avoid a trademark conflict with Wham-O's Frisbee.",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_513",
+      "text": "Don Bluth and his team used animation techniques in The Secret of NIMH that had largely been abandoned by Disney, including back-lit effects, multiplane camera work, and detailed hand-inked lines \u2014 methods that made the film visually richer but far more expensive per frame.",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_514",
+      "text": "The Secret of NIMH was made on a budget of approximately $7 million, financed in part by Aurora Productions; United Artists distributed it but provided minimal marketing support, and the film was quietly pulled from theaters after a modest opening weekend.",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_515",
+      "text": "Dom DeLuise voiced Jeremy the crow in The Secret of NIMH and improvised much of his dialogue; his warm, bumbling performance was so well received that he became a recurring collaborator with Don Bluth, appearing in An American Tail and All Dogs Go to Heaven.",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_516",
+      "text": "Derek Jacobi voiced Nicodemus, the wise leader of the rats in The Secret of NIMH, giving the character a gravitas that Bluth felt was essential; Jacobi recorded his lines in London and never visited the studio, yet the performance anchors the film's most visually ambitious sequences.",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_517",
+      "text": "The amulet sequences in The Secret of NIMH required some of the most complex hand-drawn special effects animation of the era; the glowing, swirling energy effects were achieved through a combination of hand-painted cels, optical printing, and back-lighting.",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_518",
+      "text": "Jerry Goldsmith composed the score for The Secret of NIMH, creating a lush orchestral soundtrack that was widely praised; the main theme 'Flying Dreams,' with vocals by Sally Stevens, became one of the most beloved pieces of animation music of the decade.",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_519",
+      "text": "The Secret of NIMH earned about $14 million at the box office against its $7 million budget \u2014 a technically profitable result, but far below what United Artists had hoped; it found its true audience through cable TV and home video, where it became a beloved classic.",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_520",
+      "text": "The Secret of NIMH is credited with proving that ambitious, adult-toned animated features could succeed outside the Disney studio system, paving the way for the later renaissance of independent animation studios and influencing the look of An American Tail and The Land Before Time.",
+      "system": "movies",
+      "rom": "secret_of_nimh"
+    },
+    {
+      "id": "mov_521",
+      "text": "The Dark Crystal (1982) was co-directed by Jim Henson and Frank Oz and is notable as the first feature film to feature no human characters on screen \u2014 every character is a puppet, a landmark achievement in practical creature filmmaking.",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_522",
+      "text": "Development of The Dark Crystal took over five years; Jim Henson began conceiving the world in the mid-1970s and collaborated extensively with conceptual artist Brian Froud, whose dark, organic aesthetic defined the entire visual language of the film.",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_523",
+      "text": "In The Dark Crystal, the Skeksis were performed by some of the world's finest puppeteers using a technique where multiple performers operated a single character simultaneously \u2014 one for the body, others for facial features \u2014 requiring intense rehearsal and coordination.",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_524",
+      "text": "In The Dark Crystal, the Gelfling protagonists Jen and Kira were operated by puppeteers hidden beneath the set in concealed pits and tunnels; the elaborate rigging required the construction of a fully engineered stage that could accommodate hidden performers in every scene.",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_525",
+      "text": "Jim Henson originally recorded all The Dark Crystal dialogue with the puppeteers' actual voices, but test audiences found the voices too familiar from The Muppet Show; the entire cast was redubbed with different voice actors before release.",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_526",
+      "text": "The Dark Crystal was made on a budget of approximately $25 million, then one of the largest budgets ever for a puppet production; it earned $40 million worldwide but was considered a disappointment given its cost and Henson's expectations.",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_527",
+      "text": "Trevor Jones composed The Dark Crystal's orchestral score, recorded with the London Symphony Orchestra; Jim Henson wanted the music to feel ancient and elemental, and Jones drew on medieval modes and unusual orchestrations to give the world its distinctive sonic texture.",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_528",
+      "text": "The Dark Crystal's sets were built at Elstree Studios in England at enormous scale \u2014 the castle of the Skeksis alone required months of construction and was one of the largest practical sets ever built for a puppet production.",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_529",
+      "text": "Critics were divided on The Dark Crystal on release, with some praising its visual ambition and others finding it emotionally cold; over decades it grew into a beloved cult classic, culminating in the Netflix prequel series 'Age of Resistance' in 2019.",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_530",
+      "text": "The Dark Crystal influenced an entire generation of creature designers and practical effects artists; directors including Guillermo del Toro have cited it as a formative influence, and its commitment to building a fully realized world through puppetry alone remains unmatched.",
+      "system": "movies",
+      "rom": "dark_crystal"
+    },
+    {
+      "id": "mov_531",
+      "text": "Tron (1982) was one of the first films to use extensive computer-generated imagery; approximately 15\u201320 minutes of the film's visuals were CGI, produced by four different companies \u2014 Information International Inc., MAGI, Robert Abel and Associates, and Digital Effects.",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_532",
+      "text": "Disney's own animators threatened to strike if the studio used computer animation, fearing it would replace traditional artists; as a result, Tron's CGI sequences were contracted entirely to outside studios with no Disney animation involvement.",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_533",
+      "text": "The Academy of Motion Picture Arts and Sciences disqualified Tron from consideration for Best Visual Effects because using computers was considered 'cheating' \u2014 an ironic decision given that CGI would go on to define the entire modern effects industry.",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_534",
+      "text": "Jeff Bridges, Bruce Boxleitner, and David Warner starred in Tron; the actors filmed their live-action sequences in black and white on dark sets, with all color and the glowing grid world added entirely in post-production through rotoscoping and optical printing.",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_535",
+      "text": "The iconic light cycle sequences in Tron were the most complex CGI in the film; each frame required hours of computer processing time, and the cycles' geometry had to be kept deliberately simple \u2014 with no curves \u2014 because curved surfaces were computationally impossible in 1982.",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_536",
+      "text": "Tron's costume designer Rosanna Norton created over 200 costumes, each of which had to be specially treated so the electroluminescent tape and backlit panels sewn into the fabric would photograph correctly under the film's unusual lighting conditions.",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_537",
+      "text": "The Tron arcade game was released by Bally Midway the same year as the film and became one of the highest-grossing arcade games of 1982; unusually, the game was released before the film, helping build anticipation.",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_538",
+      "text": "Tron was made on a budget of $17 million and earned $33 million worldwide \u2014 a modest result that Disney considered a disappointment; despite this, it developed a devoted cult following that eventually led to the 2010 sequel Tron: Legacy.",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_539",
+      "text": "Writer-director Steven Lisberger conceived Tron after being fascinated by the early video game Pong; he spent four years developing the concept and originally planned it as a traditionally animated film before pivoting to live action with CGI elements.",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_540",
+      "text": "Tron was one of the first films to receive a dedicated video game tie-in as part of its marketing strategy, and its merchandising \u2014 including the game, action figures, and a board game \u2014 was pioneering for an effects-driven sci-fi film of its era.",
+      "system": "movies",
+      "rom": "tron"
+    },
+    {
+      "id": "mov_541",
+      "text": "Ghostbusters was written by Dan Aykroyd and Harold Ramis; Aykroyd's original draft was set in the future with hundreds of ghostbusters operating across multiple dimensions \u2014 Ramis helped scale it down to four guys in New York City.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_542",
+      "text": "The firehouse used as Ghostbusters HQ is Hook & Ladder Company 8 in Tribeca, Manhattan, a real working fire station; the interior scenes were shot on a separate soundstage, but the exterior became so iconic that the building is still visited by fans daily.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_543",
+      "text": "Sigourney Weaver auditioned for Dana Barrett in Ghostbusters by growling and crawling across a table to demonstrate she could play a demon-possessed character; director Ivan Reitman cast her on the spot.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_544",
+      "text": "The Stay Puft Marshmallow Man suit in Ghostbusters weighed about 120 pounds and was extremely difficult to move in; actor Bill Bryan, who played Puft, could barely walk in the costume and filmed the destruction sequences over several days in a specially built miniature New York set.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_545",
+      "text": "Ray Parker Jr. wrote and recorded the Ghostbusters theme song in less than two days after hearing the film's concept; it spent three weeks at number one on the Billboard Hot 100 and earned an Academy Award nomination for Best Original Song.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_546",
+      "text": "The slime used for Slimer and the library ghost scenes in Ghostbusters was a mixture of methylcellulose \u2014 the same thickener used in food products \u2014 which was non-toxic but notoriously difficult to clean off the actors and set between takes.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_547",
+      "text": "Ghostbusters was made on a budget of $30 million and grossed $295 million worldwide in its original release, making it one of the most profitable comedies ever produced; it was the second-highest-grossing film of 1984 behind Indiana Jones and the Temple of Doom.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_548",
+      "text": "Rick Moranis was not originally cast as Louis Tully in Ghostbusters; John Candy was the first choice but left after disagreeing with the director over the character's accent. Moranis took the role and made Louis a nerdy accountant obsessed with tax law.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_549",
+      "text": "The Ghostbusters logo was designed by Michael C. Gross and illustrator Brice Mack; Gross has said the ghost was drawn in about five minutes as a quick sketch, and the simple red-circle-slash design was chosen precisely because it could be read instantly from a distance.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_550",
+      "text": "Ghostbusters II (1989) reunited the full original cast five years later; it was a box office success but received a cooler critical response, with many reviewers noting that the film recycled the original's plot beats rather than taking the franchise in a new direction.",
+      "system": "movies",
+      "rom": "ghostbusters"
+    },
+    {
+      "id": "mov_551",
+      "text": "WarGames (1983) starred Matthew Broderick as a teenage hacker who nearly starts World War III by accidentally connecting to a military supercomputer called WOPR \u2014 War Operation Plan Response \u2014 and initiating a simulated global nuclear war.",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_552",
+      "text": "The WarGames script was inspired by a real 1983 security report about teenagers accessing government computer systems; writers Lawrence Lasker and Walter F. Parkes spent months consulting with actual hackers and Pentagon officials to make the technology feel authentic.",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_553",
+      "text": "After President Reagan screened WarGames at Camp David, he asked the Joint Chiefs of Staff whether such a scenario was possible; the chairman reportedly replied, 'Mr. President, the problem is much worse than that,' which directly accelerated the drafting of National Security Decision Directive 145 on computer security.",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_554",
+      "text": "WarGames popularized the term 'war dialing' \u2014 automatically dialing thousands of phone numbers to find computers \u2014 a technique the film depicted accurately and that real hackers adopted as genuine slang after the movie's release.",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_555",
+      "text": "The WarGames film directly influenced the passage of the Computer Fraud and Abuse Act of 1984, making it one of the few Hollywood movies to have a measurable impact on U.S. federal law.",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_556",
+      "text": "WarGames grossed $79 million against a $12 million budget and received three Academy Award nominations including Best Cinematography, Best Sound, and Best Sound Editing \u2014 an unusual recognition for a teen thriller.",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_557",
+      "text": "The WOPR supercomputer set in WarGames was built from real computing equipment and repurposed military hardware; production designer Angelo Graham spent months researching actual NORAD installations to make the War Room feel convincingly functional.",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_558",
+      "text": "Ally Sheedy co-starred alongside Matthew Broderick in WarGames as Jennifer, two years before she played Allison in The Breakfast Club \u2014 appearing in two of the most defining teen films of the decade back to back.",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_559",
+      "text": "The WarGames computer Joshua's final conclusion \u2014 'The only winning move is not to play' \u2014 has been cited by nuclear policy analysts and game theorists as an unusually clear cinematic expression of mutually assured destruction strategy.",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_560",
+      "text": "WarGames was the highest-grossing film directed by John Badham, who beat out several directors for the job; the film launched a mini-genre of 'hacker thrillers' in the 1980s and is still used in cybersecurity curricula to introduce students to computer ethics.",
+      "system": "movies",
+      "rom": "wargames"
+    },
+    {
+      "id": "mov_561",
+      "text": "The Last Starfighter (1984) followed a teenager from a trailer park who discovers that the arcade game Starfighter he has mastered is actually an alien recruitment test, and that he is needed to defend the galaxy for real.",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_562",
+      "text": "The Last Starfighter was the first major Hollywood film to replace physical scale models entirely with computer-generated imagery for its spacecraft and space battle sequences, produced by Digital Productions on a Cray X-MP supercomputer.",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_563",
+      "text": "Each frame of The Last Starfighter's CGI required approximately two hours of rendering time on the Cray X-MP, one of the most powerful computers in the world in 1984; the film's 27 minutes of CGI took over a year to produce.",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_564",
+      "text": "The Last Starfighter's CGI spacecraft were designed with over 300,000 polygons per model \u2014 an extraordinary amount for 1984 \u2014 but the technology's limitations meant the imagery appeared flat to some critics compared to the model photography in films like Star Wars.",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_565",
+      "text": "A real arcade cabinet based on The Last Starfighter was developed by Atari but never reached commercial release; prototype cabinets were built and tested in a small number of locations, making surviving units among the rarest collector's pieces in arcade history.",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_566",
+      "text": "The Last Starfighter grossed $28 million against a $15 million budget \u2014 a modest result that prevented the sequel that had been planned, despite the film developing a devoted following through cable TV and home video.",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_567",
+      "text": "Director Nick Castle cast Lance Guest as Alex Rogan specifically because of his everyman quality; Castle wanted audiences to believe completely that an ordinary kid from a trailer park could become a starfighter pilot, which required an actor who felt genuinely unremarkable.",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_568",
+      "text": "The Last Starfighter's concept \u2014 a video game as a real-world military recruitment and training tool \u2014 became a staple of science fiction, later appearing in Ender's Game, The McCaffrey novels, and numerous video games; the U.S. Army actually used video games as recruitment tools starting in the 2000s.",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_569",
+      "text": "Robert Preston's performance as the alien recruiter Centauri in The Last Starfighter was one of his final film roles; Preston played the character as a cosmic carnival barker, and the role was widely praised as a warm sendoff for the veteran actor.",
+      "system": "movies",
+      "rom": "last_starfighter"
+    },
+    {
+      "id": "mov_570",
+      "text": "The Last Starfighter has become one of the most beloved cult science fiction films of the 1980s; a fan-produced sequel has been in development for years, and the film's central premise of being 'chosen by the game' resonated especially strongly with a generation raised in arcades.",
+      "system": "movies",
+      "rom": "last_starfighter"
+    }
+  ]
+}
