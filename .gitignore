@@ -9,3 +9,13 @@ Thumbs.db
 #Other files to ignore
 pixelcade-startup.sh
 *.log
+
+# Compiled binaries -- this is an artwork/metadata repo, not the pixelweb
+# build output. Accidentally committed pixelweb/pixelweb.jar builds over
+# time added ~1GB of dead binary history (46 copies, 20-56MB each, no
+# longer even present in the working tree) -- this prevents a repeat.
+pixelweb
+pixelweb.jar
+pixelweb.exe
+*.jar
+*.exe
