@@ -5187,7 +5187,7 @@
         },
         {
           "label": "NA",
-          "active": true
+          "active": false
         },
         {
           "label": "4",
@@ -12779,7 +12779,7 @@
         {
           "label": "N/A",
           "color": "red",
-          "active": true
+          "active": false
         },
         {
           "label": "4",
@@ -13416,12 +13416,12 @@
         {
           "label": "N/A",
           "color": "white",
-          "active": true
+          "active": false
         },
         {
           "label": "N/A",
           "color": "white",
-          "active": true
+          "active": false
         },
         {
           "label": "5",
@@ -21837,7 +21837,7 @@
         {
           "label": "NA",
           "color": "black",
-          "active": true
+          "active": false
         },
         {
           "label": "4",
@@ -23642,15 +23642,15 @@
         },
         {
           "label": "NA",
-          "active": true
+          "active": false
         },
         {
           "label": "NA",
-          "active": true
+          "active": false
         },
         {
           "label": "NA",
-          "active": true
+          "active": false
         },
         {
           "label": "5",
@@ -23675,15 +23675,15 @@
         },
         {
           "label": "NA",
-          "active": true
+          "active": false
         },
         {
           "label": "NA",
-          "active": true
+          "active": false
         },
         {
           "label": "NA",
-          "active": true
+          "active": false
         },
         {
           "label": "5",

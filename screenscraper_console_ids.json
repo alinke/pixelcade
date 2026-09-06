@@ -1,0 +1,23 @@
+{
+    "mame": "75",
+    "nes": "3",
+    "atari2600": "26",
+    "atari5200": "40",
+    "snes": "4",
+    "genesis": "1",
+    "megadrive": "1",
+    "mastersystem": "2",
+    "gb": "9",
+    "gbc": "10",
+    "gba": "12",
+    "n64": "14",
+    "gamegear": "21",
+    "neogeo": "142",
+    "pcengine": "31",
+    "turbografx16": "31",
+    "saturn": "22",
+    "psx": "57",
+    "ps2": "58",
+    "coleco": "48",
+    "sega_ring": "269"
+}
