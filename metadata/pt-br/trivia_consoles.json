@@ -1,0 +1,1205 @@
+{
+  "category": "console",
+  "facts": [
+    {
+      "id": "con_001",
+      "text": "O Atari 2600 usava um CPU MOS 6507 — uma versão de custo reduzido do 6502, rodando a 1,19 MHz com um barramento de endereços mais estreito.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "con_002",
+      "text": "Combat era o jogo que acompanhava o Atari 2600 no lançamento em 1977, oferecendo 27 variações de jogo em um único cartucho.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "con_003",
+      "text": "Pitfall! no Atari 2600 vendeu mais de 4 milhões de cópias e foi um dos primeiros verdadeiros jogos de ação e aventura em um console doméstico.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "con_004",
+      "text": "O joystick do Atari 2600 usava um conector padrão DE-9 de 9 pinos, que depois foi adotado pela Sega, Commodore e muitos outros.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "con_005",
+      "text": "Os cartuchos de E.T. the Extra-Terrestrial foram, segundo a lenda, enterrados em um aterro sanitário do Novo México em 1983 — uma descoberta confirmada por uma escavação em 2014.",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "con_006",
+      "text": "O PlayStation original tinha o codinome 'Play Station' durante seu desenvolvimento como um acessório de CD-ROM para o SNES, feito para a Nintendo.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "con_007",
+      "text": "Crash Bandicoot usava uma técnica de streaming para carregar as fases sem telas de carregamento visíveis, algo revolucionário para o PS1.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "con_008",
+      "text": "O controle DualShock do PlayStation introduziu tanto a vibração quanto os analógicos duplos em 1997.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "con_009",
+      "text": "Lara Croft, de Tomb Raider, foi originalmente concebida como um arqueólogo homem, antes de a equipe mudar para uma protagonista mulher.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "con_010",
+      "text": "O PlayStation original vendeu mais de 102 milhões de unidades no mundo todo, tornando-se o console de primeira geração mais bem-sucedido da Sony.",
+      "system": "psx",
+      "rom": "default"
+    },
+    {
+      "id": "con_011",
+      "text": "O Atari Jaguar foi anunciado como 64 bits, mas na verdade combinava um processador de 16 bits com dois de 32 bits.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "con_012",
+      "text": "Apenas cerca de 67 jogos foram lançados comercialmente para o Atari Jaguar durante toda a sua vida útil.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "con_013",
+      "text": "Alien vs. Predator para o Jaguar foi elogiado como um dos melhores jogos de tiro em primeira pessoa de 1994.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "con_014",
+      "text": "O acessório Jaguar CD foi lançado em 1995, mas teve menos de 15 jogos lançados antes de ser descontinuado.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "con_015",
+      "text": "O controle do Atari Jaguar tinha 17 botões, incluindo um teclado numérico, tornando-o um dos mais complexos de sua época.",
+      "system": "atarijaguar",
+      "rom": "default"
+    },
+    {
+      "id": "con_016",
+      "text": "Super Mario Bros. 3 foi secretamente revelado ao público ocidental no filme 'The Wizard', de 1989, antes de seu lançamento na América do Norte.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "con_017",
+      "text": "O chip de bloqueio do NES (10NES) exigia que os cartuchos licenciados passassem por uma autenticação antes que o jogo pudesse começar.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "con_018",
+      "text": "Mega Man 2 quase não foi aprovado pela Capcom — o primeiro jogo vendeu mal, então a continuação foi criada como um projeto interno feito por paixão.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "con_019",
+      "text": "O Código Konami (Cima Cima Baixo Baixo Esquerda Direita Esquerda Direita B A) foi usado pela primeira vez em Gradius, no NES, para conceder power-ups ao jogador.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "con_020",
+      "text": "EarthBound (Mother 2), no SNES, tinha um código agressivo antipirataria que fazia o jogo travar perto do chefe final se detectasse um cartucho copiado.",
+      "system": "nes",
+      "rom": "default"
+    },
+    {
+      "id": "con_021",
+      "text": "Star Fox usava o chip Super FX — um coprocessador gráfico personalizado embutido no cartucho — para renderizar polígonos 3D no hardware do SNES.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "con_022",
+      "text": "Donkey Kong Country usava gráficos 3D pré-renderizados que davam a ele uma aparência diferente de tudo o mais visto em hardware de 16 bits.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "con_023",
+      "text": "A versão de Mortal Kombat para SNES substituiu o sangue por suor cinza e alterou os fatalities, enquanto a versão de Genesis os manteve por meio de um código.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "con_024",
+      "text": "O sistema de menu em forma de anel de Secret of Mana podia ser aberto no meio da ação, permitindo que os jogadores configurassem magias sem uma tela de pausa.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "con_025",
+      "text": "Chrono Trigger tinha 13 finais diferentes, dependendo de quando e como o jogador derrotava o chefe final.",
+      "system": "snes",
+      "rom": "default"
+    },
+    {
+      "id": "con_026",
+      "text": "A velocidade de Sonic the Hedgehog foi projetada especificamente para mostrar a superioridade do processador do Sega Genesis em relação ao SNES.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "con_027",
+      "text": "O Sega Genesis tinha um chip de som Yamaha de síntese FM embutido, o que dava a ele um caráter sonoro bem diferente do SPC700 do SNES.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "con_028",
+      "text": "Sonic & Knuckles usava a 'tecnologia lock-on' para se combinar fisicamente com os cartuchos de Sonic 2 ou 3, liberando conteúdo extra.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "con_029",
+      "text": "O Genesis foi lançado na América do Norte em 1989 acompanhado de Altered Beast, e o controle de seis botões só se tornou padrão em 1993.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "con_030",
+      "text": "NBA Jam, no Genesis, tinha personagens secretos desbloqueáveis, incluindo Bill Clinton e o Beastie Boys.",
+      "system": "genesis",
+      "rom": "default"
+    },
+    {
+      "id": "con_031",
+      "text": "O Nintendo 64 foi o último grande console doméstico baseado em cartuchos antes de a indústria completar a transição para discos ópticos.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "con_032",
+      "text": "GoldenEye 007 foi desenvolvido por uma equipe com quase nenhuma experiência prévia em desenvolvimento de jogos, sendo que muitos nunca haviam lançado um título sequer.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "con_033",
+      "text": "O sistema de mira em Z de Ocarina of Time foi tão influente que se tornou o padrão para jogos de ação e aventura em 3D por décadas.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "con_034",
+      "text": "A parte central do controle do N64 foi projetada para jogos 3D, enquanto a parte esquerda era destinada a títulos 2D — raramente os jogadores usavam as duas ao mesmo tempo.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "con_035",
+      "text": "Conker's Bad Fur Day, no N64, foi inicialmente concebido como um jogo de plataforma para toda a família, antes de ser completamente redesenhado como uma sátira voltada para adultos.",
+      "system": "n64",
+      "rom": "default"
+    },
+    {
+      "id": "con_036",
+      "text": "Shenmue foi o videogame mais caro já feito até então, no momento de seu lançamento em 1999, custando cerca de 70 milhões de dólares.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "con_037",
+      "text": "Seaman, para o Dreamcast, usava o periférico de microfone e reconhecimento de voz para permitir que os jogadores conversassem com um peixe com rosto humano.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "con_038",
+      "text": "Jet Set Radio foi um dos primeiros jogos a usar cel-shading para criar um visual animado e estilizado em 3D.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "con_039",
+      "text": "O VMU do Dreamcast tinha sua própria tela, alto-falante e direcional, funcionando como um mini console independente e cartão de memória ao mesmo tempo.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "con_040",
+      "text": "Power Stone, no Dreamcast, foi pioneiro no gênero de brigas em arena, influenciando jogos como Super Smash Bros. Melee.",
+      "system": "dreamcast",
+      "rom": "default"
+    },
+    {
+      "id": "con_041",
+      "text": "O processador Emotion Engine do PS2 chegou a ser analisado pelo governo dos Estados Unidos para verificar se se enquadrava como tecnologia militar restrita.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "con_042",
+      "text": "Shadow of the Colossus tinha apenas 16 inimigos em todo o seu mundo, cada um funcionando como um verdadeiro quebra-cabeça ambiental.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "con_043",
+      "text": "Guitar Hero foi lançado no PS2 em 2005 e popularizou o gênero de periféricos com instrumentos de plástico que dominou o final dos anos 2000.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "con_044",
+      "text": "Ico é amplamente reconhecido como um dos primeiros jogos a retratar de forma convincente uma companheira controlada por IA pela qual o jogador realmente se importava.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "con_045",
+      "text": "O PS2 permaneceu em produção até 2013 — 13 anos após seu lançamento — o período de produção mais longo de qualquer console PlayStation.",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "con_046",
+      "text": "Panzer Dragoon Saga é um dos jogos mais raros do Saturn, com apenas 6.000 cópias impressas na América do Norte.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "con_047",
+      "text": "O hardware 2D do Saturn era significativamente mais avançado que o do PlayStation, tornando-o a plataforma preferida para jogos de luta em 2D.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "con_048",
+      "text": "Guardian Heroes, no Saturn, tinha uma história complexa com múltiplos caminhos e batalhas com dezenas de inimigos na tela ao mesmo tempo.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "con_049",
+      "text": "Radiant Silvergun, no Saturn, ainda é considerado um dos melhores shoot-em-ups já feitos e alcança preços altos por cópias originais.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "con_050",
+      "text": "Dragon Force, no Saturn, tinha batalhas com até 100 soldados lutando simultaneamente na tela.",
+      "system": "saturn",
+      "rom": "default"
+    },
+    {
+      "id": "con_051",
+      "text": "Os cartuchos do Neo Geo podiam armazenar até 330 MB de dados — muito mais que os consoles domésticos concorrentes do início dos anos 1990.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "con_052",
+      "text": "O console doméstico Neo Geo AES usava hardware idêntico ao dos fliperamas MVS da SNK, tornando as conversões verdadeiramente idênticas às versões de arcade.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "con_053",
+      "text": "Fatal Fury introduziu um sistema de luta em dois planos, no qual os personagens podiam esquivar entre uma linha da frente e uma de fundo.",
+      "system": "neogeo",
+      "rom": "default"
+    },
+    {
+      "id": "con_054",
+      "text": "O Neo Geo CD foi lançado em 1994 para tornar os jogos de Neo Geo mais acessíveis, mas os longos tempos de carregamento dos discos frustravam os jogadores.",
+      "system": "snk_neo_geo_cd",
+      "rom": "default"
+    },
+    {
+      "id": "con_055",
+      "text": "A placa de arcade Neo Geo MVS podia comportar até seis cartuchos de jogos diferentes em um único gabinete, reduzindo os custos dos operadores.",
+      "system": "snk_neo_geo_mvs",
+      "rom": "default"
+    },
+    {
+      "id": "con_056",
+      "text": "O Sega Game Gear exigia seis pilhas AA e durava apenas de 3 a 5 horas, contra as 15 a 30 horas do Game Boy com quatro pilhas AA.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "con_057",
+      "text": "A Sega lançou um acessório sintonizador de TV para o Game Gear, permitindo que o portátil funcionasse como uma televisão portátil.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "con_058",
+      "text": "O Game Gear tinha um acessório chamado Master Gear Converter, que permitia aos jogadores usar cartuchos do Sega Master System.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "con_059",
+      "text": "Muitos jogos do Game Gear eram conversões de jogos do Master System, devido às arquiteturas de hardware quase idênticas dos dois sistemas.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "con_060",
+      "text": "O Game Gear tinha uma tela colorida com luz de fundo desde o primeiro dia, algo que o Game Boy só alcançou com o Game Boy Light, em 1998.",
+      "system": "gamegear",
+      "rom": "default"
+    },
+    {
+      "id": "con_061",
+      "text": "O Game Boy Advance era totalmente compatível com os cartuchos do Game Boy original e do Game Boy Color.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "con_062",
+      "text": "Mother 3 foi lançado para o GBA no Japão em 2006, mas nunca foi oficialmente localizado para os mercados ocidentais, apesar da demanda dos fãs.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "con_063",
+      "text": "O GBA SP introduziu um design em formato de concha e uma tela com luz frontal — revisões posteriores adicionaram uma luz de fundo de verdade.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "con_064",
+      "text": "Castlevania: Aria of Sorrow introduziu o sistema de almas, permitindo que os jogadores absorvessem as habilidades dos inimigos como power-ups.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "con_065",
+      "text": "O Game Boy Advance vendeu mais de 81 milhões de unidades no mundo todo, tornando-se um dos portáteis de maior sucesso da Nintendo.",
+      "system": "gba",
+      "rom": "default"
+    },
+    {
+      "id": "con_066",
+      "text": "O PSP Go foi o primeiro grande console portátil a eliminar completamente a mídia física em favor dos downloads digitais.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "con_067",
+      "text": "Crisis Core: Final Fantasy VII, no PSP, funcionava como uma prequela do clássico de PS1 e foi aclamado pela crítica no mundo todo.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "con_068",
+      "text": "O PSP tinha uma tela widescreen 16:9, algo incomum para portáteis em seu lançamento, em 2005.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "con_069",
+      "text": "Lumines foi o grande jogo de lançamento do PSP — um quebra-cabeça musical criado por Tetsuya Mizuguchi, criador de Rez.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "con_070",
+      "text": "Monster Hunter se tornou um fenômeno cultural no Japão no PSP, com jogadores se reunindo em locais públicos para caçar juntos via conexão sem fio local.",
+      "system": "psp",
+      "rom": "default"
+    },
+    {
+      "id": "con_071",
+      "text": "O 3DO foi lançado em 1993 por 699 dólares, tornando-se o console mais caro no lançamento até então.",
+      "system": "3do",
+      "rom": "default"
+    },
+    {
+      "id": "con_072",
+      "text": "O hardware do 3DO foi licenciado para diversos fabricantes — Panasonic, Sanyo e Goldstar fizeram suas próprias versões.",
+      "system": "3do",
+      "rom": "default"
+    },
+    {
+      "id": "con_073",
+      "text": "Road Rash, no 3DO, tinha cutscenes em vídeo full-motion e era considerado um jogo-vitrine para o sistema.",
+      "system": "3do",
+      "rom": "default"
+    },
+    {
+      "id": "con_074",
+      "text": "O 3DO foi o primeiro console doméstico a usar o CD-ROM como formato principal de mídia desde o lançamento.",
+      "system": "3do",
+      "rom": "default"
+    },
+    {
+      "id": "con_075",
+      "text": "Apesar do hardware avançado, o 3DO fracassou comercialmente devido ao seu preço alto e à concorrência do PlayStation e do Saturn.",
+      "system": "3do",
+      "rom": "default"
+    },
+    {
+      "id": "con_076",
+      "text": "O Commodore 64 é o modelo de computador mais vendido de todos os tempos, com uma estimativa de 12 a 17 milhões de unidades vendidas.",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "con_077",
+      "text": "O chip de som SID do C64 era tão capaz musicalmente que deu origem a toda uma cultura de chiptune na demoscene que continua até hoje.",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "con_078",
+      "text": "Muitos futuros desenvolvedores de jogos começaram sua carreira no C64, incluindo fundadores da Bullfrog, da DMA Design e da Rare.",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "con_079",
+      "text": "O C64 podia exibir 16 cores com sprites de hardware, tornando-o notavelmente melhor para jogos do que muitos computadores domésticos da época.",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "con_080",
+      "text": "Elite, no C64, usava geração procedural para criar uma galáxia com 256 sistemas estelares dentro de um espaço de memória minúsculo.",
+      "system": "c64",
+      "rom": "default"
+    },
+    {
+      "id": "con_081",
+      "text": "O Mattel Intellivision foi anunciado como o primeiro console doméstico de 16 bits, embora seu processador fosse, tecnicamente, um chip de 16 bits rodando em uma configuração especializada.",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "con_082",
+      "text": "O controle com teclado numérico do Intellivision usava capas específicas para cada jogo, rotulando os botões de forma diferente em cada título.",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "con_083",
+      "text": "O Intellivision foi o primeiro sistema a oferecer jogos para download por meio do serviço de TV a cabo PlayCable, em 1981.",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "con_084",
+      "text": "Os jogos esportivos do Intellivision foram usados em comerciais de TV comparando-os diretamente com as versões do Atari 2600, para destacar a diferença gráfica.",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "con_085",
+      "text": "O Intellivision II foi um modelo redesenhado e mais barato, lançado em 1983, que tinha pequenos problemas de compatibilidade com alguns jogos originais.",
+      "system": "intellivision",
+      "rom": "default"
+    },
+    {
+      "id": "con_086",
+      "text": "O ColecoVision foi lançado com Donkey Kong como jogo de brinde, entregando uma conversão de arcade quase perfeita que impressionou os consumidores.",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "con_087",
+      "text": "O Módulo de Expansão nº 1 do ColecoVision permitia que ele jogasse cartuchos do Atari 2600, o que levou a um processo judicial movido pela Atari.",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "con_088",
+      "text": "O ColecoVision usava o mesmo processador Zilog Z80 do Sega Master System, que seria lançado anos depois.",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "con_089",
+      "text": "Zaxxon, no ColecoVision, foi uma das primeiras conversões domésticas de um jogo de arcade isométrico e demonstrava o poder do sistema.",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "con_090",
+      "text": "A Coleco planejava um acessório de computador chamado ADAM para o ColecoVision, mas seu lançamento problemático contribuiu para a crise dos videogames de 1983.",
+      "system": "coleco",
+      "rom": "default"
+    },
+    {
+      "id": "con_091",
+      "text": "O Vectrex foi o único console doméstico a usar gráficos vetoriais, projetando linhas diretamente em sua tela CRT embutida.",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "con_092",
+      "text": "Toda unidade do Vectrex vinha com Minestorm embutido — o único console a incluir um jogo de brinde diretamente no próprio hardware.",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "con_093",
+      "text": "Os jogos do Vectrex usavam capas plásticas coloridas colocadas sobre a tela para adicionar cor a gráficos vetoriais que, de outra forma, seriam em preto e branco.",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "con_094",
+      "text": "O Vectrex tinha um acessório chamado 3D Imager, que usava um disco giratório para criar uma forma primitiva de jogo em 3D estereoscópico.",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "con_095",
+      "text": "Depois que a GCE foi adquirida pela Milton Bradley, o Vectrex foi descontinuado após a crise de 1983, apesar de ser elogiado pela crítica.",
+      "system": "vectrex",
+      "rom": "default"
+    },
+    {
+      "id": "con_096",
+      "text": "O Magnavox Odyssey, lançado em 1972, foi o primeiro console de videogame doméstico vendido comercialmente.",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "con_097",
+      "text": "O Odyssey original não usava microprocessador — era construído inteiramente com transistores, diodos e capacitores.",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "con_098",
+      "text": "Os jogos do Odyssey usavam capas plásticas translúcidas coladas na tela da TV, já que o console não conseguia gerar seus próprios gráficos.",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "con_099",
+      "text": "Ralph Baer, o inventor do Magnavox Odyssey, é amplamente reconhecido como o 'Pai dos Videogames'.",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "con_100",
+      "text": "A Atari fez um acordo em um processo judicial com a Magnavox depois que se constatou que Pong infringia a patente do jogo de tênis de mesa do Odyssey.",
+      "system": "magnavox_odyssey",
+      "rom": "default"
+    },
+    {
+      "id": "con_101",
+      "text": "O TurboGrafx-16 era, na verdade, um sistema de 8 bits com um processador gráfico de 16 bits — o '16' do nome se referia à GPU, não ao processador principal.",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "con_102",
+      "text": "O PC Engine CD-ROM² foi o primeiro acessório de CD-ROM para um console de videogame, lançado no Japão em 1988.",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "con_103",
+      "text": "O PC Engine (TurboGrafx-16) foi o console mais vendido no Japão antes do lançamento do Super Famicom.",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "con_104",
+      "text": "Bonk's Adventure serviu como o jogo-mascote do TurboGrafx-16, apresentando um garoto das cavernas que dá cabeçadas em tudo que aparece em seu caminho.",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "con_105",
+      "text": "O TurboGrafx-16 tinha um acessório chamado TurboTap, que permitia que até cinco jogadores se conectassem simultaneamente para jogos multiplayer.",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "con_106",
+      "text": "O Sega Master System vendeu mais que o NES na Europa e no Brasil, onde permaneceu comercialmente ativo até os anos 2000.",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "con_107",
+      "text": "O Master System tinha tanto uma entrada para cartuchos quanto uma entrada para cartões, usada nos lançamentos menores e mais baratos do formato Sega MyCard.",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "con_108",
+      "text": "A fabricante brasileira Tectoy produziu hardware e software do Master System por décadas, lançando jogos novos até bem dentro dos anos 2010.",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "con_109",
+      "text": "Alex Kidd in Miracle World vinha embutido em muitos consoles Master System como jogo de brinde, podendo ser iniciado sem a necessidade de um cartucho.",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "con_110",
+      "text": "O Sega Master System usava um processador Zilog Z80 — o mesmo chip encontrado no ColecoVision e no ZX Spectrum.",
+      "system": "mastersystem",
+      "rom": "default"
+    },
+    {
+      "id": "con_111",
+      "text": "Night Trap, um jogo em full-motion video do Sega CD, foi citado nominalmente durante as audiências do Congresso dos Estados Unidos em 1993 sobre violência em videogames.",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "con_112",
+      "text": "Sonic CD introduziu a viagem no tempo como mecânica central e é considerado por muitos como o jogo com a melhor trilha sonora da série Sonic.",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "con_113",
+      "text": "Snatcher, a visual novel cyberpunk de Hideo Kojima, foi lançado no Sega CD e hoje é extremamente raro e valorizado.",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "con_114",
+      "text": "O Sega CD conseguia tocar CDs de áudio comuns pela saída de fone de ouvido do Genesis, tornando-se um aparelho de entretenimento com dupla função.",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "con_115",
+      "text": "O Sega CD tinha efeitos de escala e rotação por hardware semelhantes aos do chip Modo 7 do SNES.",
+      "system": "segacd",
+      "rom": "default"
+    },
+    {
+      "id": "con_116",
+      "text": "O 32X foi projetado como uma solução temporária para prolongar a vida do Genesis enquanto a Sega terminava de desenvolver o Saturn.",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "con_117",
+      "text": "O 32X adicionava dois processadores Hitachi SH-2 de 32 bits ao Genesis, encaixados pela entrada de cartuchos.",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "con_118",
+      "text": "Apenas 40 jogos foram lançados para o Sega 32X durante sua vida comercial extremamente curta.",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "con_119",
+      "text": "Doom, no 32X, era um dos jogos de destaque, mas era considerado inferior à versão de PC por faltarem fases e músicas.",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "con_120",
+      "text": "A combinação do 32X com o Sega CD criava o 32X CD, a mais rara das três configurações, com apenas seis jogos lançados.",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "con_121",
+      "text": "O GameCube usava discos miniDVD proprietários, com capacidade de 1,5 GB de dados, principalmente para dificultar a pirataria.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "con_122",
+      "text": "Metroid Prime foi desenvolvido pela Retro Studios — uma equipe até então sem experiência comprovada — e hoje é considerado um dos melhores jogos já feitos.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "con_123",
+      "text": "Resident Evil 4 foi originalmente planejado para o PS2, mas foi lançado como exclusivo de GameCube antes de ser portado meses depois.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "con_124",
+      "text": "O GameCube tinha uma alça de transporte embutida, tornando-o o console doméstico literalmente mais portátil já lançado pela Nintendo.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "con_125",
+      "text": "O botão A do controle do GameCube, maior que os demais, foi projetado deliberadamente como o botão de ação padrão para jogos de plataforma em 3D.",
+      "system": "gamecube",
+      "rom": "default"
+    },
+    {
+      "id": "con_126",
+      "text": "O Game Boy Color conseguia exibir 56 cores simultâneas a partir de uma paleta de 32.768 tonalidades possíveis.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "con_127",
+      "text": "O GBC era compatível com todos os jogos originais do Game Boy, que eram exibidos com uma paleta de cores limitada escolhida pelo jogador.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "con_128",
+      "text": "Pokémon Gold e Silver levaram o hardware do GBC ao seu limite absoluto, conseguindo, de forma famosa, encaixar toda a região de Kanto como uma área bônus pós-jogo.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "con_129",
+      "text": "O Game Boy Color incluía uma porta infravermelha usada para comunicação sem fio de curto alcance em jogos selecionados.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "con_130",
+      "text": "Dragon Warrior Monsters, no GBC, foi um sucesso surpreendente que deu origem a uma longa série derivada de captura de monstros.",
+      "system": "gbc",
+      "rom": "default"
+    },
+    {
+      "id": "con_131",
+      "text": "O Atari Lynx foi o primeiro portátil de videogame com uma tela LCD colorida com luz de fundo, lançado em 1989.",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "con_132",
+      "text": "O Lynx tinha escala e distorção de sprites feitas por hardware, permitindo efeitos de zoom suaves, raros para um hardware portátil.",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "con_133",
+      "text": "O Lynx podia ser virado de cabeça para baixo para uso por canhotos, com uma configuração de software que dizia ao jogo para espelhar a tela.",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "con_134",
+      "text": "O cabo ComLynx permitia conectar até 17 unidades do Lynx para jogo multiplayer, superando em muito o que o Link Cable do Game Boy suportava.",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "con_135",
+      "text": "A tela colorida com luz de fundo do Lynx exigia seis pilhas AA e oferecia apenas cerca de 4 horas de jogo por conjunto de pilhas.",
+      "system": "atarilynx",
+      "rom": "default"
+    },
+    {
+      "id": "con_136",
+      "text": "O WonderSwan foi projetado por Gunpei Yokoi, criador do Game Boy original, depois que ele deixou a Nintendo após o fracasso do Virtual Boy.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "con_137",
+      "text": "O WonderSwan podia ser segurado tanto na vertical quanto na horizontal, com botões posicionados para funcionar bem nas duas orientações.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "con_138",
+      "text": "O WonderSwan Color, lançado em 2000, conseguia exibir 241 cores simultâneas a partir de uma paleta de 4.096.",
+      "system": "wonderswancolor",
+      "rom": "default"
+    },
+    {
+      "id": "con_139",
+      "text": "Final Fantasy I a VI foram todos refeitos exclusivamente para o WonderSwan Color no Japão, sem nunca sair da plataforma.",
+      "system": "wonderswancolor",
+      "rom": "default"
+    },
+    {
+      "id": "con_140",
+      "text": "O WonderSwan funcionava com uma única pilha AA e oferecia mais de 30 horas de duração de bateria — superando em muito seus concorrentes.",
+      "system": "wonderswan",
+      "rom": "default"
+    },
+    {
+      "id": "con_141",
+      "text": "O Neo Geo Pocket foi o primeiro console portátil da SNK, lançado no Japão em 1998 em preto e branco, antes de uma versão colorida ser lançada em seguida.",
+      "system": "ngp",
+      "rom": "default"
+    },
+    {
+      "id": "con_142",
+      "text": "O direcional com microchaves do Neo Geo Pocket Color tinha uma sensação de clique satisfatória, elogiada tanto por jogadores quanto pela crítica.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "con_143",
+      "text": "SNK vs. Capcom: Match of the Millennium, no NGPC, é amplamente considerado um dos melhores jogos de luta portáteis já feitos.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "con_144",
+      "text": "O Neo Geo Pocket Color podia se conectar ao Dreamcast para trocar dados salvos e desbloquear conteúdo bônus em jogos selecionados.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "con_145",
+      "text": "A biblioteca do NGPC era fortemente focada nas franquias de luta da SNK, com bons títulos de King of Fighters, Samurai Shodown e Fatal Fury.",
+      "system": "ngpc",
+      "rom": "default"
+    },
+    {
+      "id": "con_146",
+      "text": "O Virtual Boy foi o primeiro console de 32 bits da Nintendo e usava conjuntos de LEDs vermelhos para criar imagens em 3D estereoscópico.",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "con_147",
+      "text": "O Virtual Boy exigia que os jogadores encostassem o rosto em um visor fixo — não podia ser usado em movimento nem sob luz forte.",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "con_148",
+      "text": "Apenas 22 jogos foram oficialmente lançados para o Virtual Boy na América do Norte antes de a Nintendo descontinuá-lo, em 1996.",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "con_149",
+      "text": "Wario Land era considerado o jogo mais forte do Virtual Boy — um dos poucos que realmente usava a profundidade 3D de forma criativa.",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "con_150",
+      "text": "Consta que Gunpei Yokoi não queria lançar o Virtual Boy quando ele foi comercializado, por sentir que a tecnologia ainda não estava pronta.",
+      "system": "virtualboy",
+      "rom": "default"
+    },
+    {
+      "id": "con_151",
+      "text": "O Nintendo DS tinha o codinome 'Project Nitro' durante seu desenvolvimento interno na Nintendo.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "con_152",
+      "text": "New Super Mario Bros. foi o primeiro jogo de plataforma 2D inédito do Mario em mais de uma década, quando foi lançado no DS em 2006.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "con_153",
+      "text": "O microfone do DS foi usado de forma criativa em Nintendogs, onde os jogadores podiam chamar o cachorro dizendo seu nome em voz alta.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "con_154",
+      "text": "O Nintendo DS vendeu mais de 154 milhões de unidades, tornando-se o segundo sistema de jogos dedicado mais vendido de todos os tempos.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "con_155",
+      "text": "Brain Age, no DS, se tornou um fenômeno surpreendente, expandindo o público do DS para jogadores mais velhos que nunca haviam tido um videogame.",
+      "system": "nintendo_ds",
+      "rom": "default"
+    },
+    {
+      "id": "con_156",
+      "text": "O recurso StreetPass do 3DS trocava dados automaticamente com outros aparelhos 3DS próximos, mesmo com o sistema em modo de espera.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "con_157",
+      "text": "Fire Emblem Awakening salvou a franquia Fire Emblem do cancelamento — a Nintendo o havia planejado como o último jogo da série.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "con_158",
+      "text": "O New Nintendo 3DS adicionou um mini analógico C-Stick e botões extras ZL/ZR para jogos que exigiam mais opções de comando.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "con_159",
+      "text": "O 3DS tinha um pedômetro embutido que contava os passos e recompensava os jogadores com Play Coins, usáveis em diversos jogos.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "con_160",
+      "text": "Xenoblade Chronicles 3D foi exclusivo do New Nintendo 3DS porque o hardware do 3DS padrão não tinha poder de processamento suficiente para rodá-lo.",
+      "system": "nintendo_3ds",
+      "rom": "default"
+    },
+    {
+      "id": "con_161",
+      "text": "O Xbox original foi o primeiro console a vir com um disco rígido embutido, eliminando a necessidade de cartões de memória.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "con_162",
+      "text": "Halo: Combat Evolved foi projetado como um jogo de lançamento para mostrar o potencial do Xbox e praticamente definiu o gênero de tiro em primeira pessoa em consoles.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "con_163",
+      "text": "O Xbox Live foi lançado em novembro de 2002, estabelecendo o modelo dos serviços online por assinatura para consoles que conhecemos hoje.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "con_164",
+      "text": "O controle original do Xbox — apelidado de 'The Duke' — foi criticado por ser grande demais para as mãos de muitos jogadores, o que levou a uma versão menor, o 'Controller S'.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "con_165",
+      "text": "O Xbox usava um kernel modificado do Windows 2000 como sistema operacional, o que tornava relativamente simples para os desenvolvedores de PC portarem seus jogos.",
+      "system": "xbox",
+      "rom": "default"
+    },
+    {
+      "id": "con_166",
+      "text": "O Wii Remote usava uma combinação de acelerômetros e uma barra sensora infravermelha para seus comandos baseados em movimento.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "con_167",
+      "text": "Wii Sports vinha incluso com o Wii na América do Norte e se tornou o jogo mais vendido do console de todos os tempos.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "con_168",
+      "text": "O Wii vendeu muito mais que o PS3 e o Xbox 360, impulsionado pelo seu apelo junto a jogadores não tradicionais.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "con_169",
+      "text": "O Wii tinha entradas escondidas para controles de GameCube sob uma tampa na parte de cima, permitindo jogar toda a biblioteca do GameCube.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "con_170",
+      "text": "Wii Fit e seu periférico de prancha de equilíbrio venderam mais de 22 milhões de unidades, tornando-se um dos periféricos de videogame mais vendidos de todos os tempos.",
+      "system": "wii",
+      "rom": "default"
+    },
+    {
+      "id": "con_171",
+      "text": "O joystick analógico do Atari 5200 não voltava sozinho ao centro, o que o tornava frustrante em muitos jogos de ação que exigiam comandos precisos.",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "con_172",
+      "text": "O Atari 5200 era incompatível com os jogos do Atari 2600 sem um acessório adaptador vendido separadamente.",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "con_173",
+      "text": "O Atari 5200 foi o primeiro console da Atari a ter um botão de pausa em seu controle.",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "con_174",
+      "text": "O hardware do Atari 5200 era essencialmente idêntico ao da linha de computadores domésticos Atari 400/800.",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "con_175",
+      "text": "Pole Position foi um dos títulos mais populares do Atari 5200 e trazia uma simulação de corrida impressionante para 1983.",
+      "system": "atari5200",
+      "rom": "default"
+    },
+    {
+      "id": "con_176",
+      "text": "O Atari 7800 era compatível com a biblioteca do Atari 2600 — um dos primeiros consoles a oferecer retrocompatibilidade.",
+      "system": "atari7800",
+      "rom": "default"
+    },
+    {
+      "id": "con_177",
+      "text": "O 7800 estava originalmente pronto para ser lançado em 1984, mas foi engavetado quando a Warner Bros. vendeu a Atari, atrasando o lançamento até 1986.",
+      "system": "atari7800",
+      "rom": "default"
+    },
+    {
+      "id": "con_178",
+      "text": "O Atari 7800 usava um formato de cartucho sem chip de bloqueio proprietário, o que tornava simples o desenvolvimento não licenciado.",
+      "system": "atari7800",
+      "rom": "default"
+    },
+    {
+      "id": "con_179",
+      "text": "Commando foi uma das conversões de arcade mais elogiadas no Atari 7800, por recriar fielmente a experiência do fliperama.",
+      "system": "atari7800",
+      "rom": "default"
+    },
+    {
+      "id": "con_180",
+      "text": "O joystick ProLine do 7800 foi uma melhoria significativa em relação ao controle do 5200, com um design que voltava sozinho ao centro.",
+      "system": "atari7800",
+      "rom": "default"
+    },
+    {
+      "id": "con_181",
+      "text": "O processador Cell do PS3 foi desenvolvido em conjunto por Sony, Toshiba e IBM, projetado como um chip de supercomputação de uso geral.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "con_182",
+      "text": "O leitor de Blu-ray do PS3 ajudou o formato a vencer de forma decisiva a guerra dos discos em alta definição contra o HD-DVD da Toshiba.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "con_183",
+      "text": "O projeto Folding@home, da Universidade Stanford, rodava no PS3, fazendo da rede combinada um dos sistemas de computação distribuída mais poderosos já montados.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "con_184",
+      "text": "O PS3 foi lançado por 599 dólares nos Estados Unidos, tornando-se um dos lançamentos de console mais caros da história dos videogames.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "con_185",
+      "text": "LittleBigPlanet foi pioneiro no conteúdo gerado por usuários em consoles, em grande escala, permitindo que os jogadores criassem e compartilhassem fases inteiras.",
+      "system": "ps3",
+      "rom": "default"
+    },
+    {
+      "id": "con_186",
+      "text": "O Wii U foi o primeiro console da Nintendo a oferecer saída de vídeo em HD, um recurso que os concorrentes já ofereciam desde 2005-2006.",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "con_187",
+      "text": "A tela sensível ao toque do GamePad do Wii U permitia jogar longe da TV, deixando os jogadores aproveitarem os jogos sem usar uma televisão.",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "con_188",
+      "text": "Splatoon estreou no Wii U em 2015, marcando a primeira grande franquia nova de sucesso da Nintendo em muitos anos.",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "con_189",
+      "text": "O Wii U sofreu com uma confusão generalizada entre os consumidores — muitos compradores acreditavam que o GamePad era apenas um acessório do Wii.",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "con_190",
+      "text": "Super Smash Bros. para Wii U suportava batalhas simultâneas com 8 jogadores em cenários grandes, o maior número de jogadores da história da série.",
+      "system": "wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "con_191",
+      "text": "O Sega Pico era um console educativo voltado para crianças pequenas, que usava um touchpad e cartuchos especiais em formato de livro de histórias.",
+      "system": "sega_pico",
+      "rom": "default"
+    },
+    {
+      "id": "con_192",
+      "text": "O Atari ST usava o processador 68000 da Motorola e rivalizava com o Amiga como uma plataforma séria para jogos e produção musical na Europa.",
+      "system": "atari_st",
+      "rom": "default"
+    },
+    {
+      "id": "con_193",
+      "text": "O Nintendo Switch é o primeiro console a ser um verdadeiro híbrido — totalmente funcional tanto como console doméstico quanto como portátil.",
+      "system": "nintendo_switch",
+      "rom": "default"
+    },
+    {
+      "id": "con_194",
+      "text": "O Sega SC-3000 era um computador doméstico lançado junto com o SG-1000 no Japão em 1983, compartilhando componentes internos idênticos.",
+      "system": "sega_sc_3000",
+      "rom": "default"
+    },
+    {
+      "id": "con_195",
+      "text": "O NEC PC-FX foi o último console de 32 bits sem cartuchos a ser lançado antes de Sony e Sega dominarem o mercado.",
+      "system": "pcfx",
+      "rom": "default"
+    },
+    {
+      "id": "con_196",
+      "text": "O Fairchild Channel F foi o primeiro console doméstico de videogame baseado em cartuchos, chegando um ano antes do Atari 2600.",
+      "system": "fairchild_channel_f",
+      "rom": "default"
+    },
+    {
+      "id": "con_197",
+      "text": "O Emerson Arcadia 2001 foi um dos muitos consoles lançados às pressas no mercado para aproveitar o sucesso do Atari 2600, com uma biblioteca de 35 jogos.",
+      "system": "emerson_arcadia_2001",
+      "rom": "default"
+    },
+    {
+      "id": "con_198",
+      "text": "O Bally Astrocade tinha uma versão embutida de Gunfight e usava um controle único que combinava joystick e gatilho.",
+      "system": "bally_astrocade",
+      "rom": "default"
+    },
+    {
+      "id": "con_199",
+      "text": "O Entex Adventure Vision usava uma única coluna de LEDs refletida por um espelho giratório para simular uma tela — uma das tecnologias de exibição mais estranhas da história dos videogames.",
+      "system": "entex_adventure_vision",
+      "rom": "default"
+    },
+    {
+      "id": "con_200",
+      "text": "O SG-1000 foi o primeiro console doméstico da Sega, lançado no mesmo dia que o Famicom no Japão, em 15 de julho de 1983.",
+      "system": "sg-1000",
+      "rom": "default"
+    }
+  ]
+}

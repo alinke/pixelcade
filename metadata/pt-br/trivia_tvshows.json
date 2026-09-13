@@ -1,0 +1,1325 @@
+{
+  "category": "tvshows",
+  "facts": [
+    {
+      "id": "tv_001",
+      "text": "Mr. T, do A-Team, usava tanta joia de ouro de verdade no set que o departamento de figurino acabou tendo que pesá-las antes de cada gravação.",
+      "system": "tvshows",
+      "rom": "the_a_team"
+    },
+    {
+      "id": "tv_002",
+      "text": "Apesar dos tiroteios e explosões constantes, ninguém nunca morria em The A-Team — uma regra que virou piada recorrente entre os fãs.",
+      "system": "tvshows",
+      "rom": "the_a_team"
+    },
+    {
+      "id": "tv_003",
+      "text": "Mr. T foi escalado para The A-Team depois que Sylvester Stallone o notou em uma competição de durões transmitida pela TV.",
+      "system": "tvshows",
+      "rom": "the_a_team"
+    },
+    {
+      "id": "tv_004",
+      "text": "George Peppard, que interpretava Hannibal, segundo consta não se dava bem com Mr. T nos bastidores durante toda a série.",
+      "system": "tvshows",
+      "rom": "the_a_team"
+    },
+    {
+      "id": "tv_005",
+      "text": "O KITT, de Knight Rider, foi construído sobre um chassi de Pontiac Trans Am — uma escolha em parte motivada pelo patrocínio da GM ao programa.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_006",
+      "text": "A voz do KITT era de William Daniels, que também interpretou o Sr. Feeny em Boy Meets World mais de uma década depois.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_007",
+      "text": "Vários carros KITT foram construídos para Knight Rider — um para as acrobacias, um para os closes e vários veículos reserva.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_008",
+      "text": "O contrato de David Hasselhoff para Knight Rider dava a ele a palavra final sobre tramas envolvendo seu personagem, Michael Knight.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_009",
+      "text": "Tom Selleck quase não protagonizou Magnum P.I. — ele havia sido originalmente escalado para Indiana Jones, mas não pôde deixar o seriado.",
+      "system": "tvshows",
+      "rom": "magnum_pi"
+    },
+    {
+      "id": "tv_010",
+      "text": "Magnum P.I. se passava no Havaí, e a produção usou locações reais pela ilha de Oahu na maioria das cenas externas.",
+      "system": "tvshows",
+      "rom": "magnum_pi"
+    },
+    {
+      "id": "tv_011",
+      "text": "O bigode de Tom Selleck se tornou tão icônico em Magnum P.I. que, segundo consta, pediam para ele mantê-lo em todos os projetos seguintes.",
+      "system": "tvshows",
+      "rom": "magnum_pi"
+    },
+    {
+      "id": "tv_012",
+      "text": "Magnum P.I. foi um dos primeiros programas do horário nobre a mostrar regularmente um veterano do Vietnã como personagem principal.",
+      "system": "tvshows",
+      "rom": "magnum_pi"
+    },
+    {
+      "id": "tv_013",
+      "text": "Cheers foi filmada inteiramente nos estúdios Paramount, em Hollywood — o cenário do bar nunca mudou de lugar durante as 11 temporadas do seriado.",
+      "system": "tvshows",
+      "rom": "cheers"
+    },
+    {
+      "id": "tv_014",
+      "text": "A música-tema de Cheers, 'Where Everybody Knows Your Name', foi escrita por Gary Portnoy e Judy Hart Angelo.",
+      "system": "tvshows",
+      "rom": "cheers"
+    },
+    {
+      "id": "tv_015",
+      "text": "Cheers estreou em 1982 com audiência muito baixa e quase foi cancelada após a primeira temporada, antes de conquistar um público fiel.",
+      "system": "tvshows",
+      "rom": "cheers"
+    },
+    {
+      "id": "tv_016",
+      "text": "O bar usado nas cenas externas de Cheers era o Bull & Finch Pub, em Boston, que depois mudou seu próprio nome para 'Cheers'.",
+      "system": "tvshows",
+      "rom": "cheers"
+    },
+    {
+      "id": "tv_017",
+      "text": "Michael J. Fox quase não foi escalado para Family Ties — os produtores queriam originalmente outro ator para o papel de Alex P. Keaton.",
+      "system": "tvshows",
+      "rom": "family_ties"
+    },
+    {
+      "id": "tv_018",
+      "text": "Family Ties inverteu a dinâmica planejada — Alex deveria ser um personagem secundário, mas a atuação de Fox o transformou no favorito dos fãs.",
+      "system": "tvshows",
+      "rom": "family_ties"
+    },
+    {
+      "id": "tv_019",
+      "text": "Michael J. Fox filmou De Volta para o Futuro enquanto ainda estava em Family Ties, trabalhando em turnos duplos durante meses.",
+      "system": "tvshows",
+      "rom": "family_ties"
+    },
+    {
+      "id": "tv_020",
+      "text": "Meredith Baxter e Michael Gross, que interpretavam os pais Keaton, tiveram carreiras de sucesso depois de Family Ties.",
+      "system": "tvshows",
+      "rom": "family_ties"
+    },
+    {
+      "id": "tv_021",
+      "text": "Diff'rent Strokes projetou Gary Coleman ao estrelato — sua frase de efeito 'Whatchu talkin' 'bout, Willis?' se tornou uma das falas mais repetidas dos anos 80.",
+      "system": "tvshows",
+      "rom": "different_strokes"
+    },
+    {
+      "id": "tv_022",
+      "text": "Três dos principais atores-mirins de Diff'rent Strokes enfrentaram sérios problemas legais na vida adulta, o que gerou discussões sobre o bem-estar de crianças atrizes em Hollywood.",
+      "system": "tvshows",
+      "rom": "different_strokes"
+    },
+    {
+      "id": "tv_023",
+      "text": "Diff'rent Strokes foi uma das primeiras sitcoms americanas a retratar crianças negras adotadas por uma família branca rica.",
+      "system": "tvshows",
+      "rom": "different_strokes"
+    },
+    {
+      "id": "tv_024",
+      "text": "The Cosby Show é apontada como responsável por reviver o formato de sitcom em meados dos anos 80, depois que o gênero havia caído em desuso nas emissoras.",
+      "system": "tvshows",
+      "rom": "the_cosby_show"
+    },
+    {
+      "id": "tv_025",
+      "text": "The Cosby Show era filmada diante de uma plateia ao vivo em Nova York, e não em Hollywood, algo incomum para a época.",
+      "system": "tvshows",
+      "rom": "the_cosby_show"
+    },
+    {
+      "id": "tv_026",
+      "text": "A casa dos Huxtable em The Cosby Show era retratada como um sobrado no estilo brownstone do Brooklyn, dando um cenário realista e concreto a uma família de classe alta.",
+      "system": "tvshows",
+      "rom": "the_cosby_show"
+    },
+    {
+      "id": "tv_027",
+      "text": "Leonardo DiCaprio entrou em Growing Pains na sexta temporada e se destacou tanto que chamou a atenção de diretores de Hollywood.",
+      "system": "tvshows",
+      "rom": "growing_pains"
+    },
+    {
+      "id": "tv_028",
+      "text": "Growing Pains foi uma das várias sitcoms familiares dos anos 80 que invertiam a dinâmica familiar tradicional, fazendo do pai o responsável por cuidar da casa.",
+      "system": "tvshows",
+      "rom": "growing_pains"
+    },
+    {
+      "id": "tv_029",
+      "text": "Kirk Cameron, astro de Growing Pains, se converteu ao cristianismo evangélico durante o seriado, o que influenciou as tramas das temporadas seguintes.",
+      "system": "tvshows",
+      "rom": "growing_pains"
+    },
+    {
+      "id": "tv_030",
+      "text": "ALF — sigla de Alien Life Form (Forma de Vida Alienígena) — era interpretado com uma combinação de fantoche, figurino e ângulos de câmera para esconder o mecanismo.",
+      "system": "tvshows",
+      "rom": "alf"
+    },
+    {
+      "id": "tv_031",
+      "text": "O fantoche do ALF precisava de até cinco operadores simultâneos em cenas complexas que envolviam movimento e fala ao mesmo tempo.",
+      "system": "tvshows",
+      "rom": "alf"
+    },
+    {
+      "id": "tv_032",
+      "text": "A frase de efeito do ALF, 'Ha! I kill me!', foi eleita uma das falas cômicas mais memoráveis dos anos 80.",
+      "system": "tvshows",
+      "rom": "alf"
+    },
+    {
+      "id": "tv_033",
+      "text": "ALF significava Alien Life Form — o verdadeiro nome do personagem em seu planeta natal, Melmac, era Gordon Shumway.",
+      "system": "tvshows",
+      "rom": "alf"
+    },
+    {
+      "id": "tv_034",
+      "text": "Os produtores de MacGyver contratavam consultores técnicos para garantir que os gadgets improvisados mostrados fossem ao menos teoricamente plausíveis.",
+      "system": "tvshows",
+      "rom": "macgyver"
+    },
+    {
+      "id": "tv_035",
+      "text": "A palavra 'MacGyver' entrou para o dicionário Merriam-Webster como verbo, significando consertar ou fazer algo usando qualquer material disponível.",
+      "system": "tvshows",
+      "rom": "macgyver"
+    },
+    {
+      "id": "tv_036",
+      "text": "Richard Dean Anderson, que interpretava MacGyver, era jogador de hóquei antes de se dedicar à atuação — ficou a apenas uma vaga de ser convocado para a NHL.",
+      "system": "tvshows",
+      "rom": "macgyver"
+    },
+    {
+      "id": "tv_037",
+      "text": "MacGyver era famoso por nunca portar uma arma de fogo, uma escolha de personagem que destacava o seriado das outras séries de ação dos anos 80.",
+      "system": "tvshows",
+      "rom": "macgyver"
+    },
+    {
+      "id": "tv_038",
+      "text": "Miami Vice nasceu de um pitch de duas palavras — 'MTV Cops' (polícia estilo MTV) — apresentado pelo roteirista Anthony Yerkovich.",
+      "system": "tvshows",
+      "rom": "miami_vice"
+    },
+    {
+      "id": "tv_039",
+      "text": "Miami Vice é creditada por popularizar o blazer em cores pastel e o visual sem meias que definiu a moda masculina dos anos 80.",
+      "system": "tvshows",
+      "rom": "miami_vice"
+    },
+    {
+      "id": "tv_040",
+      "text": "Jan Hammer compôs a trilha eletrônica de Miami Vice, ganhando um Emmy e tornando a trilha sonora feita de sintetizadores tão icônica quanto a estética visual do seriado.",
+      "system": "tvshows",
+      "rom": "miami_vice"
+    },
+    {
+      "id": "tv_041",
+      "text": "Miami Vice usava carros de luxo, iates e moda sofisticada de verdade para dar ao seriado uma autenticidade visual que a maioria das produções de TV evitava.",
+      "system": "tvshows",
+      "rom": "miami_vice"
+    },
+    {
+      "id": "tv_042",
+      "text": "O helicóptero de Airwolf era um Bell 222 de verdade, modificado com pods de armas falsos e acessórios aerodinâmicos para o seriado.",
+      "system": "tvshows",
+      "rom": "airwolf"
+    },
+    {
+      "id": "tv_043",
+      "text": "O helicóptero de Airwolf foi depois vendido para um serviço alemão de ambulância aérea após o fim do seriado.",
+      "system": "tvshows",
+      "rom": "airwolf"
+    },
+    {
+      "id": "tv_044",
+      "text": "Jan-Michael Vincent, protagonista de Airwolf, foi, segundo consta, um dos atores de TV mais bem pagos do início dos anos 80.",
+      "system": "tvshows",
+      "rom": "airwolf"
+    },
+    {
+      "id": "tv_045",
+      "text": "The Dukes of Hazzard usou 309 Dodge Chargers General Lee ao longo do seriado — a maioria foi destruída em saltos e acrobacias.",
+      "system": "tvshows",
+      "rom": "dukes_of_hazzard"
+    },
+    {
+      "id": "tv_046",
+      "text": "A buzina do General Lee tocava as primeiras 12 notas de 'Dixie', que se tornaram indissociáveis da identidade do seriado.",
+      "system": "tvshows",
+      "rom": "dukes_of_hazzard"
+    },
+    {
+      "id": "tv_047",
+      "text": "John Schneider mentiu sobre a idade para conseguir o papel em The Dukes of Hazzard — disse ter 24 anos quando na verdade tinha 18.",
+      "system": "tvshows",
+      "rom": "dukes_of_hazzard"
+    },
+    {
+      "id": "tv_048",
+      "text": "Simon & Simon ficou no ar por oito temporadas na CBS e se tornou um dos dramas policiais de maior audiência do início dos anos 80.",
+      "system": "tvshows",
+      "rom": "simon_and_simon"
+    },
+    {
+      "id": "tv_049",
+      "text": "Simon & Simon mostrava dois irmãos de personalidades opostas trabalhando como detetives particulares — uma fórmula que influenciou muitos seriados de dupla que vieram depois.",
+      "system": "tvshows",
+      "rom": "simon_and_simon"
+    },
+    {
+      "id": "tv_050",
+      "text": "O gancho 'Quem atirou em J.R.?', de Dallas, em 1980, continua sendo um dos episódios únicos mais assistidos da história da televisão americana.",
+      "system": "tvshows",
+      "rom": "dallas"
+    },
+    {
+      "id": "tv_051",
+      "text": "A resposta para 'Quem atirou em J.R.?', em Dallas, foi mantida em segredo de quase todo o elenco e da equipe até a exibição do episódio.",
+      "system": "tvshows",
+      "rom": "dallas"
+    },
+    {
+      "id": "tv_052",
+      "text": "Dallas gerou inúmeras adaptações internacionais e é apontada como responsável por popularizar o formato de novela noturna no mundo todo.",
+      "system": "tvshows",
+      "rom": "dallas"
+    },
+    {
+      "id": "tv_053",
+      "text": "Dynasty foi criada especificamente para competir com Dallas e rapidamente a superou em audiência em meados dos anos 80.",
+      "system": "tvshows",
+      "rom": "dynasty"
+    },
+    {
+      "id": "tv_054",
+      "text": "Joan Collins foi escalada para Dynasty depois que os produtores a viram em um telefilme e decidiram reescrever o seriado em torno de uma vilã feminina mais forte.",
+      "system": "tvshows",
+      "rom": "dynasty"
+    },
+    {
+      "id": "tv_055",
+      "text": "Alexis Carrington, de Dynasty, interpretada por Joan Collins, se tornou uma das vilãs mais icônicas da TV nos anos 80.",
+      "system": "tvshows",
+      "rom": "dynasty"
+    },
+    {
+      "id": "tv_056",
+      "text": "The Facts of Life é um spin-off de Diff'rent Strokes — a Sra. Garrett deixou a casa dos Drummond para trabalhar na Eastland School.",
+      "system": "tvshows",
+      "rom": "facts_of_life"
+    },
+    {
+      "id": "tv_057",
+      "text": "The Facts of Life começou com um elenco grande, que foi reduzido a quatro garotas principais após a primeira temporada.",
+      "system": "tvshows",
+      "rom": "facts_of_life"
+    },
+    {
+      "id": "tv_058",
+      "text": "Saved by the Bell nasceu de um programa de sábado de manhã chamado Good Morning, Miss Bliss, que originalmente se passava em Indiana.",
+      "system": "tvshows",
+      "rom": "saved_by_the_bell"
+    },
+    {
+      "id": "tv_059",
+      "text": "Mark-Paul Gosselaar, que interpretava Zack Morris, usava peruca em alguns episódios porque seu cabelo natural não segurava o penteado certo.",
+      "system": "tvshows",
+      "rom": "saved_by_the_bell"
+    },
+    {
+      "id": "tv_060",
+      "text": "Dustin Diamond, que interpretava Screech em Saved by the Bell, escreveu um livro de memórias controverso que outros membros do elenco contestaram publicamente.",
+      "system": "tvshows",
+      "rom": "saved_by_the_bell"
+    },
+    {
+      "id": "tv_061",
+      "text": "Star Trek: TNG estreou em 1987 diretamente em sindicação, e não em uma rede de TV aberta — algo incomum para uma grande série de ficção científica.",
+      "system": "tvshows",
+      "rom": "star_trek_tng"
+    },
+    {
+      "id": "tv_062",
+      "text": "Patrick Stewart a princípio relutava em raspar a cabeça para viver o Capitão Picard, mas Gene Roddenberry insistiu que a calvície seria algo trivial no século 24.",
+      "system": "tvshows",
+      "rom": "star_trek_tng"
+    },
+    {
+      "id": "tv_063",
+      "text": "O gancho da Parte 1 de 'The Best of Both Worlds', episódio de Star Trek: TNG, causou um aumento nas vendas de televisores quando foi exibido em 1990.",
+      "system": "tvshows",
+      "rom": "star_trek_tng"
+    },
+    {
+      "id": "tv_064",
+      "text": "Whoopi Goldberg fez pessoalmente pressão para aparecer em Star Trek: TNG porque considerava que a personagem Uhura, da série original, havia inspirado sua carreira.",
+      "system": "tvshows",
+      "rom": "star_trek_tng"
+    },
+    {
+      "id": "tv_065",
+      "text": "Married... with Children foi a primeira série original com roteiro a ir ao ar na rede Fox, quando foi lançada em 1987.",
+      "system": "tvshows",
+      "rom": "married_with_children"
+    },
+    {
+      "id": "tv_066",
+      "text": "Uma campanha de cartas de protesto de uma telespectadora contra Married... with Children acabou aumentando a audiência do seriado ao chamar atenção para ele.",
+      "system": "tvshows",
+      "rom": "married_with_children"
+    },
+    {
+      "id": "tv_067",
+      "text": "Ed O'Neill, que interpretava Al Bundy, fez um breve teste com o Pittsburgh Steelers antes de se tornar ator.",
+      "system": "tvshows",
+      "rom": "married_with_children"
+    },
+    {
+      "id": "tv_068",
+      "text": "The Wonder Years era narrada por Daniel Stern, mas a voz era apresentada como uma versão mais velha de Kevin Arnold relembrando a própria infância.",
+      "system": "tvshows",
+      "rom": "the_wonder_years"
+    },
+    {
+      "id": "tv_069",
+      "text": "The Wonder Years ganhou o Emmy de melhor série de comédia em 1988, já no primeiro ano no ar.",
+      "system": "tvshows",
+      "rom": "the_wonder_years"
+    },
+    {
+      "id": "tv_070",
+      "text": "A versão de Joe Cocker para 'With a Little Help from My Friends', usada na abertura de The Wonder Years, se tornou uma das músicas-tema mais reconhecidas da época.",
+      "system": "tvshows",
+      "rom": "the_wonder_years"
+    },
+    {
+      "id": "tv_071",
+      "text": "Roseanne estreou em 1988 e imediatamente se tornou um dos programas de maior audiência da televisão, ficando entre os cinco mais assistidos durante a maior parte do seriado.",
+      "system": "tvshows",
+      "rom": "roseanne"
+    },
+    {
+      "id": "tv_072",
+      "text": "Roseanne foi inovadora por retratar uma família americana da classe trabalhadora numa época em que a maioria das sitcoms mostrava lares confortáveis de classe média.",
+      "system": "tvshows",
+      "rom": "roseanne"
+    },
+    {
+      "id": "tv_073",
+      "text": "A família fictícia Conner, de Roseanne, morava em Lanford, Illinois — um cenário escolhido para contrastar com os ambientes glamourosos de outras sitcoms.",
+      "system": "tvshows",
+      "rom": "roseanne"
+    },
+    {
+      "id": "tv_074",
+      "text": "Full House estreou em 1987 e a expectativa inicial era de que fosse cancelada rapidamente, mas se tornou um dos programas de maior audiência da ABC.",
+      "system": "tvshows",
+      "rom": "full_house"
+    },
+    {
+      "id": "tv_075",
+      "text": "As gêmeas Olsen, Mary-Kate e Ashley, dividiam o papel de Michelle Tanner em Full House por causa das leis trabalhistas infantis que limitavam as horas de filmagem.",
+      "system": "tvshows",
+      "rom": "full_house"
+    },
+    {
+      "id": "tv_076",
+      "text": "Full House se passava em San Francisco e usava as icônicas casas vitorianas Painted Ladies na abertura do seriado.",
+      "system": "tvshows",
+      "rom": "full_house"
+    },
+    {
+      "id": "tv_077",
+      "text": "A premissa de Quantum Leap — saltar para o corpo de outras pessoas através do tempo — foi criada depois que as emissoras rejeitaram propostas mais convencionais de viagem no tempo.",
+      "system": "tvshows",
+      "rom": "quantum_leap"
+    },
+    {
+      "id": "tv_078",
+      "text": "Scott Bakula fez muitas de suas próprias acrobacias em Quantum Leap, principalmente em episódios em que Sam saltava para o corpo de atletas ou artistas.",
+      "system": "tvshows",
+      "rom": "quantum_leap"
+    },
+    {
+      "id": "tv_079",
+      "text": "O final de Quantum Leap continua sendo um dos finais de série mais controversos, já que revelou que Sam nunca voltou para casa.",
+      "system": "tvshows",
+      "rom": "quantum_leap"
+    },
+    {
+      "id": "tv_080",
+      "text": "Moonlighting é apontada como responsável por lançar a carreira de Bruce Willis — ele era um ator relativamente desconhecido antes da estreia do seriado, em 1985.",
+      "system": "tvshows",
+      "rom": "moonlighting"
+    },
+    {
+      "id": "tv_081",
+      "text": "Moonlighting quebrava a quarta parede com frequência e usava formatos experimentais, incluindo um episódio em preto e branco e um episódio inspirado em Shakespeare.",
+      "system": "tvshows",
+      "rom": "moonlighting"
+    },
+    {
+      "id": "tv_082",
+      "text": "A tensão romântica entre David e Maddie em Moonlighting deu origem ao termo 'maldição de Moonlighting', usado para séries que resolvem a tensão romântica cedo demais.",
+      "system": "tvshows",
+      "rom": "moonlighting"
+    },
+    {
+      "id": "tv_083",
+      "text": "Edward Woodward interpretava Robert McCall em The Equalizer, um ex-agente de inteligência que ajuda pessoas comuns diante de situações impossíveis.",
+      "system": "tvshows",
+      "rom": "the_equalizer"
+    },
+    {
+      "id": "tv_084",
+      "text": "O cenário de Nova York em The Equalizer foi filmado quase inteiramente em locações reais, dando ao seriado uma atmosfera mais crua e realista do que a de produções feitas em estúdio.",
+      "system": "tvshows",
+      "rom": "the_equalizer"
+    },
+    {
+      "id": "tv_085",
+      "text": "Pierce Brosnan não pôde aceitar o papel de James Bond em GoldenEye inicialmente porque seu contrato com Remington Steele foi estendido de forma inesperada.",
+      "system": "tvshows",
+      "rom": "remington_steele"
+    },
+    {
+      "id": "tv_086",
+      "text": "Remington Steele invertia a fórmula usual dos detetives de TV, fazendo da personagem feminina a verdadeira detetive competente, e do homem apenas a fachada charmosa.",
+      "system": "tvshows",
+      "rom": "remington_steele"
+    },
+    {
+      "id": "tv_087",
+      "text": "Hart to Hart trazia Robert Wagner e Stefanie Powers como um casal rico que se envolve em mistérios — vagamente inspirado em Nick e Nora Charles.",
+      "system": "tvshows",
+      "rom": "hart_to_hart"
+    },
+    {
+      "id": "tv_088",
+      "text": "A abertura de Hart to Hart, narrada por Lionel Stander, se tornou uma das aberturas de TV mais parodiadas do início dos anos 80.",
+      "system": "tvshows",
+      "rom": "hart_to_hart"
+    },
+    {
+      "id": "tv_089",
+      "text": "The Fall Guy trazia Lee Majors como um dublê de Hollywood que trabalhava paralelamente como caçador de recompensas — uma premissa vagamente baseada na cultura real dos dublês.",
+      "system": "tvshows",
+      "rom": "fall_guy"
+    },
+    {
+      "id": "tv_090",
+      "text": "A música-tema de The Fall Guy, 'The Unknown Stuntman', foi cantada pelo próprio Lee Majors e chegou às paradas de música country.",
+      "system": "tvshows",
+      "rom": "fall_guy"
+    },
+    {
+      "id": "tv_091",
+      "text": "Scarecrow and Mrs. King trazia Kate Jackson e Bruce Boxleitner como uma dupla formada por um espião e uma dona de casa comum — uma combinação incomum para séries de ação.",
+      "system": "tvshows",
+      "rom": "scarecrow_and_mrs_king"
+    },
+    {
+      "id": "tv_092",
+      "text": "Trapper John, M.D. era uma série derivada que se passava 28 anos depois de M*A*S*H, com Pernell Roberts como um Trapper John bem mais velho.",
+      "system": "tvshows",
+      "rom": "trapper_john_md"
+    },
+    {
+      "id": "tv_093",
+      "text": "St. Elsewhere foi um dos primeiros dramas de TV a matar um personagem principal — o Dr. White — no meio de uma temporada.",
+      "system": "tvshows",
+      "rom": "st_elsewhere"
+    },
+    {
+      "id": "tv_094",
+      "text": "O famoso final de St. Elsewhere revelou que toda a série havia se passado na imaginação de um garoto autista observando uma bola de neve.",
+      "system": "tvshows",
+      "rom": "st_elsewhere"
+    },
+    {
+      "id": "tv_095",
+      "text": "Hill Street Blues foi pioneira no formato de drama seriado na televisão americana, com tramas que continuavam de um episódio para o outro.",
+      "system": "tvshows",
+      "rom": "hill_street_blues"
+    },
+    {
+      "id": "tv_096",
+      "text": "Hill Street Blues ganhou oito Emmy Awards em sua primeira temporada, em 1981, incluindo o de melhor série dramática.",
+      "system": "tvshows",
+      "rom": "hill_street_blues"
+    },
+    {
+      "id": "tv_097",
+      "text": "A icônica cena de abertura de Hill Street Blues — a chamada matinal na delegacia — virou um modelo copiado por inúmeras séries policiais.",
+      "system": "tvshows",
+      "rom": "hill_street_blues"
+    },
+    {
+      "id": "tv_098",
+      "text": "Cagney & Lacey foi o primeiro drama americano a ter duas mulheres em igualdade de condições nos papéis principais — não como coadjuvantes ou interesses amorosos.",
+      "system": "tvshows",
+      "rom": "cagney_and_lacey"
+    },
+    {
+      "id": "tv_099",
+      "text": "Cagney & Lacey foi cancelada após a primeira temporada, mas campanhas de cartas de fãs convenceram a CBS a renová-la, e a série ficou no ar por mais seis temporadas.",
+      "system": "tvshows",
+      "rom": "cagney_and_lacey"
+    },
+    {
+      "id": "tv_100",
+      "text": "Murder, She Wrote ficou no ar por 12 temporadas e fez de Angela Lansbury uma das atrizes mais bem pagas da história da televisão.",
+      "system": "tvshows",
+      "rom": "murder_she_wrote"
+    },
+    {
+      "id": "tv_101",
+      "text": "Cabot Cove, no Maine — a cidade fictícia de Murder, She Wrote — teria, estatisticamente, a maior taxa de homicídios per capita do mundo.",
+      "system": "tvshows",
+      "rom": "murder_she_wrote"
+    },
+    {
+      "id": "tv_102",
+      "text": "Angela Lansbury a princípio relutava em aceitar o papel de Jessica Fletcher, temendo ficar marcada como uma detetive amadora idosa.",
+      "system": "tvshows",
+      "rom": "murder_she_wrote"
+    },
+    {
+      "id": "tv_103",
+      "text": "Bill Bixby, que interpretava David Banner em The Incredible Hulk, pediu que o primeiro nome do personagem fosse mudado de Bruce, para evitar estereótipos, segundo os produtores.",
+      "system": "tvshows",
+      "rom": "incredible_hulk"
+    },
+    {
+      "id": "tv_104",
+      "text": "Lou Ferrigno, que interpretava o Hulk, era realmente surdo e trabalhava com um intérprete de língua de sinais no set.",
+      "system": "tvshows",
+      "rom": "incredible_hulk"
+    },
+    {
+      "id": "tv_105",
+      "text": "O tema melancólico de encerramento de The Incredible Hulk ficou tão associado a despedidas tristes que passou a ser amplamente usado em paródias.",
+      "system": "tvshows",
+      "rom": "incredible_hulk"
+    },
+    {
+      "id": "tv_106",
+      "text": "Os efeitos sonoros biônicos de The Six Million Dollar Man — um pulso eletrônico lento — foram criados simplesmente desacelerando uma gravação e adicionando um efeito de oscilação.",
+      "system": "tvshows",
+      "rom": "six_million_dollar_man"
+    },
+    {
+      "id": "tv_107",
+      "text": "O spin-off The Bionic Woman foi tão popular que chegou a superar temporariamente em audiência a série da qual derivou, The Six Million Dollar Man.",
+      "system": "tvshows",
+      "rom": "bionic_woman"
+    },
+    {
+      "id": "tv_108",
+      "text": "Lynda Carter fez muitas de suas próprias acrobacias em Wonder Woman, incluindo várias envolvendo o laço dourado.",
+      "system": "tvshows",
+      "rom": "wonder_woman"
+    },
+    {
+      "id": "tv_109",
+      "text": "A primeira temporada de Wonder Woman se passava na Segunda Guerra Mundial, mas foi transferida para os dias atuais na segunda temporada para reduzir custos de produção.",
+      "system": "tvshows",
+      "rom": "wonder_woman"
+    },
+    {
+      "id": "tv_110",
+      "text": "21 Jump Street lançou a carreira de Johnny Depp — ele foi escalado como o Policial Hanson quando o seriado tinha dificuldade em encontrar um ator principal.",
+      "system": "tvshows",
+      "rom": "21_jump_street"
+    },
+    {
+      "id": "tv_111",
+      "text": "21 Jump Street foi um dos primeiros seriados da recém-criada rede Fox a se tornar um verdadeiro sucesso.",
+      "system": "tvshows",
+      "rom": "21_jump_street"
+    },
+    {
+      "id": "tv_112",
+      "text": "Johnny Depp, segundo consta, ficou frustrado com seu status de ídolo teen conquistado em 21 Jump Street e passou a buscar ativamente papéis mais ousados no cinema para fugir dessa imagem.",
+      "system": "tvshows",
+      "rom": "21_jump_street"
+    },
+    {
+      "id": "tv_113",
+      "text": "The Love Boat foi filmada quase inteiramente a bordo de navios de cruzeiro reais da Pacific Princess, que tiveram um aumento significativo nas reservas durante a exibição do seriado.",
+      "system": "tvshows",
+      "rom": "the_love_boat"
+    },
+    {
+      "id": "tv_114",
+      "text": "The Love Boat teve centenas de estrelas convidadas ao longo de suas nove temporadas, tornando-se um dos seriados com mais celebridades da história da TV.",
+      "system": "tvshows",
+      "rom": "the_love_boat"
+    },
+    {
+      "id": "tv_115",
+      "text": "O terno branco de Ricardo Montalbán em Fantasy Island se tornou um dos figurinos mais icônicos da TV no fim dos anos 70 e início dos anos 80.",
+      "system": "tvshows",
+      "rom": "fantasy_island"
+    },
+    {
+      "id": "tv_116",
+      "text": "Hervé Villechaize, que interpretava Tattoo em Fantasy Island, teria tido disputas contratuais sobre pagamento que contribuíram para sua saída do seriado.",
+      "system": "tvshows",
+      "rom": "fantasy_island"
+    },
+    {
+      "id": "tv_117",
+      "text": "O episódio do lançamento de perus no Dia de Ação de Graças de WKRP in Cincinnati é constantemente classificado entre os melhores episódios isolados da história das sitcoms.",
+      "system": "tvshows",
+      "rom": "wkrp_in_cincinnati"
+    },
+    {
+      "id": "tv_118",
+      "text": "O encerramento da música-tema de WKRP continha uma letra propositalmente incompreensível — uma piada que o criador Hugh Wilson escreveu de propósito como um amontoado de sons sem sentido.",
+      "system": "tvshows",
+      "rom": "wkrp_in_cincinnati"
+    },
+    {
+      "id": "tv_119",
+      "text": "O final de M*A*S*H, em 1983, reuniu 106 milhões de telespectadores — um recorde para um final de série que se manteve por 27 anos.",
+      "system": "tvshows",
+      "rom": "mash"
+    },
+    {
+      "id": "tv_120",
+      "text": "M*A*S*H ficou no ar por 11 temporadas, quase quatro vezes mais tempo do que a própria Guerra da Coreia que retratava.",
+      "system": "tvshows",
+      "rom": "mash"
+    },
+    {
+      "id": "tv_121",
+      "text": "Barney Miller foi filmada quase inteiramente em um único cenário de delegacia, tornando-a um dos dramas de qualidade mais econômicos da história da TV.",
+      "system": "tvshows",
+      "rom": "barney_miller"
+    },
+    {
+      "id": "tv_122",
+      "text": "Barney Miller foi elogiada por retratar os policiais como pessoas complexas, sobrecarregadas e muitas vezes frustradas com a burocracia — algo raro em séries policiais.",
+      "system": "tvshows",
+      "rom": "barney_miller"
+    },
+    {
+      "id": "tv_123",
+      "text": "Three's Company foi baseada em uma sitcom britânica chamada Man About the House, comprada e adaptada para o público americano.",
+      "system": "tvshows",
+      "rom": "threes_company"
+    },
+    {
+      "id": "tv_124",
+      "text": "A comédia física de John Ritter em Three's Company era tão precisa que críticos a compararam favoravelmente aos grandes nomes do cinema mudo.",
+      "system": "tvshows",
+      "rom": "threes_company"
+    },
+    {
+      "id": "tv_125",
+      "text": "The Golden Girls estreou em 1985 e se manteve entre os dez programas mais assistidos durante todas as suas sete temporadas.",
+      "system": "tvshows",
+      "rom": "golden_girls"
+    },
+    {
+      "id": "tv_126",
+      "text": "As quatro atrizes principais de The Golden Girls ganharam Emmy Awards por seus papéis — o único elenco na história das sitcoms a conseguir isso.",
+      "system": "tvshows",
+      "rom": "golden_girls"
+    },
+    {
+      "id": "tv_127",
+      "text": "The Golden Girls se passava em Miami especificamente para justificar o estilo de vida das personagens em clima quente e as cenas ao ar livre.",
+      "system": "tvshows",
+      "rom": "golden_girls"
+    },
+    {
+      "id": "tv_128",
+      "text": "Bea Arthur, Betty White, Rue McClanahan e Estelle Getty tinham entre o fim dos 50 e o início dos 60 anos quando Golden Girls começou.",
+      "system": "tvshows",
+      "rom": "golden_girls"
+    },
+    {
+      "id": "tv_129",
+      "text": "Perfect Strangers apresentou o personagem Balki Bartokomous, de Bronson Pinchot, um dos papéis cômicos de imigrante mais queridos dos anos 80.",
+      "system": "tvshows",
+      "rom": "perfect_strangers"
+    },
+    {
+      "id": "tv_130",
+      "text": "Perfect Strangers se passava em Chicago e usava locações reais da cidade para as cenas externas ao longo de suas oito temporadas.",
+      "system": "tvshows",
+      "rom": "perfect_strangers"
+    },
+    {
+      "id": "tv_131",
+      "text": "O final de Newhart, em 1990, revelou que toda a série havia sido um sonho de Bob Hartley, de The Bob Newhart Show — considerado por muitos um dos melhores finais da TV.",
+      "system": "tvshows",
+      "rom": "newhart"
+    },
+    {
+      "id": "tv_132",
+      "text": "O estilo impassível de Bob Newhart em conversas telefônicas, aprimorado no antigo The Bob Newhart Show, foi levado diretamente para o formato de Newhart.",
+      "system": "tvshows",
+      "rom": "newhart"
+    },
+    {
+      "id": "tv_133",
+      "text": "A Different World foi um spin-off de The Cosby Show centrado em Denise Huxtable em uma faculdade fictícia historicamente negra.",
+      "system": "tvshows",
+      "rom": "a_different_world"
+    },
+    {
+      "id": "tv_134",
+      "text": "Night Court se passava em um tribunal noturno real de Nova York, e consultores ajudavam os roteiristas a retratar com precisão os procedimentos jurídicos fora do horário comercial.",
+      "system": "tvshows",
+      "rom": "night_court"
+    },
+    {
+      "id": "tv_135",
+      "text": "John Larroquette ganhou quatro Emmy Awards consecutivos de melhor ator coadjuvante por seu papel como Dan Fielding em Night Court.",
+      "system": "tvshows",
+      "rom": "night_court"
+    },
+    {
+      "id": "tv_136",
+      "text": "Designing Women se passava em Atlanta e girava em torno de uma empresa de decoração de interiores comandada por mulheres, abordando questões sociais de forma mais direta do que a maioria das sitcoms.",
+      "system": "tvshows",
+      "rom": "designing_women"
+    },
+    {
+      "id": "tv_137",
+      "text": "L.A. Law ganhou o Emmy de melhor série dramática quatro vezes e é apontada como responsável por lançar uma onda de dramas jurídicos.",
+      "system": "tvshows",
+      "rom": "la_law"
+    },
+    {
+      "id": "tv_138",
+      "text": "L.A. Law abordava em suas tramas temas então controversos, incluindo AIDS, assédio sexual e discriminação racial.",
+      "system": "tvshows",
+      "rom": "la_law"
+    },
+    {
+      "id": "tv_139",
+      "text": "thirtysomething usava propositalmente um título todo em letras minúsculas para evocar o tom informal e coloquial que o seriado buscava.",
+      "system": "tvshows",
+      "rom": "thirtysomething"
+    },
+    {
+      "id": "tv_140",
+      "text": "thirtysomething foi inovadora por retratar baby boomers lidando com ansiedades comuns da vida adulta de classe média, em vez de crises dramáticas exageradas.",
+      "system": "tvshows",
+      "rom": "thirtysomething"
+    },
+    {
+      "id": "tv_141",
+      "text": "Tour of Duty foi uma das primeiras séries de TV americanas a ter a Guerra do Vietnã como cenário principal.",
+      "system": "tvshows",
+      "rom": "tour_of_duty"
+    },
+    {
+      "id": "tv_142",
+      "text": "China Beach retratava a Guerra do Vietnã pela perspectiva de enfermeiras militares e mulheres — um ângulo praticamente inexplorado nas produções anteriores sobre o tema.",
+      "system": "tvshows",
+      "rom": "china_beach"
+    },
+    {
+      "id": "tv_143",
+      "text": "Northern Exposure, que estreou em 1990, usava locações reais em Roslyn, no estado de Washington, para retratar a cidade fictícia do Alasca chamada Cicely.",
+      "system": "tvshows",
+      "rom": "northern_exposure"
+    },
+    {
+      "id": "tv_144",
+      "text": "In the Heat of the Night trazia Carroll O'Connor como um chefe de polícia sulista e foi elogiada pelo tratamento sutil das relações raciais.",
+      "system": "tvshows",
+      "rom": "in_the_heat_of_the_night"
+    },
+    {
+      "id": "tv_145",
+      "text": "Spenser: For Hire era baseada nos populares romances policiais de Robert B. Parker e filmada em locações reais em Boston.",
+      "system": "tvshows",
+      "rom": "spenser_for_hire"
+    },
+    {
+      "id": "tv_146",
+      "text": "Michael Landon criou, produziu, escreveu e estrelou Highway to Heaven simultaneamente — um nível incomum de controle para um ator de TV.",
+      "system": "tvshows",
+      "rom": "highway_to_heaven"
+    },
+    {
+      "id": "tv_147",
+      "text": "Highway to Heaven trazia uma história diferente a cada semana, com Landon e Victor French como um anjo e seu companheiro humano ajudando as pessoas.",
+      "system": "tvshows",
+      "rom": "highway_to_heaven"
+    },
+    {
+      "id": "tv_148",
+      "text": "Little House on the Prairie terminou em 1983 com um episódio final em que a cidade de Walnut Grove era literalmente explodida.",
+      "system": "tvshows",
+      "rom": "little_house_on_the_prairie"
+    },
+    {
+      "id": "tv_149",
+      "text": "Mork & Mindy começou como spin-off de Happy Days depois que a participação especial de Robin Williams como Mork, de Ork, fez sucesso.",
+      "system": "tvshows",
+      "rom": "mork_and_mindy"
+    },
+    {
+      "id": "tv_150",
+      "text": "Robin Williams improvisava tão frequentemente em Mork & Mindy que os roteiros costumavam ter espaços em branco marcados como 'Mork faz alguma coisa aqui'.",
+      "system": "tvshows",
+      "rom": "mork_and_mindy"
+    },
+    {
+      "id": "tv_151",
+      "text": "A cena em que o Fonz 'pula o tubarão' em Happy Days deu origem à expressão 'jumping the shark', usada para descrever o declínio criativo de uma série.",
+      "system": "tvshows",
+      "rom": "happy_days"
+    },
+    {
+      "id": "tv_152",
+      "text": "Henry Winkler, que interpretava Fonzie, tem mestrado pela Yale School of Drama, apesar de seu papel icônico como um durão estilo 'greaser'.",
+      "system": "tvshows",
+      "rom": "happy_days"
+    },
+    {
+      "id": "tv_153",
+      "text": "Laverne & Shirley foi um spin-off de Happy Days que, em determinado momento, se tornou o programa mais assistido da televisão americana.",
+      "system": "tvshows",
+      "rom": "laverne_and_shirley"
+    },
+    {
+      "id": "tv_154",
+      "text": "Penny Marshall, que interpretava Laverne, mais tarde se tornou uma das diretoras de cinema mais bem-sucedidas de Hollywood.",
+      "system": "tvshows",
+      "rom": "laverne_and_shirley"
+    },
+    {
+      "id": "tv_155",
+      "text": "The Jeffersons ficou no ar por 11 temporadas e foi, na época do cancelamento, a sitcom majoritariamente negra de maior duração da história da TV americana.",
+      "system": "tvshows",
+      "rom": "the_jeffersons"
+    },
+    {
+      "id": "tv_156",
+      "text": "The Jeffersons foi cancelada abruptamente em 1985 — membros do elenco, segundo consta, souberam da notícia pela imprensa, e não pela própria emissora.",
+      "system": "tvshows",
+      "rom": "the_jeffersons"
+    },
+    {
+      "id": "tv_157",
+      "text": "One Day at a Time foi uma das primeiras sitcoms a mostrar regularmente uma mãe solteira divorciada como personagem principal.",
+      "system": "tvshows",
+      "rom": "one_day_at_a_time"
+    },
+    {
+      "id": "tv_158",
+      "text": "Taxi lançou simultaneamente as carreiras de Andy Kaufman, Danny DeVito e Christopher Lloyd.",
+      "system": "tvshows",
+      "rom": "taxi"
+    },
+    {
+      "id": "tv_159",
+      "text": "O personagem Latka Gravas, de Andy Kaufman em Taxi, era em grande parte improvisado e às vezes fazia os outros atores perderem a compostura na frente das câmeras.",
+      "system": "tvshows",
+      "rom": "taxi"
+    },
+    {
+      "id": "tv_160",
+      "text": "SCTV lançou simultaneamente as carreiras de John Candy, Martin Short, Catherine O'Hara, Rick Moranis e Eugene Levy.",
+      "system": "tvshows",
+      "rom": "sctv"
+    },
+    {
+      "id": "tv_161",
+      "text": "SCTV era originalmente produzida no Canadá com um orçamento apertadíssimo, o que levou a soluções criativas que tornaram o programa mais engraçado.",
+      "system": "tvshows",
+      "rom": "sctv"
+    },
+    {
+      "id": "tv_162",
+      "text": "Saturday Night Live quase não sobreviveu aos anos 80 — a NBC quase cancelou o programa depois de uma temporada desastrosa em 1980-81, com um elenco totalmente novo.",
+      "system": "tvshows",
+      "rom": "saturday_night_live"
+    },
+    {
+      "id": "tv_163",
+      "text": "Eddie Murphy entrou para o SNL aos 19 anos, em 1980, e se tornou a grande revelação do programa em um período em que ele buscava sua identidade.",
+      "system": "tvshows",
+      "rom": "saturday_night_live"
+    },
+    {
+      "id": "tv_164",
+      "text": "DuckTales estreou em 1987 e se tornou um dos desenhos animados de maior audiência da história da televisão em sindicação.",
+      "system": "tvshows",
+      "rom": "ducktales"
+    },
+    {
+      "id": "tv_165",
+      "text": "DuckTales foi baseado nos quadrinhos do Tio Patinhas de Carl Barks, e o próprio Barks foi consultado durante o desenvolvimento do desenho.",
+      "system": "tvshows",
+      "rom": "ducktales"
+    },
+    {
+      "id": "tv_166",
+      "text": "A música-tema de DuckTales é uma das aberturas de desenho animado mais reconhecidas já gravadas e foi eleita pelos fãs o tema de cartoon mais grudento.",
+      "system": "tvshows",
+      "rom": "ducktales"
+    },
+    {
+      "id": "tv_167",
+      "text": "G.I. Joe: A Real American Hero terminava cada episódio com uma mensagem de utilidade pública animada — a origem de 'Knowing is half the battle.'",
+      "system": "tvshows",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "tv_168",
+      "text": "G.I. Joe foi produzido para acompanhar o relançamento da linha de bonecos de ação da Hasbro em 1982 e usava muitos nomes de personagens diretamente vindos dos brinquedos.",
+      "system": "tvshows",
+      "rom": "gi_joe"
+    },
+    {
+      "id": "tv_169",
+      "text": "A série animada Transformers matou Optimus Prime no filme de 1986 para introduzir novos personagens ligados aos brinquedos — o que gerou uma reação bastante negativa entre as crianças.",
+      "system": "tvshows",
+      "rom": "transformers"
+    },
+    {
+      "id": "tv_170",
+      "text": "O desenho de Transformers foi produzido em parte no Japão pela Toei Animation, o que deu a alguns episódios um estilo visual visivelmente diferente.",
+      "system": "tvshows",
+      "rom": "transformers"
+    },
+    {
+      "id": "tv_171",
+      "text": "Orson Welles deu voz a Unicron no filme de Transformers de 1986 — foi uma de suas últimas atuações gravadas antes de morrer.",
+      "system": "tvshows",
+      "rom": "transformers"
+    },
+    {
+      "id": "tv_172",
+      "text": "He-Man and the Masters of the Universe estreou em 1983 como um dos primeiros desenhos animados criados principalmente para vender uma linha de brinquedos.",
+      "system": "tvshows",
+      "rom": "he_man"
+    },
+    {
+      "id": "tv_173",
+      "text": "No auge, os produtos licenciados de He-Man geravam mais de 400 milhões de dólares em receita anual, tornando-o uma das franquias de brinquedos mais lucrativas da década.",
+      "system": "tvshows",
+      "rom": "he_man"
+    },
+    {
+      "id": "tv_174",
+      "text": "She-Ra: Princess of Power foi criada em parte para dar às meninas um personagem equivalente a He-Man e expandir a linha de brinquedos Masters of the Universe.",
+      "system": "tvshows",
+      "rom": "she_ra"
+    },
+    {
+      "id": "tv_175",
+      "text": "ThunderCats foi produzido pela Rankin/Bass e animado no Japão — a música-tema e as dublagens foram todas feitas nos Estados Unidos.",
+      "system": "tvshows",
+      "rom": "thundercats"
+    },
+    {
+      "id": "tv_176",
+      "text": "Lion-O, de ThunderCats, é tecnicamente uma criança em um corpo adulto — seu envelhecimento foi acelerado porque ele passou os anos de formação em animação suspensa.",
+      "system": "tvshows",
+      "rom": "thundercats"
+    },
+    {
+      "id": "tv_177",
+      "text": "SilverHawks foi criado pela mesma equipe de ThunderCats, usava um processo de produção quase idêntico e estreou no mesmo ano.",
+      "system": "tvshows",
+      "rom": "silverhawks"
+    },
+    {
+      "id": "tv_178",
+      "text": "Voltron foi adaptado de duas séries de anime japonesas diferentes — Golion e Dairugger XV — combinadas e redubladas para o público americano.",
+      "system": "tvshows",
+      "rom": "voltron"
+    },
+    {
+      "id": "tv_179",
+      "text": "Robotech foi criado adaptando três séries de anime japonesas sem relação entre si — Macross, Southern Cross e Mospeada — em uma única história conectada.",
+      "system": "tvshows",
+      "rom": "robotech"
+    },
+    {
+      "id": "tv_180",
+      "text": "A narrativa seriada e os temas maduros de Robotech eram incomuns para um desenho animado americano em 1985 e influenciaram toda uma geração de fãs de animação.",
+      "system": "tvshows",
+      "rom": "robotech"
+    },
+    {
+      "id": "tv_181",
+      "text": "Inspector Gadget estreou em 1983 e foi uma das primeiras séries animadas a usar assistência computacional em seu processo de animação.",
+      "system": "tvshows",
+      "rom": "inspector_gadget"
+    },
+    {
+      "id": "tv_182",
+      "text": "Don Adams, que dublava Inspector Gadget, baseou o jeito desajeitado do personagem diretamente em seu personagem Maxwell Smart, de Get Smart.",
+      "system": "tvshows",
+      "rom": "inspector_gadget"
+    },
+    {
+      "id": "tv_183",
+      "text": "The Smurfs se tornou o desenho animado de sábado de manhã de maior audiência nos Estados Unidos depois de estrear na NBC em 1981.",
+      "system": "tvshows",
+      "rom": "the_smurfs"
+    },
+    {
+      "id": "tv_184",
+      "text": "A Smurfette foi originalmente criada pelo vilão Gargamel para causar caos entre os Smurfs, uma origem simplificada na versão para desenho animado.",
+      "system": "tvshows",
+      "rom": "the_smurfs"
+    },
+    {
+      "id": "tv_185",
+      "text": "Scooby-Doo passou por várias mudanças de formato durante os anos 80, incluindo a chegada de Scrappy-Doo em 1979, que dominou o início da década.",
+      "system": "tvshows",
+      "rom": "scooby_doo"
+    },
+    {
+      "id": "tv_186",
+      "text": "Jim Henson criou Fraggle Rock com o objetivo declarado de acabar com conflitos entre nações — ele acreditava que a programação infantil poderia influenciar a paz mundial.",
+      "system": "tvshows",
+      "rom": "fraggle_rock"
+    },
+    {
+      "id": "tv_187",
+      "text": "Fraggle Rock era produzido simultaneamente em vários países, com segmentos de encaixe diferentes, adaptados a cada região.",
+      "system": "tvshows",
+      "rom": "fraggle_rock"
+    },
+    {
+      "id": "tv_188",
+      "text": "The Muppet Show ficou no ar de 1976 a 1981 e foi produzido no Reino Unido porque nenhuma emissora americana quis comprá-lo a princípio.",
+      "system": "tvshows",
+      "rom": "the_muppet_show"
+    },
+    {
+      "id": "tv_189",
+      "text": "Pee-wee's Playhouse estreou em 1986 e ganhou 22 Emmy Awards ao longo de suas cinco temporadas — um recorde para um programa infantil.",
+      "system": "tvshows",
+      "rom": "pee_wees_playhouse"
+    },
+    {
+      "id": "tv_190",
+      "text": "Pee-wee's Playhouse tinha uma estética propositalmente surreal, influenciada pela direção de arte da programação infantil dos anos 50.",
+      "system": "tvshows",
+      "rom": "pee_wees_playhouse"
+    },
+    {
+      "id": "tv_191",
+      "text": "Captain Planet and the Planeteers estreou em 1990 e foi criado com o objetivo explícito de Ted Turner de fazer as crianças se importarem com questões ambientais.",
+      "system": "tvshows",
+      "rom": "captain_planet"
+    },
+    {
+      "id": "tv_192",
+      "text": "O desenho das Tartarugas Ninja estreou em 1987 como uma minissérie de cinco partes e virou uma série completa depois de uma resposta enorme do público.",
+      "system": "tvshows",
+      "rom": "teenage_mutant_ninja_turtles"
+    },
+    {
+      "id": "tv_193",
+      "text": "Os quadrinhos originais das Tartarugas Ninja, de Eastman e Laird, eram uma paródia sombria do Demolidor de Frank Miller — o desenho suavizou bastante o tom.",
+      "system": "tvshows",
+      "rom": "teenage_mutant_ninja_turtles"
+    },
+    {
+      "id": "tv_194",
+      "text": "Cada Tartaruga Ninja recebeu o nome de um artista renascentista — Leonardo, Donatello, Raphael e Michelangelo.",
+      "system": "tvshows",
+      "rom": "teenage_mutant_ninja_turtles"
+    },
+    {
+      "id": "tv_195",
+      "text": "The Real Ghostbusters recebeu o 'Real' no título para se diferenciar de uma série animada concorrente de Ghostbusters baseada em um programa live-action de 1975.",
+      "system": "tvshows",
+      "rom": "real_ghostbusters"
+    },
+    {
+      "id": "tv_196",
+      "text": "The Real Ghostbusters alterava constantemente a mitologia dos filmes, criando universos totalmente novos sobre tipos de fantasmas e contenção.",
+      "system": "tvshows",
+      "rom": "real_ghostbusters"
+    },
+    {
+      "id": "tv_197",
+      "text": "Jem and the Holograms foi produzido pela Hasbro junto com a Sunbow Entertainment, a mesma equipe por trás de G.I. Joe e Transformers.",
+      "system": "tvshows",
+      "rom": "jem"
+    },
+    {
+      "id": "tv_198",
+      "text": "Jem trazia músicas completamente originais em cada episódio — mais de 150 canções foram escritas e produzidas ao longo da série.",
+      "system": "tvshows",
+      "rom": "jem"
+    },
+    {
+      "id": "tv_199",
+      "text": "Danger Mouse era uma série animada britânica que parodiava histórias de espionagem e fez um sucesso inesperado ao ser exibida nos Estados Unidos pela Nickelodeon.",
+      "system": "tvshows",
+      "rom": "danger_mouse"
+    },
+    {
+      "id": "tv_200",
+      "text": "Double Dare estreou na Nickelodeon em 1986 e se tornou o primeiro game show original do canal, sendo pioneiro no formato de desafios físicos bagunçados para crianças.",
+      "system": "tvshows",
+      "rom": "double_dare"
+    },
+    {
+      "id": "tv_201",
+      "text": "O Battlestar Galactica original foi ao ar em 1978 pela ABC e foi criado por Glen A. Larson, inspirado em parte pelo sucesso de Star Wars, lançado no ano anterior.",
+      "system": "tvshows",
+      "rom": "battlestar_galactica"
+    },
+    {
+      "id": "tv_202",
+      "text": "O Battlestar Galactica original tinha um orçamento de produção de cerca de 1 milhão de dólares por episódio em 1978, tornando-se uma das séries de TV mais caras já produzidas até aquele momento.",
+      "system": "tvshows",
+      "rom": "battlestar_galactica"
+    },
+    {
+      "id": "tv_203",
+      "text": "A minissérie de Battlestar Galactica reimaginada foi ao ar em 2003 pelo Sci Fi Channel, desenvolvida por Ronald D. Moore, e foi elogiada por sua abordagem mais sombria e realista da série original.",
+      "system": "tvshows",
+      "rom": "battlestar_galactica"
+    },
+    {
+      "id": "tv_204",
+      "text": "No BSG reimaginado, os Cylons foram criados pelos humanos como servos robóticos antes de se rebelarem — uma origem que inverteu a série original, na qual os Cylons eram uma raça alienígena reptiliana.",
+      "system": "tvshows",
+      "rom": "battlestar_galactica"
+    },
+    {
+      "id": "tv_205",
+      "text": "Edward James Olmos como o almirante Adama e Mary McDonnell como a presidente Roslin foram amplamente reconhecidos por elevar Battlestar Galactica ao nível de um drama televisivo sério.",
+      "system": "tvshows",
+      "rom": "battlestar_galactica"
+    },
+    {
+      "id": "tv_206",
+      "text": "O Battlestar Galactica reimaginado usava um estilo de câmera na mão e evitava propositalmente reflexos de lente, dando à série um realismo estilo documentário incomum para a ficção científica na TV.",
+      "system": "tvshows",
+      "rom": "battlestar_galactica"
+    },
+    {
+      "id": "tv_207",
+      "text": "A frase 'So say we all' se tornou uma das falas recorrentes mais icônicas de Battlestar Galactica, usada como afirmação coletiva ao longo da série reimaginada.",
+      "system": "tvshows",
+      "rom": "battlestar_galactica"
+    },
+    {
+      "id": "tv_208",
+      "text": "O final da série reimaginada de Battlestar Galactica, em 2009, reuniu 2,4 milhões de telespectadores e foi visto como um encerramento marcante, embora sua resolução tenha gerado grande debate entre os fãs sobre as revelações finais.",
+      "system": "tvshows",
+      "rom": "battlestar_galactica"
+    },
+    {
+      "id": "tv_209",
+      "text": "O Battlestar Galactica original de 1978 gerou uma série de continuação de curta duração chamada Galactica 1980, que se passava na Terra e foi amplamente considerada inferior à original.",
+      "system": "tvshows",
+      "rom": "battlestar_galactica"
+    },
+    {
+      "id": "tv_210",
+      "text": "A interpretação de Katee Sackhoff para Starbuck no BSG reimaginado — mudando o personagem de homem para mulher — se tornou uma das reformulações de gênero mais celebradas da ficção científica na TV.",
+      "system": "tvshows",
+      "rom": "battlestar_galactica"
+    },
+    {
+      "id": "tv_211",
+      "text": "Knight Rider estreou na NBC em setembro de 1982, com David Hasselhoff no papel de Michael Knight, um combatente do crime que trabalhava ao lado de KITT — o Knight Industries Two Thousand — um carro falante com inteligência artificial e praticamente indestrutível.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_212",
+      "text": "O KITT, de Knight Rider, foi construído sobre o chassi de um Pontiac Trans Am 1982; a icônica luz vermelha do scanner frontal do carro — oficialmente chamada de Anamorphic Equalizer — foi inspirada no movimento ocular dos centuriões Cylon de Battlestar Galactica, ambas as séries criadas por Glen A. Larson.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_213",
+      "text": "A voz do KITT, em Knight Rider, era do ator William Daniels, que fez questão de não ser creditado durante a exibição original do seriado porque temia ficar marcado pelo papel; mais tarde, ele passou a abraçar essa associação e voltou a fazer a voz em homenagens e especiais de aniversário.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_214",
+      "text": "A equipe de produção de Knight Rider mantinha simultaneamente uma frota de mais de uma dúzia de Pontiac Trans Am — carros principais para os diálogos em close, carros de acrobacia para saltos e batidas, e uma versão especial equipada com rampa para as sequências de Turbo Boost.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_215",
+      "text": "Knight Rider foi criado por Glen A. Larson, que concebeu a série como um Lone Ranger moderno — um herói mascarado com um companheiro fiel — substituindo o cavalo por um carro de alta tecnologia. Larson também criou Battlestar Galactica, The Fall Guy e Magnum P.I.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_216",
+      "text": "Knight Rider ficou no ar por quatro temporadas, de 1982 a 1986, e transformou David Hasselhoff em uma superestrela internacional; o seriado foi especialmente popular na Alemanha, onde a fama de Hasselhoff acabou lançando uma carreira musical que ofuscou seu trabalho como ator na Europa.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_217",
+      "text": "A Pontiac registrou um aumento significativo nas vendas de Trans Am depois da estreia de Knight Rider, especialmente entre compradores mais jovens; a associação do seriado com o carro é apontada como responsável por prolongar a vida comercial do Trans Am até bem dentro dos anos 80.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_218",
+      "text": "A cúpula do KITT, em Knight Rider, na verdade não podia ser aberta por dentro durante as filmagens — Hasselhoff precisava de ajuda da equipe para sair do carro entre as tomadas, e várias cenas exigiam ângulos de câmera que escondiam o mecanismo de abertura da porta.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_219",
+      "text": "Knight Rider gerou um telefilme em 1991, outro em 2000 e uma série de retomada pela NBC em 2008, que atualizou o KITT para um Ford Mustang Shelby GT500KR com carroceria de nanotecnologia transformável — nenhum deles igualou o sucesso ou o impacto cultural do original.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    },
+    {
+      "id": "tv_220",
+      "text": "O tema de Knight Rider, composto por Stu Phillips, se tornou um dos temas de sintetizador mais reconhecíveis dos anos 80; sua linha pulsante em tom menor virou sinônimo de sofisticação tecnológica e foi amplamente imitada em videogames e outros programas de TV da época.",
+      "system": "tvshows",
+      "rom": "knight_rider"
+    }
+  ]
+}
