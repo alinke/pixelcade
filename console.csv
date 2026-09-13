@@ -162,8 +162,8 @@ nintendo-famicom-disk-system,nintendo_famicom_disk_system
 nintendo super famicom,nintendo_super_famicom
 nintendo-super-famicom,nintendo_super_famicom
 super_famicom,nintendo_super_famicom
-gameandwatch,game_and_watch
-nintendo_game_&_watch,game_&_watch
+gameandwatch,nintendo_game_and_watch
+nintendo_game_&_watch,nintendo_game_and_watch
 nintendo game boy,gb
 nintendo_game_boy,gb
 game_boy_official,gb
@@ -297,3 +297,11 @@ xbox,microsoft_xbox
 black,black
 fbneo,mame,fbneo
 megadrive,genesis
+sega_naomi_2,sega_naomi
+atari_8-bit,atari_8bit
+philips_cd-i,philips_cdi
+microsoft_msx_turbo-r,microsoft_msx_turbo_r
+casio_pv-1000,casio_pv_1000
+casio_pv-2000,casio_pv_2000
+tiger_game.com,tiger_game_com
+microsoft_msx2+,microsoft_msx2
